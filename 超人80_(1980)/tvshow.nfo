@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:45:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>超人80</title>
+  <originaltitle>ウルトラマン80</originaltitle>
+  <showtitle>超人80</showtitle>
+  <sorttitle/>
+  <year>1980</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.1</value>
+      <votes>9</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>平成前最后一部昭和系作品‌</plot>
+  <tagline/>
+  <runtime>24</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"1157","imdb":"tt0184166","wikidata":"Q307646","tvdb":"325203"}</episodeguide>
+  <id>325203</id>
+  <imdbid>tt0184166</imdbid>
+  <tmdbid>1157</tmdbid>
+  <uniqueid default="false" type="tmdb">1157</uniqueid>
+  <uniqueid default="false" type="imdb">tt0184166</uniqueid>
+  <uniqueid default="false" type="wikidata">Q307646</uniqueid>
+  <uniqueid default="true" type="tvdb">325203</uniqueid>
+  <premiered>1980-04-02</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Science Fiction</genre>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <country>日本</country>
+  <tag>monster</tag>
+  <tag>hero</tag>
+  <tag>villain</tag>
+  <tag>superhero</tag>
+  <tag>giant monster</tag>
+  <tag>kaiju</tag>
+  <tag>supervillain</tag>
+  <tag>ultraman</tag>
+  <tag>tsubaraya</tag>
+  <tag>henshin heroes</tag>
+  <tag>tokusatsu</tag>
+  <actor>
+    <name>长谷川初范</name>
+    <role>Takeshi Yamato / Ultraman 80 (voice)</role>
+    <profile>https://www.themoviedb.org/person/229504</profile>
+    <tmdbid>229504</tmdbid>
+  </actor>
+  <actor>
+    <name>石田惠理</name>
+    <role>Emi Jouno</role>
+    <profile>https://www.themoviedb.org/person/1075864</profile>
+    <tmdbid>1075864</tmdbid>
+  </actor>
+  <actor>
+    <name>中山仁</name>
+    <role>Captain Kazuki Ohyama</role>
+    <profile>https://www.themoviedb.org/person/554405</profile>
+    <tmdbid>554405</tmdbid>
+  </actor>
+  <actor>
+    <name>大门正明</name>
+    <role>Chief Junichi Itoh</role>
+    <profile>https://www.themoviedb.org/person/25464</profile>
+    <tmdbid>25464</tmdbid>
+  </actor>
+  <actor>
+    <name>萩原佐代子</name>
+    <role>Ryohko Hoshi / Yulian (voice)</role>
+    <profile>https://www.themoviedb.org/person/1750339</profile>
+    <tmdbid>1750339</tmdbid>
+  </actor>
+  <actor>
+    <name>Masashi Furuta</name>
+    <role>Shinpachiro Fujimori</role>
+    <profile>https://www.themoviedb.org/person/2057088</profile>
+    <tmdbid>2057088</tmdbid>
+  </actor>
+  <actor>
+    <name>Hachiro Okamoto</name>
+    <role>Noboru Ikeda</role>
+    <profile>https://www.themoviedb.org/person/2116839</profile>
+    <tmdbid>2116839</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-08 23:43:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

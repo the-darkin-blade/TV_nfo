@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:48:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>向着明天的飞翔</title>
+  <originaltitle>明日への飛翔</originaltitle>
+  <showtitle>梦比优斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id>554631</id>
+  <uniqueid default="false" type="tmdb">364611</uniqueid>
+  <uniqueid default="false" type="trakt">372583</uniqueid>
+  <uniqueid default="true" type="tvdb">554631</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>フジサワ博士は半永久的に超獣の侵入を阻止できる新型メテオールを開発するが、それはGUYSの基地・フェニックスネストのフライトモード時でないと扱えないものだった。そこへ超獣ベロクロンが急襲！フライトモードの運用指揮権を持つサコミズ隊長が重傷を負ってしまう。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CBC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1431</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人梅比斯_S01E26_向着明天的飞翔.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

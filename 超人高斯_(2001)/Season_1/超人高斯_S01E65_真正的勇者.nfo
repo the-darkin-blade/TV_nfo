@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:47:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>真正的勇者</title>
+  <originaltitle>第65話</originaltitle>
+  <showtitle>高斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>65</episode>
+  <id>4804264</id>
+  <uniqueid default="false" type="tmdb">1654125</uniqueid>
+  <uniqueid default="false" type="trakt">1300167</uniqueid>
+  <uniqueid default="true" type="tvdb">4804264</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>高斯终于到了极限，消失了，青年精英队到处都检测不到混沌病毒，难道真的彻底打败混沌病毒了吗？混沌黑暗飞落大地，青年精英队迅速出击，镝矢群岛消失的怪兽也出现在市区。混沌黑暗对怪兽的呼唤声有反应，发现这一点的武藏驾车赶赴现场，他不顾自身安危试图与混沌黑暗交流，感受到他的勇气，高斯奥特曼再度现身！</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人高斯_S01E65_真正的勇者.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="65" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:47:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>噩梦的实验</title>
+  <originaltitle>第32話</originaltitle>
+  <showtitle>高斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id>4804231</id>
+  <uniqueid default="false" type="tmdb">1654092</uniqueid>
+  <uniqueid default="false" type="trakt">1299056</uniqueid>
+  <uniqueid default="true" type="tvdb">4804231</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>武藏怀着复杂的情绪造访镝矢群岛，他所驾驶的泰克雷霆3号上面承载着新型强力麻醉弹睡梦，这次来的目的是要在以前保护起来的怪兽身上进行实验。就在武藏打算向池山说出来此的目的时，狂性大发的高尔美第贝塔出现了，精英队对高尔美第贝塔发射镭射网，不料却被它吸收了，它吸收能量不断强化的秘密究竟是什么？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人高斯_S01E32_噩梦的实验.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

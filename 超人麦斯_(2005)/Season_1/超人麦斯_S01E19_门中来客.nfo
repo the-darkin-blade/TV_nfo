@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:48:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>门中来客</title>
+  <originaltitle>扉より来たる者</originaltitle>
+  <showtitle>麦克斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>631481</id>
+  <uniqueid default="false" type="tmdb">236322</uniqueid>
+  <uniqueid default="false" type="trakt">245236</uniqueid>
+  <uniqueid default="true" type="tvdb">631481</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>受到屡次发生的自然灾害影响，许多遗迹被人们发现了。 
+
+接受支援请求的吉永教授，前去新月山调查遗迹。 
+
+在那里，吉永教授遇到了富冈长官的晚辈，考古学者尾崎博士。 
+
+在新月山找到了用古代文字记述的谜一样的石版。 
+
+更让人吃惊的是，石版上还描写了麦克斯奥特曼的身姿。 
+
+麦克斯也是很久以前就倒地球来了吗…… 
+
+为了运送这些文物倒巨人基地，快斗和瑞希出动了。然而当快斗目睹实物后却快喘不上气来。 
+
+是因为最近不断的恶梦就是上面描画的景象。 
+
+当快斗触及那个的瞬间，发生了变化，谜的门出现了。 
+
+从门中出现了塔拉星人。 
+
+塔拉星人绑走了瑞希，门消失了！ 
+
+为了救回瑞希，尾崎博士和DASH向那个谜逼近</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1450</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人麦斯_S01E19_门中来客.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

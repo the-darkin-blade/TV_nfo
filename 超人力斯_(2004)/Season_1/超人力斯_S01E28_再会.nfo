@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:47:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>再会</title>
+  <originaltitle>再会 ―リユニオン―</originaltitle>
+  <showtitle>奈克赛斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id>556291</id>
+  <uniqueid default="false" type="tmdb">59608</uniqueid>
+  <uniqueid default="false" type="trakt">71069</uniqueid>
+  <uniqueid default="true" type="tvdb">556291</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>怜知晓了记忆警察可以消除人们的记忆，同时记忆警察命令瑞生继续以朋友的身份监视怜。可是慢慢地，瑞生被纯粹向自己显示出好意的怜吸引了。另一方面，孤门继续搜查怜的身份，却发现了“普罗米修斯计划”。吉良说怜这个适能者超乎想象。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CBC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1414</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人力斯_S01E28_再会.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

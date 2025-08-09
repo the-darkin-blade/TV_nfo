@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:55:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>红色巨人！赛文21</title>
+  <originaltitle>赤い巨人！セブン２１</originaltitle>
+  <showtitle>奈欧斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1706790</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>地球の両極から怪獣出現！！ 　
+
+2大怪獣が東京に進路を取った！今度の敵は強力だ！ 　
+
+遂に力を合わせる時が来た、ウルトラマンネオス＆ウルトラセブン21！
+
+300万年前のダークマターの影響により生まれた怪獣が、新しく発生したダークマターによって地球の両極で蘇ってしまった！移動を始めた怪獣が目指すのは東京。暴れる怪獣は、なぜかビル風が起こるとおとなしくなる。しかし、現場でレポートするＴＶ局のアナウンサー・エリカ（鵜川　薫）が被害に有ってしまう。助けに向かうディレクターの剣持（正岡邦夫）だが、現場には近づけない。その時、もう1体の怪獣が空から飛来、2大怪獣を前にウルトラマンネオスが決戦を挑むのだが…</plot>
+  <runtime>26</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CBC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1594</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>04.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:49:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>衷心的话语</title>
+  <originaltitle>最終三部作 III 心からの言葉</originaltitle>
+  <showtitle>梦比优斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>50</episode>
+  <id>555131</id>
+  <uniqueid default="false" type="tmdb">364626</uniqueid>
+  <uniqueid default="false" type="trakt">372607</uniqueid>
+  <uniqueid default="true" type="tvdb">555131</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>エンペラ星人の光線を受け、ついにメビウスは消滅した。絶望するGUYSクルーに、ウルトラ兄弟の声が届く。彼らはエンペラ星人によって暗黒と化した太陽を復活させるべく、力を尽くしていたのだ。GUYS５人とミライの心がひとつになった時、不死鳥の勇者が誕生した―！</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CBC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1414</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人梅比斯_S01E50_衷心的话语.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="50" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

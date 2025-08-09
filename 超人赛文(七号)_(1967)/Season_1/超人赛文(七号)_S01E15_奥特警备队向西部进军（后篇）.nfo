@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:01:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>奥特警备队向西部进军（后篇）</title>
+  <originaltitle>ウルトラ警備隊西へ（後編）</originaltitle>
+  <showtitle>超人赛文(七号)</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>8017916</id>
+  <uniqueid default="false" type="tmdb">1658561</uniqueid>
+  <uniqueid default="false" type="trakt">5201852</uniqueid>
+  <uniqueid default="true" type="tvdb">8017916</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>尽管赛文不敌金古乔，他还是努力地阻止培丹星人的进攻，培丹星人暂时撤退了。团出现说培丹星人还会再次攻击的，在这之前必须研制出新型武器。土田博士加紧研究，队员则化妆监视培丹星人的行动，马丁也继续寻找真正的安德森。在海港的观光塔上，团发现了安德森模样的培丹星人，他赶上前去，培丹星人也很吃惊，她没想到警备队里有宇宙人，更没料到会是赛文奥特曼。“站在我们这一边吧，赛文。”培丹星人说，他们不能原谅人类对培丹星的侵略行为，要向人类报复。团努力向她解释人类没有侵略的意图，是个误会，那个卫星是研究用的，人类是热爱和平的。“偷看别人的家，向别人扔石头，这也是和平吗？” 培丹星人质问到。团承认地球人也有错，和培丹星人约定，地球人停止新型武器的开发，而培丹星人要释放特蕾茜·安德森。培丹星人同意了。 团回到防卫中心把事情的经过告诉大家，但是大家都不相信培丹星人的话。门外，马丁陪着真正的特蕾茜·安德森回来了，大家很高兴，土田博士也履约中止研究。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1518</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>15 奧特警備隊向西部挺進（下）.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

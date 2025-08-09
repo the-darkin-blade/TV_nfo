@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 07:07:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>男儿间的誓言</title>
+  <originaltitle>男と男の誓い</originaltitle>
+  <showtitle>雷欧奥特曼</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>4552807</id>
+  <uniqueid default="false" type="tmdb">1679872</uniqueid>
+  <uniqueid default="false" type="trakt">1313801</uniqueid>
+  <uniqueid default="true" type="tvdb">4552807</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雷欧失败后，团驾机引诱祖鲁克星人攻击电线，暂时击退了敌人。战斗结束后，百子、小通、小香、猛（=伊藤幸雄）一直在海边寻找着源，但是直到深夜也没有结果，团也对自己不能变身而深感自责，终于，他接到了来自体育俱乐部的消息：源还活着。
+
+团赶到体育馆后要把源带走，其他的人都不同意，但源还是决定跟团走。团又把他带到了山沟里，指责他不应该私自变身，并叫他练习劈开瀑布的水。而当他练习之时，祖鲁克星人再度出现了。
+
+看到祖鲁克星人的肆虐，愤怒的小通想要与它决一死战。见到了两人陷入困境的团，再次使用奥特念力赶走了祖鲁克星人。战斗结束后，意识模糊的团来到了源训练的地方，见到没能训练成功的源哭丧着脸，就又骂了他一顿，这时候祖鲁克星人又出现了，团告诉源去找流动的目标后便又去战斗了。
+
+团在地面与祖鲁克星人周旋，而源终于做到了劈开瀑布的水，便变身成为雷欧，终于击倒了祖鲁克星人。
+
+小通和小香也在百子的家里住下来了。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 07:07:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1532</durationinseconds>
+      </video>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人尼奥_S01E04_S01E04.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

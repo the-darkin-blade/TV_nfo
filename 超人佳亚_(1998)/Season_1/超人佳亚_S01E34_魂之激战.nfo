@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:55:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>魂之激战</title>
+  <originaltitle>魂の激突！</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id>553841</id>
+  <uniqueid default="false" type="tmdb">308080</uniqueid>
+  <uniqueid default="false" type="trakt">316936</uniqueid>
+  <uniqueid default="true" type="tvdb">553841</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>样貌长得像狼人一样的怪兽突然袭击市民，我梦一行立刻去救援。千钧一发之际，濑沼队长替我梦解了围。乔治林兰发现了一个奇怪光点，当我梦注意到后那光点突然消失了。究竟那奇怪光点代表了什么？它与怪兽有和关联？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>34 魂之激突.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

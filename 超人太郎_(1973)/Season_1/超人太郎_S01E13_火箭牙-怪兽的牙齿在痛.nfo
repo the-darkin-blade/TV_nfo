@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:44:43 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>火箭牙-怪兽的牙齿在痛</title>
+  <originaltitle>第13話</originaltitle>
+  <showtitle>泰罗奥特曼</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>626431</id>
+  <uniqueid default="false" type="tmdb">268227</uniqueid>
+  <uniqueid default="false" type="trakt">276920</uniqueid>
+  <uniqueid default="true" type="tvdb">626431</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在前往九州执行“海底火箭”任务的同时，住在那里的忠男的母亲也来迎接，发射火箭的光太郎把火箭不小心射入了歇尔塔牙齿里，惊醒了沉睡中的歇尔塔，九州遭受怪兽袭击，泰罗将如何拯救这个美丽的岛屿城市？忠男和他母亲又演绎了一场怎样的母子之情呢？
+
+（出场怪兽：歇尔塔）</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>13.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

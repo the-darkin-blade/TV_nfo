@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>人类标本5·6</title>
+  <originaltitle>人間標本5・6</originaltitle>
+  <showtitle>初代奥特曼</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id>118807</id>
+  <uniqueid default="false" type="tmdb">248237</uniqueid>
+  <uniqueid default="false" type="tvrage">280255</uniqueid>
+  <uniqueid default="false" type="trakt">256991</uniqueid>
+  <uniqueid default="true" type="tvdb">118807</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>正在调查奥多摩山口连续发生的巴士坠落事故的村松和井手，虽然遭遇了同样的事故，但包括2人在内，乘客全部生还。村松追赶着作为乘客之一的中央宇宙研究所的女性技术官。目的地是山顶的宇宙线研究所，那里被策划捕获标本用人类的宇宙生物达达占据。村松他们很危险！</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>Tokyo Laboratory</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1518</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>28 人類標本5.6.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

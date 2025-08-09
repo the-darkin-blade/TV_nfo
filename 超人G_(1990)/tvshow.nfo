@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:50:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>超人G</title>
+  <originaltitle>Ultraman: Towards the Future</originaltitle>
+  <showtitle>超人G</showtitle>
+  <sorttitle/>
+  <year>1990</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>5</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>与澳洲合作的特摄剧，讲述葛雷奥特曼对抗外星怪兽军团、守护地球的故事‌</plot>
+  <tagline/>
+  <runtime>25</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"18303","imdb":"tt0144072","wikidata":"Q3276126","tvdb":"75943"}</episodeguide>
+  <id>75943</id>
+  <imdbid>tt0144072</imdbid>
+  <tmdbid>18303</tmdbid>
+  <uniqueid default="false" type="tmdb">18303</uniqueid>
+  <uniqueid default="false" type="imdb">tt0144072</uniqueid>
+  <uniqueid default="false" type="wikidata">Q3276126</uniqueid>
+  <uniqueid default="true" type="tvdb">75943</uniqueid>
+  <premiered>1990-09-25</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Science Fiction</genre>
+  <studio>Syndication</studio>
+  <studio>South Australian Film Corporation</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>New World International</studio>
+  <studio>Sachs Family Entertainment</studio>
+  <studio>Bandai Visual</studio>
+  <country>澳大利亚</country>
+  <country>日本</country>
+  <tag>monster</tag>
+  <tag>hero</tag>
+  <tag>villain</tag>
+  <tag>superhero</tag>
+  <tag>giant monster</tag>
+  <tag>kaiju</tag>
+  <tag>supervillain</tag>
+  <tag>ultraman</tag>
+  <tag>henshin heroes</tag>
+  <tag>tokusatsu</tag>
+  <tag>australian</tag>
+  <actor>
+    <name>多尔·克劳斯</name>
+    <role>Jack Shindo / Ultraman</role>
+    <profile>https://www.themoviedb.org/person/1678103</profile>
+    <tmdbid>1678103</tmdbid>
+  </actor>
+  <actor>
+    <name>吉娅·卡里德斯</name>
+    <role>Jean Echo</role>
+    <profile>https://www.themoviedb.org/person/14226</profile>
+    <tmdbid>14226</tmdbid>
+  </actor>
+  <actor>
+    <name>拉尔夫·科特里尔</name>
+    <role>Captain Arthur Grant</role>
+    <profile>https://www.themoviedb.org/person/97331</profile>
+    <tmdbid>97331</tmdbid>
+  </actor>
+  <actor>
+    <name>马修·奥沙利文</name>
+    <role>Ultraman (voice)</role>
+    <profile>https://www.themoviedb.org/person/2267356</profile>
+    <tmdbid>2267356</tmdbid>
+  </actor>
+  <actor>
+    <name>约翰·邦尼</name>
+    <role>Narrator</role>
+    <profile>https://www.themoviedb.org/person/78941</profile>
+    <tmdbid>78941</tmdbid>
+  </actor>
+  <actor>
+    <name>David Grybowski</name>
+    <role>Ike</role>
+    <profile>https://www.themoviedb.org/person/2267354</profile>
+    <tmdbid>2267354</tmdbid>
+  </actor>
+  <actor>
+    <name>劳埃德·莫里斯</name>
+    <role>Charles Morgan</role>
+    <profile>https://www.themoviedb.org/person/1678104</profile>
+    <tmdbid>1678104</tmdbid>
+  </actor>
+  <actor>
+    <name>Grace Parr</name>
+    <role>Kim Shaomin</role>
+    <profile>https://www.themoviedb.org/person/1678105</profile>
+    <tmdbid>1678105</tmdbid>
+  </actor>
+  <actor>
+    <name>杰伊·哈克特</name>
+    <role>Stanley Haggard</role>
+    <profile>https://www.themoviedb.org/person/1192344</profile>
+    <tmdbid>1192344</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-08 23:43:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:46:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>打倒卡欧斯的力量</title>
+  <originaltitle>第26話</originaltitle>
+  <showtitle>高斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id>4804225</id>
+  <uniqueid default="false" type="tmdb">1654086</uniqueid>
+  <uniqueid default="false" type="trakt">1298857</uniqueid>
+  <uniqueid default="true" type="tvdb">4804225</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>混沌病毒开始对人类产生兴趣，从目睹怪光的人纷纷失踪的神秘事件中，青年精英队感觉到了混沌病毒的阴影。一户住在关东北部小镇上狩野家的人也被卷入了这起事件中，为了拯救被卷入事件的父子，武藏拼命地进行调查。完成实体化的混沌病毒伊布利斯出现，让高斯高特曼面临危机。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人高斯_S01E26_打倒卡欧斯的力量.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:44:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>怪兽军团（上) -贝蒙斯坦复活</title>
+  <originaltitle>第29話</originaltitle>
+  <showtitle>泰罗奥特曼</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id>626591</id>
+  <uniqueid default="false" type="tmdb">268250</uniqueid>
+  <uniqueid default="false" type="trakt">276936</uniqueid>
+  <uniqueid default="true" type="tvdb">626591</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>闪亮的银河里，像浮游一样的怪异形状物，可怕的怪兽贝蒙斯坦，在憎恨中燃烧的亚波人的复仇，地球要灭亡了吗？光太郎的徽章闪烁着，泰罗对贝蒙斯坦的大格斗！
+
+（出场怪兽：改造型巨大亚波人 改造型贝蒙斯坦）</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>29.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

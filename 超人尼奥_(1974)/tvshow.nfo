@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 07:35:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>超人尼奥</title>
+  <originaltitle>ウルトラマンレオ</originaltitle>
+  <showtitle>超人尼奥</showtitle>
+  <sorttitle/>
+  <year>1974</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>7.8</value>
+      <votes>13</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>出身狮子座L77星云，剧情风格偏成人化‌</plot>
+  <tagline/>
+  <runtime>25</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"5157","imdb":"tt1137351","wikidata":"Q2704139","tvdb":"446109"}</episodeguide>
+  <id>446109</id>
+  <imdbid>tt1137351</imdbid>
+  <tmdbid>5157</tmdbid>
+  <uniqueid default="false" type="tmdb">5157</uniqueid>
+  <uniqueid default="false" type="imdb">tt1137351</uniqueid>
+  <uniqueid default="false" type="wikidata">Q2704139</uniqueid>
+  <uniqueid default="true" type="tvdb">446109</uniqueid>
+  <premiered>1974-04-12</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Science Fiction</genre>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <country>日本</country>
+  <tag>japan</tag>
+  <tag>monster</tag>
+  <tag>hero</tag>
+  <tag>villain</tag>
+  <tag>superhero</tag>
+  <tag>extraterrestrial</tag>
+  <tag>giant monster</tag>
+  <tag>extraterrestrial life form</tag>
+  <tag>kaiju</tag>
+  <tag>giant</tag>
+  <tag>supervillain</tag>
+  <tag>extraterrestrial life</tag>
+  <tag>ultraman</tag>
+  <tag>henshin heroes</tag>
+  <tag>tokusatsu</tag>
+  <actor>
+    <name>真夏龙</name>
+    <role>Gen Ôtori / Ultraman Leo</role>
+    <profile>https://www.themoviedb.org/person/1929495</profile>
+    <tmdbid>1929495</tmdbid>
+  </actor>
+  <actor>
+    <name>森次晃嗣</name>
+    <role>Dan Moroboshi / Ultraseven</role>
+    <profile>https://www.themoviedb.org/person/110655</profile>
+    <tmdbid>110655</tmdbid>
+  </actor>
+  <actor>
+    <name>Keiko Yamada</name>
+    <role>Momoko Yamaguchi</role>
+    <profile>https://www.themoviedb.org/person/1959101</profile>
+    <tmdbid>1959101</tmdbid>
+  </actor>
+  <actor>
+    <name>富永美伊奈</name>
+    <role>Kaoru Umeda</role>
+    <profile>https://www.themoviedb.org/person/623</profile>
+    <tmdbid>623</tmdbid>
+  </actor>
+  <actor>
+    <name>藤木悠</name>
+    <role>Seiji Omura</role>
+    <profile>https://www.themoviedb.org/person/144797</profile>
+    <tmdbid>144797</tmdbid>
+  </actor>
+  <actor>
+    <name>瑳川哲朗</name>
+    <role>Narrator</role>
+    <profile>https://www.themoviedb.org/person/82509</profile>
+    <tmdbid>82509</tmdbid>
+  </actor>
+  <actor>
+    <name>伊藤幸雄</name>
+    <role>Takeshi Nomura</role>
+    <profile>https://www.themoviedb.org/person/1151297</profile>
+    <tmdbid>1151297</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-08 23:43:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:53:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>归来的男人！</title>
+  <originaltitle>帰ってきた男！</originaltitle>
+  <showtitle>泽塔奥特曼</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>7852528</id>
+  <uniqueid default="false" type="tmdb">2355841</uniqueid>
+  <uniqueid default="false" type="trakt">4342752</uniqueid>
+  <uniqueid default="true" type="tvdb">7852528</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>那个男人回到地球了！他的名字叫朝仓陆。没错，他是变身成捷德奥特曼的青年。
+
+但是，来到地球的不只是他。曾经折磨过捷德的最终裁决者吉尔巴里斯也再次来到地球上！
+
+面对前所未有的危机，我们的两大英雄挺身而出！绝对不要错过那个英姿！</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>YouTube</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>dentsu</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>06 - 歸來的男人！.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

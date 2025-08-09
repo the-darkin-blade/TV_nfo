@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:46:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>来自天空的礼物</title>
+  <originaltitle>第7話</originaltitle>
+  <showtitle>高斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>4804206</id>
+  <uniqueid default="false" type="tmdb">1654051</uniqueid>
+  <uniqueid default="false" type="trakt">1298401</uniqueid>
+  <uniqueid default="true" type="tvdb">4804206</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>三颗流星划过天际，从遥远的宇宙降落到地球上。青年精英队接到报告后前去调查，带回来一只箱子。与此同时，小学生聪介发现了陨石，并将其带回了家，被父母发现后将陨石带去了儿童中心。土井垣打开箱子后发现了上面的字，队长命令他停止工作，但为时已晚。小怪兽米宁从其中一颗陨石里蹦出，成为了孩子欢迎的红人，同时和米宁想像的大怪兽加莫兰也出现了。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人高斯_S01E07_来自天空的礼物.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

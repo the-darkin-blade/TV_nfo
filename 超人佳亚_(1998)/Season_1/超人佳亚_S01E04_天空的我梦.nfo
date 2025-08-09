@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>天空的我梦</title>
+  <originaltitle>天空の我夢</originaltitle>
+  <showtitle>盖亚奥特曼</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>553541</id>
+  <uniqueid default="false" type="tmdb">308050</uniqueid>
+  <uniqueid default="false" type="trakt">316906</uniqueid>
+  <uniqueid default="true" type="tvdb">553541</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>临海的都市中心区瞬间化为沙漠，伤亡惨重。我梦分析可能是城市在分子层产生了崩坏现象。XIG立即出动调查。造成破坏的原来是怪兽作祟。面对能把城市化为沙漠的怪兽，和平号该如何作战？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1468</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>04 天空之我蘿.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

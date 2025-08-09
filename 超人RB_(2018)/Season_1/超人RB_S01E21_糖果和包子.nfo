@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 06:42:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>糖果和包子</title>
+  <originaltitle>あめ玉とおまんじゅう</originaltitle>
+  <showtitle>罗布奥特曼</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id>6878357</id>
+  <uniqueid default="false" type="tmdb">1726585</uniqueid>
+  <uniqueid default="false" type="trakt">3210905</uniqueid>
+  <uniqueid default="true" type="tvdb">6878357</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>罗索使用反射盾加上布鲁的大地裂崩，勉强与美剑打了平手。在战争刚结束的前一刻，美剑就来到了店铺中送来了绫香市包子。由于凑兄弟执意不肯与美剑战斗，美剑索性说出了凑澪消失的真正原因并且再次变身为豪烈暴兽，逼迫兄弟俩变身与其战斗，美剑甚至在战斗中透露了自己的计划。兄弟俩渐渐陷入绝境，朝阳突然站出来挡在了两人面前，此时凑活海终于意识到自己的真正使命是什么，终于罗布奥特曼登场打败了美剑莎姬。这时心理崩溃的美剑跑向了地下室，三兄妹也跟了上去。一瞬间三个回旋闪光发生了感应，消失的妈妈凑澪从天而降。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 06:41:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1477</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人RB_S01E21_糖果和包子.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 06:42:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>群星的记忆</title>
+  <originaltitle>星屑の記憶</originaltitle>
+  <showtitle>罗布奥特曼</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>6878354</id>
+  <uniqueid default="false" type="tmdb">1726584</uniqueid>
+  <uniqueid default="false" type="trakt">3210903</uniqueid>
+  <uniqueid default="true" type="tvdb">6878354</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>美剑沙姬回忆自己在熊熊烈火中哭泣悲伤，原来她的真实身份是初代罗布的亲生妹妹。回旋闪光抢走之后兄弟两人又展开了争执，于是朝阳把上一集出现的简笔画剧情神还原了。美剑希望通过三个回旋闪光的力量把格鲁赛特实体化，然后献祭地球。但惊醒哥莫拉，关键时刻变身器得到了感应承认了兄弟两人的奥特曼身份，美剑不明白为何变身器会选择这两人而变成了古兰特王秒杀莫拉，她想毁灭地球一起跟着她的哥哥陪葬。罗布兄弟因为美剑的原因无法变成终极形态，所以两人对抗古兰特王也毫无胜算。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 06:41:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1477</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人RB_S01E20_群星的记忆.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

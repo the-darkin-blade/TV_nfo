@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:44:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>怪兽军团（下） -反击！怪兽军团</title>
+  <originaltitle>第30話</originaltitle>
+  <showtitle>泰罗奥特曼</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id>626601</id>
+  <uniqueid default="false" type="tmdb">268252</uniqueid>
+  <uniqueid default="false" type="trakt">276937</uniqueid>
+  <uniqueid default="true" type="tvdb">626601</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>被贝蒙斯坦将要打倒的泰罗，汲取以前的教训，消失在了战场上。老师为了纠正孩子们的思想，向怪兽贝蒙斯坦挑战。泰罗再次出现，救出老师，这让老师改变了自己对泰罗的看法，这次TARO能成功打倒怪兽吗？
+
+（出场怪兽：改造型巨大亚波人 改造型贝蒙斯坦 改造型仙人掌超兽萨博坦达 改造型导弹超兽贝劳克恩）</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>30.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

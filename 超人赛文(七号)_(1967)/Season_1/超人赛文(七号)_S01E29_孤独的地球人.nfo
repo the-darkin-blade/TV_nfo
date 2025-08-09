@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:01:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>孤独的地球人</title>
+  <originaltitle>ひとりぼっちの地球人</originaltitle>
+  <showtitle>超人赛文(七号)</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id>8017933</id>
+  <uniqueid default="false" type="tmdb">1658578</uniqueid>
+  <uniqueid default="false" type="trakt">5201866</uniqueid>
+  <uniqueid default="true" type="tvdb">8017933</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>京南大学物理系独立发射了一颗人造卫星，作为一所普通的私立大学有这样的能力，立刻引起了多方的关注。作战室里，索加拿着报道杂志不停地念叨，安奴当场就戳穿了他：“南木棱子小姐，京南大学英语系二年级，未来的索加夫人。”索加不好意思地笑了，但他还是兴奋地给这个看那个瞧的，天成泼了他一头冷水：“司令部正在调查。”“南木棱子小姐？”“笨蛋，是人造卫星。”果然，团拿着所有的调查资料走进司令室，“所有的有关资料都是假的。”为了进一步调查，队长派索加前去京南大学。索加从棱子那里了解到主持发射人造卫星的是教授，而且高中时代的学长一宫现在已成为了教授的助手。索加请棱子帮忙，把一宫引到外面去，校门外有警备队的车，团正等在那儿，棱子答应了。棱子借口有关教授的事请一宫上了她的车，一路向外开去。车上，棱子说起在奥特警备队工作的未婚夫索加想见见他，车就在校门外，一宫猛的抢过方向盘，踩下油门飞快开了出去。团一见不好，连忙驾车追赶。一宫开车来到一出墓地，棱子有些害怕，她还是告诉一宫：“教授有可能是宇宙人。”一宫问到：“是宇宙人又怎么样？我的发明地球人不承认，可宇宙人承认了它。”</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1503</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>29 孤獨的地球人.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

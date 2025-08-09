@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>龙之都</title>
+  <originaltitle>龍の都</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>553611</id>
+  <uniqueid default="false" type="tmdb">308057</uniqueid>
+  <uniqueid default="false" type="trakt">316913</uniqueid>
+  <uniqueid default="true" type="tvdb">553611</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>为调查东京供水不足原因，记者们陆续进行调查。原来不止供水不足，电力、煤气、电话，东京的所有基本生活设施都莫名出现故障。就在同时，我梦却被海格力斯队拉去当苦力。记者们为调查东京事故原因请来了风水师小惠小姐，究竟东京出了什么问题呢？风水师又会如何解释这一奇怪现象呢？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1468</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>11 能之都.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

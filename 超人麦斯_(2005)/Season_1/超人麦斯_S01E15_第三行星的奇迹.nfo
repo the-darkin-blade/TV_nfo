@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:48:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第三行星的奇迹</title>
+  <originaltitle>第三番惑星の奇跡</originaltitle>
+  <showtitle>麦克斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>631441</id>
+  <uniqueid default="false" type="tmdb">236317</uniqueid>
+  <uniqueid default="false" type="trakt">245232</uniqueid>
+  <uniqueid default="true" type="tvdb">631441</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>非常喜欢画画的少女阿柯不幸失明了。 
+
+受到瑞希“即使看不见，只听得见能够成为音乐家”的鼓励，决定开始主攻长笛。 
+
+那个时候，艾莉发来了不明物体坠落的消息。 
+
+现场竟然有直径数十米，像细叶冬青一样的物体。 
+
+遭到焚烧后发生了没有预料的危险，不明物体喷出了火焰。 
+
+这个称为“叶腐”的物体在吸收了攻击后，作出了相同的可怕反击。 
+
+遭到攻击而变强大的叶腐，反过来开始攻击DASH。 
+
+瑞希为了阿柯的长笛演出而拼死守卫。 
+
+瑞希指引众人为躲开叶腐而穿越礼堂。 
+
+可是一人的力量终究有限，瑞希陷入了危难。 
+
+那个时候，麦克斯奥特曼登场了！ 
+
+麦克斯发射了马库修姆光线，可是接下来，叶腐竟然向麦克斯还击了马库修姆光线！ 
+
+叶腐连麦克斯的攻击也全部返还了回去！</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1450</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人麦斯_S01E15_第三行星的奇迹.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

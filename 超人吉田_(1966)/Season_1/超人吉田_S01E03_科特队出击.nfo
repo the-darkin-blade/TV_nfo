@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>科特队出击</title>
+  <originaltitle>科特隊出撃せよ</originaltitle>
+  <showtitle>初代奥特曼</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>118782</id>
+  <uniqueid default="false" type="tmdb">248241</uniqueid>
+  <uniqueid default="false" type="tvrage">280230</uniqueid>
+  <uniqueid default="false" type="trakt">256966</uniqueid>
+  <uniqueid default="true" type="tvdb">118782</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>为了调查伊豆的古井传来令人毛骨悚然的声音，富士明子队员和少年星野来到了当地。同时，在井附近的水力发电站和输电站，发生了袭击事件。不见身影的袭击者的真面目竟然是透明怪兽内隆嘎。吃电的内隆嘎下一次袭击的地方是？</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>Tokyo Laboratory</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1519</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>03 科特隊快出擊.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

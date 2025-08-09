@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>野兽包围网</title>
+  <originaltitle>野獣包囲網</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>553621</id>
+  <uniqueid default="false" type="tmdb">308058</uniqueid>
+  <uniqueid default="false" type="trakt">316914</uniqueid>
+  <uniqueid default="true" type="tvdb">553621</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>179N6地区有市民遭到怪兽袭击，XIG立刻派闪电队出动调查。令人费解的是总部并没有安排战斗机出动，原来怪兽是在地面行动的。闪电队决定用麻醉弹对抗怪兽，不料怪兽行动迅速，弹跳力惊人，瞬间就逃得无影无踪。怪兽动作敏捷，闪电队将如何制服怪兽呢？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1468</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>12 野歇包面綢.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>提线木偶之夜</title>
+  <originaltitle>マリオネットの夜</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>553631</id>
+  <uniqueid default="false" type="tmdb">308059</uniqueid>
+  <uniqueid default="false" type="trakt">316915</uniqueid>
+  <uniqueid default="true" type="tvdb">553631</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在城岩温泉乡度假的少女接到了未知电话，之后东京的建筑物就遭到了不明袭击。市民接受采访时说道好像有人入侵了自己的大脑，XIG就此展开调查。原来怪兽不止会袭击城市，还可以袭击人类的大脑。面对怪兽无形的威胁，XIG将如何保护人类的精神安全？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1468</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>13 提鎳木偶之夜.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

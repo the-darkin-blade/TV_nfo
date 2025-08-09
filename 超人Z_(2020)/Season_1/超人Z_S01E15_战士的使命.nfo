@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:53:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>战士的使命</title>
+  <originaltitle>戦士の使命</originaltitle>
+  <showtitle>泽塔奥特曼</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>8002341</id>
+  <uniqueid default="false" type="tmdb">2443907</uniqueid>
+  <uniqueid default="false" type="trakt">4541433</uniqueid>
+  <uniqueid default="true" type="tvdb">8002341</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>捷德奥特曼发来紧急联络！
+
+宇宙中产生了变形，好像会出现虚空怪兽格理扎。
+
+面对这种威胁，需要新的力量！
+
+是的，就是现在诞生了泽塔奥特曼最强的形态！</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>YouTube</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>dentsu</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>15 - 戰士的使命.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

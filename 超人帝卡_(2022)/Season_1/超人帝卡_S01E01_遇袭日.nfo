@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:53:40 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>遇袭日</title>
+  <originaltitle>襲来の日</originaltitle>
+  <showtitle>德凯奥特曼</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3408606</uniqueid>
+  <uniqueid default="false" type="trakt">6515573</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在特利迦奥特曼成功拯救了地球的数年后，人类将目光转向了宇宙。就在这时，神秘球体斯菲亚来袭!开始向地球进击。煎饼店的明日见奏大，面对眼前的惨状，下定决心保护人们的时候，被光芒包围! !然后出现的身姿，是新的奥特曼!?</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>TV Aichi</studio>
+  <studio>TVQ</studio>
+  <studio>TV Osaka</studio>
+  <studio>TVh</studio>
+  <studio>TSC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>01 - 遇襲日.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

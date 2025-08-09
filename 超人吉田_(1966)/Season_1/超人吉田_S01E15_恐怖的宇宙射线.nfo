@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>恐怖的宇宙射线</title>
+  <originaltitle>恐怖の宇宙線</originaltitle>
+  <showtitle>初代奥特曼</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>118794</id>
+  <uniqueid default="false" type="tmdb">248251</uniqueid>
+  <uniqueid default="false" type="tvrage">280242</uniqueid>
+  <uniqueid default="false" type="trakt">256978</uniqueid>
+  <uniqueid default="true" type="tvdb">118794</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小学生小蛀牙画了一幅类似《白蝌蚪》的怪兽加巴顿的画，引起同学们的大笑。小蛀牙觉得画够大的话，看起来应该会不错，就在资材放置场的土管上画了只很大的加巴顿。第二天早上，竟然出现了巨大的加巴顿！特殊的宇宙线和太阳光线融合，让小蛀牙的画实体化了！</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>Tokyo Laboratory</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1518</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>15 恐怖的宇宙射線.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

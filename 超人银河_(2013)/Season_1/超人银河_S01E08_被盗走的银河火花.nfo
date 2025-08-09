@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 09:03:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>被盗走的银河火花</title>
+  <originaltitle>奪われたギンガスパーク</originaltitle>
+  <showtitle>银河奥特曼</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="false" type="tmdb">1556645</uniqueid>
+  <uniqueid default="true" type="imdb">tt3385964</uniqueid>
+  <uniqueid default="false" type="trakt">5424481</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>美铃的父亲石动诚一郎、开发部部长黑木友 美、建筑设计师桑原出现，他们来是商量拆除学校一事。由于同样被困学校，所有人唯有在学校过夜。  睡梦中，桑原偷走了银河火花。次日，桑原把银河火花交给了灰色纳克尔星人。灰色纳克尔星人却没有履行承诺放走桑原，反使他黑暗实体化为扎拉加斯。  美铃向银河神社祈祷，竟获得了一个蓝色的银河火花，超实体化为雷德王迎战扎拉加斯。伙伴们为礼堂光夺回银河火花，礼堂光实体化为银河奥特曼。扎拉加斯不久就打败了雷德王，幸而最终被银河打败。此时，黑色的初代奥特曼出现了……</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:57:13</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1497</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人银河_S01E08_被盗走的银河火花.mp4</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

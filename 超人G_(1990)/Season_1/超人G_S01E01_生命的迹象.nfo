@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:50:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>生命的迹象</title>
+  <originaltitle>Signs of Life</originaltitle>
+  <showtitle>葛雷奥特曼</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>180553</id>
+  <uniqueid default="false" type="tmdb">563363</uniqueid>
+  <uniqueid default="false" type="tvrage">303808</uniqueid>
+  <uniqueid default="false" type="trakt">571486</uniqueid>
+  <uniqueid default="true" type="tvdb">180553</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>Jack Shindo and Stanley Haggard are the first men to land on Mars. Upon arriving they are met with none other than the strange alien monster Gudis. As Gudis was slowly moving towards them a giant silver humanoid by the name of Ultraman Great came to the rescue. After Gudis pushed Great aside he killed Stanley as he tried to escape in the ship as Jack was trapped by a rock slide. Great quickly got back up and used Burning Plasma to knock Gudis down. Gudis fell dead by the Burning Plasma's true power, but not before he sent a virus to Earth. To save the humans of Earth Jack had become Great's human host and went to Earth.
+
+The next day, Bogun appeared that was created by the Gudis's virus. Bogun changed his appearance from that of a tadpole to a gigantic brute rampaging through the United States. UMA was sent to destroy it, but only succeeded in annoying Bogun. It wasn't long before Jack used the Delta Plasma Pendant to turn into Ultraman Great. As the two clashed, Great seemed to have the upper hand until Bogun used poison gas. However, the ultra persevered and eventually used Burning Plasma to set Bogun on fire.</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Syndication</studio>
+  <studio>South Australian Film Corporation</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>New World International</studio>
+  <studio>Sachs Family Entertainment</studio>
+  <studio>Bandai Visual</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1473</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>01.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:55:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>海上的SOS</title>
+  <originaltitle>海からのＳＯＳ</originaltitle>
+  <showtitle>奈欧斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1706789</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>突如として海から姿を消した魚たち… 　
+
+そして現れた凶悪な怪獣シーゴリアン！！ 　
+
+警告か復讐か！？ウルトラマンネオスがその謎を暴く！！
+
+とある漁港で深刻な魚不足が発生。 同時に魚市場で巨大な怪獣を目撃したという報せが。 調査のためＨＥＡＲＴが出動するが、発見されたのは怪獣の痕跡と思われるうろこ状の物質のみ。怪獣は海から来て、陸には進まず海に戻ったという仮説を立てる。 そんな時、近くの水族館で再び怪獣が出現！一体怪獣はどこから現れたのか？ カグラ隊員は水族館の館長からこの地方に昔から有る言い伝えを聞く…</plot>
+  <runtime>26</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CBC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1594</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>03.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:50:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>地图上没有的咖啡店</title>
+  <originaltitle>地図にないカフェ</originaltitle>
+  <showtitle>欧布奥特曼</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>5877398</id>
+  <uniqueid default="false" type="tmdb">1713112</uniqueid>
+  <uniqueid default="true" type="imdb">tt6297828</uniqueid>
+  <uniqueid default="false" type="trakt">3435535</uniqueid>
+  <uniqueid default="false" type="tvdb">5877398</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>最近总会有太空垃圾掉落到地球上，一周内已经发生了很多起这样的事件，仿佛藏匿的外星人驾驶UFO大规模的逃离地球，而在残骸中发现了奇怪的咖啡豆。梦野等人对位于黑星町一丁目零番地的“黑星咖啡厅”非常感兴趣，这个地图上都找不到的咖啡店说不定可以当做头号新闻。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1466</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>22 地圖上沒有的咖啡店.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

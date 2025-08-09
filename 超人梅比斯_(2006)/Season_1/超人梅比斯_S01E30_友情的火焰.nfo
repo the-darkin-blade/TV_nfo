@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:48:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>友情的火焰</title>
+  <originaltitle>約束の炎</originaltitle>
+  <showtitle>梦比优斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id>554681</id>
+  <uniqueid default="false" type="tmdb">364659</uniqueid>
+  <uniqueid default="false" type="trakt">372587</uniqueid>
+  <uniqueid default="true" type="tvdb">554681</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>駆けつけたウルトラマンタロウがインぺライザーを退け、負傷したメビウス＝ミライは姿を消す。しかし再生したインぺライザーには、タロウ禁断の技・ウルトラダイナマイトをも通用せず、絶体絶命！GUYSに全てを明かしたミライは、命を賭けて、仲間の目前で変身する！</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CBC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1432</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人梅比斯_S01E30_友情的火焰.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

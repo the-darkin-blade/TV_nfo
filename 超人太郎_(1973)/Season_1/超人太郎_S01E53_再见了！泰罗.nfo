@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:44:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>再见了！泰罗</title>
+  <originaltitle>第53話</originaltitle>
+  <showtitle>超人太郎</showtitle>
+  <season>1</season>
+  <episode>53</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1759784</uniqueid>
+  <uniqueid default="false" type="trakt">12112302</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>建一与纱织的爸爸的船遭受怪兽袭击，这似乎是了白鸟家的一场悲剧。建一取消了对泰罗的信任，对世界恨之入骨，泰罗将怎样挽回建一的心？面对可怕而又强大的巴尔基星人，他又会怎样做呢？
+
+（出场怪兽：萨梅鲸 巴尔基星人）</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>53.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="53" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

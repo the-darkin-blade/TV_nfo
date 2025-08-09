@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>珍珠贝防卫指令</title>
+  <originaltitle>真珠貝防衛指令</originaltitle>
+  <showtitle>初代奥特曼</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>118793</id>
+  <uniqueid default="false" type="tmdb">248255</uniqueid>
+  <uniqueid default="false" type="tvrage">280241</uniqueid>
+  <uniqueid default="false" type="trakt">256977</uniqueid>
+  <uniqueid default="true" type="tvdb">118793</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在以伊势志摩为中心的地区，发生了养殖珍珠几乎全军覆没的情况。珍珠业者让幸存下来的珍珠到日本海一侧避难，这时怪兽加玛库基拉出现了。令人惊讶的是，怪兽开始用它的长舌头吃珍珠。科特队的攻击也不起作用，怪兽向着有珍珠的大城市前进！</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>Tokyo Laboratory</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1519</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>14 珍珠貝防衛指令.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

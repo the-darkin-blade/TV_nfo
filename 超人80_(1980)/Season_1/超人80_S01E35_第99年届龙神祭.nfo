@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:45:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第99年届龙神祭</title>
+  <originaltitle>第35話</originaltitle>
+  <showtitle>爱迪奥特曼</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id>6000348</id>
+  <uniqueid default="false" type="tmdb">1705352</uniqueid>
+  <uniqueid default="false" type="trakt">3617757</uniqueid>
+  <uniqueid default="true" type="tvdb">6000348</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>[35] 九十九年一度的龍神祭.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

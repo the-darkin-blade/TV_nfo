@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:44:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>超越奥特兄弟！</title>
+  <originaltitle>第40話</originaltitle>
+  <showtitle>泰罗奥特曼</showtitle>
+  <season>1</season>
+  <episode>40</episode>
+  <id>626701</id>
+  <uniqueid default="false" type="tmdb">268265</uniqueid>
+  <uniqueid default="false" type="trakt">276947</uniqueid>
+  <uniqueid default="true" type="tvdb">626701</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>经过六重改造的合体大怪兽泰兰特终于复活了，在与前面奥特五兄弟的激烈战斗中，佐菲、初代、赛文、杰克、艾斯纷纷被打败，并把他们所发出的奥特签名通通打散，只有艾斯的签名没被打散，如此厉害的怪兽，泰罗能否打败？
+
+（出场怪兽：泰兰特）</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>40.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="40" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:53:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>超人Z</title>
+  <originaltitle>ウルトラマンZゼット</originaltitle>
+  <showtitle>超人Z</showtitle>
+  <sorttitle/>
+  <year>2020</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.8</value>
+      <votes>14</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>赛罗徒弟，融合昭和与新生代元素‌</plot>
+  <tagline/>
+  <runtime>30</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"101005","imdb":"tt12038848","wikidata":"Q88638973","tvdb":"385031"}</episodeguide>
+  <id>385031</id>
+  <imdbid>tt12038848</imdbid>
+  <tmdbid>101005</tmdbid>
+  <uniqueid default="false" type="tmdb">101005</uniqueid>
+  <uniqueid default="false" type="imdb">tt12038848</uniqueid>
+  <uniqueid default="false" type="wikidata">Q88638973</uniqueid>
+  <uniqueid default="true" type="tvdb">385031</uniqueid>
+  <premiered>2020-06-20</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Science Fiction</genre>
+  <studio>TV Tokyo</studio>
+  <studio>YouTube</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>dentsu</studio>
+  <country>日本</country>
+  <tag>hero</tag>
+  <tag>villain</tag>
+  <tag>superhero</tag>
+  <tag>medal</tag>
+  <tag>kaiju</tag>
+  <tag>supervillain</tag>
+  <tag>card</tag>
+  <tag>ultraman</tag>
+  <tag>gimmick</tag>
+  <tag>henshin heroes</tag>
+  <tag>tokusatsu</tag>
+  <actor>
+    <name>平野宏周</name>
+    <role>Haruki Natsukawa</role>
+    <profile>https://www.themoviedb.org/person/2579099</profile>
+    <tmdbid>2579099</tmdbid>
+  </actor>
+  <actor>
+    <name>畠中祐</name>
+    <role>Ultraman Z (voice)</role>
+    <profile>https://www.themoviedb.org/person/1256915</profile>
+    <tmdbid>1256915</tmdbid>
+  </actor>
+  <actor>
+    <name>宫野真守</name>
+    <role>Ultraman Zero (voice)</role>
+    <profile>https://www.themoviedb.org/person/93803</profile>
+    <tmdbid>93803</tmdbid>
+  </actor>
+  <actor>
+    <name>松田里茉</name>
+    <role>Yoko Nakashima</role>
+    <profile>https://www.themoviedb.org/person/2083955</profile>
+    <tmdbid>2083955</tmdbid>
+  </actor>
+  <actor>
+    <name>桥爪淳</name>
+    <role>Kojiro Inaba</role>
+    <profile>https://www.themoviedb.org/person/554316</profile>
+    <tmdbid>554316</tmdbid>
+  </actor>
+  <actor>
+    <name>黑木光</name>
+    <role>Yuka Ohta</role>
+    <profile>https://www.themoviedb.org/person/2636730</profile>
+    <tmdbid>2636730</tmdbid>
+  </actor>
+  <actor>
+    <name>青柳尊哉</name>
+    <role>Captain Shota Hebikura</role>
+    <profile>https://www.themoviedb.org/person/1403099</profile>
+    <tmdbid>1403099</tmdbid>
+  </actor>
+  <actor>
+    <name>林カラス</name>
+    <role>Shinya Kaburagi</role>
+    <profile>https://www.themoviedb.org/person/2302958</profile>
+    <tmdbid>2302958</tmdbid>
+  </actor>
+  <actor>
+    <name>小仓久宽</name>
+    <role>Director Kuriyama</role>
+    <profile>https://www.themoviedb.org/person/1253037</profile>
+    <tmdbid>1253037</tmdbid>
+  </actor>
+  <actor>
+    <name>福原克己</name>
+    <role>STORAGE AI (Voice)</role>
+    <profile>https://www.themoviedb.org/person/2312002</profile>
+    <tmdbid>2312002</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-08 23:43:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

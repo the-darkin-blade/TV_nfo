@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 07:07:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>赛文死去之时！东京沉没！</title>
+  <originaltitle>セブンが死ぬ時！東京は沈没する！</originaltitle>
+  <showtitle>雷欧奥特曼</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>4552804</id>
+  <uniqueid default="false" type="tmdb">1679869</uniqueid>
+  <uniqueid default="false" type="trakt">1313451</uniqueid>
+  <uniqueid default="true" type="tvdb">4552804</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在城南体育俱乐部里，一个叫做凤源（=真夏龙）的青年正在训练。与此同时，奥特赛文在黑潮岛上和马格马星人、孪生怪兽战斗，却被孪生怪兽掰断了腿。危急时刻，雷欧奥特曼出现，并与奥特赛文一起击退了敌人。
+
+奥特赛文变回了人间体：MAC队长诸星团（=森次晃嗣），雷欧也变成了凤源。源告诉团，自己的故乡L77星云被马格马星人毁灭了，现在的地球是他的第二故乡。团便告诉他自己已经不能变身了，希望源能加入MAC代替他进行战斗。
+
+城南体育俱乐部的大家都为源感到高兴，源也非常享受在地球上的生活。
+
+谁知此时，孪生怪兽再次出现了。它们用巨大的海啸淹没了黑潮岛，源认定是马格马星人干的，但其他队员都不相信。
+
+源与队员们驾驶麦基一号前去调查，源用超能力感应到了怪兽的踪迹，但其他队员都没有发现。源很不满，团开导他要用人类的眼光看待事物，源却一意孤行。这时，怪兽开始袭击东京湾。
+
+源赶赴现场时大家纷纷逃离避难，源也变成了雷欧，然而，雷欧却在两大怪兽的攻击中败下阵来…</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 07:07:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1530</durationinseconds>
+      </video>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人尼奥_S01E01_S01E01.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

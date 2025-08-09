@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:01:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>寻找明天</title>
+  <originaltitle>明日を捜せ</originaltitle>
+  <showtitle>超人赛文(七号)</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>8017927</id>
+  <uniqueid default="false" type="tmdb">1658569</uniqueid>
+  <uniqueid default="false" type="trakt">5201860</uniqueid>
+  <uniqueid default="true" type="tvdb">8017927</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>一条偏僻的街道上，一个男人没命地跑着，身后一辆卡车正在追赶他。这个男人并没有做过什么坏事，为什么会有人要杀他呢？躲过了卡车的追杀，这个男人惊魂未定地走到马路中央，差点被巡逻到此的猎犬号撞到，幸好猎犬号刹车及时没有碰到他。车上下来的是桐山队长和古桥，这个男人一看是奥特警备队，连忙说：“有人要杀我，救命……丸三仓库……要爆炸……”这时先前的卡车又开回来，桐山和古桥抱着那个人扑向一边，从车上飞出一支飞标，正中那人的大腿。猎犬号马上追上去，但是等追上时却发现车上空无一人。桐山队长把那人带回基地治疗。原来那人叫安井，是靠占卜为生的。他告诉众人，丸三仓库会爆炸，队长也会受伤，所以要格外小心注意安全。他的话被古桥打断，众人表示不相信他的话。但是桐山队长却下令对丸三仓库进行全面彻底的搜查，因为丸三仓库不是普通的仓库，在仓库的地下有地球防卫军的超武器开发基地，那里是地球防卫军的动脉。全面搜查的结果仍没有发现任何异常的情况，众人纷纷埋怨安井胡说八道。安井却又说出了一个预言：有圆盘降落在富士见原。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1519</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>23 尋找明天.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

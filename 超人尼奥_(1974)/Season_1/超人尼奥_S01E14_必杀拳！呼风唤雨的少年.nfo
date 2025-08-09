@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 07:07:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>必杀拳！呼风唤雨的少年</title>
+  <originaltitle>必殺拳！ 嵐を呼ぶ少年</originaltitle>
+  <showtitle>雷欧奥特曼</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>5047524</id>
+  <uniqueid default="false" type="tmdb">1680568</uniqueid>
+  <uniqueid default="false" type="trakt">1315153</uniqueid>
+  <uniqueid default="true" type="tvdb">5047524</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雷欧和蝎子怪兽安塔雷斯战斗，后背被刺中，败下阵来。一个少年（=川代家继）来体育俱乐部踢馆子，把一群人都打倒了。团发现那个少年其实是怪兽。于是团把所有队员都叫到体育俱乐部，让他们练习空手道，并从俱乐部的人口中得知了少年的战斗方法。
+
+这时，怪兽出现了。团命令青岛、赤石（=大岛健二）留下来和源一起继续练习。MAC和安塔雷斯的战斗中伤亡惨重，但是团依然命令他们继续练习，众人都对团和源十分不满。
+
+于是源便和猛一起练习，并在练习中发现了取胜的关键。
+
+安塔雷斯少年又来踢馆了，而且指名道姓要和源战斗。源在决斗中用刚刚学到的技巧击败了少年，少年巨大化成安塔雷斯，源也变成了雷欧，击倒了安塔雷斯。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 07:07:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1530</durationinseconds>
+      </video>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人尼奥_S01E14_S01E14.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

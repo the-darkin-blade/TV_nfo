@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:47:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>不能变身</title>
+  <originaltitle>第52話</originaltitle>
+  <showtitle>高斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>52</episode>
+  <id>4804251</id>
+  <uniqueid default="false" type="tmdb">1654112</uniqueid>
+  <uniqueid default="false" type="trakt">1299741</uniqueid>
+  <uniqueid default="true" type="tvdb">4804251</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宇宙怪兽扎格尔出现在地球，青年精英队紧急出动，疏散人群时在房顶发现了女孩的身影，武藏奉命去救助，不料竟被女孩攻击，并夺走了勇气之棒。为了夺回勇气之棒，武藏到处找寻女孩，在他耐心的劝说下，女孩打开心扉，原来她跟扎格尔在返回母星的途中遭遇意外，只能暂时居住在地球。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人高斯_S01E52_不能变身.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="52" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

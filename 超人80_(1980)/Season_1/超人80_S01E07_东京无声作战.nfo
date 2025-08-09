@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:45:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>东京无声作战</title>
+  <originaltitle>第7話</originaltitle>
+  <showtitle>爱迪奥特曼</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>6000309</id>
+  <uniqueid default="false" type="tmdb">1705324</uniqueid>
+  <uniqueid default="false" type="trakt">3617616</uniqueid>
+  <uniqueid default="true" type="tvdb">6000309</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>本集对怪兽作战的准备部分大大增加了，尤其是大山队长拼命向上级说明无声作战的意义时的剧情，而且无声状态下的东京也被真实再现。不过消防车要求出动，群众要求开车，苏联大使要求飞机起飞的部违反规定的人出现（同《杰克》里的《电波》）。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>[07] 東京無聲之戰.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

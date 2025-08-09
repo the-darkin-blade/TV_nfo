@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:48:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>大地破坏序曲</title>
+  <originaltitle>地上壊滅の序曲</originaltitle>
+  <showtitle>麦克斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>38</episode>
+  <id>631271</id>
+  <uniqueid default="false" type="tmdb">236347</uniqueid>
+  <uniqueid default="false" type="trakt">245255</uniqueid>
+  <uniqueid default="true" type="tvdb">631271</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>機械獣スカウトバーサークが現れた。カイトはウルトラマンマックスに変身。しかしその瞬間光の空間にマックスが現れ、地球を去る時が迫っていることを告げる。カイトは動揺するが、難なくスカウトバーサークを倒す。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1449</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人麦斯_S01E38_大地破坏序曲.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="38" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 07:07:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>浑身是泥的男人</title>
+  <originaltitle>泥まみれ男ひとり</originaltitle>
+  <showtitle>雷欧奥特曼</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>5047521</id>
+  <uniqueid default="false" type="tmdb">1680565</uniqueid>
+  <uniqueid default="false" type="trakt">1314699</uniqueid>
+  <uniqueid default="true" type="tvdb">5047521</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在体育俱乐部，一个叫松本一郎（=大山正明）的孩子正努力练习着引体向上。
+
+街上，源在追击凯特尔星人，途中遇到了一郎的叔叔（=西山健二）。叔叔作死和凯特尔星人战斗，结果被杀死了。面对着悲伤的一郎，源告诉他自己会为他叔叔报仇的。
+
+面对伤感的源，团再一次告诉了他他的职责所在。
+
+目睹了悲伤却奋进的一郎后，源决定努力练习，打倒凯特尔星人。终于，在一郎和他婶婶（=高岛雅罗）扫墓的时候，凯特尔星人再次出现了。然而，凯特尔星人又杀死了一郎的婶婶，源也没能打败凯特尔星人。
+
+一郎一个人练习着引体向上，并指责源他们没有努力。源告诉他他自己也有和一郎一样的痛苦，并在一郎的练习中理解了打倒宇宙人的方法，开始了特训。
+
+源特训成功后，凯特尔星人再次出现。在等身体的肉搏后，凯特尔星人巨大化，源也变成了雷欧与其展开战斗，并最终击败了凯特尔星人。
+
+而一郎，则去美国找他的父亲了。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 07:07:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1530</durationinseconds>
+      </video>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人尼奥_S01E11_S01E11.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

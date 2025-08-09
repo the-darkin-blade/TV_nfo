@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 09:03:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>被封闭的世界</title>
+  <originaltitle>閉ざされた世界</originaltitle>
+  <showtitle>银河奥特曼</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="false" type="tmdb">1556643</uniqueid>
+  <uniqueid default="true" type="imdb">tt3369638</uniqueid>
+  <uniqueid default="false" type="trakt">5424480</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>继巴尔基星人之后，灰色纳克尔星人担任代理人继续活跃在星降村里。  除礼堂光外，朋友们均穿着校服登场。礼堂光有种不祥预感，决定暂时留在星降村而不回到父母身边。  学校被神秘力量封闭，众人均无法走出学校范围。黑暗伽汝贝罗斯出现。礼堂光先后实体化为布莱克王、银河奥特曼与之展开擂台战，并最终将其击败。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:57:13</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1497</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人银河_S01E07_被封闭的世界.mp4</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

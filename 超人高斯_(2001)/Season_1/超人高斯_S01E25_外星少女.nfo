@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:46:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>外星少女</title>
+  <originaltitle>第25話</originaltitle>
+  <showtitle>高斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>4804224</id>
+  <uniqueid default="false" type="tmdb">1654085</uniqueid>
+  <uniqueid default="false" type="trakt">1298823</uniqueid>
+  <uniqueid default="true" type="tvdb">4804224</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>不明飞行物飞来地球，遭到防卫军战斗机的袭击，飞行物受重创后留下斯莱约星人拉米亚后突然消失了，青年精英队和防卫军部队拼命搜索却一无所获。武藏来到特殊意料基地，要求见河野医生，询问逃生舱之事，结果发现前几天遇到的大叔竟然就是河野。苏醒后的拉米亚对河野医生讲述了令人惊奇的事实，以及机械生命体葛温杰的进攻。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人高斯_S01E25_外星少女.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

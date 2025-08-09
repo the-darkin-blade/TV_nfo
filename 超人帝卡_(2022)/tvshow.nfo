@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:53:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>超人帝卡</title>
+  <originaltitle>ウルトラマンデッカー</originaltitle>
+  <showtitle>超人帝卡</showtitle>
+  <sorttitle/>
+  <year>2022</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>7.5</value>
+      <votes>12</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>未来科技风格，强调守护与希望‌</plot>
+  <tagline/>
+  <runtime>25</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"154129","imdb":"tt18884220","wikidata":"Q111437191","tvdb":"418427"}</episodeguide>
+  <id>418427</id>
+  <imdbid>tt18884220</imdbid>
+  <tmdbid>154129</tmdbid>
+  <uniqueid default="false" type="tmdb">154129</uniqueid>
+  <uniqueid default="false" type="imdb">tt18884220</uniqueid>
+  <uniqueid default="false" type="wikidata">Q111437191</uniqueid>
+  <uniqueid default="true" type="tvdb">418427</uniqueid>
+  <premiered>2022-07-09</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <genre>Action</genre>
+  <genre>Science Fiction</genre>
+  <studio>TV Tokyo</studio>
+  <studio>TV Aichi</studio>
+  <studio>TVQ</studio>
+  <studio>TV Osaka</studio>
+  <studio>TVh</studio>
+  <studio>TSC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <country>日本</country>
+  <tag>japan</tag>
+  <tag>hero</tag>
+  <tag>villain</tag>
+  <tag>sequel</tag>
+  <tag>superhero</tag>
+  <tag>extraterrestrial</tag>
+  <tag>space</tag>
+  <tag>alien</tag>
+  <tag>giant monster</tag>
+  <tag>dinosaur</tag>
+  <tag>alien invasion</tag>
+  <tag>super power</tag>
+  <tag>reboot</tag>
+  <tag>kaiju</tag>
+  <tag>giant</tag>
+  <tag>supervillain</tag>
+  <tag>card</tag>
+  <tag>new generation</tag>
+  <tag>kyodai hero</tag>
+  <tag>ultraman</tag>
+  <tag>gimmick</tag>
+  <tag>henshin heroes</tag>
+  <tag>ultraman decker</tag>
+  <tag>tokusatsu</tag>
+  <actor>
+    <name>松本大辉</name>
+    <role>Kanata Asumi</role>
+    <profile>https://www.themoviedb.org/person/3522512</profile>
+    <tmdbid>3522512</tmdbid>
+  </actor>
+  <actor>
+    <name>村山优香</name>
+    <role>Kirino Ichika</role>
+    <profile>https://www.themoviedb.org/person/2634069</profile>
+    <tmdbid>2634069</tmdbid>
+  </actor>
+  <actor>
+    <name>Nobunaga Daichi</name>
+    <role>Ryumon Soma</role>
+    <profile>https://www.themoviedb.org/person/2976304</profile>
+    <tmdbid>2976304</tmdbid>
+  </actor>
+  <actor>
+    <name>宮澤佐江</name>
+    <role>Kaizaki Sawa</role>
+    <profile>https://www.themoviedb.org/person/1200153</profile>
+    <tmdbid>1200153</tmdbid>
+  </actor>
+  <actor>
+    <name>黄川田将也</name>
+    <role>Murahoshi Taiji</role>
+    <profile>https://www.themoviedb.org/person/120922</profile>
+    <tmdbid>120922</tmdbid>
+  </actor>
+  <actor>
+    <name>土田大</name>
+    <role>HANE2 (voice)</role>
+    <profile>https://www.themoviedb.org/person/1091989</profile>
+    <tmdbid>1091989</tmdbid>
+  </actor>
+  <actor>
+    <name>小柳友</name>
+    <role>Yuichiro Asakage/Agams</role>
+    <profile>https://www.themoviedb.org/person/85004</profile>
+    <tmdbid>85004</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-08 23:43:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

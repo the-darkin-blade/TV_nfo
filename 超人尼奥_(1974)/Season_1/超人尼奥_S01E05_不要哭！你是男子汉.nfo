@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 07:07:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>不要哭！你是男子汉</title>
+  <originaltitle>泣くな！おまえは男の子</originaltitle>
+  <showtitle>雷欧奥特曼</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>5047514</id>
+  <uniqueid default="false" type="tmdb">1679873</uniqueid>
+  <uniqueid default="false" type="trakt">1313893</uniqueid>
+  <uniqueid default="true" type="tvdb">5047514</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>这一天，体育俱乐部的全员去相模原郊游，看着其他孩子一家团聚的样子，小通非常的失落。为了安抚他，源让小通把自己当成爸爸，然而这时怪兽卡内德拉斯出现了，源只得归队战斗，小通也因此讨厌起了源。
+
+在源赶到前，卡内德拉斯就被击退了，因此源没能看到怪兽的攻击方式。于是团设计了一个机器让源进行特训。训练的时候，小通等人也在一旁练习跳马，小通因为这件事情变得非常没有干劲，源也因此陷入了迷惘。此时，团出现了，告诉他要专心练习如何破解怪兽的攻击。突然，团接到消息，怪兽再次出现，他命令源留在这里练习，其他人去避难。小通却又一遍遍地练习不肯离开。
+
+大村（=藤木悠）叫源和小通赶快走，但是没人听他。正当他准备离开的时候，源踢断了装备的一角，大村用空手入白刃接住了它。小通依然不走，源一怒之下扇了他一耳光。大村告诉小通，小香因为担心他跑了回来，小通这才离开了体育馆。
+
+小香和小通躲在了一辆车里，为了保护二人，源变成雷欧用身体挡住了卡内德拉斯的攻击。看到保护自己的雷欧的样子，小通终于想通了，而雷欧也展开了反击，用空手入白刃击败了卡内德拉斯。
+
+小通明白了坚持到底就一定能成功的道理，终于成功地完成了跳马</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 07:07:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1530</durationinseconds>
+      </video>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人尼奥_S01E05_S01E05.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

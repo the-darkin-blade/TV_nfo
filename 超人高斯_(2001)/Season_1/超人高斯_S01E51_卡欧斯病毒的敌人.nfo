@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:47:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>卡欧斯病毒的敌人</title>
+  <originaltitle>第51話</originaltitle>
+  <showtitle>高斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>51</episode>
+  <id>4804250</id>
+  <uniqueid default="false" type="tmdb">1654111</uniqueid>
+  <uniqueid default="false" type="trakt">1299726</uniqueid>
+  <uniqueid default="true" type="tvdb">4804250</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>陨石从天而降，经过探测发现这是一个名为马萨尔加斯的生命体，它体内有着能够对抗混沌病毒的特殊酵素——混沌嵌合体。为了完成捕获作战，青年精英队请求防卫军不要伤害怪兽。怪兽在混沌病毒的引诱下一步步逼近防卫军的弹药库，青年精英队虽奋力作战但仍阻止不了，西条下令发射特比地斯909，破坏了怪兽体内的混沌嵌合体，怪兽被混沌病毒附身了。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人高斯_S01E51_卡欧斯病毒的敌人.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="51" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

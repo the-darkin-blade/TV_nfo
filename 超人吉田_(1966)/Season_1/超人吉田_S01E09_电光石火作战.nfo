@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>电光石火作战</title>
+  <originaltitle>電光石火作戦</originaltitle>
+  <showtitle>初代奥特曼</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>118788</id>
+  <uniqueid default="false" type="tmdb">248250</uniqueid>
+  <uniqueid default="false" type="tvrage">280236</uniqueid>
+  <uniqueid default="false" type="trakt">256972</uniqueid>
+  <uniqueid default="true" type="tvdb">118788</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>台风13号给各地带来了巨大的损失。宇浪里町的修复工作也在继续，但那里出现了怪兽加勃拉。如果现在闹起来的话，城市会变得很糟糕。科特队想用加勃拉喜欢的铀胶囊，让它远离城镇，但加勃拉的凶猛却无休无止。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>Tokyo Laboratory</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1519</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>09 電光石火作戰.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

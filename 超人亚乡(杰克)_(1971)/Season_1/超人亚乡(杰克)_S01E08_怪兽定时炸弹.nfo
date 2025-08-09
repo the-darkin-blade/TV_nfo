@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:02:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>怪兽定时炸弹</title>
+  <originaltitle>怪獣時限爆弾</originaltitle>
+  <showtitle>杰克奥特曼</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1660096</uniqueid>
+  <uniqueid default="false" type="trakt">12112231</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>MAT队接到报告，出现了怪兽，决定用岸田新发明的导弹攻击。加藤队长派乡队员去。乡队员满怀信心地走了。接近了怪兽，怪兽突然吐出了火焰，乡就发出了导弹，射中了怪兽的尾巴。但是很奇怪，导弹并没有爆炸，怪兽逃走了，乡返回了本部。岸田坚持自己发明的导弹没有问题，通过对乡操作的录象，大家才知道：原来乡按下去的不是发射钮，而是定时钮。怪兽会在几个小时后爆炸。这次乡出击，还发现怪兽的视力不好。但是听觉很好。
+
+乡知道自己犯了错误，精神很颓唐，加藤队长在柔道训练中使乡振奋起了精神。这时，怪兽在炸弹厂出现，MAT出动。原来怪兽很喜欢炸弹厂的警报声，来到了炸弹厂。如果炸弹厂爆炸的话，那么，附近的城市将会遭到毁灭性的打击。MAT队也束手无策，没有办法制服怪兽。由于是自己的失误，乡感到十分内疚。他架车独自冲向怪兽，奥特曼出现了，但奥特曼也无能为力，因为他要保证周围城市的安全。彩色指示灯开始闪烁了，奥特曼终于想到了一个办法，他用高速旋转进入地下，在怪兽坐下的地方出现，双手托住怪兽飞向天空，怪兽离开地球后，终于爆炸了。
+
+大家很担心乡的安全，实际上乡队员安然无恙。当大家看到完好无损的乡队员时，,都很高兴。夕阳下，和乡关系最好的南队员和乡的手紧紧地握在了一起……</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1532</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>08 怪獸！定時炸彈.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

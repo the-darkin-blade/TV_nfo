@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:32 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>地上破坏工作</title>
+  <originaltitle>地上破壊工作</originaltitle>
+  <showtitle>初代奥特曼</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>118801</id>
+  <uniqueid default="false" type="tmdb">248265</uniqueid>
+  <uniqueid default="false" type="tvrage">280249</uniqueid>
+  <uniqueid default="false" type="trakt">256985</uniqueid>
+  <uniqueid default="true" type="tvdb">118801</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>被命令执行特别任务的早田，与从巴黎本部派遣来的安娜队员一起乘坐威托号出发了。在那之后，东京的大范围内发生了通信网络混乱的事件，早田等人失踪了。早田在企图进攻地面的地底人们的基地醒来。地底人策划着利用奥特曼作为自己的尖兵！</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>Tokyo Laboratory</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1518</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>22 地面破壞工作.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

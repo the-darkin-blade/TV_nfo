@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:50:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>不再逃避的内心</title>
+  <originaltitle>逃げない心</originaltitle>
+  <showtitle>欧布奥特曼</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>5313401</id>
+  <uniqueid default="false" type="tmdb">1224554</uniqueid>
+  <uniqueid default="false" type="trakt">3435400</uniqueid>
+  <uniqueid default="true" type="tvdb">5313401</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>外星人变化成女学生的摸样假装提供信息给ssp小队，得到消息后刚打完工的直美立即前往，在一个隐秘的地下室直美被外星人绑架了。外星人的目的是为了引出红凯，他打算打败红凯来名扬四方，调查过欧布奥特曼的外星人召唤出了怪兽超级芝顿死镰，重光型欧布奥尔曼的技能对它完全无效，红凯见状变身成为新的形态。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1466</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>05 不再逃避的內心.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:47:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>影</title>
+  <originaltitle>影 ―アンノウンハンド―</originaltitle>
+  <showtitle>奈克赛斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id>556371</id>
+  <uniqueid default="false" type="tmdb">59612</uniqueid>
+  <uniqueid default="false" type="trakt">71073</uniqueid>
+  <uniqueid default="true" type="tvdb">556371</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>被TLT逮捕的沟吕木逃跑了。瑞生被沟吕木作为人质藏在森林里。虽然是运用黑暗的力量操控人类直到夺走人性命的沟吕木。而瑞生却不可思议地对他萌生了信任感。
+
+孤门和西条凪紧追他们，但是把他杀了也解决不了问题。孤门这样想，抑制住了自己的愤怒的情绪，丢下了枪。这时突然在背后有子弹向沟吕木射来。向他射击的是看不见的敌人，是操纵未知的手的意外人物。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CBC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1417</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人力斯_S01E32_影.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:44:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>母子鸟-大吃一惊！怪兽从天而降</title>
+  <originaltitle>第20話</originaltitle>
+  <showtitle>泰罗奥特曼</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>626501</id>
+  <uniqueid default="false" type="tmdb">268238</uniqueid>
+  <uniqueid default="false" type="trakt">276927</uniqueid>
+  <uniqueid default="true" type="tvdb">626501</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>光太郎和建一、纱织借着假期来乡下旅游，看烟花的时候，莱依德隆的孩子被火烧伤而掉落到地球，母亲为了寻找自己的孩子而引起了一场大骚动，泰罗出场摆平事件，准备杀死鸟怪的时候，奥特之母出现。她对泰罗说了些什么？泰罗最后杀死鸟怪了吗？
+
+（出场怪兽：莱依德隆）</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>20.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

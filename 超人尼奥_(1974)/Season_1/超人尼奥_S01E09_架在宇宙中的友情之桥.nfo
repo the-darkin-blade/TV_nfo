@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 07:07:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>架在宇宙中的友情之桥</title>
+  <originaltitle>宇宙にかける友情の橋</originaltitle>
+  <showtitle>雷欧奥特曼</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>5047519</id>
+  <uniqueid default="false" type="tmdb">1679877</uniqueid>
+  <uniqueid default="false" type="trakt">1314436</uniqueid>
+  <uniqueid default="true" type="tvdb">5047519</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在游乐园的怪兽秀里，混进了一头真正的怪兽基罗。源等人要小通离开它，但小通带着它一起跑了。源开车去追他们，基罗进行了反击并巨大化，挟持了小通，源变身成雷欧战斗，打着打着基罗消失了。
+
+归队后，团再一次指责了源随意变身的行为。
+
+晚上，基罗再次出现在游乐园里，MAC的众人赶到后发现小通被基罗的催眠术操控着。MAC用计救下了小通，但是他依然沉浸在基罗创造的世界里。
+
+团告诉源，基罗的攻击方式是从触角里发射强蚀性溶液，并要源尽快进行特训。源依然十分迷惘要不要击败没有办坏事的基罗，但团要求源一心想着特训就行了。这时，小通从医院里消失了。
+
+基罗再次出现，因为手里拿着小通做人质，MAC无法攻击。源特训成功，变成了雷欧，救下了小通，并杀死了基罗。
+
+因为基罗的死，小通指责MAC。于是团让源变成雷欧，复活了基罗，并让基罗回到了宇宙。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 07:07:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1529</durationinseconds>
+      </video>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人尼奥_S01E09_S01E09.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

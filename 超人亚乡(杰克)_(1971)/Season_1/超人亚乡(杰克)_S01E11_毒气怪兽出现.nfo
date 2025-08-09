@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:02:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>毒气怪兽出现</title>
+  <originaltitle>毒ガス怪獣出現</originaltitle>
+  <showtitle>超人亚乡(杰克)</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1660099</uniqueid>
+  <uniqueid default="false" type="trakt">12112237</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>映画のロケ隊が撮影現場で遭難した。イエローガスを吸いこんだことが原因だと聞き、岸田隊員は戦慄する。それは岸田の父が開発に関わった、旧日本軍の秘密兵器だったのである。極秘裏に廃棄されたはずのイエローガスのカプセルを怪獣モグネズンが食べ、ガスを吐き出していたのだ。岸田は単身、モグネズン退治に向かう。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1531</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>11 毒氣怪獸登場.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

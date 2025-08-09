@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:52:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>超越星球的誓言</title>
+  <originaltitle>第7話</originaltitle>
+  <showtitle>艾克斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1713066</uniqueid>
+  <uniqueid default="false" type="trakt">5312843</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>瞄准了卢迪安的黄金行星的石化魔兽加高尔贡把艾克斯石化了，黄金王子辉为了艾克斯帮自己的逃跑拖延时间而被石化感到后悔莫及。魔兽要求人们投降，并交出黄金王子，在逼近地球的危机面前，Xio能复活艾克斯吗？</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1500</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>07 跨越星球的誓言.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

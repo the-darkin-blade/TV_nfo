@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:02:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>怪兽彩虹作战</title>
+  <originaltitle>怪獣レインボー作戦</originaltitle>
+  <showtitle>杰克奥特曼</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1660095</uniqueid>
+  <uniqueid default="false" type="trakt">12112229</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>这天，乡正在休假，他与女朋友秋子、次郎一起来到山里游览。秋子决定和乡照一张合影，次郎拍下了照片。大家很愉快。
+
+过了两天，次郎正在和小朋友们玩耍奥特曼战怪兽的游戏。姐姐秋子来了，她很生气地拿出了照片。原来,在乡和秋子的身后，有一只巨大的怪兽。次郎感到很怪异，姐姐却很生气。乡得知此事后，决定调查，加藤队长同意了。MAT队员来到了那座山中，发现巨大的岩石上有一道被巨大动物用爪子划过的痕迹。MAT用飞机照相，照片清出来了，乡发现有一个奇怪的影子，好象是怪兽的影子。就在此时，MAT又接到报告，几位到山里野营的青年人看到了一只巨大的眼睛，好象是怪兽的。加藤队长再次带领MAT队员们来到山里调查，终于发现了怪兽。原来怪兽有一种特殊的本领：可以更改自己皮肤的颜色。随着周围岩石颜色的变化改变自己，来达到保护自己的目的。加藤队长决定使用彩虹作战方案，就是把五彩 的颜色喷到怪兽身上，使大家能够清楚地看清怪兽。作战成功了，怪兽终于清楚了，MAT队队员开始攻击。乡被岩石压在了身下，他变成了奥特曼，和怪兽搏斗。怪兽可以口吐光弹 ，且很有力气，可以搬动巨大的岩石砸对方。奥特曼躲过了怪兽的攻击，发射了斯派修姆光线，炸死了怪兽。
+
+战斗结束了，乡队员安然无恙，大家高兴地返回本部。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1531</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>07 與幻影怪獸之戰.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

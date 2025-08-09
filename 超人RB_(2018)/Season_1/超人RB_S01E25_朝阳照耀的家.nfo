@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 06:42:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>朝阳照耀的家</title>
+  <originaltitle>朝日のあたる家</originaltitle>
+  <showtitle>罗布奥特曼</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>6931528</id>
+  <uniqueid default="false" type="tmdb">1726589</uniqueid>
+  <uniqueid default="false" type="trakt">3267984</uniqueid>
+  <uniqueid default="true" type="tvdb">6931528</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>鲁格赛特是一切灾难的源头，美剑沙姬为了对付鲁格赛特，力竭而死，怒火中烧的罗索奥特曼和布鲁奥特曼向鲁格赛特发起了进攻，凑澪在未来里看到了凑活海和凑勇海最终战死的结局，所以强制解除了凑活海和凑勇海的变身，凑澪打算将鲁格赛特彻底封印进异次元里，于是凑澪准备和怪兽同归于尽，地球末日将要来临之时，无法变身的凑活海和凑勇海还在烦恼着什么？凑活海和凑勇海以及家人的全力以赴，最终换来的是希望，还是绝望呢？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 06:41:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1456</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人RB_S01E25_朝阳照耀的家.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

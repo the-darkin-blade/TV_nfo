@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:55:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>死神的逆袭</title>
+  <originaltitle>死神の逆襲</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <season>1</season>
+  <episode>48</episode>
+  <id>553981</id>
+  <uniqueid default="false" type="tmdb">308094</uniqueid>
+  <uniqueid default="false" type="trakt">316950</uniqueid>
+  <uniqueid default="true" type="tvdb">553981</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>指挥官石室为了保护地球和盖亚奥特曼的安全，于与怪兽莫奇安同归于尽。在千钧一发之际，我梦使用超能力将石室救回地球。我梦自责不已，认为是自己使空中基地毁灭。究竟XIG能否再次集合力量，我梦能否振作起来对抗根源性灭亡体呢？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>48 死神之反擎.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="48" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

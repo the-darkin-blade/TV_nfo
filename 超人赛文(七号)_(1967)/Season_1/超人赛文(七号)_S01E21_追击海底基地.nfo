@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:01:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>追击海底基地</title>
+  <originaltitle>海底基地を追え</originaltitle>
+  <showtitle>超人赛文(七号)</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id>8017924</id>
+  <uniqueid default="false" type="tmdb">1658567</uniqueid>
+  <uniqueid default="false" type="trakt">5201858</uniqueid>
+  <uniqueid default="true" type="tvdb">8017924</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>皓月当空，北九州的海面上波光粼粼，黑潮号油轮正在海面上行驶，突然前方出现了奇怪的物体，那物体渐渐从海底浮出海面向黑潮号撞来…… 海上保安厅接到报告出动调查，同时又通知了奥特警备队请求协助。从南礁岛以北西北118公里的海面上又传来SOS，桐山命令天成驾驶奥特飞鹰前去侦察，结果是一无所获。团和安奴拜访黑潮号船长的家人回来，他们了解到，出事前船长给家里打过紧急电话，说是在海上看到类似大和号的物体。为了证实大和号的存在，奥特警备队出动海狼1号和海狼2号潜艇前去侦察。在海底，古桥和天成并没有搜查到有关大和号的任何线索，于是海狼1号和海狼2号分头寻找。不多久古桥发现一个类似海星状的圆盘，就跟踪过去，同时通知了天成。天成继续向前搜索，前方突然冒出许多水泡，天成急忙躲避，却被海星状的圆盘发出的声波控制住了，天成也昏了过去。失去了天成的消息，桐山队长亲自驾驶奥特飞鹰1号去现场调查。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1518</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>21 追擊海底基地.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

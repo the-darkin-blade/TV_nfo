@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:52:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>终极铠甲闪光之时</title>
+  <originaltitle>第5話</originaltitle>
+  <showtitle>艾克斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1713064</uniqueid>
+  <uniqueid default="false" type="trakt">5312838</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>Xio队员也开始了将怪兽化成闪光玩偶的实验。运送中的闪光玩偶受到了布莱克王的袭击！大地和艾克斯联合作战，在这场战斗空隙，纳克尔星人夺走了用于实验的火花人偶。在危机面前出现的，居然是赛罗奥特曼！ 看见形势不利的纳克尔星人，为了逃避赛罗的追捕向遥远的次元彼方逃去。艾克斯和赛罗能跨越次元拯救琉依吗？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1499</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>05 圣盾 發光之時.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:55:43 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>奈欧斯的诞生</title>
+  <originaltitle>ネオス誕生</originaltitle>
+  <showtitle>奈欧斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1706787</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>ダークマター（暗黒星間物質）漂う未知の空間を通過しようとしている地球は、これから何が起こっても不思議ではない宇宙、アンバランスゾーンを体験しようとしていた…。
+
+宇宙空間ダークマターで作業をするDJ隊員とカグラ隊員。接近するUFOに気がついたカグラは宇宙空間で作業するDJ隊員を助けようとしたところ、UFO衝突の衝撃で宇宙空間に吹っ飛ばされてしまう。その時、地球のHEART本部では、岩肌が生きているように動き崖崩れが起きた、という通報を受ける。怪獣の叫び声も聞こえるという証言でミナト隊長はフェイズ2と認めHEARTに出動命令を下す。出撃カタパルトからハートウイナーとハートワーマーが発進！隊員達が到着した阿賀鉱山に、宇宙の事故から奇跡的に助かり入院しているはずのカグラも駆けつけた。HEARTの隊員達が坑道を調査中にナナ隊員が閉じ込められてしまう。鉱山が崩れ始めるとその中から鋭角的な鉱脈をイメージする鉱脈怪獣、岩のような皮膚の「アーナガルゲ」が出現。温度の上昇と共に活発になるアーナガルゲ。ハートワーマーとハートウイナーで攻撃するHEART。アーナガルゲの背中にはハートビーターSXに乗るナナ隊員が。ナナ隊員を助ける為、ハートウイナーからスカイダイブしたカグラ。カグラにアーナゲルゲの爪が…。とその時、空に輝く「ネオス」と書かれたウルトラサインと「ネオス、ネオス、ネオス」と呼ぶ声が…。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CBC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1534</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>01.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

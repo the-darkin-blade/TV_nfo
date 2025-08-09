@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:02:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>宇宙勇士叫MAT</title>
+  <originaltitle>宇宙戦士その名はMAT</originaltitle>
+  <showtitle>超人亚乡(杰克)</showtitle>
+  <season>1</season>
+  <episode>49</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1660150</uniqueid>
+  <uniqueid default="false" type="trakt">12112299</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>郷は、ミステラー星人の元戦闘隊エースと出会う。エースは地球で静かに暮らしていたが、ミステラー星戦闘隊長はこれを見逃さず、エースの娘を捕らえ、彼をウルトラマンと戦わせようとする。戦闘隊長の目的は、星間戦争要員として、ウルトラマンとMATを利用することだった。どうする、郷秀樹!?</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1506</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>49 宇宙勇士就是MAT.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="49" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

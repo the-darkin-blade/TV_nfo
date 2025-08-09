@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 07:43:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>被封闭的游乐园</title>
+  <originaltitle>閉ざされた遊園地</originaltitle>
+  <showtitle>迪迦奥特曼</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>7783403</id>
+  <uniqueid default="false" type="tmdb">163645</uniqueid>
+  <uniqueid default="false" type="trakt">4231745</uniqueid>
+  <uniqueid default="true" type="tvdb">7783403</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>新城和妹妹真由美一起去了游乐园，在那里他们认识了遭受欺负的春树兄妹。新城教给了春树“勇气的强大”。这时突然从地底出现的怪兽嘠地开始了侵略。为了拯救妹妹，春树不顾生死尝试引诱开怪兽！</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 07:42:52</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人迪迦_爱子粤语_S01E10_S01E10.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

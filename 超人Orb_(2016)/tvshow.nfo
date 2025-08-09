@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:50:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>超人Orb</title>
+  <originaltitle>ウルトラマンオーブ</originaltitle>
+  <showtitle>超人Orb</showtitle>
+  <sorttitle/>
+  <year>2016</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.1</value>
+      <votes>14</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>史上初次依靠历代奥特曼力量而融合变身的奥特英雄。</plot>
+  <tagline/>
+  <runtime>23</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"67904","imdb":"tt5678870","wikidata":"Q23908745","tvdb":"361193"}</episodeguide>
+  <id>361193</id>
+  <imdbid>tt5678870</imdbid>
+  <tmdbid>67904</tmdbid>
+  <uniqueid default="false" type="tmdb">67904</uniqueid>
+  <uniqueid default="false" type="imdb">tt5678870</uniqueid>
+  <uniqueid default="false" type="wikidata">Q23908745</uniqueid>
+  <uniqueid default="true" type="tvdb">361193</uniqueid>
+  <premiered>2016-07-09</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Science Fiction</genre>
+  <genre>Action</genre>
+  <genre>Comedy</genre>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <country>日本</country>
+  <tag>japan</tag>
+  <tag>monster</tag>
+  <tag>hero</tag>
+  <tag>villain</tag>
+  <tag>superhero</tag>
+  <tag>extraterrestrial</tag>
+  <tag>giant monster</tag>
+  <tag>kaiju</tag>
+  <tag>giant</tag>
+  <tag>supervillain</tag>
+  <tag>card</tag>
+  <tag>ultraman</tag>
+  <tag>gimmick</tag>
+  <tag>henshin heroes</tag>
+  <tag>tokusatsu</tag>
+  <actor>
+    <name>石黑英雄</name>
+    <role>Gai Kurenai / Ultraman Orb</role>
+    <profile>https://www.themoviedb.org/person/1008384</profile>
+    <tmdbid>1008384</tmdbid>
+  </actor>
+  <actor>
+    <name>松浦雅</name>
+    <role>Naomi Yumeno</role>
+    <profile>https://www.themoviedb.org/person/1297626</profile>
+    <tmdbid>1297626</tmdbid>
+  </actor>
+  <actor>
+    <name>髙橋直人</name>
+    <role>Jetta Hayami</role>
+    <profile>https://www.themoviedb.org/person/1424347</profile>
+    <tmdbid>1424347</tmdbid>
+  </actor>
+  <actor>
+    <name>Hiroaki Nerio</name>
+    <role>Shin Matsudo</role>
+    <profile>https://www.themoviedb.org/person/1681386</profile>
+    <tmdbid>1681386</tmdbid>
+  </actor>
+  <actor>
+    <name>青柳尊哉</name>
+    <role>Jugglus Juggler</role>
+    <profile>https://www.themoviedb.org/person/1403099</profile>
+    <tmdbid>1403099</tmdbid>
+  </actor>
+  <actor>
+    <name>柳沢慎吾</name>
+    <role>Ittetsu Shibukawa</role>
+    <profile>https://www.themoviedb.org/person/1032717</profile>
+    <tmdbid>1032717</tmdbid>
+  </actor>
+  <actor>
+    <name>安元洋贵</name>
+    <role>Alien Mefilas Nostra</role>
+    <profile>https://www.themoviedb.org/person/216448</profile>
+    <tmdbid>216448</tmdbid>
+  </actor>
+  <actor>
+    <name>Vlada</name>
+    <role>Foreign girl</role>
+    <profile>https://www.themoviedb.org/person/1681388</profile>
+    <tmdbid>1681388</tmdbid>
+  </actor>
+  <actor>
+    <name>樱井孝宏</name>
+    <role>Orb Ring (voice)</role>
+    <profile>https://www.themoviedb.org/person/9705</profile>
+    <tmdbid>9705</tmdbid>
+  </actor>
+  <actor>
+    <name>金子はりい</name>
+    <role>VTL Squad Operator (voice)</role>
+    <profile>https://www.themoviedb.org/person/554187</profile>
+    <tmdbid>554187</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-08 23:43:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

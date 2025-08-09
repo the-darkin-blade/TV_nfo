@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:55:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>天使降临</title>
+  <originaltitle>天使降臨</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <season>1</season>
+  <episode>49</episode>
+  <id>553991</id>
+  <uniqueid default="false" type="tmdb">308095</uniqueid>
+  <uniqueid default="false" type="trakt">316951</uniqueid>
+  <uniqueid default="true" type="tvdb">553991</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>无数的小型怪兽从天而降，袭击了市民。XIG的研究后发现，小型怪兽也是根源性灭亡体。同时，全球各地都出现了怪异现象。地球陷入了混乱之中。XIG的战斗力被消弱很多，在人手不够的情况下，XIG该如何对抗根源性灭亡体呢？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>49 天使降隔.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="49" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

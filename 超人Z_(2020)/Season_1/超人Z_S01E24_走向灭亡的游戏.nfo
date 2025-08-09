@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:53:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>走向灭亡的游戏</title>
+  <originaltitle>滅亡への遊戯</originaltitle>
+  <showtitle>泽塔奥特曼</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id>8233039</id>
+  <uniqueid default="false" type="tmdb">2545680</uniqueid>
+  <uniqueid default="false" type="trakt">4854240</uniqueid>
+  <uniqueid default="true" type="tvdb">8233039</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>伽古拉终于向遥辉暴露了自己的真实身份。赛雷布洛也开始了最后的计划。他们各自的目的都浮上了水面，事态在朝着最糟糕的方向发展！
+
+在绝望之影悄悄靠近的时候，噩梦具现化了的最后的敌人出现了！</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>YouTube</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>dentsu</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1497</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>24 - 走向滅亡的游戲.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

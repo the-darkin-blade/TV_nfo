@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:48:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>不死鸟的营寨</title>
+  <originaltitle>不死鳥の砦</originaltitle>
+  <showtitle>梦比优斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>554391</id>
+  <uniqueid default="false" type="tmdb">364648</uniqueid>
+  <uniqueid default="false" type="trakt">372572</uniqueid>
+  <uniqueid default="true" type="tvdb">554391</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>アライソ整備長の制止を振り切って出撃したため、ガンフェニックスは故障してしまう。最新鋭機ガンブースターで出撃するリュウ。しかし絶体絶命の危機を間一髪でウルトラマンヒカリが救った！傷ついたヒカリの前に現れたのは…宇宙警備隊隊長ゾフィー！</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CBC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1432</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人梅比斯_S01E15_不死鸟的营寨.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

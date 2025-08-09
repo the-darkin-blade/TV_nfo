@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:01:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>月球上的战栗</title>
+  <originaltitle>月世界の戦慄</originaltitle>
+  <showtitle>超人赛文(七号)</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id>8017942</id>
+  <uniqueid default="false" type="tmdb">1658584</uniqueid>
+  <uniqueid default="false" type="trakt">5201872</uniqueid>
+  <uniqueid default="true" type="tvdb">8017942</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>地球防卫军的月球基地发生了不明原因的爆炸，奥特警备队和V3都接到前去调查的命令，于是桐山队长带着团坐奥特飞鹰1号出发，V3的仓田队长带着队员白猛驾驶宇宙飞鹰1号赶往月球。白猛队员随身还携带着新武器——一个小型的意念遥控装置，虽然体积很小，但是它能操纵范围在十万公里内的所有物体。两位队长在通讯器里问了好，说起他俩上一次在宇宙中一起执行任务是在三年前。那次他俩合作消灭了赞帕星人的宇宙舰队。接着他们确认了降落地点，仓田提出调查时间为2个小时，否则月球就会进入黑夜，那时温度将会降到零下180度。桐山笑着说：“谁也不喜欢零下180度的黑暗。”一旁的团心里不免咯噔了一下——“零下180度！”忽然，桐山感到有些透不过气来，团去药箱拿药。桐山点了一支烟，打火机的火苗窜出老高。氧气！桐山回头查看空气阀门，发现氧气阀门打开着，浓度已经超过警界。团连忙关闭阀门，氧气含量逐步又恢复了正常。桐山责怪团出发前不仔细检查，团则称自己是检查过的。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1503</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>35 月球上的戰栗.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

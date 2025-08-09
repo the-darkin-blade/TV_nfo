@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:01:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>暗杀赛文计划（前篇）</title>
+  <originaltitle>セブン暗殺計画（前編）</originaltitle>
+  <showtitle>超人赛文(七号)</showtitle>
+  <season>1</season>
+  <episode>39</episode>
+  <id>8017947</id>
+  <uniqueid default="false" type="tmdb">1658590</uniqueid>
+  <uniqueid default="false" type="trakt">5201876</uniqueid>
+  <uniqueid default="true" type="tvdb">8017947</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>这天，团正在巡逻途中，突然出现了怪兽阿龙，团变身为赛文很快将它消灭。但他不知道，怪兽阿龙是嘎次星人派来测试赛文奥特曼的能力的，嘎次星人不但掌握了赛文的所有资料，而且了解到赛文奥特曼其实就是奥特警备队的诸星团队员。一个嘎次星人提出直接把团杀死，但是另一个说要把赛文抓来当着地球人的面处死，这样才能迫使地球人投降。奥特警备队接连收到警报，队员们出发调查。古桥和天成去了游乐场，可是跟前几次一样一无所获，无功而返。古桥发起牢骚，一定是有人在开玩笑。安奴告诉古桥他有一个来自非洲的包裹，打开里面是一个非洲朋友寄来的稀有的非洲钻石，众人正赏玩时警报又响了。古桥怀疑又是恶作剧，但遭到桐山的训斥。团和安奴奉命出发去第三区调查。当猎犬号经过时，路边的一辆空车忽然自己开动了尾随着猎犬号，另外又有几辆空车从几个方向围住了猎犬号，安奴害怕地捂住了眼睛。“谁？”团下车查看，利用特殊透视他看到了坐在驾驶座上的嘎次星人。团让安奴先行离开去联系总部，可是安奴坚持要留下战斗，团让她回猎犬号上去，自己留下对付嘎次星人。似乎嘎次星人也想和团单独决斗，放安奴离去。团想变身但转念恐怕是陷井，于是放出乌英达姆打前战，乌英达姆不及嘎次星人的灵活，非但没打倒嘎次星人还打坏了几栋大楼，团正要收回乌英达姆，嘎次星人的射线已经把它击毁了，成为了一堆废铁。团只得回到猎犬号上，这时总部派出的飞鹰1号赶来援救，飞鹰1号从低空掠过吸附住猎犬号的车顶，把团和安奴救了出来。回到基地，团反复思考着，为什么收到警报后，别人出去都没有事件发生，而偏偏自己出去就会遇到许多事情，难道一开始就是准备好冲自己来的？雷达探测到有圆盘在全丘出现，团和索加立即赶往调查。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1502</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>39 暗殺賽文計劃（上）.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="39" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

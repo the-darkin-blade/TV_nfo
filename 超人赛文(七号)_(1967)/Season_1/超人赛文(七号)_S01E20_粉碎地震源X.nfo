@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:01:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>粉碎地震源X</title>
+  <originaltitle>地震源Xを倒せ</originaltitle>
+  <showtitle>超人赛文(七号)</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>8017923</id>
+  <uniqueid default="false" type="tmdb">1658566</uniqueid>
+  <uniqueid default="false" type="trakt">5201857</uniqueid>
+  <uniqueid default="true" type="tvdb">8017923</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在地质研究所岩村博士的办公室门口，前来接博士的团和索加被岩村博士骂得灰头土脸。离开前遇到一个青年，他是博士得助手阪木，一位年轻的科学家。 两个参加汽车拉力赛的女车手开车走错了路线，把车开进了青泽山一带的山谷。倒车时遇到了一点麻烦，于是下车查看。忽然听到类似吼叫的奇怪声响，山石随之崩落，她们吓坏了。待到平静，她们在地上找到一块漂亮的粉红色石头。 清泽山麓不断发生的地震引起奥特警备队的关注，桐山队长命令索加和团在去请岩村博士，索加说什么也不愿去，“队长的命令即使是上火海下地狱也要去执行，就是岩村博士那儿，别让我去了，让古桥去。”他指着刚进来的古桥说。古桥也是推脱：“让安奴去吧。”安奴笑脸如花，和团一起出发了。到了研究所，博士不在，又碰上了助手阪木，他抱着几个箱子正要赶去清泽山和博士会合。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1518</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>20 粉碎地震源X.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:02:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>超人亚乡(杰克)</title>
+  <originaltitle>帰ってきたウルトラマン</originaltitle>
+  <showtitle>超人亚乡(杰克)</showtitle>
+  <sorttitle/>
+  <year>1971</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.7</value>
+      <votes>15</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>最初无专属名，后因国际推广命名‌</plot>
+  <tagline/>
+  <runtime>25</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"4580","imdb":"tt0184152","wikidata":"Q592745","tvdb":"264462"}</episodeguide>
+  <id>264462</id>
+  <imdbid>tt0184152</imdbid>
+  <tmdbid>4580</tmdbid>
+  <uniqueid default="false" type="tmdb">4580</uniqueid>
+  <uniqueid default="false" type="imdb">tt0184152</uniqueid>
+  <uniqueid default="false" type="wikidata">Q592745</uniqueid>
+  <uniqueid default="true" type="tvdb">264462</uniqueid>
+  <premiered>1971-04-02</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Science Fiction</genre>
+  <genre>Drama</genre>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <country>日本</country>
+  <tag>japan</tag>
+  <tag>monster</tag>
+  <tag>hero</tag>
+  <tag>villain</tag>
+  <tag>superhero</tag>
+  <tag>extraterrestrial</tag>
+  <tag>giant monster</tag>
+  <tag>dinosaur</tag>
+  <tag>kaiju</tag>
+  <tag>giant</tag>
+  <tag>supervillain</tag>
+  <tag>ultraman</tag>
+  <tag>henshin heroes</tag>
+  <tag>tokusatsu</tag>
+  <actor>
+    <name>团时郎</name>
+    <role>Hideki Gô</role>
+    <profile>https://www.themoviedb.org/person/139373</profile>
+    <tmdbid>139373</tmdbid>
+  </actor>
+  <actor>
+    <name>冢本信夫</name>
+    <role>Captain Katsuichiro Kato</role>
+    <profile>https://www.themoviedb.org/person/1294495</profile>
+    <tmdbid>1294495</tmdbid>
+  </actor>
+  <actor>
+    <name>根上淳</name>
+    <role>Captain Ryu Ibuki</role>
+    <profile>https://www.themoviedb.org/person/553333</profile>
+    <tmdbid>553333</tmdbid>
+  </actor>
+  <actor>
+    <name>桂木美加</name>
+    <role>Yuriko Oka</role>
+    <profile>https://www.themoviedb.org/person/1983136</profile>
+    <tmdbid>1983136</tmdbid>
+  </actor>
+  <actor>
+    <name>Shunsuke Ikeda</name>
+    <role>Takeshi Minami</role>
+    <profile>https://www.themoviedb.org/person/1983124</profile>
+    <tmdbid>1983124</tmdbid>
+  </actor>
+  <actor>
+    <name>Wataru Mitsui</name>
+    <role>Ippei Ueno</role>
+    <profile>https://www.themoviedb.org/person/1983130</profile>
+    <tmdbid>1983130</tmdbid>
+  </actor>
+  <actor>
+    <name>Kazuko Iwasaki</name>
+    <role>Rumiko Maruno</role>
+    <profile>https://www.themoviedb.org/person/1983127</profile>
+    <tmdbid>1983127</tmdbid>
+  </actor>
+  <actor>
+    <name>藤田进</name>
+    <role>Fumio Kishida</role>
+    <profile>https://www.themoviedb.org/person/30907</profile>
+    <tmdbid>30907</tmdbid>
+  </actor>
+  <actor>
+    <name>谷津勋</name>
+    <role>Ultraman Jack (voice)</role>
+    <profile>https://www.themoviedb.org/person/552518</profile>
+    <tmdbid>552518</tmdbid>
+  </actor>
+  <actor>
+    <name>名古屋章</name>
+    <role>Narrator</role>
+    <profile>https://www.themoviedb.org/person/20337</profile>
+    <tmdbid>20337</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-08 23:43:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

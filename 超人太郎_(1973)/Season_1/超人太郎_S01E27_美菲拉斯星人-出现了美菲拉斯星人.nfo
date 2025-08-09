@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:44:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>美菲拉斯星人-出现了美菲拉斯星人</title>
+  <originaltitle>第27話</originaltitle>
+  <showtitle>泰罗奥特曼</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id>626571</id>
+  <uniqueid default="false" type="tmdb">268248</uniqueid>
+  <uniqueid default="false" type="trakt">276934</uniqueid>
+  <uniqueid default="true" type="tvdb">626571</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>建一所带领的棒球队用心准备第二天的棒球比赛，棒球天才“怪兽”因为打了一台饮料贩卖机（美菲拉斯星人的窝）而被怪兽袭击，腿受伤。ZAT队引诱美菲拉斯星人出来，发现美菲拉斯星人手的是可以治疗“怪兽”腿伤的曼佗罗草。面对强大的复活怪兽美菲拉斯星人，泰罗能否拿到曼佗草呢？
+
+（出场怪兽：美菲拉斯星人（第二代） 曼佗罗草）</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>27.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

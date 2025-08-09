@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:52:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>All For One</title>
+  <originaltitle>第4話</originaltitle>
+  <showtitle>艾克斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1713061</uniqueid>
+  <uniqueid default="false" type="trakt">5312834</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>凶恶宇宙人扎拉布星人为了毁灭地球而派出宇宙大怪兽贝姆斯塔。因为大地被贝姆斯塔的攻击卷入导致明日奈失去了冷静，并且因为明日奈的攻击使得艾克斯被贝姆斯塔吃掉了。至于追击札拉布星人的渡和隼人两队员则因为彼此之间的竞争心导致任务失败，让札拉布星人逃掉了。接受了神木队长关于团队合作重要性的教诲后，明日奈等人再次团结出发前往救助艾克斯！</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1499</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>04 All For One.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

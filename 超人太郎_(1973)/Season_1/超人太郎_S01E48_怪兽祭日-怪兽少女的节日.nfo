@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:44:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>怪兽祭日-怪兽少女的节日</title>
+  <originaltitle>第48話</originaltitle>
+  <showtitle>泰罗奥特曼</showtitle>
+  <season>1</season>
+  <episode>48</episode>
+  <id>626781</id>
+  <uniqueid default="false" type="tmdb">268276</uniqueid>
+  <uniqueid default="false" type="trakt">276955</uniqueid>
+  <uniqueid default="true" type="tvdb">626781</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>太郎的家中有两个姐姐，他们的家规：不管是不是女生都要过女儿节，这让太郎感到很为难。被同学　取笑而跳起热舞来。这引起了宇宙男孩们的注意。他们希望太郎能够跳舞引起酒鬼贝隆的注意，然后将贝隆带到宇宙中去，他们的计划能行吗？泰罗在这次的战斗中帮上了什么忙呢？
+
+（出场怪兽：贝隆）</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>48.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="48" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 09:04:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>赌上明天的战斗</title>
+  <originaltitle>第16話</originaltitle>
+  <showtitle>银河奥特曼S</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="false" type="tmdb">3318376</uniqueid>
+  <uniqueid default="true" type="imdb">tt4303922</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>终于到了和维克特利路基艾尔的最终决战了。每人向着大团圆为目标而进行的总力战所开启的阵容终于登场。将玛娜之名授予ONE ZERO的美玲。她向面临决战前的小光所传达的话语是...　　同时，向着因维克特利路基艾尔的威胁而受难的雫山人们千草传达了包含了勇气与希望的歌之力。然后，在幕后支持千草而大展身手的健太。在前作【银河】里登场的伙伴们将与小光共同奋斗。 　　最后的战斗！通过微弱的希望之光。银河和胜利努力奋战，齐布尔星人使真正的敌人苏醒。在那个恐怖的力量面前奥特曼们失去了光芒。，人们希望是消失了！但是小光的伙伴们行动了起来！关系到人类存亡的的最终决战，展开！</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>TV Aichi</studio>
+  <studio>TVQ</studio>
+  <studio>TV Osaka</studio>
+  <studio>TVh</studio>
+  <studio>TSC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:57:13</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>1466</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人银河S_S01E16_S01E16.mp4</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

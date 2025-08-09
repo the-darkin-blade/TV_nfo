@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:45:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>虚幻的街道</title>
+  <originaltitle>第5話</originaltitle>
+  <showtitle>爱迪奥特曼</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>6000307</id>
+  <uniqueid default="false" type="tmdb">1705322</uniqueid>
+  <uniqueid default="false" type="trakt">3617605</uniqueid>
+  <uniqueid default="true" type="tvdb">6000307</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>已经是晚上了，但矢的猛老师依旧坐在办公室里仔细批阅试卷。此时，他正为博士同学的满分成绩感到十分欣喜。不一会儿，学校的门卫师傅走进来提醒猛老师时间不早了，再这么忙下去恐怕赶不上末班车了。矢的猛看了看手表，还真是晚了，连忙收拾没有全部改完的试卷准备回家继续批阅。看到猛老师如此敬业，门卫师傅禁不住一番称赞。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>[05] 虛幻之境.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

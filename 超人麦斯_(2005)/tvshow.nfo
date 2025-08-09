@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:50:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>麦克斯奥特曼</title>
+  <originaltitle>ウルトラマンマックス</originaltitle>
+  <showtitle>麦克斯奥特曼</showtitle>
+  <sorttitle/>
+  <year>2005</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>9.2</value>
+      <votes>8</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>回归传统风格，强调“最快最强”设定‌</plot>
+  <tagline/>
+  <runtime>25</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"3155","imdb":"tt0493197","wikidata":"Q3046042","tvdb":"93711"}</episodeguide>
+  <id>93711</id>
+  <imdbid>tt0493197</imdbid>
+  <tmdbid>3155</tmdbid>
+  <uniqueid default="false" type="tmdb">3155</uniqueid>
+  <uniqueid default="false" type="imdb">tt0493197</uniqueid>
+  <uniqueid default="false" type="wikidata">Q3046042</uniqueid>
+  <uniqueid default="true" type="tvdb">93711</uniqueid>
+  <premiered>2005-07-02</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Family</genre>
+  <genre>儿童</genre>
+  <genre>Science Fiction</genre>
+  <studio/>
+  <country>日本</country>
+  <tag>monster</tag>
+  <tag>hero</tag>
+  <tag>villain</tag>
+  <tag>superhero</tag>
+  <tag>giant monster</tag>
+  <tag>kaiju</tag>
+  <tag>supervillain</tag>
+  <tag>kyodai hero</tag>
+  <tag>ultraman</tag>
+  <tag>henshin heroes</tag>
+  <tag>tokusatsu</tag>
+  <actor>
+    <name>Nobuyuki Ogawa</name>
+    <role>Kenjiro Koba</role>
+    <profile>https://www.themoviedb.org/person/1851812</profile>
+    <tmdbid>1851812</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Nichols</name>
+    <role>Sean White</role>
+    <profile>https://www.themoviedb.org/person/1851813</profile>
+    <tmdbid>1851813</tmdbid>
+  </actor>
+  <actor>
+    <name>宍戸開</name>
+    <role>Shigeru Hijikata</role>
+    <profile>https://www.themoviedb.org/person/1037690</profile>
+    <tmdbid>1037690</tmdbid>
+  </actor>
+  <actor>
+    <name>青山草太</name>
+    <role>Kaito Toma</role>
+    <profile>https://www.themoviedb.org/person/79038</profile>
+    <tmdbid>79038</tmdbid>
+  </actor>
+  <actor>
+    <name>长谷部瞳</name>
+    <role>Mizuki Koishikawa</role>
+    <profile>https://www.themoviedb.org/person/122577</profile>
+    <tmdbid>122577</tmdbid>
+  </actor>
+  <actor>
+    <name>满岛光</name>
+    <role>Elly</role>
+    <profile>https://www.themoviedb.org/person/100765</profile>
+    <tmdbid>100765</tmdbid>
+  </actor>
+  <actor>
+    <name>中井和哉</name>
+    <role>Ultraman Max</role>
+    <profile>https://www.themoviedb.org/person/84507</profile>
+    <tmdbid>84507</tmdbid>
+  </actor>
+  <actor>
+    <name>黑部进</name>
+    <role>Kenzo Tomioka</role>
+    <profile>https://www.themoviedb.org/person/129509</profile>
+    <tmdbid>129509</tmdbid>
+  </actor>
+  <actor>
+    <name>樱井浩子</name>
+    <role>Yukari Yoshinaga</role>
+    <profile>https://www.themoviedb.org/person/147417</profile>
+    <tmdbid>147417</tmdbid>
+  </actor>
+  <actor>
+    <name>佐野史郎</name>
+    <role>Narration</role>
+    <profile>https://www.themoviedb.org/person/73139</profile>
+    <tmdbid>73139</tmdbid>
+  </actor>
+  <trailer>plugin://plugin.video.youtube/play/?video_id=N0mOJ9vLv54</trailer>
+  <dateadded>2025-08-09 08:46:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:44:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>怪兽签名是V</title>
+  <originaltitle>第50話</originaltitle>
+  <showtitle>泰罗奥特曼</showtitle>
+  <season>1</season>
+  <episode>50</episode>
+  <id>626801</id>
+  <uniqueid default="false" type="tmdb">268279</uniqueid>
+  <uniqueid default="false" type="trakt">276957</uniqueid>
+  <uniqueid default="true" type="tvdb">626801</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>怪兽加拉王喜欢排球，就在他投投试试的那一瞬间，发生了对于爱好排球怪兽的大作战。在养老院所展现的人的善良与爱，想要成为空姐的由纪的瞳孔里的热情，爷爷奶奶，还有你们，都来看看吧！
+
+（出场怪兽：嘎拉王）</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>50.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="50" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

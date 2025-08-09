@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:01:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>黑暗之中的发光眼镜</title>
+  <originaltitle>闇に光る目</originaltitle>
+  <showtitle>超人赛文(七号)</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>8017917</id>
+  <uniqueid default="false" type="tmdb">1658562</uniqueid>
+  <uniqueid default="false" type="trakt">5201853</uniqueid>
+  <uniqueid default="true" type="tvdb">8017917</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>几个月前，地球防卫军为研究安能星发射了火箭“樱花9号”，可是已经失去联系很久了。正当大家都认为“樱花9号”已经失踪的时候，“樱花9号”却回来了。经过奥特飞鹰1号确认，确系失踪已久得“樱花9号”。天成、安奴和团驾车赶往降落地点地狱山，正当他们准备接近时，樱花9号确爆炸了，于是他们进行进一步的调查。爆炸引起的浓烟还未散去，空气中充满了硫磺的味道。团听到一种像呼吸一样的声音，可是天成和安奴都说没听见。走进爆炸区，天成和安奴突然感到一阵头痛恶心，他们赶紧退了出来。地狱山附近有一群孩子正在玩耍，一个叫浩的孩子捧着一块石头来了。那块石头非常光洁漂亮，一下就吸引了孩子们的注意，问小浩哪儿得到的，小浩说是在地狱山捡的。几个大孩子向小浩要这块石头，小浩拒绝了。在争夺是，一棵树上出现了一只大眼，然后孩子们个个大叫头疼，倒在地上，小浩乘机跑开。开车经过的团等人发现了孩子们，把他们送进医院治疗。 从孩子们那里了解到原因，团决定去找那个叫小浩的孩子。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1517</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>16 暗中發光之眼.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

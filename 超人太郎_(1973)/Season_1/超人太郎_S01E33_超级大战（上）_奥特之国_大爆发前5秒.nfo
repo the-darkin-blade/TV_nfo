@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:44:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>超级大战（上） 奥特之国 大爆发前5秒</title>
+  <originaltitle>第33話</originaltitle>
+  <showtitle>泰罗奥特曼</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <id>626631</id>
+  <uniqueid default="false" type="tmdb">268211</uniqueid>
+  <uniqueid default="false" type="trakt">276940</uniqueid>
+  <uniqueid default="true" type="tvdb">626631</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>泰罗邀请几位哥哥来地球做客，庆祝的同时东京发生战乱，出现了帝国星人向奥特六兄弟挑战，泰罗的哥哥考虑到如果现在作战，东京会变成战场，于是只派泰罗出场比赛。泰罗在本集中显露出了“爱撒娇的小弟弟”的心理特征，战斗时，不停的呼喊“哥哥来救我”，泰罗能行吗？为什么哥哥们要眼睁睁看自己的弟弟挨打呢？
+
+（出场怪兽：帝国星人（坦佩拉星人)）</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>33.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="33" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

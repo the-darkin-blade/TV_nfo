@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:44:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>怕盐的怪兽-用盐淹怪兽</title>
+  <originaltitle>第43話</originaltitle>
+  <showtitle>泰罗奥特曼</showtitle>
+  <season>1</season>
+  <episode>43</episode>
+  <id>626731</id>
+  <uniqueid default="false" type="tmdb">268269</uniqueid>
+  <uniqueid default="false" type="trakt">276950</uniqueid>
+  <uniqueid default="true" type="tvdb">626731</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>从宇宙中飞来了一个抢夺地球上所有维生素C的家伙。被菜店老板的儿子所喂养，原因是希望它能带自己到天上去看死去的妈妈。怪兽只吃青菜，不断的长大。让出来战斗的泰罗很伤脑筋，到底如何才能打败怪兽呢？
+
+（出场怪兽：摩托克莱隆）</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>43.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="43" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>通往无限的护照</title>
+  <originaltitle>無限へのパスポート</originaltitle>
+  <showtitle>初代奥特曼</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>118796</id>
+  <uniqueid default="false" type="tmdb">248257</uniqueid>
+  <uniqueid default="false" type="tvrage">280244</uniqueid>
+  <uniqueid default="false" type="trakt">256980</uniqueid>
+  <uniqueid default="true" type="tvdb">118796</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>世界级探险家从巴隆沙漠带回的两块陨石。其实是对各种刺激产生反应而引起四次元现象的生物。两颗陨石因成对保管而发生核聚变，变成了巨大的四次元怪兽布鲁顿。奥特曼迎战，不过，布鲁顿接连发动的四次元现象，让奥特曼被各种捉弄！</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>Tokyo Laboratory</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1518</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>17 無限循環的護照.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

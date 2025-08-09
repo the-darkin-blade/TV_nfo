@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>让地球净化</title>
+  <originaltitle>地球の洗濯</originaltitle>
+  <showtitle>盖亚奥特曼</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>553571</id>
+  <uniqueid default="false" type="tmdb">308052</uniqueid>
+  <uniqueid default="false" type="trakt">316909</uniqueid>
+  <uniqueid default="true" type="tvdb">553571</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>我梦受命调查陨石事件。中途藤宫出现，我梦劝其加入XIG一起保护地球，藤宫却不为所动。经调查，陨石应该是被巨大力量吹到地球上来。究竟是什么能使陨石吹落地球……</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1468</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>07 地球之洗滌.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

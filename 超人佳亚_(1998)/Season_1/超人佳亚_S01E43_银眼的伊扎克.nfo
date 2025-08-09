@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:55:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>银眼的伊扎克</title>
+  <originaltitle>銀色の眼のイザク</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <season>1</season>
+  <episode>43</episode>
+  <id>553931</id>
+  <uniqueid default="false" type="tmdb">308089</uniqueid>
+  <uniqueid default="false" type="trakt">316945</uniqueid>
+  <uniqueid default="true" type="tvdb">553931</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>从虫洞出现的巨大怪兽降落到了地球。我梦经调查后发现那怪兽竟然是地球生物！原来，怪兽是由地球上最后一只奥尔特虎，银色之眼伊扎克变成的。就在伊扎克喷火即将毁灭XIG的时候，阿古茹奥特曼出现，用自己的身体挡住了攻击。阿古茹奥特曼受了重伤，他为何不对怪兽进行还击？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>43 銀色眼睛的依道古.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="43" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿古茹对盖亚</title>
+  <originaltitle>アグル対ガイア</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id>553681</id>
+  <uniqueid default="false" type="tmdb">308065</uniqueid>
+  <uniqueid default="false" type="trakt">316920</uniqueid>
+  <uniqueid default="true" type="tvdb">553681</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>藤宫博也变身阿古茹奥特曼，用自己的能力使沉睡在地底的仲耐尔怪兽复活。从天而降的巨大生物迪格罗布向东京袭来。盖亚奥特曼面临前所未有的巨大危机。同时，阿古茹奥特曼消灭了仲耐尔怪兽，他到底是敌是友？盖亚奥特曼将如何抵抗怪兽的袭击？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1468</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>18 Agul奧佳.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

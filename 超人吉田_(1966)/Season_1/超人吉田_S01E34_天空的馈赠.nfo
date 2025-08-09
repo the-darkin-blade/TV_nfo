@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>天空的馈赠</title>
+  <originaltitle>空の贈り物</originaltitle>
+  <showtitle>超人吉田</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id>118813</id>
+  <uniqueid default="false" type="tmdb">248271</uniqueid>
+  <uniqueid default="false" type="tvrage">280261</uniqueid>
+  <uniqueid default="false" type="trakt">256997</uniqueid>
+  <uniqueid default="true" type="tvdb">118813</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>一天夜里，从空中降落了一只超重量级怪兽到了东京晴海填海地。科特队虽然想运用各种各样的作战来讨伐被命名为斯凯顿的怪兽，但都不顺利，连奥特曼都很棘手。几经周折终于成功地让一直在睡觉的斯凯顿飞向了宇宙，被认为是平安解决了……</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>Tokyo Laboratory</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1518</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>34 天空贈送的禮物.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

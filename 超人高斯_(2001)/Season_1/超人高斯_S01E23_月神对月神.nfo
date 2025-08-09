@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:46:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>月神对月神</title>
+  <originaltitle>第23話</originaltitle>
+  <showtitle>高斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>4804222</id>
+  <uniqueid default="false" type="tmdb">1654083</uniqueid>
+  <uniqueid default="false" type="trakt">1298778</uniqueid>
+  <uniqueid default="true" type="tvdb">4804222</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>SRC的探查卫星从某所大学院内波捉到了微弱的未知怪电波，青年精英队为了查清怪电波之谜，派武藏、风吹潜入大学内调查。在这里流传着有和自己长得一模一样的分身出现的流言，而且看到分身的本人也会很快死去。武藏、风吹追着怪电波来到了研究室，发现了一块来历不明的陨石，从研究室出来后，风吹不凑巧的看到了自己的分身，而更令人吃惊的是竟然出现了两个高斯！</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人高斯_S01E23_月神对月神.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

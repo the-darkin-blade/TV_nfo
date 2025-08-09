@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:55:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>断绝！SX援救作战</title>
+  <originaltitle>決断せよ！ＳＸ救出作戦</originaltitle>
+  <showtitle>奈欧斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1706797</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>ミナト隊長を乗せたSXが怪獣に呑み込まれてしまった！
+
+爆発へのタイムリミットまでに、隊長を救出できるのか！？
+
+HEART最大の危機発生！！
+
+日本アルプス山中に巨大隕石が落下し、すぐさまHEARTの面々は現場に駆けつける。しかし、内閣情報局カタギリ次官より、あの巨大隕石を即刻宇宙へ運び出し処分せよと命令される。部下の危険を心配し、単身SXに乗り込み巨大隕石へと接近していくミナト隊長だが、突如として動き出した巨大隕石がSXを呑み込んでしまった！！隊長不在のままHEART決死の隊長救出作戦が始まる！！</plot>
+  <runtime>26</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CBC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1594</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>10.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

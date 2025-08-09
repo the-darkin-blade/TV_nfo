@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:01:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>充满勇气的战斗</title>
+  <originaltitle>勇気ある戦い</originaltitle>
+  <showtitle>超人赛文(七号)</showtitle>
+  <season>1</season>
+  <episode>38</episode>
+  <id>8017946</id>
+  <uniqueid default="false" type="tmdb">1658587</uniqueid>
+  <uniqueid default="false" type="trakt">5201875</uniqueid>
+  <uniqueid default="true" type="tvdb">8017946</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>这天箱根山出现了罕见的大雾，大雾导致高速公路上严重堵车，迷雾中有三十辆汽车莫明地消失了。为了调查原因，桐山队长召集所有队员到作战室集合。桐山看团不在，问他去哪儿了？安奴解释到，她朋友的弟弟小志心脏有病需要手术，但他坚持一定要见一见团队员，所以团到医院去了。桐山认为只是调查一下原因，不必特地叫团回来，于是带领其余人出发去往现场。在箱根山他们发现了几个巨大的脚印，这和大雾、消失的汽车会有什么关系呢？团在医院里碰到了小志的姐姐山崎由纪子，由纪子告诉团，小志的手术安排在明天下午，主持手术的汤普雷博士将会从瑞士飞来。但是小志一直拒绝手术，他害怕自己会在手术中死去。团对小志说，奥特警备队的队员们每次执行的任务都很危险，但是大家仍然很勇敢地面对，因为他们都相信人类科学技术的力量。他鼓励小志要勇敢坚强地面对手术，并且约定在手术前一定赶到医院为小志加油。团回到总部，众人告诉他调查并无线索，只能再观察事态发展。为了以防万一，团请安奴明天到机场去接一下汤普雷博士博士。第二天，安奴和由纪子在机场接到如期而至的汤普雷博士，他们三人驱车前往医院。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1503</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>38 充滿勇氣的戰斗.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="38" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

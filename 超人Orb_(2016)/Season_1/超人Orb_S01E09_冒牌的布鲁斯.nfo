@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:50:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>冒牌的布鲁斯</title>
+  <originaltitle>ニセモノのブルース</originaltitle>
+  <showtitle>欧布奥特曼</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>5313406</id>
+  <uniqueid default="false" type="tmdb">1224559</uniqueid>
+  <uniqueid default="true" type="imdb">tt6033052</uniqueid>
+  <uniqueid default="false" type="trakt">3435420</uniqueid>
+  <uniqueid default="false" type="tvdb">5313406</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>察觉到欧布和人类缔结的羁绊的强大。行星侵略联盟命巴巴尔星人变身的冒牌货的欧布，准备将使其信赖的纽带破坏。但是，那个冒牌货，偶然却帮助了孩子。追查欧布本体的捷达， 遇到了巴巴尔星人的人类态?马场竜次。被“你才是正义的伙伴！”煽动，困惑的龙次在和信任自己的孩子们的互相接触的间，陷入了不可思议的感慨中…</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1466</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>09 冒牌的布魯斯.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

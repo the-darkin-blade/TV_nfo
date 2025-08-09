@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>超人佳亚</title>
+  <originaltitle>ウルトラマンガイア</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <sorttitle/>
+  <year>1998</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.7</value>
+      <votes>11</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>代表地球意志，与阿古茹对立共生‌</plot>
+  <tagline/>
+  <runtime>24</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"4426","imdb":"tt0184168","wikidata":"Q3275734"}</episodeguide>
+  <id/>
+  <imdbid>tt0184168</imdbid>
+  <tmdbid>4426</tmdbid>
+  <uniqueid default="false" type="tmdb">4426</uniqueid>
+  <uniqueid default="true" type="imdb">tt0184168</uniqueid>
+  <uniqueid default="false" type="wikidata">Q3275734</uniqueid>
+  <premiered>1998-09-05</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Science Fiction</genre>
+  <genre>Action</genre>
+  <genre>Drama</genre>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <country>日本</country>
+  <tag>japan</tag>
+  <tag>monster</tag>
+  <tag>hero</tag>
+  <tag>villain</tag>
+  <tag>superhero</tag>
+  <tag>extraterrestrial</tag>
+  <tag>giant monster</tag>
+  <tag>kaiju</tag>
+  <tag>giant</tag>
+  <tag>supervillain</tag>
+  <tag>kyodai hero</tag>
+  <tag>ultraman</tag>
+  <tag>henshin heroes</tag>
+  <tag>ultraman gaia</tag>
+  <tag>tokusatsu</tag>
+  <actor>
+    <name>吉岡毅志</name>
+    <role>Takayama Gamu</role>
+    <profile>https://www.themoviedb.org/person/139370</profile>
+    <tmdbid>139370</tmdbid>
+  </actor>
+  <actor>
+    <name>高野八诚</name>
+    <role>Fujimiya Hiroya</role>
+    <profile>https://www.themoviedb.org/person/132947</profile>
+    <tmdbid>132947</tmdbid>
+  </actor>
+  <actor>
+    <name>渡边裕之</name>
+    <role>Ishimuro Akio</role>
+    <profile>https://www.themoviedb.org/person/554073</profile>
+    <tmdbid>554073</tmdbid>
+  </actor>
+  <actor>
+    <name>平泉成</name>
+    <role>Chiba Tatsumi</role>
+    <profile>https://www.themoviedb.org/person/85939</profile>
+    <tmdbid>85939</tmdbid>
+  </actor>
+  <actor>
+    <name>宇梶刚士</name>
+    <role>Tsutsumi Seiichirō</role>
+    <profile>https://www.themoviedb.org/person/131107</profile>
+    <tmdbid>131107</tmdbid>
+  </actor>
+  <actor>
+    <name>川崎愛</name>
+    <role>Sasaki Atsuko</role>
+    <profile>https://www.themoviedb.org/person/3105842</profile>
+    <tmdbid>3105842</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Theresa Gow</name>
+    <role>Jojī Rīrando</role>
+    <profile>https://www.themoviedb.org/person/2265558</profile>
+    <tmdbid>2265558</tmdbid>
+  </actor>
+  <actor>
+    <name>Masami Nakagami</name>
+    <role>Kajio Katsumi</role>
+    <profile>https://www.themoviedb.org/person/4293233</profile>
+    <tmdbid>4293233</tmdbid>
+  </actor>
+  <actor>
+    <name>Yukari Ishida</name>
+    <role>Yoshii Reiko</role>
+    <profile>https://www.themoviedb.org/person/4293234</profile>
+    <tmdbid>4293234</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-08 23:43:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

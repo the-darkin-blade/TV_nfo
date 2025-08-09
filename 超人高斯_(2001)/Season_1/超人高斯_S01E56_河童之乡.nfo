@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:47:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>河童之乡</title>
+  <originaltitle>第56話</originaltitle>
+  <showtitle>高斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>56</episode>
+  <id>4804255</id>
+  <uniqueid default="false" type="tmdb">1654116</uniqueid>
+  <uniqueid default="false" type="trakt">1299815</uniqueid>
+  <uniqueid default="true" type="tvdb">4804255</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>年轻人来到一座恬静的村子露营，打伤了年迈的村民，河童从水中一跃而出，袭击了年轻人。青年精英队得到消息后迅速赶赴现场，但村民、警察对河童之事避而不谈。青年精英队看无法打探到消息，便驾车离开。村民确认他们离开后，跟河童一起野餐，不料青年精英队又回来了，村民请求精英队对河童网开一面，突然敬造先生犯病，武藏急忙驾车将他送往医院，途中却发现河童也一路追随他们而来。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人高斯_S01E56_河童之乡.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="56" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

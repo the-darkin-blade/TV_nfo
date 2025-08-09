@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>木乃伊的呼叫</title>
+  <originaltitle>ミイラの叫び</originaltitle>
+  <showtitle>初代奥特曼</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>118791</id>
+  <uniqueid default="false" type="tmdb">248253</uniqueid>
+  <uniqueid default="false" type="tvrage">280239</uniqueid>
+  <uniqueid default="false" type="trakt">256975</uniqueid>
+  <uniqueid default="true" type="tvdb">118791</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>七千年前的木乃伊被发掘出来了。但是，在那夜晚，木乃伊在被安置的实验室里复活，杀害警卫员后逃走了。岩本博士希望将木乃伊活捉，但为了不扩大受害范围，科特队只好将木乃伊射杀。与此同时，怪兽咚咚的出现，突然发狂起来！</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>Tokyo Laboratory</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1519</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>12 木乃伊的咆哮.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

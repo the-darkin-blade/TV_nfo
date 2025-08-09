@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:32 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>故乡是地球</title>
+  <originaltitle>故郷は地球</originaltitle>
+  <showtitle>初代奥特曼</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>118802</id>
+  <uniqueid default="false" type="tmdb">248264</uniqueid>
+  <uniqueid default="false" type="tvrage">280250</uniqueid>
+  <uniqueid default="false" type="trakt">256986</uniqueid>
+  <uniqueid default="true" type="tvdb">118802</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>载有国际和平会议出席者的客机和船只相继发生爆炸事件。为了攻击身份不明的敌人，科特队开发了光谱光线，成功击落了看不见的敌人火箭。科特队巴黎本部的阿兰队员看到了从火焰中站起来的怪兽，开始说怪兽贾米拉是人类，听到这句话的井手非常动摇。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>Tokyo Laboratory</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1518</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>23 故鄉是地球.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

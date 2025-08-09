@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:01:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>恐怖的怪兽魔境</title>
+  <originaltitle>恐怖の怪獣魔境</originaltitle>
+  <showtitle>杰克奥特曼</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>7483327</id>
+  <uniqueid default="false" type="tmdb">1660091</uniqueid>
+  <uniqueid default="false" type="trakt">4434180</uniqueid>
+  <uniqueid default="true" type="tvdb">7483327</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>两名探险员在朝雾山上不明失踪了，据说见到了怪兽。
+
+　　MAT队接手此事。在本部里，大家激烈地争论着：朝雾山究竟有没有怪兽？岸田认为没有，乡认为有。大家喋喋不休。作为队长的加藤明白自己现在应该干什么，他只身来到了朝雾山。顾名思义，朝雾山有很重的雾。队长很艰难地寻找着 ……</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1531</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>03 恐怖的怪獸境地.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

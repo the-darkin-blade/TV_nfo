@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 07:43:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>奔向宇宙（上篇）</title>
+  <originaltitle>GUTSよ宙へ・前編</originaltitle>
+  <showtitle>迪迦奥特曼</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>7783415</id>
+  <uniqueid default="false" type="tmdb">163657</uniqueid>
+  <uniqueid default="false" type="trakt">4231754</uniqueid>
+  <uniqueid default="true" type="tvdb">7783415</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>神秘机器人突然出现并引起骚动。而在新型推进系统的实验中，丽娜目击到了漂浮在宇宙中的机械岛，危机正在逼近地球。为了应付岛屿对地球发起的攻击，新造战舰亚特迪斯号将出击。但这时，胜利队基地发生了异变！</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 07:42:52</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人迪迦_爱子粤语_S01E19_S01E19.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

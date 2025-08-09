@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 06:42:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>凑家的假日</title>
+  <originaltitle>湊家の休日</originaltitle>
+  <showtitle>罗布奥特曼</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>6816283</id>
+  <uniqueid default="false" type="tmdb">1574024</uniqueid>
+  <uniqueid default="false" type="trakt">3144431</uniqueid>
+  <uniqueid default="true" type="tvdb">6816283</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>罗布兄弟击败了怪兽，受到人们的欢迎，凑家决定在假日期间好好休息一下，但是爱染诚出现在凑家面前，决定对凑活海和凑勇海对其进行评价，便召唤出了怪兽，兄弟二一同变身迎击怪兽。但是因为怪兽过于强大，兄弟二人接连败下阵来。同时爱染诚拿回了欧布圆环NEO，变身黑暗欧布奥特曼。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 06:41:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1477</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人RB_S01E10_凑家的假日.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

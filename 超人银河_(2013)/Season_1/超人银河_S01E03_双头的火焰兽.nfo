@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 09:03:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>双头的火焰兽</title>
+  <originaltitle>双頭の火炎獣</originaltitle>
+  <showtitle>银河奥特曼</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="false" type="tmdb">1556639</uniqueid>
+  <uniqueid default="true" type="imdb">tt3133384</uniqueid>
+  <uniqueid default="false" type="trakt">5424475</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>降星小学被废弃后，老校友菅生优香深感小学的落寞，被巴尔基星人利用变成了双头怪兽庞敦。优香假意请求健太为其拍照，实则进入职员室接近泰罗人偶，并想烧掉学校。礼堂光变身凯姆尔人前去解救泰罗和人偶，接着巨大化，上前阻止却未能成功。最终变身银河奥特曼，用银河圣剑将其打败。可泰罗却被浮在太空中的詹杀手操控者一条寺友也抓走。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:57:13</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1504</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人银河_S01E03_双头的火焰兽.mp4</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

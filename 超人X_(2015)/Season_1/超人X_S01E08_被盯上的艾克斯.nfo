@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:52:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>被盯上的艾克斯</title>
+  <originaltitle>第8話</originaltitle>
+  <showtitle>艾克斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1713067</uniqueid>
+  <uniqueid default="false" type="trakt">5312848</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宇宙恐龙芝顿袭来！所有的装甲的攻击都没有效果，艾克斯奥特曼被逼入了彻底的败境。为了准备下次芝顿的来袭，大地埋头与新装甲的开发之中。就在此时，出现了一位叫做当麻博士的协助者。大地终于和博士一起完成了芝顿装甲，但却不知为何在与芝顿的战斗中无法控制装甲了，艾克斯陷入了绝境。英勇地挽救这一危机的勇者正是东马快斗——麦克斯奥特曼！</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1503</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>08 邂逅 以及伙伴們（總集篇1）.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

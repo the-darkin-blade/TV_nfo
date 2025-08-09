@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:45:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>复活!奥特之父</title>
+  <originaltitle>復活！ウルトラの父</originaltitle>
+  <showtitle>艾斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>38</episode>
+  <id>7891615</id>
+  <uniqueid default="false" type="tmdb">1667742</uniqueid>
+  <uniqueid default="false" type="trakt">4391510</uniqueid>
+  <uniqueid default="true" type="tvdb">7891615</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>38 復活！奧特之父.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="38" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

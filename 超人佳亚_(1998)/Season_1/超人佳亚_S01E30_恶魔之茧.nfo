@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:55:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>恶魔之茧</title>
+  <originaltitle>悪魔のマユ</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id>553801</id>
+  <uniqueid default="false" type="tmdb">308076</uniqueid>
+  <uniqueid default="false" type="trakt">316932</uniqueid>
+  <uniqueid default="true" type="tvdb">553801</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>我梦突然给梶尾送花，原来是受敦子所托。就在此时，XIG检测到有不明飞行物向地球袭来。猎鹰队出击对抗这长相丑陋的不明飞行物，发射响尾蛇飞弹却反遭袭击。怪兽继续向东京袭去，XIG能否抵挡住这怪兽的攻击……</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>30 惠魔之菌.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

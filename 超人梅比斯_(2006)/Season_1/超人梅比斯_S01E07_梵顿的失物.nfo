@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:48:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>梵顿的失物</title>
+  <originaltitle>ファントンの落し物</originaltitle>
+  <showtitle>梦比优斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>554281</id>
+  <uniqueid default="false" type="tmdb">364640</uniqueid>
+  <uniqueid default="false" type="trakt">372564</uniqueid>
+  <uniqueid default="true" type="tvdb">554281</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>ファントン星人が地球に落とした非常用食料シーピン929が、高次元捕食体ボガールの手で大気に触れ、無限に肥大化を始めた！このままでは地球が飲みこまれてしまう!!しかし肝心のファントン星人は寝ぼけ眼。なすすべのない隊員たちに隊長は…。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CBC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1433</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人梅比斯_S01E07_梵顿的失物.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

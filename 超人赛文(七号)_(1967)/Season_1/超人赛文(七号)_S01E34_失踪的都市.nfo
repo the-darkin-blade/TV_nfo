@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:01:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>失踪的都市</title>
+  <originaltitle>蒸発都市</originaltitle>
+  <showtitle>超人赛文(七号)</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id>8017941</id>
+  <uniqueid default="false" type="tmdb">1658583</uniqueid>
+  <uniqueid default="false" type="trakt">5201871</uniqueid>
+  <uniqueid default="true" type="tvdb">8017941</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>夜里，索加和团在街道上巡逻，团突然急刹车，把索加撞疼了。团听到了一个奇怪的声音，有点像道路施工的切割机，但那是一种切割到地下深处，把地面从下掘起的声音。团决定去看看。他们来到一处工地，声音是从这里传来的，有几个工人正在工作，团下车查看时发现工人有些异常，于是上去询问，但没有人理睬他。旁边一辆公共汽车突然开动了，索加高声喊团，猎犬号急忙追踪而去。公共汽车尾部不断射出炮弹，为了让它停下来，猎犬号发射激光打中了公共汽车的轮子。车子停下了，团和索加下车检查时，车子发出一阵白光随后就消失了，接着团、索加、猎犬号以及一名赶来支援的警察也消失了。另一名警察大惊失色，连忙通知奥特警备队。队员们赶到现场，从那里测得很强的发射能。第二天，上班的人们发现大楼在一阵白光后消失了，而且这样的事情接连不断的发生，直到整个街区全部消失。（就都市消失的事情女巫师花村请竹中参谋和古桥、安奴到饭店里相见，花村转达了宇宙人的来意，他为了避难暂时居住在地球，希望地球能给他个居住的地方，同时也保证团、索加和所有居民的生命安全。说完花村就失去意识晕倒了。谁都不知道宇宙人正通过屏幕控制着花村，监视着这里的一举一动。）为了尽快查出真相救回索加和团，奥特警备队对出事地点加强巡逻。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1503</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>34 失蹤的都市.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

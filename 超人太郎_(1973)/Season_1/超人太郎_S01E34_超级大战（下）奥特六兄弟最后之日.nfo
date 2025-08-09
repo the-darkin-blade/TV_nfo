@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:44:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>超级大战（下）奥特六兄弟最后之日</title>
+  <originaltitle>第34話</originaltitle>
+  <showtitle>泰罗奥特曼</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id>626641</id>
+  <uniqueid default="false" type="tmdb">268257</uniqueid>
+  <uniqueid default="false" type="trakt">276941</uniqueid>
+  <uniqueid default="true" type="tvdb">626641</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>虽然帝国星人很强大，但由于泰罗的智慧，还是被打败了，但是他并没有死。因为泰罗不像哥哥们一样，和很多厉害的怪兽战斗而立过大功，自己打败了很强大的敌人而感到自傲，这让哥哥们看泰罗很不爽，他毕竟还是个孩子！这让泰罗尝到了帝国星人给他的苦果，面对强大的帝国星人泰罗能胜利吗？在这次超级大战中，泰罗能否走出孩子的阴影呢？
+
+（出场怪兽：帝国星人（坦佩拉星人））</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>34.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

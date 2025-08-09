@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:01:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>圆盘来了</title>
+  <originaltitle>円盤が来た</originaltitle>
+  <showtitle>超人赛文(七号)</showtitle>
+  <season>1</season>
+  <episode>45</episode>
+  <id>8017954</id>
+  <uniqueid default="false" type="tmdb">1658596</uniqueid>
+  <uniqueid default="false" type="trakt">5201882</uniqueid>
+  <uniqueid default="true" type="tvdb">8017954</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>年轻小伙子福幸是个天文爱好者，最开心的事莫过于每晚观测星空。可是他同事兼邻居阿元却一直反对他看星星，常常在一边制造各种噪音干扰福幸。福幸只得等到大家都睡下了，半夜爬起来观测。因为整夜的观测，导致睡眠不足，福幸在上班时站着打起了瞌睡。危险啊！另一名同事及时叫醒他，怎么就在车床边睡着呢？老板找福幸谈话，工作要紧，不能光顾着看星星而不睡觉啊。福幸答应了。 下班路上，福幸躺在草堆上发呆，过来一个男孩和他聊了起来，两人聊得非常投机。福幸告诉男孩，他喜欢观测星星，一直想用自己的名字来命名一颗星星。男孩临告别前说，今晚会有事情发生。凌晨2点，福幸在观测星空，慢慢地调整焦距，福幸看到一些与众不同的星星，仔细一看，他不由得倒吸一口冷气，是圆盘！福幸跑下楼去打电话，却遭到阿元的责骂。他只得去别的地方打，正在值班的索加接到电话，马上汇报：“东经139度40分，北纬35度40分，角度32度……”但是基地的雷达并没有探测任何圆盘的信号，之后又有不少天文爱好者也打来相同内容的电话，团等人立刻拨通了东京天文台、东大天文台、气象局等处询问，但是都没有发现圆盘。为了以防万一，团和索加乘坐飞鹰2号去宇宙巡视，除了星星有所增多外，再也没有其他发现。古桥在那里直发牢骚，是那些业余天文爱好者错把某种气象状况当作圆盘了。众人也有同感，也就不再放在心上。第二天福幸又遇到了前一天的男孩，男孩问他是否有什么发现，福幸把发现圆盘通知奥特警备队，又遭到否定的事情告诉了男孩。男孩却说，今天晚上在东边的天空一定还能再看到圆盘的。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1503</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>45 圓盤來了.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="45" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

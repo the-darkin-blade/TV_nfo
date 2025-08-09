@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:01:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>被狙击的街道</title>
+  <originaltitle>狙われた街</originaltitle>
+  <showtitle>赛文奥特曼</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>8017908</id>
+  <uniqueid default="false" type="tmdb">1658541</uniqueid>
+  <uniqueid default="false" type="trakt">5201845</uniqueid>
+  <uniqueid default="true" type="tvdb">8017908</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>放学的时候，一群孩子在工地上玩耍，他们目击到一起袭击事件，袭击者在被捕的时候突然昏倒在地，不省人事。这时猎犬号来了，安奴急急忙忙地带走了一个叫小浩的男孩，“小浩，你父亲出事了。”安奴泣不成声。小浩是安奴叔叔的孩子，安奴的叔叔是航空公司有名的飞行员，在事故中丧身，同时还有200多名乘客罹难。团从参加葬礼的人群中得知，最近不断发生的事故中丧身的人都居住在同一个街区。 古桥和索加在友里家所在的街区附近巡逻，在车站街口的自动售货机上买了包香烟。这时突然响起一声枪响，一个男人发狂似的向路人开枪射击，还打伤了前来阻止的古桥。那个男人被警察抓捕时也晕倒在地。警察局里，警员对已经醒来的男人进行审讯，但是那个男人对发生的事情一点也记不得了。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1519</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>08 被狙擊的街道.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

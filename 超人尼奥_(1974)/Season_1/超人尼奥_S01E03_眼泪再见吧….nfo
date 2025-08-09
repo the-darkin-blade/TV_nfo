@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 07:07:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>眼泪再见吧…</title>
+  <originaltitle>涙よさよなら…</originaltitle>
+  <showtitle>雷欧奥特曼</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>4552806</id>
+  <uniqueid default="false" type="tmdb">1679871</uniqueid>
+  <uniqueid default="false" type="trakt">1313664</uniqueid>
+  <uniqueid default="true" type="tvdb">4552806</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>晚上，在城南体育俱乐部中完成了训练任务的小通（=新井庸弘）和爸爸（=二见忠男）、小香一起回家的时候，爸爸被突然出现的宇宙人切成了两半，随后，宇宙人留下一个雷欧头像的徽章就离开了。
+
+MAC的铃木队员（=鹿岛信哉）建议小通和小香区自己家里住，在回家路上他也被宇宙人杀死了。前去调查的源想追击宇宙人，却被团阻止，并叫回了基地。
+
+每晚，团都会去街上等待宇宙人再次出现，这一天他终于与宇宙人见面了，并展开了战斗。而源也赶了过来，却被团击昏。
+
+醒来后的源质问团，团告诉他敌人是祖鲁克星人，并让源为了小通谨慎战斗。这时，祖鲁克星人巨大化出现，MAC伤亡惨重，团命令全队撤退。归队后，源对团的决定很不满，团告诉他自己是为了队员们的生命，并指导源练习三段攻击破祖鲁克星人的二段攻击。
+
+团命令队员们更换战机的引擎，再度出击与祖鲁克星人战斗。一架战机坠落在了练习中的源面前，愤怒的源变身成为了雷欧，却在战斗中败下阵来……</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 07:07:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1529</durationinseconds>
+      </video>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人尼奥_S01E03_S01E03.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

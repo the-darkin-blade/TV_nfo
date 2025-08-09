@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 07:41:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>怪兽出没的日子</title>
+  <originaltitle>怪獣が出てきた日</originaltitle>
+  <showtitle>迪迦奥特曼</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>7783396</id>
+  <uniqueid default="false" type="tmdb">163640</uniqueid>
+  <uniqueid default="false" type="trakt">4231739</uniqueid>
+  <uniqueid default="true" type="tvdb">7783396</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>北川市沿岸漂浮着怪兽的尸体，胜利队迅速地开始处理。但是作战失败，没有生命反应的怪兽居然复活了！想要消灭怪兽只能通过焚烧这一方法。宗方副队长再次制定作战方案，向不死之身的怪兽进发。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 07:41:07</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人迪迦_S01E05_S01E05.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:53:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>喊出我的名字吧</title>
+  <originaltitle>ご唱和ください、我の名を！</originaltitle>
+  <showtitle>泽塔奥特曼</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>7826778</id>
+  <uniqueid default="false" type="tmdb">2201749</uniqueid>
+  <uniqueid default="false" type="trakt">4296848</uniqueid>
+  <uniqueid default="true" type="tvdb">7826778</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>夏川遥辉在地球防卫军日本支部的机甲部队“STORAGE”中担任驾驶员。新的奥特战士降临在他的面前，为了维护地球的和平而日夜战斗！
+
+他的名字叫泽塔奥特曼，自称是赛罗奥特曼徒弟的热血战士。
+
+当因凶暴宇宙鲛盖内伽古的攻击而陷入绝境的他们合二为一的时候，新的奥特英雄故事揭开帷幕！</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>YouTube</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>dentsu</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>01 - 說出，我的名字！.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

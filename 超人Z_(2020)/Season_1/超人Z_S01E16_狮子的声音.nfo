@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:53:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>狮子的声音</title>
+  <originaltitle>獅子の声</originaltitle>
+  <showtitle>泽塔奥特曼</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>8002348</id>
+  <uniqueid default="false" type="tmdb">2443909</uniqueid>
+  <uniqueid default="false" type="trakt">4541439</uniqueid>
+  <uniqueid default="true" type="tvdb">8002348</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>结花在小时候见过的怪兽·霍洛波罗兹从长眠中苏醒的日子终于到来了！
+
+平息暴躁的霍洛波罗兹的线索，被记录在古文献中的不可思议的语言。
+
+趁着结花在解读时，镝木的黑暗力量逼近了霍洛波罗兹……！</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>YouTube</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>dentsu</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>16 - 獅子的聲音.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

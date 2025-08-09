@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:55:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>驱逐我梦</title>
+  <originaltitle>我夢追放！</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>553731</id>
+  <uniqueid default="false" type="tmdb">308069</uniqueid>
+  <uniqueid default="false" type="trakt">316925</uniqueid>
+  <uniqueid default="true" type="tvdb">553731</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>XIG研究出帕赛尔可以控制怪兽，藤宫为何会研究出可以控制怪兽的帕赛尔？随着研究的深入，稻森博士开始质疑怪兽出现的原因。也许地球的生物对人类的胡作非为产生了愤怒，才出现了怪兽。闪电队对抗怪兽时开始采用帕赛尔，企图以此控制怪兽，这是否会凑效呢……</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1468</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>23 我蘿追放.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

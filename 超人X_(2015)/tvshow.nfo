@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:52:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>超人X</title>
+  <originaltitle>ウルトラマンX</originaltitle>
+  <showtitle>超人X</showtitle>
+  <sorttitle/>
+  <year>2015</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.3</value>
+      <votes>9</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>数据化装甲，结合现代科技元素‌</plot>
+  <tagline/>
+  <runtime>25</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"66631","imdb":"tt4651924","wikidata":"Q20010305","tvdb":"461598"}</episodeguide>
+  <id>461598</id>
+  <imdbid>tt4651924</imdbid>
+  <tmdbid>66631</tmdbid>
+  <uniqueid default="false" type="tmdb">66631</uniqueid>
+  <uniqueid default="false" type="imdb">tt4651924</uniqueid>
+  <uniqueid default="false" type="wikidata">Q20010305</uniqueid>
+  <uniqueid default="true" type="tvdb">461598</uniqueid>
+  <premiered>2015-07-14</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Science Fiction</genre>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <country>日本</country>
+  <tag>monster</tag>
+  <tag>hero</tag>
+  <tag>villain</tag>
+  <tag>superhero</tag>
+  <tag>giant monster</tag>
+  <tag>kaiju</tag>
+  <tag>supervillain</tag>
+  <tag>card</tag>
+  <tag>ultraman</tag>
+  <tag>gimmick</tag>
+  <tag>henshin heroes</tag>
+  <tag>ultraman x</tag>
+  <tag>tokusatsu</tag>
+  <actor>
+    <name>高橋健介</name>
+    <role>Daichi Ozora</role>
+    <profile>https://www.themoviedb.org/person/1658221</profile>
+    <tmdbid>1658221</tmdbid>
+  </actor>
+  <actor>
+    <name>坂之上茜</name>
+    <role>Asuna Yamase</role>
+    <profile>https://www.themoviedb.org/person/1658222</profile>
+    <tmdbid>1658222</tmdbid>
+  </actor>
+  <actor>
+    <name>细田善彦</name>
+    <role>Wataru Kazama</role>
+    <profile>https://www.themoviedb.org/person/235147</profile>
+    <tmdbid>235147</tmdbid>
+  </actor>
+  <actor>
+    <name>松本享恭</name>
+    <role>Hayato Kijima</role>
+    <profile>https://www.themoviedb.org/person/1658223</profile>
+    <tmdbid>1658223</tmdbid>
+  </actor>
+  <actor>
+    <name>Hayato Harada</name>
+    <role>Mamoru Mikazuki</role>
+    <profile>https://www.themoviedb.org/person/1890236</profile>
+    <tmdbid>1890236</tmdbid>
+  </actor>
+  <actor>
+    <name>Haruka Momokawa</name>
+    <role>Rui Takada</role>
+    <profile>https://www.themoviedb.org/person/1890237</profile>
+    <tmdbid>1890237</tmdbid>
+  </actor>
+  <actor>
+    <name>TAKERU</name>
+    <role>Takeru Yamagishi</role>
+    <profile>https://www.themoviedb.org/person/2265939</profile>
+    <tmdbid>2265939</tmdbid>
+  </actor>
+  <actor>
+    <name>Chiaki Seshimo</name>
+    <role>Chiaki Matsudo</role>
+    <profile>https://www.themoviedb.org/person/1890238</profile>
+    <tmdbid>1890238</tmdbid>
+  </actor>
+  <actor>
+    <name>月船さらら</name>
+    <role>Sayuri Tachibana</role>
+    <profile>https://www.themoviedb.org/person/133702</profile>
+    <tmdbid>133702</tmdbid>
+  </actor>
+  <actor>
+    <name>神尾佑</name>
+    <role>Shotaro Kamiki</role>
+    <profile>https://www.themoviedb.org/person/99835</profile>
+    <tmdbid>99835</tmdbid>
+  </actor>
+  <actor>
+    <name>中村悠一</name>
+    <role>Ultraman X (voice)</role>
+    <profile>https://www.themoviedb.org/person/1221114</profile>
+    <tmdbid>1221114</tmdbid>
+  </actor>
+  <actor>
+    <name>松本保典</name>
+    <role>Narrator / Guruman (voice)</role>
+    <profile>https://www.themoviedb.org/person/553282</profile>
+    <tmdbid>553282</tmdbid>
+  </actor>
+  <trailer>plugin://plugin.video.youtube/play/?video_id=sIM5ycxXqp8</trailer>
+  <dateadded>2025-08-08 23:43:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

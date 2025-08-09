@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:44:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>我亦英豪-我也能消灭怪兽</title>
+  <originaltitle>第26話</originaltitle>
+  <showtitle>泰罗奥特曼</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id>626561</id>
+  <uniqueid default="false" type="tmdb">268247</uniqueid>
+  <uniqueid default="false" type="trakt">276933</uniqueid>
+  <uniqueid default="true" type="tvdb">626561</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>建一的同学村雄，个子矮小，也很胆小。他的父亲是一个讲故事的行家，在故事的画片里面出现了怪兽莫卡旦达，为了让村雄可以振作起来，父亲与怪兽拼命搏斗，结果受伤。在危机关头，泰罗出现打倒怪兽，给予了村雄勇气的启示，村雄最后能变成一个男子汉吗？
+
+（出场怪兽：莫卡旦达）</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>26.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

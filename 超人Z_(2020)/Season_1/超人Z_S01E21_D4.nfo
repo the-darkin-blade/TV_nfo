@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:53:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>D4</title>
+  <originaltitle>D４</originaltitle>
+  <showtitle>泽塔奥特曼</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id>8233036</id>
+  <uniqueid default="false" type="tmdb">2509694</uniqueid>
+  <uniqueid default="false" type="trakt">4854237</uniqueid>
+  <uniqueid default="true" type="tvdb">8233036</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>从回收的巴拉巴残骸中，能够应用异次元人亚波人的能力的新武器开发了。
+
+由于其惊人的威力，遥辉等人反对使用，这时，宇宙凶险怪兽凯鲁比姆出现了！
+
+金古桥军械库定制装载了新兵器「D4」。洋子能够扣动那个扳机吗！？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>YouTube</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>dentsu</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>21 - D4.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

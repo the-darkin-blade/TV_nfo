@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:53:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>未确认物质护送指令</title>
+  <originaltitle>未確認物質護送指令</originaltitle>
+  <showtitle>泽塔奥特曼</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>7885064</id>
+  <uniqueid default="false" type="tmdb">2383284</uniqueid>
+  <uniqueid default="false" type="trakt">4382526</uniqueid>
+  <uniqueid default="true" type="tvdb">7885064</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>地球防卫军回收到了奥特勋章。
+
+把它护送到安全的设施是STORAGE这次的任务。
+
+但是，外星人瞄准了被称为宇宙秘宝的奥特勋章！
+
+对于即将到来的宇宙机器人金古桥，STORAGE和泽塔奥特曼将如何应对！？
+
+泽塔的新必杀技也要震撼全场了！</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>YouTube</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>dentsu</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>09 - 未確認物質護送指令.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:47:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>宿命</title>
+  <originaltitle>宿命 ―サティスファクション―</originaltitle>
+  <showtitle>奈克赛斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>556211</id>
+  <uniqueid default="false" type="tmdb">59603</uniqueid>
+  <uniqueid default="false" type="trakt">71064</uniqueid>
+  <uniqueid default="true" type="tvdb">556211</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>姬矢不管已经超出身体极限，继续变成奥特曼作战。这个行为意味着找死。担心着姬矢的佐久田，从沟吕木那里得到了事实的真相。
+
+另一方面，吉良泽优解释了这次异生兽事件的原则，这次的事件接二连三的发生，仿佛隐藏着一个重要的暗号。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CBC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1414</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人力斯_S01E23_宿命.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

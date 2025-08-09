@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:50:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>土块魔王</title>
+  <originaltitle>土塊の魔王</originaltitle>
+  <showtitle>欧布奥特曼</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id>5313398</id>
+  <uniqueid default="false" type="tmdb">1224551</uniqueid>
+  <uniqueid default="true" type="imdb">tt5820904</uniqueid>
+  <uniqueid default="false" type="trakt">3435383</uniqueid>
+  <uniqueid default="false" type="tvdb">5313398</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>大楼沉落消失的怪现象发生！而且，潜伏在地底不知向何人送上力量的谜之男・伽克拉斯伽古拉，一连串大楼沉落事件是为了解开古代的封印，正当SSP的森发现时，土之魔王兽玛伽古兰特王觉醒！虽然凯变身奥特曼欧布对抗，但是在玛伽古兰特王的力气前，欧布陷入苦战！</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1466</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>02 土塊魔王.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

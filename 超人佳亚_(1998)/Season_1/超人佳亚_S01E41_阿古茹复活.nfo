@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:55:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿古茹复活</title>
+  <originaltitle>アグル復活</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <season>1</season>
+  <episode>41</episode>
+  <id>553911</id>
+  <uniqueid default="false" type="tmdb">308087</uniqueid>
+  <uniqueid default="false" type="trakt">316943</uniqueid>
+  <uniqueid default="true" type="tvdb">553911</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>空中基地发布一级警戒，天空中出现了巨大虫洞，竟是以往出现虫洞的200倍大小。竟然有那么庞大的怪兽存在么？就在XIG困惑的同时，从虫洞中散发出的金属碎片聚集成了一个超大的机器怪兽。XIG能否抵抗的住着巨型机械怪兽的攻击么？盖亚奥特曼将如何击败这机械巨人？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>41 Agul傻活.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="41" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

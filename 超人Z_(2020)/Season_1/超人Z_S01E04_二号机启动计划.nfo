@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:53:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>二号机启动计划</title>
+  <originaltitle>二号ロボ起動計画</originaltitle>
+  <showtitle>泽塔奥特曼</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>7852522</id>
+  <uniqueid default="false" type="tmdb">2337637</uniqueid>
+  <uniqueid default="false" type="trakt">4342750</uniqueid>
+  <uniqueid default="true" type="tvdb">7852522</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>怪兽应对机甲部队·特空机二号乌英达姆终于要成为新的战斗力了。但是能量充电有问题，所以无法启动。
+
+在这种情况下，地底怪兽泰莱斯通在地上大闹一场！再加上神秘的力量，泰莱斯通变得更加强大！
+
+STORAGE和泽塔奥特曼最终能战胜这个危机吗？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>YouTube</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>dentsu</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>04 - 機甲二號啟動計劃.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

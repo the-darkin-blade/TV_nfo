@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:01:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>为谁而光荣</title>
+  <originaltitle>栄光は誰れのために</originaltitle>
+  <showtitle>超人赛文(七号)</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id>8017934</id>
+  <uniqueid default="false" type="tmdb">1658579</uniqueid>
+  <uniqueid default="false" type="trakt">5201867</uniqueid>
+  <uniqueid default="true" type="tvdb">8017934</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>司令部决定在星原一带举行一次野战训练，虽然是训练，队长仍然要求大家认真地对待，说完，带着团出去了。为了提高把握，古桥和天成兴冲冲地去射击场练习。正当他俩练习的时候，出现了一个年轻人，他态度无礼，而且言语傲慢，让古桥和天成很是生气。年轻人要过古桥的枪在他俩面前露了一手好枪法，就离开了，留下古桥和天成一脸的茫然。古桥和天成回到作战室，真波参谋向他们介绍一位新队员。他们一看居然就是刚才那个年轻人，“我叫青木，刚才失礼了。”正说了，通讯员报告有一架敌机向基地飞来，青木主动请缨要求出击，而且坚持一个人去就够了，真波参谋点头同意，让古桥一同前去。与敌机相遇时他们才发现所谓的敌机是桐山和团驾驶的模拟训练。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1503</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>30 為誰而光榮.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 09:04:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>开拓的力量</title>
+  <originaltitle>第1話</originaltitle>
+  <showtitle>银河奥特曼S</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="false" type="tmdb">3318357</uniqueid>
+  <uniqueid default="true" type="imdb">tt4265332</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>距离降星镇大决战的2年后，礼堂光开始了新的冒险，遇见了谜一般的战士——维克特利奥特曼，以及从宇宙而来的新的侵略者。此外还遇见了值得信赖的伙伴们，特搜队UPG。为了开拓未来，小光再次与银河一体化，向着激战的舞台大大地迈出了第一步！</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>TV Aichi</studio>
+  <studio>TVQ</studio>
+  <studio>TV Osaka</studio>
+  <studio>TVh</studio>
+  <studio>TSC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:57:13</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>1496</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人银河S_S01E01_S01E01.mp4</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

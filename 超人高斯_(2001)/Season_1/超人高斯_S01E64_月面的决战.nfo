@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:47:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>月面的决战</title>
+  <originaltitle>第64話</originaltitle>
+  <showtitle>高斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>64</episode>
+  <id>4804263</id>
+  <uniqueid default="false" type="tmdb">1654124</uniqueid>
+  <uniqueid default="false" type="trakt">1300136</uniqueid>
+  <uniqueid default="true" type="tvdb">4804263</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>与防卫军合作的，宇宙坐标P87点的混沌病毒歼灭战开始了，但混沌病毒不断出来干扰，以至于EYES基地也被它封锁了。武藏变身高斯，向包围EYES基地的混度病毒下了挑战书，高斯与混沌强化型奥特曼降落在了月球上，展开了激烈的战斗。吉井解读出来了水晶体上的文字，原来混沌病毒是为了统一纷乱的世界秩序而被制造出来的人工生命体。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人高斯_S01E64_月面的决战.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="64" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 06:41:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>欢迎来到爱染科技</title>
+  <originaltitle>アイゼンテックへようこそ</originaltitle>
+  <showtitle>罗布奥特曼</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>6777945</id>
+  <uniqueid default="false" type="tmdb">1559877</uniqueid>
+  <uniqueid default="false" type="trakt">3102847</uniqueid>
+  <uniqueid default="true" type="tvdb">6777945</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>凑活海兄弟二人与妹妹从凑潮那里获知，爱染科技的人员或许知道关于水火图片的事，于是他们兄弟三人去爱染科技询问询问爱染诚有关妈妈的事情，但途中出现怪兽，兄弟二人变身为奥特战士用新武器击败怪兽。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 06:41:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1477</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人RB_S01E03_欢迎来到爱染科技.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

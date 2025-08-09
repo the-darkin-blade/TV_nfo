@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:55:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>热浪来袭</title>
+  <originaltitle>熱波襲来</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id>553781</id>
+  <uniqueid default="false" type="tmdb">308074</uniqueid>
+  <uniqueid default="false" type="trakt">316930</uniqueid>
+  <uniqueid default="true" type="tvdb">553781</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>井上登门求玲子振作继续记者的工作，玲子却消极应对。我梦发现故乡出现莫名热浪，前往调查，在山腰部分发现了巨大生命体。生命体上用篆书体写着“炎山”二字。这预示了些什么……</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>28 熱浪舅來.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

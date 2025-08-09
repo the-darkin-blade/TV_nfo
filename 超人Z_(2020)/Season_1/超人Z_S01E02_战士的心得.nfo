@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:53:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>战士的心得</title>
+  <originaltitle>戦士の心得</originaltitle>
+  <showtitle>泽塔奥特曼</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id>7852483</id>
+  <uniqueid default="false" type="tmdb">2314849</uniqueid>
+  <uniqueid default="false" type="trakt">4342748</uniqueid>
+  <uniqueid default="true" type="tvdb">7852483</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>STORAGE的新任务来了，那就是对能随意消失身姿的透明怪兽内隆嘎的讨伐。遥辉与吸收了赛文加电能的内隆嘎苦战。为了打倒内隆嘎，STORAGE制定了新的作战方案。最终，遥辉和泽塔奥特曼能击败内隆嘎吗！？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>YouTube</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>dentsu</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>02 - 戰士的心得.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

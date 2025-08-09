@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:52:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>未知的朋友</title>
+  <originaltitle>第11話</originaltitle>
+  <showtitle>艾克斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1713071</uniqueid>
+  <uniqueid default="false" type="trakt">5312865</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>将父亲留下来的哥莫拉的闪光玩偶实体化成电子怪兽的测试的大地，以及担心他过于投入的Xio队员和艾克斯展开。无论大地如何努力电子哥莫拉都无法实体化。为什么哥莫拉不回应自己呢？大地被这苦恼所动摇了。就在这时，金古桥袭击了地球。大地虽然和艾克斯奥特曼一体化，但在强大无比的金古桥面前陷入了苦战，渐渐被逼入困境……</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1499</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>11 怪獸動彈不得.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

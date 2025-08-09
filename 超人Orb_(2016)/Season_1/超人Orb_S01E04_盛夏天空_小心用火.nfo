@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:50:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>盛夏天空 小心用火</title>
+  <originaltitle>真夏の空に火の用心</originaltitle>
+  <showtitle>欧布奥特曼</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>5313400</id>
+  <uniqueid default="false" type="tmdb">1224553</uniqueid>
+  <uniqueid default="true" type="imdb">tt5968202</uniqueid>
+  <uniqueid default="false" type="trakt">3435395</uniqueid>
+  <uniqueid default="false" type="tvdb">5313400</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>炎热的盛夏本就让人酷暑难耐，火之魔王兽魔格庞顿却偏偏挑在这个时候出现在天空中，欧布奥特曼用重光型态与之战斗，但欧布奥特曼的所有招数都对魔格庞顿没有效果，打算将魔格庞顿顶出地球的做法也失败了。重整旗鼓，凯借助泰罗与梦比优斯奥特曼的力量化身暴炎型，他利用暴风灭火的原理击败了强大的魔格庞顿。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1466</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>04 盛夏天空小心用火.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

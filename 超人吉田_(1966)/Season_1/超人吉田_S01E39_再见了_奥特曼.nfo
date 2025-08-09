@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>再见了 奥特曼</title>
+  <originaltitle>さらばウルトラマン</originaltitle>
+  <showtitle>超人吉田</showtitle>
+  <season>1</season>
+  <episode>39</episode>
+  <id>118818</id>
+  <uniqueid default="false" type="tmdb">248275</uniqueid>
+  <uniqueid default="false" type="tvrage">280266</uniqueid>
+  <uniqueid default="false" type="trakt">257002</uniqueid>
+  <uniqueid default="true" type="tvdb">118818</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>从大宇宙的彼方飞来的圆盘群，为了消灭科特队日本支部以及奥特曼从而以日本为目标。队员们都出动了，变得薄弱的日本支部被神秘的宇宙人从内部破坏了。并且宇宙人的王牌宇宙恐龙杰顿出现。早田变身奥特曼！以科特队基地为舞台，壮烈的战斗开始了！</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>Tokyo Laboratory</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1518</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>39 再見了，奧特曼.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="39" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

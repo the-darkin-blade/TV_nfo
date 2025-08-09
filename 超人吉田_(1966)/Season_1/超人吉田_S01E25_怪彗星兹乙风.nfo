@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>怪彗星兹乙风</title>
+  <originaltitle>怪彗星ツイフォン</originaltitle>
+  <showtitle>初代奥特曼</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>118804</id>
+  <uniqueid default="false" type="tmdb">248261</uniqueid>
+  <uniqueid default="false" type="tvrage">280252</uniqueid>
+  <uniqueid default="false" type="trakt">256988</uniqueid>
+  <uniqueid default="true" type="tvdb">118804</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>飞向地球的彗星兹乙风。轨道计算的结果表示，与地球的冲撞用纸一层能回避，不过，由于彗星的宇宙线的影响，氢弹引起自然爆炸的危险浮现了。在搜索日本阿尔卑斯山消失的氢弹的科特队面前，出现了齐卡斯和多拉考。并且咽下了氢弹的雷德王也觉醒，雪原的大格斗开始了！</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>Tokyo Laboratory</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1518</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>25 怪彗星茲乙風.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

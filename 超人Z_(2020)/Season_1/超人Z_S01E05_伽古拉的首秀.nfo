@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:53:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>伽古拉的首秀</title>
+  <originaltitle>ファースト・ジャグリング</originaltitle>
+  <showtitle>泽塔奥特曼</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>7852523</id>
+  <uniqueid default="false" type="tmdb">2346415</uniqueid>
+  <uniqueid default="false" type="trakt">4342751</uniqueid>
+  <uniqueid default="true" type="tvdb">7852523</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>冷冻怪兽佩吉拉袭击了城市！
+
+在佩吉拉吐出的猛烈冷气面前，storage的怪兽应对机甲也无计可施。
+
+面对这场危机，泽塔奥特曼将携新武器“泽塔光弩”迎战！没错，那是源自古代传说并重见天日的道具！
+
+战斗的结果究竟如何……！？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>YouTube</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>dentsu</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>05 - 薩古拉？首度登場.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

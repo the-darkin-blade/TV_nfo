@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:45:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>超人ACE</title>
+  <originaltitle>ウルトラマンA</originaltitle>
+  <showtitle>超人ACE</showtitle>
+  <sorttitle/>
+  <year>1972</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>7.8</value>
+      <votes>20</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>首部引入“奥特兄弟”概念的系列‌</plot>
+  <tagline/>
+  <runtime>25</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"1279","imdb":"tt1144410","wikidata":"Q582851","tvdb":"384177"}</episodeguide>
+  <id>384177</id>
+  <imdbid>tt1144410</imdbid>
+  <tmdbid>1279</tmdbid>
+  <uniqueid default="false" type="tmdb">1279</uniqueid>
+  <uniqueid default="false" type="imdb">tt1144410</uniqueid>
+  <uniqueid default="false" type="wikidata">Q582851</uniqueid>
+  <uniqueid default="true" type="tvdb">384177</uniqueid>
+  <premiered>1972-04-07</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Science Fiction</genre>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <country>日本</country>
+  <tag>japan</tag>
+  <tag>monster</tag>
+  <tag>hero</tag>
+  <tag>villain</tag>
+  <tag>superhero</tag>
+  <tag>extraterrestrial</tag>
+  <tag>giant monster</tag>
+  <tag>extraterrestrial life form</tag>
+  <tag>kaiju</tag>
+  <tag>giant</tag>
+  <tag>supervillain</tag>
+  <tag>extraterrestrial life</tag>
+  <tag>ultraman</tag>
+  <tag>henshin heroes</tag>
+  <tag>tokusatsu</tag>
+  <actor>
+    <name>高峰圭二</name>
+    <role>Seiji Hokuto</role>
+    <profile>https://www.themoviedb.org/person/139374</profile>
+    <tmdbid>139374</tmdbid>
+  </actor>
+  <actor>
+    <name>纳谷悟朗</name>
+    <role>Ultraman Ace (voice)</role>
+    <profile>https://www.themoviedb.org/person/616</profile>
+    <tmdbid>616</tmdbid>
+  </actor>
+  <actor>
+    <name>星光子</name>
+    <role>Yuko Minami</role>
+    <profile>https://www.themoviedb.org/person/1088687</profile>
+    <tmdbid>1088687</tmdbid>
+  </actor>
+  <actor>
+    <name>瑳川哲朗</name>
+    <role>"Devil" Captain Goro Ryu</role>
+    <profile>https://www.themoviedb.org/person/82509</profile>
+    <tmdbid>82509</tmdbid>
+  </actor>
+  <actor>
+    <name>冲田骏一</name>
+    <role>Ichiroh Yamanaka</role>
+    <profile>https://www.themoviedb.org/person/1739195</profile>
+    <tmdbid>1739195</tmdbid>
+  </actor>
+  <actor>
+    <name>Masaaki Yamamoto</name>
+    <role>Tsutomu Konno</role>
+    <profile>https://www.themoviedb.org/person/1975084</profile>
+    <tmdbid>1975084</tmdbid>
+  </actor>
+  <actor>
+    <name>梅津昭典</name>
+    <role>Dan Umezu</role>
+    <profile>https://www.themoviedb.org/person/1492838</profile>
+    <tmdbid>1492838</tmdbid>
+  </actor>
+  <actor>
+    <name>辻村真人</name>
+    <role>Ultraman (voice)</role>
+    <profile>https://www.themoviedb.org/person/614</profile>
+    <tmdbid>614</tmdbid>
+  </actor>
+  <actor>
+    <name>阪修</name>
+    <role>Ultraseven (voice)</role>
+    <profile>https://www.themoviedb.org/person/83932</profile>
+    <tmdbid>83932</tmdbid>
+  </actor>
+  <actor>
+    <name>山下启介</name>
+    <role>Ultraman Jack (voice)</role>
+    <profile>https://www.themoviedb.org/person/1241770</profile>
+    <tmdbid>1241770</tmdbid>
+  </actor>
+  <actor>
+    <name>梶哲也</name>
+    <role>Father of Ultra (voice)</role>
+    <profile>https://www.themoviedb.org/person/1295547</profile>
+    <tmdbid>1295547</tmdbid>
+  </actor>
+  <actor>
+    <name>岸田森</name>
+    <role>Narrator</role>
+    <profile>https://www.themoviedb.org/person/82971</profile>
+    <tmdbid>82971</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-08 23:43:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

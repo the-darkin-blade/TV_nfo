@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 06:42:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>我很快乐</title>
+  <originaltitle>私はハッピー</originaltitle>
+  <showtitle>罗布奥特曼</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id>6931526</id>
+  <uniqueid default="false" type="tmdb">1726588</uniqueid>
+  <uniqueid default="false" type="trakt">3267983</uniqueid>
+  <uniqueid default="true" type="tvdb">6931526</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>鲁格赛特最终还是实现了实体化，它为了毁灭地球开始大肆破坏城市。美剑沙姬变身成格尔吉欧雷吉纳，赌上一切准备与鲁格赛特决一死战，美剑沙姬一边和鲁格赛特战斗，一边将罗布水晶的力量全部聚集到体内，做好了随时自爆的准备。此时罗布奥特曼站了出来，想要阻止这一切，美剑沙姬也因此想起了当年的两位哥哥，为了保护自己两位哥哥而牺牲的画面。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 06:41:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1475</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人RB_S01E24_我很快乐.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

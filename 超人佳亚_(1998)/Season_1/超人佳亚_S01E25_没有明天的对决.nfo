@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:55:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>没有明天的对决</title>
+  <originaltitle>明日なき対決</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>553751</id>
+  <uniqueid default="false" type="tmdb">308071</uniqueid>
+  <uniqueid default="false" type="trakt">316927</uniqueid>
+  <uniqueid default="true" type="tvdb">553751</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>盖亚奥特曼用力量把怪兽送回了原处，可阿古茹奥特曼却暴力消灭了自己唤醒的奥特曼。两位奥特曼合作的日子永远无法到来么……就在此时，天空的星星出现了扭曲，这一怪异现象引起了XIG的注意，这是否是怪兽作祟……</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1468</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>25 沒明天的封決.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

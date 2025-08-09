@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:49:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>超人梅比斯</title>
+  <originaltitle>ウルトラマンメビウス</originaltitle>
+  <showtitle>超人梅比斯</showtitle>
+  <sorttitle/>
+  <year>2006</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.5</value>
+      <votes>14</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>昭和世界观回归作，致敬历代奥特兄弟‌。
+
+梦比优斯奥特曼，他是爱迪奥特曼离开地球，时隔二十五年后才在地球上再度降临的年轻奥特战士。梦比优斯是宇宙警备队的新秀，运用奥特之父赠予的“梦比姆气息”，变化出梦比姆光剑和梦比姆射线等必杀技作战。在地球上化身为名叫日比野未来的青年，加入“CREW GUYS”的队伍，与伙伴们为保卫地球的和平共同努力。在最终话打败了安培拉星人后，梦比优斯告别了地球的同伴们后回归光之国，成为了奥特兄弟的一员。</plot>
+  <tagline/>
+  <runtime>30</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"5646","imdb":"tt1205892","wikidata":"Q3270546","tvdb":"90261"}</episodeguide>
+  <id>90261</id>
+  <imdbid>tt1205892</imdbid>
+  <tmdbid>5646</tmdbid>
+  <uniqueid default="false" type="tmdb">5646</uniqueid>
+  <uniqueid default="false" type="imdb">tt1205892</uniqueid>
+  <uniqueid default="false" type="wikidata">Q3270546</uniqueid>
+  <uniqueid default="true" type="tvdb">90261</uniqueid>
+  <premiered>2006-04-08</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <studio>CBC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <country>日本</country>
+  <tag>monster</tag>
+  <tag>hero</tag>
+  <tag>villain</tag>
+  <tag>superhero</tag>
+  <tag>alien</tag>
+  <tag>giant monster</tag>
+  <tag>dinosaur</tag>
+  <tag>alien invasion</tag>
+  <tag>super power</tag>
+  <tag>kaiju</tag>
+  <tag>anniversary</tag>
+  <tag>supervillain</tag>
+  <tag>aging superhero</tag>
+  <tag>kyodai hero</tag>
+  <tag>ultraman</tag>
+  <tag>returning hero</tag>
+  <tag>giant hero</tag>
+  <tag>henshin heroes</tag>
+  <tag>tokusatsu</tag>
+  <actor>
+    <name>五十嵐隼士</name>
+    <role>Mirai Hibino / Ultraman Mebius</role>
+    <profile>https://www.themoviedb.org/person/139371</profile>
+    <tmdbid>139371</tmdbid>
+  </actor>
+  <actor>
+    <name>仁科克基</name>
+    <role>Ryu Aihara</role>
+    <profile>https://www.themoviedb.org/person/63703</profile>
+    <tmdbid>63703</tmdbid>
+  </actor>
+  <actor>
+    <name>斉川あい</name>
+    <role>Marina Kazama</role>
+    <profile>https://www.themoviedb.org/person/1239096</profile>
+    <tmdbid>1239096</tmdbid>
+  </actor>
+  <actor>
+    <name>渡边大辅</name>
+    <role>George Ikaruga</role>
+    <profile>https://www.themoviedb.org/person/1239098</profile>
+    <tmdbid>1239098</tmdbid>
+  </actor>
+  <actor>
+    <name>平田弥里</name>
+    <role>Konomi Amagai</role>
+    <profile>https://www.themoviedb.org/person/1239099</profile>
+    <tmdbid>1239099</tmdbid>
+  </actor>
+  <actor>
+    <name>内野謙太</name>
+    <role>Teppei Kuze</role>
+    <profile>https://www.themoviedb.org/person/1239100</profile>
+    <tmdbid>1239100</tmdbid>
+  </actor>
+  <actor>
+    <name>田中实</name>
+    <role>Shingo Sakomizu</role>
+    <profile>https://www.themoviedb.org/person/1196594</profile>
+    <tmdbid>1196594</tmdbid>
+  </actor>
+  <actor>
+    <name>石井愃一</name>
+    <role>Aide Toriyama</role>
+    <profile>https://www.themoviedb.org/person/1060571</profile>
+    <tmdbid>1060571</tmdbid>
+  </actor>
+  <actor>
+    <name>前田丰</name>
+    <role>Secretary Aide Maru</role>
+    <profile>https://www.themoviedb.org/person/1239103</profile>
+    <tmdbid>1239103</tmdbid>
+  </actor>
+  <actor>
+    <name>Saaya Ishikawa</name>
+    <role>Yuki Misaki</role>
+    <profile>https://www.themoviedb.org/person/1239104</profile>
+    <tmdbid>1239104</tmdbid>
+  </actor>
+  <actor>
+    <name>Shin Ishikawa</name>
+    <role>Kazuya Serizawa</role>
+    <profile>https://www.themoviedb.org/person/1175053</profile>
+    <tmdbid>1175053</tmdbid>
+  </actor>
+  <actor>
+    <name>难波圭一</name>
+    <role>Ultraman Hikari (Voice)</role>
+    <profile>https://www.themoviedb.org/person/237075</profile>
+    <tmdbid>237075</tmdbid>
+  </actor>
+  <actor>
+    <name>和田三四郎</name>
+    <role>Ultraman Mebius (Body)</role>
+    <profile>https://www.themoviedb.org/person/1929493</profile>
+    <tmdbid>1929493</tmdbid>
+  </actor>
+  <actor>
+    <name>Satoshi Yamamoto</name>
+    <role>Ultraman Mebius (Body)</role>
+    <profile>https://www.themoviedb.org/person/2238299</profile>
+    <tmdbid>2238299</tmdbid>
+  </actor>
+  <actor>
+    <name>岩田栄慶</name>
+    <role>Ultraman Hikari (Body) / Ultraman Mebius Brave (Body)</role>
+    <profile>https://www.themoviedb.org/person/1883804</profile>
+    <tmdbid>1883804</tmdbid>
+  </actor>
+  <trailer>plugin://plugin.video.youtube/play/?video_id=zYf3sON6B9w</trailer>
+  <dateadded>2025-08-09 08:46:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

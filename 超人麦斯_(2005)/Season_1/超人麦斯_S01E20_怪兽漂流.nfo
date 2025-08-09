@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:48:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>怪兽漂流</title>
+  <originaltitle>怪獣漂流</originaltitle>
+  <showtitle>麦克斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>631491</id>
+  <uniqueid default="false" type="tmdb">236323</uniqueid>
+  <uniqueid default="false" type="trakt">245237</uniqueid>
+  <uniqueid default="true" type="tvdb">631491</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>由于太阳黑子的异常活动，宇宙亚空间隧道出现了。 
+
+从那个隧道，一副天不怕地不怕模样的沉睡的怪兽漂到了地球。 
+
+想试着为怪兽起次名的富冈长官命名它为“库劳德斯”。队员们的反应很微妙。 
+
+沉睡的库劳德斯还没有意识到自己在地球。但是，因为气流带着的怪兽，正朝向市中心！ 
+
+DASH紧急出动。制定用绳索把库劳德斯拉回眼空见隧道的作战方案。 
+
+在途中，库劳德斯被吵醒了。 
+
+在空中漂浮的库劳德斯不断下落是因为变的沉重了。 
+
+难道这个怪兽随着睡醒就会变的沉重？ 
+
+绳索断了，向地面不断坠去。 
+
+可是下面是市中心，绝对不能这样坠下。无论如何都要挽救。 
+
+DASH尽力地消去街上的声音，不过，寺院的钟声，卡拉OK大会等还是不断造成危机。 
+
+先想办法突破雷云！ 
+
+危在旦夕。陷入如此困境的DASH究竟会怎么应对呢？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1450</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人麦斯_S01E20_怪兽漂流.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

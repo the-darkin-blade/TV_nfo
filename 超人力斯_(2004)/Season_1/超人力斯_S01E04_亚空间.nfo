@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:47:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亚空间</title>
+  <originaltitle>亜空間 ―メタフィールド―</originaltitle>
+  <showtitle>奈克赛斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>556011</id>
+  <uniqueid default="false" type="tmdb">59584</uniqueid>
+  <uniqueid default="false" type="trakt">71045</uniqueid>
+  <uniqueid default="true" type="tvdb">556011</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>之前那只异生兽再次出现了，这次进化得更为强大。异生兽只要与强者对决过就能“吸收”对方的情况进而达到模仿并进化的目地。为了将潜伏在隧道内的异生兽歼灭，夜袭队进入了出击准备的状态。
+
+被称为“预知者”的谜般美少年——吉良泽优作战参谋下达了作战配置的指示。身为最后一道防线的孤门在心中作下这新的决意。孤门、西条、吉良泽三人将各自心中对于巨人的想法收起来的同时，战斗的时刻立即到来。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CBC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1450</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人力斯_S01E04_亚空间.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:01:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>可疑的邻居</title>
+  <originaltitle>怪しい隣人</originaltitle>
+  <showtitle>赛文奥特曼</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>8017910</id>
+  <uniqueid default="false" type="tmdb">1658543</uniqueid>
+  <uniqueid default="false" type="trakt">5201847</uniqueid>
+  <uniqueid default="true" type="tvdb">8017910</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>安奴朋友的弟弟阿明的腿受了伤，只能在家里休息。小家伙一个人无聊，只得看着窗外发呆。他发现邻居一个穿黑衣的男子常常坐在那里一动不动的十几个小时，而且偶尔的举动也十分古怪。他告诉姐姐绿子和前来探望的安奴，这是个可疑的邻居，却被姐姐告诫不要胡乱猜测。回到基地，安奴请团也去看看阿明，免得阿明胡思乱想得妄想症。警备队基地里探测到一股奇怪的电波，电波来源就是阿明所居住的别墅区。阿明又在观察邻居的动态了，绿子探头向窗外看去，发现一只正张开翅膀在飞行的小鸟去却停留在半空。绿子大惊，她正要打电话给奥特警备队，安奴和团来了。团用透视眼观察那只小鸟，小鸟却消失了。团决定亲自去调查，吩咐安奴向队长报告，自己就从窗口跳了出去，也消失了。安奴、绿子和阿明都吓了一跳。团落进了一个奇怪的空间，面前站着一个黑衣男人，脸上毫无表情。“终于还是给发现了。”他说道。“你是谁？”团问他。“我是伊卡尔斯星人，我制造了这个连接三维空间和四维空间的机器，虽然在这个空间不怎么舒服，但是你们奥特警备队是无法攻击到我的。在这个空间你什么也做不了。”团拿出奥特眼镜想要变身，但是失败了，在四维空间他无法变成赛文。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1516</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>10 可疑的鄰居.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

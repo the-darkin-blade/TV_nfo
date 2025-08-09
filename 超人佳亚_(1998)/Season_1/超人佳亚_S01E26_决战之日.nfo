@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:55:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>决战之日</title>
+  <originaltitle>決着の日</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id>553761</id>
+  <uniqueid default="false" type="tmdb">308072</uniqueid>
+  <uniqueid default="false" type="trakt">316928</uniqueid>
+  <uniqueid default="true" type="tvdb">553761</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>盖亚奥特曼与阿古茹奥特曼进行对决。这对XIG、地球都不是件好事。同时，真正的根源性灭亡体正在逐渐逼近地球。藤宫和我梦能不能以武会友，地球能否避开这一危机呢？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1468</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>26 決著之日.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

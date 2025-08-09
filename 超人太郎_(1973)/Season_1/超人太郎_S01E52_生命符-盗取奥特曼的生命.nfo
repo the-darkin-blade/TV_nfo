@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:44:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>生命符-盗取奥特曼的生命</title>
+  <originaltitle>第52話</originaltitle>
+  <showtitle>超人太郎</showtitle>
+  <season>1</season>
+  <episode>52</episode>
+  <id>626821</id>
+  <uniqueid default="false" type="tmdb">268282</uniqueid>
+  <uniqueid default="false" type="trakt">276959</uniqueid>
+  <uniqueid default="true" type="tvdb">626821</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>卑鄙的怪兽多罗波恩，想盗取泰罗的计时器。在这时，杰克·奥特曼挺身而出解救了泰罗，自己的生命符被怪兽拿走。泰罗如何挽回这场局面？杰克还有救吗？
+
+（出场怪兽：多罗波恩）</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>52.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="52" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:01:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>团和赛文的决斗</title>
+  <originaltitle>ダン対セブンの決闘</originaltitle>
+  <showtitle>超人赛文(七号)</showtitle>
+  <season>1</season>
+  <episode>46</episode>
+  <id>8017955</id>
+  <uniqueid default="false" type="tmdb">1658597</uniqueid>
+  <uniqueid default="false" type="trakt">5201883</uniqueid>
+  <uniqueid default="true" type="tvdb">8017955</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>伊良湖周围发生了一系列异常事件，奥特警备队派出海狼号去该海域侦察，同时又派了团、古桥和安奴乔装去那里暗中调查。一艘不知从冒出来的高级游艇引起了他们的注意，从游艇上下来一个长发女子，驾车驶往度假酒店。团和安奴一路跟到酒店，隔着游泳池监视她。那女子在泳池游了一圈，坐在一边的太阳椅上悠闲地看着手表。忽然她起身离开，走之前微笑着向团点头示意。团正要跟上去，通讯器里传来海狼号遭到袭击的消息，团和安奴拿起那个女子故意留下的手表，手表上的时间正指向海狼号爆炸的那一刻。团和安奴开始追踪那个女子，等他们发现她的踪影，她已经驾车去远了。团让安奴联系古桥和总部，自己开车去追。在海边留守的古桥得到消息，在那女子的必经之路上设置路障，那女子却毫不理会地飞车驶过。一个转弯，车消失了。团直追踪到一个灯塔前，被设置在阶梯上电磁屏障击倒。等他醒来时发现自己被绑在一张床上，门外走进来两个人，一个正是那个长发女子，还有一个老者，他们穿着一样的衣服。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1503</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>46 團對賽文的決斗.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="46" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

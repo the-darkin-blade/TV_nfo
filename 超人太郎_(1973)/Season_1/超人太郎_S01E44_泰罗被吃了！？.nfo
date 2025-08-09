@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:44:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>泰罗被吃了！？</title>
+  <originaltitle>第44話</originaltitle>
+  <showtitle>泰罗奥特曼</showtitle>
+  <season>1</season>
+  <episode>44</episode>
+  <id>626741</id>
+  <uniqueid default="false" type="tmdb">268270</uniqueid>
+  <uniqueid default="false" type="trakt">276951</uniqueid>
+  <uniqueid default="true" type="tvdb">626741</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在新年的庙会上，泰罗与地球人一起逛庙会，被怪兽奥尼班巴盯上。它心想泰罗是一个背叛宇宙的“叛徒”，于是惩罚泰罗将他装进了豆子里面。泰罗眼看就要被吃掉了，奥尼班巴乘机变大扰乱东京，泰罗能脱险吗？
+
+（出场怪兽：奥尼班巴）</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>44.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="44" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

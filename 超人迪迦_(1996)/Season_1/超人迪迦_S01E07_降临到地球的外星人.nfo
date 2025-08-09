@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 07:41:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>降临到地球的外星人</title>
+  <originaltitle>地球に降りてきた男</originaltitle>
+  <showtitle>迪迦奥特曼</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>7783399</id>
+  <uniqueid default="false" type="tmdb">163642</uniqueid>
+  <uniqueid default="false" type="trakt">4231742</uniqueid>
+  <uniqueid default="true" type="tvdb">7783399</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>企图侵略地球的雷丘兰星人在接近地球时，因宇宙船遭到攻击而对宇宙空间站的技术长官七赖怀有深深的怨恨。雷丘兰星人在知道了丽娜队员是七赖的女儿后就绑架了她，企图让七赖尝到地狱般的痛苦。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 07:41:07</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人迪迦_S01E07_S01E07.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:47:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>封锁</title>
+  <originaltitle>封鎖 ―A.D.2009―</originaltitle>
+  <showtitle>奈克赛斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id>556401</id>
+  <uniqueid default="false" type="tmdb">59614</uniqueid>
+  <uniqueid default="false" type="trakt">71075</uniqueid>
+  <uniqueid default="true" type="tvdb">556401</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>夜袭队队员们刚开始知道从TLT北美本部来的检查官水原沙罗，知道了连自己的也要被处理了这个真相。5年前在新宿发生的大灾难，实际上是奥特曼和异生兽的首次战斗。事件发生后，TLT在全世界的人中开始搜查消除奥特曼和异生兽的情报，消除这段记忆。
+
+当队员们对为什么要这么做提出疑问的时候，沙罗显出异生兽才有的恐怖的神态。在那个时候，怜在的地方又出现了异生兽，它的目的是抹杀奥特曼的存在。可是，怜的身体已经不可以在变身了。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CBC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1418</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人力斯_S01E34_封锁.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

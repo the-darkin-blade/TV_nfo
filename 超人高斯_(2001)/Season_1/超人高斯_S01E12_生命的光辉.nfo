@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:46:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>生命的光辉</title>
+  <originaltitle>第12話</originaltitle>
+  <showtitle>高斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>4804211</id>
+  <uniqueid default="false" type="tmdb">1654067</uniqueid>
+  <uniqueid default="false" type="trakt">1298562</uniqueid>
+  <uniqueid default="true" type="tvdb">4804211</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>怪兽伊非美拉出现并破坏城市，风吹想要展开攻击时突然听到了妹妹的声音，出神间遭到了伊非美拉的袭击。伊非美拉袭击了泰克雷霆后显得很开心，随后睡着了。绫乃查到了室町时代、平安时代关于大怪兽出现一天后便消失的信息，而资料中的怪兽正是伊非美拉。了解了伊非美拉的特性后，青年精英队拼命地保护它，但防卫军却无情地开始了攻击。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人高斯_S01E12_生命的光辉.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

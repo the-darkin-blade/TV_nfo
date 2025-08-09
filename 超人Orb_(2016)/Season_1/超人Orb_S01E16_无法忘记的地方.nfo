@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:50:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>无法忘记的地方</title>
+  <originaltitle>忘れられない場所</originaltitle>
+  <showtitle>欧布奥特曼</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>5784612</id>
+  <uniqueid default="false" type="tmdb">1713105</uniqueid>
+  <uniqueid default="true" type="imdb">tt6180710</uniqueid>
+  <uniqueid default="false" type="trakt">3435446</uniqueid>
+  <uniqueid default="false" type="tvdb">5784612</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>与加拉特隆一战后人们对欧布奥特曼的映象有了变化，暗耀形态下的欧布异常暴戾，虽然打败了加拉特隆，但欧布也成为了人类公敌。梦野在病房内醒来后陷入了沮丧，但她的妈妈还是支持曾经屡次解救地球的奥特曼。伽古拉趁机找到开，他融合出超级怪兽“杰庞顿”逼凯就范，不愿陷入黑暗的凯逃离了战斗。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1466</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>16 無法忘記的地方.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

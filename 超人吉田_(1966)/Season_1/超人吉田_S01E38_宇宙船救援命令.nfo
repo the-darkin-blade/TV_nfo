@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>宇宙船救援命令</title>
+  <originaltitle>宇宙船救助命令</originaltitle>
+  <showtitle>超人吉田</showtitle>
+  <season>1</season>
+  <episode>38</episode>
+  <id>118817</id>
+  <uniqueid default="false" type="tmdb">248276</uniqueid>
+  <uniqueid default="false" type="tvrage">280265</uniqueid>
+  <uniqueid default="false" type="trakt">257001</uniqueid>
+  <uniqueid default="true" type="tvdb">118817</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>Q星无人探测器探测计划。在作业途中，作为中继基地的宇宙空间站V2的联络中断，科特队乘坐宇宙船·白鸟出动。为了回收修理V2故障部位所需的保险丝，科特队前往Q星，但Q星是宇宙怪兽奇拉和萨伊哥飞扬跋扈的危险地带。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>Tokyo Laboratory</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1518</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>38 宇宙船救援命令.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="38" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

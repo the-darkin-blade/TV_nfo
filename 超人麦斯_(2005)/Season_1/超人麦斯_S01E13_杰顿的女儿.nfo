@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:48:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>杰顿的女儿</title>
+  <originaltitle>ゼットンの娘</originaltitle>
+  <showtitle>麦克斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>631421</id>
+  <uniqueid default="false" type="tmdb">236316</uniqueid>
+  <uniqueid default="false" type="trakt">245230</uniqueid>
+  <uniqueid default="true" type="tvdb">631421</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>一个星期日，年轻女子拜访了吉永教授。 
+
+女子的名字叫夏美。她声称“怪兽杰顿被从宇宙送来，为了打败麦克斯奥特曼”。 
+
+夏美自称自己“杰顿的女儿”，这个称法是来自作为父亲的杰顿星人所言。 
+
+队员们是半信半疑，不过，刚刚装备全世界的最先进监视系统投入使用，地球应该是安全的。 
+
+那是，杰顿星人传来了信息。 
+
+夏美所说的怪兽杰顿出现的话是真的……。 
+
+快斗和瑞希开始在夏美身边调查。 
+
+可是完全没有可疑的地方，周围的人也没发现什么。 
+
+一个夜晚，杰顿星人出现在夏美的房间。 
+
+像被附身般，夏美侵入了巨人基地。 
+
+队员们与有出乎想象武功的夏美苦战。 
+
+那是，怪兽杰顿出现了！因为监视系统被破坏了。 
+
+麦克斯奥特曼变身出现，不过，面对怪兽杰顿的压倒性力量，麦克斯的能量达到了极限。 
+
+发生了无法相信的事！又一位奥特曼从天空出现！</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1450</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人麦斯_S01E13_杰顿的女儿.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

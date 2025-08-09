@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>迷宫的莉莉娅</title>
+  <originaltitle>迷宮のリリア</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>553691</id>
+  <uniqueid default="false" type="tmdb">308064</uniqueid>
+  <uniqueid default="false" type="trakt">316921</uniqueid>
+  <uniqueid default="true" type="tvdb">553691</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>敦子值班监控通讯时，陷入了沉思……原来敦子两年任职期即将到头，她纠结该如何去留。就在此时，XIG上空出现了不明光点，墩子注意到怪样时被不明物体侵入了大脑，敦子不为人知的过去被发现。之后，天空出现巨大虫洞，XIG派闪电队出击。敦子模样异常，是什么扰乱了敦子？闪电队也遭到了莫名光线的干扰，那究竟是什么呢？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>19 迷言之莉莉王.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

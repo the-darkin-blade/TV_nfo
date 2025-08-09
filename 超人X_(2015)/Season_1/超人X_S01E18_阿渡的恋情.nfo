@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:52:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿渡的恋情</title>
+  <originaltitle>第18話</originaltitle>
+  <showtitle>艾克斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1713083</uniqueid>
+  <uniqueid default="false" type="trakt">5312894</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>受到青梅竹马的菜菜子的鼓励，渡在橄榄球比赛中非常努力。但是看到菜菜子和隼人的亲密样子，渡开始慌了。而这时，突然出现的宇宙化猫·MU和沐浴了暗黑雷暴能量的雷德王使城市陷入了大混乱。正当艾克斯出现时，MU却黏上了艾克斯开始撒娇了！MU的目的是?渡的恋情又会如何？</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1500</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>18 突擊!深入Xio24小時.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

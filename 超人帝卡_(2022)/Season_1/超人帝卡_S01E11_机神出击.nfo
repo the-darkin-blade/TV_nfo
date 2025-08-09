@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:53:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>机神出击</title>
+  <originaltitle>機神出撃</originaltitle>
+  <showtitle>德凯奥特曼</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>9354297</id>
+  <uniqueid default="false" type="tmdb">3959947</uniqueid>
+  <uniqueid default="false" type="trakt">6719582</uniqueid>
+  <uniqueid default="true" type="tvdb">9354297</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>终于！终于！！精英胜利队将配备机器人作为新装备！它的名字是特拉菲扎！！为大家憧憬的机器人装备沸腾的奏大他们，不过，为何在进行启动测试的特拉菲扎面前怪兽一个接一个出现！！德凯奥特曼与怪兽战斗的时候，特拉菲扎最后能否顺利出击呢？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>TV Aichi</studio>
+  <studio>TVQ</studio>
+  <studio>TV Osaka</studio>
+  <studio>TVh</studio>
+  <studio>TSC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1496</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>11 - 機神出擊.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

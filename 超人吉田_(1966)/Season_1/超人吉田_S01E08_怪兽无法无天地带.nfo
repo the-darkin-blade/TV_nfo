@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>怪兽无法无天地带</title>
+  <originaltitle>怪獣無法地帯</originaltitle>
+  <showtitle>初代奥特曼</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>118787</id>
+  <uniqueid default="false" type="tmdb">248243</uniqueid>
+  <uniqueid default="false" type="tvrage">280235</uniqueid>
+  <uniqueid default="false" type="trakt">256971</uniqueid>
+  <uniqueid default="true" type="tvdb">118787</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>由于火山活动而变成无人岛的多多良岛，重新开始了定点观测。但是，由于无法与观测员取得联系，科特队前往调查。他们在多良岛看到的是一群跋扈岛屿的怪兽。在为搜索生存者而苦战的科特队面前，出现了友好珍兽皮古蒙。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>Tokyo Laboratory</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1519</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>08 無法無天的怪獸地帶.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:01:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>从V3来的男子</title>
+  <originaltitle>V3から来た男</originaltitle>
+  <showtitle>超人赛文(七号)</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>8017914</id>
+  <uniqueid default="false" type="tmdb">1658559</uniqueid>
+  <uniqueid default="false" type="trakt">5201850</uniqueid>
+  <uniqueid default="true" type="tvdb">8017914</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在地球时间24时06分，宇宙站V3发现一架宇宙船向地球飞来，V3的仓田队长立刻带领队员出击，但是除了仓田的座机，其他两驾战机都被宇宙船击毁，队员也牺牲了。宇宙船的燃料用尽，降落在之富山地，击中了前来接应的奥特飞鹰1号的尾部，飞鹰1号只得迫降。仓田的座机也被击中，他撇下昏倒的队员独自跳伞。 回到奥特警备队的仓田使桐山大大地松了口气，桐山和仓田从军官学校开始就是同学，是十几年的老朋友，这次原以为仓田殉职了，现在看到他平安回来，总算放心了。仓田告诉他飞鹰1号迫降的位置，让他们前去接应天成和古桥。飞鹰1号上的天成和古桥被抓进了宇宙船关在一个透明柜里，这个特殊装置复制了天成和古桥，让假人回到基地去偷燃料。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1518</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>13 從V3來的男子.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>虚幻的雪山</title>
+  <originaltitle>まぼろしの雪山</originaltitle>
+  <showtitle>初代奥特曼</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id>118809</id>
+  <uniqueid default="false" type="tmdb">248238</uniqueid>
+  <uniqueid default="false" type="tvrage">280257</uniqueid>
+  <uniqueid default="false" type="trakt">256993</uniqueid>
+  <uniqueid default="true" type="tvdb">118809</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>即使是在夏天也被雪包围的饭田山，被称为神秘区域。那里有传说中的怪兽乌的目击报告，科特队前往当地。被称为“雪子”的少女小雪因为和乌联系而被当地居民讨厌，甚至面临生命危机。就像在保护小雪一样的乌出现在山脚下的滑雪场。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>Tokyo Laboratory</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1518</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>30 虛幻的雪山.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

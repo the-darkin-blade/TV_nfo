@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 07:07:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>冒险狂来了！</title>
+  <originaltitle>冒険野郎が来た！</originaltitle>
+  <showtitle>雷欧奥特曼</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>5047522</id>
+  <uniqueid default="false" type="tmdb">1680566</uniqueid>
+  <uniqueid default="false" type="trakt">1314807</uniqueid>
+  <uniqueid default="true" type="tvdb">5047522</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>这一天，体育俱乐部的大家在野外练习长跑，突然怪兽班吉出现了。一个穿着土著人衣服的人跳了一场奇怪的舞后冲了过去，赶跑了怪兽。然后他告诉源，自己是他的新搭档佐藤三郎（=东龙明）。
+
+源和佐藤巡逻时吃午饭的时候，佐藤发现了地下的一个奇怪的洞，那竟然是怪兽的鼻孔。怪兽开始了破坏，源向MAC总部报告，却完全不是怪兽的对手。于是佐藤爬到了气球上面“吓唬”怪兽。
+
+怪兽暂时被吓退后又出现了，并开始模仿刚刚佐藤吓唬自己的动作。于是源便让佐藤把制服充上气，让班吉模仿；佐藤在空中又故意抽烟给班吉看，调戏班吉。
+
+突然，佐藤的绳子断了，源便变身为雷欧，救下了佐藤，并吹出特殊瓦斯把班吉送到了宇宙里。
+
+佐藤离开了MAC，前往喜马拉雅山探险。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 07:07:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1530</durationinseconds>
+      </video>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人尼奥_S01E12_S01E12.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

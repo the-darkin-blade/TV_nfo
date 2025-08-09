@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:50:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>内心大扫除</title>
+  <originaltitle>心の大掃除</originaltitle>
+  <showtitle>欧布奥特曼</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>5784609</id>
+  <uniqueid default="false" type="tmdb">1713092</uniqueid>
+  <uniqueid default="true" type="imdb">tt6119200</uniqueid>
+  <uniqueid default="false" type="trakt">3435440</uniqueid>
+  <uniqueid default="false" type="tvdb">5784609</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>梦野回来后发现办公室比她离开的时候还要脏，即便队员们不愿意怪异现象搜索小组的大扫除也开始了，大家在整理过程中都看到了曾经用过的东西，还有与怪兽有关的记忆，不知不觉中大家已经围绕怪兽灾难做出了很多努力，而帮助他们一起打扫卫生的红凯也回想起了借助奥特战士们的力量与怪兽战斗的点点滴滴。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1496</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>13 內心大掃除.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

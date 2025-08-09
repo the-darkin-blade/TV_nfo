@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:01:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>必杀的0.1秒</title>
+  <originaltitle>必殺の0.1秒</originaltitle>
+  <showtitle>超人赛文(七号)</showtitle>
+  <season>1</season>
+  <episode>36</episode>
+  <id>8017943</id>
+  <uniqueid default="false" type="tmdb">1658585</uniqueid>
+  <uniqueid default="false" type="trakt">5201873</uniqueid>
+  <uniqueid default="true" type="tvdb">8017943</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>地球防卫军举行一年一度的射击比赛，索加和广田的成绩并列第一，于是加赛决胜负。广田的表现出色，一击命中；而索加在最后发挥失误，输了比赛。队员都安慰索加明年再来过，这时广田捧着奖杯过来炫耀了一番，大家都很生气。索加却说广田其实人是不错的，只是太在意比赛了。回到房间的广田正在休息，房间忽然响起一个声音，“是我帮助获取胜利的，现在该轮到你履行诺言了。”“什么？是你让我赢得比赛的吗？”“是的，昨晚你不是说过，只要能赢得比赛，即使是出卖朋友出卖灵魂也在所不惜吗？”……司令室里，真波参谋向广田和索加下达一项命令。地球防卫军正在开发人工太阳，负责开发的利彼得博士就要来日本出席会议，为了保证博士的安全，司令部决定由射击比赛的两位优胜者担任保护博士的任务。机场外，到达日本的利彼得博士登上了地球防卫军的专用车，广田和博士在第一辆车上，索加和另一名队员在后一辆车上。行至半路，一辆卡车把两辆车分开了，卡车的载物斗里有人向索加的车里射击，一名队员当场死亡。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1503</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>36 決定勝負的0.1秒.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="36" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

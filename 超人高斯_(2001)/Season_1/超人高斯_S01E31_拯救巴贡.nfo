@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:46:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>拯救巴贡</title>
+  <originaltitle>第31話</originaltitle>
+  <showtitle>高斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id>4804230</id>
+  <uniqueid default="false" type="tmdb">1654091</uniqueid>
+  <uniqueid default="false" type="trakt">1299001</uniqueid>
+  <uniqueid default="true" type="tvdb">4804230</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>混沌病毒一路追踪武藏而至，巴贡为了保护武藏将他一把推开。武藏被送往SRC医疗中心，为确定是否被混沌病毒附身做了各种检查。河野医生告诉武藏混沌巴格是附着在垃圾上的病毒，武藏听后精神紧绷，四处寻找巴贡，可当找到时发现巴贡已经变成了凶恶的机器人。巴贡体内的微型芯片被病毒入侵，只要对周遭回路造成一丁点的影响，就会要了巴贡的命，武藏究竟会释放克兹缪姆光线吗？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人高斯_S01E31_拯救巴贡.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

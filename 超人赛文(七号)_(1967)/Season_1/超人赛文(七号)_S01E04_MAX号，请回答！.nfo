@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:01:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>MAX号，请回答！</title>
+  <originaltitle>マックス号応答せよ</originaltitle>
+  <showtitle>赛文奥特曼</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>8017904</id>
+  <uniqueid default="false" type="tmdb">1658536</uniqueid>
+  <uniqueid default="false" type="trakt">5201841</uniqueid>
+  <uniqueid default="true" type="tvdb">8017904</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在基地里，索加和天成接到一项特殊的命令，不能让人发觉他们离开基地。团负责把他俩送到海边，索加和天成驾驶摩托艇向停泊在远处海面上的马克斯号核动力艇开去。他们的秘密使命就在那艘船上。团在回来的路上，被一个白衣女子拦下要求帮忙修车。但是他遭到袭击被打晕了，奥特眼镜再次被偷走。医务室里，安奴替团处理了伤口，并送给团一条项链作为护身符，“不管发生什么，我都会在你身边。”安奴说。可团意识到一定有人在针对他。上到马克斯号的索加和天成见到了他们要接头的人，原来是竹中参谋。竹中参谋告诉他们，他们此行的目的是调查前一段时期的油轮失踪事件。当他们到达出事海域时，一切都没有发生。正当大家庆幸时，马克斯号突然离开水面升向高空，同时又将下一股红色烟雾，马克斯号消失了。由于和马克斯号失去联系，队长和团驾驶奥特飞鹰1号前往调查，又派古桥乘奥特飞鹰2号去宇宙侦察。飞鹰1号在出事地点上空巡查了2个小时，但是一无所获。而古桥却在宇宙中发现了马克斯号，他连忙和总部联络，但是通讯故障。古桥把飞鹰2号靠过去上了马克斯号，在船上，他发现了昏倒在地的竹中参谋、索加和天成。这时从门外走进一个宇宙人，他是戈德拉星人，是他把其他的船员都扔进了宇宙空间。 变成古桥模样的戈德拉星人驾驶飞鹰2号回到总部，告诉队长他们应该搜查太平洋海底。他的滔滔不绝引起团的怀疑，团悄悄跟踪他到地下18层的第二动力室，发现他在原子炉边安装炸弹。“你想干什么？你究竟是谁？”团问“古桥”。戈德拉星人现出原形，并把团关进一个特殊的密封仓。他告诉团，十五分钟后，炸弹就会爆炸，到时候一切就都结束了。说完他变成团的模样离开了。在马克斯号上的戈德拉星人把这个消息告诉古桥等人。古桥他们决定用马克斯号上的火箭回去通知队长，于是天成冒险出发了。被封闭在第二动力室的团又遇到了那个偷他眼镜的女子，原来她也是戈德拉星人。团设法逃出了密封仓，夺过奥特眼镜变成了赛文。就在他们搏斗时，得到天成报讯的桐山队长赶到了，及时拆下了炸弹。回到地面车库，看。到“团”正劫持安奴，赛文用头标把戈德拉星人打伤，戈德拉星人负伤而逃。赛文追出去将他击毙。赛文又飞向宇宙解救了被困在马克斯号上的索加等人，与前来接应的桐山队长会合。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1518</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>04 馬克斯號，請回答！.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

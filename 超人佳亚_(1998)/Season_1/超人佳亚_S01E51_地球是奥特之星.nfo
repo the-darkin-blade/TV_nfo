@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:55:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>地球是奥特之星</title>
+  <originaltitle>地球はウルトラマンの星</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <season>1</season>
+  <episode>51</episode>
+  <id>554011</id>
+  <uniqueid default="false" type="tmdb">308097</uniqueid>
+  <uniqueid default="false" type="trakt">316953</uniqueid>
+  <uniqueid default="true" type="tvdb">554011</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>藤宫来到自己获得阿古茹之光的地方，深深自责时发现了切伦科夫之光。稻森博士突然出现，引导藤宫走出低迷，重新振作开始对抗。为了恢复通讯，藤宫设法用中微子制造系统将整个地球变成了一个巨大的网络通信系统。地球究竟能否重见光明？奥特曼的未来又是怎样的呢？</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1434</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>51 地球是超人之星.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="51" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

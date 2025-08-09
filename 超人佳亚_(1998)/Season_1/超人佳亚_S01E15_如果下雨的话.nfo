@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>如果下雨的话</title>
+  <originaltitle>雨がやんだら</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>553651</id>
+  <uniqueid default="false" type="tmdb">308061</uniqueid>
+  <uniqueid default="false" type="trakt">316917</uniqueid>
+  <uniqueid default="true" type="tvdb">553651</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>速水市下着诡异的雨，雨的颜色竟然是绿色的。死掉的动物被雨淋过后居然死而复生。XIG就此到事发地展开调查。记者吉井玲子想抢在XIG之前得到新闻线索，跟随来到事发现场。现场的仓库里发出奇怪的声音，玲子正准备调查却被现场员工制止。那奇怪的声音是什么？玲子又将如何报道怪雨事件……</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1468</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>15 下雨通像.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

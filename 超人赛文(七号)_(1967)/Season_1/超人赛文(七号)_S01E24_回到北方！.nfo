@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:01:32 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>回到北方！</title>
+  <originaltitle>北へ還れ！</originaltitle>
+  <showtitle>超人赛文(七号)</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id>8017928</id>
+  <uniqueid default="false" type="tmdb">1658571</uniqueid>
+  <uniqueid default="false" type="trakt">5201861</uniqueid>
+  <uniqueid default="true" type="tvdb">8017928</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>古桥接到母亲病重的电报，匆忙赶回北海道老家。古桥的妹妹到车站来接，在车上，古桥问起母亲的病情，妹妹却闪烁其辞。在古桥的一再追问下，妹妹终于说出真相。原来古桥的母亲并没有得病，她一直希望古桥能回家继承牧场的事业，故意说得病把古桥诓了回来。古桥当然不乐意，耍了个小诡计把他妹妹骗下车，自己开车走了。北极上空，地球防卫军的侦察正在巡逻，操纵杆突然失灵，和迎面而来的民航客机相撞。奥特警备队非常重视这次事件，为了调查原因派古桥驾驶奥特飞鹰3号前往出事地点。古桥正要出发，电话铃响了，没想到居然是古桥的母亲。古桥夫人见儿子不肯回北海道，于是亲自来接古桥回去。队员们见此情况，都争着要代古桥去执行任务，但是被古桥拒绝了。“大家的好意我心领了，但是我的工作被人抢了，心里也不高兴啊。安奴，我的母亲拜托你了。”说完就出发了。古桥驾机向北极飞去，进入北极圈时，地面上的灯塔里射出奇怪的光线，但是古桥并没有发现，继续往前飞。“距离出事地点5760公里，按2.8马赫的速度，120分钟后到达。”作战室里索加正汇报情况，队长指示古桥将操作转作自动档，古桥依命行事，却发现转换装置失灵了，但是手动操纵并无影响，于是古桥继续前进。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1518</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>24 回到北方.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

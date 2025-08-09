@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 07:41:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>呼唤……</title>
+  <originaltitle>うたかたの…</originaltitle>
+  <showtitle>迪迦奥特曼</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">163664</uniqueid>
+  <uniqueid default="false" type="trakt">10698284</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在闪电人歼灭计划开始之前，怪兽乔贝利艾在街上出现了。TPC出动全力攻击怪兽，在不断的战斗之中，队员们的心中有了各种各样的想法。“我们胜利队的使命到底是什么？”</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 07:41:07</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人迪迦_S01E28_S01E28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

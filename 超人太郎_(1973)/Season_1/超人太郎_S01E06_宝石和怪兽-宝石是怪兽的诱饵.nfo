@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:44:43 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>宝石和怪兽-宝石是怪兽的诱饵</title>
+  <originaltitle>第6話</originaltitle>
+  <showtitle>泰罗奥特曼</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>626361</id>
+  <uniqueid default="false" type="tmdb">268220</uniqueid>
+  <uniqueid default="false" type="trakt">276913</uniqueid>
+  <uniqueid default="true" type="tvdb">626361</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>光太郎从埃及带来迷雾重重的漂亮护身符，让纱织与建一陷入困境之中。为了光太郎纱织将会做什么举动？鼻涕虫变大，两人遇到危险，泰罗将如何拯救？
+
+（出场怪兽：恶魔吉连玛）</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>06.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

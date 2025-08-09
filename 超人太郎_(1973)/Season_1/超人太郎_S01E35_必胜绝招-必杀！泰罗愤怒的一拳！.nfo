@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:44:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>必胜绝招-必杀！泰罗愤怒的一拳！</title>
+  <originaltitle>第35話</originaltitle>
+  <showtitle>泰罗奥特曼</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id>626651</id>
+  <uniqueid default="false" type="tmdb">268213</uniqueid>
+  <uniqueid default="false" type="trakt">276942</uniqueid>
+  <uniqueid default="true" type="tvdb">626651</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>光太郎在执行任务的过程中，遇见了一位善良的小女孩真知子。因为车祸被光太郎发现，送入医院，被怪兽附体。真知子很喜欢奥特曼，每次都让光太郎买，但每买一次，光太郎就会受一次伤，这是什么原因？最后光太郎自己也住进了医院，并遭受卡旦星人的袭击。变身成为泰罗，与卡旦星人搏斗之时被卡旦星人弄瞎了眼睛。因为卡旦星人附体在女孩身上，欺骗泰罗觉得小女孩善良的感情，愤怒之下使用了奥特之国中最危险，只有泰罗才能做到的必杀绝招
+
+（出场怪兽：卡旦星人）</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>35.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:47:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>M·P</title>
+  <originaltitle>M・P ―メモリーポリス―</originaltitle>
+  <showtitle>奈克赛斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>556051</id>
+  <uniqueid default="false" type="tmdb">59588</uniqueid>
+  <uniqueid default="false" type="trakt">71049</uniqueid>
+  <uniqueid default="true" type="tvdb">556051</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>逗留在有异生兽出没的废工场中的少女里奈，在孤门及西条的保护下奇迹般的生还了。但是为了救助里奈而违背命令单独行动的孤门，却被上级追究了责任。也因此孤门那“不能牺牲任何一人的生命”的使命感被驳斥为“毫无价值的理想”，孤门因而感到困惑。
+
+在这样的事态中，孤门遇见了住院中的里奈小妹妹。但是里奈却一点都不记得有关孤门的事。在为此陷入混乱的孤门面前，“记忆警察”的领队“首藤沙耶”出现了。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CBC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1414</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人力斯_S01E08_M·P.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

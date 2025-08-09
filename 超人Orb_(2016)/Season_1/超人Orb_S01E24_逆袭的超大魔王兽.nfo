@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:50:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>逆袭的超大魔王兽</title>
+  <originaltitle>逆襲の超大魔王獣</originaltitle>
+  <showtitle>欧布奥特曼</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id>5877400</id>
+  <uniqueid default="false" type="tmdb">1713115</uniqueid>
+  <uniqueid default="true" type="imdb">tt6344168</uniqueid>
+  <uniqueid default="false" type="trakt">3435537</uniqueid>
+  <uniqueid default="false" type="tvdb">5877400</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>地球陷入了混乱，超大魔王兽快要长成了。  威特队为了打倒它，投入了最强武器R1，为了保护地球，欧布也参与了战斗</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1496</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>24 逆襲的超大魔王獸.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:44:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>袋鼠怪兽的愤怒</title>
+  <originaltitle>第22話</originaltitle>
+  <showtitle>泰罗奥特曼</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>626521</id>
+  <uniqueid default="false" type="tmdb">268242</uniqueid>
+  <uniqueid default="false" type="trakt">276929</uniqueid>
+  <uniqueid default="true" type="tvdb">626521</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>新娘与新郎在度蜜月的时候，突然遇见怪兽！两人在逃跑的同时，新娘掉入悬崖，是什么原因让新娘从悬崖摔下去还完好无损？又是什么原因让潘多拉愤怒的攻击人类？它是善良的怪兽还是邪恶的怪兽?泰罗能阻止这一切的发生吗？
+
+（出场怪兽：潘多拉 琴派）</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>22.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

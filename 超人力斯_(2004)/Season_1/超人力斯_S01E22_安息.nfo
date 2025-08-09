@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:47:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>安息</title>
+  <originaltitle>安息 ―キュア―</originaltitle>
+  <showtitle>奈克赛斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>556201</id>
+  <uniqueid default="false" type="tmdb">59602</uniqueid>
+  <uniqueid default="false" type="trakt">71063</uniqueid>
+  <uniqueid default="true" type="tvdb">556201</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>从危险的检查中保住一命的姬矢的身体已经不能再变身了。吉良泽警告说姬矢再变身会丧命的。就在那时侯，在郊外的地下沟里出现了异生兽。夜袭队出动了，不一会儿西条凪的通讯器里就收到了一条信息，这个是还是沟木吕发来的。
+
+另一方面，发布爆炸性消息失败的根来和三个UFO专家接触起来，好象这三人掌握了异生兽事件研究的情报。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CBC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1414</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人力斯_S01E22_安息.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

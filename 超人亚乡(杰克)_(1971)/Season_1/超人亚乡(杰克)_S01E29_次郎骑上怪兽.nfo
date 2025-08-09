@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:02:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>次郎骑上怪兽</title>
+  <originaltitle>次郎くん怪獣に乗る</originaltitle>
+  <showtitle>超人亚乡(杰克)</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1660128</uniqueid>
+  <uniqueid default="false" type="trakt">12112267</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>次郎は級友、よし子の家から、大工の父親が作った開かない小箱を無断で持ち帰る。さらにそれを郷が持ち出し、定期点検に出動した無人観測ステーションNo．5の中に置き忘れてしまう。No．5はその後東京の造成地に落下、そこには怪獣ヤドカリンが住みついていた。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1526</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>29 次郎騎上怪獸.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

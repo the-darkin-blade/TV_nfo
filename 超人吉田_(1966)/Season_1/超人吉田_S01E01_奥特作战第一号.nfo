@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>奥特作战第一号</title>
+  <originaltitle>ウルトラ作戦第一号</originaltitle>
+  <showtitle>初代奥特曼</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>118780</id>
+  <uniqueid default="false" type="tmdb">248248</uniqueid>
+  <uniqueid default="false" type="tvrage">280228</uniqueid>
+  <uniqueid default="true" type="imdb">tt0837491</uniqueid>
+  <uniqueid default="false" type="trakt">256964</uniqueid>
+  <uniqueid default="false" type="tvdb">118780</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>科学特搜队的早田进队员在驾驶巡逻机工作时，突然发现一个红色球体正追逐着蓝色球体。红色球体无意中撞上早田进的飞机，早田由此牺牲。随后，早田进被吸入到红色球体内，遇到了来自M78星云的宇宙英雄·奥特曼。并得知其为追击宇宙怪兽·百慕拉而来到地球。奥特曼为补偿早田遂决定与其合体与百慕拉一战，并将自己的生命赋予了早田。最终，科学特搜队用S16潜水艇攻击使百慕拉浮出水面，早田变身为奥特曼后与百慕拉展开肉搏战，最终大获全胜。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>Tokyo Laboratory</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1520</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>01 奧特作戰第一號.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>超人吉田</title>
+  <originaltitle>ウルトラマン</originaltitle>
+  <showtitle>超人吉田</showtitle>
+  <sorttitle/>
+  <year>1966</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.4</value>
+      <votes>52</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>系列开山之作，别称“宇宙英雄奥特曼”‌</plot>
+  <tagline/>
+  <runtime>25</runtime>
+  <mpaa>US:TV-PG</mpaa>
+  <certification>US:TV-PG</certification>
+  <episodeguide>{"tmdb":"3425","imdb":"tt0060038","wikidata":"Q1058534","tvdb":"73567"}</episodeguide>
+  <id>73567</id>
+  <imdbid>tt0060038</imdbid>
+  <tmdbid>3425</tmdbid>
+  <uniqueid default="false" type="tmdb">3425</uniqueid>
+  <uniqueid default="false" type="imdb">tt0060038</uniqueid>
+  <uniqueid default="false" type="wikidata">Q1058534</uniqueid>
+  <uniqueid default="true" type="tvdb">73567</uniqueid>
+  <premiered>1966-07-17</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Science Fiction</genre>
+  <genre>Mystery</genre>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>Tokyo Laboratory</studio>
+  <country>日本</country>
+  <tag>japan</tag>
+  <tag>martial arts</tag>
+  <tag>hero</tag>
+  <tag>villain</tag>
+  <tag>investigation</tag>
+  <tag>friendship</tag>
+  <tag>superhero</tag>
+  <tag>extraterrestrial</tag>
+  <tag>alien</tag>
+  <tag>disaster</tag>
+  <tag>giant monster</tag>
+  <tag>alien invasion</tag>
+  <tag>fighting</tag>
+  <tag>super power</tag>
+  <tag>kaiju</tag>
+  <tag>hidden identity</tag>
+  <tag>giant</tag>
+  <tag>supervillain</tag>
+  <tag>anomaly</tag>
+  <tag>organization</tag>
+  <tag>kyodai hero</tag>
+  <tag>ultraman</tag>
+  <tag>teamwork</tag>
+  <tag>henshin heroes</tag>
+  <tag>tokusatsu</tag>
+  <actor>
+    <name>黑部进</name>
+    <role>Shin Hayata / Ultraman</role>
+    <profile>https://www.themoviedb.org/person/129509</profile>
+    <tmdbid>129509</tmdbid>
+  </actor>
+  <actor>
+    <name>小林昭二</name>
+    <role>Captain 'Cap' Toshio Muramatsu</role>
+    <profile>https://www.themoviedb.org/person/119185</profile>
+    <tmdbid>119185</tmdbid>
+  </actor>
+  <actor>
+    <name>毒蝮三太夫</name>
+    <role>Daisuke Arashi</role>
+    <profile>https://www.themoviedb.org/person/571716</profile>
+    <tmdbid>571716</tmdbid>
+  </actor>
+  <actor>
+    <name>樱井浩子</name>
+    <role>Akiko Fuji</role>
+    <profile>https://www.themoviedb.org/person/147417</profile>
+    <tmdbid>147417</tmdbid>
+  </actor>
+  <actor>
+    <name>二瓶正也</name>
+    <role>Mitsuhiro Ide</role>
+    <profile>https://www.themoviedb.org/person/1167986</profile>
+    <tmdbid>1167986</tmdbid>
+  </actor>
+  <actor>
+    <name>津泽彰秀</name>
+    <role>Isamu Hoshino</role>
+    <profile>https://www.themoviedb.org/person/1666240</profile>
+    <tmdbid>1666240</tmdbid>
+  </actor>
+  <actor>
+    <name>平田昭彦</name>
+    <role>Dr. Iwamoto</role>
+    <profile>https://www.themoviedb.org/person/30568</profile>
+    <tmdbid>30568</tmdbid>
+  </actor>
+  <actor>
+    <name>石坂浩二</name>
+    <role>Narrator</role>
+    <profile>https://www.themoviedb.org/person/107961</profile>
+    <tmdbid>107961</tmdbid>
+  </actor>
+  <actor>
+    <name>Hikaru Urano</name>
+    <role>Narrator</role>
+    <profile>https://www.themoviedb.org/person/1321027</profile>
+    <tmdbid>1321027</tmdbid>
+  </actor>
+  <actor>
+    <name>古谷敏</name>
+    <role>Ultraman</role>
+    <profile>https://www.themoviedb.org/person/1073691</profile>
+    <tmdbid>1073691</tmdbid>
+  </actor>
+  <actor>
+    <name>Masao Nakasone</name>
+    <role>Ultraman (Grunts)</role>
+    <profile>https://www.themoviedb.org/person/2761144</profile>
+    <tmdbid>2761144</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-08 23:43:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

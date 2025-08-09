@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:01:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>住着恶魔的花</title>
+  <originaltitle>悪魔の住む花</originaltitle>
+  <showtitle>超人赛文(七号)</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id>8017936</id>
+  <uniqueid default="false" type="tmdb">1658580</uniqueid>
+  <uniqueid default="false" type="trakt">5201868</uniqueid>
+  <uniqueid default="true" type="tvdb">8017936</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>春天到了，香织和女伴们一起在花园写生，香织捡到一片特别的花瓣，她拿着闻了一下就昏倒在地，嘴角边流下了鲜血。由于香织的血型特殊，医院向奥特警备队救助，天成立马赶去，团受命调查原因也跟了过去。从香织的女伴那里得知，香织闻了花，团从香织的手里找到那片花瓣，带回基地。深夜，医院的护士逐个查房时发现香织不见了，连忙向警备队报告。队员们赶到医院四处寻找，天成听到从地下血库那里传来惊叫声，赶去发现护士倒在地上，再往前几步，脑部遭到袭击昏了过去。等到大家找到天成和香织，两人都昏迷不醒。团发现天成的脖子上有一个小血点，像是被人吸过血；而香织的嘴角又流下了鲜血。众人不解，为什么香织会到血库去，难道她是取血液的？ 团带回基地的花瓣分析出来了，那是宇宙细菌达利的卵壳，达利靠吞食血液中的血小板为生。香织把它的卵壳当作花瓣闻了，它就进入了香织体内。如今它正附着在香织的肺泡上吞食血小板，所以香织才会到血库去取血，才会袭击和她血型相同的天成队员。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1503</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>31 住著惡魔的花.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

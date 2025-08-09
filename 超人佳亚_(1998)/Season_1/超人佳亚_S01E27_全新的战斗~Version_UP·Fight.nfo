@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:55:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>全新的战斗~Version UP·Fight</title>
+  <originaltitle>新たなる戦い～ヴァージョンアップ・ファイト！～</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id>553771</id>
+  <uniqueid default="false" type="tmdb">308073</uniqueid>
+  <uniqueid default="false" type="trakt">316929</uniqueid>
+  <uniqueid default="true" type="tvdb">553771</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>藤宫将最后的力量传给了我梦，盖亚奥特曼升级击退了怪兽。藤宫也因此消失。我梦内疚，如果没有阿古茹的帮助，盖亚奥特曼不会有今天的成功。盖亚奥特曼该何去何从……</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>27 新的戳門 Version Up Fight!.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

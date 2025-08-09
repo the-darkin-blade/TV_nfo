@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:55:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>悲伤的沼泽</title>
+  <originaltitle>悲しみの沼</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <season>1</season>
+  <episode>39</episode>
+  <id>553891</id>
+  <uniqueid default="false" type="tmdb">308085</uniqueid>
+  <uniqueid default="false" type="trakt">316941</uniqueid>
+  <uniqueid default="true" type="tvdb">553891</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>一对偷钱的强盗为躲避抓捕逃到一个沼泽上的小屋里。半夜，小屋外传来奇怪的声音，二人外出查看，不料被沼泽里的怪兽拉入湖中……我梦为调查前些日子发射地底贯通弹对环境的影响来到事故发生地。究竟这湖中怪兽是否受到地底贯通弹的污染了呢？我梦能否调查出来么？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>39 悲哀沼澤.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="39" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

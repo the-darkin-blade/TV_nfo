@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>天之影 地之光</title>
+  <originaltitle>天の影　地の光</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>553671</id>
+  <uniqueid default="false" type="tmdb">308063</uniqueid>
+  <uniqueid default="false" type="trakt">316919</uniqueid>
+  <uniqueid default="true" type="tvdb">553671</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>木星轨道上飞行着不明物体，经检测90小时候会经过地球公转轨道。XIG总部判定不需要进行特别警戒。可是那不明飞行物的整体究竟是什么？就在此时，藤宫博也拿着探测器来到美宝山，他变身阿古茹奥特曼，向地底前进。藤宫进入地底的目的是什么，他究竟在寻找些什么？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1468</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>17 天之影 地之光.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

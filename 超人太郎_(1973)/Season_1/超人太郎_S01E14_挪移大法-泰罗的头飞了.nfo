@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:44:43 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>挪移大法-泰罗的头飞了</title>
+  <originaltitle>第14話</originaltitle>
+  <showtitle>泰罗奥特曼</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>626441</id>
+  <uniqueid default="false" type="tmdb">268229</uniqueid>
+  <uniqueid default="false" type="trakt">276921</uniqueid>
+  <uniqueid default="true" type="tvdb">626441</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>暑假里，建一和纱织到乡下去玩，认识了小收藏家良柱，这个美丽的乡间环境马上就要被破坏，村长自私的把土地神搬入自己的家中，导致被封印在地底下的阎罗王恩马戈逃了出来，泰罗出来打到阎罗王，结果令人心惊胆战！
+
+（出场怪兽：恩马戈）</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>14.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

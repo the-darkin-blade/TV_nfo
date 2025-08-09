@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:55:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>怪兽的赎金</title>
+  <originaltitle>怪獣の身代金</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id>553851</id>
+  <uniqueid default="false" type="tmdb">308081</uniqueid>
+  <uniqueid default="false" type="trakt">316937</uniqueid>
+  <uniqueid default="true" type="tvdb">553851</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>GUARD运输机载着在南极发现的古代怪兽阿鲁革拿的蛋飞向日本。就在抵达东京上空之际，怪兽蛋放出了液体腐蚀了运输机，从空中掉了下去，落在了一般市民家里。这古代怪兽的蛋让我梦有非常不好的预感。究竟这怪兽蛋会不会对地球造成威胁呢？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>35 怪的聘金.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

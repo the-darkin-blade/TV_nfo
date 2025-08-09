@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 06:42:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>破灭的水晶</title>
+  <originaltitle>滅びのクリスタル</originaltitle>
+  <showtitle>罗布奥特曼</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>6931525</id>
+  <uniqueid default="false" type="tmdb">1726587</uniqueid>
+  <uniqueid default="false" type="trakt">3267982</uniqueid>
+  <uniqueid default="true" type="tvdb">6931525</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>凑澪用三个变身器成功封印了最终Boss鲁格赛特，但是美剑为了彻底杀死这只怪兽阻止了凑澪的行动。凑兄弟变身罗布与美剑变身成格尔吉欧的最强形态——雷吉纳战斗。但是罗布合体形态攻击的时候被雷吉纳反弹了漩涡爆裂光线，所以罗布兄弟被打败解体。而在美剑实施自己的行动过程中，最终BOSS鲁格赛特完成了自我进化，变身成了强大的怪兽形态，而美剑因此吃瘪。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 06:41:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1476</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人RB_S01E23_破灭的水晶.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 07:44:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>超人捷德</title>
+  <originaltitle>ウルトラマンジード</originaltitle>
+  <showtitle>超人捷德</showtitle>
+  <sorttitle/>
+  <year>2017</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>9.0</value>
+      <votes>6</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>贝利亚之子，探讨宿命与自我救赎‌</plot>
+  <tagline/>
+  <runtime>25</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"73169","imdb":"tt6842116","wikidata":"Q29578361","tvdb":"331788"}</episodeguide>
+  <id>331788</id>
+  <imdbid>tt6842116</imdbid>
+  <tmdbid>73169</tmdbid>
+  <uniqueid default="false" type="tmdb">73169</uniqueid>
+  <uniqueid default="false" type="imdb">tt6842116</uniqueid>
+  <uniqueid default="false" type="wikidata">Q29578361</uniqueid>
+  <uniqueid default="true" type="tvdb">331788</uniqueid>
+  <premiered>2017-07-08</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Science Fiction</genre>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <country>日本</country>
+  <tag>monster</tag>
+  <tag>hero</tag>
+  <tag>villain</tag>
+  <tag>superhero</tag>
+  <tag>alien</tag>
+  <tag>giant monster</tag>
+  <tag>kaiju</tag>
+  <tag>supervillain</tag>
+  <tag>capsule</tag>
+  <tag>evil family</tag>
+  <tag>kyodai hero</tag>
+  <tag>ultraman</tag>
+  <tag>gimmick</tag>
+  <tag>henshin heroes</tag>
+  <tag>tokusatsu</tag>
+  <actor>
+    <name>滨田龙臣</name>
+    <role>Riku Asakura / Ultraman Geed (voice)</role>
+    <profile>https://www.themoviedb.org/person/1034362</profile>
+    <tmdbid>1034362</tmdbid>
+  </actor>
+  <actor>
+    <name>山本千尋</name>
+    <role>Laiha Toba</role>
+    <profile>https://www.themoviedb.org/person/1328338</profile>
+    <tmdbid>1328338</tmdbid>
+  </actor>
+  <actor>
+    <name>长谷部瞳</name>
+    <role>Rumina Igaguri</role>
+    <profile>https://www.themoviedb.org/person/122577</profile>
+    <tmdbid>122577</tmdbid>
+  </actor>
+  <actor>
+    <name>浅沼晋太郎</name>
+    <role>Alien Shadow "Zena" (voice)</role>
+    <profile>https://www.themoviedb.org/person/1247778</profile>
+    <tmdbid>1247778</tmdbid>
+  </actor>
+  <actor>
+    <name>潘惠美</name>
+    <role>Alien Pegassa "Pega" (voice)</role>
+    <profile>https://www.themoviedb.org/person/1164931</profile>
+    <tmdbid>1164931</tmdbid>
+  </actor>
+  <actor>
+    <name>三森铃子</name>
+    <role>RE.M. (voice)</role>
+    <profile>https://www.themoviedb.org/person/1498127</profile>
+    <tmdbid>1498127</tmdbid>
+  </actor>
+  <actor>
+    <name>宫野真守</name>
+    <role>Ultraman Zero (voice)</role>
+    <profile>https://www.themoviedb.org/person/93803</profile>
+    <tmdbid>93803</tmdbid>
+  </actor>
+  <actor>
+    <name>小野友树</name>
+    <role>Ultraman Belial (voice)</role>
+    <profile>https://www.themoviedb.org/person/1206317</profile>
+    <tmdbid>1206317</tmdbid>
+  </actor>
+  <actor>
+    <name>Mayu Hasegawa</name>
+    <role>Moa Aizaki</role>
+    <profile>https://www.themoviedb.org/person/2118550</profile>
+    <tmdbid>2118550</tmdbid>
+  </actor>
+  <actor>
+    <name>小澤雄太</name>
+    <role>Leito Igaguri</role>
+    <profile>https://www.themoviedb.org/person/2118552</profile>
+    <tmdbid>2118552</tmdbid>
+  </actor>
+  <actor>
+    <name>渡辺邦斗</name>
+    <role>Kei Fukuide</role>
+    <profile>https://www.themoviedb.org/person/1432261</profile>
+    <tmdbid>1432261</tmdbid>
+  </actor>
+  <actor>
+    <name>Mirei Shimizu</name>
+    <role>Mayu Igaguri</role>
+    <profile>https://www.themoviedb.org/person/2239742</profile>
+    <tmdbid>2239742</tmdbid>
+  </actor>
+  <actor>
+    <name>Tadashi Mizuo</name>
+    <role>Haruo Kume</role>
+    <profile>https://www.themoviedb.org/person/2239744</profile>
+    <tmdbid>2239744</tmdbid>
+  </actor>
+  <actor>
+    <name>三轮瞳</name>
+    <role>Ryoko Hara</role>
+    <profile>https://www.themoviedb.org/person/235724</profile>
+    <tmdbid>235724</tmdbid>
+  </actor>
+  <actor>
+    <name>内田未来</name>
+    <role>Eri Hara</role>
+    <profile>https://www.themoviedb.org/person/2049276</profile>
+    <tmdbid>2049276</tmdbid>
+  </actor>
+  <actor>
+    <name>岩田栄慶</name>
+    <role>Alien Shadow "Zena" (human form)</role>
+    <profile>https://www.themoviedb.org/person/1883804</profile>
+    <tmdbid>1883804</tmdbid>
+  </actor>
+  <trailer>plugin://plugin.video.youtube/play/?video_id=3ms7CqMItRE</trailer>
+  <dateadded>2025-08-09 07:43:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

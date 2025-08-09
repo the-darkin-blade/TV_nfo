@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:55:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>诅咒之眼</title>
+  <originaltitle>呪いの眼</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id>553811</id>
+  <uniqueid default="false" type="tmdb">308077</uniqueid>
+  <uniqueid default="false" type="trakt">316933</uniqueid>
+  <uniqueid default="true" type="tvdb">553811</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>拥有超能力的男孩，修作。他用手指就能控制身边的各种事物。在冷饮店，修作使用超能力时被我梦发现，这引起了我梦的猜测。夜晚，修作再度梦到了那个凶恶的男人，男人自称是魔头鬼十郎，修作是他的子孙。这预示了什么？修作是否与在地球再次出现的加恩Q有什么关联呢？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1467</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>31 組咒之眼.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

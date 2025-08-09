@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:50:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>孩子的梦</title>
+  <originaltitle>The Child's Dream</originaltitle>
+  <showtitle>葛雷奥特曼</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>180555</id>
+  <uniqueid default="false" type="tmdb">563364</uniqueid>
+  <uniqueid default="false" type="tvrage">303810</uniqueid>
+  <uniqueid default="false" type="trakt">571488</uniqueid>
+  <uniqueid default="true" type="tvdb">180555</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>One night an abandoned carnival was reactivated by unknown circumstances. The local police went to check it out only to be scared out of their minds by the monster Gerukadon. Before they could inflict any damage Gerukadon ran away from the scene. Little did anyone suspect it was a creature summoned by an Gudis device found by a boy named Jimmy. Gerukadon appeared in a much larger size the next night and destroyed two new buildings that were opening up. Before UMA could do anything the alien mutant monster disappeared. Within moments they found out through one of their agents that Jimmy had a strange Gudis device that created Gerukadon by a combination of his favorite dinosaur and his recently lost pet lizard, Gus. Jimmy was lured by the device to a Gudis nest in a parking lot building. As Jimmy was being infected by the Gudis Gerukadon appeared once again to destroy the city, this time without disappearing. UMA tried as much as they could, but Gerukadon was too much for their fighters to handle. Once by himself Jack Shindo turned into Ultraman Great to fight Gerukadon. Great used his Palm Shooters, but Gerukadon's fire resistance prevented the alien mutant monster from receiving serious harm. The same thing happen when Great used the Knuckle Shooters. After Jimmy broke free of the Gudis hold Great used the Magnum Beam to purify Gerukadon. With the monster now free of the Gudis virus Gerukadon, now as Gus, took off into the night sky with Jimmy.</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Syndication</studio>
+  <studio>South Australian Film Corporation</studio>
+  <studio>Tsuburaya Productions</studio>
+  <studio>New World International</studio>
+  <studio>Sachs Family Entertainment</studio>
+  <studio>Bandai Visual</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1472</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>03.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

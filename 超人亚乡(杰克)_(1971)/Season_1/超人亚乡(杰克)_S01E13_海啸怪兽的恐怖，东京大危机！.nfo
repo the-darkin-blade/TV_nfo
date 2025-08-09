@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 00:02:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>海啸怪兽的恐怖，东京大危机！</title>
+  <originaltitle>津波怪獣の恐怖　東京大ピンチ</originaltitle>
+  <showtitle>超人亚乡(杰克)</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1660101</uniqueid>
+  <uniqueid default="false" type="trakt">12112240</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宝石の原石を輸送中のマグロ漁船、海神丸は怪獣シーモンスの襲撃を受け沈没してしまう。事故の直前に録音された「シーモンスの唄」を解析する中、シーモンスが日本に上陸する。シーモンスを助けに、夫のシーゴラスも登場し、二匹は大津波を発生させる！</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1531</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>13 海嘯怪獸的恐怖——東京大危機.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

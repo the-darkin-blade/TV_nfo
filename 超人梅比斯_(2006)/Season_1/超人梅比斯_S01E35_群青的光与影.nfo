@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:48:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>群青的光与影</title>
+  <originaltitle>群青の光と影</originaltitle>
+  <showtitle>梦比优斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id>554731</id>
+  <uniqueid default="false" type="tmdb">364613</uniqueid>
+  <uniqueid default="false" type="trakt">372592</uniqueid>
+  <uniqueid default="true" type="tvdb">554731</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>突然ハンターナイトツルギが現れ、街を破壊した。人々は青いウルトラマンを敵だと思い始める。GUYSは帰ってきたセリザワを拘束するが、全てはババルウ星人の陰謀だった。ウルトラマンヒカリはババルウ星人を倒し、青いウルトラマンとして人々の信頼を得る事ができるのか？</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CBC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1432</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人梅比斯_S01E35_群青的光与影.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

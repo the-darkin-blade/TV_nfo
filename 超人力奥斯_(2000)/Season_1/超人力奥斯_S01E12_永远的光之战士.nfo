@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:55:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>永远的光之战士</title>
+  <originaltitle>光の戦士よ永遠に</originaltitle>
+  <showtitle>奈欧斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1706799</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>遂に最終回、さらば光の戦士たちよ！！
+
+ネオス、ゾフィー、セブン21とともに最後の戦いが始まる！！
+
+グラールとの壮絶な闘いに、遂に力を使い果たしてしまったウルトラマンネオス。光に包まれたネオスは、ゾフィーとセブン21から、これ以上の闘いは危険だと言い渡される。しかし地球では、さらにメンシュハイトが暴れつづけていた。このまま奴の猛威を許しておくわけにはいかない……。ネオス＝カグラは最後の力を振り絞り、自分の身が滅びようとも、戦いに挑む決心をする！！そして、ザム星で“期待”という意味「エスラー」の名を持つ少年は、自らの命のエネルギーを発射した！！</plot>
+  <runtime>28</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CBC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1723</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>12.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:46:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>深海的死斗</title>
+  <originaltitle>第15話</originaltitle>
+  <showtitle>高斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>4804214</id>
+  <uniqueid default="false" type="tmdb">1654075</uniqueid>
+  <uniqueid default="false" type="trakt">1298616</uniqueid>
+  <uniqueid default="true" type="tvdb">4804214</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>青年精英队从SRC接到海底保护网不正常的报告，为了检查海底保护网，精英队出动了万能探查机泰克探查机。武藏和风吹驾驶着探查机向着浩瀚的海洋起航了，在俩人的操作下修理工作顺利进行，不料混沌病毒的魔爪已悄悄地伸向了海底。温顺的海兽杰尔加变得凶暴，猛烈攻击了探查机，由于氧气瓶破损，武藏和风吹陷入了无法逃脱的危机。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人高斯_S01E15_深海的死斗.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

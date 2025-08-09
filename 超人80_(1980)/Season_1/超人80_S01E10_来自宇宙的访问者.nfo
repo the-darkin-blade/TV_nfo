@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:45:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>来自宇宙的访问者</title>
+  <originaltitle>第10話</originaltitle>
+  <showtitle>爱迪奥特曼</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>6000312</id>
+  <uniqueid default="false" type="tmdb">1705327</uniqueid>
+  <uniqueid default="false" type="trakt">3617633</uniqueid>
+  <uniqueid default="true" type="tvdb">6000312</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>猛的小伙伴阿露玛来到了地球。引起一系列误会的阿露玛，其实是为了调查地球人的存在价值。猛则要劝说已经认定地球人好斗心强的阿露玛……</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>[10] 來自宇宙的訪問者.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

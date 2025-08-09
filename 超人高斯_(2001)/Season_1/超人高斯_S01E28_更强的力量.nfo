@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:46:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>更强的力量</title>
+  <originaltitle>第28話</originaltitle>
+  <showtitle>高斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id>4804227</id>
+  <uniqueid default="false" type="tmdb">1654088</uniqueid>
+  <uniqueid default="false" type="trakt">1298906</uniqueid>
+  <uniqueid default="true" type="tvdb">4804227</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>风吹虽然被武藏打败，但他的内心却另有担忧，武藏一味的追求力量却失去了自己本该有的温柔。电视台来人对青年精英队进行采访，质疑他们保护怪兽的态度，这让武藏感到无比愤怒。青年精英队曾经捕获失败的怪兽艾力加尔出现了，大家迅速出击，用粘黏着弹封住了怪兽的喷出腺，对怪兽进行麻醉后不料却被混沌病毒趁虚而入了。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人高斯_S01E28_更强的力量.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

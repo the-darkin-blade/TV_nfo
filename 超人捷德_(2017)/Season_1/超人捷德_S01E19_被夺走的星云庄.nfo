@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 07:44:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>被夺走的星云庄</title>
+  <originaltitle>奪われた星雲荘</originaltitle>
+  <showtitle>捷德奥特曼</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>6380435</id>
+  <uniqueid default="false" type="tmdb">1722322</uniqueid>
+  <uniqueid default="false" type="trakt">2773870</uniqueid>
+  <uniqueid default="true" type="tvdb">6380435</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>伏井出k突然来到了星云庄，莱姆启动紧急程序让小陆等人逃了出去，伏井出k解除了莱姆的保护装置企图销毁她。开启紧急避难程序的莱姆逃了出来，并且有了一副可以自由行动的身体，但星云庄的控制权则全部被伏井出k夺走，伏井出k在恢复力量后竟然打算控制莱姆来对付小陆等人。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 07:43:59</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1513</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人捷德_S01E19_S01E19.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

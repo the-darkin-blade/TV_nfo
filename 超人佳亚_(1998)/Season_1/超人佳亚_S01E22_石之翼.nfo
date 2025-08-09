@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:55:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>石之翼</title>
+  <originaltitle>石の翼</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>553721</id>
+  <uniqueid default="false" type="tmdb">308068</uniqueid>
+  <uniqueid default="false" type="trakt">316924</uniqueid>
+  <uniqueid default="true" type="tvdb">553721</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>千叶参谋派去东京参加各国首脑会议，GUARD的防御系统遭到质疑。地球频频遭到根源性灭亡体的袭击，各国都感到人心惶惶。XIG的通讯收到干扰，我梦猜测可能是雷云所致。我梦的担心变成了现实，雷云的后方发现巨大虫洞。闪电队出击防御，却被干扰无法与总部进行通讯。与此同时，东京遭到怪兽袭击，闪电队将如何抵抗？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1468</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>22 石之翼.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

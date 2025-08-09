@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:55:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>我们的恐龙过山车</title>
+  <originaltitle>僕らの恐竜コースター</originaltitle>
+  <showtitle>奈欧斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1706795</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>突如として現れた巨大な恐竜の正体とは！？
+
+大好きな恐竜コースターを守るために子供たちとネオスが大奮闘！
+
+タクミ、アヤカ、ショウタらの仲良し３人組の子供たちは、遊園地にある迫力の恐竜コースターが大のお気に入り。でもその恐竜コースターが近々取り壊されると聞いてビックリ！！恐竜大好きのタクミにとっては特にショックが大きい様子だ。タクミはその夜、恐竜コースターが去っていってしまう悲しい夢を見る。翌日から、なんとか自分たちの街に恐竜ブームを起こそうと仲良し３人組は様々な作戦をたて始める。そうだ！恐竜の骨を工事現場に埋めておいて大騒ぎにさせよう！しかしその事が、後に大変な事件を引起すことになる！！</plot>
+  <runtime>26</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>CBC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1594</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>FLAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>09.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

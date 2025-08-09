@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>超人帝拿</title>
+  <originaltitle>ウルトラマンダイナ</originaltitle>
+  <showtitle>超人帝拿</showtitle>
+  <sorttitle/>
+  <year>1997</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>9.0</value>
+      <votes>14</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>延续迪迦世界观，强调宇宙探索主题‌</plot>
+  <tagline/>
+  <runtime>25</runtime>
+  <mpaa>US:TV-G</mpaa>
+  <certification>US:TV-G</certification>
+  <episodeguide>{"tmdb":"3459","imdb":"tt0184167","tvdb":"263145"}</episodeguide>
+  <id>263145</id>
+  <imdbid>tt0184167</imdbid>
+  <tmdbid>3459</tmdbid>
+  <uniqueid default="false" type="tmdb">3459</uniqueid>
+  <uniqueid default="false" type="imdb">tt0184167</uniqueid>
+  <uniqueid default="true" type="tvdb">263145</uniqueid>
+  <premiered>1997-09-06</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Science Fiction</genre>
+  <genre>Action</genre>
+  <genre>Drama</genre>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <country>日本</country>
+  <tag>japan</tag>
+  <tag>monster</tag>
+  <tag>hero</tag>
+  <tag>villain</tag>
+  <tag>superhero</tag>
+  <tag>extraterrestrial</tag>
+  <tag>giant monster</tag>
+  <tag>kaiju</tag>
+  <tag>giant</tag>
+  <tag>supervillain</tag>
+  <tag>kyodai hero</tag>
+  <tag>ultraman</tag>
+  <tag>henshin heroes</tag>
+  <tag>ultraman dyna</tag>
+  <tag>tokusatsu</tag>
+  <actor>
+    <name>鹤野刚士</name>
+    <role>Shin Asuka</role>
+    <profile>https://www.themoviedb.org/person/139369</profile>
+    <tmdbid>139369</tmdbid>
+  </actor>
+  <actor>
+    <name>权藤俊辅</name>
+    <role>Suit Actor</role>
+    <profile>https://www.themoviedb.org/person/1132018</profile>
+    <tmdbid>1132018</tmdbid>
+  </actor>
+  <actor>
+    <name>齐藤理沙</name>
+    <role>Ryo Yumimura</role>
+    <profile>https://www.themoviedb.org/person/1884301</profile>
+    <tmdbid>1884301</tmdbid>
+  </actor>
+  <actor>
+    <name>木之元亮</name>
+    <role>Hibiki Gohsuke</role>
+    <profile>https://www.themoviedb.org/person/1444458</profile>
+    <tmdbid>1444458</tmdbid>
+  </actor>
+  <actor>
+    <name>山田玛利亚</name>
+    <role>Mai Midorikawa</role>
+    <profile>https://www.themoviedb.org/person/1884314</profile>
+    <tmdbid>1884314</tmdbid>
+  </actor>
+  <actor>
+    <name>长野博</name>
+    <role>Daigo Madoka</role>
+    <profile>https://www.themoviedb.org/person/139368</profile>
+    <tmdbid>139368</tmdbid>
+  </actor>
+  <actor>
+    <name>高树澪</name>
+    <role>Megumi Iruma</role>
+    <profile>https://www.themoviedb.org/person/1003162</profile>
+    <tmdbid>1003162</tmdbid>
+  </actor>
+  <actor>
+    <name>川地民夫</name>
+    <role>Sawai So-Ichiro</role>
+    <profile>https://www.themoviedb.org/person/21499</profile>
+    <tmdbid>21499</tmdbid>
+  </actor>
+  <actor>
+    <name>河岛顺子</name>
+    <role>Hanejiro</role>
+    <profile>https://www.themoviedb.org/person/3425590</profile>
+    <tmdbid>3425590</tmdbid>
+  </actor>
+  <actor>
+    <name>田口主将</name>
+    <role>TPC Guard</role>
+    <profile>https://www.themoviedb.org/person/553815</profile>
+    <tmdbid>553815</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-08 23:43:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

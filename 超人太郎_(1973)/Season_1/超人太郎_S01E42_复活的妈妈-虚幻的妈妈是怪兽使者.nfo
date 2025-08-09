@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:44:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>复活的妈妈-虚幻的妈妈是怪兽使者</title>
+  <originaltitle>第42話</originaltitle>
+  <showtitle>泰罗奥特曼</showtitle>
+  <season>1</season>
+  <episode>42</episode>
+  <id>626721</id>
+  <uniqueid default="false" type="tmdb">268268</uniqueid>
+  <uniqueid default="false" type="trakt">276949</uniqueid>
+  <uniqueid default="true" type="tvdb">626721</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>永远忘不了，当年在车祸中为了救自己而牺牲自己的妈妈圣子。因为憎恨这个世界，而又复活了。暴走的怪兽艾雷吉亚，东京陷入危机。泰罗赌上了自己的生命，能打赢这场仗吗？
+
+（出场怪兽：艾雷吉亚，人造圣子）</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>42.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="42" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

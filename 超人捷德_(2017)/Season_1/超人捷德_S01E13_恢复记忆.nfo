@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 07:44:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>恢复记忆</title>
+  <originaltitle>レストア・メモリーズ</originaltitle>
+  <showtitle>捷德奥特曼</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>6377985</id>
+  <uniqueid default="false" type="tmdb">1722316</uniqueid>
+  <uniqueid default="false" type="trakt">2771392</uniqueid>
+  <uniqueid default="true" type="tvdb">6377985</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小陆和佩嘉不顾莱姆的阻止在基地玩棒球，而球刚好砸中了莱姆，系统重启后莱姆失去了所有的记忆，小陆等人为了恢复莱姆的记忆不得不把所有的事情从头到尾说一遍。从小陆成为奥特战士后就经历了各自各样的事情，伏井出k曾称他是拥有贝利亚遗传因子的仿制品，但小陆没有在意，他依旧坚持自己的选择继续前进。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 07:43:59</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1494</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人捷德_S01E13_S01E13.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

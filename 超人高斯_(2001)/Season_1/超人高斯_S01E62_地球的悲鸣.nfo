@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:47:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>地球的悲鸣</title>
+  <originaltitle>第62話</originaltitle>
+  <showtitle>高斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>62</episode>
+  <id>4804261</id>
+  <uniqueid default="false" type="tmdb">1654122</uniqueid>
+  <uniqueid default="false" type="trakt">1300067</uniqueid>
+  <uniqueid default="true" type="tvdb">4804261</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>人类的希望混沌破坏酵素终于完成，最终决战迫在眉睫。武藏向日浦申请去了镝矢群岛，由于受到混沌病毒的影响，改变了小岛的环境生态系统，甚至于地球也变质了，人类似乎可以听得见地球的悲鸣声。混沌破坏导弹完成了，青年精英队决定发射奥特信号，将混沌奥特曼引诱出来，不料此举却唤醒了沉睡在地底的怪兽多鲁巴。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人高斯_S01E62_地球的悲鸣.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="62" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

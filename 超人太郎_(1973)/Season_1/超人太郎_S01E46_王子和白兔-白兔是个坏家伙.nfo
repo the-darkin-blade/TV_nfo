@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:44:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>王子和白兔-白兔是个坏家伙</title>
+  <originaltitle>第46話</originaltitle>
+  <showtitle>泰罗奥特曼</showtitle>
+  <season>1</season>
+  <episode>46</episode>
+  <id>626761</id>
+  <uniqueid default="false" type="tmdb">268273</uniqueid>
+  <uniqueid default="false" type="trakt">276953</uniqueid>
+  <uniqueid default="true" type="tvdb">626761</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>乘坐彗星来到地球旅游的王子皮克罗无意中发现人类残忍毒死了一只小白兔，于是引起他对人类感到愤怒，误认为地球人都是坏人。在战斗中，他在人们面前亲口指出ZAT队的光太郎就是泰罗！这让泰罗如何是好？他会被人类发现吗？他将会对王子皮克罗做出什么样的解释呢？
+
+（出场怪兽：皮克罗王子）</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>46.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="46" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

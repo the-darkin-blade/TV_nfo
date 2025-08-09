@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿古茹诞生</title>
+  <originaltitle>アグル誕生</originaltitle>
+  <showtitle>超人佳亚</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>553661</id>
+  <uniqueid default="false" type="tmdb">308062</uniqueid>
+  <uniqueid default="false" type="trakt">316918</uniqueid>
+  <uniqueid default="true" type="tvdb">553661</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>XIG检测到宇宙中的巨大金属生命体正在向地球进发。闪电队立刻出动进行拦截。在即将接触到时，金属生命体发出刺眼光芒躲过了攻击。落地后变为巨大金属怪兽。就在此时，蓝色奥特曼登场，努力消灭了怪兽。我梦在调查事情经过时发现了普朗卡拉摩斯，那是三年前藤宫要求退出炼金之星的地方。究竟这里与怪兽出现有和关联？</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1468</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>16 Agul艇生.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

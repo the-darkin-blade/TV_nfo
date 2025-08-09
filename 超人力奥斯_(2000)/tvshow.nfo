@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:55:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>超人力奥斯</title>
+  <originaltitle>ウルトラマンネオス</originaltitle>
+  <showtitle>超人力奥斯</showtitle>
+  <sorttitle/>
+  <year>2000</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>9.2</value>
+      <votes>4</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>‌风格延续‌：致敬昭和奥特曼（如初代奥特曼），外形与技能设计高度相似，但世界观独立于昭和系列‌</plot>
+  <tagline/>
+  <runtime>26</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"6242","tvdb":"264368"}</episodeguide>
+  <id>264368</id>
+  <imdbid/>
+  <tmdbid>6242</tmdbid>
+  <uniqueid default="false" type="tmdb">6242</uniqueid>
+  <uniqueid default="true" type="tvdb">264368</uniqueid>
+  <premiered>2000-11-22</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <studio>CBC</studio>
+  <studio>Tsuburaya Productions</studio>
+  <country>日本</country>
+  <tag>monster</tag>
+  <tag>hero</tag>
+  <tag>villain</tag>
+  <tag>superhero</tag>
+  <tag>giant monster</tag>
+  <tag>kaiju</tag>
+  <tag>supervillain</tag>
+  <tag>alternate universe</tag>
+  <tag>kyodai hero</tag>
+  <tag>ultraman</tag>
+  <tag>henshin heroes</tag>
+  <tag>tokusatsu</tag>
+  <trailer>plugin://plugin.video.youtube/play/?video_id=CKAfrCAJ950</trailer>
+  <dateadded>2025-08-08 23:43:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

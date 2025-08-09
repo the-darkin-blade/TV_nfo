@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-08 23:54:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>新的影子</title>
+  <originaltitle>最終章I 新たなる影</originaltitle>
+  <showtitle>超人帝拿</showtitle>
+  <season>1</season>
+  <episode>49</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1706616</uniqueid>
+  <uniqueid default="false" type="trakt">5313071</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>火星上に繰り広げられるネオダランビアとダイナの激闘。一方その戦いを追跡記録する者たちがいた。8年前に封印された「F計画」をゴンドウ参謀が発動させたのだ。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-08 23:43:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.33</aspect>
+        <width>1440</width>
+        <height>1080</height>
+        <durationinseconds>1468</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>49 .mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="49" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

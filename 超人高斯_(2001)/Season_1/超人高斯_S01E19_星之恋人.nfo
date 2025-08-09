@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 08:46:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>星之恋人</title>
+  <originaltitle>第19話</originaltitle>
+  <showtitle>高斯奥特曼</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>4804218</id>
+  <uniqueid default="false" type="tmdb">1654079</uniqueid>
+  <uniqueid default="false" type="trakt">1298686</uniqueid>
+  <uniqueid default="true" type="tvdb">4804218</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>被弃置在宇宙中的地球浮游军事卫星安吉丽卡，瞄准攻击了飞行物，变成了无法控制的军事卫星。绫乃险遇车祸，幸得神秘青年相救，从此陷入了单相思中。设施参观日中绫乃出任招待员，意外的遇到了搭救自己的神秘男子雷达，雷达利用绫乃对自己倾心，在基地内制造混乱，并且迷惑绫带他去了基地的控制室。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MBS</studio>
+  <studio>TBS</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 08:46:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人高斯_S01E19_星之恋人.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

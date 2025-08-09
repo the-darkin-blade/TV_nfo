@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-09 07:44:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>欢迎来到秘密基地</title>
+  <originaltitle>秘密基地へようこそ</originaltitle>
+  <showtitle>捷德奥特曼</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>6195804</id>
+  <uniqueid default="false" type="tmdb">1345656</uniqueid>
+  <uniqueid default="false" type="trakt">2654938</uniqueid>
+  <uniqueid default="true" type="tvdb">6195804</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>迷一样的怪兽突然出现，它肆意毁坏着小陆所居住的城市，想要守护家园的他渴望获得力量，而命运也就此开始转变。露宿街头的小陆与外星朋友佩嘉一起来到了天文台，神秘的仪器将他带到了位于天文台地下500m的秘密基地中，在那里他获得了可以变身为奥特战士的升华器与奥特胶囊，但他所幻化出的身姿却像极了令整个宇宙陷入混乱的贝利亚。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TV Tokyo</studio>
+  <studio>Tsuburaya Productions</studio>
+  <dateadded>2025-08-09 07:43:59</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1541</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>超人捷德_S01E01_S01E01.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
