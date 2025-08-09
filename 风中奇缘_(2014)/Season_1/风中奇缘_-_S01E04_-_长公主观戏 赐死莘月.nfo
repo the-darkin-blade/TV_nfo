@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 17:56:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>长公主观戏 赐死莘月</title>
+  <originaltitle>长公主观戏 赐死莘月</originaltitle>
+  <showtitle>风中奇缘</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1229081</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>万昂不甘心，莘月便提出要和万昂比试，身手不凡的莘月打败万昂，留下了丁玲。得知莘月打败了万昂，九爷暗中高兴。卫无忌来落玉坊找莘月，准备戏弄一下莘月，便带了一个面具和莘月打了起来，俩人都落入了水里。为了报复卫无忌，莘月通知坊里上下都不能给卫无忌衣服，卫无忌出于无奈，只有穿着一身湿润装扫兴离开。莘月假扮飞贼闯入石舫，只是为了能够在窗外静静地看着九爷，不料九爷正好打开了窗，发现了莘月，便邀请莘月进屋小叙。九爷提到自己还在石舫里把莘月之前的房间空出来，看出九爷仍在乎自己，莘月就问九爷为何要放弃落玉坊，九爷直言自己想要清清静静的过日子。莘月表示希望自己能够帮到九爷，但是九爷并不领情，要和落玉坊划清界线。万昂碰到卫无忌，对他落水的事奚落了好一番，卫无忌本想离开，万昂声称要替卫无忌出头，修理一下莘月，但是卫无忌并不同意。俩人在街头大打出手，最后万昂不胜武力，败下阵来。万昂在长公主面前告卫无忌的状，长公主察觉到莘月能够如此不简单，让卫无忌和万昂拳脚相加。长公主决定要去探莘月的底细。莘月找到秦湘，询问她想要接近长公主的目的，秦湘并不愿意透露，莘月警告秦湘不能够伤害到石舫。红姑来告，长公主大驾落玉坊。落玉坊众人纷纷梳妆打扮，准备迎接长公主。长公主要欣赏歌舞，《花月浓》上演。九爷十分担心，派石风观察落玉坊里的动静。《花月浓》的表演让长公主十分感动，大加赞赏。万昂和卫无忌在马坊相遇，万昂提醒卫无忌长公主已经前往落玉坊。长公主表面上称赞《花月浓》的巧思，但是要赐死莘月。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2014-10-02</premiered>
+  <aired>2014-10-02</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Tangren Media</studio>
+  <credits tmdbid="1667474">桐华</credits>
+  <director tmdbid="1413297">李国立</director>
+  <actor>
+    <name>刘诗诗</name>
+    <role>Xin Yue</role>
+    <profile>https://www.themoviedb.org/person/1185786</profile>
+    <tmdbid>1185786</tmdbid>
+  </actor>
+  <actor>
+    <name>彭于晏</name>
+    <role>Wei Wuji</role>
+    <profile>https://www.themoviedb.org/person/126778</profile>
+    <tmdbid>126778</tmdbid>
+  </actor>
+  <actor>
+    <name>胡歌</name>
+    <role>Mo Xun</role>
+    <profile>https://www.themoviedb.org/person/1106514</profile>
+    <tmdbid>1106514</tmdbid>
+  </actor>
+  <actor>
+    <name>陈法拉</name>
+    <role>Qin Xiang</role>
+    <profile>https://www.themoviedb.org/person/123701</profile>
+    <tmdbid>123701</tmdbid>
+  </actor>
+  <actor>
+    <name>韩栋</name>
+    <role>Li Ji</role>
+    <profile>https://www.themoviedb.org/person/1518226</profile>
+    <tmdbid>1518226</tmdbid>
+  </actor>
+  <actor>
+    <name>张可颐</name>
+    <role>Wan Zijin</role>
+    <profile>https://www.themoviedb.org/person/125882</profile>
+    <tmdbid>125882</tmdbid>
+  </actor>
+  <actor>
+    <name>田蕊妮</name>
+    <role>Hong Gu</role>
+    <profile>https://www.themoviedb.org/person/123650</profile>
+    <tmdbid>123650</tmdbid>
+  </actor>
+  <actor>
+    <name>迪丽热巴</name>
+    <role>Li Ji</role>
+    <profile>https://www.themoviedb.org/person/1557698</profile>
+    <tmdbid>1557698</tmdbid>
+  </actor>
+  <actor>
+    <name>刘帅良</name>
+    <role>Wan Ang</role>
+    <profile>https://www.themoviedb.org/person/1696092</profile>
+    <tmdbid>1696092</tmdbid>
+  </actor>
+  <actor>
+    <name>蔡雅同</name>
+    <role>Mao Yunzhu</role>
+    <profile>https://www.themoviedb.org/person/237813</profile>
+    <tmdbid>237813</tmdbid>
+  </actor>
+  <actor>
+    <name>吴卓翰</name>
+    <role>Wan Qian</role>
+    <profile>https://www.themoviedb.org/person/2405681</profile>
+    <tmdbid>2405681</tmdbid>
+  </actor>
+  <actor>
+    <name>秦昊</name>
+    <role>Hu Weili</role>
+    <profile>https://www.themoviedb.org/person/1016315</profile>
+    <tmdbid>1016315</tmdbid>
+  </actor>
+  <actor>
+    <name>张翔</name>
+    <role>Qin Yuanqi</role>
+    <profile>https://www.themoviedb.org/person/3211406</profile>
+    <tmdbid>3211406</tmdbid>
+  </actor>
+  <actor>
+    <name>徐小飒</name>
+    <role>Ding Ling</role>
+    <profile>https://www.themoviedb.org/person/3131749</profile>
+    <tmdbid>3131749</tmdbid>
+  </actor>
+  <actor>
+    <name>阮圣文</name>
+    <role>Hei Shi</role>
+    <profile>https://www.themoviedb.org/person/3220668</profile>
+    <tmdbid>3220668</tmdbid>
+  </actor>
+  <actor>
+    <name>韩振华</name>
+    <role>Uncle Chen</role>
+    <profile>https://www.themoviedb.org/person/1623181</profile>
+    <tmdbid>1623181</tmdbid>
+  </actor>
+  <actor>
+    <name>邓立民</name>
+    <role>Uncle Shi</role>
+    <profile>https://www.themoviedb.org/person/1436153</profile>
+    <tmdbid>1436153</tmdbid>
+  </actor>
+  <actor>
+    <name>Yong Qin</name>
+    <role>Qin Yuanchao</role>
+    <profile>https://www.themoviedb.org/person/1954834</profile>
+    <tmdbid>1954834</tmdbid>
+  </actor>
+  <actor>
+    <name>陈旭明</name>
+    <role>Sima Zan</role>
+    <profile>https://www.themoviedb.org/person/2385487</profile>
+    <tmdbid>2385487</tmdbid>
+  </actor>
+  <actor>
+    <name>Lu Yuanyuan</name>
+    <role>Qiu Xiang</role>
+    <profile>https://www.themoviedb.org/person/3858813</profile>
+    <tmdbid>3858813</tmdbid>
+  </actor>
+  <actor>
+    <name>强宇</name>
+    <role>Murong Feng</role>
+    <profile>https://www.themoviedb.org/person/1388914</profile>
+    <tmdbid>1388914</tmdbid>
+  </actor>
+  <dateadded>2025-08-06 17:31:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1078</height>
+        <durationinseconds>2756</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>风中奇缘 - S01e04 - Hdj Sound Of The Desert Hdstv__1918x1078__qsv_av1_10bit__28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

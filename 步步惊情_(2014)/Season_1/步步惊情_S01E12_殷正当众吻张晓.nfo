@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>殷正当众吻张晓</title>
+  <originaltitle>殷正当众吻张晓</originaltitle>
+  <showtitle>步步惊情</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5481430</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>张晓和蓝兰互换了衣服，不料张晓却被韩青袭击。殷正拿到了袭击人的照片，他追问成贵韩青的去向，成贵谎称韩青去了泰国。殷正将袭击人的照片给蓝兰看，蓝兰也觉得这个人特别像韩青。由于韩青和成贵的存在，蓝兰十分害怕，她特别想粘着殷正。羽西格格的发布会就要开始了，谁知这时蓝兰竟被韩青跟踪，情急之下殷正找张晓救场。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1080</height>
+        <durationinseconds>2780</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊情-S01E12.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

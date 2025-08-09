@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:01:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第11集  董事批判</title>
+  <originaltitle>第11集  董事批判</originaltitle>
+  <showtitle>北京爱情故事</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1385676</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>董事会成了程锋的批判大会，公司的洪副总不同意更改年度最佳广告公司，并且毫不留情的指出程圣恩发病的原因就是程锋私自签下了胡氏广告公司，众股东纷纷抗议。洪副总指责程锋就是一个只会啃老的富家子弟，给公司造成了重大损失，最终董事们决定等老程病好之后再做决定。股东大会后，程锋已经被打击得失魂落魄，而公司的财务总监卢蔓佳偏偏又要找程锋讨个说法，解释一下前段时间的所作所为。程锋只能无奈地告诉她，自己对她的追求只是一时兴起，而自己最近已经爱上了另外一个姑娘，而那个姑娘才让他真正懂得了感情。吴狄跟着伍媚去见客户，却因为堵车迟到而错过了预约的时间。程锋去医院看老程，一直守在医院的林夏告诉他，老程还没有醒来。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2012-01-08</premiered>
+  <aired>2012-01-08</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <director tmdbid="1065761">陈思诚</director>
+  <actor>
+    <name>陈思诚</name>
+    <role>Cheng Feng</role>
+    <profile>https://www.themoviedb.org/person/1065761</profile>
+    <tmdbid>1065761</tmdbid>
+  </actor>
+  <actor>
+    <name>佟丽娅</name>
+    <role>Shen Bing</role>
+    <profile>https://www.themoviedb.org/person/1173214</profile>
+    <tmdbid>1173214</tmdbid>
+  </actor>
+  <actor>
+    <name>张译</name>
+    <role>Shi Xiaomeng</role>
+    <profile>https://www.themoviedb.org/person/146098</profile>
+    <tmdbid>146098</tmdbid>
+  </actor>
+  <actor>
+    <name>李晨</name>
+    <role>Wu Di</role>
+    <profile>https://www.themoviedb.org/person/130984</profile>
+    <tmdbid>130984</tmdbid>
+  </actor>
+  <actor>
+    <name>杨幂</name>
+    <role>Yang Zixi</role>
+    <profile>https://www.themoviedb.org/person/572043</profile>
+    <tmdbid>572043</tmdbid>
+  </actor>
+  <actor>
+    <name>张歆艺</name>
+    <role>Lin Xia</role>
+    <profile>https://www.themoviedb.org/person/126851</profile>
+    <tmdbid>126851</tmdbid>
+  </actor>
+  <actor>
+    <name>莫小棋</name>
+    <role>Wu Mei</role>
+    <profile>https://www.themoviedb.org/person/130570</profile>
+    <tmdbid>130570</tmdbid>
+  </actor>
+  <actor>
+    <name>谭凯</name>
+    <role>Wu Wei</role>
+    <profile>https://www.themoviedb.org/person/1183237</profile>
+    <tmdbid>1183237</tmdbid>
+  </actor>
+  <dateadded>2025-08-03 21:23:32</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2721</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <art>
+    <poster>/config/metadata/library/73/73369b895ea3974ad420cca53e8edeb1/poster.jpg</poster>
+  </art>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>北京爱情故事 - S01e11 - 第11集 董事批判__1280x720__qsv_av1_10bit__28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

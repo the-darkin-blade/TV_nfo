@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:19:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>毕然造假毁生意</title>
+  <originaltitle>毕然造假毁生意</originaltitle>
+  <showtitle>虎妈猫爸</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1085684</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>罗素拖着疲惫的身子回家，刚到家外面，罗素接到丁诚打来的电话，丁诚正在家中上网浏览唐琳在微博上发布的新内容，新内容似乎跟罗素有关，丁诚催促罗素赶紧上网浏览唐琳的微博。罗素回到家的时候毕胜男坐在床上上网，唐琳的微博内容毕胜男已经浏览，罗素心事重重上床休息，毕胜男在罗素上床之时关闭网站，罗素浑然不知沉默不语。毕胜男提议跟罗素谈谈感情上的事情，罗素借口工作太累提议改天再谈。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <studio>Tianjin Television</studio>
+  <dateadded>2025-08-06 18:19:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2729</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>虎妈猫爸S01E34.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

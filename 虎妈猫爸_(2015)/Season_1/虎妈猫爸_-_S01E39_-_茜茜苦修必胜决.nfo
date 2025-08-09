@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:19:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>茜茜苦修必胜决</title>
+  <originaltitle>茜茜苦修必胜决</originaltitle>
+  <showtitle>虎妈猫爸</showtitle>
+  <season>1</season>
+  <episode>39</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1085691</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>罗母出门找到裴老师，裴老师的孙子牛牛跟茜茜的关系非常好，罗母希望裴老师能带茜茜到裴家玩耍，裴老师二话不说同意了罗母的请求。毕胜男带着茜茜来到罗素家门外面，裴老师带着孙子牛牛走了过来，茜茜跟牛牛到裴家玩耍，罗素与毕胜男回家上楼协商离婚的事情。罗家的人全部到齐，罗丹沉默不语，罗母主动劝说毕胜男放弃与罗素离婚的打算。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <studio>Tianjin Television</studio>
+  <dateadded>2025-08-06 18:19:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2737</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>虎妈猫爸S01E39.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="39" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

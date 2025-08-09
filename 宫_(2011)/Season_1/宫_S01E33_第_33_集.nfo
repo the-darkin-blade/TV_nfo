@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 33 集</title>
+  <originaltitle>第 33 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662287</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>十四阿哥因为德妃娘娘陷害八阿哥的事情，认清了德妃的真面目，他认为德妃应该是贤良淑德不该做这种阴险狡诈的事情。德妃告诉十四阿哥自己所做一切都是为了他，十四阿哥认为八阿哥做了皇上也会对自己好，自己根本不想做皇上。十四阿哥离开了皇宫，回到了新疆的军营里，德妃的苦心不能被孩子理解，失望伤心齐涌心头，她追赶着十四阿哥，而十四阿哥却头也不回的走了。李德全来向晴川汇报，原来是晴川暗中吩咐李德全揭开了钦安殿房上的瓦片使画像的面目不能分辩，这样不管画像换不换都万无一失。德妃因为十四阿哥的离去而抑郁成疾，四阿哥携素言进宫探病，无意间发现李德全和八阿哥走在一起，素言决定为四阿哥找个宫中的帮手。小顺子来找李德全央求他召太医救救禧嫔娘娘生下的小格格。原来禧嫔娘娘被打入冷宫里后，就没有人仔细照顾小格格。李德全不肯，四阿哥带着太医和小顺子去看小格格，等到众人赶去，小格格已经去世了。素言看着死去的小格格，顿时生出一计。素言假意来看望晴川，却告诉她禧嫔娘娘所生的小格格无人照看，请她去代为照看，善良的晴川答应了她的请求。素言又到冷宫里看望禧嫔娘娘，并告诉她晴川一直在虐待她的小格格，禧嫔娘娘情急之下，冲出冷宫跑去看小格格。禧嫔娘娘跑到小格格的房间，正巧看见晴川进了小格格的房间，禧嫔娘娘冲了进去，见小格格已经离世，认为是晴川杀害了小格格。这时有巡夜的锦衣卫经过，见禧嫔娘娘擅自离开冷宫，欲抓禧嫔娘娘回去治罪，禧嫔娘娘挟持了晴川一路跑上城楼。八阿哥及时赶到营救晴川，无奈晴川被禧嫔娘娘挟持，一时间僵持在那里。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2706</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E33_-_第_33_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="33" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

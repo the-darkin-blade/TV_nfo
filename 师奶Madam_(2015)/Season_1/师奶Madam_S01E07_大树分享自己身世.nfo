@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>大树分享自己身世</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>师奶Madam</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3191061</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>大树藉口掩饰，怜香未有怀疑信以为真，更招呼大树留下吃饭，大树乘机探听怜香的财政状况，然怜香却不愿多言令大树起疑。大树向花苹出示拍下的记账示威，花苹不甘示弱指已实行炒股计划，大树讥讽计划漏洞不少难以成功。花苹向正隆提出要求拨款实行炒股计划，正隆诸多藉口推搪，花苹听得申请时间费时感泄气。
+
+花苹回家看到一桌丰富菜肴不禁狼吞虎咽，胡蝶和花琛看到花苹的师奶造型只觉毫不相衬，胡蝶又趁机要花苹辞职，花苹竟说正考虑创业；胡蝶得知花苹计划炒股赚取开业资金，遂提议可向花琛要钱。丹丹和李太约会，原来李太听信丹丹的意见买股票赚钱，遂特意宴请致谢。
+
+丹丹出手　助夫加薪
+
+丹丹乘机吐苦水指汉斯升职却不获加薪，李太面子攸关答应向丈夫施压给汉斯合理待遇。同事都在谈论汉斯难得获加薪，千千指出多得丹丹向李太投诉，汉斯恰巧听到心里不爽。汉斯告诉丹丹获加薪，又给丹丹送香水感谢支持，丹丹喜极和汉斯相拥亲吻；花苹哭丧抱怨买下的股票大升，担忧没有藉口让丹丹介绍向贵利集团借贷。大树自信从怜香处可得线索，要花苹静候其破案；家伦向花苹报告侦查凤妮并无可疑，花苹气煞却对家伦的倒楣遭遇甚感兴趣。
+
+大树发现　怜香秘密
+
+大树跟踪怜香，看到她小心翼翼进行交收后，竟被贼人冲上前抢去手袋，怜香呼叫并穷追贼人，大树亦紧追上去。贼人被怜香穷追不舍既惊且怒，遂亮出小刀袭击，大树突然出现击倒贼人；怜香即时抢回手袋，检查刚交收回来的物件。怜香拼命保得文昌塔却受伤，大树直言不明所以，怜香解释可保佑大喆学业顺利。大树遂乘机追问怜香如何应付儿子出国升学的支出，花苹亦留意到怜香的随身手拉车内藏可疑「干坤」。
+
+众男聚首　齐齐诉苦
+
+发现大树查清怜香的记账后，花苹揶揄大树「摆乌龙」，大树却坚信怜香的财政来源可疑，只是暂时未搜得证据。怜香邀请大树和花苹回家吃饭，大喆突然提早回家；当看到怜香送上的文昌塔，竟大怒指怜香未理其意愿迳自安排出国升学事宜，花苹和大树在旁看不过眼插话，大喆不理夺门而去。
+
+大树紧随大喆到球场，好言相劝的同时亦感怀身世；突然汉斯和润祥等人把足球飞踢过来。大树和汉斯等踢球后坐在一旁休息闲聊，众男谈及与家中女成员的相处，都各有不同苦乐，更慨叹为人丈夫甚艰难。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2687</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E07.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

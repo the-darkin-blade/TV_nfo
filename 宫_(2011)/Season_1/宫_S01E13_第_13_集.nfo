@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 13 集</title>
+  <originaltitle>第 13 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662255</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>素言惊恐的告诉晴川千万不要吃，晴川一气之下带了玉露膏冒死跑去德妃娘娘。她质问德妃娘娘为什么要因为一己私利残害他人性命，德妃当着晴川把玉露膏吃了下去，晴川知道误会了娘娘，给娘娘下跪求饶。德妃娘娘给晴川指出了一条明路，让他去向皇上请求去给死我的老太妃守灵祈福，远离这是非之地，等太子和八阿哥平息下来，再想办法接她回来，晴川只想活命，同意了德妃娘娘的建议。皇上正为无人自愿去给太妃祈福而苦恼，晴川自愿恳请前去祈福，皇上大喜，赐晴川以格格待遇前去守灵。刚从乾清宫出来，八阿哥早已等在那里。他兴高采烈地带晴川跑到乾西四所，之前宫女心莲正在那接受惩罚。八阿哥告诉晴川他已经查出事情的真相，就是心莲暗中算计的晴川。晴川要八阿哥放了心莲，八阿哥命人带水莲到了疯人馆。晴川告诉八阿哥自己已经奏明皇上要去为老太妃祈福，并且自己再也不想与八阿哥有任何瓜葛。八阿哥伤心的眼看晴川离去，却无能为力，心中疼痛万分。晴川回到住处收拾东西准备启程，素言为她的即将离去心里万般不舍，离开晴川，自从此在宫中就再也没有一个可以信任的好姐妹了。晴川劝她要乐观看待，并相约以后还要再相聚。四阿哥到宫里来看望素言，素言把亲手绣的鸳鸯荷包送给了四阿哥。四阿哥回到雍王府 ，金枝已经等候了一整晚，她时刻担心四阿哥的身边会有其他女子出现。四阿哥不小心掉落了素言送给他的荷包，被金枝发现并收了起来。八阿哥把自己关在房间里一天一夜不吃不喝也不出来，大家都很担心他。九阿哥和十阿哥正要撞门进去，他却出来了。八阿哥心里明白晴川为什么要离去，他感到自己没有能力保 护自己心爱的女人，深深为此责怪自己，他决定要使自己强大起来，强大到足以保护自己的女人。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2688</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E13_-_第_13_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

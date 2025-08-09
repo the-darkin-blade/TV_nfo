@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:03:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>黑衣人</title>
+  <originaltitle>黑衣人</originaltitle>
+  <showtitle>孤芳不自赏</showtitle>
+  <season>1</season>
+  <episode>39</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1260340</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>秦凉边境关卡，守卫们正在喝酒吃肉，突然一位守卫身上的刀被人抽走，那人用刀柄把一圈人一一打倒，刀砍在木桌上，随手抄起一双筷子抵住那个守卫的双眼，只见来人是个身穿黑衣头戴斗笠的高个男子，黑衣人从怀里掏出一张画像，问那人见没见过画像上的人，在黑衣人的命令下城守瞪大眼睛使劲看，但真的没见过，黑衣人松开筷子准备离开，城守一看旁边有刀， 拔起刀向黑衣人砍去，黑衣人头也不回，一腿将其踹倒，刀就插在他的耳边。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Croton Media</studio>
+  <dateadded>2025-08-06 17:31:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2782</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>孤芳不自赏 - S01e39 - 黑衣人__1920x1080__qsv_av1_10bit__28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="39" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

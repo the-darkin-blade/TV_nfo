@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 17:57:43 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>鬼同你OT</title>
+  <originaltitle>鬼同你OT</originaltitle>
+  <showtitle>鬼同你OT</showtitle>
+  <sorttitle/>
+  <year>2015</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>6.8</value>
+      <votes>4</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>孙淑梅（田蕊妮 饰）最近厄运连连，不仅丢了工作，更间接导致了曾经的上司姜蓉（胡定欣 饰）的死亡。让孙淑梅没有想到的是，姜蓉的魂魄竟然入驻了自己的山寨手机中，成为了和自己形影相伴的同伴。
+
+　　孙淑梅重新回到了公司里，在姜蓉的指点之下，她一路披荆斩棘，连连创下佳绩，在此过程中，一人一鬼竟然也结下了深厚的友谊，与此同时，两人亦发现了公司之中暗藏的阴谋，在黑客艾铁文（蒋志光 饰）的帮助下，孙淑梅将诡计成功破解。建筑师米开朗（陈豪 饰）发觉了孙淑梅的异样，她身上那股若隐若现的气息使得米开朗渐渐坠入情网，这令先前暗恋米开朗的姜蓉十分恼火。 ©豆瓣</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"96577"}</episodeguide>
+  <id/>
+  <imdbid/>
+  <tmdbid>96577</tmdbid>
+  <uniqueid default="true" type="tmdb">96577</uniqueid>
+  <premiered>2015-07-13</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <genre>Comedy</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <tag>unrequited love</tag>
+  <tag>ghost</tag>
+  <actor>
+    <name>田蕊妮</name>
+    <role>Shun Suk Mui / "May"</role>
+    <profile>https://www.themoviedb.org/person/123650</profile>
+    <tmdbid>123650</tmdbid>
+  </actor>
+  <actor>
+    <name>胡定欣</name>
+    <role>Keung Yung / "Gin"</role>
+    <profile>https://www.themoviedb.org/person/1234856</profile>
+    <tmdbid>1234856</tmdbid>
+  </actor>
+  <actor>
+    <name>陈豪</name>
+    <role>Chiu Wai Kan / "Michael"</role>
+    <profile>https://www.themoviedb.org/person/551869</profile>
+    <tmdbid>551869</tmdbid>
+  </actor>
+  <actor>
+    <name>杨秀惠</name>
+    <role>Law Lai Fa / "Lolita"</role>
+    <profile>https://www.themoviedb.org/person/1240093</profile>
+    <tmdbid>1240093</tmdbid>
+  </actor>
+  <actor>
+    <name>关礼杰</name>
+    <role>Lei On Lup / "Hugo"</role>
+    <profile>https://www.themoviedb.org/person/1276972</profile>
+    <tmdbid>1276972</tmdbid>
+  </actor>
+  <actor>
+    <name>朱咪咪</name>
+    <role>Suen Choi Sau Yuk / Sau Yuk Gu</role>
+    <profile>https://www.themoviedb.org/person/1135781</profile>
+    <tmdbid>1135781</tmdbid>
+  </actor>
+  <actor>
+    <name>冯伟林</name>
+    <role>Brian Keung Bing-yan</role>
+    <profile>https://www.themoviedb.org/person/4027419</profile>
+    <tmdbid>4027419</tmdbid>
+  </actor>
+  <actor>
+    <name>于淼</name>
+    <role>Hong Wai</role>
+    <profile>https://www.themoviedb.org/person/4946614</profile>
+    <tmdbid>4946614</tmdbid>
+  </actor>
+  <actor>
+    <name>敖嘉年</name>
+    <role>Chan Cha Lei / "Charlie"</role>
+    <profile>https://www.themoviedb.org/person/1240871</profile>
+    <tmdbid>1240871</tmdbid>
+  </actor>
+  <actor>
+    <name>马蹄露</name>
+    <role>Ma May Zing</role>
+    <profile>https://www.themoviedb.org/person/1403101</profile>
+    <tmdbid>1403101</tmdbid>
+  </actor>
+  <actor>
+    <name>谭凯琪</name>
+    <role>Tsui On Ne / "Annie"</role>
+    <profile>https://www.themoviedb.org/person/1315729</profile>
+    <tmdbid>1315729</tmdbid>
+  </actor>
+  <actor>
+    <name>何远东</name>
+    <role>Keung Chung</role>
+    <profile>https://www.themoviedb.org/person/2232032</profile>
+    <tmdbid>2232032</tmdbid>
+  </actor>
+  <actor>
+    <name>C君</name>
+    <role>Lai A Mo / "Momo"</role>
+    <profile>https://www.themoviedb.org/person/1136400</profile>
+    <tmdbid>1136400</tmdbid>
+  </actor>
+  <actor>
+    <name>温家伟</name>
+    <role>Man Hak Dun / "Manhattan"</role>
+    <profile>https://www.themoviedb.org/person/1533115</profile>
+    <tmdbid>1533115</tmdbid>
+  </actor>
+  <actor>
+    <name>蒋志光</name>
+    <role>Ngai Ti Man / "IT Man"</role>
+    <profile>https://www.themoviedb.org/person/1083956</profile>
+    <tmdbid>1083956</tmdbid>
+  </actor>
+  <actor>
+    <name>赵永洪</name>
+    <role>Wong Tai-lung / "Raptor"</role>
+    <profile>https://www.themoviedb.org/person/1809912</profile>
+    <tmdbid>1809912</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-06 17:31:27</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

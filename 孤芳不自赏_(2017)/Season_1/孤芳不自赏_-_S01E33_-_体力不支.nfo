@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:03:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>体力不支</title>
+  <originaltitle>体力不支</originaltitle>
+  <showtitle>孤芳不自赏</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1256368</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>何侠派人来请白姑娘一聚，他为娉婷寻得一把好琴，娉婷抚琴，何侠舞剑，琴剑配合中的默契仿若又回到当年敬安王府。 耀天公主提前驾到，何侠见公主提前到来也有些尴尬。 公主看到眼前的场景，按捺住心头的醋意，以公主对待下人的姿态命娉婷为她弹琴助兴。 娉婷连弹四首，终于因为体力不支昏倒，何侠因紧张娉婷几乎忘记了公主，不顾公主不悦送她回宫。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Croton Media</studio>
+  <dateadded>2025-08-06 17:31:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2740</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>孤芳不自赏 - S01e33 - 体力不支__1920x1080__qsv_av1_10bit__28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="33" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

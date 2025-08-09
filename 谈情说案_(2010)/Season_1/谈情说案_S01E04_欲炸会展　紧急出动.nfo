@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>欲炸会展　紧急出动</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>谈情说案</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">757851</uniqueid>
+  <uniqueid default="false" type="tvrage">1065011922</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>徐家准备吃晚饭时，小丽发现大哥国安与嫂子彩嫦貌合神离；经小丽细心追问下，嫂子始说出原来国安为让汉飞高兴，不惜要儿子家希把「我的志愿」作文题目由当医生改为警察，更因此取不了高分……有人在网上声言将会炸毁香港会议展览中心，于是重案组众人出动在会展四周担任戒备。但原来这天会展中，景博正在会场中接受物理学大奖，而正在站岗的小丽，终切实得知景博是如此出色的一个科学家。
+
+天恒被迫　充当君子
+
+站岗了一整天的小丽刚回到家，二哥国良却突然满身污秽的进家，更要求小丽与他去整车……
+
+小丽在网上搜索有关景博的资料时，看到了景博得奖时的影片，心中对景博萌生好感。一个人正在家中看球赛的天恒突然接到一位的士司机的电话，原来敏嘉的巴西好友Rachel到了香港后因酒店出错而没地方投宿，而Rachel酒醉后把天恒的电话及地址交给了的士司机。
+
+看到身材惹火的Rachel横陈在自己眼前，天恒只得提醒自己她是敏嘉的朋友，把她送进客房……翌日天恒放工后不想回家，竟约了一众好友见面，更向他们说出家中有火热巴西女郎。当天恒回到家后，看见Rachel竟只围着一条浴巾在他的眼前……在台湾工作的敏嘉趁有两天假期回港探望天恒；而当天恒与她步向停车场之际，敏嘉竟突然问天恒，当Rachel在他家中寄居时，两人有否更进一步……
+
+重案组会议进行时，天恒决定将一宗小童陈志文被疑下毒案交给小丽负责，对于自己初入重案组不久便独自接手案件调查，小丽既惊且喜，而众同事的反应亦不相同……小丽向柏柱回报调查情况，原来志文中毒案发生前不久，他的母亲与姐姐已堕楼惨死，而报告则指志文母亲是抱着女儿自杀，但小丽直指觉得两宗事件可能有关连；小丽到医院探望志文时，亦发现志文的父亲陈贵在病房外……
+
+调查途中　竟然遇鬼
+
+天恒为了送敏嘉到机场，不惜苦缠人事部的同事，可惜无功而回；当天恒以为敏嘉已出发往机场而神伤不已之际，敏嘉却突然出现，更向他送上香吻。
+
+小丽终查得志文中毒的原因是饮下了驱鬼咒水，被符咒上含有水银的朱砂所影响。当小丽准备终止调查之时，柏柱却发现案中尚有疑点……
+
+众人发现陈贵刻意在晚上八时前带同儿子离家，即使儿子哭喊着不愿离开，陈贵欲以暴力拉儿子离开，众人只得出手阻止……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2654</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E04.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

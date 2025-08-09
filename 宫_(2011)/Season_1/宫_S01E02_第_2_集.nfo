@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 2 集</title>
+  <originaltitle>第 2 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662243</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>八阿哥误会晴川是贪慕虚荣的女子，晴川解释说自己不情愿嫁给太子，八阿哥带她离开了皇宫并要放她走。可是晴川想起素言意欲在宫里制造混乱，为阻止素言，她决定回到宫中，八阿哥越发认为她只是个贪慕虚荣的坏女人，把她独自留在了宫外。顽皮的十八阿哥听说二哥的宫里来了戏班子，闹着要看大闹天宫。素言趁机与玩起了十八阿哥捉迷藏，进入太子的新房撒满火药，企图借机烧死太子。十八阿哥为了闹新房，躲进新房里。献舞的素言点着了火药，新房着起大火，把十八阿哥困在里面。素言趁乱离开了太子宫。皇上为了太子随意更换嫡福晋而大发雷霆，四阿哥胤禛在皇上面前替太子求情。此时传来十八阿哥离世的消息，皇上一怒之下，废了太子。洛晴川走了一夜，终于走到太子府门前，却听见了十八阿哥离世，太子被废的消息，恨自己回来晚了。素言为误伤了十八阿哥的性命懊悔不已。四阿哥劝慰她，为了天下百姓，就要一直向着他们的目标一直走下去。四阿哥胤禛为自己不是嫡出的皇子而不平，为了取得江山，为了改变命运，只能靠自己努力。晴川身无分文流落街头，饥肠辘辘的她，遇见了成衣店老板顾小春，她恳求顾小春留她在店里打工，顾小春答应了她。顾小春的店铺经营并不红火，甚至可以说是经营惨淡，小春的母亲劝晴川离开，晴川却想出了新品发布会的主意，她在店门口搭起了T台并请姑娘们做模特，开起了特卖会，顿时店里人头攒动，顾客蜂拥而至。一年一次的宫女入宫就要开始，四阿哥要求素言能够顺利进宫，到皇上身边得到皇上的信任，借以帮助四阿哥顺利登上太子的宝座。素言虽然心里不愿，但是，为了四阿哥，她仍然答应了胤禛的请求。素言随新选的宫女入宫，却被嫉妒她的其他宫女陷害，失去了进入乾清宫伺候皇上的机会。顾小春的母亲看出小春喜欢洛晴川，决定替他做主娶了晴川做媳妇，没想到晴川因一心想回到自己的年代而拒绝了。小春听见晴川不肯嫁给自己，伤心离开。晴川跑去跟小春解释，却被黑衣人打晕，醒来后发现自己穿上了宫女的衣服，被送进了宫里，做了宫女。原来竟是店铺门口遇见的贵太太把她运进了宫里。那个女人，其实就是宫里的僖嫔娘娘。为了挽回皇上的心，僖嫔娘娘要晴川帮助自己。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2697</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E02_-_第_2_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

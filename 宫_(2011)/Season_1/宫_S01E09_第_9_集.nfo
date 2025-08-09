@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 9 集</title>
+  <originaltitle>第 9 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662250</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>素言听宫女们聊天谈到四阿哥处境不利，决定帮四阿哥对晴川下手。她自己不忍心亲手杀晴川，决定利用皇上，杀了晴川。她教晴川给皇上煮了对身体有害的汤水，不料晴川煮的汤却被金嬷嬷拿去给皇上邀功。皇上喝了汤胃胀发作，金嬷嬷被拉去了辛者库做苦力，禧嫔娘娘让晴川代替金嬷嬷的位置，负责管理乾西四所的众宫女。素言向四阿哥请求不要派她杀晴川，她告诉四阿哥自己做不到这件事，四阿哥决定派其他人去做。皇上在太子的生辰那天，心里思念被关在宗人府的太子。德妃娘娘知道皇上想找个台阶宽恕太子的过错，她派人给太子送水果，吩咐留下水果刀给太子。太子用德妃娘娘送来的水果刀自杀未遂，晴川听到消息，跑去宗人府看望太子。她知道历史上的太子被两立两废，她告诉太子不要再轻生，一定可以出去的。太子听到晴川说他可以出去，顿时有了信心。德妃娘娘借机转告四阿哥皇上对太子的思念，四阿哥明白了德妃娘娘的意思，在朝堂上替太子求情，求皇上放了太子，下令让废太子迁出宗人府，回到自己的阿哥府。太子从宗人府出来，路遇跟随禧嫔娘娘的晴川，大喊着“仙姑”追了过去。一旁的四阿哥见此情景，决定利用太子除去晴川。四阿哥觉得与其让八阿哥做了太子，不如废太子做竞争对手来的容易一些。他拿了一些巫蛊之术的东西给皇上，说太子是受人蛊惑，才铸下大错。皇上命令四阿哥严查此事。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2698</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E09_-_第_9_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

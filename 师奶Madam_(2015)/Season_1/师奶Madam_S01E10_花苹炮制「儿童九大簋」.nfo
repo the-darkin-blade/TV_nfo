@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>花苹炮制「儿童九大簋」</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>师奶Madam</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3191065</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>汉斯和大树谈话后感轻松不少，丹丹给其递上来信，汉斯阅后兴奋指已获新公司聘请，丹丹替丈夫感高兴。花苹认定大树被鬼附身，却见大树的表现忽然回复昔日模样，遂致电怜香查问对策；怜香忙于和网友聊天，匆匆虚应辧法便挂线。汉斯向丹丹提及答应给女儿多添弟弟，丹丹听着办法后不禁为丈夫克服心魔回复正常感兴奋。花苹晚上以为大树鬼附身以筷子夹其中指，大树气极破口大骂并说出原委。
+
+大树得知　花苹献计
+
+大树在游戏机中心遇见大喆，二人一同玩电子游戏，令大树兴起要挽救和吕芳的感情的念头。大树带着花束在街上等候吕芳下班，忽然看到罗帛出现挡着吕芳和Richard，罗帛更出言哀求别抢走吕芳，大树匆忙上前拉开罗帛。罗帛和大树坐在大排档前不停灌饮，店员认定罗帛失恋借酒浇愁，大树感啼笑皆非，并将吕芳提出分手的理由说出。罗帛为终日要吕芳处理家务感内疚，更提及当日花苹献计才提议大树和吕芳庆祝周年纪念，大树不禁惊讶。
+
+花苹请缨　照顾伶俐
+
+大树质问花苹何以干预其感情，花苹感无辜直言根本是无心之失；汉斯提出和丹丹到澳门一游，丹丹遂要求朱妈代为照顾女儿，凤妮和怜香提出可协助，未料花苹竟指各人各有各忙，请缨可代为看管伶俐。大树质疑花苹竟提出暂代照顾伶俐，花苹解释正好趁机在丹丹家翻天覆地大搜查。丹丹出发前给伶俐托管房间的钥匙，叮嘱她定必全天候跟身；大树和花苹瞥见后认定房中藏有重要证据。花苹特意为伶俐准备丰富的零食宴，伶俐开怀大嚼又和大树玩得兴起，花苹气极指伶俐要早睡驱赶大树回家。
+
+成功搜查　觅得照片
+
+花苹在床前为伶俐讲故事，伶俐突然拿出花苹的小枕头，坦白之前隐瞒收起之事，花苹感动未有怪罪，抱着枕头听着伶俐说故事睡着；花苹代丹丹出动送货，走遍港九新界后大感疲惫不堪。大树来电提醒接伶俐放学，花苹不禁叫苦；伶俐回家脱下挂颈上的门匙后前往沐浴，花苹感机不可失遂潜入丹丹房中搜查，更意外发现丹丹的性感照片。花苹、大树和正隆见面，正隆看着丹丹的照片直觉她应是受害人。
+
+胡蝶寻友　遇上花苹
+
+胡蝶找得飘红的部份地址，遂和菲带着精致茶具前往访寻下落，却因避开朱妈练剑将茶具砸烂，和一众街坊起龃龉。四美看到胡蝶即认出是花苹的母亲，胡蝶乘机提出将付出重酬向各人打听飘红的下落，梅姨欣然答应发动全体师奶协助寻人。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2695</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E10.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:19:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>胜男中计提出离婚</title>
+  <originaltitle>胜男中计提出离婚</originaltitle>
+  <showtitle>虎妈猫爸</showtitle>
+  <season>1</season>
+  <episode>38</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1085689</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>罗素在唐琳的陪同下找到了毕胜男，毕胜男正与杜峰在一起聊天，罗素怒气冲天认定毕胜男与杜峰私会，毕胜男与罗素发生争吵，罗素将怒气发泄到杜峰身上，杜峰挨了罗素一拳头，毕胜男愤愤不平帮助杜峰回敬罗素一耳光。罗素被毕胜男煽了一耳光没有再吵闹，毕胜男怒气难平要求唐琳与罗素赶紧滚蛋，罗素压住心中的怒气没有跟毕胜男争吵，毕胜男在罗素的注视下转身离去。新的一天，罗母等待毕胜男与罗素接茜茜上学，时间已到七点钟，毕胜男与罗素迟迟没有上门接茜茜，罗父拔打二人家中的电话亦无人接听，罗母只得亲自送茜茜上学。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <studio>Tianjin Television</studio>
+  <dateadded>2025-08-06 18:19:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2747</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>虎妈猫爸S01E38.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="38" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

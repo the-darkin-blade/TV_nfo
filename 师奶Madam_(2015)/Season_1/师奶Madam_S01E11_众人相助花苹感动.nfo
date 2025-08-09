@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>众人相助花苹感动</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>师奶Madam</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3191066</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>花苹等人经过温斌家门前，惊见铁闸打开；正想上前查看之际，大门打开了令四人吓了一跳。众人回复镇静后，这位突然出现的女子自称温晴，指自己是温斌在大陆的妹妹。温晴指自己在内地百货公司做事，乡下已没有其他亲友。花苹与正隆见面，汇报见到温晴之事，原来正隆早已在医院见过她，还觉得温晴一点嫌疑也没有；但花苹直觉却认为温晴出现的时机太过巧合。
+
+温晴柔攻　正隆融化
+
+温晴巧遇怜香及丹丹，两人借机向温晴示好，一同到医院探望温斌，其实想伺机试探温斌的昏迷情况。丹丹及怜香希望温晴日后能在温斌苏醒后替自己说项，便邀请温晴到茶楼饮茶刻意讨好她。花苹从家伦口中得知后，便特意到酒楼，装作与她们巧遇并一起同坐。正隆致电温晴回警局取口供，花苹听后便主动陪同前往；同僚看见花苹的师奶造型，忍不住嘲笑她。另一方面，正隆被温晴楚楚可怜的表现融化，更主动给她钱乘的士回家。
+
+假意吵架　套取情报
+
+正隆在房内查问股票情况，花苹坦白说出十万元只蚀剩三百元，正隆受不住刺激晕倒送院。汉斯与丹丹为应付伶俐的小学面试带她买新裙子，一家气氛融洽。汉斯等回家时在走廊听见花苹与大树吵架，得知花苹借了十万元予朋友而事前没有征询大树的意见，最后两人不欢而散，花苹更愤而出走。丹丹、怜香与凤妮到美容屋向花苹查问原委，得知十万元是炒股票赔掉，花苹向她们查探如何向贵利借钱。岂料众人得知后极力反对，反而愿意借钱给花苹度过难关，令她莫名感动。
+
+汉斯发现　丹丹艳照
+
+汉斯为捉飞曱甴而发现了丹丹被迫拍下性感照片；汉斯怒不可遏更与丹丹吵架，令伶俐伤心哭泣。伶俐面试当日，二人各自表述对女儿教学的期望，但两人的立场竟大相迳庭。怜香请温晴吃下午茶，于快餐店巧遇四美她们手上拿着「寻人单张」，发现有人出赏千元寻找粤曲高手飘红，两人听后均大感兴趣，梅更提议怜香利用塔罗牌可能找到线索。怜香在家教温晴玩塔罗牌，温晴装作不懂洗牌，却以熟练的手法换走怜香的牌……
+
+香炉之中　暗藏秘密
+
+温晴在家边涂指甲油边暗骂兄长没有好路数时，因点算零钱时有硬币滚到神台下，俯身拾起硬币时不慎打破了香炉，发现当中有一只USB记忆棒及储物柜锁匙。温晴想起大哥以前曾将偷回来的金链收在香炉内，还说这个秘密只有二人知道。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2685</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E11.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

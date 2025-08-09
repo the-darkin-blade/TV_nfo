@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:01:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第35集  股市风云</title>
+  <originaltitle>第35集  股市风云</originaltitle>
+  <showtitle>北京爱情故事</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1385700</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>吴狄和伍媚见面，向伍媚讲述了自己去找杨紫曦的情景。他看到杨紫曦身边有着别的男人，伍媚表示吴狄太过于在于别人的想法，两人解开心结在花店里相拥。邵华阳带着程锋和其他团队大量吸入大德股票，吴魏发现了邵华阳的举动。吴魏找到吴狄，警告吴狄不要在大德股权中陷入太深。通过吴狄的表现，吴魏确定邵华阳在帮助程锋吸纳股份，但他并没有把信息告诉石小猛和梁君正。面对邵华阳和程锋的大量买入，小猛和梁君正几乎没有还击之力，而吴魏中途杀出让一切突生变故，最终在收市之前程锋的股份还是没有梁君正的多。为了能保证爱人的成功，沈冰前来找石小猛，求他把手中的大德股票卖给程锋。石小猛以沈冰回到自己的身边为条件，沈冰断然拒绝。股东大会召开将至，程锋手中的股份和梁君正之间还有0.1%的差距。他们决定在股东大会上奋力一搏。股东大会上，程锋依靠着充分的准备成功征服了与会的中小股东，争取到了他们的支持。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2012-01-08</premiered>
+  <aired>2012-01-08</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <director tmdbid="1065761">陈思诚</director>
+  <actor>
+    <name>陈思诚</name>
+    <role>Cheng Feng</role>
+    <profile>https://www.themoviedb.org/person/1065761</profile>
+    <tmdbid>1065761</tmdbid>
+  </actor>
+  <actor>
+    <name>佟丽娅</name>
+    <role>Shen Bing</role>
+    <profile>https://www.themoviedb.org/person/1173214</profile>
+    <tmdbid>1173214</tmdbid>
+  </actor>
+  <actor>
+    <name>张译</name>
+    <role>Shi Xiaomeng</role>
+    <profile>https://www.themoviedb.org/person/146098</profile>
+    <tmdbid>146098</tmdbid>
+  </actor>
+  <actor>
+    <name>李晨</name>
+    <role>Wu Di</role>
+    <profile>https://www.themoviedb.org/person/130984</profile>
+    <tmdbid>130984</tmdbid>
+  </actor>
+  <actor>
+    <name>杨幂</name>
+    <role>Yang Zixi</role>
+    <profile>https://www.themoviedb.org/person/572043</profile>
+    <tmdbid>572043</tmdbid>
+  </actor>
+  <actor>
+    <name>张歆艺</name>
+    <role>Lin Xia</role>
+    <profile>https://www.themoviedb.org/person/126851</profile>
+    <tmdbid>126851</tmdbid>
+  </actor>
+  <actor>
+    <name>莫小棋</name>
+    <role>Wu Mei</role>
+    <profile>https://www.themoviedb.org/person/130570</profile>
+    <tmdbid>130570</tmdbid>
+  </actor>
+  <actor>
+    <name>谭凯</name>
+    <role>Wu Wei</role>
+    <profile>https://www.themoviedb.org/person/1183237</profile>
+    <tmdbid>1183237</tmdbid>
+  </actor>
+  <dateadded>2025-08-03 21:23:32</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2722</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <art>
+    <poster>/config/metadata/library/ce/ce6ea251b7e29d8dae319fcf27ecfc86/poster.jpg</poster>
+  </art>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>北京爱情故事 - S01e35 - 第35集 股市风云__1280x720__qsv_av1_10bit__28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

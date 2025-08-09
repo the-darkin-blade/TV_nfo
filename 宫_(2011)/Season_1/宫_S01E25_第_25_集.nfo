@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 25 集</title>
+  <originaltitle>第 25 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662267</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>八阿哥和凝香商量着谁去解释。凝香追上晴川，告诉她刚才是自己强迫八阿哥的，八阿哥却不愿意，他的心里只有晴川一个人。晴川与凝香格格从此结成了好姐妹。八阿哥带晴川到良妃娘娘面前割臂盟誓，以表对晴川的真心。九阿哥却替良妃娘娘又想出了另一个主意，他们决定从晴川的身边人入手，第一个目标就是晴川的朋友顾晓春。禧嫔娘娘终于成功的怀上了孩子，此时的顾晓春已经对她毫无用处，禧嫔娘娘决定从宫中赶走小春。禧嫔娘娘送了小春一小箱首饰，作为补偿，小春捡了其中一件送给晴川，正要收拾东西离去的时候，被几个太监抓住，诬陷他偷了禧嫔娘娘的首饰，眼见小春就要锒铛入狱，晴川勇敢的站出来替小春承担了罪过。晴川被罚到辛者库干活，那里是皇宫里最脏最累的地方。而小春则被赶出皇宫，而小春要照顾宫外的母亲，不得不忍痛看着晴川为他受过。辛者库里的管事金嬷嬷正是当初替晴川送茶而被罚来到辛者库的，她对晴川怀恨在心，想方设法折磨晴川。幸亏八阿哥及时赶到，带领手下帮晴川做了一切分内的工作。八阿哥看见晴川的鞋子穿破了，心疼的为她揉脚。良妃娘娘派人去小春家里放火，幸亏素言救了小春母亲。三人得以逃脱火海。良妃到辛者库告诉晴川小春因为她的原因，已经被连累，并要求她从此以后要主动拒绝八阿哥的爱情。八阿哥回到阿哥所，亲自画了一副鞋样，交给尚衣间去给晴川做了一双新鞋。八阿哥去看望晴川，却恰巧看见四阿哥也去看望晴川，晴川借机告诉八阿哥自己爱的还是四阿哥，叫八阿哥以后不要再来看望自己。八阿哥顿时伤心欲绝，转身跑了开去。四阿哥希望晴川能够回心转意，接受自己的爱情，晴川却告诉她自己已经不在皇上身边当差，没有任何利用价值。在晴川的心里，已经被四阿哥伤害得很深很深。四阿哥回到雍王府，没日没夜的处理公务，直至咯血被金枝发现，十三阿哥气愤四阿哥是因为晴川才这样折磨自己，他也决定去对付晴川。小春母亲却因为吸入太多毒烟而曪患肺病。家里被烧得一贫如洗，又要照顾两个病人，小春无奈决定放弃素言，救治自己的母亲。十三阿哥及时出现，他给小春指出一条明路：利用辛者库的晴川，偷运出辛者库要烧毁的宫里的东西，出来卖钱治病。小春听信了十三阿哥的话，去找晴川帮忙。善良的晴川答应了小春的请求。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2699</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E25_-_第_25_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

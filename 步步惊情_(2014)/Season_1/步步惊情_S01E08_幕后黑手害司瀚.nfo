@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>幕后黑手害司瀚</title>
+  <originaltitle>幕后黑手害司瀚</originaltitle>
+  <showtitle>步步惊情</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5481426</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>蓝兰得知殷正在张晓家十分生气，她不相信张晓和殷正只是偶遇。殷正回忆起幼年母亲改嫁的事，他对震天的误会越来越深。殷正想收买Z&amp;X的员工卓越，谁知卓越并不为之所动。司瀚公司的两家店面突然起火，其他厂家也纷纷打来电话欲毁约，司瀚瞬间陷入了困境。蓝兰前去找殷正，不料电梯竟发生了故障，蓝兰想起小时候的事突然失控，殷正拥其入怀中安抚。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2777</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊情-S01E08.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

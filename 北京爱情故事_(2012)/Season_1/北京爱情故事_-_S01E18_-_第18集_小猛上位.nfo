@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:01:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第18集  小猛上位</title>
+  <originaltitle>第18集  小猛上位</originaltitle>
+  <showtitle>北京爱情故事</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1385683</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>石小猛到大德集团报道，所有股东一起召开董事会，程锋宣布石小猛成为自己的特别行政助理，然而这个任命却并未得到公司董事会的承认。正在争执时，程胜恩提前出院，出人意料地任命石小猛为市场推广部总经理。程锋为父亲的任命惊讶不已，石小猛告诉他，自己抢先一步向程胜恩指出了大德集团和胡荣强公司之间签署广告合约的漏洞，避免了公司的损失。这个职位全凭自己的努力得来，他不希望欠程锋的人情。小猛的复仇计划开始。胡荣强接到一封律师函，上面说之前的广告单子合约有漏洞，需要让胡氏公司理赔。胡荣强约小猛出来谈判，小猛笑里藏刀处处刁难。程锋决定在林夏家亲自下厨招待大家，吴狄带着伍媚也来了，伍媚终于见到杨紫曦。而杨紫曦看见吴狄和伍媚亲热的样子，表现得很不自在。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2012-01-08</premiered>
+  <aired>2012-01-08</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <director tmdbid="1065761">陈思诚</director>
+  <actor>
+    <name>陈思诚</name>
+    <role>Cheng Feng</role>
+    <profile>https://www.themoviedb.org/person/1065761</profile>
+    <tmdbid>1065761</tmdbid>
+  </actor>
+  <actor>
+    <name>佟丽娅</name>
+    <role>Shen Bing</role>
+    <profile>https://www.themoviedb.org/person/1173214</profile>
+    <tmdbid>1173214</tmdbid>
+  </actor>
+  <actor>
+    <name>张译</name>
+    <role>Shi Xiaomeng</role>
+    <profile>https://www.themoviedb.org/person/146098</profile>
+    <tmdbid>146098</tmdbid>
+  </actor>
+  <actor>
+    <name>李晨</name>
+    <role>Wu Di</role>
+    <profile>https://www.themoviedb.org/person/130984</profile>
+    <tmdbid>130984</tmdbid>
+  </actor>
+  <actor>
+    <name>杨幂</name>
+    <role>Yang Zixi</role>
+    <profile>https://www.themoviedb.org/person/572043</profile>
+    <tmdbid>572043</tmdbid>
+  </actor>
+  <actor>
+    <name>张歆艺</name>
+    <role>Lin Xia</role>
+    <profile>https://www.themoviedb.org/person/126851</profile>
+    <tmdbid>126851</tmdbid>
+  </actor>
+  <actor>
+    <name>莫小棋</name>
+    <role>Wu Mei</role>
+    <profile>https://www.themoviedb.org/person/130570</profile>
+    <tmdbid>130570</tmdbid>
+  </actor>
+  <actor>
+    <name>谭凯</name>
+    <role>Wu Wei</role>
+    <profile>https://www.themoviedb.org/person/1183237</profile>
+    <tmdbid>1183237</tmdbid>
+  </actor>
+  <dateadded>2025-08-03 21:23:32</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2722</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <art>
+    <poster>/config/metadata/library/e0/e0f20d914d22564ded7d4da4f22540f5/poster.jpg</poster>
+  </art>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>北京爱情故事 - S01e18 - 第18集 小猛上位__1280x720__qsv_av1_10bit__28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

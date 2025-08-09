@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 28 集</title>
+  <originaltitle>第 28 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662274</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>十三阿哥带了花影到四阿哥的雍王府，打算派花影去八阿哥身边做J细，四阿哥不答应，他告诉十三阿哥不许伤害晴川。十三阿哥背着四阿哥开始训练花影。十三阿哥训练好了花影，把她派到皇宫里，花影打晕了晴川，自己换上晴川的衣服，从此在皇宫里面做起了晴川。十三阿哥把真正的晴川装进马车拉往宫外，却在路上被凝香格格发现，她一路追赶十三阿哥的马车，十三阿哥下车拦住了凝香格格，被凝香格格用火枪打伤了手臂。马车却早已跑远了。四阿哥求十三阿哥不要伤害晴川，十三阿哥不平，去看晴川。晴川咬了十三阿哥，撕扯中十三阿哥被晴川打晕，晴川见十三手臂流血，没有偷跑而是帮他包扎。十三醒来后骂晴川是个傻子。临走时，却掉下了钥匙。凝香格格回到宫里，看见了花影伪装的晴川，以为自己错怪了十三阿哥，她去找十三阿哥道歉，十三阿哥带她来到被打伤的那片树林，事后十三阿哥无情的走了，留下凝香格格一个人。凝香格格恨透了十三，决心报复他。晴川从破屋子跑了出来，正是八阿哥大婚的日子，晴川跑在迎亲队伍后面喊着八阿哥，八阿哥看着轿子里的花影，以为自己听错了。十三阿哥又一次抓走了晴川，关在密室里。晴川和十三打赌，她赌十三无论他做什么都会失败，如果她赢就放她走，如果十三阿哥赢了她就什么都听他的。十三阿哥帮花影解除了八阿哥和良妃娘娘的怀疑。八阿哥消除了对花影的怀疑后，花影进一步在八阿哥身边为十三阿哥监视八阿哥的一举一动，她把八阿哥的活动用图画的方法交给十三阿哥。十三阿哥听花影说起皇上要带八阿哥微服去祭祖，十三阿哥决定去刺杀他们。四阿哥不同意十三阿哥这么做，但是十三阿哥急功近利，决定铤而走险。十三阿哥临行前把额娘留下的玉佩交给晴川，告诉她如果自己不能回来就交给凝香格格。十三阿哥的行动果然失败，康熙判他宗人府终身监禁，正应了晴川的话。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2695</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E28_-_第_28_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

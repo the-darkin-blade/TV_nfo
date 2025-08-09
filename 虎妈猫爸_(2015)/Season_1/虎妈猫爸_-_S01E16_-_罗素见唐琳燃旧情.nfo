@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:19:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>罗素见唐琳燃旧情</title>
+  <originaltitle>罗素见唐琳燃旧情</originaltitle>
+  <showtitle>虎妈猫爸</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1085660</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>毕胜男带着茜茜练钢琴，孙娴雅因为毕胜男不让她跟茜茜接触，在家里撒气。罗素一边要哄着孙娴雅，一边要让毕胜男放老人和孩子多接触一会儿，在中间和稀泥和得很辛苦。罗素晚上梦到自己和唐琳的恋爱经历开始傻笑，毕胜男问他是不是跟唐琳私下里约会了，罗素否认。孙娴雅去送茜茜上学的时候毕胜男一直跟着。唐琳在罗素上班的时候去找他，问最近为什么老是躲着他，还邀罗丹和毕胜男一起在周末吃饭。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <studio>Tianjin Television</studio>
+  <dateadded>2025-08-06 18:19:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2706</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>虎妈猫爸S01E16.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

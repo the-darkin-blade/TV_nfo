@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>司瀚张晓甜蜜游</title>
+  <originaltitle>司瀚张晓甜蜜游</originaltitle>
+  <showtitle>步步惊情</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5481435</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>司瀚带着张晓去香港过了一个甜蜜的圣诞节，另一方面，张晓的闺蜜心怡归国。张晓和心怡相约见面，好闺蜜之间相谈甚欢，二人分别聊起了各自的男友。心怡带着自己的男友来见张晓，张晓看到司瀚后特别吃惊并借故离开。司瀚向张晓解释了他和心怡之间的关系，而伤心的张晓并愿听他的解释。心怡对司瀚旧情难忘，而司瀚心里想的只有张晓。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1080</height>
+        <durationinseconds>2706</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊情-S01E17.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

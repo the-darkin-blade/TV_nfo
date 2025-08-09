@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 17:51:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>八爷遭太子围捕</title>
+  <originaltitle>八爷遭太子围捕</originaltitle>
+  <showtitle>步步惊心</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>4183296</id>
+  <uniqueid default="false" type="tmdb">850729</uniqueid>
+  <uniqueid default="true" type="tvdb">4183296</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>被八阿哥救下的若曦暂时放下心防，满心幸福的躺在他怀中，享受着片刻温馨。两人分别后，若曦正在帐篷里发呆，思虑着怎么面对与八阿哥的这份感情，突然有个蒙古人打扮的人闯了进来，原来是乔装的十四阿哥，他偷跑出京城，说是有要事与八阿哥商议，来找若曦想想办法。四阿哥在京城大肆进行人事调动，九、十阿哥等人极为不满，认为是四阿哥故意将八阿哥的亲信调走，暗自铲除他在京城的势力。四阿哥心中早知晓十四阿哥已抗旨离开京城，将冲动欲与他去解释的十三阿哥拦住，告知他万不可声张，免得酿成大祸。暗中，四阿哥等已经广布眼线，派年羹尧等人打探八爷党势力。若曦帮十四爷传信，让两人约在密林见面，两人见面后，十四爷向其讲述近日宫中变故，谁知道八阿哥被太子的人跟踪，心狠的太子决定以铲除盗贼为名，准备用弓箭去对付两位阿哥。若曦正为八阿哥安危担心，敏敏突然来找她聊天，对她述说心中喜欢十三阿哥的事情。突然树林边喧哗，打听下来，据说是太子已经射中一个贼人，但贼已经逃到驻扎大营。若曦情急之下，让敏敏帮她找一个可以藏人之地，敏敏并未多言，先答应了下来。若曦见到无恙的十四阿哥，让他假装是自己的恋人，求敏敏帮她藏人。敏敏一口答应，将十四带到自己帐篷里躲藏。敏敏心思单纯，在大帐里就开始热络的请求十四阿哥讲述他与若曦的情史，十四无奈，只得小心编着故事。若曦担心八阿哥安危，到他帐里探望，发现他右肩受了箭伤，若曦担心的样子让八阿哥十分感动，两人感情又加深了一步。太子带人在营地搜索一无所获，心想只有敏敏的帐篷没有搜过，结果被敏敏机智应对，十四阿哥躲过一劫。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered>2011-09-15</premiered>
+  <aired>2011-09-15</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Zhejiang Television</studio>
+  <studio>Tangren Media</studio>
+  <credits tmdbid="1667474">桐华</credits>
+  <director tmdbid="1152308">林玉芬</director>
+  <director tmdbid="1413297">李国立</director>
+  <director tmdbid="1413664">郑伟文</director>
+  <actor>
+    <name>刘诗诗</name>
+    <role>Maertai Ruoxi / Zhang Xiao</role>
+    <profile>https://www.themoviedb.org/person/1185786</profile>
+    <tmdbid>1185786</tmdbid>
+  </actor>
+  <actor>
+    <name>吴奇隆</name>
+    <role>Aisin-Gioro Yin Zhen</role>
+    <profile>https://www.themoviedb.org/person/559987</profile>
+    <tmdbid>559987</tmdbid>
+  </actor>
+  <actor>
+    <name>郑嘉颖</name>
+    <role>Aisin-Gioro Yin Si</role>
+    <profile>https://www.themoviedb.org/person/1140044</profile>
+    <tmdbid>1140044</tmdbid>
+  </actor>
+  <actor>
+    <name>韩栋</name>
+    <role>Aisin-Gioro Yin Ling</role>
+    <profile>https://www.themoviedb.org/person/1518226</profile>
+    <tmdbid>1518226</tmdbid>
+  </actor>
+  <actor>
+    <name>袁弘</name>
+    <role>Aisin-Gioro Yin Xiang</role>
+    <profile>https://www.themoviedb.org/person/1254212</profile>
+    <tmdbid>1254212</tmdbid>
+  </actor>
+  <actor>
+    <name>林更新</name>
+    <role>Prince Yin Zhen</role>
+    <profile>https://www.themoviedb.org/person/1254211</profile>
+    <tmdbid>1254211</tmdbid>
+  </actor>
+  <actor>
+    <name>刘松仁</name>
+    <role>Kangxi Emperor</role>
+    <profile>https://www.themoviedb.org/person/83624</profile>
+    <tmdbid>83624</tmdbid>
+  </actor>
+  <actor>
+    <name>刘心悠</name>
+    <role>Maertai Ruolan</role>
+    <profile>https://www.themoviedb.org/person/104752</profile>
+    <tmdbid>104752</tmdbid>
+  </actor>
+  <actor>
+    <name>叶青</name>
+    <role>Yu Tan</role>
+    <profile>https://www.themoviedb.org/person/1210413</profile>
+    <tmdbid>1210413</tmdbid>
+  </actor>
+  <actor>
+    <name>邢瀚</name>
+    <role>Nian Gengyao</role>
+    <profile>https://www.themoviedb.org/person/2663106</profile>
+    <tmdbid>2663106</tmdbid>
+  </actor>
+  <actor>
+    <name>杨晓波</name>
+    <role>Aisin-Gioro Yin Shi</role>
+    <profile>https://www.themoviedb.org/person/2698067</profile>
+    <tmdbid>2698067</tmdbid>
+  </actor>
+  <actor>
+    <name>柴蔚</name>
+    <role>Princess Cheng Huan</role>
+    <profile>https://www.themoviedb.org/person/1258620</profile>
+    <tmdbid>1258620</tmdbid>
+  </actor>
+  <actor>
+    <name>石筱群</name>
+    <role>Gorolo Ming Hui</role>
+    <profile>https://www.themoviedb.org/person/2092598</profile>
+    <tmdbid>2092598</tmdbid>
+  </actor>
+  <actor>
+    <name>刘玥霏</name>
+    <role>Gorolo Ming Yu</role>
+    <profile>https://www.themoviedb.org/person/109811</profile>
+    <tmdbid>109811</tmdbid>
+  </actor>
+  <actor>
+    <name>郭晓婷</name>
+    <role>Suwan Guwalgiya Min Min</role>
+    <profile>https://www.themoviedb.org/person/1513376</profile>
+    <tmdbid>1513376</tmdbid>
+  </actor>
+  <actor>
+    <name>戴春荣</name>
+    <role>Consort De</role>
+    <profile>https://www.themoviedb.org/person/1236265</profile>
+    <tmdbid>1236265</tmdbid>
+  </actor>
+  <actor>
+    <name>郑凯</name>
+    <role>Irgen Gioro Zuo Ying</role>
+    <profile>https://www.themoviedb.org/person/2348849</profile>
+    <tmdbid>2348849</tmdbid>
+  </actor>
+  <actor>
+    <name>邓立民</name>
+    <role>Li Dequan</role>
+    <profile>https://www.themoviedb.org/person/1436153</profile>
+    <tmdbid>1436153</tmdbid>
+  </actor>
+  <actor>
+    <name>穆婷婷</name>
+    <role>Lady Ulanara</role>
+    <profile>https://www.themoviedb.org/person/2412208</profile>
+    <tmdbid>2412208</tmdbid>
+  </actor>
+  <actor>
+    <name>刘洁</name>
+    <role>Consort Liang</role>
+    <profile>https://www.themoviedb.org/person/1191758</profile>
+    <tmdbid>1191758</tmdbid>
+  </actor>
+  <actor>
+    <name>沈保平</name>
+    <role>Zhang Qianying</role>
+    <profile>https://www.themoviedb.org/person/1910092</profile>
+    <tmdbid>1910092</tmdbid>
+  </actor>
+  <actor>
+    <name>周彦呈</name>
+    <role>Wang Xi</role>
+    <profile>https://www.themoviedb.org/person/5090437</profile>
+    <tmdbid>5090437</tmdbid>
+  </actor>
+  <actor>
+    <name>曹馨月</name>
+    <role>Qiao Hui</role>
+    <profile>https://www.themoviedb.org/person/2804929</profile>
+    <tmdbid>2804929</tmdbid>
+  </actor>
+  <actor>
+    <name>巴森</name>
+    <role>Prince Suwan Guwalgiya</role>
+    <profile>https://www.themoviedb.org/person/1117866</profile>
+    <tmdbid>1117866</tmdbid>
+  </actor>
+  <actor>
+    <name>胡中虎</name>
+    <role>Gao Wuyong</role>
+    <profile>https://www.themoviedb.org/person/5090441</profile>
+    <tmdbid>5090441</tmdbid>
+  </actor>
+  <actor>
+    <name>赵家林</name>
+    <role>Longkodo</role>
+    <profile>https://www.themoviedb.org/person/1254213</profile>
+    <tmdbid>1254213</tmdbid>
+  </actor>
+  <actor>
+    <name>瞿澳晖</name>
+    <role>Aisin-Gioro Hong Shi</role>
+    <profile>https://www.themoviedb.org/person/2627153</profile>
+    <tmdbid>2627153</tmdbid>
+  </actor>
+  <actor>
+    <name>叶祖新</name>
+    <role>Aisin-Gioro Yin Er</role>
+    <profile>https://www.themoviedb.org/person/1258618</profile>
+    <tmdbid>1258618</tmdbid>
+  </actor>
+  <actor>
+    <name>张雷</name>
+    <role>Aisin-Gioro Yin Reng</role>
+    <profile>https://www.themoviedb.org/person/2732000</profile>
+    <tmdbid>2732000</tmdbid>
+  </actor>
+  <dateadded>2025-08-06 17:50:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2590</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊心_S01E11-E12.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>若曦八爷塞外定情</title>
+  <originaltitle>若曦八爷塞外定情</originaltitle>
+  <showtitle>步步惊心</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>4183297</id>
+  <uniqueid default="false" type="tmdb">850730</uniqueid>
+  <uniqueid default="true" type="tvdb">4183297</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>为免太子对自己的伤起疑，八阿哥不得不在太子面前演一场戏，他嘱咐身边太监，见机将滚烫的茶水泼在自己身上，假装烫伤了手。太子见搜索无果只得放弃。若曦一直被噩梦惊扰，梦见八阿哥有难，她放不下这段感情，决定安然接受，但她也要尽其所能，改变八阿哥未来的命运，她首先要做的，就是劝八阿哥放弃对王位的争夺。夜晚，若曦为赴与八阿哥的约会精心打扮，到了营帐内，她柔声为八爷念书，两人情意绵绵。太子捉贼无果，又被皇上训斥，放松了警惕，八阿哥认为十四阿哥可以启程回京，此时他与若曦相恋的事实也如实告诉了十四阿哥。若曦与八阿哥越发亲近，情不自禁为他唱起现代歌曲《茉莉花》，八阿哥承诺若曦，回京后就请皇上赐婚。十四阿哥回京，向八爷党人表示已经将朝中情况告诉八阿哥，众人放心，四阿哥故意向十四打听八阿哥情况，十四佯装不知。年羹尧为四阿哥多年来苦心栽培的心腹，妹妹年妃也是四阿哥侧福晋，为保住人才，四阿哥也不得不对年妃青眼有加。但暗中却也一直在关怀远在塞外的若曦，进献的珍贵燕窝也差人送去塞外，不过此时若曦正与八阿哥你侬我侬，享受着无忧无虑的时光，没办法把四爷的关照放在眼里。敏敏让若曦教她唱戏，两人用心排练，准备下次见到十三阿哥时唱给他听，不过若曦先请了八阿哥过来欣赏了一出《梁山伯与祝英台》。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered>2011-09-15</premiered>
+  <aired>2011-09-15</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Zhejiang Television</studio>
+  <studio>Tangren Media</studio>
+  <credits tmdbid="1667474">桐华</credits>
+  <director tmdbid="1152308">林玉芬</director>
+  <director tmdbid="1413297">李国立</director>
+  <director tmdbid="1413664">郑伟文</director>
+  <actor>
+    <name>刘诗诗</name>
+    <role>Maertai Ruoxi / Zhang Xiao</role>
+    <profile>https://www.themoviedb.org/person/1185786</profile>
+    <tmdbid>1185786</tmdbid>
+  </actor>
+  <actor>
+    <name>吴奇隆</name>
+    <role>Aisin-Gioro Yin Zhen</role>
+    <profile>https://www.themoviedb.org/person/559987</profile>
+    <tmdbid>559987</tmdbid>
+  </actor>
+  <actor>
+    <name>郑嘉颖</name>
+    <role>Aisin-Gioro Yin Si</role>
+    <profile>https://www.themoviedb.org/person/1140044</profile>
+    <tmdbid>1140044</tmdbid>
+  </actor>
+  <actor>
+    <name>韩栋</name>
+    <role>Aisin-Gioro Yin Ling</role>
+    <profile>https://www.themoviedb.org/person/1518226</profile>
+    <tmdbid>1518226</tmdbid>
+  </actor>
+  <actor>
+    <name>袁弘</name>
+    <role>Aisin-Gioro Yin Xiang</role>
+    <profile>https://www.themoviedb.org/person/1254212</profile>
+    <tmdbid>1254212</tmdbid>
+  </actor>
+  <actor>
+    <name>林更新</name>
+    <role>Prince Yin Zhen</role>
+    <profile>https://www.themoviedb.org/person/1254211</profile>
+    <tmdbid>1254211</tmdbid>
+  </actor>
+  <actor>
+    <name>刘松仁</name>
+    <role>Kangxi Emperor</role>
+    <profile>https://www.themoviedb.org/person/83624</profile>
+    <tmdbid>83624</tmdbid>
+  </actor>
+  <actor>
+    <name>刘心悠</name>
+    <role>Maertai Ruolan</role>
+    <profile>https://www.themoviedb.org/person/104752</profile>
+    <tmdbid>104752</tmdbid>
+  </actor>
+  <actor>
+    <name>叶青</name>
+    <role>Yu Tan</role>
+    <profile>https://www.themoviedb.org/person/1210413</profile>
+    <tmdbid>1210413</tmdbid>
+  </actor>
+  <actor>
+    <name>邢瀚</name>
+    <role>Nian Gengyao</role>
+    <profile>https://www.themoviedb.org/person/2663106</profile>
+    <tmdbid>2663106</tmdbid>
+  </actor>
+  <actor>
+    <name>杨晓波</name>
+    <role>Aisin-Gioro Yin Shi</role>
+    <profile>https://www.themoviedb.org/person/2698067</profile>
+    <tmdbid>2698067</tmdbid>
+  </actor>
+  <actor>
+    <name>柴蔚</name>
+    <role>Princess Cheng Huan</role>
+    <profile>https://www.themoviedb.org/person/1258620</profile>
+    <tmdbid>1258620</tmdbid>
+  </actor>
+  <actor>
+    <name>石筱群</name>
+    <role>Gorolo Ming Hui</role>
+    <profile>https://www.themoviedb.org/person/2092598</profile>
+    <tmdbid>2092598</tmdbid>
+  </actor>
+  <actor>
+    <name>刘玥霏</name>
+    <role>Gorolo Ming Yu</role>
+    <profile>https://www.themoviedb.org/person/109811</profile>
+    <tmdbid>109811</tmdbid>
+  </actor>
+  <actor>
+    <name>郭晓婷</name>
+    <role>Suwan Guwalgiya Min Min</role>
+    <profile>https://www.themoviedb.org/person/1513376</profile>
+    <tmdbid>1513376</tmdbid>
+  </actor>
+  <actor>
+    <name>戴春荣</name>
+    <role>Consort De</role>
+    <profile>https://www.themoviedb.org/person/1236265</profile>
+    <tmdbid>1236265</tmdbid>
+  </actor>
+  <actor>
+    <name>郑凯</name>
+    <role>Irgen Gioro Zuo Ying</role>
+    <profile>https://www.themoviedb.org/person/2348849</profile>
+    <tmdbid>2348849</tmdbid>
+  </actor>
+  <actor>
+    <name>邓立民</name>
+    <role>Li Dequan</role>
+    <profile>https://www.themoviedb.org/person/1436153</profile>
+    <tmdbid>1436153</tmdbid>
+  </actor>
+  <actor>
+    <name>穆婷婷</name>
+    <role>Lady Ulanara</role>
+    <profile>https://www.themoviedb.org/person/2412208</profile>
+    <tmdbid>2412208</tmdbid>
+  </actor>
+  <actor>
+    <name>刘洁</name>
+    <role>Consort Liang</role>
+    <profile>https://www.themoviedb.org/person/1191758</profile>
+    <tmdbid>1191758</tmdbid>
+  </actor>
+  <actor>
+    <name>沈保平</name>
+    <role>Zhang Qianying</role>
+    <profile>https://www.themoviedb.org/person/1910092</profile>
+    <tmdbid>1910092</tmdbid>
+  </actor>
+  <actor>
+    <name>周彦呈</name>
+    <role>Wang Xi</role>
+    <profile>https://www.themoviedb.org/person/5090437</profile>
+    <tmdbid>5090437</tmdbid>
+  </actor>
+  <actor>
+    <name>曹馨月</name>
+    <role>Qiao Hui</role>
+    <profile>https://www.themoviedb.org/person/2804929</profile>
+    <tmdbid>2804929</tmdbid>
+  </actor>
+  <actor>
+    <name>巴森</name>
+    <role>Prince Suwan Guwalgiya</role>
+    <profile>https://www.themoviedb.org/person/1117866</profile>
+    <tmdbid>1117866</tmdbid>
+  </actor>
+  <actor>
+    <name>胡中虎</name>
+    <role>Gao Wuyong</role>
+    <profile>https://www.themoviedb.org/person/5090441</profile>
+    <tmdbid>5090441</tmdbid>
+  </actor>
+  <actor>
+    <name>赵家林</name>
+    <role>Longkodo</role>
+    <profile>https://www.themoviedb.org/person/1254213</profile>
+    <tmdbid>1254213</tmdbid>
+  </actor>
+  <actor>
+    <name>瞿澳晖</name>
+    <role>Aisin-Gioro Hong Shi</role>
+    <profile>https://www.themoviedb.org/person/2627153</profile>
+    <tmdbid>2627153</tmdbid>
+  </actor>
+  <actor>
+    <name>叶祖新</name>
+    <role>Aisin-Gioro Yin Er</role>
+    <profile>https://www.themoviedb.org/person/1258618</profile>
+    <tmdbid>1258618</tmdbid>
+  </actor>
+  <actor>
+    <name>张雷</name>
+    <role>Aisin-Gioro Yin Reng</role>
+    <profile>https://www.themoviedb.org/person/2732000</profile>
+    <tmdbid>2732000</tmdbid>
+  </actor>
+  <dateadded>2025-08-06 17:50:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2590</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊心_S01E11-E12.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

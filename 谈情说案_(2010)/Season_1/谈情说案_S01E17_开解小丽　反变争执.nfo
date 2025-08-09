@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>开解小丽　反变争执</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>谈情说案</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">757864</uniqueid>
+  <uniqueid default="false" type="tvrage">1065011935</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>心神恍惚独自在厨房抹碗碟的小丽，突然失神把碟子摔破；国安与国良进入厨房趁机安慰妹妹。国安支持小丽调职，但国良反而要求小丽应秉持「草根精神」，不能随便屈服，更指国安有私心，不想慧珠收回家希的学位而教唆小丽；结果两兄弟争吵起来。柏柱带队入村欲找天威，却发现骏邦与婉仪分别失踪，两村又险起冲突……天恒与下属开会后，决定拜访北区民政事务署调查许氏和谢氏两族斗争的起因。
+
+景博协助　展开调查
+
+天恒得知两家族的百年恩怨后，终决定邀请景博协助调查。景博带同大学同僚到谢氏祠堂，替被指受到许氏诅咒的谢氏族人进行抽样化验；经大学化验后，发现谢氏族人的基因中是含有比一般人更易患上癌症的基因。景博到向谢氏家族的村民讲解研究的发现，但却被村民驳斥，更指百年前的先祖们比受诅咒后的村民更长寿……天恒与小丽到大学拜访景博，更得知他发现诅咒与环境生物学可能有所关连。
+
+骏邦与婉仪原来为了逃避两族人的追捕而躲在西贡，但终被重案组发现……为了找出谢氏村民为何受诅咒而癌病频生的谜团，景博决定进行全面的调查；他带领大学成员到谢氏村中，展开大规模的资料及样本搜集，连一花一草也在被检验的范围内。婉仪因腹痛而到医院检查，更发现有肿瘤；当骏邦与婉仪离开医院时，被前来探病的天威发现，骏邦惨被毒打，幸柏柱等及时赶到。
+
+天威被捕，婉仪大义灭亲挺身而出指证天威殴打骏邦；天威替景博约两村村民相会，更由景博解释诅咒的来由……事件终告一段落，重案组众人正准备完成报告时，却发现有纵火犯逃脱被通缉，要求他们留意此人行踪。这时骏邦与婉仪亦出现到重案组向众人致谢；小丽看到这对小情侣亦能排除万难走在一起，不禁对自己与景博之事亦感乐观。汉飞态度软化，接受小丽申请调任文职之事。
+
+小丽捉贼　破坏宴会
+
+天恒与景博喝酒，更向景博说出小丽欲调职之事，令他大感愕然；景森与小丽约会，更邀请她参加景森的生日派对。在生日派对当天，小丽替景博到名店取送给景森的礼物，却发现礼物损毁，于是小丽自行决定买了另一款；当小丽把礼物送给景森时，才知道因不懂英国的风俗而买错了礼物……景家只顾带景博招待贵宾，刻意冷落小丽；孤单的小丽在大屋中闲逛时，竟发现被通缉的纵火犯人，于是在追逐下两人闯入了派对宴会厅中。小丽虽成功捉拿犯人，但却令女宾客受伤……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2688</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E17.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

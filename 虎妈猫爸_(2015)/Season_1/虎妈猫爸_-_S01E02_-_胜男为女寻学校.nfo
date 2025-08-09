@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:19:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>胜男为女寻学校</title>
+  <originaltitle>胜男为女寻学校</originaltitle>
+  <showtitle>虎妈猫爸</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1085643</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>毕胜男计划送女儿茜茜到学校读书，张潮是毕胜男的同学，毕胜男曾在同学聚会上收到张潮赠送的名片，张潮已是某所学校的主任，毕胜男决定将女儿茜茜送到张潮的学校读书。张潮的办公室挂着许多锦旗，毕胜男站在墙壁下面一脸惊叹看着挂在墙上的锦旗，锦旗足以说明张潮任职的学校获得外界好评，毕胜男深信张潮的学校品质优秀</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <studio>Tianjin Television</studio>
+  <dateadded>2025-08-06 18:19:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2762</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>虎妈猫爸S01E02.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

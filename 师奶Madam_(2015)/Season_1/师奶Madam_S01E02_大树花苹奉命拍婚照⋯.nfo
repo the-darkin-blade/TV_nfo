@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>大树花苹奉命拍婚照⋯</title>
+  <originaltitle>Episode 2</originaltitle>
+  <showtitle>师奶Madam</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3191054</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>花苹不愿和大树扮演夫妻，正隆好言相劝却未能奏效，只有强硬下令。怜香到医院查问温斌的情况，职员以病人私隐拒绝透露，提议亲属可改到深切治疗部直接向医生查问；丹丹在深切治疗部门外听到警员和护士的对话，得知温斌仍昏迷感松口气。丹丹离去时在梯间碰到怜香，大家均感惊愕……
+
+汉斯升职　未获加薪
+
+凤妮来到询问处查问温斌的情况，职员公式回应并提议她可向身后二人追问，凤妮才赫见丹丹和怜香。三人在医院餐厅谈起都曾透过温斌向贵利集团借贷，丹丹慨叹利息高企债项根本不能清还，若早知二人向温斌求助必定阻止。怜香庆幸温斌昏迷不能催促还钱，丹丹却依然担心，叮嘱怜香和凤妮保守秘密。丹丹躲在房中看手上的性感照，忆起当日温斌拿着照片要胁之事。汉斯（曹永廉饰）升职经理却不感兴奋，因老板以辛苦经营为由未有加薪；丹丹抱怨百物腾贵为丈夫未有争取加薪感激气，汉斯却是有苦自知。
+
+度身订造　夫妻剧本
+
+正隆约大树和花苹到戏院见面，大树看见花苹花枝招展即讥讽其虚有其表，花苹只觉爱美是人的天性。正隆突然现身展出剧本，说是专为配合二人卧底而度身订造的爱情故事，二人投诉内容不切实际。正隆安排花苹和大树到婚纱店拍照，花苹不断试穿婚纱，大树和正隆只有呆在一旁。拍照时花苹和大树都未能投入扮恩爱，正隆只好和摄影师商量另想办法。朱妈回家看到屋中堆满货箱感眼冤，乘机向凤妮发脾气，凤妮坚称资金乃乡亲借贷得来。怜香接获前夫来电指未能如期给予赡养费，只能无奈接受；大喆晚上回家不愿和怜香说话，更藉故发脾气，怜香只觉与儿子间的距离愈来愈远。
+
+花苹大树　展开行动
+
+吕芳到访给罗帛和大树煮饭，大树提及即将离家受训，罗帛着儿子应多关顾吕芳别有所辜负。花苹在家中收拾行装，胡蝶不满乘机重提辞职之事，花苹急忙安抚并催促就寝。正隆乔装在客货车前清理等待，花苹刻意乘坐豪华房车来到，大树看到其大堆行李不禁呆住。正隆未理花苹和大树又在争拗，宣布「苹果树行动」正式展开。花苹和大树拖着行李走在路上招来不少注目礼，大树抱怨花苹过份招摇，花苹却自信周遭都只是艳羡目光。花苹看到升降机有待维修不禁叫苦，丹丹看到花苹的行李箱，以自己正拖着同款型号而对她搭讪。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2684</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E02.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

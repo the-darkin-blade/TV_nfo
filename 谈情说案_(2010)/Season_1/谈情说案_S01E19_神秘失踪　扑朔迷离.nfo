@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>神秘失踪　扑朔迷离</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>谈情说案</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3232565</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>正当重案组众人谈论小丽将离职的影响时，天恒表示有人向警方报案，指有人失踪并可能遇害；重案组众人到案发单位调查，报案者Karen向天恒指出她的好朋友Fiona突然失踪，并指她可能遇害。重案组众人发现案发单位一片混乱，更有蜜蜡手链被拉断散满一地。Karen指好友除了失踪更可能遇害，而嫌疑犯应是正与自己办理离婚的丈夫Stanley；天恒等向Stanley调查，发现他是医院精神科主任医生。
+
+天恒敏嘉　关系倒退
+
+天恒向Stanley查问Fiona的事情，他却指Fiona是Karen的损友，亦是她令Karen提出与自己离婚；Stanley更指Fiona的私生活极之不检点，而她更嗜赌而欠下不少债务。重案组觅得Fiona的男友Ken问话，而Ken指Fiona确是个嗜赌成性的人，而自己亦打算与她分手；Ken亦承认之前曾到Fiona家，而现场的混乱也是因两人争执而起，但他却有着有力的不在场证据……晚上天恒与好友们喝酒，当其中一位好友说已觅得相好的对象时，却突然被人横刀夺爱，而天恒更发现那人竟是Adrain……天恒欲阻止带女伴离开的Adrain，更要求他不要背叛敏嘉；但想不到Adrain竟众目睽睽下致电给敏嘉，当众示范敏嘉如何信任自己……众好友看到天恒被如此奚落，除替他不值外，更支持他努力追求敏嘉，以免她一直被Adrain欺骗；但当天恒打算展开追求时，却发现自己并不了解敏嘉……
+
+天恒努力从各方面重新认识敏嘉这位老朋友；敏嘉在酒店等人时，天恒突然出现，而他更不断说出敏嘉书中句子及她的喜好，但敏嘉却毫不欣赏……这时敏嘉收到电话，原来敏嘉约了线人进行秘密采访，但因线人看到天恒这警察出现，而令访问告吹；当敏嘉听到天恒欲追求她，竟要求他不要破坏两人间的朋友关系……家希在学校再被欺负，因对方高声说出小丽被景博抛弃之事，家希无法忍受竟出手打人。
+
+医生家中　满布镜头
+
+国安与训导主任见面，主任竟说出可对家希从轻法落；原来这一切都是慧珠的意思，因她不希望徐、景两家再次碰面。小丽发现家希决定改变志愿，要代替自己当上警察，于是决定取消辞职一事。Karen发现家中给装上大量高科技微型摄录机后，重案组到场调查；Stanley向警方解释装上摄录机是为了替Karen治病，更说她其实患上了极严重的精神病……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2681</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E19.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

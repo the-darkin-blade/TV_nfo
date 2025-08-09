@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>惨被怀疑　小丽叫屈</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>谈情说案</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">757850</uniqueid>
+  <uniqueid default="false" type="tvrage">1065011921</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>因为水晶球上的指纹消失，小丽依程序接受天恒与柏柱的盘问，但小丽一时激动，竟高声地向天恒与柏柱强调，自己没有收受利益替周兴毁灭儿子的指纹……但她没法解释指纹消失的原因，天恒只得偕小丽到大学请教景博。当景博了解事情的发生经过后，先说出指纹是没有机会无故消失，然后他更说对此事感兴趣；看到景博对影响自己是否能继续当警察之事视如有趣玩意，小丽暗感不悦。
+
+景博出马　找出原委
+
+晚上小丽独个儿在房中忧心之际，汉飞主动到房中找女儿倾谈；他更代表众家人向小丽交出各式小礼物替她打气。得到家人的谅解与支持，令小丽大感安慰。
+
+翌日天恒向小丽说出精神科医生对小丽的评估，指她只有轻度精神紧张，不会在没有为意下把指纹擦去；因受贿的嫌疑，天恒安排小丽调离前线，暂时负责文书工作。景博到案发现实调查，而他对穿入房间中的一组电线胶管甚感兴趣……
+
+景博要求切下一段电线胶管到实验室作检验，而他向天恒分析，发现当中的电线曾受到轻微磨损，但找不到把电线磨损的物质；天恒在大学咖啡室等候景博时，适逢有女学生办生日会，景博更分到一块蛋糕，但景博却望着蛋糕出神。小丽准时放工，却遇到重案组的同事赶着出差，小丽只得强颜欢笑替他们打气；这时景博突然出现，更说可顺路载她回家；原来景博出现是为了向小丽道歉……景博经蛋糕与载小丽回家时所得到的启发，终明白整件事的来龙去脉；而他更在实验室中向小丽与天恒前模疑案发过程。小丽洗脱嫌疑，众人的目标便搜查到底有谁可以在警署中毁灭证据，而最后将目标锁定负责于警署内担任装修工程的少荣。重案组众人对少荣进行贴身跟踪，最后在调查他的家时，小丽从蛛丝马迹中发现决定性的证物……
+
+小丽请景博到名店吃饭，景博虽对菜式兴趣不大，但两人仍言谈甚欢。
+
+为陪敏嘉　天恒放假
+
+小丽因徒步去车站，中途看见刚一起吃饭的景博竟到西餐厅吃意大利粉；小丽回家后向家人诉苦，众人分析应是两人的饮食习惯不同……</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2709</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E03.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>一起过节　频出洋相</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>谈情说案</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">757860</uniqueid>
+  <uniqueid default="false" type="tvrage">1065011931</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>景博提出在盂兰节到徐家一起吃饭，徐家众人为了不让小丽失礼，全家总动员严阵以待；当一起吃饭时，徐家众人的食相丑态百出令小丽大感尴尬，但景博却毫不介意；慧珠致电给儿子，得悉他正与徐家一起吃饭，忍不住侃说他……当景博回到家时，景然在儿子的西装袋看到有拜祭的衣纸，忍不住与妻子取笑平民百姓对鬼神的迷信……
+
+当景博离开后，景然夫妇却担心儿子对小丽的恋情认真……
+
+景博受伤　怪罪小丽
+
+景博在星期天偕小丽与家人喝茶，两人到达后却被告知慧珠因头痛而不能出席；当小丽欲与景博的家人倾谈时，景致只顾与景然谈及上流社会的话题，刻意冷待小丽。提早回家的小丽在房中呆坐，两位兄长慰问她，当得知前因后果后，更一起支持妹妹继续与景博发展。景博回家看到母亲正坐在大厅中，于是问候慧珠的病情，但当景博看到母亲所饮的东西时，就立时明白母亲只是不愿见小丽……
+
+景博与小丽约会完毕，景博特意送小丽回油麻地；这时有一辆客货车失控撞上行人道，景博为了救助小丽而令自己受伤。徐、景两家在急症室相遇，但气氛并不融洽；汉飞等看到小丽只是受到轻微擦伤，终于放下心头大石。小丽向慧珠与景然说出事发经过，却遭慧珠责骂，指小丽为何带儿子到油麻地这些「危险地带」；医生指景博受到脑震荡需要留院，景家提出要将景博转到私家医院……
+
+景家众人回到家中，慧珠头痛发作，景然问妻子是否需要吃药之际，景致说出小丽才是慧珠的「头痛根源」。景致约小丽到大酒店喝下午茶，表面上是为冷待小丽之事道歉，但其实却对小丽说出更多冷嘲热讽的说话；景致说欲替慧珠补购生日礼物，更请小丽替她出意见，当两人到名店购物时，景致竟要求小丽出钱购下数万元的手袋赠予慧珠；受辱的小丽把自己困在房中，这时家希进来，更说自己明白她的感受。
+
+香港变成　炸弹危城
+
+愤怒的景博质问景致为何羞辱小丽，景致反说两人相处融洽，更一起喝下午茶到名店……景博特意约小丽见面，说要补偿她受辱之事，但小丽只要求带她去看星。有炸弹狂徒接连在闹市放炸弹，令警方束手无策。再有炸弹通报出现，虽然警方努力疏散人群，但在炸弹爆发后，仍不幸有人被炸伤。小丽与柏柱查问受伤的露宿者财叔，发现这位露宿者患上精神病，而跟进的社工向小丽交代财叔身世，说出竟有善长得知财叔受伤后，寄了八千元赠予财叔；景博与小丽吃饭时，启发了她掌握新的线索。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E13.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

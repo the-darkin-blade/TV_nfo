@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:02:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>一网打尽</title>
+  <originaltitle>一网打尽</originaltitle>
+  <showtitle>孤芳不自赏</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1256357</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>谋臣告诉凉王，按天时算，过了腊八，淮河冰面厚实，凉军就可以借冰过河将晋军一网打尽，此是便捷之道。 将军若韩反对，建议绕道过河，虽将士辛苦，但可免夜长梦多。 凉王仗着有何侠的密报断定晋国短期不会有援军，故否了若韩的建议。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Croton Media</studio>
+  <dateadded>2025-08-06 17:31:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2750</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>孤芳不自赏 - S01e22 - 一网打尽__1920x1080__qsv_av1_10bit__28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

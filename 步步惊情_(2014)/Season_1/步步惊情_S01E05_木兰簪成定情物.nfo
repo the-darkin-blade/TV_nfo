@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>木兰簪成定情物</title>
+  <originaltitle>木兰簪成定情物</originaltitle>
+  <showtitle>步步惊情</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5481423</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>殷正被罚站在楼下向全体员工道歉，大雨倾盆张晓撑伞去劝阻。蓝兰贴心的照顾殷正，殷正将木兰簪子送给了蓝兰当做定情信物。震天来酒吧找司宇谈打理公司一事，而司宇对管理公司毫无兴趣。扳指上的文字翻译出来的意思很特别，殷正看着扳指陷入了沉思。张晓来马场找司宇还钱，司宇竟要求张晓归还利息。震天表示殷正有机会执掌公司，并让其想办法对付竞争对手Z&amp;X公司。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1080</height>
+        <durationinseconds>2639</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊情-S01E05.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

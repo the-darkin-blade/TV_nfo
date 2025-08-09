@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-03 21:24:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第22集  房客认妈</title>
+  <originaltitle>第22集  房客认妈</originaltitle>
+  <showtitle>北京爱情故事</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1385687</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>林夏父母对邵华阳感到十分满意，林夏对于邵华阳的破费感到十分过意不去。送邵华阳回家的途中，林夏得知他已是有妻儿的人。程锋和吴狄辗转找到小猛的家，看到家里条件不好，程锋抢过吴狄的钱包把钱都拿了出来，对其父撒谎说这是小猛捎来的。在小猛爸爸的指点下，程锋和吴狄也找到了沈冰的家。巧的是，沈冰家门口贴着一张出租的纸，程锋和吴狄见到沈母，谎称自己想租房，于是程锋和吴狄成了沈家的“房客”。沈冰回来见到二人十分惊讶，但是并没有戳穿。程锋开始全力地向沈母套近乎献殷勤，并认了沈母作干妈，沈冰很无奈。沈母拿出尘封的吉他要程峰这个“音乐人”弹唱，程锋的歌声让众人陷入沉思。伍媚遵照和吴狄的约定拒绝了吴魏烛光晚餐的邀请，这场竞赛似乎有了亲疏之分。杨紫曦发现自己怀孕了，她决定处理掉腹中的孩子。</plot>
+  <runtime>732</runtime>
+  <mpaa/>
+  <premiered>2012-01-08</premiered>
+  <aired>2012-01-08</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <director tmdbid="1065761">陈思诚</director>
+  <actor>
+    <name>陈思诚</name>
+    <role>Cheng Feng</role>
+    <profile>https://www.themoviedb.org/person/1065761</profile>
+    <tmdbid>1065761</tmdbid>
+  </actor>
+  <actor>
+    <name>佟丽娅</name>
+    <role>Shen Bing</role>
+    <profile>https://www.themoviedb.org/person/1173214</profile>
+    <tmdbid>1173214</tmdbid>
+  </actor>
+  <actor>
+    <name>张译</name>
+    <role>Shi Xiaomeng</role>
+    <profile>https://www.themoviedb.org/person/146098</profile>
+    <tmdbid>146098</tmdbid>
+  </actor>
+  <actor>
+    <name>李晨</name>
+    <role>Wu Di</role>
+    <profile>https://www.themoviedb.org/person/130984</profile>
+    <tmdbid>130984</tmdbid>
+  </actor>
+  <actor>
+    <name>杨幂</name>
+    <role>Yang Zixi</role>
+    <profile>https://www.themoviedb.org/person/572043</profile>
+    <tmdbid>572043</tmdbid>
+  </actor>
+  <actor>
+    <name>张歆艺</name>
+    <role>Lin Xia</role>
+    <profile>https://www.themoviedb.org/person/126851</profile>
+    <tmdbid>126851</tmdbid>
+  </actor>
+  <actor>
+    <name>莫小棋</name>
+    <role>Wu Mei</role>
+    <profile>https://www.themoviedb.org/person/130570</profile>
+    <tmdbid>130570</tmdbid>
+  </actor>
+  <actor>
+    <name>谭凯</name>
+    <role>Wu Wei</role>
+    <profile>https://www.themoviedb.org/person/1183237</profile>
+    <tmdbid>1183237</tmdbid>
+  </actor>
+  <dateadded>2025-08-03 21:23:32</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.85</aspect>
+        <width>1276</width>
+        <height>686</height>
+        <durationinseconds>43966</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>北京爱情故事 - S01e22 - 第22集 房客认妈__1276x686__qsv_av1_10bit__28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

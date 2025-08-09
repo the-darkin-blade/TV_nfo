@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:25:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>殷正身世终揭晓</title>
+  <originaltitle>殷正身世终揭晓</originaltitle>
+  <showtitle>步步惊情</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5481447</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>殷正的母亲责怪殷正将震天气病，殷正坦言他做的这些都是为死去的父亲殷成义报仇。司瀚要求司宇告诉家人自己已死，他欲在暗中与殷正一较高低。殷正将震天带到小时候经常来的地方，他将所有的恨发泄在了震天身上。殷母原本和震天是情侣，殷成义当年强奸了赵岚。得知真相后殷正后悔不已，赵岚拒绝儿子的认错。伊诺劝司瀚放下仇恨，司瀚不愿意放弃，伊诺选择离开司瀚。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2799</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊情-S01E29.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

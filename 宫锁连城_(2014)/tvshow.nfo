@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 17:57:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>宫锁连城</title>
+  <originaltitle>宫锁连城</originaltitle>
+  <showtitle>宫锁连城</showtitle>
+  <sorttitle/>
+  <year>2014</year>
+  <top250>0</top250>
+  <ratings/>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>大清乾嘉年间，连生三个女娃的大将军翁哈贷的妻子映月（王琳 饰）为了巩固自己的地位，竟然想出狸猫换太子的大胆计策，用别人家生下的男婴替换了自己产下的女婴。转眼二十年过去，男婴长成一脸英气的恒泰（陆毅 饰），而女婴则被勾栏妓女收养，得名宋连城（袁姗姗 饰），虽然美丽婀娜，却出身泥潭。在命运的指引下，从小生活在市井、满嘴谎言的连城与正直单纯的恒泰邂逅，在打打闹闹的过程中，两个年轻人渐渐熟稔，更在相处的过程中对彼此渐生好感。
+
+　　命运的锁链将从出生那一刻起便种下不解之缘的两个人紧紧锁在一起，由此谱写了一曲民间久久流传的传奇……</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"215022"}</episodeguide>
+  <id/>
+  <imdbid/>
+  <tmdbid>215022</tmdbid>
+  <uniqueid default="true" type="tmdb">215022</uniqueid>
+  <premiered>2014-04-08</premiered>
+  <status>Continuing</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <studio/>
+  <country>中国</country>
+  <actor>
+    <name>陆毅</name>
+    <profile>https://www.themoviedb.org/person/127269</profile>
+    <tmdbid>127269</tmdbid>
+  </actor>
+  <actor>
+    <name>袁姗姗</name>
+    <profile>https://www.themoviedb.org/person/1192905</profile>
+    <tmdbid>1192905</tmdbid>
+  </actor>
+  <actor>
+    <name>杨蓉</name>
+    <profile>https://www.themoviedb.org/person/1258369</profile>
+    <tmdbid>1258369</tmdbid>
+  </actor>
+  <actor>
+    <name>戴娇倩</name>
+    <profile>https://www.themoviedb.org/person/1631371</profile>
+    <tmdbid>1631371</tmdbid>
+  </actor>
+  <actor>
+    <name>王仁君</name>
+    <profile>https://www.themoviedb.org/person/2227795</profile>
+    <tmdbid>2227795</tmdbid>
+  </actor>
+  <actor>
+    <name>杨旻娜</name>
+    <profile>https://www.themoviedb.org/person/2861814</profile>
+    <tmdbid>2861814</tmdbid>
+  </actor>
+  <actor>
+    <name>寇振海</name>
+    <profile>https://www.themoviedb.org/person/108832</profile>
+    <tmdbid>108832</tmdbid>
+  </actor>
+  <actor>
+    <name>王琳</name>
+    <profile>https://www.themoviedb.org/person/1236324</profile>
+    <tmdbid>1236324</tmdbid>
+  </actor>
+  <actor>
+    <name>张雅萌</name>
+    <profile>https://www.themoviedb.org/person/2716837</profile>
+    <tmdbid>2716837</tmdbid>
+  </actor>
+  <actor>
+    <name>Yu Xing</name>
+    <profile>https://www.themoviedb.org/person/2861815</profile>
+    <tmdbid>2861815</tmdbid>
+  </actor>
+  <actor>
+    <name>苑琼丹</name>
+    <profile>https://www.themoviedb.org/person/94076</profile>
+    <tmdbid>94076</tmdbid>
+  </actor>
+  <actor>
+    <name>汤镇业</name>
+    <profile>https://www.themoviedb.org/person/1254216</profile>
+    <tmdbid>1254216</tmdbid>
+  </actor>
+  <actor>
+    <name>贾静雯</name>
+    <profile>https://www.themoviedb.org/person/1251592</profile>
+    <tmdbid>1251592</tmdbid>
+  </actor>
+  <actor>
+    <name>潘虹</name>
+    <profile>https://www.themoviedb.org/person/1172008</profile>
+    <tmdbid>1172008</tmdbid>
+  </actor>
+  <actor>
+    <name>张哲瀚</name>
+    <profile>https://www.themoviedb.org/person/1940475</profile>
+    <tmdbid>1940475</tmdbid>
+  </actor>
+  <actor>
+    <name>周放</name>
+    <profile>https://www.themoviedb.org/person/2192498</profile>
+    <tmdbid>2192498</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-06 17:31:27</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:03:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>没有继续下去的意义</title>
+  <originaltitle>没有继续下去的意义</originaltitle>
+  <showtitle>孤芳不自赏</showtitle>
+  <season>1</season>
+  <episode>37</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1260338</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>耀天公主下车，在风沙中直奔何侠而来，完全不畏惧楚北捷手中的剑，耀天扶住何侠，何侠没想到公主手无寸铁亲自前来，拉公主藏在身后，只想以命相护。 楚北捷愤恨地看着他俩，既有佳人为何还不放过娉婷。 耀天从何侠身后走到楚北捷面前，告诉楚北捷娉婷已不在秦国，还给他留了一封信。 见楚北捷不信，耀天索性将娉婷信中所说讲给楚北捷听，娉婷的“人本”之说字字如凿，楚北捷终于明白娉婷不要他为她而杀戮，这场仗没有继续下去的意义。 楚北捷接过信函，当场宣布退军。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Croton Media</studio>
+  <dateadded>2025-08-06 17:31:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2665</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>孤芳不自赏 - S01e37 - 没有继续下去的意义__1920x1080__qsv_av1_10bit__28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="37" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

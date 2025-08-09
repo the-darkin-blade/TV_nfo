@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:25:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>司瀚知张晓结新欢</title>
+  <originaltitle>司瀚知张晓结新欢</originaltitle>
+  <showtitle>步步惊情</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5481442</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>汪总拿走绑匪寄给震天的快递，隐瞒司瀚被绑架一事。心怡的画展如期举行，震天夫妻和张晓都到场。心怡的母亲忽然出面当众指责张晓杀死心怡，殷正为了保护张晓而公开恋情。司瀚从电视上看到这一幕，非常愤恨张晓变心。殷正不愿看到张晓自责，他说出害死心怡的幕后真凶是叔叔，而自己也身负复仇重任。康震天受此刺激患上脑溢血，与此同时司瀚打来电话爆料遭到绑架。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2755</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊情-S01E24.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

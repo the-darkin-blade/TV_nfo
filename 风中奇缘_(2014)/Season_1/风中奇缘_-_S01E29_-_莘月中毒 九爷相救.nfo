@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 17:57:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>莘月中毒 九爷相救</title>
+  <originaltitle>莘月中毒 九爷相救</originaltitle>
+  <showtitle>风中奇缘</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1229106</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>卫府的陈叔和红姑一起在落玉坊等莘月回来，可就等不见其人。陈叔派人入宫打探，不见音讯。此时黑石将军前来，告知宫中出了大事，原来骊姬在宴席上献舞，由于不小心打碎了皇上赐给秦湘的玉塔给打碎了，伤及了小皇子，被皇后治罪，莘月为了替骊姬讨回公道，现在两人一同被打入了大牢。一时大家都焦急万分，红姑让陈叔去找长公主、万将军和卫夫人，黑石打算主动去找皇帝求情，而红姑跑去了石舫，想去求九爷帮忙。九爷立马入宫参见皇上，九爷乞求皇上能够赦免莘月，但是皇上并不愿意插手此事。皇上得知九爷在大漠有势力，作为赦免莘月的交换条件，皇上提出要九爷助皇上笼络大漠，九爷答应，皇上命九爷去彻查此事。九爷进入大牢看望莘月，九爷询问莘月当天的情况。莘月将实情告知了九爷，九爷得知线索后立马出去彻查。九爷出去后，黑石前来汇合。骊姬直言自己之前见过九爷，还称九爷是大漠的大善人。莘月知道九爷这些善行后，感动不已。九爷探访秦湘，九爷暗示秦湘如果执意要害莘月，那么石舫也会与秦湘为敌。秦湘虽不肯松嘴，但是还是心有忧虑。秦湘打算作罢，但是皇上执意要彻查。次日，宫中发现当日的发令女官悬梁自尽，皇后询问后宫看法。后宫随便找了个替罪羊，此时就算了结。狱中，莘月中了饭菜的毒。九爷立马给莘月诊治，所有人都为莘月祈福。皇上知道玉珠子之事已经结束，而莘月中毒。皇上担心莘月中毒回影响卫无忌，立马命令要保莘月母子平安, 而且要彻查此事。九爷竭尽全力给莘月解毒，但是莘月还是没有好转的迹象。秦湘写信给李佶，让他转告莘月中毒的事给卫无忌。在九爷的精心照顾下，莘月终于醒了过来。看见莘月醒来，大家都喜笑颜开，胎儿也保住了。因为劳累过度，九爷给莘月把完脉就晕倒过去。九爷在梦中仍然惦记莘月，一把抓住骊姬的手。莘月身体恢复过来，陈叔要来接莘月回府。出于对莘月的安全考虑，九爷将莘月留在石舫好好照顾。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>2014-11-19</premiered>
+  <aired>2014-11-19</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Tangren Media</studio>
+  <credits tmdbid="1667474">桐华</credits>
+  <director tmdbid="1413297">李国立</director>
+  <actor>
+    <name>刘诗诗</name>
+    <role>Xin Yue</role>
+    <profile>https://www.themoviedb.org/person/1185786</profile>
+    <tmdbid>1185786</tmdbid>
+  </actor>
+  <actor>
+    <name>彭于晏</name>
+    <role>Wei Wuji</role>
+    <profile>https://www.themoviedb.org/person/126778</profile>
+    <tmdbid>126778</tmdbid>
+  </actor>
+  <actor>
+    <name>胡歌</name>
+    <role>Mo Xun</role>
+    <profile>https://www.themoviedb.org/person/1106514</profile>
+    <tmdbid>1106514</tmdbid>
+  </actor>
+  <actor>
+    <name>陈法拉</name>
+    <role>Qin Xiang</role>
+    <profile>https://www.themoviedb.org/person/123701</profile>
+    <tmdbid>123701</tmdbid>
+  </actor>
+  <actor>
+    <name>韩栋</name>
+    <role>Li Ji</role>
+    <profile>https://www.themoviedb.org/person/1518226</profile>
+    <tmdbid>1518226</tmdbid>
+  </actor>
+  <actor>
+    <name>张可颐</name>
+    <role>Wan Zijin</role>
+    <profile>https://www.themoviedb.org/person/125882</profile>
+    <tmdbid>125882</tmdbid>
+  </actor>
+  <actor>
+    <name>田蕊妮</name>
+    <role>Hong Gu</role>
+    <profile>https://www.themoviedb.org/person/123650</profile>
+    <tmdbid>123650</tmdbid>
+  </actor>
+  <actor>
+    <name>迪丽热巴</name>
+    <role>Li Ji</role>
+    <profile>https://www.themoviedb.org/person/1557698</profile>
+    <tmdbid>1557698</tmdbid>
+  </actor>
+  <actor>
+    <name>刘帅良</name>
+    <role>Wan Ang</role>
+    <profile>https://www.themoviedb.org/person/1696092</profile>
+    <tmdbid>1696092</tmdbid>
+  </actor>
+  <actor>
+    <name>蔡雅同</name>
+    <role>Mao Yunzhu</role>
+    <profile>https://www.themoviedb.org/person/237813</profile>
+    <tmdbid>237813</tmdbid>
+  </actor>
+  <actor>
+    <name>吴卓翰</name>
+    <role>Wan Qian</role>
+    <profile>https://www.themoviedb.org/person/2405681</profile>
+    <tmdbid>2405681</tmdbid>
+  </actor>
+  <actor>
+    <name>秦昊</name>
+    <role>Hu Weili</role>
+    <profile>https://www.themoviedb.org/person/1016315</profile>
+    <tmdbid>1016315</tmdbid>
+  </actor>
+  <actor>
+    <name>张翔</name>
+    <role>Qin Yuanqi</role>
+    <profile>https://www.themoviedb.org/person/3211406</profile>
+    <tmdbid>3211406</tmdbid>
+  </actor>
+  <actor>
+    <name>徐小飒</name>
+    <role>Ding Ling</role>
+    <profile>https://www.themoviedb.org/person/3131749</profile>
+    <tmdbid>3131749</tmdbid>
+  </actor>
+  <actor>
+    <name>阮圣文</name>
+    <role>Hei Shi</role>
+    <profile>https://www.themoviedb.org/person/3220668</profile>
+    <tmdbid>3220668</tmdbid>
+  </actor>
+  <actor>
+    <name>韩振华</name>
+    <role>Uncle Chen</role>
+    <profile>https://www.themoviedb.org/person/1623181</profile>
+    <tmdbid>1623181</tmdbid>
+  </actor>
+  <actor>
+    <name>邓立民</name>
+    <role>Uncle Shi</role>
+    <profile>https://www.themoviedb.org/person/1436153</profile>
+    <tmdbid>1436153</tmdbid>
+  </actor>
+  <actor>
+    <name>Yong Qin</name>
+    <role>Qin Yuanchao</role>
+    <profile>https://www.themoviedb.org/person/1954834</profile>
+    <tmdbid>1954834</tmdbid>
+  </actor>
+  <actor>
+    <name>陈旭明</name>
+    <role>Sima Zan</role>
+    <profile>https://www.themoviedb.org/person/2385487</profile>
+    <tmdbid>2385487</tmdbid>
+  </actor>
+  <actor>
+    <name>Lu Yuanyuan</name>
+    <role>Qiu Xiang</role>
+    <profile>https://www.themoviedb.org/person/3858813</profile>
+    <tmdbid>3858813</tmdbid>
+  </actor>
+  <actor>
+    <name>强宇</name>
+    <role>Murong Feng</role>
+    <profile>https://www.themoviedb.org/person/1388914</profile>
+    <tmdbid>1388914</tmdbid>
+  </actor>
+  <dateadded>2025-08-06 17:31:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2738</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>风中奇缘 - S01e29 - Hdj Sound Of The Desert Hdstv__1920x1080__qsv_av1_10bit__28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

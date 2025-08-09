@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:01:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第2集  爱情探索</title>
+  <originaltitle>第2集  爱情探索</originaltitle>
+  <showtitle>北京爱情故事</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1385667</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>石小猛上班的路上救了一名小学生，导致上班迟到，做好的广告方案也在忙乱中丢失。石小猛的老板胡荣强就此事对他发难，石小猛险些丢了工作。程锋泡妞首战失利，被卢蔓佳一通嘲讽。他发现卢蔓佳原来是自己公司的员工，于是准备好她的资料，接近卢蔓佳的好朋友胖姑娘，开始对卢蔓佳展开攻势。由于程锋的准备工作完美无缺，卢蔓佳对他刮目相看，被迅速拿下。程锋带着卢蔓佳去老地方和哥几个相聚，老板铜锤出来热情招待，程锋向大家宣布卢蔓佳是他的女朋友。程锋为了让吴狄气杨紫曦，命令他即刻从场子里搭讪一个女孩。吴狄被起哄得无可奈何，于是生疏地去和女孩搭讪，被女孩认为脑子有病。这一幕被杨紫曦看到，大骂吴狄恶心，石小猛却明白杨紫曦心里还是有吴狄的。吴狄解释无用，杨紫曦生气地乘车离去。程锋回到家之后，被董事长老爸痛批一顿，内容无非是他不求上进、只求女人的事儿。石小猛的女朋友沈冰要来北京，程锋和石小猛一同前去接站。程锋在火车站大喊沈冰的名字，而沈冰突然出现在他的身后。她的出现颠覆了程锋对外地妹的想象，令他眼前一亮。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered>2012-01-08</premiered>
+  <aired>2012-01-08</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <director tmdbid="1065761">陈思诚</director>
+  <actor>
+    <name>陈思诚</name>
+    <role>Cheng Feng</role>
+    <profile>https://www.themoviedb.org/person/1065761</profile>
+    <tmdbid>1065761</tmdbid>
+  </actor>
+  <actor>
+    <name>佟丽娅</name>
+    <role>Shen Bing</role>
+    <profile>https://www.themoviedb.org/person/1173214</profile>
+    <tmdbid>1173214</tmdbid>
+  </actor>
+  <actor>
+    <name>张译</name>
+    <role>Shi Xiaomeng</role>
+    <profile>https://www.themoviedb.org/person/146098</profile>
+    <tmdbid>146098</tmdbid>
+  </actor>
+  <actor>
+    <name>李晨</name>
+    <role>Wu Di</role>
+    <profile>https://www.themoviedb.org/person/130984</profile>
+    <tmdbid>130984</tmdbid>
+  </actor>
+  <actor>
+    <name>杨幂</name>
+    <role>Yang Zixi</role>
+    <profile>https://www.themoviedb.org/person/572043</profile>
+    <tmdbid>572043</tmdbid>
+  </actor>
+  <actor>
+    <name>张歆艺</name>
+    <role>Lin Xia</role>
+    <profile>https://www.themoviedb.org/person/126851</profile>
+    <tmdbid>126851</tmdbid>
+  </actor>
+  <actor>
+    <name>莫小棋</name>
+    <role>Wu Mei</role>
+    <profile>https://www.themoviedb.org/person/130570</profile>
+    <tmdbid>130570</tmdbid>
+  </actor>
+  <actor>
+    <name>谭凯</name>
+    <role>Wu Wei</role>
+    <profile>https://www.themoviedb.org/person/1183237</profile>
+    <tmdbid>1183237</tmdbid>
+  </actor>
+  <dateadded>2025-08-03 21:23:32</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2614</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <art>
+    <poster>/config/metadata/library/b2/b2109e39fb7b2321a2acb922aaa270ed/poster.jpg</poster>
+  </art>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>北京爱情故事 - S01e02 - 第2集 爱情探索__1280x720__qsv_av1_10bit__28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

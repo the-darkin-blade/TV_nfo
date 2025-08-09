@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>花苹要求大树让步</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>师奶Madam</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3191073</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>胡蝶来到花苹家要求暂住，大树猛烈反对更欲开口着她离开之际，竟被花苹阻止。花苹致电花琛，希望他能哄母亲回家。可惜花琛为公司的事要赶到美国开会，只能着好姐拿日用品来。为了方便商量行动，大树便睡在花苹房内地上。胡蝶不习惯公屋生活，整晚不断拍门作出诸多要求，结果每次胡蝶有动作，大树便需窜回大床；辗转数次后，二人不知不觉在床上睡着。
+
+邢蓝展开　追求攻势
+
+翌日早上，花苹收到邢蓝所送的花；大树得知邢蓝追求，感觉酸溜溜。胡蝶见花苹站起来后边走边捶着腰背，竟思疑花苹怀有身孕。好姐送来了胡蝶的日用品，更不经意将花苹的旧情信一并带来。花苹重读昔日的情信，回想旧日甜蜜回忆。花苹与胡蝶一同到街市买菜，胡蝶惊觉自己的宝贝女与街坊熟络，更变得精打细算。当花苹正想买海鲜时，胡蝶着花苹怀有身孕要戒口，花苹表示没有身孕后，胡蝶竟劝花苹考虑邢蓝。
+
+大喆识破　网友身分
+
+怜香因为儿子相约网友IRON MAN见面而感到苦恼，凤妮献计找来家伦假扮IRON MAN，并将怜香与大喆的网上对话予家伦熟读。润祥刚巧路过，再次见到凤妮与家伦状甚亲昵，不禁心中起疑。怜香暗中跟踪家伦与大喆会面，大喆得知IRON MAN并非女子有点失望。温习中的大喆见母亲进房给自己送汤，立即收起课本装作看漫画，可是怜香却着他别温习得太晚，令他起疑。大喆在短讯中假装被中药烫伤，怜香见到讯息大为紧张，立即拿烫火膏进房，终被识破她就是IRON MAN。
+
+温晴渐渐　露出破绽
+
+温晴到各商场寻找储物柜，并购买高跟鞋，刚巧被汉斯看见，于是上前跟踪并录下过程。润祥与凤妮商量开设物流公司的事，打算当事情确定后才告诉朱妈，岂料朱妈在背后听到，以为二人有事情隐瞒自己。朱妈找到老人院的宣传单张及凤妮的字迹，认定凤妮打算安排自己到老人院；商场举办「健康周」，胡蝶与花苹遇上朱妈遂一起去量血压；三人饮茶时朱妈将推测凤妮要送自己到老人院一事相告。胡蝶闻言开解朱妈，并着朱妈复出唱粤曲，重拾活力。
+
+大喆发现怜香就是IRON MAN之后，心情郁闷，到游戏机铺打机发泄。大树见到大喆后上前开解。大喆回家时，看见父亲与现任妻子前来；听见后母出言奚落母亲，大喆忍不住上前反驳，并斥责她破坏自己家庭幸福在先，更不会动用父亲一分一毫。怜香见儿子言行英勇，感到安慰。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2695</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E18.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

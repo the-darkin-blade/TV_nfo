@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>景博与匪　斗智斗力</title>
+  <originaltitle>Episode 25</originaltitle>
+  <showtitle>谈情说案</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">757847</uniqueid>
+  <uniqueid default="false" type="tvrage">1065011943</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>景博与众专家在自己的办公室内等待志浩出现；志浩向景博说出填字游戏中的生字，但景博竟然驳斥他用字不当；当两人在争论之时，众专家终成功追查到志浩的藏身之所。天恒率飞虎队到志浩所在，但景博坚持一起前往；当飞虎队攻入之时，却发现屋中藏了炸弹……天恒与飞虎队狙击手在混乱中发现志浩的行踪，却无法阻止他接近景博；成功胁持景博的志浩，更欲与他同归于尽……
+
+提出复合　竟遭拒绝
+
+景然与慧珠在隔离病房前等候医生的报告，医生说出已用上一切的方法，现在只能靠景博的求生意志令自己苏醒；医生更说出昏迷中的景博不断叫喊小丽的名字……小丽看着睡在病床上的景博后，努力以开朗的语调鼓励景博，甚至把景博平反自己名声时用的硬币交给他。在小丽的不断鼓励下，景博真的缓缓苏醒；得知景博情况转好后，小丽并没有等到他清醒便提出离开，看着小丽步远，景然竟高声地向她道谢。
+
+天恒探望渐渐康复的景博，而景博亦从好友口中打听小丽的动向；原来小丽已回归公共关系科工作，只知她过着忙碌的生活。在休养期间的景博重新整埋自己对小丽的感觉，而他更重返两人约会时到过的地方缅怀过去……
+
+徐家众人在家中看家希赢得全港「小学奥林匹克数学大赛」冠军的访问，想不到家希竟在电视前说出自己最感谢的是转校前的鲜果栏小学；汉飞大赞孩子不忘本，但彩嫦却担心不已……
+
+小丽接到景博的电话约她见面，当见面后景博向她提出欲复合，却被小丽一口拒绝。天恒与景博两人回到小学时常去的茶餐厅互吐苦水，却被茶餐厅老板取笑；天恒得知敏嘉欲回新加坡，于是去到她居住的酒店，向她说出自己已被晋升为总督察，但了为向敏嘉证明她是自己最重视的人，因此已辞去了警察一职……天恒努力为景博制造机会，可惜小丽刻意回避；景博为了让小丽原谅自己，竟执意要陪小丽一起上班，令她大感困扰。
+
+颁奖礼上　剖白心意
+
+景博一直在小丽家楼下等她下班，但国安兄弟出现，更说小丽为了躲避他而离开了香港；在澳洲散心的小丽竟突然见景博出现……景博当众下跪求小丽原谅，看到景博的行径，小丽竟狠狠地责备他，指他当时抛弃自己，其伤痛令她想过寻死；发现自己竟把小丽伤得如此彻底的景博，只得哭着离开。景博成功获得「全球科学家奖」，在颁奖礼上他竟向在场嘉宾，说出自己的心底话；这时在家中打扫的小丽，看在电视转播景博说出的情深说话，不禁动容……</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2708</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E25.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

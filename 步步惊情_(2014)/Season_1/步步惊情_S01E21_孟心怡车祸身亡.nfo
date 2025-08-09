@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:25:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>孟心怡车祸身亡</title>
+  <originaltitle>孟心怡车祸身亡</originaltitle>
+  <showtitle>步步惊情</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5481439</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>殷成贵打电话让殷正等着在婚礼上看一场好戏，殷正欲让二叔放弃行动却无果。司瀚和心怡终于步入婚礼殿堂，大屏幕上播放着二人的甜蜜照片，突然司瀚和张晓亲吻的照片也出现在了大屏幕上，心怡一时难以接受遂逃离了婚礼现场。心怡出了车祸被紧急送往医院抢救，司瀚和张晓守在手术室外不肯离开。张晓认为心怡的死全是自己的错，殷正陪在淋雨生病的她身边贴心照顾。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2802</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊情-S01E21.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

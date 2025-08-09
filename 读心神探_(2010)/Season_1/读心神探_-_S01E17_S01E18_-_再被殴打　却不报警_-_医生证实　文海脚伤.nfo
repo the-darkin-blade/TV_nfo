@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:01:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>再被殴打　却不报警</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>读心神探</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2053719</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>礼贤收到消息指文海受伤入院，礼贤探望好友并问他是否被黑社会中人毒打，更要文海报案，但文海拒绝表示不欲火上加油。礼贤不想好友继续被打，所以特意往找炭疽，礼贤看见炭疽与一众手下吃饭，竟毫不犹豫便坐下，要求炭疽停止对付文海。炭疽将自己的手机取出，更让礼贤看当中鲜血淋淋的照片，指有人将自己的爱犬杀害，更在墙上留下血字作恐吓，所以不会就此罢休……  文海身分　警察卧底  学琛召礼贤到办公室，指炭疽投诉遭礼贤恐吓，礼贤解释是为文海出头，但反遭学琛驳斥。礼贤不忿学琛误解文海，竟说出文海曾当卧底一事。看学琛错愕的表情，礼贤诉说当年亲眼目睹文海在警察学堂犯规、文海加入黑社会及之后文海出狱与他相遇的种种事……听了礼贤的解释，学琛决定亲自寻找文海；两人在茶餐厅坐下后，学琛开始施展他的读心法，查看文海当卧底一事是否属实……当文海前往拜祭妻子时，学琛与礼贤一起出现，原来文海托礼贤请学琛帮忙，替他找出杀死妻子的真凶；文海终向学琛坦白，说出自己的真正身分。文海提到当年很努力才能成为黑社会头目炭疽身旁的红人，与此同时，与炭疽竞争的太子亦私下约见文海，当见面时更赠以四百万来要求文海倒戈协助自己，更暗示今日之事如让炭疽得知，文海亦难以向他解释。文海收下四百万，只得向上司黄天荣请示。 天荣要求文海把巨款收藏起来然后等候指示，但文海不久后更被牵连在一宗谋杀案内，更因罪名成立而入狱，每天过着被拳打脚踢的日子……学琛约会已退休的天荣，天荣否认文海是卧底之事，当谈到文海已出狱时，学琛更看见天荣的表情有可疑。学琛特意请炭疽与太子到警署，向他们问及有关文海妻子念慈被杀一事，学琛更赞赏礼贤在盘问太子时，用上了「以静制动」的技巧……  永希认识　富豪之女  众人离开看片房时，永希特意看表以在众人前炫耀由女友所送的名表，看到永希成功与城中名媛成为情侣，巧莹暗自不悦。学琛探望文海，更向他谈到天荣在文海入狱三个月后便申请提早退休，令文海大感奇怪……永希与巧莹追踪太子与他的手下时，却因为要应付女朋友的来电，终被他们识破。永希向大家说出已提出辞职，更指女友已安排了高薪厚职给他。有途人看见满身伤痕的天荣突然自后巷跑出大街，且高声呼叫，令一直尾随天荣身后的神秘人不得不放弃追杀他；学琛请文海回警署问话，却看不出他有说谎掩饰……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered>2010-10-26</premiered>
+  <aired>2010-10-26</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <actor>
+    <name>林保怡</name>
+    <role>Yiu Hok Sam</role>
+    <profile>https://www.themoviedb.org/person/552084</profile>
+    <tmdbid>552084</tmdbid>
+  </actor>
+  <actor>
+    <name>黄宗泽</name>
+    <role>Ho Lai Yin (Trevor)</role>
+    <profile>https://www.themoviedb.org/person/144586</profile>
+    <tmdbid>144586</tmdbid>
+  </actor>
+  <actor>
+    <name>田蕊妮</name>
+    <role>Yip Chin Ting (Phoenix)</role>
+    <profile>https://www.themoviedb.org/person/123650</profile>
+    <tmdbid>123650</tmdbid>
+  </actor>
+  <actor>
+    <name>陈茵媺</name>
+    <role>Ching Bui Yee (Perlie)</role>
+    <profile>https://www.themoviedb.org/person/1566076</profile>
+    <tmdbid>1566076</tmdbid>
+  </actor>
+  <actor>
+    <name>黎诺懿</name>
+    <role>Mak Wing-hei</role>
+    <profile>https://www.themoviedb.org/person/112986</profile>
+    <tmdbid>112986</tmdbid>
+  </actor>
+  <actor>
+    <name>谢雪心</name>
+    <role>Chung Sau-han</role>
+    <profile>https://www.themoviedb.org/person/1274608</profile>
+    <tmdbid>1274608</tmdbid>
+  </actor>
+  <actor>
+    <name>于洋</name>
+    <role>Ching Siu-hong</role>
+    <profile>https://www.themoviedb.org/person/119438</profile>
+    <tmdbid>119438</tmdbid>
+  </actor>
+  <actor>
+    <name>曹永廉</name>
+    <role>Gordon</role>
+    <profile>https://www.themoviedb.org/person/1223053</profile>
+    <tmdbid>1223053</tmdbid>
+  </actor>
+  <actor>
+    <name>姚莹莹</name>
+    <role>Ng Mei-yue</role>
+    <profile>https://www.themoviedb.org/person/1223074</profile>
+    <tmdbid>1223074</tmdbid>
+  </actor>
+  <actor>
+    <name>高海宁</name>
+    <role>Annie Leung</role>
+    <profile>https://www.themoviedb.org/person/1173598</profile>
+    <tmdbid>1173598</tmdbid>
+  </actor>
+  <actor>
+    <name>谭小环</name>
+    <role>Daisy Liu</role>
+    <profile>https://www.themoviedb.org/person/1222460</profile>
+    <tmdbid>1222460</tmdbid>
+  </actor>
+  <actor>
+    <name>黄祥兴</name>
+    <role>Donald Lai</role>
+    <profile>https://www.themoviedb.org/person/2071064</profile>
+    <tmdbid>2071064</tmdbid>
+  </actor>
+  <actor>
+    <name>陈美诗</name>
+    <role>Emily Chow</role>
+    <profile>https://www.themoviedb.org/person/134994</profile>
+    <tmdbid>134994</tmdbid>
+  </actor>
+  <actor>
+    <name>胡诺言</name>
+    <role>Edmond Tang</role>
+    <profile>https://www.themoviedb.org/person/1222315</profile>
+    <tmdbid>1222315</tmdbid>
+  </actor>
+  <actor>
+    <name>白彪</name>
+    <role>Hung Kwan</role>
+    <profile>https://www.themoviedb.org/person/237256</profile>
+    <tmdbid>237256</tmdbid>
+  </actor>
+  <actor>
+    <name>胡枫</name>
+    <role>Wong Chun-yu</role>
+    <profile>https://www.themoviedb.org/person/102883</profile>
+    <tmdbid>102883</tmdbid>
+  </actor>
+  <actor>
+    <name>汤盈盈</name>
+    <role>Yuen Ling-tsz</role>
+    <profile>https://www.themoviedb.org/person/125775</profile>
+    <tmdbid>125775</tmdbid>
+  </actor>
+  <actor>
+    <name>杨秀惠</name>
+    <role>Fan Xiao-li</role>
+    <profile>https://www.themoviedb.org/person/1240093</profile>
+    <tmdbid>1240093</tmdbid>
+  </actor>
+  <actor>
+    <name>骆应钧</name>
+    <role>Yiu Tin-po</role>
+    <profile>https://www.themoviedb.org/person/127436</profile>
+    <tmdbid>127436</tmdbid>
+  </actor>
+  <actor>
+    <name>胡定欣</name>
+    <role>Tang Ping-ping</role>
+    <profile>https://www.themoviedb.org/person/1234856</profile>
+    <tmdbid>1234856</tmdbid>
+  </actor>
+  <actor>
+    <name>陈展鹏</name>
+    <role>Chiu Man-hoi</role>
+    <profile>https://www.themoviedb.org/person/1238985</profile>
+    <tmdbid>1238985</tmdbid>
+  </actor>
+  <actor>
+    <name>王青</name>
+    <role>Tan Tsui</role>
+    <profile>https://www.themoviedb.org/person/990468</profile>
+    <tmdbid>990468</tmdbid>
+  </actor>
+  <actor>
+    <name>郑子诚</name>
+    <role>Leung Wing-tai</role>
+    <profile>https://www.themoviedb.org/person/2040668</profile>
+    <tmdbid>2040668</tmdbid>
+  </actor>
+  <actor>
+    <name>郭锋</name>
+    <role>Wong Tin-wing</role>
+    <profile>https://www.themoviedb.org/person/1416065</profile>
+    <tmdbid>1416065</tmdbid>
+  </actor>
+  <actor>
+    <name>徐荣</name>
+    <role>Ching Sau-yip</role>
+    <profile>https://www.themoviedb.org/person/1258590</profile>
+    <tmdbid>1258590</tmdbid>
+  </actor>
+  <dateadded>2025-08-04 16:09:51</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1876</width>
+        <height>1080</height>
+        <durationinseconds>2598</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <art>
+    <poster>/config/metadata/library/95/959eab44fcba683903fff755f60978b3/poster.jpg</poster>
+  </art>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>读心神探 - S01e17 S01e18 - 再被殴打　却不报警 - 医生证实　文海脚伤__1876x1080__qsv_av1_10bit__28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>医生证实　文海脚伤</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>读心神探</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2053722</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>重案组众人在急症室看着受伤的文海接受治疗，而医生更证实文海右脚曾受重伤再没法用力；文海大感屈委，终忍不住请求学琛等人放过自己……礼贤离开时指责永希令文海受伤，巧莹看不过眼，挺身替永希平反，令他大受感动。展婷带着儿子与学琛兄妹见面，展婷更由儿子口中得知，兆康与秀娴两人平日几乎已没有交谈，学琛听后指这情况比夫妻吵架更为严重……  炭疽遇袭　惨被打死  兆康与秀娴发现愤怒的贝儿边谈电话边回到家中，两老问及原因，贝儿指礼贤误会自己一脚踏两船而发生争吵；当兆康与秀娴欲开解贝儿时，学琛却突然把矛头指向兆康，更指父亲与酒楼的女知客过从甚密，令兆康吓得立刻在妻子前澄清……礼贤带同食物与啤酒探望文海，并代众同事向他道歉，但文海指出好友买食物探望，是怕自己受伤没法工作而没有收入；礼贤与文海饮至醉倒于床上，而文海则重看妻子怀孕时的录像……得知天荣苏醒的学琛与展婷赶到医院，但医生指天荣的喉咙受到重创无法说话，但为了向天荣取得资料，学琛请天荣以「眨眼」次数来代表「对」、「错」；但当学琛问他有关文海与四百万的事时，天荣不禁瞪大了眼睛……天荣紧闭双眼拒绝再作答，学琛为让他说出事实，说凶手得知他未死将不会放过他；当天荣终用「眨眼」承认袭击的凶手是谁人时，学琛却接获炭疽被杀的消息……学琛等人赶到现场，法医指炭疽是被人打死，而展婷更看到炭疽身上的鞋印与之前的死者及天荣身上的鞋印极为相似。永希把一部手机交给学琛，更指这手机是插在炭疽口中，而当中更录有凶手拍下的短片……重案组前往逮捕文海，却发现刚酒醒的礼贤与正酣睡的文海同在房间中。重案组分析口供，除了其他租客指没有看过文海离开外，套房的包租公因通宵看球赛而能证明文海没有离开套房。  学琛再次　调查文海  看到好友不间断地受到永希等人的查问，礼贤终忍不住要求学琛不要针对文海；学琛在文海的房间调查，更尝试不断翻看文海的物件，尝试代入他想法时，却发现展婷亦不约而同出现。学琛得到展婷的启发，决定到惩教处查问有关文海在服刑时的资料，因而得知有人曾在文海被毒打时拯救了他。学琛在盘问时特意对文海表现粗暴，希望能找出新证据，但礼贤即使看过录像后，仍坚信文海是无辜。学琛在回家时被人跟踪，更遭受遇袭……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered>2010-10-27</premiered>
+  <aired>2010-10-27</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <actor>
+    <name>林保怡</name>
+    <role>Yiu Hok Sam</role>
+    <profile>https://www.themoviedb.org/person/552084</profile>
+    <tmdbid>552084</tmdbid>
+  </actor>
+  <actor>
+    <name>黄宗泽</name>
+    <role>Ho Lai Yin (Trevor)</role>
+    <profile>https://www.themoviedb.org/person/144586</profile>
+    <tmdbid>144586</tmdbid>
+  </actor>
+  <actor>
+    <name>田蕊妮</name>
+    <role>Yip Chin Ting (Phoenix)</role>
+    <profile>https://www.themoviedb.org/person/123650</profile>
+    <tmdbid>123650</tmdbid>
+  </actor>
+  <actor>
+    <name>陈茵媺</name>
+    <role>Ching Bui Yee (Perlie)</role>
+    <profile>https://www.themoviedb.org/person/1566076</profile>
+    <tmdbid>1566076</tmdbid>
+  </actor>
+  <actor>
+    <name>黎诺懿</name>
+    <role>Mak Wing-hei</role>
+    <profile>https://www.themoviedb.org/person/112986</profile>
+    <tmdbid>112986</tmdbid>
+  </actor>
+  <actor>
+    <name>谢雪心</name>
+    <role>Chung Sau-han</role>
+    <profile>https://www.themoviedb.org/person/1274608</profile>
+    <tmdbid>1274608</tmdbid>
+  </actor>
+  <actor>
+    <name>于洋</name>
+    <role>Ching Siu-hong</role>
+    <profile>https://www.themoviedb.org/person/119438</profile>
+    <tmdbid>119438</tmdbid>
+  </actor>
+  <actor>
+    <name>曹永廉</name>
+    <role>Gordon</role>
+    <profile>https://www.themoviedb.org/person/1223053</profile>
+    <tmdbid>1223053</tmdbid>
+  </actor>
+  <actor>
+    <name>姚莹莹</name>
+    <role>Ng Mei-yue</role>
+    <profile>https://www.themoviedb.org/person/1223074</profile>
+    <tmdbid>1223074</tmdbid>
+  </actor>
+  <actor>
+    <name>高海宁</name>
+    <role>Annie Leung</role>
+    <profile>https://www.themoviedb.org/person/1173598</profile>
+    <tmdbid>1173598</tmdbid>
+  </actor>
+  <actor>
+    <name>谭小环</name>
+    <role>Daisy Liu</role>
+    <profile>https://www.themoviedb.org/person/1222460</profile>
+    <tmdbid>1222460</tmdbid>
+  </actor>
+  <actor>
+    <name>黄祥兴</name>
+    <role>Donald Lai</role>
+    <profile>https://www.themoviedb.org/person/2071064</profile>
+    <tmdbid>2071064</tmdbid>
+  </actor>
+  <actor>
+    <name>陈美诗</name>
+    <role>Emily Chow</role>
+    <profile>https://www.themoviedb.org/person/134994</profile>
+    <tmdbid>134994</tmdbid>
+  </actor>
+  <actor>
+    <name>胡诺言</name>
+    <role>Edmond Tang</role>
+    <profile>https://www.themoviedb.org/person/1222315</profile>
+    <tmdbid>1222315</tmdbid>
+  </actor>
+  <actor>
+    <name>白彪</name>
+    <role>Hung Kwan</role>
+    <profile>https://www.themoviedb.org/person/237256</profile>
+    <tmdbid>237256</tmdbid>
+  </actor>
+  <actor>
+    <name>胡枫</name>
+    <role>Wong Chun-yu</role>
+    <profile>https://www.themoviedb.org/person/102883</profile>
+    <tmdbid>102883</tmdbid>
+  </actor>
+  <actor>
+    <name>汤盈盈</name>
+    <role>Yuen Ling-tsz</role>
+    <profile>https://www.themoviedb.org/person/125775</profile>
+    <tmdbid>125775</tmdbid>
+  </actor>
+  <actor>
+    <name>杨秀惠</name>
+    <role>Fan Xiao-li</role>
+    <profile>https://www.themoviedb.org/person/1240093</profile>
+    <tmdbid>1240093</tmdbid>
+  </actor>
+  <actor>
+    <name>骆应钧</name>
+    <role>Yiu Tin-po</role>
+    <profile>https://www.themoviedb.org/person/127436</profile>
+    <tmdbid>127436</tmdbid>
+  </actor>
+  <actor>
+    <name>胡定欣</name>
+    <role>Tang Ping-ping</role>
+    <profile>https://www.themoviedb.org/person/1234856</profile>
+    <tmdbid>1234856</tmdbid>
+  </actor>
+  <actor>
+    <name>陈展鹏</name>
+    <role>Chiu Man-hoi</role>
+    <profile>https://www.themoviedb.org/person/1238985</profile>
+    <tmdbid>1238985</tmdbid>
+  </actor>
+  <actor>
+    <name>王青</name>
+    <role>Tan Tsui</role>
+    <profile>https://www.themoviedb.org/person/990468</profile>
+    <tmdbid>990468</tmdbid>
+  </actor>
+  <actor>
+    <name>郑子诚</name>
+    <role>Leung Wing-tai</role>
+    <profile>https://www.themoviedb.org/person/2040668</profile>
+    <tmdbid>2040668</tmdbid>
+  </actor>
+  <actor>
+    <name>郭锋</name>
+    <role>Wong Tin-wing</role>
+    <profile>https://www.themoviedb.org/person/1416065</profile>
+    <tmdbid>1416065</tmdbid>
+  </actor>
+  <actor>
+    <name>徐荣</name>
+    <role>Ching Sau-yip</role>
+    <profile>https://www.themoviedb.org/person/1258590</profile>
+    <tmdbid>1258590</tmdbid>
+  </actor>
+  <dateadded>2025-08-04 16:09:51</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1876</width>
+        <height>1080</height>
+        <durationinseconds>2598</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>读心神探 - S01e17 S01e18 - 再被殴打　却不报警 - 医生证实　文海脚伤__1876x1080__qsv_av1_10bit__28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

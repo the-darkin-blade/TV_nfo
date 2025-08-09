@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>景徐两家　恩怨之始</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>谈情说案</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">757848</uniqueid>
+  <uniqueid default="false" type="tvrage">1065011919</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>民国初年的香港，一名大头绿衣徐警长在西餐厅与在洋行工作的景氏起争执，贼人趁机抢走景氏的名画，使他的上司Robinson大为紧张。凭徐警长的威猛身手和景氏的力学原理，成功捉拿贼人，Robinson遂送他们各人一幅油画纪念，两人却互感不屑……宽频公司职员到徐家推销优惠计画，主人徐汉飞不满职员的推销手法取巧，令太太梁秀娥差点被骗，遂大吹大擂自己乃警察世家的威水事迹。
+
+赏识小丽　调职重案
+
+谁知长子国安和国良先后回家，职员凭两人的身形断定他们并非警察，原来汉飞要介绍是他的么女儿小丽。富正义感的小丽体格强健，遵守徐家家训立志做一个好警察，与家人的感情非常融洽，令汉飞最感骄傲。
+
+一次，小丽的侄儿徐家希参与校外比赛，任职警民关系组的小丽刚好被派往看守现场，她眼看其中一名参赛者遗失参赛证，竟公然要求众评判站起身让她寻找参赛证，评判之一的女警司古玉娇看在眼内，认为小丽和她年轻时那股冲劲热诚十分相似，翌日更申请将小丽调职成为她下属，加入重案组。
+
+众人惊叹　小丽身手
+
+小丽到重案组报到后，向上司卢天恒自荐参与执行任务，并顺利拘捕犯人，其身手和体力在天恒和同组队员眼中留下好印象。
+
+天恒带小丽到大学往找协助警队提供物理数据的曹教授时，曹教授透露他将会到北京进行研究，大学将聘请另一位副教授接替他的工作。
+
+两名证人　供词极端
+
+天恒接到一宗凶杀案，和小丽等人调查时发现早前曹教授的文件出现问题，必须找接手的教授更正，遂着小丽再次来到大学，其后天恒更发现这名新来的副教授正是离港多年的好友景博。
+
+天恒和景博见面，两人来到小时候常光顾的茶餐厅，大谈昔日往事。当年天恒和景博潜入实验室，谁知被人发现，天恒独自承担责任，而被赶出校，两人却因此结成知心好友。
+
+小丽往调查凶杀案时，有目击证人指出疑凶家中曾传出枪声，天恒遂带队往搜查他的住所，在众人茫无头绪之际，小丽发现重要线索……但同时竟有一名议员却向天恒等力证疑凶的住所并无发出枪声……</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2708</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E01.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

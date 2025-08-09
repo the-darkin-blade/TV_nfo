@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 14 集</title>
+  <originaltitle>第 14 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662256</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>晴川想办法进了地宫，无意中发现地宫里面有很多气孔，她联想到自己学习过的化学知识，决定用自制的硫酸腐蚀气孔逃出太庙。制作硫酸需要的原料绿矾是古代治疗伤寒的配方，晴川为了积攒更多的绿矾，不惜用冷水浇身，患上了伤寒。不料管事嬷嬷却不肯为她请大夫看病，晴川铤而走险以死相逼，嬷嬷才答应她每天请大夫给她开药。四阿哥经常私服去探察民情，令皇上很赏识他。太子自从晴川离开，一直很用功读书，皇上告诉四阿哥将来一定用心辅佐太子打理朝政，令四阿哥觉得太子对自己前途的威胁，他又想找机会陷害太子。尚衣间的太监拿着太子新做的衣服不小心摔倒，四阿哥趁机偷换了一件龙袍给太子。太子粗心大意没有仔细看就穿在身上。四阿哥串通太监总管李德全在皇上面前提起太子穿了龙袍到处张扬，皇上大怒，听说太子去了德妃娘娘的慈宁宫，怒气冲冲赶去问罪。太子穿着龙袍到慈宁宫给德妃娘娘贺寿，德妃娘娘看出他又被人陷害了，想尽办法救了太子，太子到御花园游赏遇见四阿哥，心无城府的太子把刚才的凶险经过告诉了四阿哥，这令四阿哥非常不满。四阿哥跑去慈宁宫问德妃娘娘到底自己和太子谁才是她的亲生儿子，德妃娘娘告诉四阿哥今天是自己的生辰，太子是来为自己拜寿的，反问四阿哥谁才是自己的亲生儿子？金枝在家里大闹，让每个下人都绣了鸳鸯比对荷包上的，在她看来，每个丫鬟都有嫌疑和四爷有染，包括管家婆婆在内，四阿哥在宫里的计策没有得逞，回到家来见金枝又在闹，气得大骂金枝。经过了很多天，晴川的绿矾终于攒够了，她设计调换了同室的宫女，开始秘密进行硫酸的制造。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E14_-_第_14_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

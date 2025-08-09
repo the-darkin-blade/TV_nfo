@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>身世秘密终揭晓</title>
+  <originaltitle>身世秘密终揭晓</originaltitle>
+  <showtitle>步步惊情</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5481434</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>康震天拿着一张照片来找张泽正，原来张晓和蓝兰是震天故友肖桦和秦雨贞的女儿。殷成贵派人制造了蓝兰身亡的证据，殷正确认了尸体非常难过。张晓将喝醉酒的殷正送回了家，她看到自己画的木兰图挂在殷正家的墙上。殷正来找张晓拿回木兰簪子，司瀚看到殷正在张晓房中有些吃惊。司瀚收到了来自伦敦寄来的礼物，乔助理对司瀚和心怡的通话进行了监控并将此事告诉了殷正。司瀚带着张晓去香港过了一个甜蜜的圣诞节，另一方面，张晓的闺蜜心怡归国。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2805</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊情-S01E16.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 26 集</title>
+  <originaltitle>第 26 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662268</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>九阿哥带了神机营的神箭手来帮忙。晴川告诉八阿哥无论何时，你都是我最重要的人。说罢用头顶落了小春手里的火折子，火药却没有爆炸，原来是小春不忍伤害晴川，用的是假火药吓唬八阿哥的。八阿哥被小春打得浑身都是伤，良妃心疼儿子，决定不再强行拆散他们两个。但是要继续训练晴川直到她能够做一名合格的福晋。晴川进去看八阿哥，八阿哥听说良妃不再阻拦，高兴的从床上挣扎着爬了起来，找出替晴川定做的鞋子，给晴川穿上。众兵将要抓捕小春，被前来搭救的素言救走了小春。素言并告诉小春君子报仇十年不晚，只要等待时机，不愁大仇不报。小春恨恨的记住了素言的话。素言开始教小春习武，小春认真的跟着素言勤加练习。八阿哥深得皇上赏识，宫里的太监总管李德全见风使舵，赶紧跑去巴结八阿哥，四阿哥看在眼里，心中暗暗较劲。晴川调去承乾宫为良妃娘娘做事，经常受罚。八阿哥答应良妃不再经常去打扰晴川学习宫中礼仪，思念日深，命人去画下晴川每日活动情景。素言得知雍王府招纳护院，让小春去应招。小春到了雍王府，四阿哥却因为小春文武皆不理想而没有留用小春。小春失望跳进河里发泄情绪。谁知正遇见回家省亲的年羹尧被人追杀，死在河里。小春见年羹尧衣服光鲜，而自己的衣服却被四阿哥抓破，于是剥下年羹尧的衣服穿在身上。小春和素言走在街上，被年家的老管家认出佩戴的玉佩，小春被当做少爷迎进了年家。原来年羹尧自小离家进了太庙，从太庙出去后又去新疆投军，直至今日方才回家，年老爷辞世，小春就替年羹尧接管了年家，并继承了爵位。素言买下一处房产，开了一家私人会馆，专门宴请二品以上官员来此饮酒作乐。一时间朝里大臣都喜欢到这里议论朝政。四阿哥带十三阿哥到那里打探，由于十三阿哥失言被赶了出来。素言派人追赶四阿哥，并以年羹尧的名义送上记录的各位大臣的谈话记录。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2697</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E26_-_第_26_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

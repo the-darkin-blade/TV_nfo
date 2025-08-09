@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 19 集</title>
+  <originaltitle>第 19 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662261</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>金枝带着家丁丫鬟到梦仙居大闹，从屏风后面揪出晴川。四阿哥方才知道每日陪他聊天解闷开导他的正是日夜思念的晴川。金枝大闹着要砸了梦仙居，四阿哥忍无可忍动手打了金枝一巴掌，金枝跑到康熙面前告御状。四阿哥告诉晴川，无论如何也要保护她的周全，晴川表示相信四阿哥。皇上大怒，下令四阿哥和晴川压进宗人府，四阿哥向皇上说明晴川是被掳离开太庙流落青楼被自己救出，派钦差去太庙核查。八阿哥蒙面到太庙威胁管事嬷嬷配合四阿哥口径证明晴川被掳，不料却被管事嬷嬷用机关关在铁笼里。八阿哥摘下面具，管事嬷嬷认出他就是八阿哥，八阿哥言辞恫吓管事嬷嬷，令她放出了自己并向钦差证明晴川确实被掳。金枝买通狱卒到宗人府看望四阿哥，并且指出一条路，只有晴川招认一切，才能保住四阿哥周全，晴川表示愿意招认一切，四阿哥不允。金枝拿出一粒毒药交给晴川，却被四阿哥抢了过去，并且告诉晴川，只要她敢招认，就立刻吞下药丸。金枝见两人情深意重，负气离去。德妃娘娘唯恐四阿哥和八阿哥失宠太子独大，她决定谋划计策陷太子于不义，同时打击地阿哥和八阿哥的气焰。德妃娘娘来阿哥所看望太子，并告诉他晴川和四阿哥被押宗人府事件，她给太子出主意让他召集军中旧部，围攻宗人府，救出晴川远走高飞，太子受她蛊惑，听从她的意见。晴川和四阿哥被释放，八阿哥来宗人府门口接晴川，两人为争晴川相持不下。晴川两厢为难之际，李德全宣晴川见驾。原来是晴川为皇上制作的轮椅旧了需要修缮，皇上身边离不开晴川的照料，依旧留晴川在身边，晴川欣然接受。德妃娘娘见晴川出狱，不知如何是好，她决定依然通知太子旧部进宫。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2700</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E19_-_第_19_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 27 集</title>
+  <originaltitle>第 27 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662270</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宫里惊现吃头发的妖怪。每当夜深人静，总有数名宫女被打晕，醒来的时候头发被剪，面目全非。德妃娘娘为安定贼心，对外称是宫女自己卖掉头发，暗中派人继续追查。晚上，晴川跟踪良妃娘娘又到了火场，被剪头发的贼打晕，翡翠带人赶来，偷头发的贼跑向火场方向，翡翠带人追到，发现良妃娘娘穿着怪异，行为举止甚是可疑，回来禀告了德妃娘娘。德妃娘娘怀疑良妃是妖孽，但是要设计让皇上亲眼目睹才能令他相信。德妃约皇上道火场附近赏月，到了火场才向皇上禀告良妃的怪异举止。皇上走进火场，看见良妃布置的经纬线，以为她就是宫中吃人头发的妖孽，下令将良妃装进笼子里。晴川醒来，太监们告诉她良妃被当做吃头发的妖怪抓起来了，晴川连忙跑去看望良妃。八阿哥也来询问良妃，为什么不肯说出自己究竟是在做什么，晴川赶到，告诉八阿哥和良妃，昨天晚上被妖怪抓住的时候，自己抓破了妖怪的手，只要找到谁的手有抓痕，就能找出谁是真正的凶手了。晴川和八阿哥集中了宫中所有太监宫女检查他们的手，小顺子给皇上端茶，由于茶杯太热，皇上的茶水打翻，热水烫伤了小顺子的手。八阿哥见小顺子的手有伤，确认小顺子是贼，这时太监李德全来报，在良妃的承乾宫里发现了大量头发，皇上判定良妃就是妖孽。晴川以自己的性命担保，恳请皇上给她一天的时候，彻查出谁才是真凶。晴川设计试图引诱真凶露出马脚，李德全告诉小顺子以不变应万变，静观其变。禧嫔娘娘忍不住想去消灭证据，小顺子死死拉住她。一天之后，大家要来揭开谜底，李德全派人在地上倒了油，晴川脚下滑倒，打翻了瓶子，证据没有了，晴川被拉出去问斩。挣扎间撞到了一旁的禧嫔娘娘，禧嫔娘娘倒在地上，掉落了头上的假发，顿时真相大白，禧嫔娘娘被打入冷宫。晴川告诉良妃自己和她是来自同一个地方。良妃让晴川留下单独告诉晴川自己为什么宁愿死也不肯说出自己在做什么。她告诉晴川历史是不可更改的，因为她亲眼看见改变历史的结果。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2700</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E27_-_第_27_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

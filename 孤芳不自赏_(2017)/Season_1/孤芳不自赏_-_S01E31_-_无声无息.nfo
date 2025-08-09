@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:03:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>无声无息</title>
+  <originaltitle>无声无息</originaltitle>
+  <showtitle>孤芳不自赏</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1256366</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>楚北捷带军一路追到横断山脉，路遇伏兵，晋军大胜，却发现这些士兵并非何侠的军队，而是燕王慕容永派来伏击何侠截获白娉婷的。 楚北捷得知何侠此行有整整八千人的军队，怎会如此无声无息地潜入晋国腹地而无人阻拦，看来是张贵妃故意放行。 楚北捷判断，何侠已经改走他路，他们一时是追不上了，于是下令前往边境，集结晋国大军，准备攻打秦国。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Croton Media</studio>
+  <dateadded>2025-08-06 17:31:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2766</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>孤芳不自赏 - S01e31 - 无声无息__1920x1080__qsv_av1_10bit__28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

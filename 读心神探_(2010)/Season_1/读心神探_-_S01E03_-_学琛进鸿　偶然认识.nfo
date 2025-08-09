@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:01:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>学琛进鸿　偶然认识</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>读心神探</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2053688</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>学琛因约美诗吃饭，特意到她创办的记忆法训练学校找她；坐进了课室的学琛更因此成为美诗的教学例子……两人在美诗的办公室闲谈时，看到美诗的成功，学琛忍不住说自己应是美诗的第一个学生；这时进鸿进来，美诗介绍他是记忆学校的「教练」(导师)，更说他将会代表学校前往德国参加世界记忆大赛。当学琛与美诗出发往餐厅时，学琛却看到进鸿正激动地谈电话……
+
+童年美诗　曾助学琛
+
+失去联络二十多年的美诗与学琛在餐厅互道近况，美诗更对学琛精于读心术的事大感兴趣，更郑重表示要拜他为师。学琛指这顿饭是他的「谢师宴」，更郑重表示指如当年没有得到美诗的协助，可能中三后便要停学到兆安的酒楼工作；原来学琛童年时记忆力不济致令成绩差劣，刚被燕萍、兆安等人取笑过后，心情低落的学琛在公园遇上了美诗。美诗向学琛示好，更指曾看见他被亲戚指责，学琛因此向她诉说自己的不快……美诗明白学琛的苦况后，特意向他展示自己超强的记忆力，更向学琛倾囊相授有关中世纪流传下来的「记忆宫殿」记忆法……早上学琛被召到有人堕楼的现场视察，发现自天台堕下的死者竟是进鸿，而当学琛调查进鸿所遗下的物件后，认为不是一般的自杀案；学琛到天台调查，发现更多显示进鸿并不是自杀的证据……美诗到警署接受调查，展婷更问她早前是否与进鸿因合约问题而闹得不快一事……美诗向学琛说出，原来有另一位教练Wilson拉拢进鸿跳槽，结果美诗用重金挽留进鸿并替他向对方付出三百万违约费。学琛与礼贤约Wilson见面，脾气暴躁的Wilson指进鸿连累他要赔偿三百万违约金，所以直言想他死去……回到重案组办公室，礼贤问学琛为何不带Wilson回警署接受调查，学琛反指因为指礼贤在调查时不断使出「花式转笔」，影响他观察证人的「微表情」反应，礼贤不信，学琛更即场进行示范……
+
+贝儿拜师　学习转笔　
+
+展婷明白礼贤不接受学琛的推理调查法，只得努力安抚，更请他好好配合学琛；这时贝儿看见不停地表演「花式转笔」的礼贤，忍不住大赞后更请礼贤指导自己，礼贤提出的条件竟是要贝儿守秘，不能让学琛得知此事……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered>2010-10-06</premiered>
+  <aired>2010-10-06</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <actor>
+    <name>林保怡</name>
+    <role>Yiu Hok Sam</role>
+    <profile>https://www.themoviedb.org/person/552084</profile>
+    <tmdbid>552084</tmdbid>
+  </actor>
+  <actor>
+    <name>黄宗泽</name>
+    <role>Ho Lai Yin (Trevor)</role>
+    <profile>https://www.themoviedb.org/person/144586</profile>
+    <tmdbid>144586</tmdbid>
+  </actor>
+  <actor>
+    <name>田蕊妮</name>
+    <role>Yip Chin Ting (Phoenix)</role>
+    <profile>https://www.themoviedb.org/person/123650</profile>
+    <tmdbid>123650</tmdbid>
+  </actor>
+  <actor>
+    <name>陈茵媺</name>
+    <role>Ching Bui Yee (Perlie)</role>
+    <profile>https://www.themoviedb.org/person/1566076</profile>
+    <tmdbid>1566076</tmdbid>
+  </actor>
+  <actor>
+    <name>黎诺懿</name>
+    <role>Mak Wing-hei</role>
+    <profile>https://www.themoviedb.org/person/112986</profile>
+    <tmdbid>112986</tmdbid>
+  </actor>
+  <actor>
+    <name>谢雪心</name>
+    <role>Chung Sau-han</role>
+    <profile>https://www.themoviedb.org/person/1274608</profile>
+    <tmdbid>1274608</tmdbid>
+  </actor>
+  <actor>
+    <name>于洋</name>
+    <role>Ching Siu-hong</role>
+    <profile>https://www.themoviedb.org/person/119438</profile>
+    <tmdbid>119438</tmdbid>
+  </actor>
+  <actor>
+    <name>曹永廉</name>
+    <role>Gordon</role>
+    <profile>https://www.themoviedb.org/person/1223053</profile>
+    <tmdbid>1223053</tmdbid>
+  </actor>
+  <actor>
+    <name>姚莹莹</name>
+    <role>Ng Mei-yue</role>
+    <profile>https://www.themoviedb.org/person/1223074</profile>
+    <tmdbid>1223074</tmdbid>
+  </actor>
+  <actor>
+    <name>高海宁</name>
+    <role>Annie Leung</role>
+    <profile>https://www.themoviedb.org/person/1173598</profile>
+    <tmdbid>1173598</tmdbid>
+  </actor>
+  <actor>
+    <name>谭小环</name>
+    <role>Daisy Liu</role>
+    <profile>https://www.themoviedb.org/person/1222460</profile>
+    <tmdbid>1222460</tmdbid>
+  </actor>
+  <actor>
+    <name>黄祥兴</name>
+    <role>Donald Lai</role>
+    <profile>https://www.themoviedb.org/person/2071064</profile>
+    <tmdbid>2071064</tmdbid>
+  </actor>
+  <actor>
+    <name>陈美诗</name>
+    <role>Emily Chow</role>
+    <profile>https://www.themoviedb.org/person/134994</profile>
+    <tmdbid>134994</tmdbid>
+  </actor>
+  <actor>
+    <name>胡诺言</name>
+    <role>Edmond Tang</role>
+    <profile>https://www.themoviedb.org/person/1222315</profile>
+    <tmdbid>1222315</tmdbid>
+  </actor>
+  <actor>
+    <name>白彪</name>
+    <role>Hung Kwan</role>
+    <profile>https://www.themoviedb.org/person/237256</profile>
+    <tmdbid>237256</tmdbid>
+  </actor>
+  <actor>
+    <name>胡枫</name>
+    <role>Wong Chun-yu</role>
+    <profile>https://www.themoviedb.org/person/102883</profile>
+    <tmdbid>102883</tmdbid>
+  </actor>
+  <actor>
+    <name>汤盈盈</name>
+    <role>Yuen Ling-tsz</role>
+    <profile>https://www.themoviedb.org/person/125775</profile>
+    <tmdbid>125775</tmdbid>
+  </actor>
+  <actor>
+    <name>杨秀惠</name>
+    <role>Fan Xiao-li</role>
+    <profile>https://www.themoviedb.org/person/1240093</profile>
+    <tmdbid>1240093</tmdbid>
+  </actor>
+  <actor>
+    <name>骆应钧</name>
+    <role>Yiu Tin-po</role>
+    <profile>https://www.themoviedb.org/person/127436</profile>
+    <tmdbid>127436</tmdbid>
+  </actor>
+  <actor>
+    <name>胡定欣</name>
+    <role>Tang Ping-ping</role>
+    <profile>https://www.themoviedb.org/person/1234856</profile>
+    <tmdbid>1234856</tmdbid>
+  </actor>
+  <actor>
+    <name>陈展鹏</name>
+    <role>Chiu Man-hoi</role>
+    <profile>https://www.themoviedb.org/person/1238985</profile>
+    <tmdbid>1238985</tmdbid>
+  </actor>
+  <actor>
+    <name>王青</name>
+    <role>Tan Tsui</role>
+    <profile>https://www.themoviedb.org/person/990468</profile>
+    <tmdbid>990468</tmdbid>
+  </actor>
+  <actor>
+    <name>郑子诚</name>
+    <role>Leung Wing-tai</role>
+    <profile>https://www.themoviedb.org/person/2040668</profile>
+    <tmdbid>2040668</tmdbid>
+  </actor>
+  <actor>
+    <name>郭锋</name>
+    <role>Wong Tin-wing</role>
+    <profile>https://www.themoviedb.org/person/1416065</profile>
+    <tmdbid>1416065</tmdbid>
+  </actor>
+  <actor>
+    <name>徐荣</name>
+    <role>Ching Sau-yip</role>
+    <profile>https://www.themoviedb.org/person/1258590</profile>
+    <tmdbid>1258590</tmdbid>
+  </actor>
+  <dateadded>2025-08-04 16:09:51</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1876</width>
+        <height>1080</height>
+        <durationinseconds>2691</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <art>
+    <poster>/config/metadata/library/b8/b80ce633ac19e18f5d50f08aa0a30786/poster.jpg</poster>
+  </art>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>读心神探 - S01e03 - 学琛进鸿　偶然认识__1876x1080__qsv_av1_10bit__28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

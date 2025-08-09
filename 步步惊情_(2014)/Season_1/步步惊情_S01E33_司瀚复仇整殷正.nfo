@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:25:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>司瀚复仇整殷正</title>
+  <originaltitle>司瀚复仇整殷正</originaltitle>
+  <showtitle>步步惊情</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5481452</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>殷正由于犯了经济罪被警方逮捕，面对殷正的处境司瀚冷言相待。马伊诺怀了司瀚的孩子，但她还没来得及告诉司瀚。司瀚要求张晓和自己在一起，并强迫其合影，此景被马伊诺看到。司瀚将他与张晓的照片给了殷正，殷正看到司瀚和张晓在一起泪流满面。刘叔和卓越都先后离开了集团，他们不愿再跟随这样的司瀚。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2678</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊情-S01E33.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="33" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

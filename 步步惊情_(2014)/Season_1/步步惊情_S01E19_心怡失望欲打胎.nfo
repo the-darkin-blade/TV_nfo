@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>心怡失望欲打胎</title>
+  <originaltitle>心怡失望欲打胎</originaltitle>
+  <showtitle>步步惊情</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5481437</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>张晓无意中得知心怡怀了司瀚的孩子，并陪着心怡做了产检。心怡不愿将怀孕一事告诉司瀚，她欲通过自己的努力让司瀚回心转意。司瀚将他和张晓的恋情以发短信的形式告诉了心怡，与此同时，司瀚得知心怡怀了自己的孩子，而令张晓欣慰的是心怡的手机却正好落在自己家。司瀚劝心怡做人流，心怡心痛不已。张晓和司瀚陪心怡来医院欲打胎，心怡妈妈闻讯也赶到了医院，心怡因为血压问题晕倒。司瀚向心怡求婚，心怡按捺不住心中的喜悦将此事告诉了张晓。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2695</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊情-S01E19.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 23 集</title>
+  <originaltitle>第 23 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662265</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>八阿哥出发的时候，晴川跑到城门楼上去送行，八阿哥远远望见晴川赶来送行，激动的就想不去巡河了，被九阿哥拽住，劝他尽快回来与晴川相聚，不然就是抗旨了，八阿哥无奈，只能强忍心中思念之情，离京南下。十三阿哥为了挑拨八阿哥和禧嫔娘娘的关系，哄骗晴川去为良妃娘娘送餐，禧嫔娘娘眼见晴川从承乾宫出来，不得不信宫女们关于良妃娘娘要复出的传言，而这些都是十三阿哥教他们说的。禧嫔娘娘从此心里对晴川和八阿哥有了芥蒂。禧嫔娘娘向皇上讨要了晴川来储秀宫伺候，皇上因为禧嫔娘娘怀孕，一切都答允了她。八阿哥五天之内巡河完毕，快马加鞭跑了三天三夜返回京城，只为早些见到晴川，看着八阿哥又累又困的靠在自己的肩膀上，晴川感动极了。禧嫔娘娘每天派给晴川很多粗活重活，故意刁难晴川，并且在八阿哥面前假意陷害晴川，用晴川的安危威胁八阿哥。禧嫔娘娘提出条件，让八阿哥过继给她做儿子，从此以八阿哥作为依靠。八阿哥因为良妃在世，坚决不答应禧嫔娘娘的条件，拂袖离去。九阿哥为八阿哥着想，决定替八阿哥解决这件事。八阿哥和晴川商量着逃离这是非之地，他们决定当夜一起私奔，从此过上一对平凡负气的日子。晴川和八阿哥说定以后回去收拾行李，却在路上被十三阿哥骗到已故皇后的坤宁宫里锁了起来。午夜九阿哥偷偷潜入承乾宫欲行刺良妃娘娘，被良妃娘娘逮了个正着，良妃娘娘认出老久，九阿哥无奈供认出禧嫔娘娘要挟八阿哥的阴谋，良妃娘娘为保护八阿哥决定复出。十三阿哥又骗四阿哥到坤宁宫见面，结果四阿哥见到晴川在坤宁宫里。晴川误会四阿哥骗自己来见面，更加反感他处处心机。晴川抓住四阿哥的手臂就咬，四阿哥强忍疼痛却不躲不避。四阿哥拿出匕首要晴川杀了自己，晴川却不忍下手。四阿哥强吻了晴川，晴川反手打了他一巴掌。八阿哥在宫门久候晴川不至，等来的却是良妃娘娘，原来十阿哥知道八阿哥要和晴川私奔，马上跑去禀告九阿哥和良妃娘娘。良妃娘娘亲自前来规劝，八阿哥执意要带晴川离开，良妃娘娘跪在了八阿哥身前，八阿哥没有等来晴川，失望的告诉额娘自己哪里也不去了。四阿哥和晴川被前来巡夜的太监发现，带到皇上面前治罪，良妃娘娘看见晴川又和四阿哥走在一起，发誓决不让这个女人靠近八阿哥身边。德妃娘娘怕四阿哥遭贬，朝中没有人可以抗衡八阿哥，所以替四阿哥开罪，借口是自己让四阿哥进去取花样的。这时宫女来报，良妃娘娘站在河边要跳河，康熙不假思索的跑了出去。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E23_-_第_23_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

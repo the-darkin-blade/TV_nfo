@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>议员提证　帮助疑犯</title>
+  <originaltitle>Episode 2</originaltitle>
+  <showtitle>谈情说案</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">757849</uniqueid>
+  <uniqueid default="false" type="tvrage">1065011920</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>议员马忠强主动向警方说出在案发当日，身在家中花园的他没有听到枪声之事后，重案组经过调查发现疑凶华超曾在忠强选举时十分卖力，令大家怀疑他有可能是帮助华超脱罪以报恩。
+
+天恒约景博见面，更向他打听与景博父亲景然相熟的忠强的品格……小丽跟随汉飞到球场跑步时，汉飞突然问小丽的感情事，为何现今仍没有男友；小丽慌忙解释，而这时一位高大英俊的前邻居出现向小丽打招呼……
+
+为儿觅伴　精挑细选
+
+慧珠的妹妹欲介绍女孩子给景博认识，慧珠与景然从对话中发觉该女孩教养与品格都甚为优良，本对她印象甚好，但当两人得知她的母亲曾当过演员时，却立刻认为她配不上自己的儿子；而刚到达的景博却突然被母亲要求与景然离开……这边厢风流成性的天恒正享受与女伴一夕风流，但在翌日早上，天恒起床后却发现本说要赶早班飞机工作的空姐仍留在家，不禁令他心中忐忑不安。
+
+枪击案有了新证人出现，在村中拾荒的三婆向警方证实，当天曾看到有人在屋中打斗及听到枪声。为了要找出议员不能听到枪声之谜，天恒与小丽到研究室找景博，小丽看到正授课的景博被女学生所包围着，不禁大表惊讶；这时刚好有不忿景博受欢迎的男学生，竟想作弄景博……天恒等人说明来意，景博听后亦甚表兴趣，更答应与他们一起到现场考察。景博细心调查后，要求重案组在现场进行开枪实验……
+
+案件终于顺利解决，身为天恒上司的玉娇大喜，更邀请众下属与景博到她的家烧烤；当迟到的景博自我介绍时，小丽才得知他是单身贵族，仍没有女友。
+
+玉娇的儿子要景博与他打羽毛球，在旁观战的小丽发现身材高大健硕的他，却没有运动细胞；景博与小丽替大家出外购物，却遇上车着泄气，景博欲出钱请路过的的士司机协助更换车着，但小丽发现对方开天杀价后，主动提出由她独自更换……
+
+情杀案件　证据消失
+
+晚上小丽在家中观看烧烤的照片时，家希进入她的房间问功课，家希看到电脑中的照片，指英俊的景博不像是警察。有室内设计师被杀，重案组众人奉召到场调查，众人更在后巷发现怀疑是凶器的水晶球；经过调查后重案组发现，富豪周兴的儿子孝贤与死者是好友，而亦有可能因女友蝉过别枝而有杀人嫌疑，因此特意请他回警署协助调查。周兴找来律师协助儿子，令重案组难以对孝贤录取有用口供……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2689</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E02.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

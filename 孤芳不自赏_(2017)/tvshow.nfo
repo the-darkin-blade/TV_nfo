@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:02:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>孤芳不自赏</title>
+  <originaltitle>孤芳不自赏</originaltitle>
+  <showtitle>孤芳不自赏</showtitle>
+  <sorttitle/>
+  <year>2017</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>6.1</value>
+      <votes>25</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>晋燕交战已久，燕境内民不聊生，财政衰弱。同时，主战的北燕敬安王府由于势力日渐庞大，遭到燕王猜疑，在晋燕交战之际，燕王下令围陷敬安王府，一夜之间王府覆灭。婢女白娉婷（杨颖饰）与小王爷何侠（孙艺洲饰）在逃亡时离散。白娉婷隐姓埋名，在逃亡途中与晋国将军楚北捷（钟汉良饰）相遇相恋，因为白娉婷与楚北捷不同的阵营处境注定了两人此生情路坎坷。白娉婷与楚北捷的爱情虽浓但在纷繁乱世中，他们却不断卷入各种风波，障碍重重。此时，小敬安王何侠对白娉婷的执念加深了他楚北捷的恨意，面对对自己恩重如山的何侠，两军交战之际，白娉婷左右为难最终选择归隐田园。误认白娉婷已死的楚北捷失去战意也选择隐居避世。而在楚北捷退隐后，何侠因一心为敬安王府洗刷冤屈走向了复仇之路，成为暴君。不但利用耀天公主（甘婷婷饰）对他的感情攻灭燕、凉两国，甚至不惜杀死自己妻子耀天公主。在何侠的暴政下，军队所到之处都是屠杀，白娉婷只身一人寻找楚北捷，令其复出。最终，白娉婷与楚北捷两人联手击败何侠，成功阻止了一场生灵涂炭的战争，守护了天下安宁。</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"69045","imdb":"tt6424812","tvdb":"321031"}</episodeguide>
+  <id>321031</id>
+  <imdbid>tt6424812</imdbid>
+  <tmdbid>69045</tmdbid>
+  <uniqueid default="false" type="tmdb">69045</uniqueid>
+  <uniqueid default="false" type="imdb">tt6424812</uniqueid>
+  <uniqueid default="true" type="tvdb">321031</uniqueid>
+  <premiered>2017-01-02</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <studio>Hunan Television</studio>
+  <studio>Croton Media</studio>
+  <country>中国</country>
+  <tag>love triangle</tag>
+  <tag>china</tag>
+  <tag>martial arts</tag>
+  <tag>based on novel or book</tag>
+  <tag>romance</tag>
+  <tag>war</tag>
+  <tag>enemies to lovers</tag>
+  <tag>melodrama</tag>
+  <tag>fantasy</tag>
+  <actor>
+    <name>杨颖</name>
+    <role>Bai Pingting</role>
+    <profile>https://www.themoviedb.org/person/150899</profile>
+    <tmdbid>150899</tmdbid>
+  </actor>
+  <actor>
+    <name>钟汉良</name>
+    <role>Chu Beijie</role>
+    <profile>https://www.themoviedb.org/person/1183233</profile>
+    <tmdbid>1183233</tmdbid>
+  </actor>
+  <actor>
+    <name>甘婷婷</name>
+    <role>Princess Yao Tian</role>
+    <profile>https://www.themoviedb.org/person/1183234</profile>
+    <tmdbid>1183234</tmdbid>
+  </actor>
+  <actor>
+    <name>孙艺洲</name>
+    <role>He Xia</role>
+    <profile>https://www.themoviedb.org/person/1258617</profile>
+    <tmdbid>1258617</tmdbid>
+  </actor>
+  <actor>
+    <name>麦迪娜·买买提</name>
+    <role>Yang Feng</role>
+    <profile>https://www.themoviedb.org/person/1627621</profile>
+    <tmdbid>1627621</tmdbid>
+  </actor>
+  <actor>
+    <name>穆乐恩</name>
+    <role>Lu Yi</role>
+    <profile>https://www.themoviedb.org/person/2359899</profile>
+    <tmdbid>2359899</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-06 17:31:27</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

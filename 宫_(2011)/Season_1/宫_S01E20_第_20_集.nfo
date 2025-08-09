@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 20 集</title>
+  <originaltitle>第 20 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662262</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>八阿哥带兵反击太子军，德妃娘娘出来寻找太子。太子为救德妃娘娘来到娘娘身旁，德妃告诉他不要顽抗，冲出宫门从此远走他乡隐姓埋名了此残生，太子听从她的建议，冲向宫门，却被八阿哥的禁卫军生擒。德妃娘娘为陷害太子，用断箭自残，回报康熙对太子劝降无效，太子射杀自己，康熙大怒，终是不忍杀害太子，判令太子终身监禁宗人府。德妃进而在皇上面前挑拨是非，她提醒皇上，太子性格懦弱，一定是有人挑唆造反，太子刚刚起兵造反，八阿哥就马上封锁紫禁城，速度会不会太快了点，皇上顿时对八阿哥起了疑心。德妃娘娘进一步请求让十四阿哥回宫探病，皇上想起远在边疆的十四阿哥，顿觉大好江山有可依托。禧嫔娘娘去向皇上邀功，却被皇上大骂，还打了一巴掌。康熙怪罪他们看管监视太子，逼得太子造反。八阿哥平反无功反而获罪，心中觉得不平。翡翠请四阿哥去看望受伤的德妃娘娘，四阿哥无奈去见额娘，德妃娘娘向四阿哥讲诉自己想让十四阿哥做太子的原因，是为保护四阿哥，四阿哥不领情。德妃娘娘答应四阿哥可以提一个条件，四阿哥只要晴川，德妃娘娘答应日后必把晴川交给四阿哥。四阿哥去见晴川，告诉她德妃愿意成全他们。晴川想到他是日后的雍正皇帝，如果和他在一起，未免要和别的女人分享一个男人。四阿哥误会了晴川的意思，告诉晴川会给她全部完整的爱，他决定回家休了金枝。两人忘情的紧紧拥抱在一起，这一幕被素言看见，素言趁晴川离开，找到四阿哥。四阿哥告诉素言自己不能给她爱情，素言表示可以和晴川一起侍奉四阿哥自己并不介意晴川，四阿哥却说自己很介意，他想给晴川完整的爱情。素言为自己的爱情无疾而终难过，伤心的质问四阿哥为什么欺骗自己的感情这么多年，四阿哥只能无力的说声对不起。八阿哥来见晴川，晴川不想八阿哥因为自己和四阿哥冲突，耐心劝导八阿哥，素言来找晴川，晴川借故离开。八阿哥见素言身体不适，怕晴川一人应付不来，跟在后面想伺机帮助晴川。素言带晴川来到一处城楼上面，向她讲诉了和四阿哥认识的经过。原来她出身卑微，四阿哥从戏班子将她救出，从此她便为四阿哥卖命，四阿哥用到自己时候容情似水，不用时冷若冰霜，进宫后还曾下令刺杀晴川，自己因为姐妹情谊才没有下手。晴川听后，整个人惊呆在那里，为四阿哥的绝情无意伤心难过。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2697</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E20_-_第_20_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

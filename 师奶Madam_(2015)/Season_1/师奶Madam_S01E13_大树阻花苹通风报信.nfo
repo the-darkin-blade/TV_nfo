@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>大树阻花苹通风报信</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>师奶Madam</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3191068</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>大树为掩饰真正的行动，只好砌词解释目前正调查水货集团；罗帛因此事得知花苹身分，于是便特意告知大树，早前花苹未接小丸子放学原因，更着大树追求她。罗帛一心欲助儿子破案，竟假公济私带同家伦到处查探，一有风吹草动便胡乱行事，结果乌龙百出，被罗帛强逼一起的家伦看见只觉啼笑皆非。温晴在快餐店内听到邻座四美因股票获利，便心生一计假装讲电话，声称没有钱买「李时珍」能起死回生的药救大哥；想不到温晴的诡计竟成功引起对方注意，四美更出钱向温晴购买药物。
+
+温晴成功　破解密码
+
+温晴得知大喆懂得维修电脑，所以请求他帮忙替其USB记忆棒破解密码；大喆带温晴买下破解密码软件，期间被家伦遇见，觉得两人走在一起有可疑。大喆回家后亦将温晴有USB记忆棒之事告知怜香，怜香遂告知丹丹，二人担心记忆棒内是其艳照的档案，因此二人想办法接近温晴以证实记忆棒内容。怜香及丹丹到访温家伺机查问USB记忆棒内容，温晴装作密码已破解，指内容是跟大哥的相片。
+
+正隆怀疑　怜香放数
+
+正隆与众探员在夜总会会面，家伦则汇报发现大喆与温晴一起，大树则断定怜香跟温斌有关。正隆要求深入调查怜香是否为温斌的同党，花苹反对但不获接纳。花苹及大树跟踪怜香到地盘外，见他与一名男子接头。花苹外出跑步巧遇罗帛，罗帛以「新抱仔」相称，花苹感啼笑皆非。花苹忽然接到电话指胡蝶病重，遂立即赶回家。
+
+胡蝶练曲　惨遭白眼
+
+花苹匆匆回家见胡蝶无恙，原来胡蝶只是很久没见女儿，硬要求她陪伴同到曲艺社排练。总理夫人到场后不断出言讥讽胡蝶；两人排练时总理夫人五音不全，还要求胡蝶将音调降低迁就自己。凤妮将已修复的录音带交回朱妈，并播放MP3档案予朱妈听；凤妮大胆探问朱妈是否&lt;幽媾&gt;的演唱者，朱妈黑面回应。正隆相约花苹及大树于war game场会面，得到的情报便是怜香上次会面的男人原来是她前夫。怜香与花苹及丹丹出外购物，为儿子准备出国用品，回家询问大喆意见时却遭其冷淡对待。
+
+怜香发现　同事违法
+
+怜香在工作中无意发现水哥原来偷偷转售超市的奶粉予水货客，想揭发之际被水哥劝止并邀请怜香加入一同赚钱，怜香见状不禁心动。罗帛查看上星期超市后门的闭路电视纪录，发现一男一女偷偷将货品推出，之后罗帛将此事告知大树。见大树通知上级，花苹为此感忧心。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2695</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E13.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

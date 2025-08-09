@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 31 集</title>
+  <originaltitle>第 31 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662285</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>四阿哥回到雍王府，告诉金枝他要纳妾，金枝自然不愿。金枝劝四阿哥和她一起过平凡的日子，怎奈四阿哥的志向早已深重在心里，任何人和任何事都不会让他动摇。金枝约佟素言在外面见面，金枝警告素言四阿哥不是真正的爱她，娶她只不过为了年羹尧的实力。素言却咄咄逼人的回敬金枝，自己就是要嫁给四阿哥，任何人也不能阻挡自己，否则遇佛杀佛，遇神杀神。金枝气急败坏的眼看素言得意的离去。十四来到畅欢楼找素言，却已是人去楼空。十四怅然若失的觉得自己好像做了一场梦一样。四阿哥告诉十四自己又要成亲了，两人一起切磋武艺。四阿哥娶亲的日子，十四阿哥提酒前来祝贺。当看见新娘竟然正是自己朝思暮想的佟素言，十四顿时呆若木鸡。十四借酒浇愁，喝得酩酊大醉回到宫中，德妃正在皇上面前夸奖十四，皇上看到酒醉归来的十四，心中不悦，拂袖离去。德妃听见皇上在自己面前夸奖四阿哥送来的紫薯，暗中在紫薯里动了手脚，皇上吃了顿时晕倒在地。金枝一气之下回到娘家，隆科多劝她放开心，回到雍王府做好四福晋，金枝听从了隆科多的劝告，回到了雍王府。金枝刚到雍王府，却正巧遇见宫里的太监抓走了四阿哥，理由就是他进献的紫薯出了问题。素言新婚的洞房花烛之夜，四阿哥却被抓捕入狱，只觉自己命苦，在家中想办法如何救出四阿哥。皇上中毒，太医熬了两碗药，因为不知道药效，需要一人以身试药。德妃要十四阿哥替皇阿玛试药，十四犹豫难当，八阿哥挺身而出替皇上试药。皇上服了药醒转过来，留下八阿哥单独谈心。皇上告诉八阿哥自己因为良妃离去，委屈了八阿哥，父子两人冰释前嫌，两双手又握到了一起。德妃责备十四阿哥不替皇上试药，十四反而怪德妃心里没有儿子，只有皇阿玛。德妃为十四不理解自己的苦心而万分难过。金枝求素言救救四阿哥，素言用福晋的位置要挟金枝，金枝愿意把福晋的位置让给素言。素言却又要金枝用自己的生命来换取四阿哥的，金枝为了深爱着的四阿哥，宁愿献出自己的生命，以换取四阿哥的平安。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2695</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E31_-_第_31_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

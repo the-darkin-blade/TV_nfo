@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:19:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>薛子峰不满罗丹提离婚</title>
+  <originaltitle>薛子峰不满罗丹提离婚</originaltitle>
+  <showtitle>虎妈猫爸</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1085669</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>唐琳利用茜茜和杜一诺的遭遇来赢得了第二场和杜峰的辩论。杜峰以为是毕胜男把自己的信息透露给唐琳的。杜峰回家给杜一诺做饭，杜一诺很开心。毕胜男把自己刚生茜茜时的日记念给茜茜听，告诉茜茜自己一直都那么爱她。毕胜男告诉罗素自己想自己创一套独特的教育理论。杜峰带着杜一诺，罗素毕胜男带着茜茜一起上唐琳的亲子课。唐琳说毕胜男和杜峰很像，给予孩子的否定多于肯定，毕胜男和杜峰都被赶出了教室。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <studio>Tianjin Television</studio>
+  <dateadded>2025-08-06 18:19:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2747</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>虎妈猫爸S01E25.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

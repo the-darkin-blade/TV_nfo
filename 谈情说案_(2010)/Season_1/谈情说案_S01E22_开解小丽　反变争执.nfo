@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>开解小丽　反变争执</title>
+  <originaltitle>Episode 22</originaltitle>
+  <showtitle>谈情说案</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">757844</uniqueid>
+  <uniqueid default="false" type="tvrage">1065011940</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>众警员本欲追截歹徒控制的遥控直升机，怎知直升机突然爆炸，众人均被爆炸波浪震倒在地上。天恒正察看众人情况时，怎料又有另一架遥控直升机出现；众人为了闪避直升机而狼狈不堪时，竟然有一辆电单车出现把赎金取去。重案组调查后发现有人在网上留言，指将会把一段「太子兵丑行大踢爆」之影片公开。众人一起等候该片在网上播放，结果发现是……
+
+天恒敏嘉　再次复合
+
+小丽与上司一起到捐款的慈善基金商量筹办活动的细节，想不到该基金的管理人就是宝儿；宝儿趁小丽上司离开时，便立刻说要与小丽商量活动内容，事实上是想陷害她……
+
+上司向小丽说出，指宝儿投诉小丽所写的计画书出了问题，令小丽百辞莫辩；宝儿故意作弄小丽，要她前往新界的公司与自己见面，但却又要她吃闭门羹，要她在烈日下暴晒。另一方面，天恒发现Adrain竟然跟踪自己……Adrain指天恒趁他与敏嘉不和时乘虚而入，更要求进入天恒家找敏嘉……天恒与敏嘉的朋友见面，得悉她仍在香港；敏嘉一个人在海边垂钓时天恒突然出现；当天恒正欲说服敏嘉之际，想不到一直跟踪天恒的Adrain亦现身。Adrain软硬兼施仍没法令敏嘉回心转意，而天恒竟借机向敏嘉求婚，Adrain见状即发火指责敏嘉与天恒有染，结果令两人一起对付Adrain……
+
+景博到宝儿的慈善基金讨论有关捐助大学之事，在离开时却与小丽不期而遇。景博欲与小丽一起离开，但想不到宝儿却借商量要事故意留下景博；上司通知小丽，与宝儿合作的计画将会交予另一位同事跟进……
+
+准备结婚的天恒与敏嘉打得火热，当天恒的好友约天恒出外饮酒作乐，天恒竟带同敏嘉一起出现；结果天恒的好友没有办法在敏嘉前结识玩伴，只得私下埋怨，大呼没趣。
+
+天恒偷欢　自尝恶果
+
+敏嘉向天恒说出，因工作调动，将会隔天驻留澳门工作，而她鼓励天恒与朋友见面，但天恒指自己最近忙于撰写MBA的功课，所以可趁机留在家中做功课。晚上埋头苦干的天恒收到好友邀约出外喝酒，天恒一时抵受不了诱惑而答应；有女性主动接近天恒，更向他投怀送抱，而醉得一塌胡涂的天恒竟把她带回家……敏嘉突然自澳门回家，终发现了天恒偷情一事。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2675</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E22.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

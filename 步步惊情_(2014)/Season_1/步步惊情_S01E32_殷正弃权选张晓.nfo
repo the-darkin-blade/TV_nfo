@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:25:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>殷正弃权选张晓</title>
+  <originaltitle>殷正弃权选张晓</originaltitle>
+  <showtitle>步步惊情</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5481451</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>张晓淋雨的同时殷正也在淋雨，殷正前来找张晓以求和好。小荷戴着桃花运手链想找另一半，谁知杰克也戴着桃花运手链，杰克与小荷一吻定情。殷正将震天集团交给了司瀚，他准备与张晓去云南开茶馆。司瀚冻结了殷正的资产，司瀚的复仇计划才刚刚开始。殷正前来找赵岚希望能化解家庭矛盾，但司瀚却施计让众人误会了殷正。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2759</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊情-S01E32.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

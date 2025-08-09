@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>张晓进震天工作</title>
+  <originaltitle>张晓进震天工作</originaltitle>
+  <showtitle>步步惊情</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5423717</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雍正驾崩前派人将木兰簪和扳指送往西北若曦的故土，而运送的将士们在途中却遭遇了沙尘暴。张晓在博物馆遇到了长相酷似雍正的殷正，她在追殷正时意外撞飞了小贩的气球。小贩让张晓用手机抵赔飞走的气球，殷正看到了这一幕并帮张晓拿回了手机。张晓从前男友黄棣那里获知殷正是震天集团董事长康震天的继子，而她对殷正有一种不一样的感觉，张晓为了寻找心中的答案决定去震天集团面试。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2754</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊情-S01E01.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

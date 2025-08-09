@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>花苹助丹丹变靓太</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>师奶Madam</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3191062</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>丹丹怀疑丈夫有婚外情感震惊，趁汉斯熟睡偷看其电脑要查明究竟，却未料电脑设下密码锁，丹丹不禁深信丈夫有不可告人的秘密。丹丹故意收起汉斯的重要文件，然后藉口送件到汉斯的办公室查探，看到年轻又打扮花枝招展的千千说话夹杂英语，丹丹怀疑正是和汉斯视像通话的人。
+
+股市大跌，众师奶在银行表现手足无措，花苹看到买下的股票竟大升只觉难以置信，旁人看到她失望的表现，认定她买入的股票大蚀损失惨淡。花苹将一腔怒气向家伦发泄。
+
+丹丹担心　汉斯外遇
+
+正隆急召各人见面，花苹以为会被指责未能炒股蚀钱遂急忙解释，未料正隆竟交给她十万元的私人储蓄，着她好好利用作股票投资，并提醒必先保本，只将赚得的用作炒卖。罗帛偶然碰见吕芳与Richard约会，故意说话替儿子大树宣示主权，吕芳尴尬却未有反抗。
+
+丹丹跟踪汉斯，并故意致电试探，发现汉斯撒谎，丹丹怒极。丹丹跟踪至红灯区却失去其影踪，惟有四周探望猜测其下落，突然看到汉斯在警方押送一群在色情网吧拉得的男女中，不禁既惊且怒。晚上汉斯回家，砌词说加班延误回家，丹丹认定丈夫拈花惹草，不愿与汉斯有身体接触。
+
+为博儿宠　朱妈撒谎
+
+凤妮和润祥陪朱妈饮茶，润祥只管和凤妮谈论其美容店的事宜，朱妈感被冷落不爽。刚巧张婆坐在轮椅由儿子推入，朱妈灵机一触回家即假装跌倒受伤，润祥猜测朱妈撒谎，恫吓送院后或许要接受开脑手术，朱妈吓得脸青急忙澄清没事，并苦劝儿子回港工作。润祥故意以退为进答应寻找中港司机的工作，朱妈担心极不再勉强；朱妈坦言渴望抱孙，润祥安慰有全盘计划，朱妈亦不再作纠缠。
+
+四美鼓励　花苹学厨
+
+丹丹托朱妈转交订货给凤妮，朱妈发现内有的避孕丸于是向凤妮大兴问罪，凤妮委屈欲辩无从。朱妈怒极返回房中重温昔日和祥父唱粤曲邂逅的美好时光，不禁眼泛泪光。胡蝶和花琛谈及曲艺社的周年表演，抱怨尚未找得合唱的好拍档，胡蝶让花琛听陈年旧曲，花琛提出若胡蝶找得主唱的飘红定必轰动一时。四美领花苹到街市买菜，鼓励她应学习煮食令大树不再批评她不懂下厨，花苹亦觉有理，决心要令大树另眼相看；大树吃下花苹的菜肴，拆穿全是各师奶的拿手小炒。
+
+丹丹崩溃　众女相助
+
+丹丹和花苹、怜香、凤妮饮茶，突然扑向花苹的怀中痛哭起来，各人不禁愕然。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2689</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E08.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:19:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>毕胜男被栽赃停职</title>
+  <originaltitle>毕胜男被栽赃停职</originaltitle>
+  <showtitle>虎妈猫爸</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1085665</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>毕胜男和罗素吵架，茜茜在门外听到了，哭着对罗素承诺她以后会好好学奥数的，让他和妈妈不要再吵了。罗素第二天找到杜主管，说毕胜男在照搬杜主管的教育方式，原因就是杜主管对下属太过苛刻，给她们造成了太大压力。罗素还质疑了杜主管的强者弱者理论，杜主管把他赶走了。而罗丹和毕胜男找了唐琳，毕胜男让唐琳不要总是和罗素说她的教育理念，直接教育她就好了，毕胜男说唐琳的理论很好，但是不适用于中国的家庭。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <studio>Tianjin Television</studio>
+  <dateadded>2025-08-06 18:19:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2726</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>虎妈猫爸S01E21.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

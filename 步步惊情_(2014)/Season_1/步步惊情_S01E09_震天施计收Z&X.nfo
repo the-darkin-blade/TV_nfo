@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>震天施计收Z&amp;X</title>
+  <originaltitle>震天施计收Z&amp;X</originaltitle>
+  <showtitle>步步惊情</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5481427</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>司瀚去向他爸爸的好友刘东海借钱，不料在震天的指示下东海并没有同意借钱。张晓前来找司瀚，两人在废墟里庆生，司瀚带着张晓去摆地摊卖Z&amp;X的香水。娇悦公司愿意与Z&amp;X合并，当司瀚签完字时他才发现，原来娇悦是Z&amp;X旗下的子公司。张晓察觉到天天吃幸运蛋糕略有蹊跷，她前来厨房探寻究竟，情急之下司宇躲进了冷库。司瀚答应震天回集团上班，殷正闻讯脸色很难看。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2779</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊情-S01E09.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

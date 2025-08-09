@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 22 集</title>
+  <originaltitle>第 22 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662264</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>晴川努力帮助八阿哥争储，却更激发了四阿哥争储的决心，他觉得众人都已经背叛了自己，写信给远在外地的十三阿哥速回京城。禧嫔娘娘为了让自己怀孕将来有个靠山，不惜派宫女出宫寻药。宫女挽月险些被禁卫军逮捕，被小顺子救下。小顺子逼问出禧嫔娘娘的计划，决心帮助禧嫔娘娘争宠。小顺子端了下了药的茶给皇上，却被赏赐给李德全喝下。李德全受不了药物的功效，当场昏晕过去，皇上重责小顺子。禧嫔娘娘没等来皇上，却等来乾清宫出事的消息。一计不成，禧嫔娘娘只得另想一计。禧嫔娘娘以家眷性命要挟太医配合自己假称怀孕，引皇上来储秀宫留宿。皇上听说禧嫔娘娘怀孕的消息，大喜过望，前来探视禧嫔娘娘。十三阿哥回到宫里，用很多钱财收买宫女太监。宫女太监们都表示愿意为十三阿哥效劳。众人正玩闹间，听见禧嫔娘娘派晴川去乾清宫把同心结放到皇上身边。十三阿哥设计拿到同心结并交给禧嫔娘娘挑唆说晴川扔了同心结，禧嫔娘娘深知晴川为人，并不为十三阿哥所动。十三阿哥同四阿哥商议，从晴川下手打破八阿哥和禧嫔娘娘的结盟，四阿哥坚决不同意从晴川下手，并愤然离去，十三阿哥觉得四阿哥有些奇怪，金枝告诉他晴川手段高明，和几个阿哥们都夹缠不清。康熙的远嫁蒙古的公主进献马奶糕给皇上，皇上睹物思人难以下咽，把马奶糕尽数赏赐给晴川。晴川拿去给八阿哥吃，八阿哥装作很喜欢的样子猛吃，九阿哥和十阿哥赶到，告诉晴川八阿哥原本是不能吃乳制品的，吃了牛奶会呕吐不止。晴川深为八阿哥的神情打动。八阿哥带晴川去看望自己的姑姑冰月格格，这位格格不住在皇宫，却在宫外的树林过着平凡快乐的农妇生活。归来的路上，八阿哥因为晴川满嘴里不住提到四阿哥而生气，他带晴川来到雍王府，想拉晴川去见四阿哥。晴川生气的打了八阿哥一耳光，八阿哥因为晴川心里只有四阿哥而伤心离去，并告诉晴川想清楚自己要的究竟是谁。留下晴川一人独自站在雍王府门前，晴川独自离去，被十三阿哥和金枝瞧见，十三阿哥决心对付晴川。九阿哥被皇上派遣去出巡黄河河道，八阿哥因为心里难过，提出和九阿哥一起去。晴川遇见禧嫔娘娘和八阿哥一起，八阿哥告诉晴川自己就要离开京城去巡河。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2701</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E22_-_第_22_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

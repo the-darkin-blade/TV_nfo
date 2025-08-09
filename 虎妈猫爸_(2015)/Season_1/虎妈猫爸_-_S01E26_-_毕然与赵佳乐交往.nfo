@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:19:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>毕然与赵佳乐交往</title>
+  <originaltitle>毕然与赵佳乐交往</originaltitle>
+  <showtitle>虎妈猫爸</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1085672</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>罗丹遣散了自己酒庄里的工作人员，给她们发了最后一个月的工资。毕胜男去找罗丹，罗丹还觉得自己跟踪薛子峰的确是做错了，告诉毕胜男自己想再去找薛子峰求情。茜茜这次数学考试没考好，茜茜要罗素帮她骗毕胜男。有一个上海的教育专家林教授到北京进行讲座，赵佳乐想去看无奈弄不到票，毕然对她夸下海口称自己和林教授很熟，可以搞到票。毕胜男去深圳培训的名额被董事长朋友的女儿顶替了，杜峰坦诚告诉她怕她有情绪，但毕胜男告诉杜峰这对自己根本不算什么打击，杜峰非常欣赏这样的毕胜男。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <studio>Tianjin Television</studio>
+  <dateadded>2025-08-06 18:19:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2742</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>虎妈猫爸S01E26.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

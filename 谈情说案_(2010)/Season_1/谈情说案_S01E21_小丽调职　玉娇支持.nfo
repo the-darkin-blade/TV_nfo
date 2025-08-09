@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>小丽调职　玉娇支持</title>
+  <originaltitle>Episode 21</originaltitle>
+  <showtitle>谈情说案</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">757843</uniqueid>
+  <uniqueid default="false" type="tvrage">1065011939</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小丽与玉娇见面，为自己在复职后又提出调职之事道歉；但想不到玉娇没有责骂她，更指小丽与昔日的自己十分相像，所以接受她的调职申请，更要小丽借此机会让自己调节情绪。天恒找景博吃饭，景博发现天恒在写心意咭，天恒指这是重案组同事送给调职到警察公共关系科的小丽的心意咭。家希举动有异，原来他害怕翌日派发成绩表取不到好成绩，小丽只得好好鼓励他一番。
+
+景致欣赏　美女宝儿
+
+翌日家希与父母一起回校取成绩表，怎知他的成绩竟是全级第一。在景致负责的慈善机构晚宴上，当她与友人大谈国外旅游经历时，偶然认识到豪门第二代的宝儿，更对她印象甚好。景致看到大哥与大嫂为景博终日躲在研究室而担心，于是提出如景博能展开新恋情，便可改善现时的情况。景致借宝儿所打理的慈善基金欲捐款之名，约了景博一起饭聚，而景致更借机离席，制造机会给宝儿与景博相处……
+
+新同事Wendy取代了小丽的岗位，但大家对这位同事的印象只是极之贪吃；下属通知天恒，说有一名叫「敏嘉」的女子自杀，天恒为此慌张不已，更致电Adrain与他发生争执……晚上天恒与好友喝酒时，好友们均鼓励他不应放弃敏嘉；天恒发动追求攻势，更以强势提出欲与敏嘉复合，可惜敏嘉毫不领情。这时Adrain出现接敏嘉放工，两男更演变成斗飞车……
+
+宝儿到景博的实验室参观，除说出打算捐款给大学，借机说出自己有多仰慕景博；但景博说出自己因上一段感情刚完结，所以暂时尚未有恋爱的打算……宝儿探望景致，景致提出想邀她加入担任总理；宝儿说出景博提及自己恋情，景致因此向宝儿和盘托出中间的原委，更让她看小丽的照片。但原来表面上秀外慧中的宝儿，私下其实是个势利及机心极重的人。
+
+敏嘉发现　爱郎偷情
+
+小丽调到公共关系科后，很快便与同事打成一片，而上司更决定让她筹办一个接受基金捐款的活动。敏嘉工作完毕回港，欲到Adrain家给他一个惊喜，但却发现他在偷情，于是掌掴他后便拂袖而去。兆天托警方帮忙，原来他的儿子俊霆与女伴自拍的情欲短片被人盗取了，之后更被勒索一千万现金。重案组众人得悉歹徒的犯案手法后，计画在他取赎款时逮捕他……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2688</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E21.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>小丸子气煞花苹</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>师奶Madam</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3191058</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>大树拉花苹到一旁遥望着罗帛、怜香和凤妮谈话，花苹被压墙上和大树紧贴心跳加速。大树回家查探父亲调职之事，却见罗帛又在假扮经纪游说别人；大树得知罗帛将留守屋邨，提议其退休享福，罗帛却婉拒指工作轻松容易应付。汉斯买来手提电脑，却苦恼知识有限力有不逮；汉斯着丹丹先睡，未料丹丹却出示女儿的图画，提出有意再怀孕生育；汉斯以养育费用高昂，又藉口翌日早起推却，丹丹感无奈。
+
+花苹怀疑　富贵凤妮
+
+花苹跑步经过见朱妈与众师奶在舞剑遂上前搭讪，未料各人却反应冷淡；凤妮前来向各街坊派赠券，梅、兰、谷、祝提议让朱妈在开张日剪彩，凤妮欣然赞成。花苹听得四女指凤妮乃新移民却财来有方，不禁起疑。花苹制定规条要大树遵守，大树只觉其要求无理不愿理会。
+
+大树到兰姑家中维修，乘机向其打探财务状况，突然传来阵阵碰撞声响，兰姑猜测乃小丸子独留家中玩球发出声音。大树经过小丸子的家探头察看，小丸子对他怀戒心迅速关门，大树感不是味儿。正隆依大树要求安排家伦到保安室工作，家伦故意笼络罗帛方便日后监视。朱妈在快餐店等候凤妮来电催促剪彩，街坊指凤妮可能正忙着，朱妈心感忐忑。
+
+丹丹怜香　欲取借据
+
+家伦到美容店前维持秩序，看见凤妮感面熟不禁定睛打量；怜香和丹丹催促凤妮剪彩，凤妮看到朱妈迟到感惊愕，幸丹丹和怜香迅即迎上解围。众师奶争相拿取赠品令场面混乱，丹丹藉口让花苹得免费美容疗程奖，然后与怜香走到温斌家门外，以遥控车和手机作工具欲取回借据，未料事情失败。
+
+小丸子在儿童乐园被一男孩母亲误会她偷窃，大树上前解围，小丸子感激。大树领小丸子到餐厅大快朵颐，得知小丸子流连商场的理由，不禁表示担心。花苹和凤妮闲谈探问其财政状况并提及贵利借贷，凤妮支吾指多得乡亲借款才成功开设美容店，花苹猜测是谎言。
+
+家伦答应　协助凤妮
+
+邢蓝和花苹来到半山，提及查得凤妮的资料，花苹要求邢蓝保守秘密别让正隆知悉。凤妮被流氓登门要胁收取保护费，苦恼之际竟见家伦走入。凤妮和家伦在花园外散步话旧，凤妮诉苦提起被勒索，家伦请缨答应出手相助。花苹经过温斌家刚巧听到手机铃声，误以为是鬼怪作祟，大树只觉其疑心生暗鬼。
+
+花苹回家被小丸子在床上乱跳的声响吓倒；小丸子嚷着饿极，大树要下厨煮饭，小丸子不明为何花苹不煮饭。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2687</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E04.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

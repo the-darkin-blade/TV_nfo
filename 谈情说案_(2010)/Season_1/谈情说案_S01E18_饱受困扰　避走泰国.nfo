@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>饱受困扰　避走泰国</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>谈情说案</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">757865</uniqueid>
+  <uniqueid default="false" type="tvrage">1065011936</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>正在工作中的景博突然收到汉飞来电，在电话中的汉飞大声指责景博，说因小丽捉通缉犯而受伤的女士，竟直接致电副署长投诉小丽；深被事件困扰的景博，突然抛下一切取假到泰国游玩。景博到泰国后寄住在好友Louis的家中；因卖了研究专利而发达退休的Louis，更借机会教景博有关「分子食物」的种种，两好友玩个不亦乐乎。因一直没有开电话的景博，回港后才得悉慧珠突然入院……
+
+景博决定　与爱分手
+
+景博立即赶到医院，景然与景致一直在手术室前等候；手术终于结束，医生向景家众人交代慧珠患上急性心脏病，而替她做手术时更发现她患上严重的胃溃疡而引发起腹膜炎，幸而两个手术都顺利完成。景博的电话突然响起，原来是小丽找他，但景博竟把来电截断；满面内疚的景博欲与刚苏醒的慧珠见面，想不到慧珠完全没有责怪儿子的意思。晚上景然与儿子详谈，更谈到景博应没法解决与小丽之间的距离……
+
+景博思前想后，终在深夜致电约小丽见面；小丽立即赶至码头与男友见面。小丽看见景博一脸凝重，主动说出将无条件支持他；但景博却对她坦言说出自己「计错数」，错误判断了爱情的复杂性，终明白相爱不只是两人间的事，于是向她提出分手。小丽听后大受打击，六神无主的她不知如何自处，只得致电给天恒，天恒得知后陪伴小丽直至天光；但当他把小丽送回家后，小丽却不肯回家，只是四处游逛……早上汉飞与秀娥出外，发现整夜没有归家的女儿呆坐在果栏外；当两人问她究竟时，小丽却紧抱双亲痛哭……
+
+景致探望慧珠，更忍不住谈及景博与小丽之事，但景然淡然地说出景博已与小丽分手，两人听后立即眉开眼笑。这时景博亦出现探望母亲，而他看到慧珠因自己与小丽分手而高兴不已，只得露出苦笑。秀娥带小丽购物散心，却遇上小丽的同期同僚，而对方更侃调小丽与教授拍拖之事……
+
+女儿伤心　汉飞不忍
+
+因秀娥与汉飞看戏，只剩下小丽在火锅店等候国安及国良；一个人的小丽为排解寂寞，竟狂喝啤酒借酒浇愁。两位兄长到达后，亦只得努力奉陪。汉飞见到回家后的女儿跌坐在厕所中痛苦不堪，终忍不住要小丽别在家人前装强，小丽终抱着父亲高声痛哭。小丽突然提出辞职，天恒问她有否得到家人同意，想不到小丽竟说出汉飞是最支持她的一个。天恒到大学把文件交予景博签署，而他更向景博说出小丽向自己递上辞职信一事……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2694</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E18.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

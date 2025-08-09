@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:19:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>唐琳宣告夺回罗素</title>
+  <originaltitle>唐琳宣告夺回罗素</originaltitle>
+  <showtitle>虎妈猫爸</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1085681</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>毕胜男推门看到唐琳、罗素和茜茜三人仿佛幸福的一家三口在庆祝生日的场景，毕胜男心灰意冷，觉得自己的出现太多余，她拖着自己的行李淋着大雨回到了办公室。杜峰没回家，问毕胜男为什么要回办公室，毕胜男没有回答，看着浑身湿透的毕胜男，杜峰好像明白了一些事情。杜峰告诉毕胜男自己要调走了，由毕胜男来接任他的职位。唐琳哄茜茜睡觉，问茜茜生日过得开不开心，茜茜说因为妈妈没有回来所以不开心。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <studio>Tianjin Television</studio>
+  <dateadded>2025-08-06 18:19:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2710</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>虎妈猫爸S01E32.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

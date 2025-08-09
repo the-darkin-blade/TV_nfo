@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 16 集</title>
+  <originaltitle>第 16 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662258</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>四阿哥告诉众大臣自己会带头收容一百个难民，众大臣心中对四阿哥不满，决定对四阿哥下手。晴川漫无目的的走在路上，正彷徨着不知去向，忽然四阿哥在一处龙渊阁前被人追杀，晴川冲上去恰巧替四阿哥挡了一剑，自己被刺昏倒在四阿哥怀里。四阿哥请了大夫给晴川医治，又对晴川的忽然出现心生疑窦，怀疑晴川有什么阴谋，欲除去晴川，举起刀来却又下不了手。一时间四阿哥心里矛盾着，不知何去何从，无奈离开了晴川。隆科多在朝堂外候着四阿哥，四阿哥匆匆赶来，隆科多告诉四阿哥朝中众大臣纷纷上表，埋怨四阿哥表面为朝廷实际是为自己打算。四阿哥知道是募捐的事情得罪了众大臣，那么刚才刺杀的事情也应该是他们做的。两人商议如何才能笼络回大臣们的人心，四阿哥提出想借金枝生日的机会，与大臣们解开心结。金枝的寿宴竟然没有一个人前来贺喜，隆科多来报告原来是八阿哥把所有大臣全部请走了，没有任何名目。隆科多和四阿哥到皇上面前参奏八阿哥结党营私，请众大臣在酒楼聚众喝酒。正说着，八阿哥前来面圣，八阿哥上表皇上，自己募集了三十万两白银建了四个收容所，收容难民。皇上问起如何募集来的银两，八阿哥告诉皇上，自己擅自答应了朝中的众大臣，让户部出具单据，算是朝廷向他们借的钱，等朝廷有了钱，再慢慢发放给他们。皇上对八阿哥的做法大加赞赏，引起四阿哥和隆科多的嫉妒之情。皇上向德妃娘娘说起太子四阿哥和八阿哥的优缺点，为将来让谁接任而烦恼，皇上问起德妃娘娘的意见，德妃娘娘却提醒皇上不止这几位阿哥，三阿哥五阿哥十三十四也是人才，皇上正值春秋鼎盛，另立太子的事情不宜太早决定，并顺带提起十四阿哥为皇上带来了西洋茶献给皇上。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2693</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E16_-_第_16_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

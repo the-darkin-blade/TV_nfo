@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 5 集</title>
+  <originaltitle>第 5 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662246</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>晴川找到史书后，发现书上和自己讲的一样，没什么可背，疲惫不堪的她便伏在桌上沉沉睡去，却不知心莲偷偷把《史记》换成了《金瓶梅》。金嬷嬷来催晴川去把钩弋夫人的故事念给僖嫔娘娘听，睡意未消的晴川将《金瓶梅》带走了，等她翻开书页要念时才发现。僖嫔娘娘认为晴川在耍她，罚晴川去扫大殿。晴川误认为是八阿哥干的好事，去找八阿哥算账，却反被八阿哥嘲讽一番，生气地走了。回到住处后，众宫女 “热情地”要和晴川做“好姐妹”，晴川单纯地相信了。众宫女告诉她，明天德妃娘娘要去慈宁宫扫尘祈福，去帮忙会有赏钱拿。晴川信以为真。心莲还给了她一件漂亮的红衣裳，说喜庆的日子要穿喜庆些。第二天，晴川到了慈宁宫，发现所有人都用异样的眼神看她，且除她之外，其他人都穿着白色的衣服。原来这天是太皇太后的忌日。众宫女更是在德妃娘娘旁添油加醋，要德妃娘娘重罚晴川。晴川机智的化解了危机。众宫女只是草草清扫几下，向德妃娘娘汇报说扫完了，晴川大声的指责众宫女的敷衍了事。宫女们向德妃娘娘说晴川坏话，德妃娘娘让她们都走，晴川却坚持打扫完，让德妃娘娘对她产生了好感。皇帝与德妃娘娘聊天时，执意要皇上立太子的隆科多求见，皇上让他决定立谁为太子。得到消息的四阿哥便约隆科多喝酒，想拉拢隆科多，但被隆科多回绝。四阿哥偶然见到了隆科多疼爱至极的私生女：金枝，便决定从金枝入手。金枝爱上四阿哥，决意嫁给他。隆科多无奈只得同意并努力让皇上赏识四阿哥。晴川在四阿哥弹琴的地方静静回忆四阿哥弹琴时的样子。这时四阿哥拿着琴来，见了晴川提出教她弹琴。晴川欣喜不已，却被路过的心莲看到了。回到住处，心莲等对晴川嘲笑不已，晴川却因四阿哥要结婚的消息黯然伤神。见到这一幕的八阿哥搂住晴川大声宣布晴川是他的女人，不准宫女们再欺负晴川，并说要让皇上赐婚，让晴川做他正福晋，晴川说即使八阿哥娶了她，也得不到她的心。八阿哥便向九、十阿哥请教。九、十阿哥带老八去JI院，八阿哥问男人们如何才能得到一个女人的心，收获不小。晚上，素言约四阿哥出来，问他为什么要娶亲，四阿哥只是淡淡的说金枝可以让他以后的路更好走便离去了。素言伤心不已，哭了起来，晴川看到了，便教素言四阿哥教给她的方法，脱下鞋在石路上走，素言和晴川在一起走了好久好久。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2694</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E05_-_第_5_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

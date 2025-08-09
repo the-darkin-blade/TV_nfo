@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>罗帛怒斥美蓉</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>师奶Madam</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3191072</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>汉斯被带回警局助查，录口供时称与贵利无关，跟踪温晴是因为未见花苹与大树行动，才自己跟踪。这时花苹与大树才得知他早知二人是警察，大感尴尬不已。汉斯解释因之前在警局无意间听见花苹与大树二人的对话；汉斯更表示在公园录下垃圾婆的短片，助他们查案。二人告知正隆并力证汉斯证供可信，正隆同意与汉斯合作。花苹买咖啡之际，邢蓝上前关心他们今日的行动还想与她约会。这时大树出现，花苹并没有理会邢蓝便离去，令邢蓝心感不悦。
+
+温晴受胁　追寻巨款
+
+原来温晴被「贵利」长恨哥捉走，温晴只好交出挂在颈上的USB记忆棒予长恨哥并解开密码。长恨哥欣赏温晴胆识，着她找出早前交给温斌的三百万款项，将给她六十万作报酬。商场同乐日当天，凤妮的美容院摆放了一个小摊位推销，四美走来参观却嫌价钱太贵；丹丹及怜香出现协助，更以送赠风水手链作招徕替凤妮促销不少产品，三人终冰释前嫌。
+
+家伦向阿朱妈示范如何玩「拖鞋射龙门」游戏，汉斯见家伦脚法了得，便相约一起踢足球。花苹与大树嫌隙未除，被街坊质疑二人关系变差，另一方面大树受到大喆挑衅，便挑战抛藤圈的摊位，结果夺得大奖获得大树菠萝抱枕；花苹大喜，高兴地抱着抱抌离开。
+
+润祥对伦　暗生醋意
+
+家伦帮忙与凤妮一起执拾摊位，言谈甚欢；润祥刚从内地返港，见到家伦与凤妮状甚亲密，加上听到四美的闲言闲语，心生醋意。大树、家伦、汉斯、润祥及大喆等人相约踢足球，球场上家伦与润祥各不相让。大喆收到网友IRON MAN的讯息，大树见其讯息用上很多图像，打赌说对方是女子；汉斯则鼓励他可结识女性朋友，使大喆有点心动。胡蝶与菲购物后于咖啡室巧遇邢蓝，言谈间菲无意将大树深吻花苹一事告知邢蓝，使他更决心对花苹展开追求。
+
+罗帛美蓉　意外相遇
+
+罗帛对没法购入的单位仍未心死，还特意与大树前往居酒屋「学习」日文，好让他能说服日本业主出售单位。罗帛还以不纯正的日文点菜，叫人啼笑皆非。罗帛在单位楼下遇见美蓉，得知原来她就是业主，竟忍不住对她恶言相向。美蓉回忆当年不断整容，只希望讨罗帛欢心。岂料整容失败，面容受损曾想轻生。罗帛遇见美蓉后借酒浇愁，并四处惹事生非，家伦在旁阻止而无意间表露警察身分。
+
+从罗帛口中得悉母亲回港，大树态度决绝不肯与美蓉相认；可是罗帛对美蓉并未忘情，见状大感惆怅。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2692</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E17.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

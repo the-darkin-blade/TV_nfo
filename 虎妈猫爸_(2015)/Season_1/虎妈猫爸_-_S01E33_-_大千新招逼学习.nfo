@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:19:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>大千新招逼学习</title>
+  <originaltitle>大千新招逼学习</originaltitle>
+  <showtitle>虎妈猫爸</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1085682</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>毕大千和杨国华来找毕胜男，刚要开门时听见门里有人，两人以为进了贼，进门后才发现是孙雅娴、罗三省带着茜茜一起跳舞。毕然和罗丹成立了教育用品公司，卖不出去的货全部都堆在罗素家。毕大千看到茜茜的作业错了很多，习惯性地又要发火，多亏杨国华使劲对他使眼色，他才别扭地表扬了茜茜几句。毕胜男和罗素以为毕大千和孙雅娴又会吵起来，赶快冲回家来准备劝架。没想到毕大千居然带着茜茜和杨国华、罗三省一起玩词语接龙。毕大千说自己要用寓教于乐的方式来教育茜茜。孙雅娴总觉得毕大千都是装的，他每次来茜茜都会遭殃。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <studio>Tianjin Television</studio>
+  <dateadded>2025-08-06 18:19:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2737</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>虎妈猫爸S01E33.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="33" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

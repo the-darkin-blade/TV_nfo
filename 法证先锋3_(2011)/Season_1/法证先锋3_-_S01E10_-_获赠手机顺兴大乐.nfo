@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 17:51:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>获赠手机顺兴大乐</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>法证先锋3</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1828848</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>展风找酒店房客问话时，得悉其中一房间于早上用过酒店的餐食服务；倩儿从酒店经理口中得知，是餐食部员工王颂安负责送食物给客人，而颂安本人亦非常喜欢赌博。酒店的现场搜证完成，展风负责把证物运走；当展风准备离开时，倩儿用短讯将颂安的资料传给他着他留意。展风在运送证物途中在街上看见颂安，于是下车追捕他，最终更从颂安身上搜出一只名贵表。
+
+窃犯被捕　拒认杀人
+
+颂安被警方盘问时，得悉自己牵涉入命案后即大呼没有杀人，只承认因一时贪念偷去手表，更将偷表的经过和盘托出。学心准备为Apple验尸，为自己救了Apple一次却没法救她第二次而感既怜悯又同情。Wilson成为了Apple被杀案中最大的嫌疑犯，但Wilson得奕霏帮助以身体不适理由，躲在私家医院内迟迟不肯录口供，意图拖延时间谋对策。倩儿从证物中得到确定，终正式把Wilson拘捕。
+
+奕霏学心　各不相让
+
+奕霏陪伴Wilson一同录口供，令倩儿不能从Wilson口中套取更多资料，倩儿只好请学心替Wilson作活体取证。学心与奕霏在警署走廊相遇，学心善意提醒奕霏已有足够的证据落案控告Wilson谋杀，但奕霏却颠倒是非黑白执意为Wilson辩护；两人立场各异，在口舌上亦不肯互让。学心不耻Wilson的所为，在作活体取证时暗指他不尊重生命，Wilson气愤得与她争辩，更指Apple死不足惜。
+
+讨论案情　突有进展
+
+学心将验尸结果呈交警方后一起讨论案情，从种种证据来看，死者与Wilson有亲密接触，但最为致命的是Apple被人灌服大量氯胺酮；国栋指在现场搜证现场却找不到盛载氯胺酮的药樽。倩儿突然收到交通部的来电，指案发当日顺兴因与Wilson的交通意外有关而录下了口供，而顺兴的口供指Wilson在神智不清的情况下说过自己杀了人。
+
+成为证人　顺兴得意
+
+顺兴一脸兴奋地替倩儿等人再录口供，把自己遇上Wilson的交通意外时的言行一一说出，希望能助警方将Wilson绳之于法。警方控告Wilson谋杀，其助手Benny替Wilson父亲向奕霏传话，指示奕霏能成功替Wilson脱罪，余家将会邀请她全权负责集团旗下的法律工作，奕霏听后不禁心动。顺兴得知自己将出庭作证，不禁在众街坊前耀武扬威一番，众街坊更答应到法庭旁听以作支持。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered>2011-10-21</premiered>
+  <aired>2011-10-21</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <credits tmdbid="2066303">陈静仪</credits>
+  <credits tmdbid="1069020">蔡婷婷</credits>
+  <director tmdbid="2064565">梅小青</director>
+  <actor>
+    <name>黎耀祥</name>
+    <role>Po Kwok Tung (Jack / Pro Sir)</role>
+    <profile>https://www.themoviedb.org/person/123654</profile>
+    <tmdbid>123654</tmdbid>
+  </actor>
+  <actor>
+    <name>张可颐</name>
+    <role>Chung Hok Sum (Mandy)</role>
+    <profile>https://www.themoviedb.org/person/125882</profile>
+    <tmdbid>125882</tmdbid>
+  </actor>
+  <actor>
+    <name>徐子珊</name>
+    <role>Ling Sin Yee (Ada)</role>
+    <profile>https://www.themoviedb.org/person/131256</profile>
+    <tmdbid>131256</tmdbid>
+  </actor>
+  <actor>
+    <name>吴卓羲</name>
+    <role>Lee Chin Fung (Wind)</role>
+    <profile>https://www.themoviedb.org/person/1222249</profile>
+    <tmdbid>1222249</tmdbid>
+  </actor>
+  <actor>
+    <name>胡定欣</name>
+    <role>Chow Yik Fei (Eva)</role>
+    <profile>https://www.themoviedb.org/person/1234856</profile>
+    <tmdbid>1234856</tmdbid>
+  </actor>
+  <actor>
+    <name>陈茵媺</name>
+    <role>Chiang Cheuk Kwan (Angel)</role>
+    <profile>https://www.themoviedb.org/person/1566076</profile>
+    <tmdbid>1566076</tmdbid>
+  </actor>
+  <actor>
+    <name>萧正楠</name>
+    <role>Ho Ching Man (Ken)</role>
+    <profile>https://www.themoviedb.org/person/1059226</profile>
+    <tmdbid>1059226</tmdbid>
+  </actor>
+  <actor>
+    <name>蒋志光</name>
+    <role>Yau Kin Po (Paul)</role>
+    <profile>https://www.themoviedb.org/person/1083956</profile>
+    <tmdbid>1083956</tmdbid>
+  </actor>
+  <actor>
+    <name>黄子雄</name>
+    <role>Jason Ko</role>
+    <profile>https://www.themoviedb.org/person/1175765</profile>
+    <tmdbid>1175765</tmdbid>
+  </actor>
+  <actor>
+    <name>元华</name>
+    <role>Po Shun Hing</role>
+    <profile>https://www.themoviedb.org/person/57609</profile>
+    <tmdbid>57609</tmdbid>
+  </actor>
+  <actor>
+    <name>韩马利</name>
+    <role>Cheung Fung Ping</role>
+    <profile>https://www.themoviedb.org/person/2349758</profile>
+    <tmdbid>2349758</tmdbid>
+  </actor>
+  <actor>
+    <name>汤盈盈</name>
+    <role>Rebecca</role>
+    <profile>https://www.themoviedb.org/person/125775</profile>
+    <tmdbid>125775</tmdbid>
+  </actor>
+  <actor>
+    <name>陈展鹏</name>
+    <role>Fong Sai Yau (Jim)</role>
+    <profile>https://www.themoviedb.org/person/1238985</profile>
+    <tmdbid>1238985</tmdbid>
+  </actor>
+  <dateadded>2025-08-06 17:31:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2677</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>法证先锋3 - S01e10 - 获赠手机顺兴大乐__1920x1080__qsv_av1_10bit__28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

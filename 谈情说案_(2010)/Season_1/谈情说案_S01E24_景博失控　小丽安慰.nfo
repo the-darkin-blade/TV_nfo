@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>景博失控　小丽安慰</title>
+  <originaltitle>Episode 24</originaltitle>
+  <showtitle>谈情说案</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">757846</uniqueid>
+  <uniqueid default="false" type="tvrage">1065011942</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>因为发现了慧珠的残骸，重案组只得收拾仪器离开景家；这时众人听到楼上传来响声，工人说景博突然失控把食具打翻，更把自己弄伤。小丽带同急救药箱查看景博伤势，却看到平时冷静不已的景博，因母亲之死变得激动失控；看到泪流满面的景博，小丽只得努力安慰他……小丽发现宝儿出现，于是借意离开。宝儿在安慰景博时，兆天致电问候景博，当宝儿发现景博与香港首富兆天有交情，竟兴奋不已……
+
+小丽拼命　拯救慧珠
+
+景博到画廊探父亲，景然指刚收到歹徒寄回了慧珠的物件而大感心伤；景博一面安慰父亲，但却发现母亲手表的表带上有着奇怪的刻痕……景博将发现告之重案组，而警方亦认为有机会是慧珠将相关讯息刻在表带，因此展开全面调查。景博独个儿在研究室上网调查相关线索，却在网上发现与神秘留言同名的网页；网页上列出了一系列的问题，当景博一一破解后，竟发现网页中上载了俊霆的情欲短片。
+
+因为景博发现短片中有着像是俊霆杀人的片段，于是特意请兆天一起到研究所，确认片中人是否他的儿子；国安在家煮面给妹妹吃时，被小丽发现他手臂被撞伤，从国安的谈话中，小丽察觉景博可能会遇上危险，于是特意致电给他……兆天与景博逃过一劫，而兆天亦决定与儿子暂时离港。天恒接到神秘讯息，说留下了「东西」给警方，警方派出大队在山中搜索，小丽在搜索时不慎滚下山坡，竟因此发现了慧珠。小丽虽然受了伤，但仍背着慧珠脱离险境，让慧珠与景博母子团圆。警方经调查后发现，犯人应是在手术室放炸弹勒索兆天的黄志斌的哥哥黄志浩，而因为志斌已在狱中自缢，这次志浩应是接替志斌的遗志向兆天复仇，但因兆天父子已离港，天恒判断志浩将集中力量对付一直破坏他们兄弟复仇大计的景博。慧珠平安回来，更向家人说出宝儿见死不救之事；而她更托儿子向小丽道谢。
+
+景博成为　攻击对象
+
+晚上小丽突然收到景博的感谢邮件，景博只收到小丽的冷淡回覆，景博收到一封实验仪器公司的报价单，但打开之后却发现当中变了一个「填字游戏」，而歹徒更自称「Ace」向景博挑衅。警方派人保护景博，但他却发现自己的座驾煞车突然失灵……另一方面，景然的画廊被歹徒装设了机关，令画廊失火；小丽与景博再次相遇，但小丽却刻意保持距离。警方布下陷阱欲捕捉志浩，可惜失败收场……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2685</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E24.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

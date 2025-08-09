@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>蓝兰不幸遭炸伤</title>
+  <originaltitle>蓝兰不幸遭炸伤</originaltitle>
+  <showtitle>步步惊情</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5481432</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>蓝兰的车被炸，她被紧急送往医院抢救。蓝兰的皮肤被大面积烧伤，殷正指责张晓没有照顾好蓝兰。殷正非常痛心地看着病床上的蓝兰，他鼓励蓝兰要坚强，并表示会一直陪在蓝兰身边。张晓的父亲张泽江来到北京动手术，他向张晓说出了身世的秘密。蓝兰失踪，张晓将蓝兰留下的玉兰花耳环交给了殷正，殷正因为思念蓝兰在她病床前待了一夜。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1080</height>
+        <durationinseconds>2816</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊情-S01E14.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

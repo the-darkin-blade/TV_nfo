@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 18 集</title>
+  <originaltitle>第 18 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662260</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>管家婆婆刘妈看见晴川以为晴川的鬼魂来找自己报仇，无意间向四阿哥说起是金枝让自己把晴川扔进河里。四阿哥拔剑怒指金枝，金枝哭着求饶，四阿哥原谅了她。四阿哥无意间在街上看见晴川进了梦仙居，尾随进去却没发现晴川。晴川隔着屏风每天陪来这里喝闷酒的四阿哥聊天。太子得知晴川已经不在人世，哭的死去活来，大病了一场。四阿哥出演苦肉计割肉疗亲，骗得太子的信任，太子将四阿哥犯错的证据交给了四阿哥。四阿哥去看望德妃娘娘，无意间在门外听到德妃娘娘竟然替十四阿哥收买朝里的大臣，为十四阿哥做太子做打算，金枝的到来惊走了四阿哥。四阿哥为额娘待他不公而伤心懊恼，独自一人到梦仙居喝酒同时和晴川隔着屏风聊天。刘妈汇报金枝说看见四爷进了青楼，金枝极其败坏集中所有家丁丫鬟要去砸了梦仙居，到了梦仙居金枝揪出陪四爷聊天的人，四阿哥才知道屏风后面竟然是自己日思夜想的晴川。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2698</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E18_-_第_18_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

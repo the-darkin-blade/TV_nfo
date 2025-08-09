@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:19:32 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>罗母对毕家的人有偏见，认为毕胜男有问题</title>
+  <originaltitle>罗母对毕家的人有偏见，认为毕胜男有问题</originaltitle>
+  <showtitle>虎妈猫爸</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1085685</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>毕然与赵佳乐商量邀请双方家属见面，赵佳乐心事重重同意找个时间跟家人谈见面的事情，毕然见赵佳乐已经愿意跟家人谈见面的事情，脸上露出喜悦安慰赵佳乐不要太担心双方家属见面。罗素回到父母居住的家门外面，罗母坐在客厅里面跟罗父谈起毕家的人，毕家的人在罗母眼中都是有问题的人，罗丹觉得毕家的人唯有毕胜男为人不错，罗母一口否认了罗丹的观点，毕胜男在罗母眼中同样有问题，不久之前毕胜男出差回到本市没有第一时间回家，而是前往公司跟男性上级加到一宿，罗母耿耿于怀觉得毕胜男的脑子有问题。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <studio>Tianjin Television</studio>
+  <dateadded>2025-08-06 18:19:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2700</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>虎妈猫爸S01E35.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

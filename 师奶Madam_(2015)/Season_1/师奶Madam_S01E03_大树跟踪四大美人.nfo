@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>大树跟踪四大美人</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>师奶Madam</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3191057</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>花苹取回行李箱看到内里一片凌乱感惊愕又气愤，更紧张地称遗失了重要物品。花苹登门向丹丹追问是否遗下小枕头，更意欲硬闯入屋察看，丹丹感花苹怀疑伶俐顺手牵羊，不禁气愤。花苹直斥丹丹撒谎，大树只好强拉花苹离开。
+
+大树花苹　入住凶宅
+
+大树和花苹到门外察看浓烟从何而来，竟见怜香在门外烧冥镪；最终二人得知原来入住凶宅，不禁吓得脸色铁青。正隆约花苹和大树到天台见面，大树乘机向正隆投诉花苹刚搬入即得罪邻居，花苹不满回话，正隆不耐烦遂下令二人噤声，又告诉大树已给他在屋邨办事处安排职位。花苹不敢独自睡觉，遂乘机藉口研究资料留在厅中，大树无奈陪同研究……
+
+花苹走入房后因累极蜷伏床上睡着，翌日醒来赫然看到脸上七零八落的妆容不禁惊愕。大树致电投诉正隆竟安排他修理渠道，正隆辩称只是按其学历而安排。办事处内女职员Mandy对大树表现着迷，同事Harry在旁看到感眼冤。大树接报到梅姨家中维修，梅姨见大树感惊喜不已热情招呼入内。花苹到快餐店吃早餐，竟被诸多留难更遭受无明杯葛；凤妮友善招呼花苹同坐，解释指街坊并非有心针对，花苹才明白大家都知悉她和丹丹争执而有心为难。
+
+丹丹企图潜入温斌家，突然看到怜香现身不禁惊愕。二人没法开锁，只能以肉眼察看屋内情况，突然凤妮来电请二人到美容店协助。凤妮将快餐店遇到花苹之事告知丹丹和怜香，丹丹澄清并未将二人争执之事宣扬，凤妮尴尬地说出真相。大树边维修边向梅姨查探，听得其在电话相约翌日出外借贷，不禁暗喜案情终于见眉目。花苹到超市购物，有人客提出一同购买优惠货品可节省金钱，付款时周遭的师奶向花苹要印花又要求代买特价货品，花苹只觉邨内充斥贪便宜的人。
+
+大树花苹　跟踪四女
+
+大树买了大量杯面，花苹不屑耻笑其不懂生活品味，大树见她买来的高价食材，揶揄她只可眼观不能品尝。花苹不懂煮食将厨房弄得混乱，大树遂让出杯面，提议她将心思花在调查上。花苹出示偷拍片段指丹丹和怜香可疑，大树只觉其偏见理据不足。大树跟踪梅、兰、谷、祝，竟见四人原来是到观音庙借库，正感泄气欲离去时却被拉着同前往卡拉OK。
+
+梅、兰、谷、祝走入厢房后有如回家一样，大树见各人熟悉时下的流行歌曲，只觉大开眼界。花苹跟踪丹丹，只见她拖着行李箱到处走，花苹闪身躲藏离远监视，竟被误会是性工作者遭搭讪。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2688</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E03.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

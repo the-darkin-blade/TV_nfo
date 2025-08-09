@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>天恒艳遇　变成丑闻</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>谈情说案</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">757855</uniqueid>
+  <uniqueid default="false" type="tvrage">1065011926</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>面对好友在兰桂坊大街上不断重覆自己与人妖的对话，天恒终忍不住要求他们停止；天恒更坚持说自己不会分不清上床对象的性别。好友们答应不再开天恒玩笑，但亦说他这次的「风流」事，将令他极速成为兰桂坊的笑柄。天恒与好友们努力思索当晚情景，确认了当晚只有数桌客人。
+
+天恒得好友通知，当晚最有可能与天恒度春宵的是开设饼店的Michelle；天恒到饼店找人，但当他看到Michelle的样子时，不禁……
+
+徐家支持　国安创业
+
+虽然Michelle指自己不认识他，但天恒仍用尽方法到处寻觅证据。晚上天恒与好友们在酒吧诉苦之际，奇貌不扬的Michelle突然出现，她当众要求天恒不要再接近她，指大家一夜情只是逢场作兴，而自觉条件极吸引的自己亦快将结婚；天恒的嫌疑终被洗脱，但却又成为另一个笑话的主角……
+
+小丽刚回到家，便发现兄长夫妇眉开眼笑；原来他们竞投大学小食店成功中标，因此小丽亦立刻到房中开支票给国安……
+
+当小丽把支票带给国安时，正到女儿房中找风筒的汉飞，却发现小丽竟开大额支票给国安，不禁追问刚回来的女儿事情原委。纸终于包不住火，徐家立即召开家庭会议；国安夫妇指创业是为了让家希入读名校之后，不会因父亲的职业蒙羞；虽然汉飞将昔日国安创业失败之事作反对理由，但当他看到家人都纷纷表态支持国安时，态度竟开始软化……国安在大学小食店开办试食会，国良特意致电给景博请他到场试食。
+
+景博在小食店吃东西时遇上小学同学，而令彩嫦得知景博的母亲慧珠竟然就是温莎中学的校长。国安与小丽得悉景博突然肚泻，担心是因为小食店的食物引起，于是同往学校的医务所探望；众人看见景博一脸病容，国安提议让小丽与国良驾车载他回家。国良因内急而借用景家的厕所，但当他离开时，却发现博家的墙上竟挂着一幅与自己家中一样的油画；而这事却让景致得知。
+
+景家要求　徐家让画
+
+景致通知众亲人，族中长辈景森要求景然等把徐家的油画收购，以完成祖先的遗训。两家相约茶聚，慧珠正提出欲收购徐家拥有的油画时，彩嫦却趁机提出想让儿子转校之事；小丽向兄长指出父亲将不会轻易答应，但国安说会与父亲商量。
+
+有密室杀人事件发生，死者是研究机械的发烧友朱军亮；经过调查他是被一装有子弹的机械装置杀害，有可能是自杀或是误触装置而产生的意外……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2699</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E08.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

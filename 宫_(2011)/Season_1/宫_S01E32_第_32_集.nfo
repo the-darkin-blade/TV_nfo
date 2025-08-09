@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 32 集</title>
+  <originaltitle>第 32 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662286</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>素言派年羹尧进宫打探消息，年羹尧不小心被宗人府的锦衣卫发觉，误闯入皇上的乾清宫里。皇上洞察一切，早已放了四阿哥回府。皇上没有为难年羹尧，放他回到雍王府。四阿哥听见素言说起金枝殉情的消息，深深为金枝赶到难过，素言和年羹尧连忙转变话题，分析当前局势。四阿哥说劝十四来给德妃陪罪，并向德妃表示自己一定不会和十四争抢皇位，以求放松德妃的戒备心理。晴川看见八阿哥拉拢李德全，心理不由得厌烦这种明争暗斗的生活，八阿哥告诉她，自己怎么样都没有关系，也不想要什么皇位，这样做为的是更好的保护晴川。八阿哥见皇上宠幸十四，心里有了拉拢十四的主意。九阿哥不满皇上对十四的宠幸，深夜刺杀十四，八阿哥却出手救下了十四。十四到八阿哥府中做客，深为八阿哥和八福晋的爱情感动，从此十四每日到八阿哥府中和八哥八嫂一起饮酒作乐。德妃看见十四和八阿哥走得近，心中不满，唯恐十四被八阿哥拉拢利用，德妃心中又生一计。德妃请求八阿哥作一幅观音挂在钦安殿，过几天就是观音诞辰，皇上会去焚香祷告。八阿哥明知德妃有什么阴谋，却又推脱不过，只得应承下来。李德全无意间看见如意画坊送来的画，其中一幅观音画像，面貌酷似良妃娘娘，小太监说是德妃娘娘让画的，李德全立刻报告八阿哥，八阿哥知道了德妃娘娘的阴谋，和晴川商量着如何不让她得逞。八阿哥想出办法，将画好的画交给十四，要他一刻不能离身，等到挂的时候，亲自将画挂到钦安殿去。晴川还是不放心，八阿哥安慰她不要担心。十四小心万分，还是被德妃抓住机会调换了观音画像。观音生辰那天，十四却发现了翡翠拿着八阿哥画的画像要去销毁，十四急忙跑去钦安殿阻止，谁知已经来不及了，当他跑进钦安殿，画像已经挂好了。画像打开来，画像上面的人物已经面目全非，李德全告诉皇上是因为日久失修，房屋漏雨，画像被雨水打湿了。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2624</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E32_-_第_32_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

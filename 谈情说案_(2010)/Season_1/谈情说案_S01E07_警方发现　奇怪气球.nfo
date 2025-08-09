@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>警方发现　奇怪气球</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>谈情说案</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">757854</uniqueid>
+  <uniqueid default="false" type="tvrage">1065011925</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>重案组众人正研究为何在高速公路的天桥上会出现「掷镪水」事件，鉴证凭盛载镪水的玻璃樽碎片分析，推断是由超过六十米高的距离掷下；众人分别举出各种可能性，而景博得知此事后，亦将一段有人以大量小氢气球绑在一起，成功把人带上半空的资料片段电邮给天恒……天恒收到消息，指「穿山甲」乡村巡逻队在乡间发现有奇怪的气球被勾在树上，天恒等人特地到现场调查。
+
+愤世艺人　挑战警方
+
+天恒与小丽将气球出现的资料带到大学，托景博进行分析，而景博答允找人撰写电脑程式来分析有关数据。小丽回到家时，发觉国安夫妇的神态有异，彩嫦更问小丽有关取回强积金资格一事，令小丽觉得事有可疑。小丽追问下得悉国安为了儿子的未来，决定与友人合作竞投大学的小食店经营；但国安明白汉飞将会强烈反对，因此为凑钱一事大伤脑筋。小丽在明白一切后，主动提出借钱给他们。
+
+景博将天文台气象记录，配以曾发现气球及发生掷镪水的地点综合分析，终得出幕后主事者很可能是居住在大角咀一带，因此警方在这一带展开大规模的问卷调查。天恒亦安排重案组各人进行搜查；小丽与警员在调查天台屋时，与一年轻男性张汉祥遇上。晚上在旺角的行人专用区有小丑表演，但这时有小贩管理队出现，指小丑其实欲在此地摆卖，两者发生口角；当有警员介入后，小丑才悻悻然离开，但原来这位小丑就是汉祥。重案组从大量的问卷与实地调查后，发现汉祥亦是嫌疑人物之一；小丽向同事解释汉祥背景，原来他是从内地到港的演艺学校高材生，但到香港后却没法一展抱负，因此行为与思想都有一定反社会倾向。
+
+天恒决定把汉祥请回警署协助调查，但汉祥一直抱着不合作的态度，而途中他更突然像变了另一个人，表现出截然不同的语气及态度；天恒的下属们被汉祥吓呆了，天恒只得亲自出手……
+
+醉后糊涂　铸成大错
+
+经过查问后，天恒判断汉祥的嫌疑极重，更派子高等人廿四小时跟踪汉祥；众人发现汉祥又买下了镪水等物品……当天恒将情况与景博分享后，亦认为时机成熟可以派员逮捕犯人；小丽与柏柱前往天台屋，天恒与其他人正赶往支援时，天恒却发现景博不断致电给自己……
+
+案件顺利告一段落，天恒亦与众好友在酒吧喝酒；喝醉了的天恒在酒吧遇上一女子，更与她共度一宵。但想不到当天恒与好友再到酒吧之际，竟有男扮女装的「人妖」指曾与天恒共度春宵！给这事吓得目瞪口呆的天恒，不禁大怒……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2683</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E07.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

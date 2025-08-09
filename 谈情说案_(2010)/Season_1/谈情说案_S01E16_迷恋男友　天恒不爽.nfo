@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>迷恋男友　天恒不爽</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>谈情说案</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">757863</uniqueid>
+  <uniqueid default="false" type="tvrage">1065011934</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>当敏嘉在餐厅吃饭时，突然看见天恒出现，天恒问她为何不与Adrain同住，敏嘉说是因为对方要求多一点私人空间；天恒问敏嘉两人是如何相识，想不到敏嘉一提到当飞机师的Adrain便陶醉不已，天恒更听到敏嘉谈到自己与Adrain两人的未来及打算结婚之时，令天恒心感不忿。晚上天恒与好友们在酒吧喝酒，当天恒提到敏嘉已为Adrian神晕颠倒之时，天恒竟发现Adrain与一女性异常亲热……
+
+神秘掳人　事主拒报
+
+天恒特意跟踪Adrain，确定他是带女性回家鬼混后离开；天恒与敏嘉见面，发现她无条件相信Adrain后，终忍不住将自己所见之事相告，但敏嘉听后却无动于衷，更指早知一切，天恒忍不住与她争论，两人最终不欢而散。心情低落的天恒独个儿做运动，敏嘉竟突然出现……在早上的土瓜湾，有街坊报案说看到有一对年轻男女被突然出现的客货车截停，之后两人更被掳走，重案组因此介入调查。
+
+小丽在案发现场看见一个被压烂的面包，因此与柏柱追查到被掳走男女的住所；原来他只是刚租住了一个套房；当柏柱等人向包租公问话之际，受了伤的男事主许骏邦回来，骏邦被问话，只是说自己因欠债问题而被人带走。至于同被掳的女友婉仪去向，他却支吾以对；这时婉仪致电给骏邦……
+
+小丽特意到大学欲找景博吃午饭，却被他借故推却……
+
+天恒认为敏嘉将会与Adrain闹得不欢而散，特意托朋友带他到相熟的钟表店，购下名贵的腕表，希望在敏嘉生日当天送予她；想不到在敏嘉生日当天，天恒呆等了整晚却没有收到她的联络……敏嘉终在深夜致电给天恒，而天恒兴冲冲地赶到餐厅，把名贵腕表送赠给她后，竟发现Adrain送给敏嘉作生日礼物的腕表比自己的更贵重。早上骏邦送婉仪搭小巴回家，但当两人分手后，突然有数名大汉追斩骏邦……
+
+情侣私奔　背景复杂
+
+重案组接手后到医院探望骏邦，但他仍只说自己因欠债受袭，拒绝透露被追杀的原因。重案组调查行凶者的背景，天恒怀疑刚出狱不久的天威是主谋，因此带队到村中调查；当众人到达时，险陷进两村大战中。天恒将众人带返警署调查，终得知一切。是因为许氏与谢氏两村一直不和，因其后人许骏邦与谢婉仪相爱而引起两村纷争。汉飞回家吃饭时，发现小丽欲言又止，于是要她说出心中所想；当汉飞得知女儿竟为了景博而欲转往警察公共关系科当文职时，不禁大表不满。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2704</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E16.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

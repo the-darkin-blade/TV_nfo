@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 21 集</title>
+  <originaltitle>第 21 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662263</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小春因为素言是晴川朋友，坚持要留素言在家中并请了大夫救治素言。晴川决定以自己的能力，改变历史，决不让冷酷无情的四阿哥当上皇帝，他担心四阿哥做了雍正以后会是个暴君。晴川开始为帮助八阿哥争储积极准备。八阿哥非常顺从晴川。晴川想出一个办法，令康熙不再怀疑八阿哥。晴川为皇上做了一碗冰粥解暑，皇上非常喜欢，晴川借机带康熙到八阿哥处，观望八阿哥挥拳碎冰。八阿哥赤手空拳为皇上雕刻出龙形冰雕，令父子二人冰释前嫌，言归于好。晴川鼓励八阿哥继续努力争夺储君的位置，八阿哥要晴川也努力，他明知晴川心里只有四阿哥，不敢苛求晴川爱上自己，只求晴川努力，把对四阿哥的爱给分自己一些。八阿哥离开以后，晴川独自一人站在原地发呆，四阿哥从后面抱住了她，晴川奋力挣脱并打了四阿哥一巴掌。四阿哥告诉晴川自己去过乱葬岗却并没有找到素言的尸体，自己连一个弥补的机会都没有。晴川只觉得心里恨透了他，不愿与他纠缠，转身离去。四阿哥回到雍王府，金枝一直在苦苦等候，他觉得愧对金枝，要好好弥补对她的亏欠。四阿哥向德妃娘娘收回讨要晴川的请求，并表示自己不会成为十四阿哥的障碍。皇上为朱三太子意图叛乱反清复明事情而恼火，四阿哥请求前去处理此事。晴川也打听到朱三太子的住处，带着八阿哥想趁此机会替皇上分忧，取得皇上信任。四阿哥抢先一步说服朱三太子同意他一起参加朋党聚会。晴川和八阿哥只能另想他法。足智多谋的晴川打起了朱三娘子的主意。两人在危急时刻帮助朱三夫人接生，博得了朱三夫人的信任，及时出面制止了朱三太子及其朋党与四阿哥的打斗揭发了假朱三太子的真名目，并说服余党解甲归田平息了叛乱。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2692</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E21_-_第_21_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

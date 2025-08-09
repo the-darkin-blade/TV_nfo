@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 17 集</title>
+  <originaltitle>第 17 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662259</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>八阿哥查明了金枝的身份，假借乞巧节请来了金枝生母生前的戏班子进宫唱小曲给皇上。八阿哥出演恫吓金枝，金枝吓得跪在皇上面前就要认罪。四阿哥听见李德全来报，急中生智爬上屋梁救起顽皮的十九阿哥，假意跌落摔伤了腿，金枝没来得及说出口，皇上已经匆匆忙忙离开去看四阿哥。晴川被打渔的打捞上岸，却被梦仙居的老鸨发现带回了梦仙居。老鸨逼晴川接客，晴川不从被绑在柱子上。晴川急中生智请楼里的过气老姑娘紫烟帮忙说好话并承诺让她再次红起来。晴川帮助紫烟设计了新颖的灯光和舞台，为她开办了一次成功的个人演唱会，令紫烟再次大红大紫，从此晴川在青楼过上了经纪人的生涯。为了拿到犯错的证据，四阿哥伙同太监总管李德全更换了太子宫所有的太监和宫女，素言顺理成章的进了太子宫。太子挂念晴川的安危私自出宫去见她，却被李德全知道了报告给皇上。太监总管李德全的干儿子小顺子为了帮禧嫔娘娘重得皇上宠幸，不惜偷换各位娘娘的名牌，被皇上发现责罚，小顺子向李德全供出了自己和禧嫔娘娘的关系。八阿哥知道隆科多在等刚刚康复的四阿哥，故意引走了隆科多，四阿哥误以为隆科多已经背叛了自己。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2701</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E17_-_第_17_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 29 集</title>
+  <originaltitle>第 29 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662278</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>晴川被十三阿哥软禁了起来，在八阿哥成亲当日，晴川从看护中跑了出来，看到迎亲队伍，晴川呼喊着八阿哥，但却被及时赶到的十三阿哥阻止，并又把晴川抓了回去。八阿哥成婚当晚，在新房里八阿哥发现在他面前的这个晴川的身上气味和言行举止与自己以前认识的晴川一点都不同，这让八阿哥意识到这里面可能出了问题。于是八阿哥把这种感觉和疑惑告诉了额娘良妃，而良妃认为是女人在出嫁前后应有的变化，还劝说八阿哥不要多心，但八阿哥还是在结婚当晚睡在了书房。良妃的试探并没起到什么作用，但八阿哥还是怀疑这他晴川，他发现了有太监跟踪他。得知是假晴川派人在监视他的一举一动，八阿哥带着晴川在街上询问民情，假晴川被人叫“花影”，花影说他并不认识此人。这让八阿哥更加疑心她的身份。康熙皇上决定带八阿哥去祭祖，假晴川吧这个消息透露给十三阿哥，十三阿哥认为皇上要册立八阿哥为太子了，于是决定孤注一掷刺杀皇上和八阿哥。十三阿哥让四福晋金枝偷出四阿哥的令牌，命令年羹尧在祭祖路上埋伏，但最后刺杀失败。原来是花影不甘心十三阿哥只给自己一些钱，她想如果八阿哥做了皇上她就是皇后了，于是她就把十三阿哥给出卖了。八阿哥的提前准备让皇上和他免遭刺杀，刺客被带回来后死活不招认。花影用计逼迫刺客说出幕后指使，金枝将偷令牌的事儿告诉了四阿哥。四阿哥一家被宗人府抓走，十三阿哥到皇上面前把罪责都揽到自己身上，最后十三阿哥被皇上圈入宗仁府，遭到终身监禁。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2698</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E29_-_第_29_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

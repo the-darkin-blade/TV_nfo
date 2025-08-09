@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>张晓被逼当奸细</title>
+  <originaltitle>张晓被逼当奸细</originaltitle>
+  <showtitle>步步惊情</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5481424</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>杰克派张晓去搜集Z&amp;X公司新品发布会的商业情报，并让她与黄棣合作一起去。张晓和黄棣去Z&amp;X公司搜集布展情报，二人被发现欲离开时黄棣却被撞倒在地。张晓惊讶地发现自己从展馆拉出来的人竟然是黑猫警长康司瀚，康司瀚为了让张晓给老板交差，他竟然主动提供商业情报给张晓。殷正看了张晓搜集到的资料破然大怒，而张晓的解释更让两人之间的矛盾加剧。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2732</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊情-S01E06.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

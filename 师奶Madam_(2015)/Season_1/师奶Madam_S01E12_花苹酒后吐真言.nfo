@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>花苹酒后吐真言</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>师奶Madam</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3191067</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>汉斯与丹丹及伶俐到快餐店食早餐，汉斯嘴角沾了酱汁，丹丹想替他抹拭之际，汉斯对她所为视若无睹；被丈夫冷待的丹丹只得暗自神伤。花苹发现名牌袋大减价，竟不理正隆指示暗地留起报纸广告。花苹看见伶俐闷闷不乐，终得知她是害怕爸妈离婚。花苹得知自己令汉斯一家家变心感自责，希望出手助修好，但大树却着她别感情用事。花苹将艳照令丹丹家变一事告之凤妮及怜香，发现原来她们早已知道丹丹借下贵利一事；于是花苹托她们帮手实行令汉斯与丹丹和好的计划。
+
+众人合力　修补关系
+
+凤妮与怜香相约丹丹通宵于名店开仓门外排队买名牌袋，花苹与伶俐则合作制造家中麻烦事，刻意让汉斯处理；但想不到汉斯无论熨校裙、缝补破袜都头头是道。汉斯发现未接来电，重听口讯之际获悉原来老爸跌倒入院。汉斯急忙赶往医院后，发现丹丹已到达，并不怕老爸发脾气而妥善地照顾他，心中不禁开始软化。快回家时，汉斯与丹丹发现有高利贷出现追债，汉斯立时挡在丹丹前面并说会负责还债，二人终和好。
+
+花苹得知　大树协助
+
+正隆伪装露宿者，在街头与花苹及大树会面，还慨叹自己要习惯露宿生活，花苹得知原来是大树暗中安排令丹丹及汉斯和好。花苹为答谢大树帮忙，邀请他吃夜宵，二人关系改善；花苹更喝得酩酊大醉，需由大树掺扶回家。花苹回到家醉语道出自己辛酸的过去，大树不禁起了怜惜之心。花苹忽然两眼张开，突然接近到大树前面；大树洗澡完毕，发现醉后的花苹要卸妆，于是大树没好气地给她画一个大花脸作弄地。
+
+离港升学　心感忧虑
+
+大喆在房内与网友IRON MAN倾诉将到澳洲升学的不安，得其鼓励后，开始突破心理关口。大喆到怜香房，怜香听到儿子要去英文会话班，欢喜若狂。朱妈心情低落，正听着自己唱的&lt;幽媾&gt;，可惜录音带忽然走音坏掉；凤妮小心帮忙拿出录音带之际，岂料磁带竟断开两截，朱妈为之气结，斥责凤妮。
+
+胡蝶得知　飘红身分
+
+朱妈到古董精品店希望买回录音带，刚刚胡蝶手上拿着&lt;幽媾&gt;的录音带正在考虑是否购买，一听朱妈要买便先付款买下。之后胡蝶与老板茶聚，从他口中才得知原来朱妈就是自己一直想找的粤曲高手飘红。凤妮找来家伦修复录音带，听见家伦有办法可将录音带修好，终于放下心头大石。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2691</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E12.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

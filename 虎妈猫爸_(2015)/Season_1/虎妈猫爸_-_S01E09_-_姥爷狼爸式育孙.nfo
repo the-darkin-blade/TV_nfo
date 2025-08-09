@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:19:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>姥爷狼爸式育孙</title>
+  <originaltitle>姥爷狼爸式育孙</originaltitle>
+  <showtitle>虎妈猫爸</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1085652</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>毕胜男在家给孩子备课，罗素以去美术馆看展览的名义，带茜茜去奶奶家改善伙食。在奶奶家大鱼大肉之后，茜茜晚饭更不愿意吃蔬菜了，赌气摔筷子。毕胜男立即明白罗素给孩子开小灶了，怪他跟自己唱反调。罗素则认为毕胜男小题大作、专制霸道，一气之下离家出走。茜茜哭闹不止，更说出了自己对妈妈的厌恶，毕胜男备受打击，出门散心，却被黄俐撞见再遭奚落。罗素看到自己和初恋唐琳的照片，感慨万千。毕胜男带着茜茜去找钢琴老师，钢琴老师说茜茜的手的条件不适合弹钢琴，但是毕胜男坚持让她去上钢琴课。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <studio>Tianjin Television</studio>
+  <dateadded>2025-08-06 18:19:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2713</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>虎妈猫爸S01E09.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

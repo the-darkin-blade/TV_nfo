@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:19:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>毕胜男和黄俐和好</title>
+  <originaltitle>毕胜男和黄俐和好</originaltitle>
+  <showtitle>虎妈猫爸</showtitle>
+  <season>1</season>
+  <episode>44</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1085698</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>毕胜男来到杜峰办公室门口听到又在骂下属，原来是推销方案到现在还没有写好，杜峰这时才知道人才是多么重要，毕胜男就向他推荐了黄俐，她想要帮她一把。黄俐没想到毕胜男居然敢将一大笔资金交给她使用，她哭着问凭什么相信自己，毕胜男说就凭你现在是一个母亲，黄俐听了之后哭了起来。罗素给茜茜打电话，说自己工作遇到了困难不知道怎么办，毕胜男就在一旁指导他，罗素挂完电话很开心，第二天，就像变了一个人，很顺利的就将工作上的事给解决了。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <studio>Tianjin Television</studio>
+  <dateadded>2025-08-06 18:19:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2756</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>虎妈猫爸S01E44.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="44" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

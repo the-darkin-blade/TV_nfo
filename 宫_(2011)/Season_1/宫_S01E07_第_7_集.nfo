@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 7 集</title>
+  <originaltitle>第 7 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662248</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小春想帮晴川出宫，但晴川念及四阿哥拒绝了小春，不料在返回的路上高烧昏迷，被小春送回乾西四所。素言见晴川高烧不退，去找太医，太医不理素言。素言闯入储秀宫想求僖嫔帮忙，正巧八阿哥前来向僖嫔讨要晴川。八阿哥听闻晴川高烧的消息大怒，被僖嫔看出八阿哥对晴川的感情，想要利用晴川来让八阿哥成为她的依靠。在储秀宫中晴川和八阿哥的打闹，又被僖嫔看见，僖嫔更加确定她要利用晴川的想法，来为自己的将来压一个筹码，僖嫔利用八阿哥对晴川的感情，只要八阿哥越在乎她，八阿哥就会越向僖嫔靠拢。为了晴川的生死，八阿哥决定与僖嫔联手。四阿哥去探望德妃时，听闻皇上喜爱苏茉儿的糕点，便想出让素言借此靠近康熙的想法。四阿哥与素言会面时被金枝看见，金枝便想跟着四阿哥前去狩猎。南苑狩猎，僖嫔将晴川打扮，让晴川送八阿哥一件贴身之物，不想八阿哥却亲了晴川，晴川不想被四阿哥误会，就马上向他解释，却不料得到的确是四阿哥的冷言冷语。晴川生气地跑到湖边，小春匆忙追上，又提出带晴川出宫念头，却被晴川拒绝。看晴川被八阿哥伤害，他决定帮助晴川。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2703</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E07_-_第_7_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

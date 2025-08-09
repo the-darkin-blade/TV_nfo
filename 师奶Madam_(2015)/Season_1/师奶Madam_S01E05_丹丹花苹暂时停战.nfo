@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>丹丹花苹暂时停战</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>师奶Madam</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3191059</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小丸子和大树大清早在看电视重播球赛，花苹被二人兴奋欢呼声吵醒不禁抱怨，大树讥讽花苹貌似熊猫。大树提议花苹如闲着可接小丸子放学，花苹勉为其难答应。丹丹、怜香与凤妮在快餐店闲谈，三人各有烦恼却未敢直言；大树和花苹、小丸子走入，小丸子告诉四女留宿大树家，四人故意向其探问有否顺手牵羊招人话柄。大树看出花苹心中欲出言反驳，遂说笑打圆场。小丸子取下大量调味包说是给妈妈的，花苹教训指此举如同偷窃，丹丹听到即开腔维护小丸子，二人再起争执；大树挡在二人中间，迅速拉花苹离开。
+
+命令家伦　调查凤妮
+
+丹丹和怜香再到温斌家门外欲以鱼竿钓回遥控车等物件，未料行动再次失败。花苹藉口到美容店探望凤妮，趁她照料客人之际欲查看手机内的电话，突然家伦出现。花苹和家伦在女厕内交换情报，家伦指凤妮不可能牵涉案件，花苹不同意更命家伦藉故接近协助查探，家伦感被重视答应全力以赴。罗帛碰见家伦和花苹从女厕走出即上前查问，花苹忙加解释，又不断称赞罗帛领导有方，令他大感飘飘然。
+
+花苹出手　对付色魔
+
+罗帛带路陪花苹前往学校，途中罗帛驱赶在商场跳舞的童党，却被报复按停电梯令其失足跌下受伤。花苹和家伦扶罗帛返回保安室，花苹想起错过小丸子放学的时间大惊。大树斥骂花苹，花苹却未敢说出原因。花苹向威叔查问曾否看见小丸子，却见大堂贴上的色魔告示，众人担心小丸子是否被色魔拐走，丹丹即托梅姨发短讯向街坊查问，再分头按情报追踪；丹丹与花苹更同意暂时放下私人恩怨。  小丸子被四眼色魔挟走，小丸子反抗不愿再走，色魔遂亮出小刀威吓，突然花苹和丹丹吵骂走至，更拉着四眼色魔要其评理，四眼色魔勃然大怒驱赶二人，丹丹乘乱拉小丸子走开，花苹则与色魔纠缠起来，色魔正要向花苹袭击，大树及时出现。威叔绘影绘声重述大树对付色魔一幕，各人称赞丹丹足智多谋，但丹丹却抱怨花苹师姐上身险累事。
+
+大树撬门　闯入温家
+
+小丸子和母亲来到向众人致谢，大树提醒不应将小丸子独留家中，众师奶提出可随时协助照顾，丸妈甚是感激。正隆约大树和花苹训斥不应多管闲事，大树提出难忍和花苹同居，正隆却指二人只要尽快破案便可早日各行各路。花苹向怜香透露多次听到温斌家中传出声响，怜香大惊急忙找丹丹商量。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2694</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E05.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

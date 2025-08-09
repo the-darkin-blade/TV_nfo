@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:19:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>毕胜男与罗家起争执</title>
+  <originaltitle>毕胜男与罗家起争执</originaltitle>
+  <showtitle>虎妈猫爸</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1085664</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>罗丹给茜茜介绍酒杯的类型，想让茜茜喝点果酒。奶奶带着茜茜走开了，有人告诉罗丹子峰在美国有人了，孙雅娴也听到了，很震惊。没有人看着的茜茜一个人拿着吸管在一边喝酒，罗丹和孙雅娴找到茜茜时，茜茜已经烂醉如泥。毕胜男回到家中，发现茜茜居然喝醉了，生气地问罗丹为什么会让茜茜喝酒。毕胜男、罗丹和孙雅娴吵起来了，孙雅娴因为毕胜男的责怪回到了自己家，罗丹和罗素也跟着她回家了。罗三省说本就是孙雅娴的错，带着茜茜喝酒本就不对，罗丹为孙雅娴辩解，也被罗三省批评了。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <studio>Tianjin Television</studio>
+  <dateadded>2025-08-06 18:19:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2697</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>虎妈猫爸S01E20.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

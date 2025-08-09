@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 1 集</title>
+  <originaltitle>第 1 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662242</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>故宫游玩的旅行者晴川遇见正在拍摄电视剧的剧组拍摄雍正皇帝的戏，她看见剧组篡改历史，站出来试图指证剧组的错误，被剧组赶走。在一处阁楼却遇见了一位清宫后妃打扮的女子，让她赶紧回去，转过身来，竟然和自己长的一模一样，晴川顿时惊呆了，醒来一看，竟然是南柯一梦。晴川是历史系的学生，古董店的继承人。她不愿意与未婚夫林非凡订婚，林非凡的妈妈对她也很不满意。非凡和洛晴川的订婚典礼上，晴川忽然看见墙壁上面一副妃嫔画像，面貌竟然与自己十分相似。她正奇怪间，画像忽然被一阵风刮起，她追着画像，来到一处树林。图像落在一棵古树上，当晴川伸手揭下图像的一刹那，她感觉天旋地转，脚下一空，跌入时空隧道并穿越到清朝。热闹的京城大街正在举行花魁比赛，洛晴川穿着礼服高跟鞋带着MP3从天而降，在场的人都惊呆了。MP3里面传出的歌声，震惊了在场所有的观众，大家纷纷把手里的鲜花投给了洛晴川，晴川稀里糊涂的获得了花魁的称号。搞清楚自己已经回到了康熙四十七年的洛晴川顿时昏倒在舞台上。本来已经夺得花魁娘子称号的素言姑娘，因为洛晴川的到来而失去这个机会，深夜来到河边与四阿哥相会，为没有获得花魁娘子称号而惋惜不已。成为花魁娘子的洛晴川被稀里糊涂地抬上花轿，被带到了皇宫内，成为太子胤礽暖床娘。凭借丰富的历史知识，晴川知道此时黄河正发生水患。她急中生智，给太子出了主意，请求太子放过她。此时，皇上召见太子，正因监国的太子不知道黄河水灾发怒，太子胤礽按照洛晴川出的主意，编造谎言骗过了皇上。太子回来，对洛晴川更是深信不疑，奉晴川为仙姑。她决定留在太子身边，利用太子的身份，帮她寻找回到自己年代的方法。因为有洛晴川帮忙，太子连续帮皇上处理了好几件事情，深得皇上的赏识，太子对仙姑更加依赖。因为怕仙姑离去，太子的福晋给他出主意要太子娶晴川做侧福晋，太子为了保住太子的地位，决定娶晴川做自己的嫡福晋，无奈晴川只好收拾东西准备逃跑。素言为了做四阿哥在宫里的内应，假装戏子混进宫里，被晴川遇见。太子的福晋怀恨晴川，借机把她推到花园的池塘里，幸好八阿哥经过，跳进水里救出了她。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2694</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E01_-_第_1_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

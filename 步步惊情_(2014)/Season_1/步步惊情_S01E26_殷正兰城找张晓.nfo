@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:25:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>殷正兰城找张晓</title>
+  <originaltitle>殷正兰城找张晓</originaltitle>
+  <showtitle>步步惊情</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5481444</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>张晓独自回到老家，殷正连夜赶往兰城找张晓，他站在大雨中向张晓道歉并求原谅。司宇欲带着钱款去兰城救司瀚，铃铛和黄棣都舍不得司宇走。因想到殷正，司瀚在坟墓中复活，马伊诺将其救下。张晓希望殷正能放下仇恨，谁知殷正并不想放弃。乔助理前来找殷正，殷正被迫回集团处理要务。得知殷正已离开张晓悲伤不已，她随父亲搬了家。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1080</height>
+        <durationinseconds>2775</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊情-S01E26.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

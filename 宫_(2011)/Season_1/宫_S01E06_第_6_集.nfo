@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 6 集</title>
+  <originaltitle>第 6 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662247</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>隆科多对被封为雍亲王的四阿哥寄予厚望。四阿哥即将奉旨搬出宫去，临行前想好好看看自己出生长大的皇宫，又碰见了晴川。四阿哥夸赞晴川很漂亮，晴川心中暗喜。一方面，心莲和挽月又借四阿哥即将新婚之事刺激嘲笑晴川。四阿哥与金枝成亲，却因为金枝要他许诺只爱她一个人的要求而找借口离开。皇上对四阿哥赞赏有加，流露出立他为太子的意愿。德妃娘娘恳求皇上不要这么做，称不愿让他卷入宫中纷争，一边又却又称赞起自己另一个儿子十四阿哥。八阿哥将学来的温柔方法用在了冒犯自己的宫女身上，遭到九、十阿哥嘲笑。三人巧遇四阿哥和金枝，五人一起在花园内赏花。这一幕被晴川看到，感到与四阿哥间差距之大。晴川为僖嫔娘娘出主意，教她在皇上会经过的地方唱歌。僖嫔娘娘大喜，令晴川去宫外置办衣物，晴川却在尚衣间见到了顾小春。原来小春因自己的手艺被僖嫔娘娘看中，进宫给她做衣服。两人相见格外亲切。小春询问晴川在宫中的生活。晴川一时伤感，借小春的肩膀寻求安慰。没想到这一幕被八阿哥看到。八阿哥恼羞成怒，叫了一群人殴打小春。晴川得知后找八阿哥讨说法，醋意大发的八阿哥依然不依不饶。宫女在晴川带回的衣服上做手脚。当僖嫔娘娘唱歌时衣扣崩裂出了丑。僖嫔娘娘大怒，命人将顾小春重打一百大板。晴川为了救小春带他出逃，又遇见了四阿哥、金枝、八、九、十阿哥一行。四阿哥为两人说情，八阿哥愤愤不平地离开了。疑心重重的金枝为了试探晴川，故意问她愿不愿意嫁给四阿哥，晴川怕惹事，断然拒绝了。金枝又多次暗示宫女决不能有非分之想，意图攀上高枝。她的小心眼让四阿哥暗自不满，并将金枝打发回家。德妃娘娘监督负责分发糕点给六宫中人时，生病咳嗽的样子被晴川看到。晴川有心地在晚上送去了野蜂蜜，没有要求赏赐就走了，令德妃娘娘和翡翠有些动容。晴川从永和宫回来，遇见了四阿哥。晴川眼见着四阿哥心怀雄心壮志却又寂寞忧伤的背影，感慨万千而又心存疑惑。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E06_-_第_6_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

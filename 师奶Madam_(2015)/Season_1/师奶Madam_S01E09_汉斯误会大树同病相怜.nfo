@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>汉斯误会大树同病相怜</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>师奶Madam</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3191063</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>汉斯晚上回家看到形象大变的丹丹不禁惊讶，丹丹放软声线色诱汉斯，可是汉斯却以处理公事要妻子先休息，丹丹心感不悦却未有发作。家伦到美容店找凤妮，二人提起昔日在乡间的趣事甚是兴奋，朱妈刚巧看出窗外瞥见二人状似亲密不禁惊愕。朱妈质问凤妮和家伦的关系，更警告她别行差踏错。家伦得知凤妮撒谎感愕然，乘机探听其美容店开业资金来源，凤妮虚应借款人是家伦不认识的同乡，亦不愿勉强家伦协助撒谎，家伦不忍心拒绝终答应帮忙凤妮。
+
+介绍家伦　认识朱妈
+
+大树发现家伦原来暗中协助花苹查案，遂拉着他追问，家伦为表忠心，答应将调查所得率先通知大树。凤妮介绍朱妈认识家伦，朱妈有感家伦家庭背景相似，亦觉其心地善良，对其说话未有怀疑。汉斯因Rose来电藉口临时更改家庭日活动，丹丹深知汉斯说谎，心感不悦却未有发作。花苹接获丹丹来电通知怀疑汉斯和Rose约会，花苹提出跟踪搜集证据；大树讥讽花苹，花苹坚称协助丹丹捉奸可拉近彼此关系，对查案大有帮助。
+
+花苹会合丹丹、怜香和凤妮，训示各人把握跟踪要点，怜香不禁好奇花苹表现专业。当各人准备妥当正要出发，大树突然驱车前来，花苹感惊喜。花苹和众女分头跟踪，凤妮被街上的美容品宣传摊档吸引险失去汉斯影踪，丹丹却紧随汉斯至商场外；丹丹看到汉斯约见的正是Rose不禁气愤。看到二人竟到旅行社报名参加欧洲团欲上前大兴问罪，花苹截住指只有人赃并获才可令汉斯无从辩驳。汉斯和Rose到珠宝店买钻戒，丹丹看见怒不可遏，跟踪二人到餐厅看到汉斯下跪向Rose求婚，终忍不住上前质问。
+
+罗帛担心　儿子失恋
+
+听了汉斯的解释后，丹丹终于明白误会了丈夫；丹丹得悉丈夫的经理职衔原来只是表面风光不禁愕然，汉斯给丹丹送上钻戒，二人相拥冰释误会。吕芳探望罗帛后匆忙离去，罗帛紧随其后竟见Richard带着花束前来接载，只觉二人关系不只一般同事的简单。花苹跑步遇上心神恍惚的罗帛，罗帛倾诉担心大树可能面临失恋，更请花苹给予意见；花苹未为意力数大树的缺点，罗帛不禁好奇花苹何以如此清楚。
+
+花苹担心　大树撞邪
+
+罗帛约大树要他准备与女友庆祝周年纪念，大树接过父亲代为准备的节目清单不禁大嚷老土。大树和吕芳重温当年踏单车的温馨片段，吕芳看到大树献上像当年一样准备好的鲜花，不禁感动笑得甜蜜。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2689</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E09.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

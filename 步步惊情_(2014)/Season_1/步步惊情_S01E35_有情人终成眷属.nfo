@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:25:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>有情人终成眷属</title>
+  <originaltitle>有情人终成眷属</originaltitle>
+  <showtitle>步步惊情</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5481454</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>张晓因为帮伊诺输入大量的血液而陷入昏迷，司瀚认为是自己酿造了所有的悲剧，他决定投案自首，并拜托司宇照顾伊诺。殷正无罪出狱，他焦急跑向医院看望张晓。殷正和伊诺谈起近来发生的一些事，不料韩青突然出现。张晓准备出院却迟迟不见殷正露面，原来殷正是不愿让康复的张晓看到失明的自己。张晓跑出病房寻找殷正的踪影，原来她早已知道殷正已失明，两人互道心声紧紧拥抱在一起。张晓和殷正在博物馆相遇，二人深情亲吻。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊情-S01E35.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

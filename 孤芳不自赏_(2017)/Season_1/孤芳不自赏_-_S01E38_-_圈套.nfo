@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:03:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>圈套</title>
+  <originaltitle>圈套</originaltitle>
+  <showtitle>孤芳不自赏</showtitle>
+  <season>1</season>
+  <episode>38</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1260339</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>三更时分，正在打瞌睡的流寇被陷阱中传来的声响惊醒，但陷阱中只留下了一只绣花鞋。 流寇让猎狗闻了绣花鞋的味道，猎狗兴奋极了，向树林中窜去，一下子扑在溪水中拼命喝水，怎么也不肯走。 正在这时七套连环弩由近及远依次发射，制造了好像是有人边跑边射的感觉，引着流寇们越走越远，流寇们为了躲避箭弩，踏溪水而上，溪水透过鞋子浸泡了他们的脚，脚立即又痒又疼甚至溃烂。 一堆大男人这才知道他们中了白娉婷的圈套。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Croton Media</studio>
+  <dateadded>2025-08-06 17:31:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2732</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>孤芳不自赏 - S01e38 - 圈套__1920x1080__qsv_av1_10bit__28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="38" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

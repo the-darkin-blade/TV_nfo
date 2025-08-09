@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 10 集</title>
+  <originaltitle>第 10 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662251</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>晴川在皇上面前意欲洗脱与两位阿哥的关联，皇上认为图画中的地方就是晴川的蛊术的老巢，这时，宫外两位太子和很多宫女太监都来为晴川说情，皇上因为晴川竟然惊动这么多人为她求情大为光火，下令拉出晴川，明日午时施以火刑。太子和八阿哥看见晴川被拉出去，都冲动的要去营救晴川，德妃娘娘劝住了他们，并答应替晴川在皇上面前说情。八阿哥回到阿哥府和九阿哥十阿哥商量着如何救出晴川的命，并且表明宁愿失去阿哥的身份，也要带晴川一起天涯海角生活在一起。九阿哥拿出自己的神机营弓箭手的令牌，给八阿哥调用，三兄弟动情的拥抱在一起。午时一到，太监总管李德全下令点火，晴川被绑在火刑台上面，四周被点起了熊熊大火。危急时分八阿哥带着神机营的神箭手冲了进来，八阿哥冲上火刑台出手救下了晴川。两人正要离去，皇上与德妃娘娘一同驾到，原来德妃娘娘已经说服皇上放了晴川，皇上看见八阿哥竟然抗旨前来营救晴川，怒气冲冲的下令把八阿哥关进宗人府。晴川被皇上留在身边伺候自己，他想亲自了解晴川到底是什么样的一个姑娘，竟然跟自己的阿哥们有这么多的关联。太子想向皇上要回晴川，又怕皇上怪罪自己，决定先用功读书取得皇上的赏识。四阿哥借机换掉了太子幕僚们为他写的文章。晴川在乾清宫当差处处受人欺负，素言同情她前来看望她，被禧嫔娘娘责骂，德妃娘娘路过，救了她们两个。晴川又见德妃娘娘咳嗽，拿了药给德妃娘娘送去，却被德妃娘娘拒绝了。晴川就在德妃娘娘的宫门熬起了药，娘娘闻到药的味道觉得很舒服，于是出来观看，晴川却躲了起来。德妃娘娘看出是晴川前来送药，出言教导了几句，点醒晴川应该怎样得到皇上的信赖。晴川用自己的聪明才智为皇上做了个轮椅，获得了皇上的喜爱。太子在朝堂之上背诵了四阿哥为他准备的文章，引起皇上不满，皇上大怒，罚他抄写十遍《史记》。见太子如此不堪重任，皇上不免又想念八阿哥，于是去宗人府看望八阿哥。八阿哥在宗人府里聚众赌博，条件却很优厚：凡是宗人府的官兵赢了他的可以拿他一件东西，输了的却只要为他去帮晴川做事。八阿哥输得没了什么可输的了，众人开玩笑说他日如果八阿哥做了皇上，要赏赐他们做官，八阿哥豪情万丈的说：好，都做大官。此言恰好被前来探望八阿哥的皇上听见，皇上大怒，下令明日处死八阿哥……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2695</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E10_-_第_10_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

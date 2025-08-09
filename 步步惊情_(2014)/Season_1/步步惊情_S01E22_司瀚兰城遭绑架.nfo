@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:25:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>司瀚兰城遭绑架</title>
+  <originaltitle>司瀚兰城遭绑架</originaltitle>
+  <showtitle>步步惊情</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5481440</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>张晓无意中听到殷正打电话的内容，她决定查清楚婚礼上调换照片一事。张晓告诉黄棣她已找回了电击之前的记忆，黄棣警告张晓要远离殷正以避免伤害。有一家叫复仇的空壳公司不断买入震天集团抛出的股票，康震天让殷正调查此事。司瀚所带的提货订单被无良厂商偷走，他欲回兰城时却上了一辆黑车。司宇潜入殷正的电脑，他无意中看到了司瀚和张晓的照片。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1080</height>
+        <durationinseconds>2780</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊情-S01E22.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>国良死缠　国安阻止</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>谈情说案</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">757853</uniqueid>
+  <uniqueid default="false" type="tvrage">1065011924</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>国良要求小丽替他请景博出任专家证人，小丽以景博贵人事忙，不欲他为这些琐事操心而拒绝；国安看到弟弟仍不肯罢休缠绕妹妹，只得出言指责。因汉飞与秀娥外出，小丽与国安一家决定出外吃饭，顺便替翌日面试的家希打气；国安先行带儿子出外买甜品，这时小丽与彩嫦听到前方发生有人高空投掷镪水事件。
+
+小丽与彩嫦前往寻找国安与家希，却看到沿途伤者满布……
+
+景博协助　国良平反
+
+家希为考进温莎小学而进行面试，成绩一向优异的他在老师面前流利地以中、英、普通话对答；但在家长面试方面，当彩嫦与国安与院长对谈时，彩嫦竟吹嘘自己一家曾到世界各地旅游观光，而国安为掩饰自己当茶餐厅侍应身分，竟说自己是小老板……国安等回家后，彩嫦感叹如此努力却只获后补资格；在一旁冷眼旁观的汉飞却不以为言，更指孙子如此优秀实不必攀附名校……
+
+屡战屡败的国良终成功说服小丽代自己出面与景博商量自己的案件；为有机会见到景博而满心欢喜的小丽提早到达大学，景博却致电给她说需稍迟见面，小丽听后竟讹称自己仍在途中，要景博不用担心；但当景博趁空档到餐听买东西时，却看到小丽正襟危坐的坐在一角等候自己……小丽怒气冲冲地到达国良工作的生果店，一碰面便大骂兄长，原来国良早前已致电景博更被他拒绝……
+
+景博致电给小丽，说因会议改期，所以能见面讨论撞车案；小丽代过度兴奋的国良向景博说出撞车案件的经过，景博提议可以藉做实验来搜集资料，最后因国良有事，只得请小丽协助景博进行煞车实验。实验重覆了一整个晚上，当完成实验后，小丽建议疲惫不堪的景博在车中小睡一会才开车，以免引起危险；而小丽则在车旁守护着睡了的景博……
+
+另一方面，天恒等人以为拘捕了投掷镪水的嫌疑犯，最终却是空欢喜一场。
+
+景博平反　国良冤情
+
+景博成功将资料组合，更招待小丽与国良到大学一起参观撞车的模疑实验，之后景博在庭上解释，为何被撞乘客会感到被车连续撞击的理由。法官审视各项证据后，终判国良无罪；徐家决定邀请景博吃饭作报答，更选了一高级餐厅，而小丽为了配合场所，更特意购入晚装。
+
+可惜当天景博突然有事不能赴约，于是只得国良与小丽出发；两人在高级餐厅吃饭时感混身不自己，而两人更发现景博一家在远处出现……小丽觉得与景博身处于不同的世界，决定将心中的情意放下。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2686</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E06.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

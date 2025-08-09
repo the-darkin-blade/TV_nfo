@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>为确真相　追问家希</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>谈情说案</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">757858</uniqueid>
+  <uniqueid default="false" type="tvrage">1065011929</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小丽上班时众同事与上司突然向她敬礼祝贺；而当回到家时，家人又突然向小丽说出她中了六合彩头奖……原来这一切都是小丽的梦；因为没法相信前一天景博向自己示爱，于是小丽希望能在家希上学前问个清楚，但想不到每次想开口均有家人出现，令她只得使出最后一招，带家希上学去……小丽在公园向家希查问，终得知景博的求爱宣言及约会自己均属实；小丽虽兴奋不已，但要求家希替自己保守秘密。
+
+死后焚尸　混淆证据
+
+小丽盛装赴约，两人坐下对望时，小丽忍不住再问景博的心意，而景博竟以人体内的「苯氨基丙酸」浓度来解释自己为何恋上了小丽。饭后景博带小丽到山顶观赏夜景，更向她分享自己的生活点滴。当景博送小丽回家时，两人依依不舍话别后，景博终忍不住追上前吻别她……
+
+柏柱与小丽在调查室向消息人士追问资料，柏柱正为取不到相关资料而向对方大发雷霆之际，却发现小丽竟不断私下偷笑……众同事正讨论小丽最近为何如沐春风，天恒出现通知大家在锦田发现焦尸，当重案组到场调查后，发现死者甘大鹏是黑社会进兴社的小头目，主要的工作是贩卖走私红油。小丽与柏柱向反黑组的同僚询问大鹏是否因黑社会恩怨而遭杀害，但却发现他的两名仇人分别已死及坐监，而最新的消息反而是大鹏死前与一发型师江耀祖甚为投契；小丽等请耀祖回警署协助调查，他却指在案发当天正于酒吧看足球……小丽与柏柱继续四出调查，从大鹏的手下证实他的死应与江湖恩怨无关，而当他们向大鹏的头目坚成查问时，却打听到大鹏与耀祖竟是同性恋恋人；警方亦调查了大鹏使用八达通与信用卡的记录，证明大鹏遇害时耀祖确实在酒吧与一众球迷看足球。小丽与景博约会，小丽要求与景博到科学馆见识；景博带小丽去打边炉，更指自己是从天恒处打听到她的喜好，令小丽甜在心头。
+
+家希被屈　国良出头
+
+晚上小丽把外卖糖水送给兄长一家时，发现家希受伤，但国安说儿子只是不小心跌伤；但原来是家希在公园玩耍时被同学欺负而受伤。欺负家希的同学家长竟致电找彩嫦，指家希打伤她的儿子；彩嫦为息事宁人向对方道歉，但想不到对方表明将追究到底。原来该家长是家长会的会长，在她的投诉下，训导主任指家希打伤同学因此被罚记大过；国安为了让无辜的儿子振作，特买下游戏机送他。国良在球场看到家希独个儿打机，更从家希旧校的朋友口中，得知他被冤枉……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2689</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E11.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

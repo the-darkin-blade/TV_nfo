@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>怜香被斥感心碎</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>师奶Madam</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3191069</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>花苹被锁在窗花上，因挣扎导致手腕流血，但花苹终拆掉窗花，离开时在大堂遇见保安，保安发现她手扣连着窗花及手腕流血，竟误会此乃他们夫妻的情趣，只报笑回答。罗帛于闭路电视上看见怜香出现，大为兴奋但同时为花苹错信她而感不值；大树回到保安室与罗帛监视情况，发现目标车辆及人物出现。
+
+怜香到超市货仓，见水哥正将一箱箱的奶粉搬上手推车。大树发现花苹拿着窗花逃走，立刻追出阻止她。邢蓝下令采取行动，将怜香等带回警局调查；花苹想现身阻止但被大树拉回，劝其别暴露身分。怜香于警局录口供时，坚称自己只是劝水哥收手并没有参与其中，并说给水哥的留言可证明一切，想不到水哥却已将留言删除，要待联络电讯公司查证。
+
+为助怜香　取悦邢蓝
+
+花苹直觉认为怜香是无辜，极力争取释放她；邢蓝对花苹表示理解及关心花苹伤势，大树看在眼里觉不是味儿。花苹得知邢蓝曾于情报科工作，遂向他示好，请他助怜香解困；大树看在眼里，不禁怪责花苹为了怜香出卖自己。丹丹、汉斯与大喆到警局探望怜香，大喆误会怜香为钱犯法，冷言相向，令怜香伤心非常；后来终证实怜香无辜，大喆还将多年储下来的利是钱给予母亲。
+
+花苹受伤　大树照顾
+
+花苹与大树回到家中，花苹笨拙地欲装回窗花结果令手掌受伤；大树悉心为花苹包扎伤口，花苹大为感动。早上起床，大树来不及为花苹准备早餐，只给了她一个苹果；花苹想起当年大树原来亦曾赠她一个苹果，不禁感到甜丝丝。医院告知温晴，温斌正在抢救中，温晴慌忙到医院；看到正隆在病房，温晴故作可怜，让正隆自告奋勇替温斌抹身。
+
+发现纹身　成功解码
+
+抹身期间发现温斌背部有条码纹身；温晴凭纹身上的barcode号码，回家成功将USB记忆棒解密。大树买了叉鸡饭予花苹作午餐，却被嫌弃，大树见状遂与花苹到街市买菜准备晚餐；在街市被梅、兰碰见，赞他们二人恩爱非常。二人回家后共同制作晚餐，俨如真正的夫妻；甜蜜正浓之际，花苹收到邢蓝来电邀约晚饭，花苹答应出席；因她双手受伤难以化妆，大树只得出手替她化妆，花苹顺利应约，但大树自己却独自在家吃饭。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2689</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E14.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

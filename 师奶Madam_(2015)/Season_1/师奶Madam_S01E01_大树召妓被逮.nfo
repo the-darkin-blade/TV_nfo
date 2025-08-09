@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>大树召妓被逮</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>师奶Madam</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1506081</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>花苹（黄翠如饰）、熊丹丹（黄智雯饰）、苏凤妮（梁嘉琪饰）及刘怜香（简慕华饰）通宵轮候抢购大减价家品，花苹不敌被众师奶撞跌，猛然看到货架上镜中倒影，惊见自己披头散髻一副师奶模样……六个月前，花苹如常悉心装扮返回警署上班，在走廊上碰到暗恋对象邢蓝不禁兴奋不已。朱星、余春和纪安打赌花苹的是日装扮，高敏嗤之以鼻未愿参与。督察邬正隆（安德尊饰）要各人准备出外执行特别任务，高敏只觉花苹穿着短裙不便工作。花苹加穿长袜裤加入搜索，更带来爱犬Happy仔协助，终凭香水味嗅出藏尸车厢。
+
+胡蝶不满　花苹当差
+
+花苹穿戴高贵出席胡蝶和花琛的结婚纪念晚宴，亲友盛赞胡蝶和花苹美丽。亲友批评花苹的女警工作有欠斯文，花苹听到忍不住讥讽各人说三道四，胡蝶尴尬开脱指花苹负责文职工作不用犯险。长辈Joe展示网上播出花苹在废车场搜索尸体片段，胡蝶不满花苹刻意隐瞒工作感愤怒，重提只愿女儿成为大家闺秀。花苹晚上造恶梦，梦境中看到自己受伤被毁容，花苹惊醒对镜自言不会再重蹈覆辙。邢蓝赞赏花苹表现出色，提出再派执行扫黄行动，花苹踌躇满志的扬言必定全力以赴。
+
+单独放蛇　乌龙百出
+
+罗大树（萧正楠饰）和同僚麦家伦（张景淳饰）到公寓假扮嫖客放蛇，家伦心情紧张肚痛大作急于上厕，大树只好自行走入房中。温斌领着妓女到来，大树付款时亮出警员证，温斌大惊乘乱逃去，大树却被妓女拉着纠缠不休。花苹走入逮住大树，大树表明身分却被花苹大骂冒警，幸家伦及时来到澄清，花苹才惊觉眼前抓紧的竟是中学时仰慕的男同学，更忆起昔日亲耳听到大树曾背后揶揄她貌丑之事。大树到商场接父亲罗帛（李成昌饰）放工，罗帛接获地产经纪通知遂前往参观出售屋苑单位；大树提议买下单位，罗帛重提当年妻子花去买楼的款项，着大树娶妻求淑妇应珍惜和吕芳的感情。有恶客出言侮辱啤酒妹貌丑，大树和罗帛路见不平出口相助，却被啤酒妹的尊容吓了一跳。
+
+追捕温斌　遇上意外
+
+大树和家伦监视温斌，家伦紧张肚痛刚走开上厕，大树看到温斌踪影遂紧随跟踪。花苹和朋友菲购物后走在街上，却被温斌和大树经过身旁先后撞跌手袋；花苹喝停大树，却令温斌发现拔足逃跑。大树气极急忙追赶，花苹亦不顾一切征用途人的单车追截，未料结果令温斌跑出马路上被车撞倒昏迷入院。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2695</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E01.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

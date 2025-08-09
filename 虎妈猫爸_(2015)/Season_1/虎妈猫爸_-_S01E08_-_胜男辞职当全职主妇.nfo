@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:19:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>胜男辞职当全职主妇</title>
+  <originaltitle>胜男辞职当全职主妇</originaltitle>
+  <showtitle>虎妈猫爸</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1085651</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>毕胜男打电话抽查茜茜功课，出了几道数学题给她做，罗素在一旁帮忙作弊。罗素怕毕胜男发现茜茜其实并不会做这些题，拿手指给茜茜示范教她数数，茜茜都能数出来，罗素就放心了。毕胜男辛苦培养的骨干都被黄俐挖走，公关部周末上班，晚上工作到半夜，业绩超过市场部一半。毕胜男内心受气，等到晚上回家时，发现孩子还是什么都不会，不由得怒火中烧，茜茜躲了起来，毕胜男就装作打罗素，让茜茜出来。翌日上班，毕胜男刚到停车场，就看见被黄俐无理辞退的小赵在黄俐的车胎下摆钉子，被抓现行的小赵跟毕胜男大倒苦水。毕胜男帮着把车下的钉子拿出来，被黄俐看到。一回到办公室，毕胜男就被老板叫走，原来黄俐哭着跟老板告状说车胎是毕胜男扎破的，老板不由分说一顿痛斥，毕胜男愤然辞职。毕胜男哭着给罗素打电话告诉他她想辞职，罗素问她是不是压力太大了，让她要是真想辞职就辞。毕胜男辞职在家，财政重担全压在了罗素一人身上，爷爷奶奶虽不接受，但也拿她没办法，又有罗素在中间调停。毕胜男告诉罗素自己辞职是怕茜茜在这个残酷的社会变成懦弱的小赵或者世故的黄俐。毕胜男去办公室收拾东西，黄俐去嘲讽她，但毕胜男反而教训她，也拿黄俐故意耍小聪明拿残次品回扣的事威胁对方，逼她离职。毕胜男开始执行严格的虎式教育，茜茜除了需要学习传统的小学课程之外，还有绘画、音乐、每天长跑3000米，科目繁多。为了避免孩子受到坏榜样的影响，毕胜男也勒令毕然出去找工作，每天尽早回家，过点就不许进家门。经济虽然紧张，也坚持让孩子吃有机蔬菜，哪知茜茜毫不领情，毕胜男用强硬逼，罗素也愤然反抗起来。此时罗素的好友丁城告诉他初恋女友唐琳回国了，罗素忍不住偷偷看唐琳微博。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <studio>Tianjin Television</studio>
+  <dateadded>2025-08-06 18:19:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2755</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>虎妈猫爸S01E08.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

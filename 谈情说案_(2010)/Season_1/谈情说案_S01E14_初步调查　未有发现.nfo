@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>初步调查　未有发现</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>谈情说案</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">757861</uniqueid>
+  <uniqueid default="false" type="tvrage">1065011932</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>得到银行协助，小丽等人终查出善款中的千元大钞出处，更请了提取千元大钞的物主到警署调查；经调查该人应无可疑，而他更说出当中的千元大钞其实是用了偿还欠款给同公司的瑜伽导师黄志斌。天恒要求下属请志斌到警署问话，众人发现他非常合作，亦看不出有可疑之处。
+
+油麻地街坊合作社参加《欢乐满中华》的筹款活动比赛，身为合作社主席的汉飞带同众街坊在街上向人募捐，这时小丽出现……
+
+担任嘉宾　被指偷窃
+
+徐家众人在家中等候筹款最多的区域赛果，结果油麻地区以四千元之差胜过湾仔区，汉飞等人更将是次胜出归功于夹钱捐出五千元的小丽与景博；合作社众人被邀请到电视城参观及领取筹款最多的纪念奖。当众人兴高采烈地在电视台四处猎影留念时，竟被坐在房车中的景家众人看见……
+
+合作社众人等候参加节目，国良看见了平时到生果店购物的明星，于是误打误撞地跟随他进入了「贵宾化妆间」……
+
+因景致乃是次主办的慈善机构总理，于是她特意请慧珠担任颁奖嘉宾；汉飞与国安在嘉宾化妆间发现国良在内时，却刚好与景家众人遇上；看到景家众人的冷淡反应，汉飞只得没趣离开。但这时却有富太大叫失窃，更指国良偷去了价值五百万的钻石耳环。汉飞立即替儿子辩护，更指自己与景然一家是相识；但想不到是……在汉飞代表油麻地区领奖时，一向爽快正直的汉飞也忍不住借演词批评慧珠。
+
+节目结束后，景然一家被传媒追访有关「景博与合作社主席女儿约会」一事，慧珠更因此扭伤了脚；景博趁与小丽早餐时，为家人的事向小丽道歉，此时天恒出现更指要请景博协助……景博在炸弹预告的来电中，发现发言前有一秒的停顿，而当中隐藏着背景声音；景博分析炸弹残骸，看出当中的设计特色。凭着景博的分析，天恒把犯人锁定于近年曾在澳洲修读电机工程的人士身上。
+
+智斗狂徒　困难重重
+
+经过进一步调查，发现瑜伽导师志斌竟曾在澳洲就读电机工程；另一方面景博将录音声波交往美国麻省理工进行分析，得出重大发现。
+
+富豪高兆天的儿子俊霆因患病要进行大型手术，但正在医院等候的兆天，却突然收到电话，说医院藏有炸弹更勒索他十亿元。当志斌正沾沾自喜之际，警方突现出现在他的家门前……与警方驳火受伤醒来后的志斌，得知警方欲要求他提供拆弹方法后竟误导警方，幸被景博识破。景博欲以科学方法来辨证志斌说话的真伪，可惜无功而还。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E14.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

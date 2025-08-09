@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>为阻爆炸　费尽心力</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>谈情说案</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">757862</uniqueid>
+  <uniqueid default="false" type="tvrage">1065011933</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>发现志斌能控制自己情绪反应，众人变得一筹莫展，这时景博决定致电给大学的朋友。警方决定如无法把炸弹拆去，便在爆炸十分钟前将手术室的医护人员撤走；兆天得知警方的决定后，不禁担心儿子俊霆的安全而引致心绞痛……
+
+警方拆弹专家把炸弹拆开，但未决定应把红线抑或白线剪断以阻止爆炸。重案组众人再与志斌倾谈，希望说服他；另一方面，景博在另一房间尝试找出志斌说话的真伪……
+
+敏嘉回港　天恒担心
+
+事件解决后天恒再享受风流日子，但在某天与玩伴在家时，却突然收到敏嘉将回港的讯息。天恒与好友们在健身房边运动边欣赏美女之际，好友们却发现天恒看完美女反而更失落，不禁向他查问，原来天恒觉得敏嘉回来是要迫自己向她说出决定，而他却尚十分留恋现在的风流生活，但却又不想失去敏嘉……在敏嘉回来当天，天恒如常为她准备烛光与美酒，但想不到出现在自己眼前的敏嘉却是一面慌张……原来敏嘉突然回港，是为了寻找失踪了的男友Adrain；看到一向处变不惊的敏嘉竟为了男友而紧张不已，天恒心中暗暗不快。为了助敏嘉，天恒不惜私下邀请私家侦探调查Adrain的去向。
+
+正在驾车的天恒突然收到敏嘉的电话，原来她为了觅得男友行踪，欲闯进男友亲戚的居所，但却被保安员阻止，天恒只得赶到把她带走；在车上敏嘉突然接到Adrain的电话，看到敏嘉喜上眉梢的样子，天恒妒意暗现……看到敏嘉与Adrain相遇拥吻的场面后，悄悄离开的天恒竟没有归家，通宵驾车散心……景博向家人说今年可以留港度生日，提出希望家人能与徐家一起吃饭庆祝，景然与慧珠表面上没有反对，但慧珠私下为此感不满，景致得知后，主动说能帮助对付徐家众人。另一边厢，小丽亦要求家人参加景博的生日饭局，众人满面高兴的答允；但当小丽欢天喜地回房后，国良与汉飞等人却面色一沉……
+
+生日宴会　不欢而散
+
+徐家众人参加景博的生日宴，想不到景致竟请来景家的长辈景森一同出席；席间景森不断借意奚落徐家，令众人敢怒不敢言。当提到两家的关系时，景致趁机说出国安为了让家希入读温莎小学，而把祖传油画送出后取回之事，汉飞听后终忍不住当众发火，更率家人离开。汉飞回到家中，不禁指责国安因利忘义，却不慎触到小丽痛处，令小丽认为父亲指她贪慕虚荣……秀娥特意取热饮到房中给女儿，实则借机向小丽解释汉飞非常关心她，小丽听后不禁释然。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2682</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E15.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

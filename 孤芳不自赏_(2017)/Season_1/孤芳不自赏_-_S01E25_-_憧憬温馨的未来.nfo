@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:03:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>憧憬温馨的未来</title>
+  <originaltitle>憧憬温馨的未来</originaltitle>
+  <showtitle>孤芳不自赏</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1256360</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>冬去春来，白娉婷身体也好了很多，楚北捷计划等过完端午，横断山脉积雪融化，就带娉婷离开晋国，去往西域，离开这个纷繁的世界。 小两口像普通人一样憧憬着温馨的未来，白娉婷说想收藏天下兵书典籍，而楚北捷想要一堆孩子，白娉婷故意逗他，只懂得带兵打仗的他怎么赚钱养家糊口，自己打算抽空将父亲传给她的兵书写出来，不打仗也可以用来经商，商场如战场。 楚北捷笑白娉婷若去从商，定是个奸诈商人。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Croton Media</studio>
+  <dateadded>2025-08-06 17:31:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2784</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>孤芳不自赏 - S01e25 - 憧憬温馨的未来__1918x1080__qsv_av1_10bit__28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

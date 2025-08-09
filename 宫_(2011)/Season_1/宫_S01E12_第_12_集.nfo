@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 12 集</title>
+  <originaltitle>第 12 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662254</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>八阿哥被雨淋湿发起了高烧，晴川焦急的把她搂在怀里。清晨八阿哥醒转过来，发现两人抱在一起，晴川赶紧解释，这时太监们开门进来，晴川赶紧解释他们没有关系，八阿哥却不愿向奴才们解释。宫里的宫女和太监们见到晴川，都称呼她八福晋，令晴川惊慌失措。禧嫔娘娘送礼物给太子，太子不肯收纳，禧嫔娘娘怒火中烧。宫女心莲趁机献计给禧嫔娘娘说太子喜欢美色，要禧嫔娘娘把自己送给太子。禧嫔娘娘羞辱了心莲，把她们赶走了。心莲不服气，决定去太子府勾引太子，却被太子当场拒绝。太子拿出晴川的画像告诉她自己只喜欢她，心莲见到画像脱口喊出晴川的名字，并自称是晴川的好姐妹。太子大喜，让心莲替自己和晴川鸿雁传书。心莲告诉太子自己可以带她来见。太子答应了心莲开出的一切条件，心莲答应晚上带晴川来见太子。心莲准备了酒菜，假借庆祝生辰请晴川一起喝酒，借机灌醉了晴川，并把她带到了太子府。心莲拿出事前准备好的契约要太子签字，太子签了字，却被晴川吐出的污物弄脏了。晴川醒来发现自己躺在太子身边，大惊失色，以为自己和太子发生了什么事情。她想起是心莲陷害自己，追出去找心莲算账。八阿哥迎面赶来给晴川亲自去佛堂求来的檀香佛珠。晴川因为太子的事情，怕八阿哥记恨自己，一时之间不觉战战兢兢。宁寿宫的老太妃过世，老太妃生前希望找几位八旗女子自愿到灵前为她守灵，皇上命内务府去办理。太子在皇上面前看见晴川，交给晴川一张字条，约她去御花园见面。晴川诚惶诚恐的去见太子，八阿哥远远看见晴川，从后面跟了过来。晴川质问太子有没有玷污她，太子否认了。八阿哥赶到，正巧看见太子手搭在晴川肩头，八阿哥告诉太子晴川是他的女人，不要招惹晴川，否则不讲兄弟情分。晴川却否认自己与八阿哥的关系，并匆匆离去。八阿哥很光火晴川的所作所为，更加认为她是因为心虚才跑的那么快。八阿哥看见了老嬷嬷拿着晴川的衣服出来洗，一时间怒火攻心，九阿哥不忍心看见八阿哥这样，派人给晴川验身。八阿哥怕晴川受到伤害，及时赶到，并在心中许诺晴川不会再发生这样的事。太子向德妃提出娶晴川，并告诫八阿哥离晴川远点，哪知八阿哥对太子大打出手。素言去见四阿哥，却无意间发现德妃要翡翠用玉露糕毒死晴川，急忙赶去阻止。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2694</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E12_-_第_12_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 17:51:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>博史教世友求婚</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>法证先锋3</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1828858</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>被悬挂着的Cindy尸体终被移下，由学心即场作初部检验；警方发现屋内并无被搜掠的痕迹，而Cindy亦在电脑上打下一封遗书记下自杀的原因。学心证实Cindy是窒息致死，但头上却有着两条深浅不同的勒痕重叠着，需要再作详细研究。
+
+世友惊闻Cindy死讯后内疚不已，学心惟有陪伴在侧好言安慰。世友自责自己冲动行事，而令Bowie夫妇无辜惨死，学心明白世友需要跨过这阴影，世友对她的支持感动不已。
+
+Cindy证实　被人谋杀
+
+国栋凭一张保鲜纸的检验结果，怀疑Bowie把多年前杀人的凶器收藏起来；卓君从电脑套取的指纹残缺不全，亦怀疑遗书不是Cindy亲手打入电脑内。学心向法证及警方展示验尸结果，亦与助手重新示范Cindy颈上的伤痕是如何做成，各人认为Cindy应是遭人谋杀。
+
+展风与康赞凭法证部所提供的线索，到一奖座店调查，两人从老板口中得知该店年前曾替「香港学界攀石学会」制作一奖座，两人发现新线索大感兴奋。
+
+抽丝剥茧　拘捕犯人
+
+倩儿与展风赶往健身中心欲将Alex拘捕，Michelle见倩儿指控Alex杀人，即主动维护着他，而Alex亦否认杀害Cindy与Bowie。倩儿突然收到新的线报，决定将要拘捕的疑犯由Alex转为Michelle。
+
+Michelle被带走时突然身体不适，Alex见状大表担心；倩儿向Michelle多番盘问，但Michelle只是一脸惊恐却不作回答，更要求要有律师在旁才接受问话。
+
+自认杀人　疑点重重
+
+倩儿与展风被Michelle耍得团团转仍不能正式开始录口供，此时Alex竟偕律师到警署自首，令众人大感惊讶。Alex将杀死Jay、Bowie与Cindy三人的罪行全部招认，警方即带Alex回案发现场重演杀人经过。学心从Alex的说话中发现疑点重重，而国栋指真凶并非Alex而是另有其人。Michelle得悉Alex自首后即要求释放自己，倩儿与她闲话家常时指Michelle已有身孕，欲派同事陪她到医院检查。
+
+博史通知　世友求婚
+
+康赞突然向倩儿报告Alex畏罪自杀，众人大感愕然；世友得到国栋与学心帮助，终查出弟弟当年被害的真相，向两人由衷致谢。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered>2011-11-08</premiered>
+  <aired>2011-11-08</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <credits tmdbid="2066303">陈静仪</credits>
+  <credits tmdbid="1069020">蔡婷婷</credits>
+  <director tmdbid="2064565">梅小青</director>
+  <actor>
+    <name>黎耀祥</name>
+    <role>Po Kwok Tung (Jack / Pro Sir)</role>
+    <profile>https://www.themoviedb.org/person/123654</profile>
+    <tmdbid>123654</tmdbid>
+  </actor>
+  <actor>
+    <name>张可颐</name>
+    <role>Chung Hok Sum (Mandy)</role>
+    <profile>https://www.themoviedb.org/person/125882</profile>
+    <tmdbid>125882</tmdbid>
+  </actor>
+  <actor>
+    <name>徐子珊</name>
+    <role>Ling Sin Yee (Ada)</role>
+    <profile>https://www.themoviedb.org/person/131256</profile>
+    <tmdbid>131256</tmdbid>
+  </actor>
+  <actor>
+    <name>吴卓羲</name>
+    <role>Lee Chin Fung (Wind)</role>
+    <profile>https://www.themoviedb.org/person/1222249</profile>
+    <tmdbid>1222249</tmdbid>
+  </actor>
+  <actor>
+    <name>胡定欣</name>
+    <role>Chow Yik Fei (Eva)</role>
+    <profile>https://www.themoviedb.org/person/1234856</profile>
+    <tmdbid>1234856</tmdbid>
+  </actor>
+  <actor>
+    <name>陈茵媺</name>
+    <role>Chiang Cheuk Kwan (Angel)</role>
+    <profile>https://www.themoviedb.org/person/1566076</profile>
+    <tmdbid>1566076</tmdbid>
+  </actor>
+  <actor>
+    <name>萧正楠</name>
+    <role>Ho Ching Man (Ken)</role>
+    <profile>https://www.themoviedb.org/person/1059226</profile>
+    <tmdbid>1059226</tmdbid>
+  </actor>
+  <actor>
+    <name>蒋志光</name>
+    <role>Yau Kin Po (Paul)</role>
+    <profile>https://www.themoviedb.org/person/1083956</profile>
+    <tmdbid>1083956</tmdbid>
+  </actor>
+  <actor>
+    <name>黄子雄</name>
+    <role>Jason Ko</role>
+    <profile>https://www.themoviedb.org/person/1175765</profile>
+    <tmdbid>1175765</tmdbid>
+  </actor>
+  <actor>
+    <name>元华</name>
+    <role>Po Shun Hing</role>
+    <profile>https://www.themoviedb.org/person/57609</profile>
+    <tmdbid>57609</tmdbid>
+  </actor>
+  <actor>
+    <name>韩马利</name>
+    <role>Cheung Fung Ping</role>
+    <profile>https://www.themoviedb.org/person/2349758</profile>
+    <tmdbid>2349758</tmdbid>
+  </actor>
+  <actor>
+    <name>汤盈盈</name>
+    <role>Rebecca</role>
+    <profile>https://www.themoviedb.org/person/125775</profile>
+    <tmdbid>125775</tmdbid>
+  </actor>
+  <actor>
+    <name>陈展鹏</name>
+    <role>Fong Sai Yau (Jim)</role>
+    <profile>https://www.themoviedb.org/person/1238985</profile>
+    <tmdbid>1238985</tmdbid>
+  </actor>
+  <actor>
+    <name>黄祥兴</name>
+    <role>Alex</role>
+    <profile>https://www.themoviedb.org/person/2071064</profile>
+    <type>GuestStar</type>
+    <tmdbid>2071064</tmdbid>
+  </actor>
+  <actor>
+    <name>高钧贤</name>
+    <role>Bowie</role>
+    <profile>https://www.themoviedb.org/person/1240854</profile>
+    <type>GuestStar</type>
+    <tmdbid>1240854</tmdbid>
+  </actor>
+  <actor>
+    <name>唐诗咏</name>
+    <role>Michelle</role>
+    <profile>https://www.themoviedb.org/person/1237978</profile>
+    <type>GuestStar</type>
+    <tmdbid>1237978</tmdbid>
+  </actor>
+  <dateadded>2025-08-06 17:31:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2679</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>法证先锋3 - S01e20 - 博史教世友求婚__1920x1080__qsv_av1_10bit__28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

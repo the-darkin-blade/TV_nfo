@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>死者家人　出现伸冤</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>谈情说案</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">757856</uniqueid>
+  <uniqueid default="false" type="tvrage">1065011927</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>重案组正协助小丽完成军亮死亡的事件报告时，军亮的家人到重案组哭诉，说儿子应是被人害死；军亮父母指在案发现场写着儿子名字的批命书，内容并不属实……柏柱与小丽寻找写批命书的「神机子」周雄；周雄看罢批命书后，说当中的内容确是他亲笔所书，但却发觉批示内容却并不是军亮本人，更推断可能是自己的儿子把错误的批命书钉装……小丽与柏柱随周雄回家，却发现周雄竟就是军亮好友周世瑜的父亲……
+
+小丽成为　拔河教练
+
+早上徐家众人齐集在祖先画像前，原来这天是国安的小食店开张，并同时是家希转校的首天，徐家两老向一大一小派利是送金牌打气，整家气氛融洽。特意调假到小食店协助兄长的小丽，把一箱箱的支装水送到正练习拔河的物理系学生集合处；原来大学的物理学系与工商管理学系每年均会举办拔河大赛，但自这活动开始以来，物理学系的学生从来未胜出过。小丽看见景博努力鼓励没有拼劲学生练习，不禁替他着紧……
+
+小丽看不过眼，在学生前一展实力，终成为物理学系学生拔河大赛的教练。有人在元朗某偏僻地点举行法事之际，竟在地下掘出一个藏有子弹及工具的气密保存箱；重案组发现箱中的指纹是属于周世瑜，于是欲到周家请他协助调查，想不到周雄说儿子竟染上了汉他病的病毒。天恒等人往医院欲找世瑜问话，但想不到得知自己生命将快要消逝的世瑜，竟主动向天恒等招认自己杀人。
+
+虽然世瑜在死前认罪，但仍无法解释为何他能「遥距」谋杀军亮，于是天恒只得请景博协助，与他到案发现场及周家调查。经过了景博的调查与实验后，这天景博请天恒与小丽到实验室，向他们示范「密室杀人」的玄机……
+
+另一方面在小丽的教导下，物理学系终打破每战必败的传统，第一次胜出拔河比赛。但当物理学系众人在小食店庆功之际，副院长突然出现请景博与院长见面。
+
+被指作假　景博蒙冤
+
+原来有人投信到世界着名的科学杂志，指出景博早前刊登发现新粒子的理论是作假；而该杂志证实此事后，联络景博的大学要求他作出解释。景博想不透为何实验竟会出错，这时他的助手直认为了私怨而陷害他……家人得知景博有机会名誉扫地，仍全力支持他努力挽回声誉。只得一个月作解释的景博，正苦恼不已的时候，却收到了小丽自电脑传来的讯息……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2681</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E09.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

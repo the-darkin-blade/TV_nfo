@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:03:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>再次相助</title>
+  <originaltitle>再次相助</originaltitle>
+  <showtitle>孤芳不自赏</showtitle>
+  <season>1</season>
+  <episode>54</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1265465</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>若韩将自己这边的情况和部署毫无保留的告诉白娉婷，请娉婷再次相助，白娉婷向若韩提了一个要求，他们所有的人必须听从一个人的指挥，这个人就是楚北捷。 娉婷唤出楚北捷，眼看着昔日敌国的战神就这么活生生的站在自己的面前，若韩百感交集，但他知道当今世上，只有楚北捷能与何侠抗衡，因此他心甘情愿地投入在楚北捷麾下。 在若韩的陪同下，楚北捷和白娉婷来到江铃城所有将士的面前，鼓舞大家为了自己爱的人而流血，江铃古城的将士们欢呼着楚北捷的名字。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Croton Media</studio>
+  <dateadded>2025-08-06 17:31:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2740</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>孤芳不自赏 - S01e54 - 再次相助__1920x1080__qsv_av1_10bit__28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="54" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

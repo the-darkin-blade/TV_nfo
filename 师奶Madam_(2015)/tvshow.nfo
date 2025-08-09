@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>师奶Madam</title>
+  <originaltitle>師奶MADAM</originaltitle>
+  <showtitle>师奶Madam</showtitle>
+  <sorttitle/>
+  <year>2015</year>
+  <top250>0</top250>
+  <ratings/>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>花苹（黄翠茹 饰）是一名警察，曾经，她因为丑陋的外貌而饱受欺凌，一次意外中，她面部受伤，需要接受整形手术，如此一来获得了如花的美貌，人生因此开启了新的篇章，这让花苹更加坚信美貌决定命运。偶然中，花苹邂逅了曾经的暗恋对象罗大树（萧正楠 饰），后者并没有认出早已经改头换面的花苹，与此同时，悲惨的童年经历让罗大树对整容有着深深的成见。  　　一次任务中，花苹需要和警草邢蓝（黄子恒 饰）假扮夫妻打入“师奶圈”套取破案线索，哪知道刑蓝意外受伤，罗大树顶替了他的位置。就这样，花苹和罗大树开始了他们的“婚姻生涯”，在打打闹闹跌跌撞撞之中，一对欢喜冤家情愫渐生。</plot>
+  <tagline/>
+  <runtime>40</runtime>
+  <mpaa>NR</mpaa>
+  <certification>NR</certification>
+  <episodeguide>{"tmdb":"80181","wikidata":"Q15920334","tvdb":"290471"}</episodeguide>
+  <id>290471</id>
+  <imdbid/>
+  <tmdbid>80181</tmdbid>
+  <uniqueid default="false" type="tmdb">80181</uniqueid>
+  <uniqueid default="false" type="wikidata">Q15920334</uniqueid>
+  <uniqueid default="true" type="tvdb">290471</uniqueid>
+  <premiered>2015-01-12</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Comedy</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <tag>plastic surgery</tag>
+  <tag>undercover cop</tag>
+  <tag>policewoman</tag>
+  <actor>
+    <name>黄翠如</name>
+    <role>Fa Ping (Apple)</role>
+    <profile>https://www.themoviedb.org/person/227741</profile>
+    <tmdbid>227741</tmdbid>
+  </actor>
+  <actor>
+    <name>萧正楠</name>
+    <role>Law Dai-Shu</role>
+    <profile>https://www.themoviedb.org/person/1059226</profile>
+    <tmdbid>1059226</tmdbid>
+  </actor>
+  <actor>
+    <name>黄智雯</name>
+    <role>Hung Dan-Dan</role>
+    <profile>https://www.themoviedb.org/person/1255464</profile>
+    <tmdbid>1255464</tmdbid>
+  </actor>
+  <actor>
+    <name>曹永廉</name>
+    <role>Tong Hon-Si</role>
+    <profile>https://www.themoviedb.org/person/1223053</profile>
+    <tmdbid>1223053</tmdbid>
+  </actor>
+  <actor>
+    <name>简慕华</name>
+    <role>Lau Lin-Heung</role>
+    <profile>https://www.themoviedb.org/person/2062684</profile>
+    <tmdbid>2062684</tmdbid>
+  </actor>
+  <actor>
+    <name>梁嘉琪</name>
+    <role>So Fung-Nei</role>
+    <profile>https://www.themoviedb.org/person/2232029</profile>
+    <tmdbid>2232029</tmdbid>
+  </actor>
+  <actor>
+    <name>李成昌</name>
+    <role>Law Bak</role>
+    <profile>https://www.themoviedb.org/person/140482</profile>
+    <tmdbid>140482</tmdbid>
+  </actor>
+  <actor>
+    <name>吕珊</name>
+    <profile>https://www.themoviedb.org/person/1334858</profile>
+    <tmdbid>1334858</tmdbid>
+  </actor>
+  <actor>
+    <name>张景淳</name>
+    <role>Mak Ka Lun</role>
+    <profile>https://www.themoviedb.org/person/4135035</profile>
+    <tmdbid>4135035</tmdbid>
+  </actor>
+  <actor>
+    <name>黄心颖</name>
+    <profile>https://www.themoviedb.org/person/2064573</profile>
+    <tmdbid>2064573</tmdbid>
+  </actor>
+  <actor>
+    <name>阮政峰</name>
+    <profile>https://www.themoviedb.org/person/3626790</profile>
+    <tmdbid>3626790</tmdbid>
+  </actor>
+  <actor>
+    <name>罗钧满</name>
+    <profile>https://www.themoviedb.org/person/1615892</profile>
+    <tmdbid>1615892</tmdbid>
+  </actor>
+  <actor>
+    <name>安德尊</name>
+    <profile>https://www.themoviedb.org/person/3377746</profile>
+    <tmdbid>3377746</tmdbid>
+  </actor>
+  <actor>
+    <name>于洋</name>
+    <profile>https://www.themoviedb.org/person/119438</profile>
+    <tmdbid>119438</tmdbid>
+  </actor>
+  <actor>
+    <name>谢雪心</name>
+    <profile>https://www.themoviedb.org/person/1274608</profile>
+    <tmdbid>1274608</tmdbid>
+  </actor>
+  <actor>
+    <name>韩马利</name>
+    <role>Ga May-Yung</role>
+    <profile>https://www.themoviedb.org/person/2349758</profile>
+    <tmdbid>2349758</tmdbid>
+  </actor>
+  <actor>
+    <name>黄子恒</name>
+    <profile>https://www.themoviedb.org/person/2370809</profile>
+    <tmdbid>2370809</tmdbid>
+  </actor>
+  <actor>
+    <name>李绮雯</name>
+    <profile>https://www.themoviedb.org/person/3853519</profile>
+    <tmdbid>3853519</tmdbid>
+  </actor>
+  <actor>
+    <name>赵永洪</name>
+    <profile>https://www.themoviedb.org/person/1809912</profile>
+    <tmdbid>1809912</tmdbid>
+  </actor>
+  <actor>
+    <name>杨明</name>
+    <profile>https://www.themoviedb.org/person/1588970</profile>
+    <tmdbid>1588970</tmdbid>
+  </actor>
+  <actor>
+    <name>李丽丽</name>
+    <profile>https://www.themoviedb.org/person/240169</profile>
+    <tmdbid>240169</tmdbid>
+  </actor>
+  <actor>
+    <name>曾慧云</name>
+    <profile>https://www.themoviedb.org/person/3767248</profile>
+    <tmdbid>3767248</tmdbid>
+  </actor>
+  <actor>
+    <name>刘桂芳</name>
+    <profile>https://www.themoviedb.org/person/2611122</profile>
+    <tmdbid>2611122</tmdbid>
+  </actor>
+  <actor>
+    <name>祝文君</name>
+    <profile>https://www.themoviedb.org/person/3450480</profile>
+    <tmdbid>3450480</tmdbid>
+  </actor>
+  <actor>
+    <name>郑世豪</name>
+    <profile>https://www.themoviedb.org/person/3847717</profile>
+    <tmdbid>3847717</tmdbid>
+  </actor>
+  <actor>
+    <name>李启杰</name>
+    <profile>https://www.themoviedb.org/person/3394601</profile>
+    <tmdbid>3394601</tmdbid>
+  </actor>
+  <actor>
+    <name>沈可欣</name>
+    <profile>https://www.themoviedb.org/person/3185985</profile>
+    <tmdbid>3185985</tmdbid>
+  </actor>
+  <actor>
+    <name>李泳豪</name>
+    <profile>https://www.themoviedb.org/person/3236775</profile>
+    <tmdbid>3236775</tmdbid>
+  </actor>
+  <actor>
+    <name>苏丽明</name>
+    <profile>https://www.themoviedb.org/person/3671078</profile>
+    <tmdbid>3671078</tmdbid>
+  </actor>
+  <actor>
+    <name>陈狄克</name>
+    <profile>https://www.themoviedb.org/person/1356190</profile>
+    <tmdbid>1356190</tmdbid>
+  </actor>
+  <actor>
+    <name>余子明</name>
+    <profile>https://www.themoviedb.org/person/1626046</profile>
+    <tmdbid>1626046</tmdbid>
+  </actor>
+  <actor>
+    <name>赵乐贤</name>
+    <profile>https://www.themoviedb.org/person/3849694</profile>
+    <tmdbid>3849694</tmdbid>
+  </actor>
+  <actor>
+    <name>周聪</name>
+    <profile>https://www.themoviedb.org/person/1136440</profile>
+    <tmdbid>1136440</tmdbid>
+  </actor>
+  <actor>
+    <name>陈荣峻</name>
+    <profile>https://www.themoviedb.org/person/2818160</profile>
+    <tmdbid>2818160</tmdbid>
+  </actor>
+  <trailer>plugin://plugin.video.youtube/play/?video_id=eOu7jfn9EVM</trailer>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

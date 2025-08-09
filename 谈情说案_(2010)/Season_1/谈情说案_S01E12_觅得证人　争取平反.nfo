@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>觅得证人　争取平反</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>谈情说案</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">757859</uniqueid>
+  <uniqueid default="false" type="tvrage">1065011930</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>国良为了替家希讨回公道，特意到公园四出查问有否目击证人；最后国良成功寻到一位在附近当厨师的印巴籍人士。众人到学校在校长慧珠前与对方对质，想不到对方坚拒相信；慧珠为免事件闹大，只得答应重新调查事件……
+
+重案组众人正调查焦尸案时，突然有一小巴司机出现透露资料，原来他看杂志时认出耀祖是乘搭小巴的熟客，而有天下午他竟没有依随习惯在总站下车，反而在荒芜的地方叫停车……
+
+恋情曝光　慧珠不满
+
+得到小巴司机的举证后，警方在耀祖下车的地方展开搜查，最终在海边悬崖下方觅得杀人凶器。经过鉴证化验，证实凶器上的血迹是属于大鹏，而凶器上亦有耀祖的指纹；小丽等人再请耀祖到警署，耀祖却矢口否认，更要求与律师见面……
+
+家希在学校洗手间突然遭到袭击，对方更指将会一直对付他，家希只得将小丽与校长慧珠儿子景博是情侣一事说出，令欺凌者们知难而退。
+
+晚上家希到小丽的房中找她，更将自己心爱的朱古力送给小丽赔罪；小丽初时感不乐，但终借此机会向家人说出自己正在蜜运。当徐家上下得知小丽的恋人竟是景博时，忍不住纷纷指她「中大奖」。
+
+慧珠向训导主任查问家希的近况，家长会主席突然出现；原来她特向慧珠说出近来家长间有流言指校长在处理家希一事上「徇私」，是因为慧珠的儿子景博与小丽相恋……
+
+景然与慧珠为儿子之事特意在大厅中等景博回家，当父母问他与小丽相恋之事时，景博坦白向父母承认，更请两人支持；景然看到慧珠为儿子之事闷闷不乐，特意开解她说景博以前的恋情最长也不出一个月，所以绝对不看好两人，慧珠听后也稍感释然。天恒借与众人一起吃韩式烧烤的机会向下属说出小丽与景博相恋一事，众人大感愕然，但亦纷纷祝福两人。
+
+景博助言　发现漏洞
+
+景博在与众人吃饭时，主动提出协助分析耀祖的不在场证据；景博向小丽与天恒分析，即使有八达通与信用卡的佐证，也不证明一定是由死者「本人」使。因为有了新的调查方向，小丽等人向曾医治耀祖的精神科医生查问，得知耀祖原来有一弟弟。耀祖的弟弟耀宗被带返警署协助调查，但却无法得到举证的关键证据。
+
+天恒等人再到酒吧，欲向酒吧老板确认有关证据时，却无意中得到当天对话的录音……经专家分析，终发现致电酒吧老板的人不是死者而是耀宗。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2698</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E12.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

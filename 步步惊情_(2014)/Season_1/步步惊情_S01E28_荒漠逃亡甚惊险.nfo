@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:25:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>荒漠逃亡甚惊险</title>
+  <originaltitle>荒漠逃亡甚惊险</originaltitle>
+  <showtitle>步步惊情</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5481446</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>司瀚挟持着绑匪让他们带路走出荒漠，谁知半途竟遇到绑匪的同伙。司瀚和伊诺被绑匪追，司宇及时出现相救，但伊诺却被绑匪控制。在新闻发布会上，震天宣布了司瀚的死讯。殷正顺利的成为了震天集团的掌舵者，而康震天却住进了医院。司瀚将所有的恨都发泄在了张晓身上，但张晓却并不怪司瀚。司瀚在新闻中得知了自己的死讯，他决定将计就计找殷正报仇。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2798</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊情-S01E28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

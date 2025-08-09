@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:25:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>震天死前谅殷正</title>
+  <originaltitle>震天死前谅殷正</originaltitle>
+  <showtitle>步步惊情</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5481449</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>伊诺前来找殷正，她惊讶的发现殷正和自己的想法很相似，伊诺决定帮司瀚和殷正调和关系。得知伊诺去见殷正，司瀚将伊诺推倒在地。司宇前去山区找张晓，他与张晓一起教孩子们学习。震天生命垂危之时不断呼喊殷正的名字，司瀚将殷正支走使其未能见父亲最后一面。张晓将殷正想要和解的意思告诉了司瀚，司瀚对殷正的恨越来越深，他将张晓一个人扔在大雨里。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1080</height>
+        <durationinseconds>2637</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊情-S01E31.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

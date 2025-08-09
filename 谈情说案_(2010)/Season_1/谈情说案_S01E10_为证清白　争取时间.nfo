@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>为证清白　争取时间</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>谈情说案</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">757857</uniqueid>
+  <uniqueid default="false" type="tvrage">1065011928</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小丽欲请景博替国良平反之事于文件上签字作实，但因为知道景博正在为平反「新粒子理论」作假一事忙碌，只得将文件交托他的助手；景博被指为作假的新粒子理论共有七个论证方法，之前三个已证明不能成功，于是景博只得在剩下的四个论证方法埋手。但因为科学杂志只给予景博一个月时间证明自己的理论，因此他只能从中选择两个来做实验。景博要求助手们回家休息后，自己却留在研究室；晚上小丽回家时，仍看到景博在网上……
+
+不辞而别　天恒愕然
+
+得知景博未吃晚饭，小丽讹称自己刚与同僚宵夜，特意替他买来食物；小丽更发觉景博原来从未喝过鸳鸯，及对一碗普通的餐蛋面赞口不绝。
+
+得到充分休息的敏嘉下床活动，她悄悄地到书房见天恒，发现他原来正就读MBA课程。天恒带敏嘉外出，边钓鱼边享受阳光；天恒向敏嘉说出自己的人生计画，原来他希望自己的妻子是全职主妇，将来的子女会送到澳洲升学……
+
+看到天恒把钓到的鱼变成巧手小菜，令敏嘉大感惊喜；晚上敏嘉发现自己累得在梳化上睡着了，醒来后却发现天恒离开了。朋友致电邀约敏嘉见面，敏嘉立即答应，但当她到达兰桂坊后，却看见天恒与别的女性一起，竟暗生不满。翌日在朋友穿针引线下，敏嘉与传媒界的管理层见面，希望获得在香港工作的机会，想不到对方竟然就是昨晚与天恒游玩的对象……
+
+天恒接到敏嘉的电话后赶回家，但想不到迎接他的是敏嘉的热吻；享受了一夜缠绵的天恒苏醒过来，却发现不见了敏嘉踪影。天恒在书房的电脑发现了敏嘉留下的信，明白了她不辞而别的原因……景博与助手完成分工后回家休息，但却辗转反侧不能成眠，最终仍是回到研究室工作。小丽收到景博来电询问她买宵夜的地点，但小丽却坚持要替他购买；景博终发现小丽的「外卖」，其实是她在小食部亲自下厨。
+
+景博成功　洗脱指控
+
+景博于小食部吃面时，终向小丽说出自己的恐惧；为了安抚景博，小丽竟提出以「掷银」以证明「上天」的意思……景博受到小丽的影响更改了实验次序，选择排在最后的实验，结果成功得出正确的结果。景博前往纽约替自己澄清，其间开始在网上搜索小丽的资料。大学的同事替景博庆祝他还以清白，景然等更准备与儿子到伦敦度假。一直处于兴奋状态的景博与天恒喝酒，从天恒谈到他与敏嘉的关系时，突发现了自己的真心意。景博特意找小丽，更提出要她做自己女朋友。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2692</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E10.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

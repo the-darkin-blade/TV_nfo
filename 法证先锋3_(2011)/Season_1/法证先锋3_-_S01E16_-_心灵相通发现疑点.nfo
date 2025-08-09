@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 17:51:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>心灵相通发现疑点</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>法证先锋3</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1828854</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>倩儿带法证部人员到实验室调查，发现灯槽与世恒尸身上的伤痕十分相似。正民以喷洒酚酞测试，发现果然有血液反应。永杰被警方拘留，但他只承认打碎了水蛇标本的玻璃瓶。健保担心儿子的情况，展风只能协助他在单面玻璃房内听取永杰录口供。永杰供称世恒死前曾与自己见面，世恒无意中发现永杰欲自杀，遂拼命阻止他。健保得悉儿子因压力而萌生求死之念，既心痛又自责。
+
+国栋销假　协助健保
+
+健保向永杰承诺，会为儿子还个清白，父子两人冰释前嫌尽在不言中。国栋得悉健保儿子出事，立即销假回法证部工作，希望尽快为永杰洗脱嫌疑；健保见各同事众志成城协助永杰，大表感激。
+
+警方与法证部开会时，学心留神地观察早前拍下的照片，竟因此有所发现。学心再回到实验室现场，发觉人骨模型曾遭移动，而她更因此找出杀死世恒的凶器。
+
+伟雄成功　打败展风
+
+国栋搜证时，发现有一小片白色状硬物陷入了骨架模型内，于是小心翼翼地把硬物取出，以作进一步化验。伟雄否决了让永杰保释的要求，更指不希望下属在工作时有偏私的成分，各人无言以对。展风与伟雄在空手道比赛上碰头，展风被伟雄打得落花流水；众同事认为展风是畏于伟雄的强权而让赛，展风向各人展示被打的伤痕，但众人仍不相信伟雄的实力。
+
+博史凤萍　成为冤家
+
+翌日各人在警署门外，看到伟雄以空手道捉拿犯人，终不得不赞叹伟雄的身手强劲。倩儿横蛮地要求展风在伟雄面前继续扮演自己的男友，令展风大感无奈。
+
+博史在学心家等候倩儿回家时，突然收到一骗财电话，博史机警地揭穿骗子的把戏后，门铃却随即响起；博史以为到访的凤萍是骗子而与她口角，两人顿成斗气冤家。凤萍质问倩儿为何不选择伟雄，倩儿直言只借展风作挡箭牌。
+
+女性友人　拒认相恋
+
+国栋从世恒的电脑资料中发现，世恒最后一次登入Friendbook并非使用自己的电脑；倩儿得知世恒原来把与Christy的合照收藏在电脑内，即推想她可能知道Friendbook登入的密码。
+
+倩儿与展风一起找Christy问话，但她却否认是世恒女友，更表示一切也只是世恒自作多情；展风与倩儿再一起推敲案情，终让他们发现最有可能的凶手是谁…
+
+闭路电视　查出真凶
+
+倩儿再到宿舍向Peter查问更多资料，而展风则与其他同事加紧搜查疑凶曾有机会出现的地方。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered>2011-11-02</premiered>
+  <aired>2011-11-02</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <credits tmdbid="2066303">陈静仪</credits>
+  <credits tmdbid="1069020">蔡婷婷</credits>
+  <director tmdbid="2064565">梅小青</director>
+  <actor>
+    <name>黎耀祥</name>
+    <role>Po Kwok Tung (Jack / Pro Sir)</role>
+    <profile>https://www.themoviedb.org/person/123654</profile>
+    <tmdbid>123654</tmdbid>
+  </actor>
+  <actor>
+    <name>张可颐</name>
+    <role>Chung Hok Sum (Mandy)</role>
+    <profile>https://www.themoviedb.org/person/125882</profile>
+    <tmdbid>125882</tmdbid>
+  </actor>
+  <actor>
+    <name>徐子珊</name>
+    <role>Ling Sin Yee (Ada)</role>
+    <profile>https://www.themoviedb.org/person/131256</profile>
+    <tmdbid>131256</tmdbid>
+  </actor>
+  <actor>
+    <name>吴卓羲</name>
+    <role>Lee Chin Fung (Wind)</role>
+    <profile>https://www.themoviedb.org/person/1222249</profile>
+    <tmdbid>1222249</tmdbid>
+  </actor>
+  <actor>
+    <name>胡定欣</name>
+    <role>Chow Yik Fei (Eva)</role>
+    <profile>https://www.themoviedb.org/person/1234856</profile>
+    <tmdbid>1234856</tmdbid>
+  </actor>
+  <actor>
+    <name>陈茵媺</name>
+    <role>Chiang Cheuk Kwan (Angel)</role>
+    <profile>https://www.themoviedb.org/person/1566076</profile>
+    <tmdbid>1566076</tmdbid>
+  </actor>
+  <actor>
+    <name>萧正楠</name>
+    <role>Ho Ching Man (Ken)</role>
+    <profile>https://www.themoviedb.org/person/1059226</profile>
+    <tmdbid>1059226</tmdbid>
+  </actor>
+  <actor>
+    <name>蒋志光</name>
+    <role>Yau Kin Po (Paul)</role>
+    <profile>https://www.themoviedb.org/person/1083956</profile>
+    <tmdbid>1083956</tmdbid>
+  </actor>
+  <actor>
+    <name>黄子雄</name>
+    <role>Jason Ko</role>
+    <profile>https://www.themoviedb.org/person/1175765</profile>
+    <tmdbid>1175765</tmdbid>
+  </actor>
+  <actor>
+    <name>元华</name>
+    <role>Po Shun Hing</role>
+    <profile>https://www.themoviedb.org/person/57609</profile>
+    <tmdbid>57609</tmdbid>
+  </actor>
+  <actor>
+    <name>韩马利</name>
+    <role>Cheung Fung Ping</role>
+    <profile>https://www.themoviedb.org/person/2349758</profile>
+    <tmdbid>2349758</tmdbid>
+  </actor>
+  <actor>
+    <name>汤盈盈</name>
+    <role>Rebecca</role>
+    <profile>https://www.themoviedb.org/person/125775</profile>
+    <tmdbid>125775</tmdbid>
+  </actor>
+  <actor>
+    <name>陈展鹏</name>
+    <role>Fong Sai Yau (Jim)</role>
+    <profile>https://www.themoviedb.org/person/1238985</profile>
+    <tmdbid>1238985</tmdbid>
+  </actor>
+  <dateadded>2025-08-06 17:31:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2687</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>法证先锋3 - S01e16 - 心灵相通发现疑点__1920x1080__qsv_av1_10bit__28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

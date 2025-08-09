@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>张晓被邀装女友</title>
+  <originaltitle>张晓被邀装女友</originaltitle>
+  <showtitle>步步惊情</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5481428</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>震天让儿子回家吃饭，司瀚邀张晓充当他的女朋友一起回家。韩青在酒店挟持了蓝兰，成贵要求蓝兰利用殷正。司瀚和殷正在饭桌上不断的拌嘴，蓝兰施计让张晓出丑，但表面上却假装无辜。张晓得知司瀚的真实身份十分生气，司瀚强吻张晓以求原谅，谁知竟被殷正拉开。殷正将他的外套披在张晓身上，并护送其上车。司瀚试图用各种方法求张晓原谅，但张晓并不领情。</plot>
+  <runtime>73</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1080</height>
+        <durationinseconds>4432</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊情-S01E10.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

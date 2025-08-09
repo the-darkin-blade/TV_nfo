@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 24 集</title>
+  <originaltitle>第 24 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662266</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>晴川来找八阿哥解释为什么没有如约和八阿哥一起出逃，她告诉八阿哥是十三阿哥把自己骗到坤宁宫。八阿哥十分信任晴川，两人又嬉笑起来。良妃娘娘看见两人在一起非常不高兴，她支走了八阿哥，良妃劝晴川离开八阿哥，晴川表示自己不会遵从她就命令，如果良妃真的爱八阿哥，就应该尊重他的选择。禧嫔娘娘想利用腹中的孩子设计陷害良妃娘娘，却被良妃化解，皇上责怪禧嫔娘娘自己不小心，令禧嫔娘娘更加下定决心对付良妃母子。禧嫔娘娘因为假怀孕的事情担心一朝东窗事发就要性命不保，她亲自去找小顺子，要小顺子帮忙。小顺子暗中把顾晓春骗到坤宁宫，并以晴川的性命要挟顾晓春留在坤宁宫直到令禧嫔娘娘怀孕为止。小顺子痛苦的看着顾晓春和自己心爱的女人在一起。良妃娘娘安排八阿哥和蒙古来的凝香格格相亲，提出要皇上赐婚给他们，并要晴川在旁伺候。席间良妃娘娘要凝香格格弹奏，晴川也为大家演奏一曲，八阿哥受不了良妃的安排，本想拉起晴川跑出去，谁知拉错了人，把凝香格格拉走了，晴川留在那里，误以为他们早就认识了。第二天八阿哥因为偷跑的事情向晴川道歉，晴川因为凝香格格的事情吃起醋来，八阿哥百口莫辩，晴川生气的去承乾宫报道。晴川独自躲在路边哭泣，凝香格格偶遇晴川，要和她交朋友，并带晴川到了自己的住处。面对出身高贵，才艺出众的凝香格格，晴川自惭形秽。凝香告诉晴川自己已经喜欢上八阿哥了，让晴川帮忙选衣服，装扮。晴川帮凝香选了一件漂亮的礼服穿上。晴川回到承乾宫，八阿哥已经在她的房间门口等候，并为她打扫了房间。晴川告诉八阿哥凝香喜欢他，他们在一起并不合适。八阿哥去皇上和良妃面前，禀告皇上自己不想娶凝香格格。良妃以父母之命来压八阿哥，八阿哥却告诉皇上他早已情有独钟。良妃娘娘命晴川给八阿哥送汤过去，晴川进房却看见凝香格格压在八阿哥身上强吻。晴川放下汤水转身就走。跑到外面，晴川伤心的哭了起来。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2699</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E24_-_第_24_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

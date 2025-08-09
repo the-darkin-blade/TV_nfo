@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 11 集</title>
+  <originaltitle>第 11 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662253</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>晴川听闻皇上三日后即将处死八阿哥，而这一切都是因为八阿哥想帮助自己，她决定想方设法搭救八阿哥。晴川跪在德妃娘娘宫门前等候，怎奈德妃娘娘也无能为力，德妃娘娘告诉晴川去承乾宫寻找八阿哥的生母良妃娘娘，晴川赶紧跑去承乾宫找良妃娘娘帮忙。晴川来到承乾宫求见良妃娘娘，良妃娘娘未等晴川说话，先让她帮忙给园子里的蔬菜除草施肥，晴川一一照做，良妃娘娘见她心地善良，心中顿生好感，问起她为什么要来求见。晴川告诉良妃娘娘皇上要杀八阿哥的事情，怎奈良妃娘娘早就发誓今生不再离开承乾宫，她要晴川想办法带皇上来这里，就可以保证八阿哥无事。晴川暗自忧虑，怎样才能使皇上自愿来到承乾宫呢？出了承乾宫的门，突然发现地上有很多蚂蚁，晴川心里顿时有了主意。次日，皇上正在批阅奏章，太监总管李德全来奏，说成千上万只蚂蚁，排在承乾宫的墙上，组成一条龙的图案，宫女太监们们都说是祥瑞，请皇上移驾前往瞻仰。皇上并不相信，正巧晴川伺候在侧，也劝说皇上前往观看，皇上听说是承乾宫，同意前往观看。到了承乾宫，皇上看了一眼蚂蚁组成的图案，马上看出内中另有乾坤，命太监李德全上前查探，李德全发现蚂蚁下面都是蜂蜜。正要离开，承乾宫内飞出一张宣纸，皇上拾起宣纸，步入承乾宫内。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2700</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E11_-_第_11_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

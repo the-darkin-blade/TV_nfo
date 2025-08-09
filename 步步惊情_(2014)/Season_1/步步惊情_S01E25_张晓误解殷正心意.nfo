@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:25:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>张晓误解殷正心意</title>
+  <originaltitle>张晓误解殷正心意</originaltitle>
+  <showtitle>步步惊情</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5481443</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>司宇得知张晓订了一张去甘霖的车票，他将此事告诉殷正。然而造化弄人，张晓意外听到殷正和殷成贵的谈话，以为殷正是在玩弄她的感情。殷正说服殷成贵拿钱拯救司瀚，就在此时震天出院了。司瀚被绑匪打的伤重，神秘女子一直细心照料着他，不料司瀚还是重伤不治，绑匪连夜掩埋了他。震天在公司凑赎金，殷成贵以大股东身份前来阻止，然而警察忽然出现抓走殷成贵。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2745</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊情-S01E25.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

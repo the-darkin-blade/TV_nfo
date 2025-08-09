@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>汉斯得知大树花苹身分</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>师奶Madam</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3191070</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>丹丹、凤妮、怜香同时收到高利贷追数电话，便齐集一起商量对策。丹丹将此事告之汉斯，而怜香需与前夫商量，凤妮苦无头绪筹钱之际，丹丹提议凤妮可以推出美容套票。花苹在超市遇到罗帛，罗帛更向花苹透露大树有腰患之事。罗帛见有苹果核放在玻璃器皿内欲倒掉，花苹阻止并表示想种苹果树。罗帛更发现自己跟花苹同病相怜，在家人面前不可吃榴槤，所以共同享用刚在超市买来的榴槤。
+
+凤妮受胁　助收贵利
+
+温晴因准备乔装令面部皮肤敏感，便到凤妮的美容院求助，更无意间发现凤妮推广美容套票，于是心生一计。罗帛离开后，花苹发现家中充满榴槤味道，并发觉家居肮脏，决心打扫一番。花苹并悉心安排小抱枕予大树，让他可安睡。大树回到家发现居所变得干净，但却没有赞美花苹半句，气得花苹关上房门。凤妮等人一同饮茶时，突然收到神秘电话；她步出洗手间时碰见于酒楼当洗碗工的怜香，更向她表示高利贷要求利用美容院。
+
+罗帛买楼　无功而回
+
+丹丹向汉斯透露对凤妮及怜香处境的忧虑，汉斯着她不要担心。汉斯原来早前到警局探望怜香时，无意得知花苹及大树的身分，便相约大树食饭，更暗中将消息告知大树，希望能帮助怜香及凤妮二人。罗帛获悉心仪的单位已出售，因知悉业主已转手，于是独自走上单位寻找业主；罗帛遇见头戴渔夫帽及口罩的业主，便表明来意，可惜对方不谙广东话只懂日文，罗帛只有在打招呼及递上卡片后离开。
+
+胡蝶发现　女儿恋爱
+
+花苹到访，提出想试试新的美容套装，但被凤妮继续婉拒。温晴到商场买口罩，刚巧商场地下被弄污，家伦到场协助清理，结果累得温晴跌倒地上。凤妮受到指示后到达公园，找到有红色交叉标记的垃圾桶，将藏有款项的朱古力盒投放在内。花苹等人暗中监视，待凤妮离开之际想上前查探。忽然凤妮收到电话指示要取回朱古力盒，花苹与大树怕被发现连忙假扮情侣在公园作拥吻状；结果胡蝶的汽车刚路经公园，见到女儿与人当街亲吻。
+
+出言邀请　惨遭拒绝
+
+胡蝶邀请隐居的飘红与自己合唱，并将之前抢到的录音带送给朱妈；但朱妈却冷言相向，毫不领情。花琛与胡蝶等候电梯之际有飞曱甴飞出，这时电梯门刚打开，把电梯中的花苹吓得大惊失色，更紧紧抱着身旁的大树，怜香见状更嘲笑其夫妻二人恩爱。两人相拥的情景，被胡蝶及花琛看在眼内……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2688</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E15.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

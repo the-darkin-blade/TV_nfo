@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 17:51:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>「巴士阿哥」惨被杀害</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>法证先锋3</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1828852</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>法证部与警方一同赶到校园为厨余内的男尸展开调查；展风与嘉露到男死者胡世恒的宿舍搜集证物，嘉露发现世恒的电脑主机不见了，且发觉针孔摄录机的接收器也没法找到。宿舍主任向警方录口供时称世恒并不受同学欢迎，更指世恒因网上热播的「巴士阿哥」片段而与其他人更疏离。
+
+电脑专家　却用旧物
+
+倩儿再到世恒家录取口供，观察过世恒家之后，倩儿判断他的家境并不富裕。倩儿在公屋附近遇上世恒的妹妹，却发现她拿着新款手机与名牌手袋。倩儿对世恒妹妹的收入来源大感好奇，她指所有物品皆是哥哥所赠送。学心将世恒的解剖报告交予警方后，与法证部一同讨论，国栋猜不出尸身上的格子状伤痕是如何造成。正民认为在世恒宿舍内发现的针孔摄录机是旧款型号，已很少人使用，指不明白世恒善用电脑却为何拥有如此旧款的工具。
+
+两对情侣　互有进展
+
+世友为让学心高兴，特意安排学心到咖啡店喝她喜欢的咖啡，学心被世友的细心感动，大为心甜。博史与倩儿早上步进学心家时，发现世友与学心一起，令两人大感意外。学心向博史解释只是巧合，世友并没有在家中度宿，博史听后露出失望的表情。
+
+康赞等人在世恒的手机找到一段街舞照片，原来倩儿与展风当天即兴地参与街舞，世恒就是其中一个围观的途人。康赞等人见展风与倩儿在片中玩至得意忘形，即向两人取笑一番。
+
+伟雄展风　狭路相逢
+
+倩儿与众同事陪伴展风练习空手道，嘉露发现空手道比赛名单上竟有伟雄的名字，众人劝展风小心。世恒的宿舍同房Peter从国内返港，在录口供时Peter指世恒的人品不差，不会是偷拍狂。Peter直认与世恒有合作撰写电脑程式赚取外快，倩儿明白世恒的收入来源。
+
+倩儿得悉有另一同学Oscar替他们接洽工作，即找他录口供。展风与倩儿到海旁寻找Oscar，但他对展风及倩儿的质问毫不知情。
+
+孖生兄弟　涉及凶案
+
+Oscar带同孖生兄弟Ocean一起见倩儿，倩儿与展风一时也分不清两人的身分。Ocean承认曾因分账问题找世恒倾谈，两人发生争执，世恒更把Ocean的额头弄伤。Ocean否认杀人更表示世恒遇害时，他正与朋友玩乐，回家时亦因乐极生悲发生撞车意外。
+
+学心与各同事多番追查却没有突破。倩儿与学心闲聊时提及世恒的案情，学心忽然对Oscar与Ocean的供词大感兴趣。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered>2011-10-27</premiered>
+  <aired>2011-10-27</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <credits tmdbid="2066303">陈静仪</credits>
+  <credits tmdbid="1069020">蔡婷婷</credits>
+  <director tmdbid="2064565">梅小青</director>
+  <actor>
+    <name>黎耀祥</name>
+    <role>Po Kwok Tung (Jack / Pro Sir)</role>
+    <profile>https://www.themoviedb.org/person/123654</profile>
+    <tmdbid>123654</tmdbid>
+  </actor>
+  <actor>
+    <name>张可颐</name>
+    <role>Chung Hok Sum (Mandy)</role>
+    <profile>https://www.themoviedb.org/person/125882</profile>
+    <tmdbid>125882</tmdbid>
+  </actor>
+  <actor>
+    <name>徐子珊</name>
+    <role>Ling Sin Yee (Ada)</role>
+    <profile>https://www.themoviedb.org/person/131256</profile>
+    <tmdbid>131256</tmdbid>
+  </actor>
+  <actor>
+    <name>吴卓羲</name>
+    <role>Lee Chin Fung (Wind)</role>
+    <profile>https://www.themoviedb.org/person/1222249</profile>
+    <tmdbid>1222249</tmdbid>
+  </actor>
+  <actor>
+    <name>胡定欣</name>
+    <role>Chow Yik Fei (Eva)</role>
+    <profile>https://www.themoviedb.org/person/1234856</profile>
+    <tmdbid>1234856</tmdbid>
+  </actor>
+  <actor>
+    <name>陈茵媺</name>
+    <role>Chiang Cheuk Kwan (Angel)</role>
+    <profile>https://www.themoviedb.org/person/1566076</profile>
+    <tmdbid>1566076</tmdbid>
+  </actor>
+  <actor>
+    <name>萧正楠</name>
+    <role>Ho Ching Man (Ken)</role>
+    <profile>https://www.themoviedb.org/person/1059226</profile>
+    <tmdbid>1059226</tmdbid>
+  </actor>
+  <actor>
+    <name>蒋志光</name>
+    <role>Yau Kin Po (Paul)</role>
+    <profile>https://www.themoviedb.org/person/1083956</profile>
+    <tmdbid>1083956</tmdbid>
+  </actor>
+  <actor>
+    <name>黄子雄</name>
+    <role>Jason Ko</role>
+    <profile>https://www.themoviedb.org/person/1175765</profile>
+    <tmdbid>1175765</tmdbid>
+  </actor>
+  <actor>
+    <name>元华</name>
+    <role>Po Shun Hing</role>
+    <profile>https://www.themoviedb.org/person/57609</profile>
+    <tmdbid>57609</tmdbid>
+  </actor>
+  <actor>
+    <name>韩马利</name>
+    <role>Cheung Fung Ping</role>
+    <profile>https://www.themoviedb.org/person/2349758</profile>
+    <tmdbid>2349758</tmdbid>
+  </actor>
+  <actor>
+    <name>汤盈盈</name>
+    <role>Rebecca</role>
+    <profile>https://www.themoviedb.org/person/125775</profile>
+    <tmdbid>125775</tmdbid>
+  </actor>
+  <actor>
+    <name>陈展鹏</name>
+    <role>Fong Sai Yau (Jim)</role>
+    <profile>https://www.themoviedb.org/person/1238985</profile>
+    <tmdbid>1238985</tmdbid>
+  </actor>
+  <dateadded>2025-08-06 17:31:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2686</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>法证先锋3 - S01e14 - 「巴士阿哥」惨被杀害__1920x1080__qsv_av1_10bit__28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

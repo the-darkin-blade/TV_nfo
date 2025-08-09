@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:25:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>蓝兰整容变伊诺</title>
+  <originaltitle>蓝兰整容变伊诺</originaltitle>
+  <showtitle>步步惊情</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5481445</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>司宇前来找厂长希望能尽快救出司瀚，不料厂长却施计欲偷走他的钱箱。司宇将计就计识破了铁成的阴谋，他带着朋友王浩前去与绑匪接头。在司宇将要与绑匪交易之时，铁成打电话叫来了警察。酒鬼半夜欲敲门调戏马伊诺，司瀚出招将他们绑了起来。司瀚很好奇马伊诺的真实身份，马伊诺终于承认自己就是蓝兰。殷正前来找张晓竟无果，乔助理劝殷正以大局为重。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2677</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>步步惊情-S01E27.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

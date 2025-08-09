@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 19:24:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 8 集</title>
+  <originaltitle>第 8 集</originaltitle>
+  <showtitle>宫</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1662249</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>晴川因为被八阿哥在四阿哥面前强吻而难过，小春跑来安慰她并要带他里看看皇宫，晴川又一次拒绝了他。禧嫔娘娘为八阿哥准备好了很多猎物，让皇上对八阿哥大家赞赏，钦赐了自己用了几十年的宝弓，其他几位阿哥都认为这弓是天子的象征，四阿哥对此耿耿于怀。晚上，小春为晴川强出头，去找八阿哥理论，八阿哥和他比赛做衣服，取巧赢了他，小春不服，被八阿哥追打，小春找到晴川求助，晴川饿了一天，八阿哥拿出白天的猎物，几人围坐火堆旁吃起了野物。皇上闻香而来，禧嫔娘娘命晴川献歌一曲，几人吃的其乐融融，使皇上感觉到了天伦之乐。四阿哥为使素言接近皇上，伙同太监总管李德全为皇上准备了素言做的糕点，素言模仿太皇太后身边的苏嬷嬷的手法，做的糕点令皇上想起了童年的回忆，皇上下令召见素言。金枝一直跟踪四阿哥，发现四阿哥与素言见面，听见皇上召见素言，误以为四阿哥要皇上赐婚娶素言做侧福晋，从暗中冲出来对素言又打又骂，结果事情闹到皇上面前，金枝在皇上面前脱口说出看见四阿哥在宫中就和素言勾搭，皇上把糕点、宫女、老四、李德全联系起来，认为是四阿哥和他们合伙算计自己，十分震怒。素言挺身而出，为四阿哥洗脱嫌疑，把责任都揽到自己身上。皇上把素言交给禧嫔娘娘处理。从此禧嫔娘娘命素言整日只能待在小厨房里做点心，不得离开厨房半步。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>芒果影视</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-06 19:24:09</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>宫_-_S01E08_-_第_8_集.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

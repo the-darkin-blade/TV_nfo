@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>科研出动　调查鬼魂</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>谈情说案</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">757852</uniqueid>
+  <uniqueid default="false" type="tvrage">1065011923</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>得到天恒的同意，景博带同研究员与一众精密仪器，与重案组一同再到案发单位调查鬼魂出现之事。天恒与小丽四处调查时，终发现陈贵在口供上出现的漏洞；另一方面，天恒却发现其他下属竟紧跟着他们，没有往四处调查……
+
+小丽与景博带志文往医生处作检查，虽然医生指志文没有因为失去亲人而受到打击，但却在检查中发现志文的视力比常人优秀，可看到一般人看不见的光线。
+
+小丽遇险　景博相救
+
+小丽从志文的姑姐口中得知，原来陈家血脉皆有「阴阳眼」，而其中一位曾当道士的亲人，正隐居在大屿山中；为了要查证志文是否有「阴阳眼」的遗传，小丽与志文决定往山中寻找该名道士。当小丽与景博会合后，一身轻装打扮的小丽，看见全身穿上了专业登山衣服及鞋子的景博，对他的隆重其事不禁失笑；经历了整天的行程，小丽等人终于找到该道士，亦因此得知「阴阳眼」的真相……
+
+两人离开时竟迷了路，更遇上大雨；只穿着普通服装及运动鞋的小丽在山中跌倒受伤，除扭伤了脚外，手部的伤口更血如泉涌。因两人所处的地方在手机接收不良，景博只得扶着受伤的小丽到小凉亭露宿一宵；在翌日景博发现不远处有荒废小屋，而当他把小丽带到小屋时，小丽却因手伤发炎而发烧并已陷入昏迷……
+
+小丽终于苏醒过来，得知自己得景博救回身处医院，亦看到他所送赠的玫瑰。
+
+小丽虽受伤住院，但调查陈贵的工作亦有着突破性的进展，在陈贵家对面的单位，竟拍有一段陈贵妻女堕楼时的片段；天恒再次请陈贵到警署问话，这次陈贵终承认自己的罪行，把事情的真相说出。
+
+小丽热爱工作，因此手伤即使未痊愈，便主动回警署要求销假复工，天恒亦乐意批准。景博与小丽探望志文，想进一步了解为何他能看见死去母亲与姊姊之谜；景博因此提议让志文再到单位进行实验……
+
+国良撞车　被指违规
+
+经过实地进行实验后，景博终在八卦镜上掌握解谜的线索，而众人亦终明白志文所看到的「鬼魂」真相。
+
+放工在家的小丽，突然接到国良电话，指他与国安遇上交通意外；小丽赶往三车连环相撞的现场了解，发现居中的国良被指不小心驾驶，指他将别人的车连撞两次。国良坚信自己无辜，指自己没有犯错，于是四出搵相关人士协助，但全都指他没有胜算，要他爽快认罪；国良从律师朋友口中得知，如果能找到专家证人帮忙便有机会证实自己清白，于是要求小丽请景博替自己当专家证人……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2670</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E05.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

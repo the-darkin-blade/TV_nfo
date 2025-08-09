@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>刻意逃避　竟又遇上</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>谈情说案</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">757842</uniqueid>
+  <uniqueid default="false" type="tvrage">1065011938</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>天恒代替了小丽日常工作，把文件交予景博签署；景博送天恒离开时，得知小丽已从失恋之伤痛回复过来，坦言希望能与小丽回复朋友关系。因为看到女友karen情绪受困，Simon决定带女友到南丫岛的朋友家暂住；Karen一路上情绪紧张、杯弓蛇影，令Simon不禁更为担心。当两人终在南丫岛的小屋住下后，Karen竟在窗外发现出现洪洪烈火，而Stanley更在她的眼前出现……
+
+男友失踪　Karen失控
+
+Karen与Simon向重案组报告此事，但小丽他们却没法以此证实Stanley有嫌疑；看到警方没法帮助自己，Karen大吵大闹；天恒偕小丽到大学请教精神科的教授并向他借取资料，但想不到景博亦出现一起了解情况。天恒收到命令提早离开，于是指派小丽等候教授把资料带回警署；景博虽看到小丽在剩下两人独处时极不自然，但景博为了示好，提出载小丽回警署，但却被她直接拒绝。Karen发现Simon失约，四出查问，结果发现下属早已载他回家；Karen肯定男友失踪，竟到医院向Stanley要人。没法从Stanley口中得知男友下落的Karen狂性大发，竟从手袋中取出小刀袭击Stanley；这时天恒刚到医院找Stanley查问，却看到Stanley灵敏地向Karen打麻醉针且制伏了她。重案组接手Simon的失踪案，而小丽在Simon失踪地点发现一支折断了的针管。
+
+重案组经过调查后发现Stanley的确有可疑，于是带队前往医院，想不到Stanley已闻风先遁；重案组人员在向医院员工查问下，发现Stanley最近曾把一些东西弃掉在医院的废物弃置房。重案组在弃置房发现到人体内脏，终证实是Simon的；重案组为了保护Karen的安全，派人贴身保护她外，更安排她暂时住在警方的安全屋中。重案组众人调查Stanley在香港的物业，发觉均装有巨大的镬型天线。
+
+景博发现　歹徒所在
+
+Karen突然说看到有像Stanley的人物出现，但最终发现是虚惊一场……Stanley终于有机会掳走Karen。重案组等人为查出Stanley藏身之处而费尽心力，幸景博参考Stanley追踪Karen的方法，成功查出Karen所在……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2698</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E20.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

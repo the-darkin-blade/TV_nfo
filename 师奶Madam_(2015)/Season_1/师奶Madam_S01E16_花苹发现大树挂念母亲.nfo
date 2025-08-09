@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>花苹发现大树挂念母亲</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>师奶Madam</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3191071</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>胡蝶得知女儿背着自己嫁给渠王之后为之气结；花苹央求母亲接受大树，可是胡蝶却说要给钱予大树要求他离开女儿。大树觉得被羞辱出言驳斥胡蝶，并于其面前深吻花苹。胡蝶见状怒不可遏着女儿跟自己离开，岂料一开门，丹丹、凤妮、怜香等众街坊已在门外听到一切，还替他们说项。胡蝶离开后，花苹口中虽怪罪大树，其实暗里怀念大树的一吻。花苹晚上致电父亲探听母亲情况，只知母亲气得连连唱粤曲发泄。花琛察觉花苹对大树的爱意，而且花琛佩服大树反驳胡蝶的勇气。花苹遂告知大树是她的暗恋对象，花琛闻言说找机会聚餐互相了解。
+
+协助贵利　凤妮受压
+
+凤妮正犹疑应否报警说出真相之际，早前曾还钱的其中一名妇人前来美容院央求凤妮退还款项予其老公进行手术。凤妮心软，便将款项交回给她，此举动却引起丹丹注意。丹丹与怜香质问凤妮为何收取贵利的钱，凤妮支吾以对；丹丹不满怀疑凤妮收受贵利好处，自觉被出卖愤然离去。大春及高敏暗中监视，花苹与大树得悉丹丹等三人有所争执，推断凤妮跟贵利集团有关。
+
+大树回忆　母亲出走
+
+晚上，大树的梦游症发作，像小孩般哭泣；花苹见状录影下来给大树醒来看回，大树看后把伤心童年往事告知花苹。原来20年前的大树睡觉被争吵声弄醒，听到父亲罗帛责怪母亲美蓉（韩马利饰）挪用家里的钱去隆胸，美蓉反驳说因为罗帛只顾看美女才执意整容；美蓉其后便决意再到日本整容，年幼的大树哭着央求母亲不要离开，还大力拍父亲房门，希望着父亲挽留母亲。
+
+花琛作媒　无助破冰
+
+美蓉按早前罗帛给她的卡片到达商场，更在快餐店遇见罗帛、大树及花苹。美蓉得悉儿子已婚后对花苹大感兴趣，更暗中跟着花苹。岂料在商场时，美蓉被数位顽童以红色墨水枪袭击，花苹发现美蓉受伤及满身墨水，遂邀请其回家更换衣服。花苹替美蓉处理伤口时，发现其面上的疤痕，直觉认为是整容所造成。美蓉察觉到花苹夫妻间好像不和，便告知自己与丈夫分开廿年，劝他们二人要互相包容。
+
+花琛见胡蝶唱粤曲发泄致声音沙哑，递上一杯蜜糖水，伺机重提他们当年相恋结婚的经历，更游说胡蝶与大树见面。为了准备与胡蝶见面，花苹便与大树选购西装，花苹更为大树整理领带，大树感到一阵温馨。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2680</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E16.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

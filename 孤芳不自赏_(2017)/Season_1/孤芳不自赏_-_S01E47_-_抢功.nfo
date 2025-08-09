@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-06 18:03:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>抢功</title>
+  <originaltitle>抢功</originaltitle>
+  <showtitle>孤芳不自赏</showtitle>
+  <season>1</season>
+  <episode>47</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1262358</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>何侠带军抵达晋国边境雁林城，为了抢头功，贵炎欲率永霄军攻打雁林城，何侠故意激将贵炎，城守罗尚是楚北捷手下大将，怕贵炎不敌，请贵常宁的蔚北军协同，贵炎年轻气盛夸下海口，单军前往，临行时指定如有意外必须派他二叔的蔚北军支援，何侠应允。 贵炎出发，何侠蒙面夜袭贵常宁，打晕他之后给他灌下大量加了迷药的酒，贵常宁一醉不醒。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Croton Media</studio>
+  <dateadded>2025-08-06 17:31:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2687</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>孤芳不自赏 - S01e47 - 抢功__1920x1080__qsv_av1_10bit__28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="47" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

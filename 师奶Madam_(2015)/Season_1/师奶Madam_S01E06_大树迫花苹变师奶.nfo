@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-07 18:45:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>大树迫花苹变师奶</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>师奶Madam</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3191060</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>丹丹告知温斌仍未苏醒，凤妮等闻言松了口气。丹丹正质疑花苹和大树何以传出温斌醒转的消息，却见花苹、大树和家伦走入；花苹和大树指原来是家伦传出假消息。花苹沐浴后惊见所有时装都被换上老土师奶服饰，怒极向大树大兴问罪，大树竟气定神闲指受命正隆为她彻底改变形象，以令她尽速融入师奶的圈子。
+
+丹丹到名校为女儿轮候入学申请表，遇见汉斯的老板娘李太凭关系代为张罗得申请表甚是兴奋，丹丹听得李太和股票经纪通话，忍不住提出个人意见，未料李太竟大感兴趣提议详谈。花苹不满衣服都被换掉感沮丧，看到镜中反映突然灵机一动决心以化妆补足。
+
+不受注目　花苹失落
+
+花苹走到街上不再被注目顿感失落，不禁慨叹变身师奶待遇大不如前；花苹在快餐店偶遇丹丹，未料丹丹竟突然主动致歉，花苹乘机递上曲奇饼向丹丹示好，竟见丹丹亦递上一样的曲奇饼，二人终于一笑泯恩仇。花苹和丹丹合照并传讯向大树示威，大树看到不禁有气；大树到怜香家维修水龙头，藉口向妻子报到令怜香答应合照，再将照片传讯花苹还以颜色。
+
+大树藉口给怜香家检查电力装置，查察屋内线索，赫然瞥见之前放在温斌家的遥控车不禁愕然。怜香将遥控车归还，大喆惊喜极，看到怜香在厨房忙着拭擦，忍不住走入协助，怜香感欣慰不已。
+
+家伦出手　协助凤妮
+
+丹丹和花苹一同到美容店，凤妮不禁惊讶，趁花苹走开即拉着丹丹追问；丹丹坦白发现女儿伶俐收起花苹的枕头，请凤妮保守秘密，花苹刚巧折返，认定二人有事相瞒觉可疑。凤妮接获流氓来电说翌日登门收保护费感惊慌，家伦恰巧经过得知答应相助。
+
+大树和花苹互相炫耀成绩，花苹扬言计划随丹丹学炒股票，藉口股票蚀钱借贷救急，便可接触贵利集团并一网成擒。大树约会吕芳，却因吕芳忙着会客只好在旁等待；吕芳得知原来大树只是受罗帛所托而来不禁失望，二人间亦没有话题令气氛暧昧。
+
+花苹见识　特价抢食
+
+丹丹领花苹开股票户口后到酒楼会合怜香，丹丹和怜香着花苹稍等，指快到特价时段将可和一众茶客抢点心。凤妮在美容店表现心神恍惚，突然有人影闪身走入，不禁吓了一跳，却喜见润祥原来已回港。流氓到药房勒索保护费，罗帛和家伦等原来早在等候，流氓被警员押着离开，家伦急忙藉口走开赶往通知凤妮。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-07 18:44:10</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2689</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E06.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
