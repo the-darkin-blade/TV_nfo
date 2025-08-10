@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>家藏尸体家强蒙冤</title>
+  <originaltitle>Episode 29</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id>5006761</id>
+  <uniqueid default="false" type="tmdb">2171089</uniqueid>
+  <uniqueid default="false" type="trakt">1316162</uniqueid>
+  <uniqueid default="true" type="tvdb">5006761</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>木荣中枪，他向小嘉告白后死去。家强如愿得到彦廷手中的小四喜公司，小嘉成功夺取坐馆一职。言廷拿到希微纹身中的晶片后皆被掳走，二人的尸体出现在家强家里，惨遭陷害的家强无辜入狱。羡昕无意中知晓了浩勤的病情，浩勤不忍爱人难过便躲了起来。羡晴找到线索打算为家强翻案，但开庭当日却发现证物被人换掉，她怀疑此事是卓凯所为后因愧疚而辞去检控官一职。浩勤身体愈发虚弱，他希望在自己死前为卓凯夺回小四喜公司。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2655</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Line.Walker.E29_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

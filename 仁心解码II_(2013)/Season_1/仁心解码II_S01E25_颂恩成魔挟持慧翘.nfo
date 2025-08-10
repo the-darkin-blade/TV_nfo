@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>颂恩成魔挟持慧翘</title>
+  <originaltitle>Episode 25</originaltitle>
+  <showtitle>仁心解码II</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">913775</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>颂恩在路上遇到路检，幸好振东在场替她解围，使她能顺利运送保基离开。颂恩的头痛愈来愈严重，竟然发现在家中竟见到国彬，但颂恩这次明白眼前的国彬只是幻觉。
+
+新闻报道卢子俊伤人案，博安法医诊症他患躁郁症，立仁在离职前曾替子俊诊断，知道他根本无病，便回医院求证。子俊的报告是由永铿亲自撰写，由权威永佳亲证过，应奇这次也受到拖累，决定离职。立仁扬言要向管委会投诉，而法医部其他成员都共同进退，提出辞职。
+
+立仁发现　颂恩病情
+
+子安病情突然急转直下，颂恩得知后大受打击，而国彬的幻觉这时出现安慰她。立仁离远目击颂恩的行为，才惊讶地发现事实与一直的认知不一样，便向清洁女工打听所见一切。
+
+警方在汪家故居后山发现多具尸体，立仁得知更觉事情与颂恩可能有关。启荣检查颂恩的电脑，发现她有从网上购买精神科药物，若有服用应该有助减少幻觉幻听。但颂恩已无往志森诊所覆诊，而是凭自己判断用药。立仁体谅颂恩受过太多打击，对信仰产生怀疑。志森相信她在心理上已无法负荷过大的冲击，更失去信仰产生的依靠。
+
+警方锁定　犯案疑犯
+
+此时振东证实，汪家后山发现的尸首之一正是佩茹，更有一具是孩童骸骨，估计死去超过二十年。众人推断该孩童应该便是汪家失踪多时的独女汪晓恩，只有大军与颂恩才知道晓恩的尸首埋藏位罝，所以发现的尸体极有可能是颂恩所杀。启荣不相信，问到是否有大军杀人的可能性，立仁于是告知有关大军最新的消息。
+
+警方拘捕到一位涉嫌狙击志健的疑犯李贵祥，贵祥承认曾在法院门外枪击志健，但当他到了桑拿店时，却临时取消了行动，他并没有杀害志健。志森觉得颂恩可能要完成国彬未完成的事。
+
+立仁判断颂恩正在找下一个目标，若能知道目标便能找到她。志森认为颂恩仍有理智，受害的都是犯下重罪的人。颂恩曾提及子安去世后便无亲人，已生无可恋，心中亦有数国彬不能醒来，若她要寻死，必会找国彬一同离去。众人赶至医院到国彬的病房，护士指颂恩已离开，但国彬仍安然无恙。
+
+颂恩绑架　富户子俊
+
+立仁回家后，发现颂恩竟然在他家等候多时，立仁劝她自首，但颂恩只想找个友人倾谈而已。立仁和慧翘多番相劝都无法说服颂恩，颂恩坚持法律无法帮到穷人，临离去时拜托二人照顾国彬，还留下一个口讯……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2632</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.A.Great.Way.To.Care.Ii.E25.End.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

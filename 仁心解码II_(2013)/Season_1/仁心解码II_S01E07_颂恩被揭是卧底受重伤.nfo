@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>颂恩被揭是卧底受重伤</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>仁心解码II</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">913766</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>风以宙斯形象声称分裂出亡母人格的片段在网上疯传，富商欧文华看了片段后心脏病发送院。志森乃文华家庭医生，到病房后见文华长子子轩正安排为父亲立遗嘱之事，而欧太亦担心丈夫病情，反对此时立遗嘱。
+
+志森、立仁、启荣聚首看球赛时，启荣谈到瑶星可能有预知能力，感应到妹妹出事，觉得他的右脑机能很强，但志森与立仁都不以为然。
+
+身份曝光　颂恩受伤
+
+立仁在外为颂恩进行心理辅导，原来棠已约泰国毒贩翌日交易，狙击行动不容有失，令她的压力很大，甚至有牺牲的觉悟。可是，波已从昔日同袍口中得知颂恩真正身份，颂恩及时把他打晕及收藏在酒吧中，翌日独自随棠交易。
+
+钟Sir指挥此次行动，从接收器听到棠已揭穿颂恩是女警，奈何两部跟踪车都被棠甩掉。国彬得知颂恩在前一晚见过立仁，便请他帮忙。立仁重听颂恩与棠对话，发现波不在场。警方在酒吧发现波，才从他口中得知棠交收的地点，国彬便立即率队前往。
+
+国彬带同队伍至交收现场，成功阻止交易，但棠竟挟持颂恩，令国彬不敢贸然行动。就在国彬成功救到颂恩的一刻，颂恩被棠的手下开枪射中头部。
+
+立仁与子安收到消息赶到医院，医生告之颂恩要立即做手术，而且风险甚高。子安为颂恩祈祷，诉说她小时候多次奇迹地死里逃生的经历，证明神在冥冥之中看顾她，子安也因此相信神有大能。立仁虽不相信，但亦喜见手术顺利完成。
+
+志森开解　嘉丽情创
+
+风又以宙斯形象示人，少霞不满他接下其他传媒的工作，两人不咬弦，少霞唯有在周刊以瑶珠飞黄腾达后不顾自闭兄长为题制造新闻，幸而瑶珠并未把抹黑新闻放在心上。然而她的病人颖琳突然离家出走，琳母担心女儿受到风影响。
+
+志森的病人子华情况危殆，长子子轩再次向志森打听父亲的事，因子华晕倒前正看宙斯人格分裂亡母性格的片段，想到风极有可能是子华私生子。志森基于专业操守，自然不回应。
+
+志森与嘉丽离开医院时已夜深，嘉丽整天没有进餐而头晕，志森便到便利店购买小食，对她无微不至。志森送她回家，惊见她与丈夫原来已离婚。嘉丽更因此购买大量红酒在家，志森唯有开解她，又劝她切勿过量喝酒。
+
+思家男友　另有其人
+
+思家与年月共同跟进锦标的个案，年月想独自完成报告惹思家生气……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2652</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.A.Great.Way.To.Care.Ii.E07.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

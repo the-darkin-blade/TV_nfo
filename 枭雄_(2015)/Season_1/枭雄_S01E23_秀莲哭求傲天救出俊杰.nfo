@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>秀莲哭求傲天救出俊杰</title>
+  <originaltitle>Episode 23</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490916</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>啸山与东条赌钱，啸山一直输到最后，东条决定让赛，与啸山成为朋友。东条欲邀请上海所有名人都参加天长节，得知小蝶愿意尽力帮忙，不禁甚喜。小蝶离开东条家时，负责津北铁路的日本工程师来见东条，令她感到奇怪。
+
+天长节规定所有记者都要申请记者证，报馆老板把申请表交给婷婷，令她感到非常讨厌。兆匡接婷婷吃饭，婷婷收到神秘电话后却匆匆离去。
+
+俊杰被捕 惨遭毒打
+
+冠潮与婷婷会面，希望婷婷能代办记者证以便进入天长节，婷婷不明就里，冠潮指铁路建成后，日军就能大举侵华。二人倾谈之际，原来兆匡正在树后偷听。冠潮与党友讨论，希望在节庆之前查清楚与东条有关的所有人。
+
+俊杰负责跟踪小蝶却被拐走，秀莲哭着找傲天，说俊杰被国统处的人拘捕了，求傲天相救。俊杰被囚在牢房惨遭毒打，辩称没有跟踪小蝶，韩立不信，并说他是斧头帮成员，迫他说出同党。傲天去见韩立，希望看在二人的交情份上，释放俊杰。傲天送俊杰回家，更质问他是否加入了斧头帮，但俊杰没有正面回答。
+
+东条投资 学尧电影
+
+东条投放了大量资金在学尧的电影上，并采用日本最先进的拍摄器材。东条邀请啸山出席天长节，在小蝶劝告后，啸山称代表中国人参加节庆加强中日友好。啸山为拍电影之事称赞学尧，说他终于做了一件正经事，美琴却劝啸山与学尧取消与日本人合作。
+
+韩立密会小蝶，小蝶好奇问他为何放走俊杰，韩立指放走俊杰是另有目的。小蝶指东条与啸山等人关系愈来愈密切，而且与铁路工程师也经常见面，想必有其他目的。
+
+俊杰趁秀莲不察觉，偷偷去见斧头帮。聂勇发现俊杰被国统处的人跟踪，于是悄悄追上去。冠潮问俊杰多日来的行踪，俊杰指跟踪小蝶时，被国统处拉回去严刑迫供，幸得傲天相救，才可平安回来。
+
+韩立下令 拘捕工人
+
+国统处的人带同士兵，准备把斧头帮一网打尽，却突然遇到庭亨与法租界警察。庭亨指国统处在法租界没有执法权力，要他们立即离开。冠潮等人为了逃避追捕，纷纷四散。傲天安排冠潮和俊杰见兆匡，冠潮这时才知道，兆匡也是为傲天办事。
+
+傲天托兆匡把慰问金交给大奎家人，并希望冠潮等人立即离开上海，冠潮说会考虑。傲天不知冠潮会否离开上海，他反而担心韩立会如何对付斧头帮。韩立得到纱厂的工人名单，他下令在一天内拘捕所有工人，宁枉勿纵。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2665</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep23.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

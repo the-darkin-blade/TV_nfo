@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>高纬登基成北齐皇帝</title>
+  <originaltitle>高纬登基成北齐皇帝</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id>4659274</id>
+  <uniqueid default="false" type="tmdb">1224939</uniqueid>
+  <uniqueid default="false" type="trakt">1235565</uniqueid>
+  <uniqueid default="true" type="tvdb">4659274</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>祖珽让高纬换上龙袍回到大殿。段韶拿出圣旨在大殿上宣布，皇上将皇位传给太子高纬。郑儿一不做二不休，派人杀死了皇太后。此时，雪舞从恶梦中惊醒，担心眼前平静的日子无法长久，兰陵王安慰着雪舞。高纬背负弑父的压力，整日焦虑，郑儿宽慰高纬做一个明君。安德王等人担心高纬即位后会对兰陵王不利，于是安德王速速赶往洛阳，告知兰陵王和雪舞先皇驾崩和皇太后去世的噩耗，兰陵王和雪舞听闻，伤心欲绝，当下决定赶回皇宫奔丧。雪舞深恐奶奶的预言成真，兰陵王为消除她的疑虑，保证会向皇上奏明归隐之心。周国宇文邕得知齐国高湛死讯，并将皇位传给鲁莽的太子高纬，觉得天佑大周，决定终止与齐国停战协议。兰陵王等人回宫，误了高纬的登基吉时，便有谣言说兰陵王不将皇上放在眼里，高纬在朝中提起此事，兰陵王辩白，高纬说他相信兰陵王，令大臣们不得再挑拨他与四哥之间的情谊。退朝后高纬独留兰陵王和雪舞，赐上美酒，雪舞借机送上登基贺礼——银杯，高纬大喜，便立即用银杯喝酒，其实这是雪舞为了测试酒液中是否有毒想出来的办法。高纬希望兰陵王恢复官职，继续为齐国效力，兰陵王感念皇上的兄弟情，无法推辞，只好接受此提议。安德王在兰陵王处吃饭，钟情于小翠。还开玩笑说兰陵王以前也很风流。郑儿因流犯身份，终日只能藏于宫中，她心有不甘，唤来昔日在宫中一起当差的好姐妹冯小怜，两人亲切叙旧，但郑儿早已备好毒酒，欲将小怜杀害。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep31_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

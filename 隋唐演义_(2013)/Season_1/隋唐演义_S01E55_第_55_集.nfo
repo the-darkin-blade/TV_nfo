@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 55 集</title>
+  <originaltitle>第 55 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>55</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783881</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>罗成告别父亲，随秦琼回瓦岗，准备重整旗鼓，再战隋朝。罗艺则回北平府。　　杨广损兵折将，手中已无兵权，自知死期降至，感慨颇多。宇文化及操控军队，软禁杨广，更要除掉北平王。宇文化及、宇文成都率兵半路截杀罗艺，罗艺惨死宇文成都手下。宇文父子，赶往北平府，欲夺北平府之兵权。罗松带王妃逃走，被宇文化及拦下，罗松、王妃俱死于宇文父子手下。宇文化及既得北平府兵权，下一步便要除掉杨广，逼他交出玉玺。罗成预感家中有事，急忙往回赶，却发现满门皆死，难以消受，更被宇文成都手下抓住，押往扬州。　　夏王窦建德得知铜旗阵一役，隋军与反王皆是损失严重，此时正是他渔翁得利之时，于是同女儿窦线娘一起直下扬州，夺取玉玺，逐鹿中原。途中，正遇隋军押罗成前往扬州，于是出手相救，不想正遇秦琼等人也来相救。双方合力将罗成救出。窦建德与程咬金商议，一同前去扬州，除掉昏君。　　窦线娘为受伤的罗成送药，处处表示关怀之意，单盈盈有些吃醋。　　杨广观琼花，忽一阵邪风吹来，琼花飘零，杨广深感扫兴，此时令狐行达来报，请杨广还朝。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2716</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>55_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="55" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

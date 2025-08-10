@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 31 集</title>
+  <originaltitle>第 31 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783855</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>玉郡主担心秦琼安危前去找寻。徕乎尔奉命搜山，却正遇单盈盈和秦母，将二人抓获，罗士信受胁迫只得束手就擒。秦琼知母亲被抓，忧心忡忡，又担心后有追兵，难逃生天。罗成、谢映登请命前去营救秦母等人，秦琼则率众人前往小孤山。　　徕乎尔将秦母、单盈盈、罗士信关入牢车，为防罗士信逃跑更是将他装入铁制牢笼。徕乎尔使坏，不给罗士信饭吃，罗士信肚饿要吃饭，徕乎尔给他吃了一顿鞭子。午夜大雨，罗士信饿极再加身上伤口疼痛发作，一怒之下将铁链折断囚车掰开，拉着秦母、单盈盈逃走。然徕乎尔发现后，率兵直追，罗士信将秦母二人停在林中，大战徕乎尔及士兵。罗成赶来将秦母二人接走，谢映登前去寻找罗士信。　　徕乎尔败走，罗士信回到林中却发现秦母、单盈盈已不见踪影，以为二人被徕乎尔抓走，罗士信当下直往济南城跑去，直奔监军府。　罗士信怒杀徕乎尔，唐璧闻讯而至，欲将罗士信拿下。罗士信手持大铁枪，将唐璧的士兵杀得落花流水，直往城外奔去。途中正遇谢映登，谢映登为其指路，要他前往小孤山方向与秦琼回合。　　罗成、秦母、单盈盈正在路中，罗成试吃野果假装中毒，害得单盈盈虚惊一场，一路上二人感情升温。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2639</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>31_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

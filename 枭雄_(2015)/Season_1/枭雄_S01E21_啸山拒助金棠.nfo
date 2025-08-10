@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>啸山拒助金棠</title>
+  <originaltitle>Episode 21</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490914</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>金棠得罪了督军儿子后，于华界的赌档及鸦片烟馆终日被查，生意大受影响。督军声言要金棠跪地道歉，金棠得知后决定集齐兄弟杀入华界，桂生现身阻止，指她与督军的祖母卢老太甚有交情，可代为说项。
+
+桂生为有后盾撑腰，托傲天请啸山出手，但啸山对金棠的怒气未消，不愿帮忙。傲天指若他能摆平此事，金棠必会报恩与他合作做生意，啸山暂且相信。
+
+三人合作 开设三铿
+
+桂生到佛堂拜会卢老太，卢大帅与卢少帅却带来一班士兵，与桂生在后堂详谈。桂生代金棠向二人道歉，并准备了一万大洋作老太的大寿贺礼，但卢少帅仍然不肯原谅金棠。这时，啸山与傲天来到后堂，要大帅撤走法租界军队，少帅不肯，除非桂生自插一刀。
+
+桂生向金棠说出这次脱险全靠啸山，而他有周大帅支持，应该与他合作。金棠与啸山约谈新公司事宜，啸山为公司改名为「三铿公司」。
+
+绮红到警察厅找金棠，金棠虽刻意疏远她，但色心又起决定与绮红去天津，忘记了对桂生的承诺。
+
+淑英埋怨 傲天冷落
+
+傲天深夜回家，见淑英仍在厅中等他，于是吩咐淑英为桂生煲汤，他则在书房工作。淑英到书房大哭大闹，埋怨傲天冷落她，傲天无言以对。
+
+金棠回家见桂生独自喝闷酒，桂生知道金棠瞒着她与绮红到天津，决定离开翟宅，声言与他恩断义绝。桂生终日以鸦片来解愁，傲天尽力劝阻，桂生反而劝傲天要好好对淑英。桂生要傲天除掉她送的幸运绳，并在傲天面前销毁它。
+
+傲天想与淑英重修旧好，岂料淑英已决定回乡。傲天、金棠与啸山组成的三铿公司终于成立，啸山大为高兴，自言经历过三起三跌才有今天的成就，而这公司只是踏脚石，自己将来要成上海第一大亨。
+
+文龙怕死 决定回乡
+
+傲天与手下在公司门外突然被广东帮追杀，阿东与阿南不幸被杀，傲天誓言要广东帮血债血偿。文龙看到阿东与阿南惨死，不禁非常惊慌。文龙对傲天坦言，之前来法租界只想灯红酒绿，想不到竟是每日提心吊胆地过这种腥风血雨的日子，于是决定回乡，重过平淡生活。傲天不勉强好友，支持他的决定。
+
+傲天终在法租界闯出名堂，当他回到华界水果店见秀莲平安，亦放下心头大石，并吩咐手下要保护果档安全。傲天经过剧院，入场看《穆桂英挂帅》，想不到这时他竟想起小楼。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep21.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

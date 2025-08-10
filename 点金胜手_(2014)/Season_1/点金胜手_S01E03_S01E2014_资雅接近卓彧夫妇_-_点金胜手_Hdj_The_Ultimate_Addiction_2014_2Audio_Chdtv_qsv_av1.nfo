@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>资雅接近卓彧夫妇</title>
+  <originaltitle>资雅接近卓彧夫妇</originaltitle>
+  <showtitle>点金胜手</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2399319</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>卓彧与妻子明瑜到私人会所约会，却碰上资雅在会所献唱，卓彧以为资雅特意跟踪自己，于是便邀请资雅下台详谈。
+
+双怡为了在卓彧身上进一步取得调查线索，便指挥手下探员对卓彧进行窃听，探员国亮成功查出卓彧最近与一名内地的官二代罗浚基有密切联系，双怡便即带队跟进。
+
+双怡下令　逮捕卓彧
+
+卓彧相约浚基到夜总会见面，并且安排舞娘助兴，令浚基甚感满意。卓彧与浚基故意支开舞娘，并将房间的音乐声量调高，浚基亦趁机将几个塞满现金的行李箱交给卓彧。
+
+双怡一直在夜总会的保安室进行监视，当她一见卓彧收取现金，便认定卓彧正进行黑钱交易。虽然辛勇感到不妥并出言提点双怡，但双怡却没有理会。
+
+无辜惹祸　迁怒卓彧
+
+浚基无辜被拘捕，认为卓彧拖累自己与卓彧交恶。辛勇见卓彧因为双怡的过失而得罪重要客户而感自责，但卓彧没有因此怪责辛勇。双怡却因为拘捕行动失当而被上司教训，双怡与辛勇两人更因此事而大吵一场。
+
+祖伟施计　购入股票
+
+祖伟在报道中得知卓彧与浚基交恶后，便为好色的浚基安排女人，以博取他的好感。看见祖伟替自己安排好一切，浚基不禁大喜更与祖伟安排的女人喝酒玩乐。
+
+祖伟见时机成熟，便要求正沉醉享乐的浚基签署一份转让合约，以掌握他手上的棱锐股票。
+
+应付收购　召开大会
+
+卓彧为了筹集资金对付祖伟的收购，便召开股东大会提出供股集资，祖伟却在此时出现，并以最大股权持有人的身分提出中止股东大会。卓彧亦反指自己仍然为最大股权持有人。
+
+同一时间，兆隆突然向商业罪案调查科更改口供，指证祖伟才是欺诈案的幕后黑手；双怡即派员将有关人等一网打尽。
+
+祖伟逃忙　双怡紧追
+
+突然被兆隆背叛的祖伟找卓彧对话，才知道卓彧早已察觉兆隆与祖伟串通图利，便设下圈套并利用商业罪案调查科对付祖伟，以令卓彧能够吞并祖伟手上的东北发展计划。
+
+祖伟心知自己的罪行将会被警方查出，便打算潜逃暂避风头，双怡早就收到线报，并带队阻止祖伟逃走。祖伟驾船逃生，双怡因尾随祖伟而身陷险境。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1324</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>MP3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[点金胜手].Hdj.The.Ultimate.Addiction.Ep03.2014.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>点金胜手 Hdj The Ultimate Addiction 2014 2Audio Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>点金胜手</showtitle>
+  <season>1</season>
+  <episode>2014</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1324</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>MP3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[点金胜手].Hdj.The.Ultimate.Addiction.Ep03.2014.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2014" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

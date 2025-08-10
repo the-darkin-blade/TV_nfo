@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 10 集</title>
+  <originaltitle>第 10 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2681177</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>尤俊达等双方两败俱伤之时，让程咬金冲了出去，黑衣人残余部下伺机逃走，罗方、薛亮迎战程咬金等人，程咬金劫道无经验，尽数报出自己和尤俊达姓名。　　尤俊达带人杀出，罗方薛亮不敌，抛下皇纲逃去。尤俊达虽然劫获皇纲，但被程咬金报了姓名出去，他不得不将程咬金关入地窖，程咬金虽不愿意但敌不过只好老实呆在地窖内。　　武亮为报家仇，投靠突厥、献出瓦口关，欲要借助突厥兵力征讨北平王，为兄侄报仇。　　罗方薛亮逃回登州府，杨林得知皇纲被劫，不禁大怒，玉郡主请命前去长叶林查探，济南府大帅唐璧等人跟随玉郡主到达长叶林，玉郡主无意间发现树上挂着的一块神秘的令箭。　　玉郡主征得杨林应允，起身前往宫中，密查令箭之事。　　扮成黑衣人的宇文成都为杨广劫皇纲未成反而丢了令箭，宇文化及怒斥宇文成都，杨广得知却并介意，他的另一个计谋正在实施当中，琼花公主正一步步走入杨广设下的陷阱。
+
+突厥来袭，秦琼以事端皆因己而起，请命出战，罗成协战。秦琼战红海，黄骠马受惊，少年秦用出手救下秦琼，得知秦琼姓名之后，毅然认定秦琼乃是父亲，秦琼不知缘由，跟随秦用到家见到秦用母亲刘氏才知，秦琼原与秦用父亲秦行太结为兄弟，秦琼恍然。秦琼带着秦用回到战场。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>10_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

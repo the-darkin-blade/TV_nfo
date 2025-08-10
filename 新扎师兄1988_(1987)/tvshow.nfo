@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:31:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>新扎师兄1988</title>
+  <originaltitle>新紮師兄1988</originaltitle>
+  <showtitle>新扎师兄1988</showtitle>
+  <sorttitle/>
+  <year>1987</year>
+  <top250>0</top250>
+  <ratings/>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>《新紮師兄》是1984年製作的青春勵志剧，是當年TVB十大全球最高收視率劇集之一，並在香港首播時引起巨大轟動，亦令當時投考警察人數大增。劇中男女主角梁朝偉、張曼玉、劉青雲、劉嘉玲已成為當今影帝、影后級人馬。故事內容以香港少年警察訓練學校為背景。少年警察訓練學校是香港在1970年代至1990年代由警隊開辦的高中學校，學生除一般學習外亦接受紀律訓練，畢業後可優先投考加入警隊。新紮師兄講述多名進入學校的少年的成長經歷，由進校至畢業，進入警隊後的經過。當中包括有各人在家庭、社會、事業、愛情等各方面的挫折與發展。</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"112636","imdb":"tt0485450","wikidata":"Q11084105","tvdb":"294338"}</episodeguide>
+  <id>294338</id>
+  <imdbid>tt0485450</imdbid>
+  <tmdbid>112636</tmdbid>
+  <uniqueid default="false" type="tmdb">112636</uniqueid>
+  <uniqueid default="false" type="imdb">tt0485450</uniqueid>
+  <uniqueid default="false" type="wikidata">Q11084105</uniqueid>
+  <uniqueid default="true" type="tvdb">294338</uniqueid>
+  <premiered>1987-11-23</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Family</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <studio>TVB Jade</studio>
+  <country>中国香港特别行政区</country>
+  <actor>
+    <name>Tony Leung Chiu-wai</name>
+    <role>Cheung Wai Kit</role>
+    <profile>https://thetvdb.com/people/8310499-tony-chiu-wai-leung</profile>
+    <tvdbid>8310499</tvdbid>
+  </actor>
+  <actor>
+    <name>Eddy Ko</name>
+    <role>Bin Shing</role>
+    <profile>https://thetvdb.com/people/8279199-eddy-ko</profile>
+    <tvdbid>8279199</tvdbid>
+  </actor>
+  <actor>
+    <name>Carina Lau</name>
+    <role>Cheung Ka Man</role>
+    <profile>https://thetvdb.com/people/561980-carina-lau</profile>
+    <tvdbid>561980</tvdbid>
+  </actor>
+  <actor>
+    <name>Siu-Ming Lau</name>
+    <role>Cheung Wai Kit's Father</role>
+    <profile>https://thetvdb.com/people/8335664-siu-ming-lau</profile>
+    <tvdbid>8335664</tvdbid>
+  </actor>
+  <actor>
+    <name>Lan Law</name>
+    <role>Father's Second Wife</role>
+    <profile>https://thetvdb.com/people/8226187-lan-law</profile>
+    <tvdbid>8226187</tvdbid>
+  </actor>
+  <actor>
+    <name>Fong Lui</name>
+    <role>Ko Lo chuen</role>
+    <profile>https://thetvdb.com/people/8395910-fong-lui</profile>
+    <tvdbid>8395910</tvdbid>
+  </actor>
+  <actor>
+    <name>So Hang-Suen</name>
+    <role>Cheung Wai Kit's Mother</role>
+    <profile>https://thetvdb.com/people/8868034-so-hang-suen</profile>
+    <tvdbid>8868034</tvdbid>
+  </actor>
+  <actor>
+    <name>Margie Tsang</name>
+    <role>Yip How Yee</role>
+    <profile>https://thetvdb.com/people/7865413-margie-tsang</profile>
+    <tvdbid>7865413</tvdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+    <group id="ABSOLUTE" name="Absolute Order"/>
+  </episode_groups>
+</tvshow>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 3 集</title>
+  <originaltitle>第 3 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2681170</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>武奎、武亮以及武奎之子武安福来到北平府，武安福仗势欺人、肆意撒野，罗成及时出手，制止武安福，武安福不服，玉郡主突然出现，化解了危机。罗成带领武家兄弟以及玉郡主来到了北平王府。原来这玉郡主因不愿嫁给杨广，趁机私逃出了登州府。玉郡主来到登州王府，王妃看出玉郡主心事，两人交谈之中，玉郡主豁然开朗，并被王妃不凡气质所打动，她决定不再逃避，而是勇敢地面对现实，回登州王府。　　秦琼被金蛇卫一路追杀之时，汝南庄上，程咬金正过着舒坦日子，尤俊达本以为程咬金一身武艺，一问才知程咬金只会些唬人的招式，尤俊达无奈至极，程母恳求尤俊达教授程咬金，尤俊达勉强答应。程咬金挑了兵器，准备习武，以助尤俊达劫皇纲，但是尤俊达对程咬金并不报希望，私下另寻高人，一边应付着程咬金。　　秦琼被金蛇卫追杀，和樊虎逃到一家客栈，樊虎安顿好秦琼，边先押着樊虎回衙门赴命。　　樊虎走后，秦琼待在客栈养伤，店家王小二意外发现秦琼身上带有银子，便起了歹心，夫妻二人一起施计偷了秦琼的银子，又催秦琼缴纳住店银两，秦琼才知银子被偷，无奈之下，他被迫搬到草房，病情也日益加重，后又遭王小二逼迫，当了双锏，以维持生计。然而，贪婪的王小二夫妻二人依然不肯罢休，最终逼得秦琼不得不痛心去卖马求生。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2643</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>03_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

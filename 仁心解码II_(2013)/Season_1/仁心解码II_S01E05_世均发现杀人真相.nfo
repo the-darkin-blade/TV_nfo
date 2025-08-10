@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>世均发现杀人真相</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>仁心解码II</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">913770</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>颂恩虽寻得芮之留下的记忆棒，但未来得及交给国彬，已被波带走。另一边厢，世均在伤愈出院后首次召开盖亚教公开的布道大会，警方推想学礼可能出现，便加派人手赶到布道会现场。学礼果然出现更混在教徒中，他打算趁机行刺世均，幸得国彬及时将他制服。
+
+国彬已知颂恩寻得芮之留下的证据，便以世均有嫌疑而拘捕他。得知天兄被捕，一众盖亚教信徒竟于警局前聚集不散。
+
+学礼自白　道出真相
+
+慧翘说服学礼协助警方，终于令他说出一切真相，原来世均曾是学礼学生，故学礼后悔自己的学说竟制造出害人魔鬼。而芮之因为偶然发现学礼未出版的着作，便到医院找盖亚教的始创人「天公」。从芮之口中，学礼始知盖亚教的存在，于是他向芮之怒斥这只是骗局。而芮之在找到世均的犯罪证据后，不久便被杀。学礼明白自己留有案底及曾患精神病，警方不会相信他，决定只能靠自己。
+
+颂恩被波带去与社团老大棠吃夜宵，棠有感受警方扫荡，认为有人出卖组织，更怀疑颂恩，于是搜查她的物品。混乱间颂恩辛苦找回的记忆棒被冲到沟渠，令警方失去证据指控世均。世均受警方盘问，但他知道警察根本毫无证据而获释，反而学礼却因伤人而被起诉。
+
+立仁协助　颂恩舒压
+
+经此事后，国彬已从别组队长得知颂恩身分，明白她有其他任务在身不能太深入调查。颂恩碍于卧底身分，积存压力甚大，甚至不能探望病重的神父。立仁接到颂恩来电，只有在电话安慰她，又教她运动跑步舒缓压力。
+
+慧翘接到一宗新病症，女病人秀娟涉嫌因躁郁性殴打丈夫，而躁郁的源头是来自丈夫可发失业而承受生活压力。当秀娟住进院后，可发亦不敢进病房探望她，更独自躲于男厕饮泣。慧翘借此病症与启荣商讨，但她拖延时间延迟下班，目的竟是不想回家与男友相对，不欲被他逼使产子。
+
+启荣失恋　淑宜被杀
+
+启荣又再听到思家与男友通电话，知道她的男友可能是医生，马上与世邦和日勤倾诉，认为思家男友肯定是坏人不懂爱惜女友。
+
+气象突然变得愈来愈反覆，而盖亚信徒在三号风球下仍在街上求神显神迹。世均定下末日最后的期限，向信徒作出最后的骗术，称饮用圣水后便可乘坐方舟逃离末日。此时，在西环码头发现到淑宜的尸体，身上有十多处刀伤。
+
+世均摆脱　杀人嫌疑
+
+警方发现淑宜死前七日，把所有现金存入世均户口，便再以杀人嫌疑再捕世均……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2648</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.A.Great.Way.To.Care.Ii.E05.1080I.Hdtv.H264-Area11(1)_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

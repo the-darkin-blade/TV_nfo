@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>立仁遭同事排挤</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>仁心解码II</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">913757</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>立仁驾车经过大学时与洁心常到的糖水店，回想昔日种种片段。在临近打烊的时候，一名女子竟在糖水店不肯离开，更声称约了高立仁在店里相会。原来该女子正是立仁的初恋情人徐洁心，她在一次车祸后患有极限性失忆，以为现在仍是1986年。
+
+慧翘指现今医学水平无法助洁心回复记忆，只能对她施以认知行为治疗，让她早日接受现实，慧翘更认为洁心似有心事未了，若能替她完成心愿可助她顺利接受治疗。紫妮说母亲当年约立仁见面，其实是想与他结婚私奔，于是请他帮忙劝说母亲。
+
+颂恩屡被　恶梦纠缠
+
+颂恩在一次行动中追捕罪犯时，因看见一被弃玩偶而分心，国彬以上司之身斥她工作态度不佳，另一方面知道她失去家人似的童年玩伴，又以男友身份为她请假休息。
+
+颂恩找志森帮助，说自己常受恶梦困扰，经常梦见自己抱着那个玩偶不断跑。志森分析这是代表潜意识中的恐惧，决定与她一同寻找恐惧的来源。
+
+自上次酒吧醉酒后，日勤便难忘瑶珠，决定约她出来向她表白，可是瑶珠强硬地拒绝日勤，更称只与日勤见过一面，不相信一见钟情。启荣不忍日勤被拒，更指瑶珠用言太狠。
+
+沉迷整容的病人周太服药自杀不遂送院，周生怪太太闹事，瑶珠反斥周太所做一切全因周生有第三者，指他贪恋年轻女子的美貌。瑶珠和启荣离开医院，见周生与第三者会面，惊觉她竟是长相平庸的女子。瑶珠向周生道歉，又答应为周太找回自我。其后，瑶珠再约会日勤，让二人有更多机会互相认识。
+
+年月立仁　阻止自杀
+
+兴泰为医院拍摄精神病康复者特辑，被主持问到当年病发斩死人的事已感悲恸，年月见主持多番提到当年事件，便阻止继续拍摄，以防兴泰受到过度刺激，可是此举却被永铿责骂阻碍进度及拍摄效果。
+
+立仁因不肯去见洁心协助她的行为治疗，而被众同事有意无意间排挤，结果午饭改与年月坐在一起。
+
+年月收到通知，拍摄队伍变本加厉带兴泰探访死者家属，结果兴泰突然难以自制，更逃离拍摄队伍，立仁为此而再三质疑永铿做法有问题。立仁与年月一同去到死者坟前，发现兴泰正要自杀，急忙制止他，更答允会协助他重新融入社会。
+
+立仁终于　会见洁心
+
+慧翘通知立仁洁心明日出院，病人需要照顾和关心，希望他能当作为了他和洁心二人设想而去见她。立仁有感自己放不开，于是找子安向他请教……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2647</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.A.Great.Way.To.Care.Ii.E15.1080I.Hdtv.H264-Area11(1)_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>傲天千里寻妹 与啸山交恶</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490900</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>时间回到正值南北割据的二十年代，上海学生纷纷站出来抵抗北洋军阀欺压。少年傲天那时正在启华的水果店工作，只求三餐温饱。傲天与好友古文龙在街上遇见芷晶，见她发现琼姐时即拔足逃跑。
+
+原来琼姐要芷晶卖身还钱，傲天与文龙发现后，便假扮警察把琼姐赶走。原来傲天刚丧父，来上海是为了寻找妹妹小莉。傲天与文龙在赌档连胜三关，引起赌场头目铁头注意，二人赢钱后到怡香院消遣，却见到琼姐。
+
+初见小楼 傲天着迷
+
+由于「南北议和」将在上海举行，金棠收到上头指示要肃清市容，故要巡查怡香院。大家姐桂生亲自出来迎接，想不到她竟如此惊艳。
+
+革命党人关定邦劝小莉先到苏州，小莉不肯。一群北洋军阀经过，在街道上捣乱。启华慨叹军阀到处欺压百姓，导致民不聊生，故希望南北议和成功。
+
+傲天与文龙原定去看大戏，剧目正是《穆桂英挂帅》，傲天叫文龙先去买票，但戏票太贵，文龙不舍得付钱。傲天心生一计，他趁小楼从后门进入后台时，与文龙偷偷溜进剧团看戏。傲天留意到站在舞台旁的小楼，见她模仿着台上演员的举动，傲天看得入迷之际，突然被职员发现，只好逃走。
+
+启华还钱 息事宁人
+
+傲天与文龙再去赌钱，却输个清光，傲天怀疑对方出千，结果与铁头打起来。傲天回家，启华见他身上有伤，傲天指遇到流氓，启华于是帮他敷跌打酒。
+
+铁头经过傲天的水果店，向启华说傲天输钱不认数，在水果店内捣乱。启华为息事宁人，只好代傲天还钱。事后，傲天指是对方出千，启华却说没有势力的人只可以忍气吞声。
+
+有人到码头找啸山晦气，啸山二话不说便狠狠地把他们打走。有小孩在水果店偷苹果，傲天发现后迫他把裤脱掉作代价，原来那个小孩正是啸山的儿子学尧。学尧回到码头把这事告知啸山，啸山即带同手下去向傲天寻仇。
+
+横蛮啸山 为子报仇
+
+啸山与手下来到水果店，傲天自知闯了大祸，即人急智生，扮作盲人把啸山骗走。啸山误以为文龙是傲天，便打了他一顿，后来文龙拿出工作证，才证明到自己不是傲天。
+
+芷晶告诉傲天她见过定邦，小莉可能也在附近，于是他立即离开水果店。傲天在平安里四处搜寻，却不见小莉踪影。定邦与其他革命党人正部署暗杀计划，傲天突然找上门，定邦为怕连累他，恶意骂走他。
+
+傲天在楼下等待，见定邦出来便一直跟踪他……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2663</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep07.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>死亡骗局卓凯亮身份</title>
+  <originaltitle>Episode 30</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id>5007714</id>
+  <uniqueid default="false" type="tmdb">2171090</uniqueid>
+  <uniqueid default="false" type="trakt">1316306</uniqueid>
+  <uniqueid default="true" type="tvdb">5007714</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小嘉从家强的流浪汉朋友小乐手上拿到一张照片，此照片可以证明家强未杀人。家强出狱后开始了新界土地计划的最后一步，浩勤在羡昕相助下操纵股市粉碎了家强的计划后再次离去。新界计划所得的利润掌握在卓凯手中，他早已和钱瑞安暗中勾结。卓凯要求加入瑞安集团，并在其监视下杀了小嘉、家强和羡昕姐妹后加入犯罪集团。其实小嘉等人的死只是一场骗局，卓凯成功卧底犯罪集团并拘捕瑞安，谁料瑞安趁机逃跑。</plot>
+  <runtime>87</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>5257</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Line.Walker.E30_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

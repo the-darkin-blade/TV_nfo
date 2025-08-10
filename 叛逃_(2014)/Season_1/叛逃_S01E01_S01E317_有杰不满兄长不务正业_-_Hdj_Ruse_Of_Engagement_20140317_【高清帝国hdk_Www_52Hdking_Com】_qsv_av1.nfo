@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>有杰不满兄长不务正业</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>4826737</id>
+  <uniqueid default="false" type="tmdb">1984071</uniqueid>
+  <uniqueid default="false" type="trakt">1273086</uniqueid>
+  <uniqueid default="true" type="tvdb">4826737</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>佐藤是擅长于生化袭击的日本恐怖分子，与东非的恐怖分子在香港进行交易，但最后双方的谈判破裂收场并引发枪战，商场顿时变作战场。
+
+休班警员庄有杰正好处身商场内，处变不惊的他更单枪匹马与三名东非恐怖分子在商场枪战，最后成功保护市民及击退恐怖分子。
+
+香港反恐部门「ATF」成员钟日嘉在家观看新闻，得知商场枪战与恐怖分子有关后，动身赶往现场。有杰与日嘉相遇，并对ATF充满兴趣。
+
+有杰被邀　协助调查  有杰被ATF总指挥官沈志敖传召到ATF总部作供，在日嘉与有杰的帮助下，ATF成功以电脑搜寻出东非恐怖分子的资料。
+
+有杰在ATF的任务功成身退后，便到沙田剧场探望母亲唐淑芬。淑芬在报道中得知有杰与恐怖分子枪战后甚感担忧，更提醒儿子，希望他做事前能先顾及自己的安危。
+
+有杰虽明白母亲的苦心，但也只得敷衍过去便独自离开。有杰在街上遇见其兄庄有正打架闹事，身为警察的有杰出手阻止，并且警告有正别再做坏事令淑芬伤心，但有正却未有加以理会。
+
+兄长有正　加入黑帮
+
+原来有正离家后加入了黑社会头目黑狗的社团当其手下。黑狗一直与外国的犯罪势力有联系，更收到了东非恐怖分子的委托，要求杀死躲藏在香港的佐藤。
+
+黑狗命有正执行此任务，有正在沙田剧场遇上佐藤，两人一碰面便即场大打出手。工作中的淑芬欲制止有正杀死佐藤，佐藤乘机逃之夭夭，淑芬亦因受惊送院。
+
+前往医院探望母亲的有杰得知淑芬入院是和有正有关后，为兄长变得不近人情之事感到忿忿不平。
+
+众人围捕　恐怖分子
+
+ATF掌握到佐藤的藏身地点，ATF除空群出动外，更派特种部队前往地点打算拘捕佐藤。另一方面，有正因杀害佐藤的行动失败而被黑狗哥毒打。事后有正得知黑狗哥正在部署大规模的犯罪行动。
+
+赛场之中　兄弟相遇
+
+ATF得知佐藤来香港目的，原来是为了在龙舟赛事中刺杀来访的日本政要，便在龙舟赛的会场设下严密布防。黑狗亦指派有正等一众手下，要求他们分别将三个旅行袋带入会场。
+
+有杰因为代表警方参加比赛而遇见有正，有杰觉有正行踪可疑便决定跟踪。当有杰在公厕发现有正的时候，会场门外竟然发生炸弹爆炸……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Ruse.Of.Engagement.E01.20140317.1080I.【高清帝国hdk-Www.52Hdking.Com】_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Ruse Of Engagement 20140317 【高清帝国hdk Www 52Hdking Com】 qsv av1</title>
+  <originaltitle/>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>317</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Ruse.Of.Engagement.E01.20140317.1080I.【高清帝国hdk-Www.52Hdking.Com】_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="317" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 35 集</title>
+  <originaltitle>第 35 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783859</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>瓦岗之中正为打退隋军而喜，并举行了盛大的开国大典。程咬金封赏诸位英雄，立国号，拟诏书，下发各处。　　杨广召见靠山王，问及山东造反一事，宇文化及出恶计，欲诛二贤庄，更将此事交与山西通守李渊。宇文成都听说秦琼造反之事，担心玉郡主随他去往瓦岗，性命堪忧。罗艺知瓦岗一事，亲自来此强行将罗成带走，更是奉劝秦琼及时悔改，莫做大逆不道之事。罗艺刚走，宇文成都亦到城下，称杨林要带十五万大军前来瓦岗，要带玉郡主离开。玉郡主与宇文成都言明跟随秦琼不渝之志，和宇文成都恩断义绝，宇文成都心碎而去。　　山西通守李渊奉命查抄二贤庄，次子李世民知其中有诈，怕此行必会得罪绿林众人，又知二贤庄多为妇孺，起仁慈之心，于是劝父谨慎行事，一一盘查二贤庄之人可有造反之实，再做定夺，李渊欣然允之。　　单面、单轴奉单雄信之命，赶往二贤庄将亲眷转移，然马一路狂泵暴毙，二人只得步行上路。　　二贤庄已被李渊父子查抄，押回通守府牢狱之时，宇文化及奸险买通死刑犯混入二贤庄亲眷之中，鼓动造反，与官兵发生冲突，待单面、单轴赶来之际，死伤颇为惨重，前来营救的金甲、童环二人更是惨死当场。单面为保护亲眷，被乱箭射死。单轴拼死将单门一小女小雪救出，冲出包围，直奔瓦岗。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2781</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>35_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

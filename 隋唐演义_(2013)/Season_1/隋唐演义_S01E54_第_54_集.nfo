@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 54 集</title>
+  <originaltitle>第 54 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>54</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783880</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>众人当下商议决定从宇文成都所守白虎阵攻入。　　未等瓦岗之人通知，刘大朋、韩猛、韩勇、谢天豹四名反王为私欲所怂恿，擅自闯阵，惨死阵中，全军覆没。魏王下令攻破白虎阵，与宇文成都一场恶斗，幸好李元霸来得及时，牵制住宇文成都。各反王趁乱冲入阵中，以夺铜旗。数家反王为夺铜旗而自相残杀，此时杨林率军而出，围剿反王，与反王战在一处。白虎阵，瓦岗军还在与隋军作战，伤亡惨重。尤俊达为救程咬金被射中。而杨林不敌反王围攻，战死沙场，秦琼拿得铜旗，被人拥戴着前往扬州行宫去换金镶玉玺。　　杨广得知靠山王已死，心中愤恨，不明白为何天下人反他，于是下令定要杀掉所有逆反之人。杨广将一盒子交予宇文化及，称盒中便有玉玺，命宇文化及把盒子送出，换与夺得铜旗之人。秦用代父拿铜旗换玉玺，不料盒中竟暗藏毒箭，秦用惨死当场，秦琼悲痛，情绪难抑。众人激愤，欲冲进行宫，杀奸臣、诛昏君，为死去的弟兄报仇。　正当诸位英雄要冲进行宫之时，不料却从行宫四周冒出许多军队来，与剩余反王军队恶战一番。然李元霸在打斗之时被击头部，开始癫狂，竟杀起自己人来。王伯当在徐茂公的指挥下，箭射其气穴，李元霸无声倒下。秦琼率领众人终杀退最后的隋军来到行宫门口。罗士信将宫门撞开，却被门内乱箭射死，战场之相，惨不忍睹。秦琼怕伤亡过重，命人撤退。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2698</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>54_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="54" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

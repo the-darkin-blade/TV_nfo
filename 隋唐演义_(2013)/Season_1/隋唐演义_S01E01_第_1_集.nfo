@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 1 集</title>
+  <originaltitle>第 1 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2395744</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>公元581年，隋朝建立。隋文帝杨坚以天下一统为己任，平北周，灭后梁，统一之势，锐不可当!唯陈国凭长江天堑，割据一方。隋备战多时，终于公元588年由晋王杨广遣大军挥戈南下，起兵伐陈!陈国不堪一击，杨广带兵攻下陈国，兵乱之中俘获陈国妃子萧美娘。
+
+隋文帝对凯旋而归的杨广大加赞赏，杨广觊觎皇位，在文帝面前故作清心寡欲，不仅回绝了奖赏，而且还要抄写经书为国祈福，文帝和独孤皇后顿时感叹于杨广的仁德之心。太子杨勇虽早就看穿杨广目的，但因没有直接证据，只能忍气吞声。在庆祝宴会上，杨林之女玉郡主(杨玉儿)敬献鼓舞，杨广艳羡玉郡主美色，自荐与其共舞，其间，杨广尽施手段，调戏玉郡主，玉郡主暗中还以颜色。
+
+随后文帝下令大赦天下!不论是杀人凶犯，响马强盗，凡在押犯人，全部释放。但是因贩卖私盐而入狱的程咬金却迟迟不愿出狱，县太爷前来劝告，看出程咬金目的，便给了他一些银子，程咬金这才离去。
+
+十三省绿林总瓢把子单雄信此时正在密谋劫皇纲!他的江湖令正传遍全国各地，山东瓢把子尤俊达也接到此令，正急于寻找一位艺高胆大之人，协助劫皇纲。
+
+程咬金回家途中，被尤俊达眼线万老财看中，并施计验出程咬金是一位胆大之人，尤俊达将程咬金带到了汝南庄，两人相互倾慕，结拜为兄弟。
+
+玉郡主和琼花公主在宫中行走，宇文成都趁机对玉郡主告白，玉郡主宛然拒绝。杨广将从陈国带回的萧美娘藏匿于地宫，过着骄奢淫逸的地下生活。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2634</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>01_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

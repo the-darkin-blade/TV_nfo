@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 2 集</title>
+  <originaltitle>第 2 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2681169</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>山东历城县马快班头秦琼为捉拿响马，深入敌穴打探内情，紧急之时，黄骠马突然出现，将宝锏送来，秦琼手下兄弟樊虎也及时赶到，两人以一敌百，制服响马龙海等人，并押解其赶往衙门。　　玉郡主回到登州不久，杨广便向独孤皇后表明要娶玉郡主之意，独孤皇后欣然应允，彩礼送到登州王府，定下婚期，玉郡主企图劝解杨林推掉婚事，但杨林嫁女态度坚决。此时，武奎、武亮二人将往北平府，挟制北平王罗艺，杨林前去送行，玉郡主灵机一动。　　文帝生病，杨广趁机表现，乖巧地伺候文帝，而太子杨勇却独自寻欢去打猎。独孤皇后对杨勇略有微词，这一切被杨广看在眼里。杨广趁机讨好独孤皇后，并伺机装可怜向独孤皇后诬告杨勇，独孤皇后闻言大怒。　　文帝发梦惊醒。杨广得知此梦，和同党宇文化及密谋以此除掉太子党羽李渊。宇文化及派人一边散布谶语，一边为文帝解梦。文帝听信解梦之语，下令铲除李姓大臣。李渊之子李世民觐见，说服了文帝，将父李渊贬黜太原。杨广暗中派金蛇卫追杀李渊。　　押解响马的秦琼夜宿林中，闻听打杀之声，及时赶到从金蛇卫手下救出李渊一家，李渊欲问秦琼姓名，秦琼挥手而去，李渊误以为秦琼乃是琼五下凡。　　秦琼在与金蛇卫的交手中，无意中发现了金蛇卫的腰牌，知金蛇卫定不会善罢甘休，便押解龙海匆匆赶路。但因伤势严重，无奈留宿于客栈，果不其然，金蛇卫首领司马欣等人追杀而来。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2760</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>02_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

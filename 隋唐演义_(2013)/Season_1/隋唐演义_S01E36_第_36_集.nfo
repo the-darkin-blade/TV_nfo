@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 36 集</title>
+  <originaltitle>第 36 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>36</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783860</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>杨广梦琼花变异，将自己缠住，竟昏迷过去。朱贵儿担心圣体，竟割下自己的肉做药引子，杨广终于醒来，所挂念的依旧是梦中琼花之事。　　单轴将小雪带回瓦岗，自己却伤重身亡。单雄信得知二贤庄为李渊所抄杀，怒火中烧，率兵要去找李渊报仇，无人能拦，刚出瓦岗却遇魏文通率兵前来剿杀瓦岗，二人交手，单雄信急火攻心，不敌魏文通，被打成重伤，多亏秦琼及时相救，方才保住一命。　　单盈盈得知家门之仇，更是要与隋军拼命，见哥哥重伤这才平复情绪。徐茂公知魏文通大军前来，派出罗士信迎战，罗士信怒杀魏文通，瓦岗军再一次打退随军。　　杨林回到潼关，方知魏文通擅自出兵，且已战死，心中怒火直烧，于是派人请出双枪老将丁延平，摆下一字长蛇阵，并向瓦岗下战书一封。瓦岗英雄接到战书，商议破阵之策，徐茂公称此阵比得由罗成来破，并派王伯当、单盈盈前去北平王府去请罗成。　杨广言自己一直于挖运河贯通南北，琼花之梦或是征兆，于是下令开挖运河，直通扬州。宇文化及举荐心腹麻叔谋任开河总管，三月之内挖通运河。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2693</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>36_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="36" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:30:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 8 集</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>秀才遇着兵</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>5090453</id>
+  <uniqueid default="false" type="tmdb">284462</uniqueid>
+  <uniqueid default="false" type="tvrage">477175</uniqueid>
+  <uniqueid default="false" type="trakt">1541878</uniqueid>
+  <uniqueid default="true" type="tvdb">5090453</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>马立光被打得重伤，史师爷说抚台大人定会为子报复，水大人不但乌纱不保，更可能被弄至人头落地，东楼被吓得半死。义妹突然收到告密信，说令云芝昏迷的虎头蜂剧毒，用云南的狮头草可解毒。
+
+义妹从史师爷口中得知么公是云南人，又记得他曾探访云芝，觉得他有可疑，东楼刻意泄露义妹上路找解药，么公作贼心虚果然跟着上路。金英说要出门探病，着秀姑处理汤水铺，暗中跟纵保护义妹。义妹终找得狮头草，却被么公暗算，动弹不得，金英暗中出手助脱险，再追截么公用机关把他绑起。
+
+义妹追到发现此人就是么公，用虎头蜂对付他大迫供。秀姑自与其旺一战之后便一蹶不振，差点更输掉汤水铺，幸金英及时回来把她赎回，但秀姑认定其旺是自己克星！义妹带么公回衙门，么公供出是抚台之子买通自己向云芝下毒，云芝中毒太深，即使用解药亦未能醒来，东楼唯有以么公供词作证审问立光，正要用刑之际，何知府突然出现接办此案，更借意要摘取东楼官印，东楼顿时束手无策。
+
+东楼突然收到密函，得知布政司等高级官员的重要罪状，东楼决定以官制官，令何知府知难而退，而布政司等三十名高官更联署刑部命水大人续审马立光一案；事情突然峰回路转，聪明如斗的史师爷亦大惑不解，但东楼心知是飞鹰暗中相助，向金英道谢。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2613</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Gentle.Crackdown.E08.Hdtv.1080I.H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

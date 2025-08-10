@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:30:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 11 集</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>秀才遇着兵</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>5090456</id>
+  <uniqueid default="false" type="tmdb">284465</uniqueid>
+  <uniqueid default="false" type="tvrage">477178</uniqueid>
+  <uniqueid default="false" type="trakt">1541893</uniqueid>
+  <uniqueid default="true" type="tvdb">5090456</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>史师爷凭东楼留下的线索，推断他是被么公掳走，史师爷与各人在商议此事时，发现有内鬼，于是故意讲出不会挪用官银换取人质，又要唐森暗中送走官银，结果引出内鬼，然后再使出一招「反间再反间」令么公以为唐森护送的是真官银，史师爷一早安排援兵埋伏，终于把山贼一网成擒。
+
+义妹不顾一切单独上山救东楼，么公一早埋下机关及安排高手。义妹虽没被机关所伤，但面对高手有所不敌，突然黑衣人出手相救，更使出侠盗飞鹰的独门武功「流云斩」，高手终被制服，么公却死于自制机关之下，但飞鹰亦被高手所伤负伤逃去。万大人知飞鹰重现，下令要捉拿飞贼。
+
+义妹见飞鹰受伤，认为是捉她的大好良机，于是她封杀药铺，每逢有人要买刀伤药，先必送官！结果金英躲在家里，东楼唯有在证物房偷药暗中医治金英；但再偷时竟被义妹发现，义妹对他起疑，贴身跟着他，令他不能再医飞鹰，又逼他讲出飞鹰下落。
+
+被义妹连日看守，东楼终忍不住往探望金英，义妹发现母亲病情严重，更虚脱晕倒，东楼见金英已病入膏肓情况危急，不顾守秘承诺，把药交出要医治金英，义妹惊闻母亲就是侠盗飞鹰，感到晴天霹雳！</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2663</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Gentle.Crackdown.E11.Hdtv.1080I.H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

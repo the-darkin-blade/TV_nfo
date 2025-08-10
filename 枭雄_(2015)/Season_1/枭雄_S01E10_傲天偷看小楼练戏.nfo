@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>傲天偷看小楼练戏</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490903</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>1922年，南北议和失败，军阀四出抢劫，百姓苦不堪言。啸山与傲天在街边档饮酒，突然，一班军阀士兵在街上肆无忌惮地抢劫，令啸山想到一条发财大计。傲天回到水果店，见遍地水果，启华说刚有军阀前来抢劫。
+
+啸山对傲天说有人拖欠他钱，他想入屋教训那个人，无奈其家中有狼狗，希望傲天能想办法将狼狗引开。既然是啸山要求，傲天只好答应。
+
+傲天啸山 一同合作
+
+晚上，一名黑衣人引开了狼狗，啸山敏捷潜入屋后，却见傲天正在偷窃财物。傲天与啸山分赃，傲天竟把大部份的赃物交给啸山。傲天觉得要生存就要靠拳头，啸山指他真的想通了。傲天欲把金链送给华嫂，启华指金链不知从何得来，不肯接受。
+
+傲天欲再见小楼，于是他来到剧院后门。虽被人赶走，却打听到小楼在八方会馆学艺。傲天在街上遇到文龙，原来他已找到工作，地点正是芷晶工作的宾馆。
+
+文龙叫傲天带芷晶等人去看戏，他带众人到八方会馆，傲天等人在八方会馆门外静静偷看学员排戏，傲天见到小楼即被她的美貌吸引。由于人数太多终被发现，但会馆学员并不介意，反而邀请他们随时来看。
+
+刻意弄污 金棠汽车
+
+金棠从法兰西回来数日，但没有找过桂生，使她心事重重。琼姐愿意帮手找金棠，桂生阻止，说可能金棠已不爱喝桂花酒。
+
+突然有手下说怡香院被人捣乱，桂生急忙去看个究竟，手下却载她去到公园。桂生不明所以之时，金棠突然从背后出现，再次向她求婚，桂生深受感动，终于答应。
+
+傲天等人准备去八方会馆看排练，见到桂生离开金棠的汽车，文龙为帮芷晶出气，弄污了金棠的汽车。琼姐怀疑是文龙所为，告知金棠。傲天等人来到八方会馆，小楼把她有份演出的《穆桂英挂帅》戏票送给傲天。
+
+傲天等人去看小楼演出，突然有一班人冲出来袭击他们，傲天为了保护文龙时受了伤，傲天醒来时已在家中。启华以为他是因啸山的缘故被打，骂他一顿。傲天错过看小楼演出的机会，非常失望。
+
+傲天不舍 小楼离开
+
+小楼从师妹口中得知，名伶尚文彬赞赏她的演出，欲带她到北平学戏，小楼非常高兴，想买东西多谢他。傲天与文龙在街上遇到她，只见她匆匆走过。
+
+啸山与傲天在街上蹓躂，遇上金棠与桂生的婚礼专车。傲天说以后黑白两道都由他们话事，啸山同意，所以他始终相信要生存，必定要靠拳头。傲天想把礼物送给小楼，去到八方会馆时方得知小楼已经离开……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2648</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep10.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

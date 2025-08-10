@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>雪舞兰陵王受百姓爱戴</title>
+  <originaltitle>雪舞兰陵王受百姓爱戴</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>4659254</id>
+  <uniqueid default="false" type="tmdb">1224919</uniqueid>
+  <uniqueid default="false" type="trakt">1232682</uniqueid>
+  <uniqueid default="true" type="tvdb">4659254</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>由于雪舞在这场战役中的神奇表现，她被北齐百姓奉为天女。兰陵王带着回城觐见皇上。但雪舞却是与兰陵王保持距离，就怕兰陵王继续将心放在自己身上，更怕自己的爱慕最终失守。前往内城的路上，一位老婆婆突然冲出拦车，要求雪舞亲手替她儿子缝鞋，希望可以保佑他儿子平安，雪舞不由分说，立刻拿出针线缝补，直到亲手将鞋缝好后，才与兰陵王和安德王离开。此举却让高纬和祖珽觉着有机可趁，趁机禀告皇上高湛，认为兰陵王功高震主，不把皇上谕令看在眼里。未料皇上龙颜大怒，却是对高纬的举动极为不满，认为高纬身为太子却丝毫没有爱民之心，反而兰陵王苦民所苦，太子竟还指责他，简直是没有一丝羞愧之心。更让高纬觉着脸上无光的是朝堂之上雪舞的表现。雪舞因为老妇一事，向皇上恳求更改法令，家中仅有一子者，可免除兵役。此举深得高湛之心，赏封兰陵王等人，更准许雪舞的建议。虽然兰陵王等人占了上风，但祖珽发现高长恭与杨雪舞关系非常，他心生奸计表示“邙山一战后，太子感念兰陵王长年征战在外，劳苦功高，却因而连顾虑自身婚姻大事的时间都没有，至今也只能收纳来自贱民村的妾，然兰陵王身出皇室血统，理应结理权贵之后，正式娶妃，堂皇成家，此话一出，祖珽与高纬交换了下神色，胡皇后闻言，更是在心里暗暗叫好。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

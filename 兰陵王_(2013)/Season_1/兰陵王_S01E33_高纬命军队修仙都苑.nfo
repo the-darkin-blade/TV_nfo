@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>高纬命军队修仙都苑</title>
+  <originaltitle>高纬命军队修仙都苑</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <id>4659276</id>
+  <uniqueid default="false" type="tmdb">1224941</uniqueid>
+  <uniqueid default="false" type="trakt">1235902</uniqueid>
+  <uniqueid default="true" type="tvdb">4659276</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>高纬听从小怜计策，毫无预警的下旨，将段韶、斛律光调离邺城，北去晋阳整军备战，以防突厥来袭。兰陵王猜不透高纬心思。雪舞担心兰陵王眼看高纬搜刮民脂民膏，劳师动众的盖仙都苑，一定不会无动于衷，他担心兰陵王与高纬再起冲突。高纬认为仙都苑修建的进度太慢，小怜提议增派兰陵王的军队来建盖，高纬向兰陵王开口调兵，兰陵王劝诫皇上万万不可，因为将士们必须每日练兵备战。但高纬认为自己是一国之君，将士们必须服从圣命，加上高纬见到这些将士们对兰陵王死忠，心生不悦，觉得兰陵王功高震主。高纬以军队将士们的生命要挟兰陵王，逼兰陵王交出兵权。兰陵王忍住心痛，命士兵们去盖仙都苑，为皇上效忠。说完这些话，兰陵王觉得自己对不住所有将士，屈膝跪下，一直跪到所有人散去。天空下起磅礴大雨，雪舞撑着伞出现，为兰陵王感到心疼。一波未平一波又起，宫里传来皇后懿旨，召兰陵王和雪舞进宫。两人没料到皇后在宫中以残杀供御囚为乐，兰陵王、雪舞对皇后的心狠手辣感到心寒。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep33_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="33" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

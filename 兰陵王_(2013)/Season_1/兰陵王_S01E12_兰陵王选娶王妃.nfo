@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>兰陵王选娶王妃</title>
+  <originaltitle>兰陵王选娶王妃</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>4659255</id>
+  <uniqueid default="false" type="tmdb">1224920</uniqueid>
+  <uniqueid default="false" type="trakt">1232843</uniqueid>
+  <uniqueid default="true" type="tvdb">4659255</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>兰陵王表示他有雪舞姑娘已足。皇上不愿强人所难，询问了雪舞，雪舞想到奶奶当初的预言，只得忍痛回绝了兰陵王的心意。雪舞表示皇上的考虑周全，兰陵王理应尽速选娶正妃。皇上当即宣旨，即日立刻筛选各大权贵之女，替兰陵王举办选妃大会。但雪舞不知道，兰陵王不愿娶妃还有更深层次的考虑。邙山大战后，太子跟祖珽早就将他恨之入骨，巴不得能将他杀之而后快。选妃一事必然不怀好意。但雪舞却只顾着担心奶奶的预言，并没有未察觉兰陵王的顾虑。雪舞只想郑妃赶快出现，她就好回到白山村，永远忘掉兰陵王。可当选妃大会上真有一个郑儿出现时，雪舞才发现了自己的心痛。郑儿天生丽质，气质脱俗。她爱慕兰陵王已久，每日她在宫中望穿秋水，就是在等待着兰陵王的身影再次出现在她的面前。这次选妃之列郑儿是势在必得。就在雪舞准备离开之际，她因为口无遮拦惹怒了皇太后，皇太后下令雪舞也参加选妃。雪舞深得兰陵王之心，兰陵王总是不避嫌地在众人面前对雪舞表情意，这让雪舞成为众人攻击的对象。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep12_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

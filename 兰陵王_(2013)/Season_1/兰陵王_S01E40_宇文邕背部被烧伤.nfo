@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>宇文邕背部被烧伤</title>
+  <originaltitle>宇文邕背部被烧伤</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>40</episode>
+  <id>4659283</id>
+  <uniqueid default="false" type="tmdb">1224948</uniqueid>
+  <uniqueid default="false" type="trakt">1236833</uniqueid>
+  <uniqueid default="true" type="tvdb">4659283</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宇文邕对雪舞越加倚赖，白天带着她上朝，听她对国事的意见，忘了与皇后有约，令阿史那对雪舞更生反感。夜里，高纬又在噩梦中惊醒，小怜喂他服下有助于睡眠的毒药，然后去探望兰陵王。兰陵王装作很感谢小怜对自己用情至深，还说自己记得她头上的发簪，是他们第一次相遇他捡起的，小怜以为兰陵王被她的一片痴情感动，不再有防备，还恳求兰陵王带她离开皇宫，就算他不爱她也没关系，只要能留在兰陵王身边就好，他要小怜给他时间深思熟虑一番。小怜怀抱着期待离开，兰陵王早将发夹藏于衣袖中，他利用发夹解开铁链。周国皇宫上上下下都在庆贺皇上的寿辰，当日，贞儿为了给宇文邕惊喜，把他带往周国贱民村，雪舞特意准备的火树银花祝贺，却不料烧伤了宇文邕的背部。雪舞过意不去为宇文邕疗伤，宇文邕却趁此向她表明自己对她的爱意，雪舞无法接受，只能婉拒。宫里，阿史那精心准备了寿宴，却一个晚上空等，好不容易皇上回来了，背上却因为救雪舞烧伤，阿史那一怒之下挥了杨雪舞一巴掌，宇文邕为此与皇后发生不愉快。兰陵王从地窖逃离，挟持冯小怜离开，她才明白原来从头到尾兰陵王都是在骗自己，愤恨不已。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep40_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="40" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

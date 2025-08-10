@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>笑棠星柏　挑衅国彬</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>4158562</id>
+  <uniqueid default="false" type="tmdb">2298776</uniqueid>
+  <uniqueid default="false" type="trakt">1644057</uniqueid>
+  <uniqueid default="true" type="tvdb">4158562</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>笑棠被公安截获时，发现对方为假扮，巧妙逃脱并返回香港。望晴虽责怪他擅自行动，但心疼其受伤。笑棠揭露国彬与湖南帮勾结抢毒，但一烈偏袒国彬，反指笑棠运送的是面粉，令其心惊一烈手段。星柏遇卓臣暗指可可与应驹有染，心中不忿。立青意外撞坏一烈座驾，惶恐不安。望晴决定让笑棠接近一烈情妇丁敏以获情报，笑棠询问望晴是否介意，得她信任。国彬为打压笑棠，设计陷害其伤害社团老大桂哥，笑棠遭到伏击，处境危险。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2688</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E20.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

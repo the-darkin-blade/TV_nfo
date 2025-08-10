@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>剑亨被杀手袭击</title>
+  <originaltitle>Episode 22</originaltitle>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>4856064</id>
+  <uniqueid default="false" type="tmdb">1984092</uniqueid>
+  <uniqueid default="false" type="trakt">1275588</uniqueid>
+  <uniqueid default="true" type="tvdb">4856064</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>日嘉明白有正不会轻易原谅自己，要有正先行离开再考虑清楚，有正亦不禁因此陷入迷茫之中。叶婷查问有正惊鸟首脑的真正身分，但有正却只将礼谦的事告知叶婷。
+
+叶婷在街上遇见日嘉，日嘉竟然将自己所知道的有关事情全部都告诉叶婷。叶婷听到日嘉的说词后，亦将与有正扮演情人的事告知日嘉，两人因而和解。
+
+剑亨担心　叶婷情伤
+
+剑亨得知日嘉与有正的关系后，便担心叶婷会因此受到伤害而希望她主动离开有正，但是叶婷对剑亨表示自己不会放弃有正。
+
+ATF在宏亮家中的闭路电视中发现宏亮被带走的线索，经过调查后怀疑宏亮被人带到礼谦旗下的一间药厂内。
+
+日嘉辞职　有杰不舍
+
+为了调查宏亮下落，有杰与同僚一起到药厂调查，礼谦见状便亲自出门迎接。苏醒过来的宏亮亦正好摆脱了惊鸟的束缚并打算逃走。
+
+礼谦同意安排有正加入惊鸟，日嘉决定辞去ATF的职务，指会回到礼谦的公司帮忙，不知内情的有杰为此感到不舍。有正暗中回到ATF总部，并向志敖报告自己所收集到的情报。
+
+叶婷发现　剑亨遗书
+
+有正与日嘉见面，并说已原谅日嘉，日嘉大为感动，并希望有正能与自己远走高飞离开香港，但却被有正拒绝。
+
+剑亨因为不堪惊鸟工作的压力而心脏病发入院，而剑亨怕自己突然去世，便指示叶婷在自己死后便到家中找寻其的遗书。叶婷听后便回家偷看遗书，因此得知其亲生父亲的死亡真相。
+
+剑亨出院后，发现遗书被人打开过，便知道叶婷已经知道真相，叶婷对剑亨一直隐瞒事实感到悲愤，而剑亨因而希望叶婷能杀死自己以为其父报仇。
+
+剑亨提出　离开组织
+
+最后叶婷念及剑亨一直用心照顾自己终原谅了他，剑亨深受感动，便决定向礼谦辞去惊鸟的工作。
+
+剑亨心知礼谦不会轻易放过自己，便暗地将组织的名单复制一份自保，并且给乐敏一笔现金让其自行逃走。
+
+有杰因为怀疑叶婷而到报社调查剑亨，令剑亨以为叶婷出卖自己。惊鸟杀手亦奉礼谦的命令杀至，三方势力因此爆发枪战。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Ruse.Of.Engagement.E22.20140415.1080I.【高清帝国hdk-Www.52Hdking.Com】_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Ruse Of Engagement 20140415 【高清帝国hdk Www 52Hdking Com】 qsv av1</title>
+  <originaltitle/>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>415</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Ruse.Of.Engagement.E22.20140415.1080I.【高清帝国hdk-Www.52Hdking.Com】_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="415" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

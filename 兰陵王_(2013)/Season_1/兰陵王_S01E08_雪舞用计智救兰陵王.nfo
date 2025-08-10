@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>雪舞用计智救兰陵王</title>
+  <originaltitle>雪舞用计智救兰陵王</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>4659251</id>
+  <uniqueid default="false" type="tmdb">1224916</uniqueid>
+  <uniqueid default="false" type="trakt">1232208</uniqueid>
+  <uniqueid default="true" type="tvdb">4659251</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雪舞为了得到解药而来到宇文邕身边，但宇文邕却只想利用她来振奋军心。雪舞为救兰陵王被迫出险招，她故意喝下毒药。宇文邕心急之下强吻喂药以救雪舞。但宇文邕并不知道，这一切都是雪舞的计谋，为的就是获取解药的配方。雪舞让晓冬带着沾有解药的手帕离去，得知雪舞计谋的宇文邕派人追杀晓冬，晓冬历经千辛万苦回到齐营，带回解药与口信。宇文邕打算趁兰陵王无法领军打仗之际，以风驰电掣之姿，攻下齐国。当他得知这此次领军元帅竟是太子高纬时，他更是对攻下洛阳胸有成竹。因为高纬心胸狭窄，嫉妒贤能容不得人，刚愎自用，对宇文邕而言，根本就构不成任何的威胁。果然两军交手，高纬毫无半点行军经验，单就只靠着祖珽的占卜之术，毫无临场应变。尉迟迥单只用火计，就将高纬打得落花流水。高纬躲在洛阳城不敢迎战。宇文邕在郩山埋下伏兵拖延斛律光。眼看洛阳城危在旦夕，但雪舞仍然相信兰陵王会取得胜利。兰陵王虽然重伤未愈，但他人决定领着五百铁骑，迎战宇文邕十万大军。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep08_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

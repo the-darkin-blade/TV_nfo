@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:31:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>好好备受歧视大受打击</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>再战明天</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>5024539</id>
+  <uniqueid default="false" type="tmdb">3236332</uniqueid>
+  <uniqueid default="false" type="trakt">1324522</uniqueid>
+  <uniqueid default="true" type="tvdb">5024539</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>好好因为被卷入毒品事件中，被餐厅的店主揭穿她的释囚身份而被辞退。好好一方面忍耐着被社会歧视的打击，一方面又要想办法赚取生活费照顾儿子，感到身心俱疲。
+
+正桥知道好好的遭遇后，即亲自到好好的家了解情况，好好终于按捺不住自己心中的不快，靠在正桥的胸前痛哭发泄。  惠珠于罗湖惩教所服刑，因为精神有问题而需要惩教人员特别照顾，而爱嘉一直与惠珠有说有笑，故深得惠珠信任。
+
+春光爱嘉　联手合作  春光与爱嘉接手了一件特别案件，内容是罗湖惩教所的一名女囚犯三妹被验出身患绝症，院方决定让三妹提早出狱，让三妹早日与家人团聚，但是三妹得知自己身患绝症后却拒绝离开监狱，爱嘉及春光感到为难。  春光与爱嘉一起到秋分的面店继续研究三妹的事，却遇见正桥带好好到面店见工，春光见状即与正桥入房独自对话，两人亦因而口角，最后要爱嘉出手调停。  而秋分是探监义工，有感好好身为释囚身世可怜，决定让好好留在店中工作。好好因为身体残缺，令她未能顺利完成面店的日常工作。  伟晋探病　父子争执  伟晋收到消息知道父亲兆江病危，赶到医院见父亲最后一面。但当伟晋到达医院后只见在病床上的兆江精神饱满，以为是兆江存心欺骗自己，两父子因而互相对骂，最后伟晋气极转身离开，兆江亦感到痛心。  上升发现囚犯在狱中赌博的证据后，与一众同事展开调查，终成功锁定早前因为喝洗发水而入院的继仁，继仁见纸包不住火，惟有将赌博案的主谋供出，上升亦因而成功破案。  三妹被骗　春光气愤  春光与伟晋收到通知，指三妹出狱后被内地公安拘捕，两人即赶到内地了解情况，才得知三妹出狱后便与儿子相认，但其子竟骗去三妹的所有财物后逃之夭夭，三妹身无分文惟有偷面包充饥，因而被公安拘捕。  春光闻言后气愤不已，便带三妹与其儿子见面对质，其儿子便将当年三妹的罪行告诉春光，最后三妹受不住刺激晕倒。伟晋及春光只好带三妹就医，看见三妹的遭遇，不期然让伟晋想起了自己的父亲。  爱嘉泄密　开解好好  惠珠一直对爱嘉存有好感，一天两人在监狱相遇时，惠珠竟突然向爱嘉表白爱意，令爱嘉大感错愕。爱嘉下班回家，却遇见好好正在沙滩锻炼自己，原来好好为了早日适应面店的工作，努力锻炼气力，希望早日挽回自己因为释囚身份而失去的尊严。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.再戰明天.E13.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

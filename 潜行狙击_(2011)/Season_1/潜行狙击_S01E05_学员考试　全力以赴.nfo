@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>学员考试　全力以赴</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>4145998</id>
+  <uniqueid default="false" type="tmdb">2298756</uniqueid>
+  <uniqueid default="false" type="trakt">1644041</uniqueid>
+  <uniqueid default="true" type="tvdb">4145998</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>立青努力为笑棠开脱，家培则与永坚探讨案情。警方打击邵喜势力，邵喜妥协。望晴在笑棠家发现其旧女友合照，感到震惊。笑棠被扣，却对望晴保持沉默。立青找到失落的记忆卡另一半，家培宣布学员毕业，同时恢复笑棠职务，透露记忆卡无法修复，众人惊讶。星柏解决邵喜问题后欲约会可可遭拒。笑棠邀请星柏当线人，星柏答应。笑棠与望晴带学员酒吧庆祝，实则是特训项目。众学员追踪车辆时，立青意外发现少女尸体。案件愈发扑朔迷离，真相待揭。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2693</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E05.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

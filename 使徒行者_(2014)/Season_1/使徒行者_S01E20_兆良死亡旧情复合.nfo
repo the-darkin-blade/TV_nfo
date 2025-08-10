@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>兆良死亡旧情复合</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>4997070</id>
+  <uniqueid default="false" type="tmdb">2171080</uniqueid>
+  <uniqueid default="false" type="trakt">1314473</uniqueid>
+  <uniqueid default="true" type="tvdb">4997070</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>兆良将羡昕逼上天台索要证据，一心救羡昕的浩勤抱着兆良从天台跳下，兆良当场死亡，浩勤重伤昏迷。羡昕在浩勤家里发现他的卧底日记，卓凯现身坦白一切真相，羡昕这才知晓自己一直错怪了浩勤和卓凯。浩勤醒来后与羡昕深情拥吻，二人解除误会重续旧情。兆良的罪行败露，卓凯向上级请求恢复卧底的身份。欢喜意外发现小嘉生母丁梦娴是自己的初恋情人，他将二人的故事告诉小嘉。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Line.Walker.E20_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>桂生拒绝离开上海</title>
+  <originaltitle>Episode 24</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490917</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>傲天夜会韩立，请求他放走所有工人，但韩立说是委员长的命令，恕难从命。傲天愿意开出条件欲保护工人性命，韩立指只有交出冠潮，才能令委员长释怀，傲天大感为难。
+
+婷婷在报馆等冠潮电话，但一直未收到。志文告知，突然有大批工人失踪，婷婷未有不理，似乎若有所思。电话突然响起，婷婷接听后便迅速离开，敬泉从旁察看深感奇怪。
+
+兆匡婷婷 再起争执
+
+婷婷把记者证交给冠潮，他离开时却被兆匡阻挠，指要带他往见傲天。婷婷质问兆匡为何要跟踪她，还问兆匡是否已成了傲天门生。
+
+傲天见到冠潮，说国统处拘捕了所有工人，但目标只是他，冠潮既惊讶又感愤怒。冠潮坦言可向国统处自首，但傲天必须承诺所有工人安全，傲天应允。
+
+韩立赞赏冠潮为国家所作出的牺牲，并指已说服委员长，令他相信已铲除斧头帮党羽。津北铁路的总工程师被杀令东条震怒，于是他向日本发出电报，等候最高指示。
+
+傲天接受 政府授勋
+
+傲天被授予勋章，众商家都对他另眼相看，赞扬他是国家栋梁。月兰为傲天感到高兴，但小楼却觉得傲天满怀心事。兆匡见婷婷，欲挽救两人感情，但婷婷知道他是傲天门生且利用她来伤害冠潮，指二人无法继续相处下去。
+
+日本总工程师已死，津北铁路要重新招标。傲天希望铁路由中国人夺得，因此主动联络华商希望能集资竞投。傲天见韩立，要求他向委员长传达，千万不能与日本人合作，但韩立叫傲天不可强求。傲天直言会用自己的方法，阻止日本人入侵中国。
+
+在学尧的电影酒会，傲天询问电影内容，学尧指是赞扬日本军人的故事，并且东条有份投资。傲天听后震怒，想即时告知东条的真面目，但啸山却要他不要扮爱国，耻笑他同样接受了新政府勋章，傲天不禁无言以对。
+
+傲天答应 全力抗日
+
+东条知道傲天有份投资电影公司，指终于可以合作，傲天直言不应该拍这部电影，啸山则觉得与东条合作是荣幸。月兰想挂回「爱国爱民」牌匾，傲天看见却大感愤怒斥责她，小楼见状连忙安慰月兰。
+
+日军发动侵华作战，韩立约见傲天，指委员长要召集所有爱国人士，一致抗日，傲天愿意倾尽全力相助。傲天劝啸山与金棠，集合力量抗日，但啸山与金棠都各有打算而拒绝。
+
+金棠与桂生见面，指现在中日大战要她与自己一同离开上海，但桂生不愿。阿福突然在寺中出现，求桂生收留一班妇女，否则她们会被捉去做慰安妇，桂生答应救助她们。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep24.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

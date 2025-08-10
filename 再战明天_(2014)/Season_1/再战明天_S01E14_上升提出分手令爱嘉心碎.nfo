@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:31:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>上升提出分手令爱嘉心碎</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>再战明天</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>5025788</id>
+  <uniqueid default="false" type="tmdb">3236333</uniqueid>
+  <uniqueid default="false" type="trakt">1324679</uniqueid>
+  <uniqueid default="true" type="tvdb">5025788</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>爱嘉小时候在游乐场的旋转木马上看见父母离异，故一直对旋转木马存有心理阴影，上升为了让爱嘉克服恐惧，便带爱嘉到游乐场骑木马，岂料爱嘉竟因此受到打击，不支晕倒。  之后上升陪爱嘉回家休息，并在街上互相拥吻，但这温馨场面却被安迪及爱嘉母亲撞破，令两位长辈感到十分气愤，指责上升没有尽身为爱嘉监护人的责任。
+
+上升独自与安迪见面，希望可以得到安迪谅解，但最后两人却为此争吵，多年来彼此建立的亲厚关系正面临崩溃。  正桥严格　小轩不忿  正桥的严格训练仍然持续，但小轩却一直表现不合作的态度，换来正桥的不断处罚，小轩感到愤愤不平。
+
+正桥下班后相约好好及其儿子一起外出用膳，却遇上了与正桥相熟的释囚朋友，众人亦决定一起同桌用膳，好好见释囚们将自己的过去看成负累，出言鼓励一众释囚。  正桥感觉到好好的心态有所成长。众人离开后，好好与正桥一起回家，却在路上遇见了昔日好友在暗巷中购买毒品，好好不想好友继续沉沦便出手阻止，最后却遭到反抗，而正桥则为了保护好好而受伤，并惹来途人围观拍摄。  上升被指　漠视囚犯  囚犯以硕因丧女之痛大受打击入院治理，出院后回到赤柱监狱服刑，子书见以硕平安出院便报以问候，但是以硕早已失去了人生目标，只是敷衍回应了子书。  此时，同为终身囚犯的百云突然起哄，指上升一直漠视终身犯的出狱机会，以至出现以硕的悲剧，而其他囚犯闻言后即出言附和，令上升心感难过。但是上升一向黑白分明，向百云等人教训两句便成功处理事件。 与此同时，爱嘉受到惠珠愈来愈猖狂的追求攻势，令爱嘉感到不安。  小轩发现　正桥违规  正桥在教室中教训小轩，却反被小轩在教室内公开一段影片，影片中录下了正桥保护好好，证明两人关系密切，而正桥身为惩教人员，理应不能与释囚有任何私交，正桥心知自己违反纪律在先，故未有出言反驳小轩。  正桥回到面店，而秋分亦在其他人口中得知正桥被学生揭发违规的事情，要正桥解释为何要特别照顾好好。正桥知道不能再对秋分隐瞒，便将自己过去的经历告知秋分，殊不知好好正在门外偷听到两人对话。  上升爱嘉　分手收场  爱嘉的母亲与上升见面，言谈间暗示上升要在爱嘉的事情上做决定。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2694</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.再戰明天.E14.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>一烈准备　以毒侵港</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>4152250</id>
+  <uniqueid default="false" type="tmdb">2298765</uniqueid>
+  <uniqueid default="false" type="trakt">1644048</uniqueid>
+  <uniqueid default="true" type="tvdb">4152250</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>星柏被笑棠怀疑撞伤威利，遭江湖仇家追杀。可可误会星柏，但两人最终在警署外被赵克等人围堵，望晴装腔作势吓退众人。星柏随赵克见一烈，遭毒打但坚称笑棠造谣。一烈命星柏与超对质，超自杀身亡，星柏脱险。家培告诫笑棠不可偏激行事。望晴尝试倒立减压，笑棠无奈。乐勤劝慰失业好友风，并带君岚拜祭芳琪，家培惊讶。一烈宣布将有大量毒品运港，星柏与国彬争功。国彬私下向泰山购毒，设局陷害泰山，一烈将毒品交给星柏与国彬贩卖，国彬心生不满。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2689</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E11.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

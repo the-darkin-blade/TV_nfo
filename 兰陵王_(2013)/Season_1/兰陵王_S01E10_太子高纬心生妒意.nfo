@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>太子高纬心生妒意</title>
+  <originaltitle>太子高纬心生妒意</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>4659253</id>
+  <uniqueid default="false" type="tmdb">1224918</uniqueid>
+  <uniqueid default="false" type="trakt">1232482</uniqueid>
+  <uniqueid default="true" type="tvdb">4659253</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>天色渐晚，兰陵王与雪舞和大部队失去联系，兰陵王带雪舞回到自己小时候的家。两人相互倾慕爱恋，兰陵王感到很幸福。但这一晚雪舞却梦见了奶奶的预言的场景，她看见了兰陵王是如何死在她面前的。惊醒后的雪舞惊觉自己在违逆命运，兰陵王和自己终究是不可能在一起的。雪舞决定早早离去，以免耽误兰陵王的家国大业。但兰陵王却对雪舞的迥变感到诧异。更让兰陵王感到棘手的是太子高纬的为难。庆祝高纬和兰陵王凯旋的大会上，军民们将所有欢呼、喝道声、拊掌声都献给兰陵王。这让高纬心中很不是滋味。兰陵王态度谦虚地将所有功都归到众将士还有贱民身上，让在场百姓听了都为之感动。兰陵王此举深深赢得民心，高纬颜面无光，一场庆功宴吃下来，他心中对兰陵王的妒恨有增无减。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep10_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

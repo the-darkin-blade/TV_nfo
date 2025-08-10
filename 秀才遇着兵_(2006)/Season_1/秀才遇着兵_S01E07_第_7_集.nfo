@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:30:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 7 集</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>秀才遇着兵</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>5090452</id>
+  <uniqueid default="false" type="tmdb">284461</uniqueid>
+  <uniqueid default="false" type="tvrage">477174</uniqueid>
+  <uniqueid default="false" type="trakt">1541876</uniqueid>
+  <uniqueid default="true" type="tvdb">5090452</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>义妹带民女云芝回衙门，云芝受惊过度未能言语。马立光找假证人证明自己于案发时身在花楼，想藉此脱罪但被拾义妈揭穿，东楼把他暂押监房等待云芝作供，岂料云芝突中蜂毒昏迷不醒，立光暗邀史师爷相助，东楼无奈只能治他宿娼之罪草草罚款了事。
+
+马立光怀恨在心，想向义妹报复，东楼为保义妹唯有把她革走。立光在良才县横行，又公然收买证人，视法纪如无物，令东楼愤愤不平。史其旺近日赌运奇差，村民嘲讽他被连日逢赌必赢的女赌神秀姑所克制，两人赌坊相遇，秀姑不忿被赌坊拒赌，竟挑战其旺，最后秀姑不敌大败，更欠下赌债。
+
+义妹虽被革职，仍立心破案，继续悉心照顾云芝，竟在她的发边拾得怪草花芯，金英心生疑团。义妹发现朝庭刚颁新例，即使官宦子弟，如犯宿娼之罪，亦要施以杖刑，不得罚款代替，故立即把马立光拉回衙门。
+
+史师爷忠告东楼，公义与乌纱只能二择其一，若真的对马公子施刑等同向抚台马大人挑战，后果严重；东楼心烦之际向金英倾诉，金英却说出有人放香艾引毒蜂，云芝中毒是人为并非意外，更鼓励东楼为民请命。东楼再审马立光，立光恃着是抚台之子，竟敢在公堂之上自认一再宿娼，为存公义，水大人立即以新例判他杖刑一百二十杖，大快人心。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2683</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Gentle.Crackdown.E07.Hdtv.1080I.H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

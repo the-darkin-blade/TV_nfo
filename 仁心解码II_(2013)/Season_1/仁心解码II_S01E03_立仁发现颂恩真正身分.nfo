@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>立仁发现颂恩真正身分</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>仁心解码II</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">913758</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>芮之被杀一案，由重案组国彬接手调查。国彬到现场检查尸体，重组情况后判断凶手跟随死者入女厕后，用绳把她勒死，女厕正是案发现场。警方在芮之手机内见到有立仁来电显示，便请他到警局协助调查。
+
+立仁国彬　讨论案情
+
+立仁与国彬交换情报，指芮之曾到医院找学礼，之后学礼便行踪不明，警方因此也欲找出学礼。由于颂恩在芮之死前曾与她争吵，不免被警方查问，但警方最后未能找到证据，只好放走颂恩但暗中跟随她。
+
+颂恩赶往见波，却被怀疑出卖组织，在危急时国彬下属振东出手想为她解围，颂恩机灵维护波，才摆脱背叛的嫌疑。
+
+立仁和国彬讨论案情，立仁认为颂恩无嫌疑，指她在芮之死后真情流露，虽看出她仍有所隐瞒，但隐瞒之事应与芮之死无关。因为在监察摄录中见到学礼曾到夜总会，正与芮之的死亡时间脗合，所以破案关键乃是学礼和芮之的关系。
+
+立仁指责　应奇误诊
+
+医院一位患老人痴呆的病患梁伯病情反覆，但主诊医生应奇在报告指一切正常，于是见习医生日勤便带立仁重诊。立仁发现梁伯病情严重，而且后脑有伤，疑因伤令病情急转直下。立仁向应奇更新病患情况，应奇马上承认忙中疏忽，但被立仁指责他妄顾病患。
+
+启荣记得曾听过学礼提及「2025」这数字，分析2025与天灾有关。慧翘不满被指断症错误，指学礼早已康复，而康复与否亦可能杀人，立仁则一语道破启荣推理错误。
+
+瑶珠开解　晓彤情绪
+
+志森女儿晓彤突然与男友吵架，志森欲开解女儿但被拒，于是找嘉丽帮助，一同查看嘉丽在社交网站上的动静。嘉丽自愿跟晓彤倾诉，又向志森建议可以聘请心理学家瑶珠加入诊所。
+
+瑶珠在咖啡店目击晓彤与男友争执场面，主动上前结识她和开导她。晓彤接受瑶珠辅导后已能面对问题，向嘉丽和父亲言明真相。原来她不久前在巴士遇到色狼，故突然对男子产生恐惧。志森不忿放过色魔，又指女儿笨不求救。晓彤说出知道父亲得知后，一定有此反应才一直隐瞒，事后回想仍感到惊恐。因女儿之事，令志森知道瑶珠确实有才华，便到咖啡店找她加盟。
+
+学礼现身　世均受袭
+
+芮之设灵出殡当天，颂恩见到学礼出现，可惜未能追到他。颂恩找立仁见面，告之自己调查所得，又说曾记得芮之曾叫她一同回教会，但当时她有感盖亚教奇怪而没理会。立仁见颂恩分析案情头头是道，已道破她的真正身分，但颂恩坚持不认……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2648</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.A.Great.Way.To.Care.Ii.E03.1080I.Hdtv.H264-Area11(1)_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

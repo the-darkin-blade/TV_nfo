@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>皇后派人暗杀雪舞</title>
+  <originaltitle>皇后派人暗杀雪舞</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>41</episode>
+  <id>4659284</id>
+  <uniqueid default="false" type="tmdb">1224949</uniqueid>
+  <uniqueid default="false" type="trakt">1236975</uniqueid>
+  <uniqueid default="true" type="tvdb">4659284</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>冯小怜心有不甘，但害怕被高纬发现自己救活兰陵王，所以不得不放走兰陵王。逃出皇宫的兰陵王，在大街上打听到雪舞现已是周国的王妃，对于她平安无事感到欣慰，但是否该与雪舞相认，起了犹豫之心，毕竟现在的他已非高长恭，若现身恐怕会让高纬、冯小怜再起杀机，没有休止的一天，他决定先潜入周国，探看雪舞的情况。离雪舞生产之日近了，阿史那向皇上提议不如将雪舞送往玉佛寺待产。雪舞离开皇宫，便能让皇后安心，也能和宇文邕保持些距离，没想到这是皇后处心积虑的阴谋，她安排了杀手，于雪舞生产之日暗杀雪舞。千钧一发之际，兰陵王假扮的黑衣人救走了她，让她平安生下孩子，而他只能躲在窗外偷看。宇文邕发现对雪舞痛下杀手的幕后主使者是皇后阿史那，他怒不可抑，对她从此再无情意，阿史那大受打击。兰陵王发现齐国百姓生活苦不堪言，官兵抢人民的孩子去卖，他救下了孩子。他很愤怒，高纬违背了诺言，没有保齐国国泰民安。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep41_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="41" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

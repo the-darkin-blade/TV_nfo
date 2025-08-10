@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>可可坦言 心中恐惧</title>
+  <originaltitle>Episode 25</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>4162966</id>
+  <uniqueid default="false" type="tmdb">2298783</uniqueid>
+  <uniqueid default="false" type="trakt">1644070</uniqueid>
+  <uniqueid default="true" type="tvdb">4162966</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>司徒凯揭露自己为黑警，投靠星柏以收集情报助家培。望晴通知立青此事，立青为心凌了解自身状况而忧虑。秀美入股君岚食店实为家培安排，君岚决定结业转行获众人支持。可可遭扣押后反获律政署青睐，星柏得悉其可能离开，感到不安。星柏与笑棠同遭赵克伏击，幸得警方解救，星柏受伤入院。可可因工作繁忙未能及时赶到医院，却收到星柏分手短讯。星柏怀疑笑棠身份，决定让司徒凯调查。众人各怀心事，社团与警方的较量愈发激烈，卧底与反卧底的较量也悄然展开。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2680</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E25.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

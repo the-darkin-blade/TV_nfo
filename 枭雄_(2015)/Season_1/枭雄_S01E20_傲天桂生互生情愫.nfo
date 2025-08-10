@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>傲天桂生互生情愫</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490913</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>傲天与桂生等人眉来眼去，文龙误以为他爱上淑英，傲天澄清指来法租界是要闯一番事业。
+
+傲天知道镇岳将与周大帅的手下交收鸦片，于是他提议假扮军人抢走鸦片，桂生答应为他安排。阿添想等金棠从杭州回来，才决定是否出动，但桂生指没有人知道他何时回来。傲天与镇岳手下交收时，发现情况有变，双方驳火。突然一队军队来到，傲天正想逃命之际却看见啸山。
+
+啸山傲天 联手合作
+
+啸山问及家人近况，傲天指美琴非常想念他。啸山交代自己成为了大帅身边的红人，之后他会帮傲天说服大帅，并提出二人可一起打江山。阿添向金棠报告傲天已抢了鸦片，并指桂生与傲天眼神暧昧。
+
+桂生设宴庆祝傲天平安回来，晚上，众人饮饱食醉，尽兴至极，傲天却误进桂生睡房，看到缠着浴巾的桂生。二人四目交投，傲天上前，桂生却没有阻止。
+
+金棠回来，见到傲天从桂生房出来，勃然大怒。金棠责备桂生自作主张，不等他回来商量便批准傲天出动劫走鸦片，桂生指当时是最好时机，不能错过机会。金棠坦言怕傲天做事愈来愈傲慢，甚么事情也做得出，桂生听出他话中有话，顿时无言以对。
+
+桂生安排 傲天婚事
+
+桂生问淑英是否喜欢傲天，淑英脸泛红晕，从心底笑出来。傲天向金棠解释，由于金棠仍在杭州，惟有先下手。桂生带淑英来见傲天，指代他向淑英提亲，金棠亦觉得二人天生一对。镇岳要金棠立即交还鸦片，金棠非但不肯，还请来英国总监承诺以后鸦片生意全部交给金棠处理。
+
+镇岳怒火中烧，但金棠与沃利因多一条财路则兴奋不已。英国的鸦片货源已不成问题，现只差周大帅的承诺，傲天指只要金棠去会面一次，就绝不是问题。桂生建议成立新公司，专门处理鸦片生意，并交由傲天打理，但金棠拒绝。
+
+啸山回家 美琴激动
+
+啸山回到家中，美琴激动落泪，啸山指已摆平袁少帅的事，从此可以自由生活。美琴大喜，啸山誓言要补偿家人所受的痛苦。啸山与手下相聚，费用全由啸山负责，啸山对傲天说，周大帅已答应帮助金棠，但他也想赚一笔，故此拜托傲天约金棠见面，傲天尽力安排。
+
+啸山与金棠见面，金棠鄙视他只靠周大帅为生，毫无能力。啸山大怒，指金棠的鸦片将运不出上海，傲天劝他冷静，凡事从长计议。
+
+傲天婚后对淑英反而愈来愈生疏，经常借意在书房工作，令淑英独守空房……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2665</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep20.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

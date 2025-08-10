@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>为追捕颂恩国彬命危</title>
+  <originaltitle>Episode 23</originaltitle>
+  <showtitle>仁心解码II</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">913764</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>颂恩不想父亲被捕，便拉着大军一起逃走，国彬紧追在后却被车撞倒。国彬脑部受到重创一直昏迷不醒，而佩茹亦受重伤留院。颂恩终于在同僚面前说出自己放走大军，才害国彬遇上车祸。
+
+颂恩开始对宗教产生怀疑，不解为何天主要抢走她重要的人，又到病房恐吓佩茹不要说出真相。但原来佩茹在现场并没有见过大军，只见颂恩自言自语……
+
+颂恩面对　精神问题
+
+国彬住院后，颂恩才面对自己的病情。颂恩发现大军又在家中出现，而颂恩向他宣告，即使没有他不在仍能惩治坏人，颂恩又在网上搜查治疗精神病的药物资料。
+
+永铿安排　亲信入职
+
+慧翘在当值期间腹痛，立仁要启荣送她去妇科，自己代诊接见病人，于是令工作更为繁重。女病人凤莲的抑郁症有复发倾向，立仁便加重抗抑郁剂量。应奇报告卢氏药厂太子卢子俊因失常伤人，翌日便要诊症，立仁见众人都疲于工作，结果答应接下这份工作。
+
+永铿叮嘱立仁不要让法医精神科的男女关系过于复杂，另一方面却安排永佳及卢氏等有权威和财力的知名人士，加入博安法医部。
+
+博安法医　各散东西
+
+思家连续几日都刻意打扮，启荣追问情况，年月才说出她近日流连酒吧沉迷跳钢管舞。启荣担心思家因短期间两次失恋受打击，便与年月跟随她到酒吧一看究竟，原来思家只是到中学舞蹈社周年表演。启荣向思家道歉，但她反而感谢启荣，又称赞启荣善良，即使瑶珠有病仍对她不离不弃。思家已决定辞去法医工作到澳洲，放下过去重新开始。
+
+误诊病人　立仁辞职
+
+抑郁症病人凤莲情况恶化，怀疑误诊错服药导致急性肾衰竭，管委会指将会深入调查。永铿本为法医部求情，又愿意负上责任，但立仁深感有责，决定引咎辞职。同时，年月未能通过考试，也想辞职自立诊所。
+
+颂恩复仇　对付佩茹
+
+慧翘思前想后，决定答应立仁共同照顾婴儿，又与他一同参加瑜伽班和购买婴儿用品。启荣替立仁引咎辞职感不值，又不忍一众同僚即将各散东西。另一方面，昏迷中的国彬亦无苏醒的迹象。
+
+佩茹出院　遭到伏袭
+
+颂恩被调往刑事纪录科后，因服用网购得来的药物，已再无出现幻觉，但颂恩仍持续到医院探望国彬。
+
+佩茹在出院前担心颂恩再来找她，向清洁女工说出颂恩有问题。离开医院后，佩茹果然被颂恩伏袭，更遭昔日伤害颂恩的方法所对待，被绑在无人小屋中……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2646</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.A.Great.Way.To.Care.Ii.E23.1080I.Hdtv.H264-Area11(1)_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>立仁挂念敏儿流下男儿泪</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>仁心解码II</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">913756</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>继鹏在闹市中突然发狂，幸得警察及时阻止他由天桥跃下，并把他送到仁和医院接受精神诊断。精神科高级医生立仁到医院视察继鹏的情况，亦与黎妻见面，知道两人育有一女，就读中三的女儿更是品学兼优。
+
+继鹏在医院又再发病，指因听到一名叫Jack的人扬言会伤害妻女，此时警方到病房，以涉嫌一宗强奸未成年女子案拘捕继鹏。因为继鹏曾有精神病纪录，加上犯案时可能有幻听，故转介博安医院法医精神科进一步诊断。
+
+为爱改变　立仁辞职
+
+立仁原来已辞退仁和医院的工作，指要准备婚礼和与妻子敏儿的度蜜月等事宜，更为了敏儿重新装修爱巢和学电单车。
+
+另一方面，昔日仁和医院工作的好战友志森已离开医院，成立了心理谘询诊所，知道立仁已辞职，积极游说他到诊所挂牌，但屡次被立仁拒绝。二人驾车路经强奸案的案发现场，立仁因一时好奇前往观察。
+
+立仁启荣　重组案情
+
+案发唐楼的天台，立仁见到一男子模拟继鹏模拟犯案的经过，该男子原来是博安医院法医启荣，负责处理继鹏的精神报告。启荣认为此案充满疑点，继鹏称听到Jack的指示而惩罚女事主，犯案时避过监察镜头，通往无人天台的通道门锁也正好被破坏过。
+
+启荣指若正常情况被判有罪的话刑期甚重，但精神病患者犯案的刑期能够大为缩减，故指出继鹏是装作精神病发而犯案，可惜未有确实证据，立仁见状给予他小提示。
+
+立仁原想截的士回家，但遇上繁忙时间，启荣便载他一程。启荣见到装修师傅对立仁新购入的高智能电子门锁束手无策，自告奋勇代为安装。
+
+志森怒斥　立仁逃避
+
+立仁因为订购梳化颜色不符而大动肝火，梳化颜色是新居中由敏儿选购的物品，所以立仁要搬运工人把梳化搬回退货，志森此时终于禁不住开口怒斥立仁，要他接受现实。
+
+启荣在医院门遇见鹏妻与女儿争吵，上前调解之余进一步追问鹏妻有关丈夫的病情是否有误，可惜被高级精神科医生应奇阻止，应奇更持相反意见，认为继鹏肯定有精神病。
+
+启荣调查　大有进展
+
+启荣在立仁正要前往机场时赶去请教他，立仁听到有关鹏妻与女儿的新证词，也发现到矛盾之处。此时启荣收到通知，继鹏女儿刚自杀未遂送往急症室。启荣安慰鹏妻的同时，也请她指证继鹏并无精神病……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2659</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.A.Great.Way.To.Care.Ii.E01.1080I.Hdtv.H264-Area11(1)_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 37 集</title>
+  <originaltitle>第 37 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>37</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783861</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>麻叔谋称自己不辨泾渭，恐难胜任，宇文化及斥其不争，又出主意命他广招贤良，辅助开挖河道，并叮嘱他开挖运河乃肥差，暗示他中饱私囊。不久后，久不得志的落魄之人李密前来揭榜，以胆识、学识揽下运河工程图绘制一事，辅佐麻叔谋开挖运河。　　北平王府中，罗成被囚禁家中，王妃劝他莫要谋逆，不然父子兵戎相见实在令人痛心。王伯当找到张公瑾，扮成侍卫前去王府之中会罗成。王伯当告与罗成瓦岗险境，并说明来意欲请他前来瓦岗破阵。罗成答应，让单盈盈、王伯当先行一步，他处理好家事便去往瓦岗。　　罗成装病，骗过北平王，却被王妃识破。罗成向母亲表明立场，赢得母亲支持，并答应母亲不会暴露身份。　　李密之才华被萧后发现，并秘密召见，抓住李密在意之事——权欲，将他控制手中，又靠美色将其笼络为心腹之人。李密乐得盘此高枝，更是对萧后言听计从。　　罗成前往瓦岗途中住店，将上房让与一位老者，此位老者正是丁延平。丁延平喜罗成之秉性，送之特产，罗成回礼，一来二去丁延平无礼可回，前去拜会罗成，二人互礼。丁延平见罗成一表人才，甚是喜爱。罗成与丁延平相见，一问之下，丁延平方才知道罗成竟乃北平王罗艺之子，亦是自己的义子。罗成喜出望外，与之相认。丁延平甚喜罗成，二人摆酒谈心。席上，丁延平吐露真心，说自己空有一身武艺，却膝下无子，无后人相传，又见罗成少年英雄，便要将武艺传授于他。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2714</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>37_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="37" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

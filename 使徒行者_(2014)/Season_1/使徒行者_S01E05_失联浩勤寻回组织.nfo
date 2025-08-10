@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>失联浩勤寻回组织</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>4976357</id>
+  <uniqueid default="false" type="tmdb">2171065</uniqueid>
+  <uniqueid default="false" type="trakt">1312013</uniqueid>
+  <uniqueid default="true" type="tvdb">4976357</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>挞沙致电手下杀死小星，家强等人极力阻止。卓凯根据小嘉和浩勤留下的线索找到绑匪藏身点，他撞门闯入展开枪战救了险些坠楼的小嘉。家强和木荣趁乱带走小星交还欢喜，之后他被挞沙教训一番。小嘉怀疑浩勤是道行卧底，她潜入医院打算与浩勤取得联络时险些被欢喜发现。浩勤与小嘉和卓凯相认，三人决定继续调查欢喜和挞沙。浩勤前女友莫羡昕任职廉政公署，她接到举报后奉命调查卓凯是否贪污一事。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2663</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Line.Walker.E05_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 45 集</title>
+  <originaltitle>第 45 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>45</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783870</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>杨广见其怪异，问他来意，李元霸直言要讨官做，更是举起千金重狮。杨广大喜，问他要何官，李元霸看中了宇文成都的金牌。杨广见此便要李元霸和宇文成都比试一番。李元霸力大无敌，就连宇文成都也难撼其半分，宇文成都败于李元霸手下，宇文化及不忿，派数十士兵围攻李元霸，被宇文成都喝止。杨广喜获将才，封李元霸为赵王，赏宝马“万里烟云照”一匹。　　李密升为开河总管，不顾劳工性命，昼夜开工。临近运河完工期限，黄淮一带郡民日夜劳作，怨声连天。与此同时，不少奇人异士高举反隋大旗，天下烽烟四起，各路反王引兵纳士，割据一方。杨广却一心向往扬州，不理政事，乘龙舟南下。杨林击退边疆作乱之倭寇班师回朝，却发现杨广竟已南下扬州。杨林担心杨广安危，即刻与十二太保一起率精兵前去护驾。　　徐茂公、秦琼等人商议截杀杨广一事，自觉兵力尚不足，唯有反王联手才有胜算，于是联合各路反王，准备在四平山一处截杀杨广。各路反王聚首四平山，为截杀杨广摩拳擦掌。　　单盈盈一心找机会报仇，除掉昏君杨广，却无从下手，郁闷之际见玉郡主带来三名逃难女子，单盈盈赶紧前去帮忙。单盈盈、玉郡主将三名逃难女子迎进帐中，为其换上干净衣服，又备事物为其充饥。三人将身世和盘托出，原来她们是杨广所选秀女，在龙舟上饱受凌辱，这才逃了出来。　　眼见杨广龙舟降至四平山，仍有三家反王尚未到达，军心大乱，甚至有人扬言要打到回府。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2694</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>45_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="45" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

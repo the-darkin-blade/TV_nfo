@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>宇文邕被迫杀尉迟迥</title>
+  <originaltitle>宇文邕被迫杀尉迟迥</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>4659259</id>
+  <uniqueid default="false" type="tmdb">1224924</uniqueid>
+  <uniqueid default="false" type="trakt">1233465</uniqueid>
+  <uniqueid default="true" type="tvdb">4659259</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>面对宇文邕的请求，雪舞最终心软答应，她却不知此行一去，并无那么单纯，周国潜藏的危机最可怕的莫过于宇文护蠢蠢欲动的叛乱。于此同时，大冢宰府内宇文护密谋造反。玉兔被质疑为宇文邕眼线，面对宇文护的测试毒酒，玉兔为了真正取得宇文护的信任，毫无犹豫喝下毒酒。玉兔举动让宇文护大喜，同时宇文护当众宣布他大事已到，即将称王。玉兔潜回宫中报告报宇文护叛变一事，宇文邕得知后，暗中面见尉迟迥，施以君恩，两人一心。不料就在隔日宇文护的寿宴上，群臣恭贺，宇文邕也到府祝贺之时，宇文护当众降予尉迟迥大罪，情势逼迫宇文邕需亲手弑之，宇文邕万分挣扎，但为了不让宇文护起疑的状况下，仅能忍痛下了杀手。这件事让宇文邕痛苦万分，甚至深愧自己毫无人性，连陪在贞儿身边的资格都没有，幸而他在夜里得到雪舞的温暖鼓舞，雪舞以当初在贱民村的种种点滴为例，告知宇文邕他存在那善良的天性，宇文邕因此得到了强大的安慰，也让他更坚定想留下雪舞的决心。就在宇文邕心灵重新得到平和之际，真正的阴谋正开始暗潮汹涌着，深夜的大冢宰府，李安跟宇文护密谋着在宇文邕的御膳房安插自己的厨师，必要时下毒杀害之，这一计划被玉兔所意外听见。同时雪舞与贞儿陪同宇文邕一同玩起游戏同乐，待贞儿休息之后，宇文邕向雪舞提出要求，希望她陪自己前往一处。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep16_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

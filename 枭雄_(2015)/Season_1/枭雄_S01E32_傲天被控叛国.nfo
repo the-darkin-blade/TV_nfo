@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>傲天被控叛国</title>
+  <originaltitle>Episode 32</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490925</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>委员长为把上海打造成新社会，决心要铲除所有帮会势力，因此不愿替傲天平反。兆匡约见逸庆，希望可为他引见委员长。逸庆见到傲天出现紧张起来，兆匡指傲天的汉奸身份仍未平反，所以逸庆的态度显得有点错愕。
+
+傲天见兆匡在办公室内贴了很多抗日剪报，但所有都是以兆匡为主角。傲天欲取回他的财产，却被兆匡一口拒绝，并指所有钱都是自己赚来的，傲天不禁气上心头。
+
+傲天终与 瀚林重逢
+
+婷婷计划把主人房还给傲天与月兰，兆匡感不悦。婷婷提议访问傲天，把他的抗日事迹报道出来，让市民知道傲天并非汉奸，还他清白。兆匡劝她不要再做记者，专心照顾家庭，婷婷指为理想会继续坚持。
+
+月兰从傲天口中得知，兆匡态度完全改变，傲天怕兆匡还隐瞒其他事情。傲天终于与瀚林会面，故友重逢，傲天非常高兴，但瀚林并非如此，他把兆匡的恶行全部告知傲天。傲天指兆匡吞兄食弟，誓言要教训兆匡。
+
+兆匡决心 赶走傲天
+
+韩立听到傲天的话后，才惊觉兆匡是多么无耻，但他直言兆匡得到委员长的栽培，故很难对付他。傲天知道委员长仍未为他平反，内心非常焦急。韩立计划安排外国记者介入，藉此逼委员长面对。傲天十分感谢，可惜难以如愿。委员长亲自接见兆匡，问他关于傲天的真相，兆匡作出一个对自己非常有利的答案。
+
+记者报道傲天的住址，引来爱国分子声讨，誓要铲除汉奸，瀚林怀疑是兆匡把地址通知记者。兆匡托人把到香港的机票送给傲天，并叫他们尽快离开上海。婷婷无意中听到兆匡要通知巡捕来拘捕傲天，还欺骗记者，把抗日的功劳归在自己身上，婷婷震惊。
+
+婷婷决以 离婚相逼
+
+婷婷以离婚相逼，要兆匡立即为傲天平反，但兆匡心中只有权力和利益。傲天决定清理门户，与瀚林一同来找兆匡。瀚林斥令兆匡立即交还所有财产，但兆匡辩称拥有的东西都是靠自己赚取的。
+
+傲天听过兆匡辩解后，决定给他一个教训。巡捕来拘捕傲天，瀚林叫傲天先走，但傲天觉得他光明磊落，不用逃避。傲天被控通敌叛国罪，要接受军事法庭的审讯，律师们把他与日本人的勾结证据纷纷呈上，傲天一直沉默……</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2766</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep32.End+Interview.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

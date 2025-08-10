@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:43 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 17 集</title>
+  <originaltitle>第 17 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783840</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宇文成都巡街，当街被雄阔海阻拦，宇文成都拉断雄阔海宝弓，此时，宇文成都得知叔父被人杀害，便带兵追讨秦琼等人，雄阔海见状加入秦琼队伍，一起对抗宇文成都。　　秦琼等人逃至一府院，翻墙而过，此府院正是邱瑞之长平王府，宇文成都追到长平王府，誓要搜查逃犯，邱瑞为防止宇文成都假借他名诬陷，便挡下宇文成都，自查府院，查到秦琼等人乃是宇文成都所追查的逃犯。邱瑞让秦琼等人藏于荷花缸中，放进宇文成都。宇文成都虽等得不耐烦，但不敢发作，他带人上下搜擦一遍，并无发现，正要离去，突然看到荷花缸，邱瑞以荷花缸乃皇上所赐，需要圣旨才能动，宇文成都只能离去，回宫去请旨。　　宇文成都回到宫中，得知宫中大乱，他被调遣为保护杨广夺取皇位。便丢下追讨逃犯秦琼的事情。　　高熲和李德林带着手谕去取兵符，控制宿卫军，玉郡主则带着密诏去解救杨勇。岂不知宿卫军已被宇文成都控制，并不听文帝手谕。　　玉郡主、高熲救出杨勇，逃跑途中， 遭到杨素围追，杨勇丢了密诏，杨素捡到密诏，抓了高熲。　　杨广又来到文帝宫中，亲手杀死了文帝。文帝死后第二天，杨广就登基了，满朝大臣虽对文帝之死尽是疑惑，但老臣伍建章无畏惧，上朝揭露杨广恶行。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2750</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>17_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

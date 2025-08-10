@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>保护小嘉吸毒命危</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>4983262</id>
+  <uniqueid default="false" type="tmdb">2171070</uniqueid>
+  <uniqueid default="false" type="trakt">1312764</uniqueid>
+  <uniqueid default="true" type="tvdb">4983262</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>欢喜布局除掉毒贩后独占毒品市场，他将毒品生意交给家强负责。卓凯安装的窃听器被羡昕发现，不知情的他约小嘉见面时险些暴露卧底身份。得知卓凯被廉政公署调查，小嘉和浩勤决定调查他是否清白。家强当年因执行任务而连累好友小乐变成痴呆，道行劝他不要自责。家强奉欢喜之命与外地毒贩进行交易，谁料毒贩要求小嘉试毒。家强为保护小嘉独自吸毒完成交易，但他却因吸毒过量而命危，幸亏小嘉及时相救。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2650</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Line.Walker.E10_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

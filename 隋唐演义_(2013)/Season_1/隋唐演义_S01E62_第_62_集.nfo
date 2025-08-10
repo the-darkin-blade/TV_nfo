@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 62 集</title>
+  <originaltitle>第 62 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>62</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783888</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>秦琼、罗成、程咬金等人来到林中。李世民向单雄信叩首，以示诚意，单雄信宁死不降，秦琼求李世民饶单雄信一命，李世民答应。
+
+王世充集结孟海公、高谈圣、朱灿、窦建德四位反王，已在洛阳城外甲锁山驻军扎寨，意图解洛阳之围，大战一触即发。李世民与徐茂公商议调开秦琼，直取洛阳。
+
+秦琼接到秦王之命，前去押送粮草，亦知其用意，他知天下大势不可为，忍痛离开洛阳。
+
+洛阳一役，罗成独挑五王。单雄信厮杀一天，不知洛阳城内情况如何，于是回城探看，方知王玉凤生一子，又知郑王已经战死。王玉凤劝单雄信归唐，单雄信大怒，宁死不从。单雄信决定重返战场，王玉凤自缢而死。单盈盈带着单雄信的孩子离开洛阳，与前来寻她的罗成失之交臂。
+
+单雄信独踏唐营，被尉迟恭拿下。李世民劝降，单雄信只求一死。李世民挥泪下令斩单雄信。
+
+断头台上，李如辉、齐国远、徐茂公、程咬金、罗成送别单雄信。刽子手挥刀而下，众人回想结拜之事，兄弟之情，个个痛哭得不能自已。秦琼感知到单雄信命已绝，竟从马上跌落下来。
+
+李世民攻占洛阳，逐鹿中原，天下一统归大唐，秦琼被封为护国并肩王、天下都督大元帅，罗成封越国公，徐茂公封英国公，程咬金封鲁国公。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2707</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>62 End_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="62" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

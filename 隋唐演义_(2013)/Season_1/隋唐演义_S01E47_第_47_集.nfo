@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 47 集</title>
+  <originaltitle>第 47 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>47</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783873</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宇文成都一人与伍云召、伍天锡、雄阔海三人对战数百回合，正当宇文成都疲累之际，裴元庆半路杀出，将宇文成都打得吐血。宇文成都既已重伤，宇文化及提议召李元霸火速前来救驾。徐茂公闻此大惊，派谢映登前去瓦岗，将罗士信请来。　　宇文成都救出玉郡主，将她藏于房内。　　谢映登带着罗士信赶路，罗士信贪吃嗜睡，行路颇慢。谢映登急中生智，假装肚子疼，让罗士信背他而走，并将食物藏起，饿着罗士信。罗士信发现其中有诈，将谢映登摔下，抢过食物，吃饱就睡。谢映登无可奈何。　　李渊接到圣旨，带李元霸、李世民、柴绍前来救驾，李渊担心与恩公秦琼为敌，柴绍却言他自有妙计。李渊一行人等来到四平山，柴绍密见秦琼等人，言明李元霸到来之事。众人发愁，罗士信尚在路上。单雄信知柴绍是李渊的女婿，大怒，柴绍解释抄杀二贤庄事宜，单雄信根本不听。秦琼要单雄信以大局为重，单雄信这才压抑自己，不再说话。柴绍离别，秦琼托他打探一下玉郡主的下落。　　柴绍将玉郡主一事告诉李世民，李世民派红拂女打探，却听说有一名刺客早就把玉郡主救走了。李世民大胆推测玉郡主仍在龙舟之上，而且是被宇文成都所藏匿，于是提酒前去拜访宇文成都。宇文成都不冷不热，李世民故意往宇文成都房间里去。李世民进入宇文成都房中，确定玉郡主在此。夜晚，一名刺客黑衣蒙面闯进龙舟，柴绍故意大喊是秦琼来了，宇文成都赶紧去救，李世民趁机进入房间将玉郡主救出。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2705</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>47_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="47" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

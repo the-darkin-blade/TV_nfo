@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>立仁遇初恋情人女儿</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>仁心解码II</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">913752</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在孤儿院挖掘出的骸骨已证实为失踪多年的文仔，颂恩回想文仔失踪时的情形，只以为他偷走离开，没想到他已遇害。立仁发现重点，文仔最后一次出现，是和国威及启超一起。国彬也重看国威的自拍片段，发现当时现场应还有另一人。
+
+慧翘接收一名患妄想被害症的病人程桂兰，原来她是慧翘已故男友Franco出意外时救回的女子。桂兰牵涉娈童案，常怀疑有人欲加害自己，正巧桂兰的律师是启超，种种线索让立仁拼凑出一个惊人的杀人行动，甚至怀疑连Franco之死也不是意外。
+
+立仁分析　凶案动机
+
+立仁找子安倾谈，道破国威在死前一切行动背后的意义，以及分析出真凶的犯案心态。立仁更直言已在孤儿院起出文仔骸骨，向子安表明凶手不值得维护，请他指证真正的凶手，阻止杀人案件继续发生。
+
+启超已失踪多日，国彬与小队便到启超家找线索。国彬见屋内整齐得惊人，便叫颂恩用手机拍照传给立仁请教。立仁马上判断出启超的病情，又致电世邦和日勤，要他们赶去保护桂兰，但桂兰已被带至天台……
+
+瑶珠的新病患者周太有强逼症沉迷整容，不断透过整容增强自信，令丈夫大为困惑。嘉丽告之志森想拆夥，又藉口事忙拒绝与他深入商谈。志森离开诊所时，只余下接待的女职员杏芝一人。杏芝故意制造二人相处的时机，诱惑他接触自己，唯志森意志坚定，再三强调夫妻恩爱，匆匆逃离现场。
+
+为庆祝启荣与思家正式交往，瑶珠、世邦、日勤等年轻人都到酒吧尽兴。没料到瑶珠竟遇前男友，更喝至酩酊大醉，于是日勤便主动送她回家。
+
+立仁被提　初恋情事
+
+年月负责的一名病患赵兴泰，他多年前因精神有异斩死多人，虽现已康复但他害怕出院后不懂面对他人。年月鼓励他应有自信，又请他拍摄精神病人康复特辑，有助消除社会对精神病康复者的歧视。
+
+立仁出席大学讲座，讲解受创伤而失忆的病人如何治疗，一名女学生林紫妮当场反对立仁的治疗，认为不应助病人回复记忆，却反被立仁反驳。立仁指若逃避过去是软弱的表现，代表没勇气面对将来。紫妮托慧翘把一本书交给立仁，又约他半夜在大学见面。
+
+立仁如言赴约，即被紫妮质问为何廿六年前失约。立仁在廿六前年与初恋情人徐洁心相约大学前，却临时有事爽约，不料次日恋人竟已远到美国留学。原来眼前的紫妮正是洁心的女儿。立仁追问洁心的情况，紫妮愤然道出洁心因立仁失约被逼嫁给富商，更郁郁而终……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2639</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.A.Great.Way.To.Care.Ii.E14.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

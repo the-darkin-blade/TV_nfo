@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>叶婷查问父亲死亡真相</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>4841118</id>
+  <uniqueid default="false" type="tmdb">1984081</uniqueid>
+  <uniqueid default="false" type="trakt">1274198</uniqueid>
+  <uniqueid default="true" type="tvdb">4841118</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>淑芬被雀鸟无故袭击而送院治理，有正及有杰得知后即时赶到医院探望，并亲自将母亲接回家休养，日嘉得知事件之后，亦特意到淑芬的家中探望。
+
+剑亨努力　拉拢乐敏
+
+剑亨在手术后康复出院，乐敏前来接送并问及应如何处置叶婷，剑亨认为叶婷为人重感情，故有信心可以控制叶婷一直留在自己身边。
+
+剑亨安排Edmond的录音，并以此来指证Edmond就是杀害叶婷生父的真正凶手，甚至安排人证与她见面。
+
+乐敏找剑亨理论，并质疑剑亨将叶婷留在身边的决定，剑亨看出乐敏是担心叶婷会威胁自己的地位，便出言加以安抚。
+
+日嘉遇险　有正救人
+
+政府部门在调查雀鸟突然死亡的事件时发现与生化袭击有关，便转介ATF调查，ATF发现了一所毒气工场。经化验后，发现有关工场所生产的毒气的主要成分是铊毒，而大学的研究所正好发生铊毒的失窃事件。
+
+ATF的调查对象是日嘉的旧同学，故日嘉便独自到研究所进行调查，岂料日嘉的旧同学突然在实验室晕倒并因此引起火警，日嘉亦因为走避不及而昏迷被困火场。
+
+日嘉有正　关系亲密
+
+有正在日嘉出院后便一直陪伴在侧，而两人的关系亦愈来愈密不可分，日嘉甚至为了陪伴有正，竟然忽视了由外国特地回港探望父亲礼谦。
+
+ATF得知毒气的主要成分是铊毒后，便派员拜访铊毒的权威王教授以索取有关铊毒的资料，同一时间，叶婷亦刚好到大学拜访王教授。
+
+原来叶婷的亲生父亲与王教授是旧识，叶婷为了调查有关父亲死亡真相，便特意向王教授查问。
+
+不准退出　被迫制弹
+
+剑亨指派乐敏指挥制造毒气炸弹的行动，并安排惊鸟的间谍给乐敏差遣。乐敏看见剑亨的部署，感到剑亨重用自己。
+
+ATF进行调查，发现案件与王教授的助手有关，于是决定向王教授展开调查，王教授见形势不妙，便担心自己帮助惊鸟制作毒气一事败露，欲与惊鸟划清界线，以免影响自己的社会地位。
+
+但是惊鸟的间谍为了能如期完成任务，便恐吓王教授要继续完成毒气弹，令王教授感进退两难。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Ruse.Of.Engagement.E11.20140331.1080I.【高清帝国hdk-Www.52Hdking.Com】_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Ruse Of Engagement 20140331 【高清帝国hdk Www 52Hdking Com】 qsv av1</title>
+  <originaltitle/>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>331</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Ruse.Of.Engagement.E11.20140331.1080I.【高清帝国hdk-Www.52Hdking.Com】_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="331" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

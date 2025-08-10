@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 57 集</title>
+  <originaltitle>第 57 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>57</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783883</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>窦线娘对罗成表白，罗成婉言拒绝。单盈盈找罗成谈心，罗成说得不痛不痒，让单盈盈甚感憋气。忽然见窦线娘前来，罗成不理盈盈，却与窦线娘讲话，单盈盈认为罗成与窦线娘已有儿女私情，并赌气发誓要与罗成一刀两断。窦线娘得知玉玺已到郑王王世充之手，久留无益，于是辞别瓦岗。但罗成、单盈盈之结，尚未得解，玉郡主劝慰盈盈，盈盈难消心头之气。　　瓦岗众人得知李密用玉玺换得萧后，愤懑难平。萧后知瓦岗之人必会反她，劝说李密一定要趁机将政见不合者除掉，以绝后患。此时，单雄信怒发冲冠，责问李密为何如此淫荡，将兄弟们用命换来的玉玺拱手让人，不图上进却耽于女色。萧后从中挑拨，李密怒斥单雄信想要玉玺，不过是为报私仇。单雄信怒欲杀萧后，被秦琼等人拉住。单雄信一气之下，带着单盈盈离开瓦岗。翟让听说玉玺换萧后之事，前来劝说魏王将玉玺换回，却遭毒手，惨死李密手下。李密荒淫无度，不理政务，瓦岗众人之心日渐凉薄，渐自寻出路。　　徐茂公、魏征痛恨李密为人奸诈，便商量着离开瓦岗投奔大唐。二人在城墙上赋诗几句，掷笔而去。此后，瓦岗不断有人离去，渐成一座空城。李如辉、齐国远、谢映登等人亦离瓦岗而去。秦琼、程咬金、罗成、王伯当等人仍留在瓦岗，期望李密能够悔悟，重建瓦岗。然瓦岗衰落之势，已难以挽回。　单雄信与单盈盈行至洛阳，郑王王世充得知单雄信到洛阳后大喜，求女儿王玉凤定要以身相许，留下单雄信。王玉凤听从父命，将绣球抛给单雄信，单雄信稀里糊涂成了王世充的女婿。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2697</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>57_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="57" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

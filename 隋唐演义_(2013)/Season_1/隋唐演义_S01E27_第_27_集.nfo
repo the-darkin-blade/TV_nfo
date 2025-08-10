@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 27 集</title>
+  <originaltitle>第 27 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783851</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>秦母通晓大义，并未责怪秦琼娶了仇人的女儿为妻，相反对玉郡主心生怜爱，但秦琼对玉郡主却心存芥蒂，对她也渐渐疏远，玉郡主默默忍受着秦琼的冷遇，并不追问缘由，直到有一天，玉郡主满腹疑问和委屈，开口问秦琼，秦琼将杨林就是自己杀父仇人的事实告诉玉郡主，玉郡主一时间也不知如何面对秦琼，两人一夜无语。　　秦母、单盈盈等人看到秦琼和玉郡主尴尬处境，便想办法为二人化解，众人坐到郊外游玩，秦琼和玉郡主同乘一船，两人在面对美景之时，不由得感慨起来，两人倾吐内心，秦琼让玉郡主离开，玉郡主称自己既然已经嫁给秦琼，就永远不会离开，父亲欠下的债，自己来还。秦琼被玉郡主的真诚感动，两人决定遗忘仇恨，最终重修旧好，感情也更深一层。王伯当、齐国远、李如辉等人准备出发山东，为秦母祝寿；北平王府的罗成也带上寿礼，出发去山东为秦母祝寿；汝南庄的程咬金也为祝寿寿礼之事和尤俊达争执，程咬金坚持将二十四万两银子作为寿礼，尤俊达程咬金的要求，无奈至极，程咬金一起之下，要与尤俊达决裂，决定自己去劫道，劫来银子去贺寿，。夏明侯窦建德称病，被抬进宫中，杨广顾左右而言他。窦建德胆战心惊，宇文化及从旁观察，不动声色。杨广赐窦建德一杯酒　杨广赐酒，窦建德以病体不能饮酒推脱，杨广舞剑，恐吓窦建德，逼问他用兵多少。窦建德称兵力是为抵御外敌，假装肚痛离开大殿。杨广交代宇文化及除掉窦建德，宇文化及私下却与窦建德达成交易，将其放走。宇文化及巧言令色骗过杨广，杨广并不予追究。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2730</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>27_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

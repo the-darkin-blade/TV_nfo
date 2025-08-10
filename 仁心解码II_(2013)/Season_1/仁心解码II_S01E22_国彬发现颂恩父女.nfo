@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>国彬发现颂恩父女</title>
+  <originaltitle>Episode 22</originaltitle>
+  <showtitle>仁心解码II</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">913759</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>志健被颂恩殴打后急忙逃离桑拿店，颂恩边向国彬报告情况边追到后楼梯时，却发现志健已被勒死。颂恩再随杂声到天台，赫然发现父亲大军正在天台上。颂恩本打算逮捕亲父，但大军知道颂恩会念及亲情放过他。当国彬赶至天台，大军已逃去无踪，颂恩向国彬报告大军逃去的反方向错误引导警方。
+
+警方找来谭新问话，他否认因女友床照流出而买凶杀志健。另一方面，国彬推断大军若收钱杀人便需要向雇主收钱，因正被内地通缉而不会回大陆，要下属监察其他逃出海外路线。
+
+颂恩在执行任务时冲动，让志健独自逃开而令他被杀，不禁自责累及同僚。颂恩回家后竟见大军坐在家中等她。颂恩追究大军当年杀害汪家，又因杀害志健与父争持不下。大军坚称杀人乃逼于无奈，而他所杀之人都该死，只是代替女儿做她不敢做的事。
+
+立仁担心　慧翘安危
+
+立仁等四个大男人相约攻打四方城，互相了解近况。志森通知众人，嘉丽撞伤人自首后可免入狱，话题转至一脚踏两船的启荣，但启荣反而针对立仁与慧翘间的关系。立仁虽多番澄清亦没用，在医院内一众下属都有意在他面前提到慧翘的产假等情况，目的就是想让他负起责任。
+
+立仁得知慧翘参加瑜伽班，便前往找她，竟被Sandy痛骂他是无良男人。正巧Sandy是志森病人，志森知她一直想要孩子，但曾经小产以致抑郁，已无覆诊一段日子。立仁认为Sandy病情恶化，因见她吃龟苓膏和持有卫生巾，怀疑她可能妄想怀孕，更可能伤害慧翘令她小产。
+
+启荣打算　修补关系
+
+立仁带慧翘购买七人房车，指想与她一起抚养婴孩，慧翘说出立仁关爱的，其实是未出世的婴儿而非她本人，连启荣也劝立仁要弄清自己的想法。
+
+立仁知道启荣对瑶珠余情未了，便告之瑶珠在中三时暗恋的不是班长，而是启荣本人，启荣听到后马上去找瑶珠欲修补二人关系。瑶珠即将离开香港，在整理家中物品时找到一堆昔日写给启荣但没有寄出的信，但因当中一封最为重要的信已被丢，便到废纸场找回。启荣去到废纸场，向瑶珠重新表示爱意，但瑶珠已无意重修旧好。
+
+国彬阻截　颂恩复仇
+
+国彬收到大军匿藏线报，于是率众到匿藏地点时，却无发现任何人。颂恩见同僚未能找到父亲，便再折返小屋，但国彬也到了现场找她……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2654</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.A.Great.Way.To.Care.Ii.E22.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>家培望晴　调查内鬼</title>
+  <originaltitle>Episode 22</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>4160834</id>
+  <uniqueid default="false" type="tmdb">2298779</uniqueid>
+  <uniqueid default="false" type="trakt">1644062</uniqueid>
+  <uniqueid default="true" type="tvdb">4160834</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>警方破获一烈藏毒库，但一烈成功逃脱，令CIB怀疑有黑帮内应。一烈躲避通缉，社团混乱，星柏提议提前选举龙头坐馆，但高层们犹豫不决。丁敏恐惧一烈报复，笑棠安慰她并提出带她离开香港，实为引一烈现身。望晴知笑棠与丁敏发生关系后态度冷淡，并告知他CIB有内鬼之事。一烈与星柏合作，答应星柏当选后支持他重掌大权。家培部署捉拿一烈，但行动失败，疑有内鬼。星柏获得社团高层支持当选坐馆。丁敏收到一烈威胁家人的电邮后失踪，笑棠怀疑并通知望晴，发现丁敏与一烈在一起，一烈竟驾车至警署挑衅。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2695</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E22.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

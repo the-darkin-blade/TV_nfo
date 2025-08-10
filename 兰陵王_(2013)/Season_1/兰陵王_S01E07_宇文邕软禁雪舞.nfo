@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>宇文邕软禁雪舞</title>
+  <originaltitle>宇文邕软禁雪舞</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>4659250</id>
+  <uniqueid default="false" type="tmdb">1224915</uniqueid>
+  <uniqueid default="false" type="trakt">1232066</uniqueid>
+  <uniqueid default="true" type="tvdb">4659250</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>面对来势汹汹的间谍，为保护雪舞，兰陵王身中数枚毒箭。看到兰陵王虚弱不堪、军医束手无策的样子，雪舞才知道自己犯了可怕的错误。雪舞成日不眠不休照顾兰陵王，但剧毒无解，她的所作所为只是白费。而昏迷中的兰陵王，几次转醒，看到雪舞担忧的泪痕，满是心疼。更为糟糕的是太子高纬带着奸臣祖珽乘虚而入，不仅恶意压痛兰陵王伤处，更乘机夺走兵权。雪舞知道这一切缘由自她，决定瞒着众人，带着晓冬前往周国取解药，希望能救回兰陵王，周国龙舟上，雪舞终于见到了宇文邕。城府深沉的宇文邕早已料到雪舞会来求救于他。雪舞看着眼前的宇文邕觉着异常陌生。回到周国多日，宇文邕一派尊贵的皇者风范，与之前落魄的阿怪已经判若两人。宇文邕不但没将解药交给雪舞，反而软禁雪舞。他为了提振周军士气，更是屡次欺骗雪舞。宇文邕的种种举动让雪舞对其充满了反感。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep07_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

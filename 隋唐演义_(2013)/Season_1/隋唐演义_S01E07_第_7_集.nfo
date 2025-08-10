@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:40 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 7 集</title>
+  <originaltitle>第 7 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2681174</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>再次升堂，罗春提审秦琼，却查到秦琼被张公谨等人提走，罗春当场撞破秦琼装病，无奈之下，众人只得前往公堂，说出实情。　　罗艺气恼之下惩治秦琼，王妃屏风之后示意验其身份，罗艺追问秦琼身世，秦琼道出身份，王妃涕泪相认秦琼，众人团聚一堂。　　杨林来到宫中，以病为由，拖住了玉郡主婚期，文帝答应以后再议婚事。杨广迎娶玉郡主之事落空，却正巧中了萧美娘心事，她化名萧媚，由杨广请示文帝，正大光明地纳给了杨广。　　程咬金练斧子被响马打劫不成，反劫了响马，回到汝南庄吹嘘一番，尤俊达看着程咬金的武艺不禁无奈至极。　　单雄信派单安前往北平府打探秦琼案件，单盈盈暗中也追了去。　　单盈盈跟随单安来到北平府，遇上卖弄武艺的武安福，单盈盈不屑喝起倒彩，武安福一时气恼，但见单盈盈颇有姿色，便上来调戏，单安劝说单盈盈不要惹事，单盈盈和单安要逃，但武安福紧追不舍，捉住了单盈盈，单安拖住武安福，却被武安福当街打死，当单盈盈惨遭毒手之时，罗成、秦琼及时赶到！</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2701</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>07_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

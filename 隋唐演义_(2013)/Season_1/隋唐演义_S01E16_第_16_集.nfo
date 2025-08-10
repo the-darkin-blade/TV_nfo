@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:43 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 16 集</title>
+  <originaltitle>第 16 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783839</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>萧美娘劝说宣华夫人从了太子，宣华夫人冷言以对，但她内心对杨广势力却不得不畏惧。杨广趁机接近宣华夫人，此时宣华内心已燃气复仇火焰，她隐忍生活在文帝和杨广之间，杨广为了早日得到宣华夫人，听了萧美娘的建议，除掉文帝，自己登上皇位。　　杨广开始在文帝药中做手脚，他端着放了剧毒的药端给文帝，但文帝并未当即吃下，而是与杨广回忆往昔，杨广内心开始挣扎，最终他故意打翻药碗，匆匆而去，此时玉郡主前来探访文帝，看到文帝面色异常，有中毒之相，经过文帝应允，查到御药房，得知文帝所吃之药全部经过杨广之手，玉郡主更加确定杨广居心叵测，李德林和高熲也抓到杨广地宫的证据，两人一起面见文帝。当文帝听完玉郡主、高熲、李德林对杨广的指控，立即下令，修改遗诏，重立太子。　　秦琼、王伯当等人逛花灯，遇上假装买艺的雄阔海炫耀宝弓，齐国远不服气，与李如辉一起拉弓，费了九牛二虎之力也没将弓拉开，秦琼上前一试，努着力气才拉满了弓。　　齐国远、李如辉逛着逛着到了宇文惠及府门口，遇上一位老人追讨被宇文惠及抢去的女儿，此时，老人的女儿被扔出府外，但是已死，王伯当一时激愤，冲杀进府内。　　秦琼等人赶到，一同杀了宇文惠及，后匆忙离去。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2649</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>16_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

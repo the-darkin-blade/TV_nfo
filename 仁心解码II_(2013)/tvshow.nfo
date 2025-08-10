@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>仁心解码II</title>
+  <originaltitle>仁心解碼II</originaltitle>
+  <showtitle>仁心解码II</showtitle>
+  <sorttitle/>
+  <year>2013</year>
+  <top250>0</top250>
+  <ratings/>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>仁和医院高级精神科医生高立仁（方中信 饰）在婚礼前痛失为重案组探员的未婚妻莫敏儿（徐子珊 饰），随即陷入悲伤中不可自拔，甚至为此辞去工作。却不料就在此时，医院接收了一名声称被幻听所困更涉嫌强奸案的精神分裂患者。对此案不甚关心的高立仁路过案发现场，误打误撞帮助了博安医院法医精神科医生梁启荣（萧正楠 饰），并建立亦师亦友的关系。已经在外挂牌行医的连志森（蒋志光 饰）担心老友丧妻后萎靡不振的精神状态，多番劝说他重振旗鼓。高立仁也终于决定去博安医院任职。  　　在随后一次同学聚会中，夜总会发生命案，高立仁意外结识了警方卧底林颂恩（杨怡 饰）。而在工作过程中，也逐渐与顾问医生卓慧翘（蒙嘉慧 饰）成为朋友。与此同时，连志森与梁启荣也分别陷入了暧昧不清的情爱关系……</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"46839","tvdb":"267781"}</episodeguide>
+  <id>267781</id>
+  <imdbid/>
+  <tmdbid>46839</tmdbid>
+  <uniqueid default="false" type="tmdb">46839</uniqueid>
+  <uniqueid default="true" type="tvdb">267781</uniqueid>
+  <premiered>2013-03-18</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <genre>Crime</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <tag>psychiatrist</tag>
+  <tag>psychiatric ward</tag>
+  <tag>criminal investigation</tag>
+  <actor>
+    <name>方中信</name>
+    <role>Ko Lap-yan</role>
+    <profile>https://www.themoviedb.org/person/21914</profile>
+    <tmdbid>21914</tmdbid>
+  </actor>
+  <actor>
+    <name>蒙嘉慧</name>
+    <role>Lois Wai-kui Cheuk</role>
+    <profile>https://www.themoviedb.org/person/25248</profile>
+    <tmdbid>25248</tmdbid>
+  </actor>
+  <actor>
+    <name>杨茜尧</name>
+    <role>Lam Chung-yan</role>
+    <profile>https://www.themoviedb.org/person/1222259</profile>
+    <tmdbid>1222259</tmdbid>
+  </actor>
+  <actor>
+    <name>蒋志光</name>
+    <role>Sam Chi-sam Lin</role>
+    <profile>https://www.themoviedb.org/person/1083956</profile>
+    <tmdbid>1083956</tmdbid>
+  </actor>
+  <actor>
+    <name>黄智贤</name>
+    <role>Chung Kwok-ban</role>
+    <profile>https://www.themoviedb.org/person/1192984</profile>
+    <tmdbid>1192984</tmdbid>
+  </actor>
+  <actor>
+    <name>萧正楠</name>
+    <role>Jackson Kai-wing Leung</role>
+    <profile>https://www.themoviedb.org/person/1059226</profile>
+    <tmdbid>1059226</tmdbid>
+  </actor>
+  <actor>
+    <name>黄浩然</name>
+    <role>Lee Ying-chun</role>
+    <profile>https://www.themoviedb.org/person/123648</profile>
+    <tmdbid>123648</tmdbid>
+  </actor>
+  <actor>
+    <name>陈茵媺</name>
+    <role>Jade Yiu-chu Lai</role>
+    <profile>https://www.themoviedb.org/person/1566076</profile>
+    <tmdbid>1566076</tmdbid>
+  </actor>
+  <actor>
+    <name>梁烈唯</name>
+    <role>Edgar Sai-bong Wong</role>
+    <profile>https://www.themoviedb.org/person/1143685</profile>
+    <tmdbid>1143685</tmdbid>
+  </actor>
+  <trailer>plugin://plugin.video.youtube/play/?video_id=DOJDBYTOAic</trailer>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

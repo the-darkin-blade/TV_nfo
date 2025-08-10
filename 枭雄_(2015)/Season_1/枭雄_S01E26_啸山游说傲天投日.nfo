@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>啸山游说傲天投日</title>
+  <originaltitle>Episode 26</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490919</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>啸山约见金棠与傲天，希望三人一同为日军效力，但二人一口拒绝。傲天清楚知道抗日分子是啸山所杀，非常伤心。金棠晚上走到寺庙，把大部份财产交给桂生作为抗日经费。桂生问起傲天，金棠指傲天未有明确表示立场。
+
+傲天因啸山的事，终日茶饭不思，小楼知道后即上前慰问。傲天坦言因啸山的事而感愤怒，并指上海与法租界都不安全，希望小楼与月兰到英国避难，但小楼欲为国家出力，决定留在上海与众人共同进退。
+
+月兰小楼 街上被袭
+
+月兰突然从英国回来，责骂傲天未有通知她受枪伤。学尧欲与日本人拆夥，免得被人误以为汉奸。美琴劝告啸山，劝他不要再与东条合作，但啸山拒绝。
+
+日军攻陷华界，特别行动队伤亡惨重，傲天即召集所有人开会。月兰早上见小楼，指傲天枪伤反覆，欲找一中医药方，小楼答应同往。民众涌入法租界，治安大乱，警察厅人手不足，庭亨指只能静观其变。
+
+金棠担心桂生安全，即派人前往保护她。月兰与小楼在上街被暴徒袭击，并与傲天手下失散。
+
+韩立请求 傲天协助
+
+月兰和小楼幸被兆匡营救，但财物尽失。三人回到纱厂，原以为安全，但暴徒闯入纱厂抢掠，并打伤兆匡。俊杰与斧头帮众人赶至，才能把暴徒赶走。
+
+傲天到医院探月兰，见她与小楼都安全，才放下心头大石。傲天探望兆匡，感谢他拯救月兰二人，指欠他一个人情。傲天坦言法租界已不安全，抢掠仍会持续。
+
+月兰伤口发炎及发高烧，但抗生素被日军抢光，傲天与小楼都非常担心。上海沦陷，委员长已撤出上海，但韩立偷偷回来。他约见傲天，希望傲天假借投靠东条，其实是为国统处搜集情报。  傲天答应 归顺日军
+
+傲天与众人外出，突然被人开枪伏击，聂勇眼见是国统处所为，但众人不信，兆匡指是傲天知道太多秘密，怕他会投日，故先下手为强。
+
+啸山探望傲天，指国统处不守信用，劝傲天应效法他归顺日军。傲天问他是否找到抗生素，啸山说药在日本人手上，傲天即托啸山约会东条。东条把抗生素交给傲天，傲天十分感激。傲天决定向东条捐钱，众门生反对，傲天拿出门生拜帖，指不满意的人可以离开。
+
+傲天与啸山去见东条，二人在过桥时被日军彻查，桥上市民纷纷围观，更有记者拍照。东条要求傲天及啸山劝服金棠投靠日军，傲天指会尽力办到。美琴与学尧在街上被唾骂，他们怕会被袭，决定离开上海。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2672</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep26.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

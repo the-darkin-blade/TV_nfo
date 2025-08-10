@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 39 集</title>
+  <originaltitle>第 39 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>39</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783863</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>这时黑衣人再次现身，将谢映登放出，又将阵图塞与谢映登怀中。谢映登赶紧逃走，跑至林中，黑衣人现身并将阵图夺走，谢映登问其缘由，黑衣人称要随谢映登前往瓦岗，面见一人。　　黑衣人到达瓦岗，见到罗成竟与之打斗一场，二人所用招式竟出自一家，细问之下，方知此人乃罗松，竟是罗成同父异母的兄长。罗成当下认亲，并承诺带罗松回北平府认父。罗松为瓦岗众人义气所动，主动请缨破阵。罗成蒙面而去，打败丁延平，破得一字长蛇阵。　　山马关总兵裴仁基之女裴翠云因脚大难以出嫁，男方竟在洞房花烛夜提出退婚，裴翠云一气之下打了新郎，脱了婚衣离开。而朝廷之中，邱瑞举荐裴仁基挂帅围剿瓦岗，杨广下令召裴氏父子来朝面圣。　　裴翠云回到家中，裴仁基及其夫人为其婚事发愁，裴翠云弟弟裴元庆支持姐姐做法，并说嫁人定要嫁当世豪杰。此时，圣旨来到，宣裴仁基父子进京，裴翠云亦要求同去。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2648</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>39_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="39" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

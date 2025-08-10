@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>为救笑棠 家培犯险</title>
+  <originaltitle>Episode 29</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id>4166118</id>
+  <uniqueid default="false" type="tmdb">2298787</uniqueid>
+  <uniqueid default="false" type="trakt">1644074</uniqueid>
+  <uniqueid default="true" type="tvdb">4166118</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>可可婚礼当日，星柏紧张等待笑棠提取毒品消息。笑棠顺利过关后遭国彬绑架虐待，家培得知后独自前往营救。同时，星柏故意引开警方，成功运走毒品。家培在千钧一发之际救出笑棠，两人分头行动，家培拘捕国彬，笑棠赶往码头截毒。星柏婚礼上得知毒品出事，只得独自逃走。以太会会员怀疑可可出卖他们，星柏向可可盘问时开枪。三妹安慰受伤的可可，可可对星柏的背叛感到心痛。家培和笑棠成功截获毒品，但星柏的逃脱令他们深感不安。整个社团因毒品事件陷入混乱，各方势力暗流涌动，一场更大的风暴即将来临。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2605</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E29-30.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>望晴被擒 笑棠着急</title>
+  <originaltitle>Episode 30</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id>4178242</id>
+  <uniqueid default="false" type="tmdb">2298788</uniqueid>
+  <uniqueid default="false" type="trakt">1644078</uniqueid>
+  <uniqueid default="true" type="tvdb">4178242</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>笑棠与立青成功破获大宗可卡因案，重归警队。义丰社团因星柏失踪而瓦解。笑棠求婚望晴成功，两人发现戒指秘密，却遭星柏跟踪。望晴被星柏打伤，笑棠冒险相救，两人悬于半空，家培与警员赶到却无法施救。笑棠崩溃，决定引星柏出现。两人在健身室对峙，谈判破裂后展开枪战。星柏被笑棠逼至绝境，笑棠以硬币决定其生死。经过一系列波折，笑棠终于为任务画上句号，但内心的伤痛与挣扎却难以平复。他的英勇与智慧，赢得了众人的尊敬与哀悼。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2605</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E29-30.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

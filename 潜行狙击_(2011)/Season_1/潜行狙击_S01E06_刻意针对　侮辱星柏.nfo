@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>刻意针对　侮辱星柏</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>4147512</id>
+  <uniqueid default="false" type="tmdb">2298758</uniqueid>
+  <uniqueid default="false" type="trakt">1644043</uniqueid>
+  <uniqueid default="true" type="tvdb">4147512</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>CIB查明女死者是社团“义丰”操控的妓女，因社团内斗被杀。家培决定收集情报，笑棠提议派卧底。星柏被卷入威利与国彬的争斗，逃过一劫后被调到黄色场所工作。立青和心凌被选为卧底，分别担任马夫和妓女，心凌极不情愿。立青在笑棠帮助下顺利进入义丰工作。星柏在场所受辱，却反常地与可可到高级餐厅。心凌怕身份暴露，擅自取消行动，望晴只好亲自卧底。星柏为上位求笑棠帮忙，欲重回威利手下对付国彬，经历生死考验。社团内斗愈发激烈，卧底行动充满未知与危险。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2694</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E06.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

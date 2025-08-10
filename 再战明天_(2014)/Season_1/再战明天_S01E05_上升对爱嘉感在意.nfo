@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:31:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>上升对爱嘉感在意</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>再战明天</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>5013641</id>
+  <uniqueid default="false" type="tmdb">3236324</uniqueid>
+  <uniqueid default="false" type="trakt">1322563</uniqueid>
+  <uniqueid default="true" type="tvdb">5013641</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>立桂因为一时不慎，令细响有机会对颂恩施以暴力，令他受重伤，需受隔离治疗。立桂担心上升会借故取消其退休长俸，故在工作时大发脾气。但性格认真的上升并没有体谅立桂，还特地召立桂进办公室加以责难，令立桂对上升的敌意更浓。
+
+伟晋因为答允雅蕾出席慈善晚会，故邀请春光担任舞伴。春光与伟晋一向关系良好，欣然接受了他的邀请。
+
+伟晋带春光购买晚礼服，春光在店员口中始知伟晋出身豪门。看见伟晋不喜欢别人提及自己的背景，春光虽然感到惊讶，但也没有追问他的背景。  伟晋春光　同赴盛宴  伟晋与春光出席由雅蕾举办的慈善晚会，各界名流官绅亦应邀出席，令伟晋与自己的父亲兆江碰面。  原来伟晋因没有继承父亲的生意，一意孤行投身惩教署工作，结果令他与家人之间的关系并不愉快；春光虽然有所察觉，亦心知他的性格，故保持缄默。
+
+春光突然收到了福利官同事来电通知，得悉小凤因家庭纠纷问题而需要春光支援。伟晋见状即驾车送春光到事发现场，春光为省时间在车上更衣，令伟晋大感尴尬。  小凤逃走　失足堕楼  春光与伟晋赶到小凤的家，只见小凤与自己的家人因为经济问题而吵架，春光协助小凤平反，但小凤冲入厕所并将门反锁。伟晋见小凤迟迟未出即破门察看，只见她正爬出窗外逃走。春光上前劝止，但小凤却失足堕楼。
+
+好好儿子已满三岁，但好好在狱中犯事未能与儿子一同出狱，爱嘉只好派人接他离开。正桥再次到罗湖惩教所探望好好，好好借机会拜托正桥帮忙看顾儿子，正桥一心报答昔日恩情，即时答应请求。  爱嘉自放弃嫁到外国后，便与朋友策划长途旅行，上升闻言后担心爱嘉乱交朋友，即出言反对。但是爱嘉决定了的事便没有人能够阻止，最后上升只好接纳她的决定。  上升揭发　饭堂漏洞  赤柱监狱有囚犯利用厨房的漏洞，为付了钱的囚犯提供特别膳食，细响得知此事后，亦决定付钱。  上升在文件中察觉到厨房人手出现异样，开始暗中进行调查，并与囚犯子书单独会面。子书本不想制造麻烦，但是为了偿还上升往日的恩情，将特别膳食的事告知上升。  上升掌握证据后，即在饭堂揭发此事，却碰巧只有细响要求特别膳食，细响便认为是上升有意陷害自己，便在独立监房中发难，并誓言向上升展开报复。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2695</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.再戰明天.E05.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

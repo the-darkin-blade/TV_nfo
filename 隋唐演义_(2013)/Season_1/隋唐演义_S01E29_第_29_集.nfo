@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 29 集</title>
+  <originaltitle>第 29 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783853</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>秦琼一问方知是程咬金从中挑拨，尤俊达见此去追回罗成。　　罗方、薛亮率兵把守城门，正遇罗成正要出城，程咬金、尤俊达赶来，恰被罗方、薛亮认出正是当日劫皇纲之人。罗成见程咬金、尤俊达被抓，赶回贾柳楼给秦琼报信。程咬金一言不慎，杨林知绿林好汉皆聚于贾柳楼，即刻带兵前去。　　秦琼等人得知杨林已到济南府，率领众人躲至家中，徐茂公、王伯当留在贾柳楼与杨林周旋，杨林捕捉响马一事落空。杨林下令明日全城捉拿响马，因挂念秦琼、玉郡主便前往秦府看望。　　玉郡主帮助秦琼挡住杨林，杨林要秦琼一同查办响马，秦琼随杨林前去济南大帅府，玉郡主安顿藏在家中的诸位好汉。　　杨林夜审程咬金、尤俊达，要斩二人，秦琼赶紧求情。杨林听从秦琼之计，继续审问，程咬金、尤俊达却称劫皇纲的首领正是济南府大帅唐璧。杨林将唐璧喊来审问。　杨林审案，程咬金满口胡说，指证主谋乃是唐璧，唐璧百口莫辩，秦琼提议将程咬金、尤俊达先关押起来，等找到证据再审，杨林应允。　　罗成和玉郡主贪心，玉郡主好奇罗成为何和一帮响马交往，罗成坦言，朝廷中人未必都是好人，而响马未必是坏人，只要是好人就得帮，一番肺腑之言令玉郡主对罗成刮目相看。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2623</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>29_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

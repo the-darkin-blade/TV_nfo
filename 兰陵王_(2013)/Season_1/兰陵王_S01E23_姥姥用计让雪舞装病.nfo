@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>姥姥用计让雪舞装病</title>
+  <originaltitle>姥姥用计让雪舞装病</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>4659266</id>
+  <uniqueid default="false" type="tmdb">1224931</uniqueid>
+  <uniqueid default="false" type="trakt">1234468</uniqueid>
+  <uniqueid default="true" type="tvdb">4659266</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雪舞与高长恭大吵，郑儿又在一旁煽风点火，高长恭深感雪舞无理取闹，两人闹僵分房。小翠将此事传到姥姥耳里，姥姥深知郑儿心思并不简单，决定亲自出马，替雪舞抓回高长恭的心。隔日一早，下人给高长恭捎来消息说雪舞病了，长恭心头一急，立即前往探视。姥姥不让雪舞开门，高长恭在太阳底下站了两个时辰。皇姥姥从屋里走出来，高长恭拼命道歉，并承诺姥姥给郑儿物色一个好对象，把郑儿嫁出去。尾随而来躲在一旁的郑儿听到高长恭这番话，当下怔然。她开始怀疑雪舞的风寒，一查雪舞的用药，发现治病之药乃是杏茶而已——原来雪舞染病乃是姥姥的权宜之计，并非为真。于是待高长恭送皇姥姥离去参佛后，郑儿马上戳破雪舞的谎言，高长恭得知真相后怒不可遏，怒骂雪舞，雪舞愧疚道歉，却无法平息兰陵王的痛心失望。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep23_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>复仇反击安琳舍身救人</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>4989654</id>
+  <uniqueid default="false" type="tmdb">2171075</uniqueid>
+  <uniqueid default="false" type="trakt">1313520</uniqueid>
+  <uniqueid default="true" type="tvdb">4989654</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>卓凯奉命指挥瓦解贩毒集团，谁料行动时兆良抢走指挥权并暗中向欢喜传递情报，卓凯只能通过暗号指示卧底行动。崇金复仇失败后独自追杀欢喜，他即将落入卓凯之手时却被兆良击毙。家强和小嘉奉命取货时遇袭，他为掩护小嘉逃走而受伤并被毒贩所擒。毒贩以家强性命威胁小嘉交出毒品，小嘉违背卓凯指示身缠炸药与毒贩交易，谁料却因毒品是假货而遭追杀，安琳舍身救家强时中弹身亡。惊悉儿子猝死，欢喜崩溃精神异常。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2656</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Line.Walker.E15_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

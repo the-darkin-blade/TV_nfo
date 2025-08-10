@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>韩立感谢傲天相助</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490899</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>金棠通知众人，已取回百乐门数簿，以后百乐门由他作主，并指桂生已不再是百乐门的人。
+
+金棠回到警察厅，见庭亨坐在他的位置上，不禁大为震怒。沃利召见金棠，说要晋升他为高级顾问，但薪金待遇与以往一样，而且手下只得两人。金棠觉得受辱，声言以后法租界发生甚么事也不会帮忙。
+
+金棠回到百乐门，见场面混乱不堪，手下称被陌生人捣乱，金棠誓言要查出主谋。
+
+金棠欲与 潮州帮合作
+
+啸山誓言要继续狙击金棠的地盘。另一方面，金棠决心全力反击，但阿添说不够人手。无计可施下，金棠决定与潮州帮合作，与啸山一决高下。
+
+金棠与啸山的内斗，令上海愈来愈乱。阿福哀求傲天出手，解决这次内讧，傲天要他往杭州找桂生回来，自己则再想办法。
+
+啸山知道金棠与潮州帮合作以求与他同归于尽，命令手下要尽快抢走金棠的地盘。晚饭时，美琴说不希望自己人内斗，要像以前一样和平共处，啸山却借意叫美琴与学尧去杭州游玩。美琴要啸山同往，啸山假意答应。晚上，美琴与学尧在车站等了很久，但仍未见啸山出现。
+
+傲天成功 阻止厮杀
+
+金棠与潮州帮见面，却发现是个陷阱，这时啸山出现与金棠发生枪战。韩立出现阻止厮杀，并拘捕啸山等人，啸山却夺车而逃。啸山驶到大桥时被军人重重围住，这时傲天出现劝啸山不要再与金棠内斗，但啸山声言宁愿自杀也不想失败。
+
+傲天去监狱见金棠，说只希望以后可以安稳过活，而金棠只要答应他即可以离开监狱。韩立感谢傲天摆平金棠与啸山，傲天坦言不希望上海腥风血雨。
+
+傲天早上与美琴出发去见桂生的贴身丫鬟李芷晶，但傲天坦言其实是要寻找桂生。傲天知道桂生没有见过芷晶，即去其他地方再寻。
+
+傲天表示 见过小楼
+
+傲天到八方会馆找月兰，见到小楼正在指导师妹唱《穆桂英挂帅》，傲天称这套戏曾是小楼的首本名曲。小楼指傲天一定看过，但傲天却说这套戏很难买票，因以前曾有人送票给他，所以只看过一次。
+
+傲天对月兰说小楼似乎很怕他，月兰指可能傲天是江湖人物之故。傲天在家中想起，以前曾在八方会馆见过小楼，并得到小楼送赠的《穆桂英挂帅》戏票。
+
+傲天拿出旧戏票边看边回想，突然房外涌现嘈杂声，原来是啸山与金棠的手下送来一幅「忠肝义胆」的牌匾给傲天，正讨论挂在哪……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2669</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep06.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

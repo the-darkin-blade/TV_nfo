@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>起诉家宝阻碍重重</title>
+  <originaltitle>Episode 27</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id>5004887</id>
+  <uniqueid default="false" type="tmdb">2171087</uniqueid>
+  <uniqueid default="false" type="trakt">1315696</uniqueid>
+  <uniqueid default="true" type="tvdb">5004887</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>羡昕和浩勤合作部署，卓凯成功得到证据拘捕家宝。家宝装病逃脱起诉，家强难以按捺怒火决定独自行动报仇。为了筹钱的木荣被骗险些铸错，幸亏小嘉出面解围。木荣主动提出帮忙调查言廷，卓凯接受小嘉提议让木荣成为卧底。家宝出庭后被人绑架，淑云猜测与警方有关。羡晴在旧文件中找到线索决定呈堂告发郭正，郭正为逃刑责绑架羡昕以要挟羡晴。羡晴冒险指正郭正，卓凯得知后立刻开始寻找羡昕。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Line.Walker.E27_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

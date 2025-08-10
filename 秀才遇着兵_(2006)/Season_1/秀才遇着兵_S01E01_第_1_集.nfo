@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:30:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 1 集</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>秀才遇着兵</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>5090446</id>
+  <uniqueid default="false" type="tmdb">284455</uniqueid>
+  <uniqueid default="false" type="tvrage">477168</uniqueid>
+  <uniqueid default="false" type="trakt">1541847</uniqueid>
+  <uniqueid default="true" type="tvdb">5090446</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>以「开工大吉，屈得就屈」为宗旨的良才镇捕头么大平，与四名捕快下属：莫大毛、茅士、文生及宝非，大摇大摆地上街出巡，镇上百姓一直对这群贪官污吏无好感。某日，街头发生打斗，女捕陆拾义见状居中调停，欲带二人回衙门查办。岂料二人一见拾义埋身，立即讹称无事，并自动上缴银两予拾义妹，以避过上衙门之难。
+
+富商王员外家中有珠宝失窃，各大捕快遂到王府跟进。妾侍直指乃大婆所为，捕头么大平派拾义妹搜查两妇人家档，见无发现便交衙门审理，二妇婉拒。惟捕头声称已惊官动府，如欲消案，须于初一十五早上到衙门上状纸，并放下状告钱，王员外一家感无奈。事有凑巧，翌日拾义妹在街上发现那珠宝窃贼，混乱间贼人挟持了一名小孩作要胁。拾义妹一个翻身，惊动窃贼，小孩给凌空在天，幸得拾义妹稳接，安然无恙。但此举却令王员外投诉衙门辨事不力。为安抚衙门众人，拾义妈亲携人蔘鸡汤孝敬县老爷等人，以息各人怒气。
+
+恩亲亭开幕，史师爷与刚从外地来的文人水东楼相逢。东楼上街遭人偷去钱包，巧给拾义妹目睹，她即时以椰子抗贼，成功取回失物。适时捕头到场，拾义妹把事件交代，却遭捕头歪曲事实，东楼为捕头无法无天所为而侧目。
+
+土豪恶霸彭威到金英汤铺要求虎鞭汤不果而发难，东楼见状使计摆平，以激将法化解彭威怒气。晚上东楼被彭威围捕受伤，金英暗助解围，着他少惹恶霸彭威为妙。但东楼不畏，反上告官府彭威伤人，始知良才镇衙门贪风严重。
+
+彭威为脱罪而贿赂官员，东楼由原告变被告，又被疏通得来的假证人指控，无奈又气愤，决定以其人之道还治其人之身，以三倍银两贿赂县老大人，再以匿名信混淆彭威视听，使之堕入圈套，众贪官为保自身名节，逼于齐声指证彭威。彭威终被拘捕。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2615</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Gentle.Crackdown.E01.Hdtv.1080I.H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

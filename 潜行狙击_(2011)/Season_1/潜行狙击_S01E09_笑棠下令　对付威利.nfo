@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>笑棠下令　对付威利</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>4149693</id>
+  <uniqueid default="false" type="tmdb">2298763</uniqueid>
+  <uniqueid default="false" type="trakt">1644046</uniqueid>
+  <uniqueid default="true" type="tvdb">4149693</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>望晴开枪救人后心情起伏，家培佩服其冷静。立青协助CIB救出禁锢少女，笑棠怀疑星柏知情，跟踪至酒店却失去其踪影。笑棠告知星柏警方将救人，星柏假装不知。笑棠施压要求星柏让威利等人开会，以便警方一网打尽，星柏无奈答应。威利得知少女被救大怒，星柏提议用钱保关系。家培离开医院救君岚，却错过见妻子芳琪最后一面。警方捣破威利多处卖淫点，直捣其公司，威利与星柏逃脱。望晴被枪声吓呆，笑棠气愤无奈。星柏暗中策划新部署，警方与威利团伙的斗争仍在继续。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2697</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E09.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

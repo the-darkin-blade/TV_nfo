@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>兰陵王赶回解救雪舞</title>
+  <originaltitle>兰陵王赶回解救雪舞</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id>4659278</id>
+  <uniqueid default="false" type="tmdb">1224943</uniqueid>
+  <uniqueid default="false" type="trakt">1236170</uniqueid>
+  <uniqueid default="true" type="tvdb">4659278</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雪舞穿着一身大红喜服，神情肃穆的走上高台。就在最危急时刻，雪舞听见熟悉不过的声音，原来是兰陵王带着都水使赶回来了。兰陵王将雪舞拥入怀中，此时天降甘霖，百姓们呼喊着：兰陵王才是天子，一旁的高纬听见，更加忌恨兰陵王。兰陵王请高纬当个爱民亲民的好皇帝，但高纬却说：只要有他兰陵王在，他永远都不可能是个好皇帝，除非兰陵王死。夜里，回到王府，雪舞很担心高纬和冯小怜的所作所为都是冲他们而来，兰陵王对雪舞说谎，骗她说皇上很后悔自己失去理智的行为，希望雪舞能原谅高纬。雪舞对他的话，半信半疑。趁着雪舞睡下，兰陵王找来安德王，密谋要把雪舞送出齐国，而他愿意用自己的命换全齐国百姓的安乐日子，不管安德王如何劝阻，都无法改变兰陵王的心意。隔日，兰陵王心知当天是他和雪舞共处的最后一天，他很想好好的看看她。雪舞一早就拉着兰陵王到他们定情的柳树下，他以为雪舞察觉到什么，听雪舞倾诉之后才知道雪舞想学武功，之后就能保护自己，不再让兰陵王担心，兰陵王听了很感动。回家路上，兰陵王一直牵着雪舞的手不想放开。王府里，安德王已经打理好一切，在酒里下了迷药，打算迷昏雪舞便将她送出齐国。雪舞回来心情大好，她看见丰富的一桌菜更是开心，完全没想到自己即将和最爱的兰陵王天人永隔。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep35_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

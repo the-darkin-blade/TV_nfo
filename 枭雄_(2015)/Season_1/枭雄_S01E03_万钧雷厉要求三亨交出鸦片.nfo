@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>万钧雷厉要求三亨交出鸦片</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490896</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>金棠质问绮红为何去码头，绮红指此事是有人设局，并认为金棠不应怪责她。敬泉指傲天想依法办事，带兆匡去见傲天。傲天欲送上报酬，答谢兆匡助金棠，但兆匡拒收。
+
+兆匡见正在戒烟中的傲天，浑身不自在。这时傲天接到电话，说金棠要见他。金棠怀疑有内鬼，问傲天为何偏偏这时候戒烟。傲天指镇岳要对付金棠，他帮手引蛇出洞，再把整个计划向金棠解释。
+
+镇岳恐吓 禁毒专员
+
+瀚林以为是镇岳收买车夫陈阿七，但傲天指另有其人。啸山暗中见镇岳，责怪他竟被金棠离间，镇岳反指啸山算漏了傲天。
+
+镇岳把金棠收藏鸦片一事告诉万钧，并恐吓他要立即拘捕金棠，否则会在记者面前指控禁毒专员包庇帮会。万钧会见傲天，责备他没有协助禁毒，因得知三铿公司有收藏鸦片。万钧要求他交出鸦片，否则只有查封三铿公司，傲天答应不出两天，即可办妥。
+
+傲天找到线索，但该人却被啸山杀了，啸山说一定要找镇岳报仇，但傲天却关心如何处理仓内的鸦片。傲天指万钧知道公司有鸦片，交出后失去的钱可以再赚，否则公司会被封，但金棠坚决不交鸦片，不信政府会拉人。
+
+啸山密会 大帅合作
+
+啸山在茶楼内会见周大帅，说有大生意合作。金棠派人跟随绮红出入，使她感到不是味儿，于是她摆脱金棠手下独自上车离去。沃利急召金棠，称若在三铿公司搜出鸦片，他一定不会包庇金棠。金棠离开警察厅时，手下告知绮红回到乡下，金棠决定去无锡找她。
+
+正当傲天手下准备向万钧交货时，突然来了一班黑衣人把鸦片抢走，并杀光傲天手下。万钧知道鸦片被抢，直指是三大亨作怪，限二十四小时内交出鸦片，否则派军队围堵三铿公司。
+
+傲天派人跟踪啸山，知道他近日常去听曲。傲天去茶馆遇见周大帅，两人寒暄过后，傲天问他是否有大生意，周大帅否认。周大帅见啸山，要他早日出货。
+
+万钧公开 销毁鸦片
+
+晚上，董庭亨带员来搜索三铿公司，而傲天则静候他们来到。另一边厢，万钧的手下已找回鸦片，庭亨收到消息后即收队。
+
+万钧公开销毁鸦片，当被记者问及鸦片来源，万钧说是残余军阀的手下所做，与三铿公司无关。
+
+傲天请日良与逸庆看大戏，剧目是《穆桂英挂帅》，逸庆说戏中主角能由贼变兵，但现实却不能，日良藉机指出新政府不会用帮会的人。戏台演员在台上翻筋斗，傲天借意站起叫好，这时他看到远处有一女子边看戏边流泪。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2665</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep03.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

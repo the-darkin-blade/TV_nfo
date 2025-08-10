@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:30:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 15 集</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>秀才遇着兵</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>5090460</id>
+  <uniqueid default="false" type="tmdb">284469</uniqueid>
+  <uniqueid default="false" type="tvrage">477182</uniqueid>
+  <uniqueid default="false" type="trakt">1541913</uniqueid>
+  <uniqueid default="true" type="tvdb">5090460</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>东楼知道义妹与丽君朝夕相对，自己「被迫一脚踏两船」的秘密迟早不保，于是分别向两人撒谎，说对方意中人意外身亡，为免触及伤痛，协议三人绝口不提任何儿女之情。
+
+东楼义妹查得受害贵女均在雨夜被杀、遇害后被换妥嫁衣、理装，亦同是聘用戴师傅仪容院。两人到仪容院，梳髻师傅细凤一见两人即逃但被义妹捉住！东楼向细凤审问，他紧张得不能说话，义妹在细凤房间搜到血衣，表证虽成立但仍有可疑，东楼先把他收监。
+
+义妹丽君分别邀东楼同游花灯会，东楼使出浑身解数，在游园内分身应付两女，好不容易再过一关！
+
+赖仁再利用安儿诈财，各人不值其所为，史师爷联同金英及大夫等人设局，赖仁以为安儿为疯狗所咬无药可救，骗他签下契约把安儿卖给秀姑，秀姑感激其旺一再帮忙。再有贵女出嫁，义妹假扮新娘在房内守株待兔，凶徒果然出现！
+
+义妹正要擒凶时差点被凶手迷药迷晕，一直监视的东楼即奋不顾身，不理不懂武功乱打一通击晕凶徒，至此东楼发现原来已爱上义妹，情不自控把她拥在怀内，义妹当然甜在心头！凶手戴师傅原来是年前的杀人逃犯，当年家道中落，不堪未婚妻另嫁富家公子而大受刺激把她误杀，之后改名换姓当仪容师，但见贵女出嫁便会起杀机；东楼再次大破奇案。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1072</height>
+        <durationinseconds>2587</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Gentle.Crackdown.E15.Hdtv.1080I.H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 50 集</title>
+  <originaltitle>第 50 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>50</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783876</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李密登基后，联合王伯当着手瓦岗寨的建设之计，招兵买马。瓦岗寨不断壮大。王伯当提议攻打虹霓关、汜水关、临潼关、虎牢关、黄土关，夺取先机，魏王应允，并派程咬金为先锋官，先取虹霓关。　　虹霓关大将新文礼脾气暴躁，听说瓦岗军已兵临城下怒发冲冠，其夫人东方玉梅好意劝解几句，他竟粗暴地将东方玉梅推开。程咬金身为先锋急于立功，大军未到便与新文礼交锋，新文礼打败瓦岗数将，王伯当策马而出。新文礼与王伯当交战，王伯当射中他的眼睛，新文礼败阵而归。东方玉梅将新文礼眼中的箭拔出，新文礼竟疼痛致死。东方玉梅决意为新文礼报仇，从此两不相欠。　　东方玉梅前来城门交战，生擒程咬金，与王伯当交手之时，竟情不自禁爱上王伯当，顺势将王伯当擒住带回城内。东方玉梅托程咬金说媒，并承诺如果此事能成，便将虹霓关拱手相让，献给瓦岗军。程咬金大喜，一口答应，说服王伯当，又返回营中将这一喜事告与秦琼、徐茂公。众人欣喜，第二日中午前往虹霓关，与东方玉梅及其哥哥东方白商议成亲、交关之事。徐茂公、秦琼为王伯当、东方玉梅主婚，二人成亲，被送入洞房。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2673</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>50_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="50" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

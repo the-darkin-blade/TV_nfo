@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>雪舞夜救阿怪</title>
+  <originaltitle>雪舞夜救阿怪</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>4658527</id>
+  <uniqueid default="false" type="tmdb">1224913</uniqueid>
+  <uniqueid default="false" type="trakt">1231668</uniqueid>
+  <uniqueid default="true" type="tvdb">4658527</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>这些声响原来是雪舞用火树银花吸引了敌人注意，但巨大的声响也让雪舞被敌人发现。为帮助兰陵王等人安全脱身，雪舞主动暴露引开尉迟迥。尉迟迥将雪舞倒吊在河上，试图溺毙她来逼问出兰陵王的下落，雪舞宁死不屈。就在雪舞呛水陷入弥留之时，兰陵王一跃入河，以嘴度气救下雪。众人回齐营。兰陵王为了命在旦夕的须达焦虑伤神。而本想与兰陵王叙旧的雪舞却因为军中不许女子进出的规定而不得不离开。雷雨交加，雪舞来到上回的黑店，想投宿一晚，没想到地上、墙上已经印满了许多可怖的血迹和血手印，雪舞跟着血手掌的方向走向二楼，推开虚掩的房门，赫然惊见店家夫妇二人已经倒卧血泊之中。二人后颈都插着又尖又长的竹筷子。唯有一个陌生男子瑟缩正在角落里，双手紧紧抱着包袱，眼神惶恐又充满防备的盯着她。雪舞才刚回神过来，就已听见官兵已经冲入客舍里头，翻箱倒柜的声音频频自楼下传来。雪舞为求避嫌本想逃离，又不能放男子虚弱不管，就把虚弱的男子放在推车上带着他逃亡。男子病重，眼看就命在旦夕。雪舞手足无措之际，有店家告诉她，这个男人一身破烂，也许来自贱民村。只是贱民村现在爆发瘟病，乃是九死一生之地。为了救人，雪舞决定深入疫区，并给此男子起名为阿怪。须达因伤势过重死去，弥留之际透露北周皇帝宇文邕现在正在齐国境内。众人决定全力搜捕宇文邕。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep05_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

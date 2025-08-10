@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>雪舞被马贼抓住</title>
+  <originaltitle>雪舞被马贼抓住</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>4659268</id>
+  <uniqueid default="false" type="tmdb">1224933</uniqueid>
+  <uniqueid default="false" type="trakt">1234755</uniqueid>
+  <uniqueid default="true" type="tvdb">4659268</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>员外家的人把郑儿当作天女，兰陵王没有否认。郑儿发现雪舞和韩晓东行踪，请求他们一同帮助兰陵王剿匪，并与雪舞约定暗号，到时候她会用暗号示意马贼有无埋伏。翌日，郑儿按兰陵王计策，冒险假装马贼想强娶的员外千金，潜入贼窝，趁机探得贼窝所在，好让高长恭一举拿下马贼。没想到郑儿为了陷害雪舞，进入贼窝后竟说出兰陵王要袭击的消息，让马贼提早逃脱，并拿刀割伤自己假装受辱。此时雪舞依约来燃放火树银花帮助长恭，却落入郑儿圈套，炸药和落石堵住了高长恭一行的路。高长恭误以为雪舞乃害怕他与郑儿有所不轨，因此暗中跟踪，如今又误了剿匪大事，十分生气。郑儿在一旁假装楚楚可怜，高长恭说自己愿意给予郑儿名分，雪舞伤心至极，痛心离去。雪舞离去后，杨士深向长恭道出此事种种疑点，长恭开始对郑儿起疑。雪舞和韩晓东晚上露宿野外，被马贼捉住。郑儿在军棚养身之时，突然收到一封密信，原来马贼要她今日申时前往西郊外见，若敢失约，他们就要公开逃脱真相，把她和马贼勾结的事告诉高长恭。郑儿不敢不从，她从军帐里溜了出来赴约，没想到这竟然是高长恭布下的局，成功套出郑儿的诡计，郑儿眼见被揭穿，央求高长恭原谅。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep25_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>星柏要求　可可肉偿</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>4144101</id>
+  <uniqueid default="false" type="tmdb">2298752</uniqueid>
+  <uniqueid default="false" type="trakt">1644037</uniqueid>
+  <uniqueid default="true" type="tvdb">4144101</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>望晴窃听笑棠私生活，误以为其有不良习惯，心存偏见。家培怀疑卧底大宽遇害，全力追查线索。星柏为还债接近邵喜，却陷入困境，向笑棠求助。笑棠助星柏潜入四喜财务偷取文件，星柏意外发现户口中多出的巨款，原是可可帮其完成法律课程的费用。星柏要求可可“钱债肉偿”，两人激情中回忆起星柏曾被黑帮陷害、被捕的往事。星柏成功偷走贷款人名单，笑棠设计声东击西助其脱身。望晴从窃听中察觉笑棠诡计，急忙赶到现场却失去其踪影，对笑棠越发好奇与警惕。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2693</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E03.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

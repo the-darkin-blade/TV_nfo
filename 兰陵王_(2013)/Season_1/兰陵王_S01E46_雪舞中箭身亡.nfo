@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>雪舞中箭身亡</title>
+  <originaltitle>雪舞中箭身亡</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>46</episode>
+  <id>4660129</id>
+  <uniqueid default="false" type="tmdb">1224954</uniqueid>
+  <uniqueid default="false" type="trakt">1237723</uniqueid>
+  <uniqueid default="true" type="tvdb">4660129</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>兰陵王趁着夜色离开洛阳，雪舞将平安安顿后，也随即骑着踏雪出发。翌日皇宫，蒙面义士策马奔腾，长躯直入东宫门口，他扔出火树银花制造爆炸，然后趁乱挟持了冯小怜。冯小怜被迷昏，睁开眼醒来时发现自已被捆绑住，而蒙面义士拿下面具，竟然是杨雪舞。另一边，兰陵王得知原来杨士深瞒着他，让雪舞独自进宫杀高纬和冯小怜。他立即夺门而出，以风驰电掣之姿赶进宫。一闯进宫，兰陵王看见雪舞平安，刚刚松了一口气，没想到高纬在他们背后的城墙上举起弓箭。雪舞往影子来源的方向看去，高纬已经放开拉弦的手，一支箭咻地一声苍劲地射过来，兰陵王还来不及反应，雪舞已经推开他，挡在他的身前中了毒箭。高纬将另一支箭指向冯小怜，朝她心中射去，小怜很快死去。高纬杀了自己最爱的女人，拿出小怜平日给他服的毒药，服毒自杀。雪舞临死前交代兰陵王好好带大平安，忘了她，将来再娶个好女人，千万不要孤老一生。兰陵王悲痛落下男儿泪，告诉她自己今生仅有杨雪舞一妻，话才说完，雪舞就断了气，不久，宇文邕灭了齐国，一统北方，结束了分裂割据的局面，百姓从此免受战争苦难，得以重建家园，过上太平的日子。两年后，宇文邕过劳病死。不久，杨坚继承了北周，结束了南北朝混乱百年局势，建立隋朝。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep46_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="46" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

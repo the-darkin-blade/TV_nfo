@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>郑儿设计加害雪舞</title>
+  <originaltitle>郑儿设计加害雪舞</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id>4659277</id>
+  <uniqueid default="false" type="tmdb">1224942</uniqueid>
+  <uniqueid default="false" type="trakt">1236051</uniqueid>
+  <uniqueid default="true" type="tvdb">4659277</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>皇后与兰陵王独处，兰陵王希望郑儿能放下以往仇恨，当一个好皇后，小怜冷笑：如果想要她做个好皇后，就献上杨雪舞的命。兰陵王大动肝火，不顾冯小怜是皇后的身份，请她自重。兰陵王心存不安，没有对雪舞完全坦白他和皇后的对话，深怕她担心。军中缺粮，议论皇帝建仙都苑不顾军士。杨士深安抚将士们。高长恭将军情启奏皇帝，高纬答应只给一半粮饷，命高长恭即日动身，去边疆安抚将士们浮躁的情绪。兰陵王即将远行，雪舞要他将捏好的泥人带在身边，思念她时，就拿出来看看，不料，泥人掉在地，摔成两半，两人感觉不吉利。兰陵王离京，冯小怜下懿旨命都水使开水闸放水，造成了大旱灾，她的阴谋是利用天灾杀害天女。兰陵王赶往边疆时，发现了都水使暗中放水，抓起来一问，才知是皇上指使。他奔赴边疆送去粮饷，快马加鞭带着督水使回邺城。便在此时，民间传言纷纷，说要解除旱灾，就非得皇上娶天女，雪舞得知，震惊不已，兰陵王远在天边，而安德王虽有心护四嫂周全，却敌不过民间谣言。高纬下道圣旨为了解除旱灾，天子必须娶天女。到了迎娶那天，兰陵王府上上下下一片哀戚，雪舞将火树银花藏在喜服里，怀抱着与兰陵王永别的心情上了花轿。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep34_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

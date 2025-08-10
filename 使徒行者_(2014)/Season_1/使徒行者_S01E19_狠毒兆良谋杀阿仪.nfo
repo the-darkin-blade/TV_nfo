@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>狠毒兆良谋杀阿仪</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>4996227</id>
+  <uniqueid default="false" type="tmdb">2171079</uniqueid>
+  <uniqueid default="false" type="trakt">1314255</uniqueid>
+  <uniqueid default="true" type="tvdb">4996227</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>卓凯找到地产商收买证人的证据，随后羡晴打赢官司保住烹饪学校。兆良潜入阿仪家里调查时被发现，他狠心杀了阿仪。阿仪失踪，卓凯等人暗查兆良终于找到阿仪尸体。小嘉向家强表白情意，二人相拥激吻。羡昕暗中在兆良手机上动了手脚，她根据阿仪临死前留下的密码登入兆良的银行户口。羡昕拿着兆良是黑警的证据打算向警方告密时被发现并遭掌掴，浩勤为救羡昕而与兆良打斗时被砸晕。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Line.Walker.E19_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

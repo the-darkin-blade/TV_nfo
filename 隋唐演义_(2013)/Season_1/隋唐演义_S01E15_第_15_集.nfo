@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:43 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 15 集</title>
+  <originaltitle>第 15 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783838</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李元霸病症发作，被关在一个铁笼里，众人不敢近前，李渊派人去请徐茂公前来医治。　　齐国远带着秦琼来到琼五庙，去找徐茂公讨要李如辉，怎奈徐茂公被李渊请去为李元霸治病，秦琼一路追到李渊府上，见到当年救下的李渊一家，李元霸对秦琼印象深刻，并把秦琼奉为神仙，李渊迎来恩公秦琼，甚是高兴，摆下宴席款待，徐茂公放了李如辉，众兄弟团聚一堂。　　文帝病重卧床，宣华夫人服侍左右，文帝传授治国之道，担忧宇文化及权倾朝野，杨广为其辩护，宣华为文帝送药之时，杨广暗中调戏，宣华莫不敢言。　　杨广尾随宣华更衣，欲要侵犯，被文帝撞破，宣华为杨广解围。杨广之后更惦念宣华，萧美娘看出杨广心思，答应帮他得到宣华夫人。　　秦琼等人来到京城，齐国远、李如辉等人贪恋玩乐，京城入夜戒严，齐国远、李如辉被巡街的邱瑞抓住，邱瑞询问众人来历，众人胆战心惊，但问到秦琼，邱瑞一直追问，后得知原来邱瑞乃是秦琼的姨夫，众人解除危机。　　玉郡主找到高熲，讲述自己的遭遇，并说令箭也已经丢失，皇纲一案线索中断，玉郡主听闻文帝病重，打算入宫拜探望。　　杨广带萧美娘给文帝请安，遇见服侍文帝左右的宣华夫人，宣华认出化名萧媚的萧美娘正是陈国妃子，但宣华却未作声，事后，萧美娘找到宣华夫人，坦诚身份。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2635</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>15_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

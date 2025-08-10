@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>立青犯险　险死枪下</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id>4157496</id>
+  <uniqueid default="false" type="tmdb">2298774</uniqueid>
+  <uniqueid default="false" type="trakt">1644055</uniqueid>
+  <uniqueid default="true" type="tvdb">4157496</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>笑棠与星柏成功夺得地盘，引发国彬的忌惮。两人巡视新海岸线，计划统一走私活动。乐勤在君岚小吃店工作，发现神秘男子邓泉监视君岚，随即告知家培。邓泉企图杀害君岚报仇，家培及时赶到救下君岚，却隐瞒自己受伤真相。家培安排君岚暂住望晴家，秀美热情招待却令君岚不适。可可成为外判检控官，却得知星柏窃听自己电话，两人关系紧张。立青为查证笑棠是否变节，冒险潜入星柏地盘，却险遭射杀。笑棠为救立青，谎称他是“黑警”，成功化解危机。望晴得知后怒斥立青，严令保密以免影响笑棠。可可被星柏质问与应驹的关系，惊愕无言。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2684</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E18.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

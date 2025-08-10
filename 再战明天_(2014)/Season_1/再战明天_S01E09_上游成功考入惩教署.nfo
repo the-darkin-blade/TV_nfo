@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:31:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>上游成功考入惩教署</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>再战明天</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>5018589</id>
+  <uniqueid default="false" type="tmdb">3236328</uniqueid>
+  <uniqueid default="false" type="trakt">1323245</uniqueid>
+  <uniqueid default="true" type="tvdb">5018589</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>监狱中因出现大量违禁品，令惩教署一众高层感到事态严重，为追查来源，而要求上升加紧调查。上升亲自盘问收藏违禁品的囚犯，但仍未成功找到关键证据。
+
+正桥早前向上级提交调职申请已经被批准，一众同伴亦对正桥的决定表示支持。而上升因为在考虑违禁品的事，故没有特别对正桥加以鼓励。因正桥调职，令立桂再次有望升迁，但上升仍然对立桂有所保留。  上游隐瞒　参与考试  爱嘉在文件中发现没有抽烟习惯的好好开始购买香烟，故对好好在狱中生活感到怀疑。原来好好买烟的真正原因，是为了用来奉献给狱中的囚犯，以求囚犯不要再对自己使用暴力，并打算忍耐到自己出狱与亲人团聚的时候。
+
+惩教署的入职考试终于开始，而上游亦瞒着上升参加这次考试，但是上游的表现却一直未如理想。心乱如麻的上游，这时突然想起了正桥鼓励自己的说话后，充满了斗志，终能顺利在考试中发挥出自己的实力。  颂恩妹妹　拒绝会面  入职考试结束后，上游担心自己顺利被惩教署取录后，很可能面对上升的责骂。正桥与爱嘉了解上游的心情，便以食物来作比喻，鼓励上游坚守自己的信念向上升坦白。上游得好友支持，决心继续向梦想进发。
+
+春光与颂恩的妹妹见面，以了解她最近的监狱生活，才知道颂恩的妹妹竟希望取消与颂恩见面的安排，以免触景伤情。  伟晋约会　春光妒忌  伟晋打算出门与春光见面时，途中却遇上雅蕾。原来早前国沾非礼案因为证据不足而被撤销起诉，令伟晋对雅蕾的人格感到质疑。雅蕾约伟晋见面，是为了把自己曾在美国坐牢的事告诉伟晋，同时欲借机向伟晋表白。
+
+伟晋得悉雅蕾的过去后即予以同情，并和她相约到餐厅共餐倾诉。这时春光亦正好来到餐厅赴约，因而撞破了二人的约会，春光的心中不自觉泛起了妒意。  正桥现身  支持好好
+
+好好为了能够早日出狱与儿子团聚，决定在受审当日向法官求情，务求撤销当日与囚犯打斗的罪行。正桥当天亦特意到场支持好好，令好好充满了自信。
+
+上游收到了惩教署的取录通知，感到十分高兴。上升得知妹妹考入惩教署后强烈反对，兄妹争吵一番，上游决定离家出走以示反抗。看到妹妹突然再不受自己影响，上升竟认为上游是被正桥教唆才会加入惩教，大感气结。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2698</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.再戰明天.E09.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 22 集</title>
+  <originaltitle>第 22 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783845</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>伍天锡得知南阳关被困，叔父伍建章被杀，遂携众兄弟冲向南杨广。朱灿回到家中，见全村人被屠杀，悲愤至极，朱灿加入伍天锡的陀螺寨，伍天锡、雄阔海、朱灿等人举旗造反，杀向南杨广。　　秦琼来着玉郡主途径少华山，和山上兄弟一聚。玉郡主暗中向人打听程咬金的下落，并未得知。秦琼拜别众兄弟，带着玉郡主来到济南城，并将玉郡主安排住进了贾闰甫、柳周臣所开客栈。　　秦琼回到家中，罗士信甚是喜悦，秦琼和母亲稍稍团聚，秦琼便起身去大帅府送批文。秦琼刚走不久，罗士信就追了出去。　　程咬金趁尤俊达不备，带上所劫银子就出门发银子去了。尤俊达得知此事，甚感大事不妙，带上人就去程咬金所到之后，双倍换回了劫来的银子。程咬金却不知自己犯下大错，尤俊达面对如此不可捉摸的程咬金，头疼得紧。　　玉郡主正在城中转悠，在为寻找程咬金发愁之时，遇上行人议论散发银子之人，玉郡主换得行人手中银锭，返现银锭正是登州府被劫皇纲。　　玉郡主按图索骥，查到汝南庄，尤俊达正探玉郡主来意之时，程咬金又突然杀出，认出玉郡主。玉郡主从程咬金口中得知正是他们劫了皇纲，也知他们所劫皇纲目的实为百姓，此时玉郡主下定决心，与程咬金等人一起将所劫银子换成粮食，散发给百姓。　　唐璧来请秦琼协助追查皇纲一事，秦琼路过客栈看望玉郡主，向玉郡主打探消息，玉郡主才知秦琼也在查皇纲一案，她暗示秦琼不要再追查此案，秦琼坦言若是皇纲乃侠义之人所劫，并且用于百姓，自己也会从中相助，玉郡主闻言暗生倾慕。　　尤俊达从玉郡主口中得知秦琼也在查皇纲案，便让玉郡主暂停发粮。朱能施计哭丧骗过秦琼，程母为程咬金所犯错误弥补，假扮尸体，配合尤俊达演一场哭丧戏。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2751</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>22_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

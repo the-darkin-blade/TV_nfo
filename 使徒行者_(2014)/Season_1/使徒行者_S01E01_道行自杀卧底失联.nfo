@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>道行自杀卧底失联</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>4970342</id>
+  <uniqueid default="false" type="tmdb">1511449</uniqueid>
+  <uniqueid default="false" type="trakt">1311563</uniqueid>
+  <uniqueid default="true" type="tvdb">4970342</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>2015年，香港警方卧底的资料被泄露，卧底丁小嘉和薛家强遇袭。九个月前，小嘉收集情报获得督察康道行赞赏。O记总督察叶兆良贪功私自行动致使CIB卧底身份暴露被杀，CIB督察卓凯对他非常不满。外围集团成员薛家强收赌债时得罪小嘉，随后小嘉趁其遭警方追捕时拿走他的腰包，她发现家强帮头目鸡成藏匿的犯罪证据后打算通知道行。道行发现电脑遭黑客入侵便及时删了手下五名卧底的资料，跳楼自杀的他告知卓凯内部有黑警。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2667</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Line.Walker.E01_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

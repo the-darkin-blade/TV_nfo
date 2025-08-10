@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 43 集</title>
+  <originaltitle>第 43 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>43</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783868</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>徐茂公再次劝降，裴元庆不肯，与李如辉交手，李如辉将其引入山涧，却见徐茂公正在此处等候，二人约定，只要裴元庆打得过罗士信，瓦岗便投降。裴元庆与罗士信比试，不曾想罗士信力大无穷，竟不是他的对手。正在这时，裴母、裴翠云、程咬金等人来，劝他投奔瓦岗。裴元庆这才答应，又言父兄尚在宇文成龙手中，徐茂公派出齐国远助裴元庆一臂之力。　　裴元庆带假装俘虏的齐国远回营，骗宇文成龙说得胜而归。宇文成龙只得放了裴元庆父兄二人。裴元庆见父兄安然无恙，这才怒杀宇文成龙，携父兄投奔瓦岗。程咬金设宴款待裴元庆父子。　　宇文化及知二子被裴元庆所害，痛哭一阵。麻叔谋前来汇报开挖运河之事，宇文化及给他出招冲祖坟、寺庙来搜刮银两，麻叔谋会意。　　李世民、柴绍正建行宫，李世民命人将庙中旧钉拔出，换以新钉。这时，麻叔谋却带人前来，说是运河要从此处经过，若是运河绕开，工钱则由李世民出。李建成、李元吉听说此事，送麻叔谋五百两白银，麻叔谋不收，开价五万两。红拂女要杀麻叔谋，威胁必须绕过天雷寺，麻叔谋答应。另一方面，李靖夜会李密，得知运河本就不经过天雷寺，以此要挟麻叔谋，麻叔谋只得避开天雷寺。李世民大喜，却发现壮丁减少，一问方知运河壮丁不断暴毙，麻叔谋竟将修建行宫的壮丁调走。李世民听此即刻前往运河工地，一探究竟。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2676</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>43_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="43" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

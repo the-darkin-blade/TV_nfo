@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 42 集</title>
+  <originaltitle>第 42 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>42</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783867</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>齐国远举大锤迎战裴元庆，裴元庆将齐国远纸锤捅破，却不想里面装满石灰，迷了眼睛，败军而去。宇文成龙听说裴元庆败军而回，定要问斩，众将领纷纷求情，宇文成龙怕惹众怒，改为杖责，命人将裴元庆重打四十军棍。裴元庆眼睛灼痛，再加闷气在胸，打到三十军棍，便晕了过去。裴元庆的姐姐裴翠云上前表示愿意挨剩下的军棍，说着，裴翠云便趴在了刑凳上，接受军棍。宇文成龙当即命人又将裴翠云狠狠的痛打了一顿军棍。军棍对准裴翠云的屁股上下翻飞，裴翠云每挨一军棍，都疼的大叫出来。而宇文成龙却得意的命令不许停，继续打。裴翠云被军棍打的疼痛难忍，连声惨叫，观者无不动容。　　李元霸学骑马射箭之术，却发现马甚瘦弱，不经一骑，纷纷倒下。袁天罡带李元霸前去兵器库挑选兵器，李元霸选中擂鼓瓮金锤，却又见旁边的凤翅鎏金镗煞是好看。袁天罡却叮嘱他日后战场上遇使凤翅鎏金镗之人，定要留他性命，李元霸不懂其中命数。　　罗成带着罗松来到北平府，拜会王妃，并将罗松之事全盘托出。王妃生气罗艺竟干下抛妻弃子之事，于是派人将罗艺喊来。罗艺听说罗成回来，本要骂罗成一番，不料却被王妃臭骂一顿。罗艺这才道出原委，他本以为罗松母子已经不在人世。当下，罗艺父子相认，一片欣喜。罗成与罗艺讲明志向，罗艺尊重罗成选择。　　裴元庆眼疾愈重，宇文成龙却将军医藏起，不许给裴元庆治病。无奈之下，裴翠云独身进瓦岗，要求瓦岗之人为裴元庆治好眼睛。程咬金答应，并将好条件，事成之后，裴翠云嫁给程咬金。裴翠云将裴元庆接到瓦岗，魏征为其治病，很快痊愈。裴元庆身在瓦岗，方知瓦岗之人并非自己所认为的草寇，但圣命难违，他拒绝加入瓦岗。而裴翠云则命人接来母亲，要嫁给程咬金。程咬金与裴翠云成亲，二人恩爱有加。宇文成龙知裴元庆痊愈，命他出兵，并以其父兄作保，若是裴元庆兵败，便杀其父兄。裴元庆愤怒领命，刚出军帐又听人说裴翠云不见了，他以为是瓦岗之人将姐姐劫走，于是带兵前去攻打瓦岗。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2703</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>42_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="42" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>立仁与应奇结下私怨</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>仁心解码II</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">913763</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>世均回到盖亚教总部，终于发现杀人真相，向与他有过肉体关系的美诗追究淑宜之死。在争执期间，世均突感到绞痛倒下，原来美诗给他喝的水已下药。不止世均，其他盖亚教信徒都以为这些水是盖亚女神的眼泪而饮用后绞痛。警方和众医生来到现场，判断圣水内含有有机农药，对生命无威胁。
+
+因爱成恨　遂起杀意
+
+国彬赶到休息室，已见世均被美诗用小刀所伤。立仁欲说服美诗，认同她的努力，更要她不要轻易杀世均免便宜了他。美诗终于自白说出真相，当初为保护世均的秘密不惜一切，后发现世均与淑宜有私情，无法忍受世均不忠，其后计划杀世均复仇。慧翘、志森、国彬都加入劝止美诗，保证世均能受法律制裁。事已至此，盖亚教掀起的风波终能告一段落。
+
+启荣担心　思家受创
+
+应奇在男厕发现有病人自渎，原来正是启荣跟进的病人可发，才知道可发之前在男厕并非偷偷饮泣，进而请可发检查身体，发现他患甲状腺功能扩张，引致内分泌失调。
+
+启荣借此向慧翘说明男女间互相坦白的重要性之时，竟见到思家与永铿在茶水间相拥，终于知道思家那位男友医生便是永铿。这个消息瞬间在医院内广传，各人也从不同途径得知此事。应奇更称熟悉永铿已久，知他乱搞男女关系，更害以前仁和医院一名女护士惨死，启荣听后自然更加担心思家。
+
+实习医生年月刚从老人科调至法医精神科，无论面对任何职位同事均谦谦有礼。初见上司立仁，知道他的手机有故障，更强行拿他的手机去修理。
+
+立仁收到颂恩电话，要他去医院接自幼在孤儿院养大她的神父子安，他对立仁和颂恩间的关系充满兴趣。颂恩卧底的职务即将完结，她的指挥者钟Sir表示只要她能在棠与泰国毒贩交易时把他们一网打尽，便能回复警察职位。
+
+宙斯乱世　骚扰瑶珠
+
+瑶珠的一位病人赵颖琳与一名自称「宙斯」的男子司徒风交往，认为宙斯能帮她认清自我。宙斯行为出位，闯上诊所捣乱，又引来一班记者到场，更对瑶珠出言轻佻无礼。志森一口道出风并无精神病，亦非他自称的人格分裂，只是「人渣」一名，借此欺骗无知少女。
+
+不久后，瑶珠竟被风跟踪和出手轻薄，幸得启荣及时出现赶走他。原来是瑶星绘画出宙斯骚扰瑶珠的素描，令启荣看后赶去救瑶珠。启荣觉得瑶星可能有预知能力，但瑶珠说只是兄长记忆力比常人好……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2631</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.A.Great.Way.To.Care.Ii.E006.1080I.Hdtv.H264-Area11(1)_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

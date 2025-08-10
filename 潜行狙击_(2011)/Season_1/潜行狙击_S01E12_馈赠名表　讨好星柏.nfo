@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>馈赠名表　讨好星柏</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>4152828</id>
+  <uniqueid default="false" type="tmdb">2298767</uniqueid>
+  <uniqueid default="false" type="trakt">1644049</uniqueid>
+  <uniqueid default="true" type="tvdb">4152828</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>星柏为平息国彬不满，主动让出地盤，并计划以互联网售毒。星柏深得一烈情妇丁敏欢心，一烈有意让星柏与国彬互相制衡。家培要求队员追查毒品仓库，但笑棠与星柏已断绝合作。笑棠教望晴减压方法，两人关系升温。心凌冲动出勤被国彬发现，幸得司徒凯解救。乐勤街舞比赛获家培与望晴支持，一烈亦现身炫耀。国彬不满星柏生意兴隆，查出其毒品中混入海洛英。星柏得财后向可可炫耀，两人感情升温。司徒凯跟踪国彬失败，国彬向家培透露接近一烈搜集罪证的目的，家培答应配合。望晴按笑棠方法消除恐惧，对笑棠了解更多。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2693</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E12.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

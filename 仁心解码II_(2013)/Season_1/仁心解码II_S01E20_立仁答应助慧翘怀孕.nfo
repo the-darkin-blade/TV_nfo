@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>立仁答应助慧翘怀孕</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>仁心解码II</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">913772</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>耀泉和佩茹离开小屋后，两人到一间服装店内购物时，突然再动杀机杀死女店员。国彬到现场时后，在闭路电视录影片段发现二人出现过，却发现联络不到颂恩，于是便追问立仁是否在前一晚与颂恩回到案发地点。
+
+国彬估计颂恩与立仁分开后便一直失踪，有可能已遭耀泉和佩茹毒手。耀泉在茶餐厅的电视见到新闻报道服装店的事件，不禁埋怨事情闹大了，此时警方搜查至，两人急忙逃走。两人被围捕时，耀泉在后巷胁持一名洗碗女工，国彬率小队赶到现场把二人重重包围，国彬担心颂恩安危，劝耀泉勿轻举妄动。
+
+国彬动员　拯救颂恩
+
+此时佩茹突然惊叫，然后一脸无奈走往警察一方，更主动劝耀泉自首。耀泉不解佩茹所为，但仍配合佩茹承认一切罪名。在纠缠间，一位女警向耀泉开枪。在医院中，佩茹矢口否认罪行，又不肯讲颂恩所在之处，幸好耀泉的手机响起，才知道颂恩被藏于耀泉祖母的村屋。
+
+国彬马上动员前往村屋，救出已奄奄一息的颂恩。获救后的佩茹表现出情绪不稳，结果转介至博安医院，由立仁亲自负责。他见佩茹明显对抗和装疯卖傻，于是向佩茹说出颂恩已获救之事。
+
+启荣疲于　约会二女
+
+日勤和世邦得知启荣正同时与思家及瑶珠交往，故意在言语上单打他。启荣则疲于周旋于两女子之间，更搞错约会二人的时间，竟同时相约她们在戏院看不同场次的电影，结果只能狼狈地奔波。启荣虽然成功瞒过她们捱至电影完场，但却已精疲力尽，最终日勤和世邦出现替他解围，令他能松一口气。
+
+慧翘突然请假，一众下属都八卦她的去向，立仁突然收到收到慧翘电话，请他到警署保释自己。立仁向她了解事情因由，原来是慧翘登报求精子，却误召来男妓，气愤下打伤对方被捕。
+
+慧翘要求　立仁捐精
+
+看见慧翘指不放弃仍会继续登报寻人，立仁方知她原来认真想生孩子，于是帮她面试不同男人，但比她更加挑剔，面试结果无功而返。
+
+慧翘埋怨立仁令她无法如愿，在倾谈间她想到立仁有优良基因，于是请他帮忙捐出精子助她怀孕。原本立仁因已有儿孙，无需再有子嗣而拒绝过一次，但见她态度坚决，又屡次失败，于是惟有答应要求。
+
+颂恩记起　昔日记忆
+
+颂恩获救后昏迷了十日转醒，而她在昏迷期间终忆起儿时遗忘的一切，惊讶真相与自己推断大为不同。出院后，她翻查资料看到昔日杀害汪家的凶手蒋大军的照片，认得他与自己的关系，亦记起了自己的真正身份……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.A.Great.Way.To.Care.Ii.E20.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

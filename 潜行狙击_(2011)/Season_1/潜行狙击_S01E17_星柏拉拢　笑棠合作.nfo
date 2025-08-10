@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>星柏拉拢　笑棠合作</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>4156881</id>
+  <uniqueid default="false" type="tmdb">2298772</uniqueid>
+  <uniqueid default="false" type="trakt">1644054</uniqueid>
+  <uniqueid default="true" type="tvdb">4156881</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>笑棠向望晴分享对付国彬的得意经历，两人感情升温。国彬向一烈告状，却被一烈无视，反而提议吸纳笑棠入义丰。星柏欲招揽笑棠，但笑棠不为所动。笑棠直接拜访一烈，对金钱不感兴趣，却对权力产生兴趣。一烈力排众议，接纳笑棠入会，国彬感到不安。笑棠挑选星柏为合作对象，共谋发展。丁敏不解一烈用意，一烈透露用意在于制衡国彬势力。司徒凯等人监视犯罪活动，立青偶遇笑棠，笑棠为避免身份暴露，将立青踢入海中。立青仍坚信笑棠未变节，却向心凌示爱，遭尴尬拒绝。笑棠与星柏合作，手段狠辣，杀死不愿交出地盘的雷彪。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2681</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E17.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

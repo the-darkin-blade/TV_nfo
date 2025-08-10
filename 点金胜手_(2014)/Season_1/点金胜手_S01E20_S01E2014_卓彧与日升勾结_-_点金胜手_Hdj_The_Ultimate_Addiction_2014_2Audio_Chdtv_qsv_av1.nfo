@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>卓彧与日升勾结</title>
+  <originaltitle>卓彧与日升勾结</originaltitle>
+  <showtitle>点金胜手</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2399339</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>双怡看见辛勇及沛勋拥作一团，无言而对，二人亦急忙作出解释，双怡最后体谅沛勋，并没有为此事而与辛勇吵架。沛勋从辛勇手上接回爱犬后便独自回家，并认定辛勇是自己生命中最可靠的男人。
+
+另一方面，沛权亦被救出并在警方的监视下在医院进行治疗，卓彧亲身前往探望，沛权提出要求，卓彧闻言后表示答应。
+
+国亮双菲　共度一夜
+
+双菲和国亮一直担心资雅，亦利用网路寻人，其后国亮在网路发现有人指坪洲出现一名神秘美女。国亮及双菲怀疑网上所指的人就是资雅，出发前往坪洲搜寻。
+
+但是二人的行动却被资雅发现而躲避，结果二人无功而返。双菲更因意外弄伤脚踝，令二人错过离开坪洲的尾班船而要租住度假屋，进入后国亮才发现此度假屋曾经发生过情侣自杀案。
+
+资雅来电　辛勇安心　
+
+辛勇独自到资雅父亲的墓前拜祭，却收到了资雅的来电，原来资雅为怕辛勇及一众好友担心，故以隐藏电话号码报平安。辛勇放下心头大石，亦与双怡筹备婚礼。
+
+至然到与自己有合作关系的餐厅巡视业务，却遇到了在餐厅工作的双庆，双庆更承诺教至然弹奏结他，两人的见面机会也因此变多。
+
+沛勋安排　日升工作　
+
+沛权在医院割脉自杀，令沛勋感到伤心不已，沛勋为沛权举办丧礼，亦重遇侄儿日升。
+
+为了让死去的兄长能够安息，沛勋便邀请日升回来协助打理家族生意，日升闻言后即答应沛勋的要求。沛勋却不知道日升早与卓彧勾结，早前所遇的一切事情，全都是卓彧精心安排的计划。
+
+明瑜发现　资雅行踪
+
+明瑜派出大量人力找寻资雅踪影终于有所收获，明瑜亦亲自带卓彧前往坪洲。卓彧见资雅一身破烂无家可归而感心痛，便决定暗中出手帮助资雅。
+
+卓彧除了收买店东，让她出面照顾资雅外，更亲自为资雅修理其破烂的家居，但当资雅发现有人暗中照顾自己生活起居后即感到不妥，决定离开坪洲。
+
+资雅离开时却遇见了在路上经过的卓彧，卓彧追上逃跑的资雅，但资雅竟手持小刀与卓彧纠缠，资雅更以小刀刺伤卓彧胸口。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[点金胜手].Hdj.The.Ultimate.Addiction.Ep20.2014.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>点金胜手 Hdj The Ultimate Addiction 2014 2Audio Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>点金胜手</showtitle>
+  <season>1</season>
+  <episode>2014</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[点金胜手].Hdj.The.Ultimate.Addiction.Ep20.2014.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2014" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 52 集</title>
+  <originaltitle>第 52 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>52</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783878</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>瓦岗众英雄接到杨林所下文书，商议之后，决定集结瓦岗所有兵力前往紫金山，破铜旗阵，推翻隋朝。众反王也都抵达紫金山。　　罗艺携秦用前来魏王帐中，与秦琼等人讲明铜旗阵之用意，在于挑拨人心。秦琼言明知其用意，但不打算退军，誓要推翻隋朝，还天下以安康太平。罗成随父前去行宫，罗艺托病修养，罗成代父守阵，实际是要借此机会将铜旗阵阵图偷出。　　杨林前往反王帐中，邀请众人前去观阵，讲明破阵之人将得到玉玺，为天子，众反王心中都打起了小算盘。秦琼与众人讲明，罗成将会送阵图来，在此之前都不要擅自闯阵。　　李世民与李元霸等人率兵五千，杨广得知后甚为生气，再降圣旨命李渊再调兵十万，否则李世民等人将有性命之忧。李世民不为圣旨所迫，他大义劝说李元霸为天下太平造反，临阵倒戈，并派红拂女趁夜潜回晋阳，通知李渊尽早造反。　　丁延平前来守阵，与罗成谈及守一字长蛇阵之时，瓦岗竟有蒙面小将破了他的双枪，怀疑那人正是罗成，罗成一时尴尬不知如何解释。杨林派人前来请丁延平前去中军帐议事方才结了罗成之围。罗成知丁延平定是去商议守阵之事，便一同前往，却被高明、高亮拦了下来，杨林出帐告诉罗成，因罗成经验尚浅，故派他丁延平同守一阵，主帅为丁延平，罗成任先锋，故不用参与守阵商议之事。罗成只得悻悻而归。　　红拂女想要逃跑未遂，李世民转而又生一计，前去见靠山王杨林。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2708</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>52_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="52" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

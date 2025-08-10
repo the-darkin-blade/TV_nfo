@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:31:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>上升揭露立桂犯事真相</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>再战明天</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>5022320</id>
+  <uniqueid default="false" type="tmdb">3236330</uniqueid>
+  <uniqueid default="false" type="trakt">1323541</uniqueid>
+  <uniqueid default="true" type="tvdb">5022320</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>细响在监狱中策划逃狱并以金钱利诱立桂从中协助，立桂在最后一刻临崖勒马成功阻止细响逃走，但亦因而受伤住院。
+
+正桥知悉事件后即前往医院探望，立桂见正桥对自己渎职一事毫不知情，松了一口气，殊不知同一时间警方已经搜集到立桂的犯罪证据，并在医院拘捕他，正桥见状感愕然。
+
+上升与正桥会面，并将立桂犯事的真相全盘告诉他。原来上升为了调查狱中出现的违禁品，开始细心调查监狱中的闭路电视纪录，并在录影中发现立桂与细响暗中交收情报，才成功锁定立桂就是偷带违禁品入监狱的人。  好好出狱　母子团聚  上升接受爱嘉的表白后，为了不让爱嘉的父母察觉而决定发展地下情，爱嘉真心爱着上升故没有提出反对。
+
+正桥因受到立桂一事的影响，认为需要重点培养惩教人员的纪律，故严格地对新进学员进行训练，其中一名学员小轩因性格反叛，故对正桥的严格训练感到不满。
+
+在罗湖惩教所服刑的好好终于刑满出狱，爱嘉主动现身为好好送行，一众狱友更在狱中高歌送别好好。
+
+好好出狱后，即赶到社福机构接回自己的儿子，但是儿子竟因为好好没有穿着囚衣而未能认出她。最后好好终于想到方法令儿子认出自己，两母子亦得以团聚。  正桥竭力　寻找好好  正桥下班后即赶到罗湖接好好出狱，却发现好好已经离开，即决定找春光查询其下落。春光得知正桥打算找好好后即大感愤怒，并指正桥身为惩教人员，不应再与释囚接触，正桥却不放弃找寻好好的下落，两人因此出现磨擦。
+
+好好为了养活儿子，努力出外寻找工作，可惜因其释囚身分而屡次碰壁。皇天不负有心人，好好终成功找到一份清洁工作，并找到住处照顾儿子，来访的春光亦替好好感到高兴。  春光离开后，正桥突然在好好面前出现，原来正桥为了见好好，竟然暗地里跟踪春光，以查出好好的住处。  上升爱嘉　感情升温  好好与正桥相约在外面吃饭，原来好好一直逃避正桥，是因为害怕自己的悲惨命运会成为正桥的负累。正桥闻言后将当年曾经重遇好好的事说了出来，而正桥为了不让过去的事件重演，故决心紧跟着好好并加以照顾。  上升与爱嘉相恋后，经常到人烟稀少的郊外约会。有一次上升及爱嘉遇上大雨，上升更因此得病。爱嘉为了留在家中照顾上升而请假，却惹来上升的不满。及后，上升在爱嘉的软化下，亦接受了爱嘉对自己的好意。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2693</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.再戰明天.E11.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

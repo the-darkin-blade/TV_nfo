@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>卧底重聚调查黑警</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>4986383</id>
+  <uniqueid default="false" type="tmdb">2171072</uniqueid>
+  <uniqueid default="false" type="trakt">1313075</uniqueid>
+  <uniqueid default="true" type="tvdb">4986383</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>浩勤挟持欢喜手下阿棠后藏匿，家强和小嘉演戏骗过欢喜后一起撤走。浩勤与卓凯抓获逃跑的阿棠，之后他说谎骗取欢喜信任。兆良率队拘捕欢喜等人，幸亏欢喜携带的毒品都是假货。家强决定调查道行死因，卓凯带领道行手下四名卧底携手合作。毒品交易幕后人崇金曾遭欢喜出卖导致家破人亡，他命令女儿安琳进行此次交易欲置欢喜于死地。永权施计骗取羡晴财产，羡晴在卓凯帮助下惊悉丈夫竟然出轨。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2666</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Line.Walker.E12_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

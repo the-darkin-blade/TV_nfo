@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>双怡挑衅明瑜</title>
+  <originaltitle>双怡挑衅明瑜</originaltitle>
+  <showtitle>点金胜手</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2399347</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>至然死后，资雅一直从旁陪伴因失去妹妹而沮丧的卓彧，在至然的丧礼上，明瑜及辛勇等人亦放下旧日的仇恨，出言安慰卓彧。卓彧在丧礼上表达出对至然的无限歉意，众人也在丧礼上感觉到卓彧内心的变化。
+
+商业罪案调查科进一步掌握到日升的犯罪证据，更派人进行二十四小时的跟踪调查。但双怡凭藉自己在商业罪案调查科的工作经验，不断破坏警方的调查计划，令警方一直未能掌握重要的线索。
+
+卓彧日升　关系有变
+
+卓彧自从至然去世后便失去了工作的动力，甚至停止了让外地公司上市的计划。日升发现卓彧放弃计划即表示不满，卓彧却动怒并发生冲突，两人的合作关系开始出现裂痕。辛勇到卓彧的旧校参观，却遇上卓彧，辛勇过去一直被丧妹之痛缠绕，故相当明白卓彧感受，上前安慰。
+
+资雅带卓彧到娇婵的茶餐厅与锦发见面，让卓彧回想起年轻时的简单快乐，终令卓彧终稍感开怀。
+
+双怡说服　尚谦合作
+
+自从资雅被卓彧抢走后，尚谦便一直独力搜集卓彧的犯罪证据，但却被双怡发现。双怡认为资雅已经没有将尚谦放在心上，便说服尚谦听从自己的命令，携手对付卓彧。
+
+卓彧在资雅的引导下，开始改变自己贪婪的性格，并且主动参与沛勋的义工工作。另一方面，双怡为了对付卓彧，便借故将资雅及卓彧的近况告诉明瑜，以挑起明瑜的妒火。
+
+危机将至　提出分手
+
+妒火中烧的明瑜为了向资雅报复，便将资雅的裸照于网上流传，令资雅成为了传媒的关注对象。卓彧为了保护资雅，要英标出手帮忙删除裸照，卓彧更亲自到棱锐与明瑜理论。
+
+商业罪案调查科集中调查日升杀害重要证人的线索，辛勇转告双怡，双怡感到日升愈来愈危险，便决定提出分手，却被日升以暴力手段阻止。
+
+辛勇沛勋　旧情复炽
+
+辛勇与沛勋因为养狗而增加了见面时间和话题，关系突飞猛进更重新开始恋情。卓彧为了报答资雅的支持，便将跟随自己多年的幸运金币赠与资雅，资雅深受感动。
+
+双怡约资雅见面，将一份智诚的遗言录影交给资雅。原来之前资雅看的遗言录影曾被英标修改遗言录影的日期，录影的日期和智诚死去的日期并不脗合。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1331</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[点金胜手].Hdj.The.Ultimate.Addiction.Ep28.2014.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>点金胜手 Hdj The Ultimate Addiction 2014 2Audio Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>点金胜手</showtitle>
+  <season>1</season>
+  <episode>2014</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1331</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[点金胜手].Hdj.The.Ultimate.Addiction.Ep28.2014.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2014" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

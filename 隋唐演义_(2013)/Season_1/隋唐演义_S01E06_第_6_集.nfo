@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:40 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 6 集</title>
+  <originaltitle>第 6 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2681173</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>遭受屈辱的二人请秦琼帮忙出气，秦琼无奈只好上台打擂，秦琼手下留招却还是将史大奈打得节节败退，张公谨听闻金甲童环换秦琼姓名，才知台上之人便是秦琼。其实这张公谨早接到单雄信来信，知道秦琼落难，要其协助。　　正当张恭谨、白显道、史大奈等人商议如何帮助秦琼脱掉无辜罪名之时，北平王府旗牌官杜文忠赶来，秦琼躲避不及，杜文忠步步紧逼，一场虚惊之后，杜文忠认出当年恩人秦琼，遂答应帮助秦琼洗脱罪名。　　杜文忠当即请来北平王之子罗成，向他说明事情来由，罗成答应从中相助。回到王府，罗成将秦琼之事诉与母亲王妃，王妃深明大义，知道这秦琼定不是歹人，于是答应罗成请求，去找罗艺求情。　　王妃以苦肉计旁敲侧击北平王罗艺对秦琼手下留情，但因罗艺向来憎恶求情之事，所以表面答应王妃请求，心中却暗下狠心，要严加惩戒秦琼。　　公堂之上，秦琼一脸死灰，病怏怏地被抬了上来，罗艺看出张公谨等人袒护秦琼，更加要一心揭穿秦琼，罗艺咄咄逼问，金甲、童环巧言解释，掩盖过去，罗艺白显道受命去请郎中来为秦琼验病，途中，白显道托付郎中从中协助。公堂上，罗艺听闻郎中所言秦琼确实患病，仍旧不肯放过秦琼，照打一百杀威棒，正当行刑之时，王妃差人前来请罗艺，罗艺无奈只好退堂再审。　　罗艺见到王妃，王妃正哭诉梦见哥哥秦彝托梦来说，其子就在北平府，王妃询问升堂问案之时是不是有秦姓犯人，罗艺无奈只得回答有。王妃急切询问该人是不是自己的侄子，罗艺断然否认，王妃亦不死心，罗艺答应再次升堂之时让王妃躲在屏风之后甄别秦琼是否是自己的侄子。　仍旧不死心，要请郎中当堂验病，众人听闻，皆是大惊。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2617</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>06_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>雪舞怀下四爷血脉</title>
+  <originaltitle>雪舞怀下四爷血脉</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>37</episode>
+  <id>4659280</id>
+  <uniqueid default="false" type="tmdb">1224945</uniqueid>
+  <uniqueid default="false" type="trakt">1236384</uniqueid>
+  <uniqueid default="true" type="tvdb">4659280</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>阿文母子请来大夫诊治雪舞，发现天女有孕了。雪舞醒过来，得知兰陵王死讯，心痛不已，想要就此了断去陪四爷，同时又知道自己怀有兰陵王的骨血不忍让兰陵王断后，雪舞很迷惘。晓冬一身伤，靠着意志力来到宇文邕身边，将兰陵王托孤的信交给他，宇文邕痛惜兰陵王之死，他得知雪舞下落不明，决定亲自犯险潜入齐国找寻雪舞。高纬杀死父亲，又杀死兄弟兰陵王，终日心神不宁，小怜成为他的感情依赖。雪舞伤心欲绝天天以泪洗面，阿文的娘提醒她该为了肚里的孩子保重自己的身体，她决定振作起来。小怜仍旧派大批官兵在齐国境内追查杨雪舞下落。阿文的娘告诉他兰陵王的陵墓葬在哪里，她甚是感激，一路不怕辛苦了走着，希望离开齐国前，能前去祭拜四爷。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep37_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="37" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>潜行狙击</title>
+  <originaltitle>潛行狙擊</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <sorttitle/>
+  <year>2011</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>9.3</value>
+      <votes>3</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>绰号“Laughing Gor”的警员梁笑棠成功完成卧底任务，并在CIB得到重任。但总管Harry和上司Jodie，对他的操纵者之死有怀疑，在调查中发现其中另有隐情。在CIB招新后，Laughing和Jodie因训练理念不同，成 为一对欢喜冤家，互有胜负，各不相让。Harry在照顾患癌症的妻子之外，又要面对因他坐牢二十年刚出狱的前女友袁君岚，好在儿子Aidon舞技出众，又乐于助人，让他心安。为了对抗义兴，Laughing培植跛CoMichael为线人，后者逐渐在帮派头马辣姜与威利争斗中获得重用，并脱离了Laughing的掌控，与昔日律师女友姚可可爱火重燃，并努力上位。随着帮派坐馆莫一烈的回归，一场警匪卧底之争、黑白人性缠斗愈演愈烈……</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa>NR</mpaa>
+  <certification>NR</certification>
+  <episodeguide>{"tmdb":"38234","imdb":"tt6280520","wikidata":"Q6658720","tvdb":"250573"}</episodeguide>
+  <id>250573</id>
+  <imdbid>tt6280520</imdbid>
+  <tmdbid>38234</tmdbid>
+  <uniqueid default="false" type="tmdb">38234</uniqueid>
+  <uniqueid default="false" type="imdb">tt6280520</uniqueid>
+  <uniqueid default="false" type="wikidata">Q6658720</uniqueid>
+  <uniqueid default="true" type="tvdb">250573</uniqueid>
+  <premiered>2011-08-01</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Crime</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <tag>undercover cop</tag>
+  <actor>
+    <name>谢天华</name>
+    <role>Laughing / SSGT Leung Siu-tong</role>
+    <profile>https://www.themoviedb.org/person/21912</profile>
+    <tmdbid>21912</tmdbid>
+  </actor>
+  <actor>
+    <name>黄宗泽</name>
+    <role>Michael So</role>
+    <profile>https://www.themoviedb.org/person/144586</profile>
+    <tmdbid>144586</tmdbid>
+  </actor>
+  <actor>
+    <name>陈法拉</name>
+    <role>Jodie "Madam Jo" Chau</role>
+    <profile>https://www.themoviedb.org/person/123701</profile>
+    <tmdbid>123701</tmdbid>
+  </actor>
+  <actor>
+    <name>刘松仁</name>
+    <role>Harry Kung</role>
+    <profile>https://www.themoviedb.org/person/83624</profile>
+    <tmdbid>83624</tmdbid>
+  </actor>
+  <actor>
+    <name>徐子珊</name>
+    <role>Paris Yiu</role>
+    <profile>https://www.themoviedb.org/person/131256</profile>
+    <tmdbid>131256</tmdbid>
+  </actor>
+  <actor>
+    <name>江美仪</name>
+    <role>Yuen Kwan-lam</role>
+    <profile>https://www.themoviedb.org/person/236195</profile>
+    <tmdbid>236195</tmdbid>
+  </actor>
+  <actor>
+    <name>黄智贤</name>
+    <role>Tang Kwok-ban</role>
+    <profile>https://www.themoviedb.org/person/1192984</profile>
+    <tmdbid>1192984</tmdbid>
+  </actor>
+  <actor>
+    <name>郭政鸿</name>
+    <role>Szeto Hoi</role>
+    <profile>https://www.themoviedb.org/person/140479</profile>
+    <tmdbid>140479</tmdbid>
+  </actor>
+  <actor>
+    <name>欧阳靖</name>
+    <role>Yeung Lap-ching</role>
+    <profile>https://www.themoviedb.org/person/8178</profile>
+    <tmdbid>8178</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

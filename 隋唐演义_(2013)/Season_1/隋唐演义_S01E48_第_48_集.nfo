@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 48 集</title>
+  <originaltitle>第 48 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>48</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783874</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李元霸迎战十八反王，军中无一人能胜李元霸，裴元庆与之打斗，身负重伤。柴绍再次拜会秦琼，出一计策，要瓦岗军都系上黄巾，突围之时他自会嘱咐元霸，系黄巾者不打，单雄信心中难释抄杀之仇，不肯系上黄巾。待到突围之时，李元霸见众人都系黄巾，无人可打，有些恼怒，却见单雄信未系黄巾，便挥锤而去，却正被罗士信拦住，二人大锤对铁枪，打得不分胜负，幸好罗松前来解围，二人负伤离去。十八路反王突围成功，各自离去，约定再等时机取杨广头颅。　　萧后色诱宇文化及，让宇文化及不要再与李密为难，宇文化及表面答应，却在杨广面前参李密一本，李密降职。　　程咬金想着截杀杨广未成，心中郁闷，于是决定单枪匹马前往扬州行宫刺杀杨广。程咬金抵达扬州，在破庙中休息却遇吴福装鬼吓人，程咬金识破其真面目。吴福谎称自己是为养活家中老母方才出次下策，程咬金给他银两，又怕他骗自己，于是要他带自己前往家中一看。不想，吴福竟将程咬金带至王世充家中，欲借王世充之力除掉程咬金。王世充见来者竟是程咬金便与其称兄道弟起来。程咬金讲明来杀杨广之意，王世充说他正命人挖地道，直通扬州行宫。　　裴翠云见程咬金未回瓦岗，哭闹着要去找，被秦琼等人劝住。王世充带程咬金前去地道查看，程咬金执意前往行宫，杀杨广一个出其不意。程咬金来到萧后寝宫，未见杨广便先喝了几杯酒，不想竟然睡着了。杨广正与萧后等人玩乐，萧后欲回宫休息，杨广命李世民护送萧后回宫。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2689</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>48_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="48" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

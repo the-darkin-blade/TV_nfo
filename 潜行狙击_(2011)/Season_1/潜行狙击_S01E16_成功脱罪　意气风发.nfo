@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>成功脱罪　意气风发</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>4155244</id>
+  <uniqueid default="false" type="tmdb">2298771</uniqueid>
+  <uniqueid default="false" type="trakt">1644053</uniqueid>
+  <uniqueid default="true" type="tvdb">4155244</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>笑棠与望晴被家培安排合作卧底。笑棠入狱以降低社团戒心，望晴担心其安危。藏毒案开庭，可可成功为星柏脱罪，令望晴等人愤恨。星柏得意庆祝，但国彬夺其毒品生意，令其难以东山再起。海伦向家培汇报国彬涉嫌运毒至澳门，家培试探国彬但无果。家培提出让国彬回归警队，但国彬拒绝。家培向上级汇报欲中止国彬行动，却遭国彬先下手为强证明任务必要。家培惊觉国彬变节，对其失去信心。星柏虽受挫，但斗志更盛，誓要夺回失去的一切。另一方面，俊龙决定留在香港陪伴少杰。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2683</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E16.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

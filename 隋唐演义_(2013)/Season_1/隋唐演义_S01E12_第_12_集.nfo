@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 12 集</title>
+  <originaltitle>第 12 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783835</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>途中，秦琼包袱和双锏被盗，经人指引，秦琼前往城后松山找美髯公王君可求助。单盈盈和罗成街上一阵乱晃，客栈不见秦琼，只能在店中等候。　　秦琼寻到一山庄，遇到疯癫的罗士信，秦琼在罗士信的指引下前往山庄。在店中等候的罗成越想越觉得蹊跷。　　秦琼找到王君可，原来这都是单雄信用的一个计，将秦琼引到山上来。当初秦琼前往二贤庄，单雄信闭门不见，是在担忧秦琼高就官职，与绿林兄弟有了二心，后单雄信见秦琼一把火烧了绿林账簿，便解开了心结，这次设计是要向秦琼赔罪，兄弟几人解开心结。罗士信对秦琼一见如故，王君可便让罗士信跟随秦琼而去。　　在店中等得不耐烦，正逼迫店家说出真相之时秦琼带着罗士信回到了店中，化解了尴尬。罗士信和单盈盈见面自来熟，两人你一言我一句好不热闹。　　玉郡主相约宇文成都，探听令箭之事，宇文成都看到自己劫皇纲当日遗失令箭竟然在玉郡主手中，不禁讶异。但他矢口否认认识该物件，并匆匆离去。　　文帝留宿毓秀宫，独孤皇后知道此事后，气势汹汹地来到毓秀宫，教训宣华。　　高熲向文帝透露琼花之死并非太子所为，文帝心挂宣华，无暇顾及，当文帝看到宣华被独孤皇后打得遍体鳞伤，一气之下，竟要出宫而去，众大臣跪地恳求，独孤皇后昏厥过去。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2709</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>12_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

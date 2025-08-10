@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>望晴化身 接近梓良</title>
+  <originaltitle>Episode 27</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id>4164473</id>
+  <uniqueid default="false" type="tmdb">2298785</uniqueid>
+  <uniqueid default="false" type="trakt">1644072</uniqueid>
+  <uniqueid default="true" type="tvdb">4164473</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>可可怀孕后不幸流产，痛苦不已，却在画廊重逢星柏，两人和好如初。星柏邀请可可担任社团法律顾问，应驹因股票失利欲敲诈星柏，被可可巧妙化解。君岚在贸易公司发现可疑的白色粉末，证实为毒品，家培认为公司涉及跨国贩毒，劝君岚辞职。望晴因曾与贸易公司老板梓良有过接触，向家培提议担任卧底。梓良与星柏会面时，笑棠意外出现，引起梓良不满。星柏与可可的关系也引起了笑棠的注意，他怀疑这一切背后隐藏着更深的秘密。在复杂的社团纷争和毒品交易中，各方势力暗流涌动，一场风暴即将来袭。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2699</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E27.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

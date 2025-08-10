@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 38 集</title>
+  <originaltitle>第 38 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>38</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783862</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>丁延平兴起，又将单枪破双枪之法毫无保留地传授于罗成。罗成得此机密，心中大喜，连夜赶往瓦岗。　　单盈盈与王伯当回瓦岗之途，正遇一县官欺压百姓，单盈盈怒杀此官，却遭大批官兵围堵，不敌受伤。幸而罗成出手相救，二人再次相见，单盈盈对他讲起二贤庄之事，心绪难平，再加上受伤严重，竟发烧病倒。罗成暂停赶路，日夜不离，守在她身边，直到她醒来。　　丁延平到达麒麟山与杨林会合，杨林大喜，认为有丁延平压阵，定能杀瓦岗的威风，剿灭瓦岗。贺连章等人前去瓦岗门前叫阵，骂声连天，瓦岗寨士兵气极要与其一决生死。罗成未到，秦琼、徐茂公严命众人不可私自破阵。金城、牛盖自恃玩蛇行家，贸然前去破阵，牛盖惨死当场。单雄信前去营救，也被困于阵中，罗成攻入阵中，以蛇打七寸之理，将单雄信、金城救出，然已晚矣，金城死去。秦琼等人悲痛，下令挂免战牌，不得出战。　　罗成既到瓦岗，言要破一字长蛇阵必要有阵图作辅，否则难知兵力部署及阵图变幻，难有胜算。徐茂公命谢映登夜入麒麟山，盗取阵图，谢映登领命前去。　　谢映登潜入山中，却遇一黑衣人引他上路，一路直到隋军驻军之地，谢映登诧异之时，却听厨房中正有人说话，要将美酒送到大殿。谢映登将送酒之人劫下，问明情况，知此酒是杨林为丁延平庆功，愤怒之下，命送酒之人往酒中撒尿。杨林发现酒中有尿，甚气，赶紧命令薛亮前去藏经阁将阵图取来。谢映登先行一步，却发现中了杨林的诡计，被网于笼中。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2637</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>38_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="38" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

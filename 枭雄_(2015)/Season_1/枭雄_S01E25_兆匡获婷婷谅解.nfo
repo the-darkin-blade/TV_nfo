@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>兆匡获婷婷谅解</title>
+  <originaltitle>Episode 25</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490918</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>日军入侵河南，快要攻打上海，傲天请求耀光发起抗日粤剧义演，获得众多剧团加入。傲天让兆匡负责组成特别行动队，负责协助中国军队运送物资与维持治安。
+
+学尧希望停止电影拍摄，一家人离开上海暂避，但啸山不想失去上海的生意。啸山深信日本终会统治中国，故计划现从东条着手拉拢日本人。啸山参加东条的家庭聚会，东条却看出他的真正来意。
+
+婷婷明白 兆匡苦心
+
+啸山直言愿意与日本皇军做朋友，东条交出一份抗日分子名单，要啸山铲除他们。耀光受伤入院，傲天下令派人保护耀光，小楼亦担心傲天安危。
+
+俊杰回到上海，拜托婷婷在新闻纸上登广告，欲利用暗号集齐所有斧头帮成员一同抗日。婷婷不明为何斧头帮会安全离开，俊杰坦言是得到傲天相助，众人才得以脱险，而兆匡亦有参与其中。国栋声言纱厂会继续运作，工人可以如常开工，工人听后倍感安慰。
+
+兆匡找婷婷，而她坦言终于明白兆匡做的好事，兆匡把去香港的船票交给她，希望她与志文一同离开上海，但婷婷却愿留在兆匡身旁。
+
+傲天舍身 挡枪受伤
+
+抗日分子名单上的人大部分已被清除，当啸山得知耀光未死，虽然明白他是傲天朋友但仍下令要铲除他。耀光醒来后对小楼说认得出凶手，突然有人冲入病房欲杀耀光，小楼极力反抗。傲天出手相救并替小楼挡枪受伤，小楼痛心。小楼指认得凶手特征，傲天吩咐聂勇在兄弟中搜寻。
+
+傲天出院回家，与众手下猜想是谁人指使，从而怀疑啸山为日军服务。小楼在傲天身边陪伴，并为他煲药，无意中发现旧戏票，惊觉二人早已认识。
+
+桂生收留了一班妇孺，并为抗日筹款，但她想找傲天帮忙离开华界。金棠知桂生在筹款于是约她见面，提出欲与桂生重修旧好。
+
+东条游说 傲天归顺
+
+东条感谢啸山帮助，把抗日分子铲除掉，东条指金棠与傲天都是啸山好友，希望二人亦能归顺日军，继而统治上海。东条命啸山作说客，啸山一口答应。啸山回到上海知阿义被杀大怒，要手下尽快查出凶手替阿义报仇，同时啸山亦计划说服金棠与傲天。
+
+韩立探望傲天，慰问伤势。傲天问及战情，韩立直言委员长已作出最坏打算，将会撤离上海，希望傲天也一同离开，傲天不肯，并誓言不会归顺日军。啸山约会金棠与傲天，但东条竟也出现于席上。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2674</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep25.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

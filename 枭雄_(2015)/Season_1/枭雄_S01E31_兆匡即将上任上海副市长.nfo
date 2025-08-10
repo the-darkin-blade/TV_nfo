@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>兆匡即将上任上海副市长</title>
+  <originaltitle>Episode 31</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490924</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>傲天决定对付东条和啸山，兆匡欲与他同往，却遭傲天拒绝。啸山带同影片和游击队名单去拜见东条，东条等人看完影片后都非常高兴，突然有人从东条身边出现，把形势扭转。
+
+傲天答应带啸山去见美琴，却载他到空屋，啸山知傲天另有目的。美琴知道啸山已死，极度悲愤，傲天把枪交给美琴，让美琴能杀他来填命。月兰看着美琴举枪对准傲天，不知如何是好。
+
+得知死讯 大受打击
+
+啸山死后，美琴与学尧都伤心至极，学尧指啸山的确做了很多伤天害理的事，但美琴始终不能面对现实。月兰从兆匡口中得知，啸山曾凶残地杀害无辜的人后才愿意原谅傲天。
+
+傲天决定离开上海，一方面是逃避日军的追杀，另一方面欲离开这个伤心地。临走前，傲天把屋契和上海的物业全部交给兆匡打理，并要瀚林等人负责协助他。
+
+抗战胜利后，中国百废待兴，兆匡为建国事业出钱出力，受众人赞赏。委员长命令清算战时汉奸，婷婷指傲天被人误以为是汉奸，怕他会受到伤害，兆匡承诺会为傲天平反。
+
+傲天月兰 返回上海
+
+傲天与月兰隐居香港，过着平淡生活，他们知道兆匡快成为上海副市长，都深感高兴。月兰离开上海已久，非常挂念上海的一切，希望与傲天一同回去。婷婷通知兆匡，傲天将会回到上海，兆匡赞好，但心里另有所想。
+
+婷婷在车站见傲天和月兰到达后，相当兴奋，婷婷告知她与兆匡在三年前已结婚，并育有一子，月兰甚喜。
+
+婷婷安排他们回家休息，但傲天却指先要找一个人。傲天看见上海已今非昔比，所有租界已经消除，全是中国人的地方。
+
+傲天要求 政府平反
+
+韩立重遇傲天，如多年的知心好友再度团聚，有很多未完的话。傲天问政府有否打算为他平反，韩立指抗战胜利后，他即向委员长提及这件事，但委员长一直未审批。韩立指会继续为他争取，傲天只得答谢。
+
+傲天终于在旧屋见到兆匡，二人把酒畅谈往事。傲天问起其他兄弟的情况，兆匡指大部份兄弟在抗战时已牺牲，而瀚林则因曾被捉去集中营，遭日军折磨至疯疯癫癫。傲天心痛，誓言一定找到他，并把他医好。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2676</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep31.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

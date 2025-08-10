@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>情不自禁　吻向望晴</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>4153580</id>
+  <uniqueid default="false" type="tmdb">2298768</uniqueid>
+  <uniqueid default="false" type="trakt">1644050</uniqueid>
+  <uniqueid default="true" type="tvdb">4153580</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>望晴康复后归队，笑棠带她调查星柏的贩毒活动，发现收款人俊龙与少杰相貌相似。少杰决定卧底社团以维护法纪，同时帮助家培打击星柏的贩毒活动。君岚接手小吃店，巧遇乐勤因好友风堕落而愤怒。乐勤被俊龙手下教训，风更因吸毒重伤。家培怀疑君岚默许俊龙等人贩毒。望晴发现小吃店有毒品交易，家培加强调查。少杰成功卧底星柏团队，但与星柏意外碰面，星柏心生疑虑。笑棠与望晴因工作接触增多，互诉心事，感情升温。心凌与司徒凯被同事开玩笑，望晴心中忐忑。CIB众人紧密合作，共同打击犯罪活动。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2693</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E13.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:30:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 17 集</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>秀才遇着兵</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>5090462</id>
+  <uniqueid default="false" type="tmdb">284471</uniqueid>
+  <uniqueid default="false" type="tvrage">477184</uniqueid>
+  <uniqueid default="false" type="trakt">1541921</uniqueid>
+  <uniqueid default="true" type="tvdb">5090462</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>万太保见东楼义妹宁死不从，决定解除婚约。桥捕头入宫查案后被发现死于飞鹰镖，东楼与义妹进宫，查到当年有一名小太监小祥子与宝典同时失踪。桥捕头遇害当日，西昌县又有两名老太监被烧死；东楼认定凶案与宝典有关。后来再接报，萧捕头收到密报后往良才县查飞鹰时在途中被杀，两人赶返良才县。
+
+史师爷无故大发脾气，大毛一语道破只因心系秀姑，其旺始知自己已爱上秀姑，终向她表白，希望照顾她们母子，秀姑心花怒放！公文下达，指两名捕同是死于飞鹰之手，下令通缉。东楼将计就计，让飞鹰在良才县外多处劫富济贫，以此证明飞鹰不在良才县。
+
+东楼推断两名捕是假飞鹰所杀，希望捉到假飞鹰证明一切了结此案。东楼以身作饵果然引出假飞鹰，金英以黑衣人出现企图生擒假飞鹰，两人闹市激斗，金英为救无辜而受伤，终泄露懂武功的秘密，东楼人急智生说武功是陆战暗中所教，为尊重名捕，村民答应紧守秘密。
+
+假飞鹰逃至陆家，义妹却被打晕，东楼与金英回家见状，已知堕入陷阱。万太保带领重兵，以追查飞鹰之名封查陆家，搜出大批金银珠宝，硬说义妹私藏珠宝理应处斩，东楼力撑案件疑点重重，反被万太保指他为情徇私包庇义妹，金英为救爱女挺身承认自己是飞鹰。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1074</height>
+        <durationinseconds>2666</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Gentle.Crackdown.E17.Hdtv.1080I.H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

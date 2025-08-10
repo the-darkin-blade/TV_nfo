@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:30:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 9 集</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>秀才遇着兵</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>5090454</id>
+  <uniqueid default="false" type="tmdb">284463</uniqueid>
+  <uniqueid default="false" type="tvrage">477176</uniqueid>
+  <uniqueid default="false" type="trakt">1541886</uniqueid>
+  <uniqueid default="true" type="tvdb">5090454</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>东楼再审马立光，抚台大人突然出现听审，东楼以刑部之命秉公审理，但么公竟然突改口供，说东楼屈打成招要诬告抚台之子，东楼被气得晕倒当场。翌日东楼找得一妇人作证云芝已怀有身孕，说待她诞下麟儿滴血验亲，便可证明立光「清白」，史师爷看穿这是援兵之计。
+
+衙门各人同告肚泻，金英发现水井被人放进毒菇，各人联想到马大人为救儿子而下毒手，反令上下一心要把他绳之于法。各人合谋假装监牢失火，令立光以为自己已死，上演一幕阎王审案，最终不打自招，更道出父亲毒害衙门众人一事，原来刑部上书早已在傍听审，两人无从抵赖，马氏父子终被依法惩治，么公亦被判流放，义妹亦得以复职。
+
+水大人不畏强权，成为县内英雄，老伯周旭亦远度回来送礼，义妹才知一直错怪东楼。东楼知道是史师爷暗中告密破解蜂毒及提示揭发么公，其旺亦终于试得水大人是不怕权贵的清官，两人惺惺相惜，前嫌尽消。捕头一职悬空，东楼找回当年陆战的同僚唐森补缺，义妹略有所失。
+
+皇上向东楼颁发牌匾，以七品小官能到京领赏，风头一时无两，刑部上书等大人更争相巴结，突然太保万镇方大人到访，原来他是举荐东楼当官的恩师，万大人之掌上明珠丽君，早对东楼芳心暗许，更望能以身相许，但神女有心襄王无梦。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2667</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Gentle.Crackdown.E09.Hdtv.1080I.H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

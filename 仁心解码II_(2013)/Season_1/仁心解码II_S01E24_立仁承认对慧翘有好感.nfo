@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>立仁承认对慧翘有好感</title>
+  <originaltitle>Episode 24</originaltitle>
+  <showtitle>仁心解码II</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">913754</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>国彬昏迷住院后，振东继续接手调查大军下落，发现大军似人间蒸发，无法证实他的所在之处。振东把国彬的笔记本交给颂恩，笔记本内记录了逃过法律制裁的犯人名单。颂恩见到其中一个犯人是速递员招瀚清，及后颂恩又前往医院探望国彬，向他细诉会助他达成心愿。
+
+子安知道颂恩没有回教会，相约颂恩想引导她重归教会，可是颂恩表示已不会回教会和不再信主。立仁安慰子安，指颂恩遭遇的事情太多需时间调整，慧翘亦觉得颂恩要时间平复。
+
+立仁发现　永铿奸计
+
+慧翘所住的大厦因电梯故障，便搬到立仁家安胎。两人一同看球赛时，慧翘的腿突然抽筋，立仁替她揉搓，这时立仁才知道自己已对她产生感情。立仁到敏儿墓前自白，说自己开始爱上了慧翘。
+
+立仁辞职后，永铿请永佳取代其职。慧敏突然提出与日勤分手，日勤才知道一切是永铿安排，要慧敏帮他抽走病人凤莲的病历，害立仁错判病患情况。
+
+指责永铿　有违医德
+
+立仁闯入永铿主持的会议，斥责他的行径有违医德，随时害死病人，又指他为拉拢卢氏财团，而为卢子俊的病历报告作假。永铿反指这正是办公室政治，他原来一直记挂当时立仁为年月在记者会上害他面子尽失的事，于是一直伺机报复。
+
+立仁深知无法与他的老谋深算抗衡，但仍劝下属们不要与永铿斗气，不能拿病人性命玩命。众医生团结一致，于是原本打算辞职的年月和思家都继续留守。
+
+启荣设法　讨好瑶珠
+
+启荣、世邦和日勤上街散心，见到街头表演，启荣又再次借用街头表演凭歌寄意给瑶珠，又要世邦和日勤录下片段上传到网站。正当他决定前往美国找瑶珠时，瑶珠已回到香港，原来她联络不上兄长瑶星，以为启荣得知兄长去向。
+
+原来启荣多时没联络过瑶星，两人到他家中，从瑶星使用物品发现他可能正在谈恋爱，可是瑶珠不相信启荣所言，更指已对他失去信心。启荣为取回瑶珠信任，以半小时为限，若找回瑶星下落便相信他的真心。启荣凭着瑶星家物品的价钱招纸，在办馆找到瑶星，成功取回瑶珠的信任。
+
+颂恩动刑　子安病危
+
+颂恩继续充当判官执行私刑，把一名脱罪杀人疑犯任保基迷晕并收藏于车尾箱，却在此时收到通知，子安心脏病发进院，只好立即前往医院。子安因冠状动脉阻塞情况危殆，立仁要颂恩小心说话，子安不能再受刺激。子安见颂恩时态度乐观，说出人总有一死，更要她不要因国彬昏迷一事背弃宗教……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2662</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.A.Great.Way.To.Care.Ii.E24.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

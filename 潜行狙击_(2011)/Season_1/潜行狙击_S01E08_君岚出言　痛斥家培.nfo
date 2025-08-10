@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>君岚出言　痛斥家培</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>4148789</id>
+  <uniqueid default="false" type="tmdb">2298761</uniqueid>
+  <uniqueid default="false" type="trakt">1644045</uniqueid>
+  <uniqueid default="true" type="tvdb">4148789</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>君岚发现旧居变风月场所，决心取回。家培救走君岚，反遭其责骂。立青带妓女Yoyo游玩，关系亲密，带她回家时Yoyo欲献身，立青离家避嫌。笑棠怀疑威利强迫少女卖淫，找星柏探听消息，但星柏阳奉阴违。星柏向国彬报告威利行动，成为黑白两道间的无间道。星柏替可可教训侮辱她的卓臣，但可可反感。心凌重回CIB，再次扮妓女搜集证据时遇旧友Miu，遭强拉上车，望晴与笑棠及时赶到救人，引发枪战。义丰高层对威利“色情五街”计划满意，国彬恨之入骨。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2690</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E08.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

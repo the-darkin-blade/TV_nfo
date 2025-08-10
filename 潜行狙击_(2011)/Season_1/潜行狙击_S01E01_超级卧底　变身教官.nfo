@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>超级卧底　变身教官</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>4141310</id>
+  <uniqueid default="false" type="tmdb">1990520</uniqueid>
+  <uniqueid default="false" type="trakt">1644033</uniqueid>
+  <uniqueid default="true" type="tvdb">4141310</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>梁笑棠卧底黑帮两年，成功取得头目信任，但协助捣破犯罪集团时受重伤，直属上司身亡。笑棠记忆力超群，在庭上击败大律师徒弟，获警队嘉许并升为警长。家培邀请笑棠加入CIB任卧底教官，笑棠欣然答应并改名。在CIB，笑棠与上司周望晴意见不合，但共同挑选卧底学员。误会CIB为他举行迎新派对时，与好友司徒凯发生冲突，后接受心理辅导。家培对笑棠的心理状况感兴趣，问及罗胜案中赃款下落，笑棠对此有所隐瞒。经过一系列事件，笑棠逐渐适应新角色，展现出非凡的才能与智慧。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E01.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

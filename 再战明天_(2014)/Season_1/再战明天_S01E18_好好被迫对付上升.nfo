@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:31:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>好好被迫对付上升</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>再战明天</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id>5031319</id>
+  <uniqueid default="false" type="tmdb">3236337</uniqueid>
+  <uniqueid default="false" type="trakt">1325376</uniqueid>
+  <uniqueid default="true" type="tvdb">5031319</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>爱嘉向上升正式提出分手后，令上升陷入了人生低潮，正桥及伟晋看在眼内，亦一起出手安慰心情低落的好友。  上升与伟晋回到赤柱监狱的办公室，并开始研究细响的个案。原来细响经医生检查后，证实患上了癌症，细响得悉后即要求伟晋安排自己出狱就医。
+
+伟晋向细响回覆表示无能为力，细响因而感到心灰意冷，想不到一直在监狱表现不合作的细响亦开始回归平静，甚至帮助狱中囚犯排解纠纷，上升看见后亦感受到细响的改变。  爱嘉回归　教育囚犯  好好与正桥和好后，仍然留在便利店工作以照顾爱儿。好好的好友突然冲入便利店求助，原来她为了满足毒瘾而得罪了细响的手下，因此为了逃避追捕而逃进便利店寻求协助。幸好这时正桥与上升刚好来到便利店探望好好，才令后来赶到的细响手下决定暂时撤退。  爱嘉已经成功放下惠珠的死，重返自己的工作岗位。囚犯月琼一直是罗湖惩教所的滋事分子，爱嘉回归后的第一个任务，便是带领月琼在出狱前回归正途。  爱嘉鼓励　春光恋爱
+
+爱嘉与春光在餐厅见面，顺道让春光探望释囚。爱嘉与春光闲谈时，发现她故意不接听伟晋的来电，察觉到两人关系已经有所改变。原来春光一直暗恋伟晋，但是春光却一直担心伟晋根本不了解自己的事情，故未有勇气接受伟晋的追求。  春光在爱嘉的鼓励下，带伟晋来到自己的家参观，原来春光自小在贫穷家庭成长，才会对自己的工作有着强烈的使命感。伟晋得知事实后反而对春光更为欣赏，两人终于正式交往。随后，春光亦化解了兆江与伟晋多年来的积怨，成功令父子二人和好。  上升担心　细响作乱  细响自从确诊患上癌症后便全心全意研究佛学，再没有主动在监狱内生事。但上升仍未有放下对细响的戒心，并怀疑细响暗中与其他囚犯策划大型行动。可惜上升未能找到确实证据，惟有继续指示部下加紧留意细响，以阻止细响破坏狱中秩序。  爱嘉为了让上升死心，在结识了新的男朋友后，并主动介绍给上升认识。上升看到爱嘉觅得新爱，内心的伤害不自觉加深了。  好好母子　突被绑架  好好与爱儿生活虽然辛苦却十分满足现状，但好好两母子却成为了细响手下的目标，突然被人强行掳走。好好的儿子被凶徒胁持，并把一支毒针交给好好，打算借好好双手杀死上升。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.再戰明天.E18.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

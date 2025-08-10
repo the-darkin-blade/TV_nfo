@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 18 集</title>
+  <originaltitle>第 18 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783841</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>伍建章揭露杨广恶行被当朝杀死，宇文化及趁机上奏，要抄杀伍家满门，杨广下令，让宇文成都继续追踪逃跑的玉郡主和李德林，找回遗诏。宇文成都追上李德林，将其杀死，带回逃跑的杨勇，将玉郡主藏了起来，禀告杨广说玉郡主也已被杀死，但是遗诏却未找到。　　秦琼等人躲过一劫，众兄弟规劝秦琼辞官入绿林，秦琼并未回绝，众人辞别邱瑞，出城而去。　　伍家上下被满门抄斩，远在南阳守关的伍建章之子伍云召此时并不知情，杨广下令剿杀伍云召，宇文化及举荐北平王罗艺，并派心腹麻叔谋一同前往，制衡罗艺。　　宇文成都当日追杀玉郡主，追到却并未杀她，而是将她藏匿起来，玉郡主劝说宇文成都一起揭露杨广罪行，宇文成都自知敌不过杨广，为了保护玉郡主，只能派守卫严加看管，不准她出去。　　宣华夫人亲见杨广杀死文帝，当即昏死过去，后醒来，收到杨广送来的物件，以为是杨广赐她一死，未曾想杨广送来的却是同心结。　　杨广为寻不到高熲和密诏而担忧，宇文化及查到高熲正在杨素府上，杨广是夜带兵包围了越王府。杨广笑里藏刀，假装和杨素喝酒，杨素佯装不知高熲和密诏之事，招待杨广，杨广阴阳怪气，杨素已知杨广此次前来不怀好意，他频频借机逃脱却被杨广拦住。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2648</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>18_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

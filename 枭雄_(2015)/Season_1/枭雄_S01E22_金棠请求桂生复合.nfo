@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>金棠请求桂生复合</title>
+  <originaltitle>Episode 22</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490915</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>时间回到三十年代，傲天为新政府出钱出力，获得委员长亲笔题「爱国爱民」四字。傲天成为华人董事后，很多商界人士都欲拉拢他。小楼从北平回来探望月兰，月兰欲为她介绍医生以料理旧患，顺道撮合做媒。
+
+学尧的电影公司开幕，有投资入股的傲天到场支持。美琴见学尧与女演员小蝶态度亲昵欲劝阻，但学尧不置可否。啸山到场，称之前投资纱厂不够买股票赚得更多。
+
+采访途中 遇上暗杀
+
+新政府与日本人合作做生意，令市民群情激愤要抵制日货。婷婷采访新政府与日本人兴建铁路时，李参事在中途被刺杀，婷婷无意中拍到凶手样貌。
+
+韩立约见傲天商讨李参事被暗杀一事，韩立指政府官员公然被杀令委员长震怒，因傲天人面广，故请他协助找出凶手。傲天从照片中得知，凶手是纱厂工人大奎，于是把所得资料交给韩立，由政府去拘捕他，但他吩咐敬泉，调查背后有否其他动机。
+
+大奎被人暗杀，冠潮与斧头帮党人震怒，党友誓要找出行凶者为大奎报仇，但冠潮指有更重要的事。韩立感谢傲天交人，也知道大奎是斧头帮的人，希望傲天把斧头帮的成员交出来，傲天拒绝，韩立却明言要把斧头帮连根拔起。
+
+桂生现身 交还财产
+
+百乐门经营不善且欠薪两个月，钱经理指可找傲天帮忙，金棠拒绝。阿添告知绮红在天津输钱，因她自称是金棠妻子，故被债主押来上海。金棠与绮红见面，她乞求金棠相救，但金棠指对她已仁至义尽。
+
+百乐门结业前最后一夜，众员工都纷纷离开，钱经理向金棠坦言从开业便在此工作，甚为不舍。当金棠回忆昔日风光时，桂生出现交还金棠的所有财产，更指由他搭上绮红起便预计有今日。金棠恳求与桂生复合，但只能望着桂生的身影远去。桂生与傲天见面，指自己住在佛寺觉得平淡是福，叫他不要挂念。
+
+学尧东条 合作开戏
+
+傲天回家时见小楼到访，月兰说小楼有事请求。原来替小楼出唱片的老板想她在日本人的庆典上演唱，小楼已多次拒绝，但仍不得要领，傲天愿意出手相助。傲天会见小楼的唱片公司老板，席上还有日本人东条原二与小蝶。傲天假称小楼身体不适，婉拒东条的邀请。东条不悦，但小蝶指已联络学尧见面。
+
+傲天载小楼回家时见到人群示威，傲天觉得示威者影响民生，小楼则认为是政府不应与日本人合作，市民示威是情有可原。
+
+学尧称将与日本人合作，开拍第一部电影，啸山不以为然，仍怀疑学尧的能力……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2666</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep22.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

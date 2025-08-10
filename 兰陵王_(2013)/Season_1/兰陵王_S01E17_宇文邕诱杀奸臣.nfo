@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>宇文邕诱杀奸臣</title>
+  <originaltitle>宇文邕诱杀奸臣</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>4659260</id>
+  <uniqueid default="false" type="tmdb">1224925</uniqueid>
+  <uniqueid default="false" type="trakt">1233627</uniqueid>
+  <uniqueid default="true" type="tvdb">4659260</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宇文邕带着雪舞来到自己的御书房，感谢她对贞儿的照顾，两人从当初邙山之战相识聊起，雪舞尽释前嫌，早已原谅宇文邕曾经对他的欺骗，并赞赏宇文邕的爱民之心。宇文邕大喜，终于表达出对雪舞的爱慕之意，雪舞毅然拒绝。但宇文邕没有想到，这些谈话皆被一个蒙面人听到，他就是一直冒充潜伏的兰陵王。兰陵王趁四下无人时，在雪舞面前露出真实身分。雪舞看见高长恭后万分惊喜，却也生气他一直瞒着自己。在雪舞央求下，兰陵王勉强答应让雪舞多留周国三天，可是务必要注意最近宫中变化，他早感觉到一场风暴即将到来。兰陵王的直觉没错，在夜里的御书房内，宇文邕神情肃然，瞅凝着皇兄宇文毓的画像，回忆起当年，宇文护要他端毒药汤给兄长喝下，宇文毓却为了保全他这个弟弟，不让宇文护起疑心，义无反顾的喝下。从宇文毓断气的那刻起，宇文邕就一直在等着跟宇文护决一生死的到来，而宇文护也在等待，等着自己真正穿上龙袍，坐上龙椅的那一天。决一生死的早朝来临，宇文邕本想连手那些一直以来想暗地背叛宇文护的大臣，没想到玉兔身上的大臣名册已落入宇文护手中，宇文护在大殿亲手铲除，并带来了惨死的玉兔。宇文护早在宇文邕的食膳里下毒，宇文邕毒发，皇位岌岌可危。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep17_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

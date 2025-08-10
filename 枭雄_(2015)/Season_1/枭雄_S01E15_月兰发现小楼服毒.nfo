@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>月兰发现小楼服毒</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490908</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>啸山入股纱厂后，经常压迫工人，国栋虽多次向啸山反映，可是啸山听不进耳。工人有冤无路诉，决定组织工会争取合理权益。
+
+小楼彩排时受伤，医生指是腰骨劳损。月兰劝她先休息数天，但小楼不听，坚持继续练习，誓要如期公演。
+
+婷婷在追查斧头帮杀人案时，在不同的现场照片中都发现同一个人，她把此事告知敬泉。此时，报馆老板要求她去采访纱厂大罢工。
+
+婷婷发现 斧头帮踪
+
+婷婷来到纱厂赫然发现照片中人。啸山出现与工人对骂，但手下提醒他有记者在场，不宜久留。婷婷在晚上跟踪相中人，见到相中人与数名同党，在讨论报纸报道时，因被称为斧头帮而自豪。兆匡发现婷婷，婷婷指斧头帮只会对付奸商，并计划杀害啸山。
+
+啸山派打手殴打工人，傲天经过开枪喝止众人。傲天指会尽快给予工人一个交代，冠潮暂且信之。风雨交加之夜，啸山等人赫然发现窗外吊着家犬尸体，啸山知道是斧头帮所为，却不知如何应付。
+
+啸山从傲天口中得知斧头帮正是纱厂工人，傲天说出啸山与他们结怨的原因。傲天提议用双倍价钱购回啸山股份，啸山愿意考虑，但心中却怒火中烧，不肯放过冠潮。傲天与冠潮见面，冠潮对回应感满意，愿意叫工人复工。
+
+傲天称赞斧头帮杀汉奸的行动，冠潮亦知道傲天是义气中人，相当拜服。傲天想与冠潮为友，但冠潮却不相为谋。
+
+傲天私下 放走绮红
+
+傲天与月兰去看小楼排练，小楼突然腰间痛，站立不稳，需助手搀扶。耀光给了小楼一盒东西，傲天询问是何物，耀光不敢直说。傲天冲入小楼房间，要搜出小楼收藏的那盒东西。月兰想等小楼回来，但傲天却急不及待，最后月兰在小楼的抽屉中，发现一盒红丸。
+
+傲天捉到一同私奔的绮红及电影导演，他要求绮红跟他回去见金棠，绮红竟宁死不肯。傲天用尽方法恐吓她，但她都坚持离开金棠。傲天心知绮红离开后，金棠会孤独无依，而瀚林告知，金棠近日生活拮据，想出售百乐门。
+
+小楼受伤 服毒止痛
+
+傲天把绮红离开上海的事告知金棠，金棠非但不领情，更声言要对付傲天。傲天不知如何帮助他，只能望门兴叹。金棠欲售百乐门，但百乐门生意淡泊，竟马上找到买家，使金棠非常奇怪，于是命阿添调查买家背景。
+
+金棠查出桂生已回上海，他带着一众手下，欲从桂生手上抢回财产，被傲天现身阻止。傲天想见桂生，但桂生已离开住处，并声言谢绝见客……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2662</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep15.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

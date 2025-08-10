@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:31:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>细响接受内部聆讯</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>再战明天</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>5014518</id>
+  <uniqueid default="false" type="tmdb">3236325</uniqueid>
+  <uniqueid default="false" type="trakt">1322815</uniqueid>
+  <uniqueid default="true" type="tvdb">5014518</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>上升与爱嘉受袭，爱嘉不幸受伤送院。上升陪伴昏迷的爱嘉入院治理，警方向上升录口供的时候，上升认为这事件与细响有关，警方得知此事与细响有关后，亦表现出一丝的紧张。
+
+上升守护在爱嘉病榻时，突然忆起爱嘉多年前受伤的时候，上升为了安慰爱嘉，曾说出自己会照顾她一生的说话。这时，爱嘉从昏迷中醒来，想不到爱嘉竟借机询问上升，他是否喜欢自己，上升连忙否认。
+
+上升不满　正桥态度  爱嘉因为受伤而需要在留院观察，故未能回惩教所执勤。正桥得悉爱嘉受伤后，马上向上升了解爱嘉的情况，但上升看见正桥以不拘小节、轻浮的语气和态度问及爱嘉的情况，反而惹起上升对他的不满。
+
+细响的手下完成任务后，便借探望细响的机会进行汇报。细响知道复仇计划已被警方察觉后，决定暂时收手，以免被警方查出与自己有关的证据。  正桥得知　立桂困境  立桂在惩教署工作已久，亦在工作上经常照顾正桥，故正桥把立桂当成师傅看待。某天，正桥应立桂邀请到酒楼饮茶，立桂为能尽早入座而借用上司的名号，结果惹来妻子的嘲讽。  立桂的妻子嘲笑丈夫在惩教署一直未能升迁，立桂忍不住与妻子对骂。事后正桥向立桂的妻子查问因由，才知道立桂因为妻子的赌债而陷入财政困难。  走投无路的立桂为了替妻子偿还债务，除了向认识的释囚借钱外，竟不得不与在囚人士勾结，进行不法勾当。  出手相助　上升妹妹  爱嘉的男性朋友到医院探望爱嘉，上升见到爱嘉与该朋友态度亲昵，心中竟泛起了妒嫉之情。上升突然察觉到自己的反应后，开始明白自己对爱嘉并非只有单纯的叔侄之情。  正桥在街上遇见了陌生女子上游，发现她因为迟到及遗失手机而呆立当场，惊慌失措。正桥见状主动上前向上游提供协助，最后更带她回家梳洗整理仪容。岂料上升突然在正桥家出现，正桥才知道上游就是上升的亲生妹妹。  春光发现　国沾偷拍  细响因特别饭菜案而接受监狱的内部聆讯，最后细响被安排进入独立囚室服刑，以避免他与刚出院的颂恩发生冲突。
+
+伟晋邀请春光一起到雅蕾的餐厅用膳，并顺道探望出狱更生的国沾。国沾出狱后勤奋工作深得雅蕾信任，但国沾因一时色欲薰心，竟在女厕中进行偷拍，此举碰巧被春光撞破，春光见状即决定追捕国沾问个明白，最后春光更因此跌倒受伤。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.再戰明天.E06.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

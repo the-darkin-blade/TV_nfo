@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 56 集</title>
+  <originaltitle>第 56 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>56</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783882</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>杨广趋至殿中，却见众臣相逼，杨广质问众人为何反他，众臣言是为百姓反。宇文化及前来，杀死杨广之子杨杲、爱妃朱贵儿，逼迫杨广。杨广悬梁自尽。宇文成都不肯随父取得玉玺，反而杀出寝宫，以报圣恩。宇文成都被李元霸所杀，顿时天地迷蒙，忽降大雨，李元霸举锤欲砸死雷公，却将自己砸死。　　萧后将玉玺交予宇文化及，想要随宇文化及一起逃走，不料半路杀出王世充，王世充杀死宇文化及，夺得玉玺。窦建德则将萧后带回宫中。秦琼率兵攻入行宫，隋朝彻底瓦解。与此同时，李渊率兵起义，攻占长安　　李建成、李元吉怂恿父亲出兵瓦岗，夺回玉玺。李世民认为当下之计不在玉玺之争，而在招兵买马，壮大实力。李渊听从李世民之计。瓦岗既得玉玺，单雄信则以为应立即号令天下，直攻长安，徐茂公等人则认为时机未到。然而，李密深夜召唤王伯当，命王伯当用玉玺换得萧后，王伯当不解，但答应为他办妥此事。　　程咬金、裴翠云则在为罗成、单盈盈张罗婚事，罗成态度不明，再加上窦线娘此时来到瓦岗，单盈盈以为罗成变心，不解罗成心思，心中十分郁闷。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2678</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>56_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="56" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

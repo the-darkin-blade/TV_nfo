@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:32 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>瑶珠被拖手感到不适</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>仁心解码II</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">913767</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>颂恩被棠手下寻仇袭击，全因国威供出颂恩住址，国威亦只为还债才逼不得已出卖颂恩，国威见到众人对颂恩愈来愈暴力，急忙向巡警求助。
+
+年月即将进行升级面试，思家与年月虽已分手，仍非常关心他。年月每次面试都因临场紧张失败，立仁便向他授予面试锦囊。
+
+世邦观察他负责的流浪汉耀，发现他经常独自一人，没与他人接触，更称他人满手鲜血，自己亦不断擦手，判断他患有强迫症，根本不可能推死者出马路。
+
+国彬暗中　调查子安
+
+国彬只有动员从头再查死者展博的背景，颂恩从展博的电脑中发现他常浏览儿童色情网站，国彬又见到不少合照，照片中只有一小童熙仔没笑容。警方继而到义工中心调查，颂恩向熙仔提到展博，熙仔即否认与他相熟，更哭了出来。
+
+中心职员赞扬展博疼爱孩子，但提及子安曾与展博争拗过。另外子安在家访时，与孩子阮小燕的父亲阮其正争执过，过了两天其正便意外跌死。国彬始觉案件疑点重重，命下属加强调查熙仔背景，却调颂恩帮手到别组扫黄，然后再暗地命振东调查子安，并向颂恩保密。
+
+颂恩赶赴子安的生日饭局，世邦因顺路载她一程，二人提到世邦外貌甚似颂恩的童年玩伴文仔，而且二人同样是对奇异果有敏感的体质。颂恩把手机遗留在世邦的车子里，世邦为交还手机随颂恩到食店，被子安与启超看见，两人都因他长得太像文仔而吓呆。
+
+启荣查看瑶珠的电脑，看到她主理的病人的病历，笑她胡乱指导病人感情问题。瑶珠反驳说启荣身为心理医生能医不自医，个性太骄傲而不敢追求心仪女性。
+
+瑶珠改造　启荣形象
+
+启荣成为毒男已久，与异性约会时没有主见，于是瑶珠教导他如何取得主导权。瑶珠带他到码头实习浪漫约会，原本启荣仍很紧张，不料遇到有人拍摄，启荣自然地拖起瑶珠的手，反而让瑶珠突然不适应。
+
+年月终于接受面试，但因太紧张而表现失准。启荣经过瑶珠的训练，本打算约会思家，但思家仍担心因面试失败一脸沮丧的年月。此时慧翘收到消息，老人科病人陈凤娇出院不足二十日自杀，而她正是年月调离老人科最后跟进的病人。永铿接见负责签纸让陈凤娇出院的黎医生，年月见他有家庭负担，自己又面试失败，便决定由自己承担一切后果。
+
+所有证据　直指子安
+
+颂恩参与扫黄行动，见其中一被捕少女很眼熟，但一时想不起是谁……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.A.Great.Way.To.Care.Ii.E11.1080I.Hdtv.H264-Area11(1)_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

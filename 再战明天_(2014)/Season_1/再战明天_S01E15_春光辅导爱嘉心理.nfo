@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:31:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>春光辅导爱嘉心理</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>再战明天</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>5026869</id>
+  <uniqueid default="false" type="tmdb">3236334</uniqueid>
+  <uniqueid default="false" type="trakt">1324783</uniqueid>
+  <uniqueid default="true" type="tvdb">5026869</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>惠珠因为被爱嘉漠视，愤而割脉自杀。按照狱中程序，爱嘉需要亲自检查惠珠的私人物品。爱嘉在惠珠的私人物件中发现一本日记簿，好奇心驱使下打开来看，才得知惠珠自杀原来全都是自己一手造成，爱嘉为此感到内疚。  春光得知事件原委后，为了让爱嘉振作便亲自替她进行心理辅导，可惜却不得要领。上升担心爱嘉的情况亦赶来探望，但是爱嘉却声言自己不想再见到上升，故一众好友只得送上升离开。  上升发现　囚犯违规
+
+细响逃狱失败后一直留在医院治理伤势，直至伤愈后才回到赤柱继续服刑，上升亦特意亲自到工场看管细响。  上升在视察工场期间，却发现囚犯顺潮违反规则。原来顺潮的家人患上绝症，需要大量金钱治病才令他铤而走险。上升最后仍然不留情面地处分他，令顺潮失去工作机会。  爱嘉回到工作岗位后一直神不守舍，工作时又不慎丢失了点核人数纸及监狱锁匙，结果被上司加以训斥，令她的压力变得愈来愈大。  细响得知　顺潮困境  上升了解顺潮家中的困境后，便提早终止对顺潮的处分并加以支援，但奈何顺潮所面对的问题并不简单，上升最终仍无法为顺潮解决问题。  细响为了向上升报复，便不断借故投诉他，但最后却换来上升的嘲笑，细响对此大感愤怒。
+
+当细响的妻子前来探望他时，恰巧有机会偷听到顺潮家中的经济困难。细响为向上升报仇，决定与顺潮单独对话，并开始策划复仇大计。  好好失踪　正桥担心  爱嘉每次巡房都会回忆起死去的惠珠，更开始不时出现幻觉，精神面临崩溃边缘。担心爱嘉精神状况的上升一心想安抚她的情绪，但爱嘉却仍未能原谅上升对自己的伤害，两人之间的关系开始有变。  好好为了不想拖累正桥，决定不辞而别靠自己独力生活。正桥得知好好出走后即努力找寻其下落，可惜却徒劳无功。  正桥回到训练中心，遇上小轩的恶意刁难，最后正桥亦终于按捺不住自己，向一众学员表达自己对好好的独特感情。  上升受袭　性命危殆  爱嘉突然旷工令上司担心，即以电话向上升查询，但是上升却不清楚爱嘉的下落，故未能回答。  顺潮突然要求与上升见面，上升不虞有诈应约，殊不知原来顺潮早被细响收买，突然取出利器向上升施袭，决心取去其性命。
+
+上升最后虽然成功击倒顺潮，却在纠缠期间受到致命伤，上升失血过多陷入昏迷。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2681</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.再戰明天.E15.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

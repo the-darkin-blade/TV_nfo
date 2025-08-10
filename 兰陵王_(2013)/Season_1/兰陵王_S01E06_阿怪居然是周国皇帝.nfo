@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿怪居然是周国皇帝</title>
+  <originaltitle>阿怪居然是周国皇帝</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>4658528</id>
+  <uniqueid default="false" type="tmdb">1224914</uniqueid>
+  <uniqueid default="false" type="trakt">1231969</uniqueid>
+  <uniqueid default="true" type="tvdb">4658528</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雪舞在贱民村协助大家防治瘟疫，收到众人爱戴。而兰陵王为了搜捕宇文邕也来率兵来到贱民村。两人都没有想再次重逢竟然会是在这样的地方。为绝后患将宇文邕杀死，兰陵王以“绝病瘟后患”为由下令屠村。从小学医的雪舞不理解兰陵王为何下此军令。雪舞挺身而出，毫无畏惧地与兰陵王对峙。面对杨雪舞的请求，兰陵王最终与雪舞达成协议，七天之内，病瘟不除，就把贱民村烧个寸草不留，这段期间，任何人不得进出。雪舞凭着智能，成功消除了病瘟，并且治好了她带回的哑巴阿怪，两人成了好朋友，全村和乐融融。兰陵王认定阿怪就是自己要找的北周皇帝宇文邕。雪舞对阿怪的袒护，更造成了兰陵王对于阿怪的醋意。雪舞阻止兰陵王杀死阿怪。但她自以为的择善固执，却引来周国间谍前来攻占贱民村，原来阿怪正是周朝皇帝宇文邕。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep06_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

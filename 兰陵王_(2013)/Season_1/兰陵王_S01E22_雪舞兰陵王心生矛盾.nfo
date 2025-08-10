@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>雪舞兰陵王心生矛盾</title>
+  <originaltitle>雪舞兰陵王心生矛盾</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>4659265</id>
+  <uniqueid default="false" type="tmdb">1224930</uniqueid>
+  <uniqueid default="false" type="trakt">1234318</uniqueid>
+  <uniqueid default="true" type="tvdb">4659265</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>郑儿决定用计陷害姥姥，她趁天热暑气，对姥姥的药膳下手，使其暑气上身昏倒在地，此时雪舞正在伤兵村教导百姓如何自力更生，无暇顾及王府家事，因而使兰陵王对雪舞颇有微词。雪舞也感到十分内疚，她尽快回到王府打理内外，亲自照顾姥姥，并答应兰陵王暂时不再去伤兵村。她决定忙完伤兵村的事之后，做一桌好菜弥补高长恭，以表歉意。一日郑儿见高长恭独自待在书房，望着桌上公文浓眉深锁，郑儿得知他心中烦恼筹款之事，主动提出要高长恭明日带她入宫，向后宫众娘娘筹款。高长恭思忖半响，认为郑儿提出的方法可以一试，便答应了郑儿。第二天雪舞去伤兵村交代最后的事务，高长恭出门看到雪舞不在，问丫头小翠雪舞的去向，小翠怕高长恭怪罪隐瞒没说。高长恭带着郑儿去皇宫筹款。雪舞交代完伤兵村的事务回到王府，为兰陵王准备好晚餐，却迟迟等不到兰陵王回来。兰陵王面见皇上，向皇上禀明郑儿受到的冤屈，把郑儿收留在自己身边，郑儿很感动。郑儿借为灾民捐款为名，把自己随身的玉璜送给了兰陵王。雪舞出门正看到兰陵王和郑儿在一起，郑儿故意与兰陵王拥抱，引发雪舞不满。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep22_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

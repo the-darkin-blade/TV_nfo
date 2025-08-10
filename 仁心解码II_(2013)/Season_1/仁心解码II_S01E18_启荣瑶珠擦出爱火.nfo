@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>启荣瑶珠擦出爱火</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>仁心解码II</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">913769</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>虽然颂恩冲动行事，但终归逮捕潘耀泉，可惜从耀泉及女友佩茹口中，都没有发现任何线索。国彬促小组重新在两个案发现场进行搜证，又因人证只有佩茹一人，必须再回二人所住的劏房查问邻居。
+
+另外因推断是凶器的军刀仍未找到，警方必须在48小时内找到足够证据起诉耀泉。慧翘见耀泉脸上有伤，知他曾与人争执，而立仁分析耀泉有反社会人格，态度不合作只想拖延时间待48小时后获释。颂恩再找佩茹倾谈，但她哮喘复发，只想警方早点放人和离开。
+
+立仁见慧翘赞赏病房的倩莹和其他孩子相处甚欢，慧翘便诉说以前讨厌孩子，现在却对小孩改观，变得渴望拥有自己的小孩。
+
+调查受阻　再现凶案
+
+警方到劏房查证，得知曾与耀泉争执的人是廖广志，可是广志不在房中。颂恩调查耀泉往事，记录指他脾气暴躁，多次犯事都因证据不足而获释放。慧翘看到现场的血笑脸图案，觉凶手视杀人为乐，是极度危险的凶徒。立仁认为广志曾打过耀泉，若耀泉获释，更不会轻易了事。但原来广志已失踪三天，需找到他才能进一步调查。
+
+颂恩再到羁留室找耀泉套取线索，不但没结果，而反被他挑衅。颂恩在警署通宵搜集资料，迷糊间梦见童年时的自己与父亲一起。
+
+振东等人终于发现广志的私家车在元朗停车场，国彬和颂恩见车尾箱有染血的布，于是假设耀泉杀广志后把尸体收于车尾，驾车至燃油耗尽便弃尸郊外。众人见一野狗向货柜乱吠，打开货柜后竟发现另一女尸，死状与前两宗军刀杀人案不同，而是窒息致死。另一方面，警方终于找到广志，原来失踪数天只是为了避债，而车尾的血布只因手指弄伤……
+
+志森答允　作假报告
+
+瑶珠因癌病之事向志森请辞，更特意提醒志森即使嘉丽生日，仍不要让她有期待。当两人谈话时志森收到嘉丽来电说她发生意外，当志森赶至她的家时，发现她早已喝醉，嘉丽更借醉酒向志森表白。
+
+永佳与志健家是世交，以研究经费为条件，委托志森代写志健的精神评估报告，以便在法庭否认博安医院的鉴定。启荣知道志森已接下此工作，不解为何他竟助纣为虐。立仁相信志森有苦衷，但志森却绝口不再提此事。
+
+因为志森的专业意见，法庭决定延审志健一案，而启荣与世邦的鉴定可能作废。志健在庭外趁机挑衅，惹得启荣生气与他推撞。永铿一向注重医院形象，但这次竟支持启荣，立仁不禁疑惑为永铿和志森的行事作风竟恰恰转换过来……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2662</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.A.Great.Way.To.Care.Ii.E18.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

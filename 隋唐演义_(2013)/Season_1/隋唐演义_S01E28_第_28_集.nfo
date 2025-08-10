@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 28 集</title>
+  <originaltitle>第 28 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783852</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>程咬金拦路抢劫正巧遇到去祝寿的罗成等人，程咬金因先前曾与罗成交手，惮于罗成武艺高强，便不敢再出手。齐国远、李如辉气愤罗成口出狂言，扬言要教训他一顿，结果不敌罗成，被罗成打得落荒而逃，装寿礼的包袱也在慌乱中丢失。二人搬来单雄信、王伯当等人做救兵，讨回包袱，但罗成对单雄信的傲慢态度让王伯当很是看不惯。单雄信一行人继续行走，遇到程咬金劫道，尤俊达赶来方才化解误会，一同前往济南为秦母祝寿。　　杨林得到密报，称绿林众人齐聚济南府历城县，杨林命罗方、薛亮即刻点兵前去历城县，一来捉拿响马，二来看望秦琼。　　单雄信一行人等来到历城县，前去拜会秦琼，正与罗成相见。单雄信上前行礼，罗成傲慢无视单雄信，惹得绿林好汉摩拳擦掌要教训罗成，秦琼怒扇罗成，罗成这才还礼道歉。　　杨林带兵赶至济南府，命唐璧封锁城门，全城搜捕响马。　　贾柳楼中，众人觥筹交错正在喝酒，秦琼家中来客，回家应酬，吩咐魏征、徐茂公、单雄信招呼各位喝酒。秦琼一走，程咬金开始挑拨罗成，说单雄信要找罗成麻烦，又对单雄信言罗成骂他是贼头，要将他扭送官衙。罗成、单雄信二人动起手来。秦琼匆匆从家中赶来，拉开正在打斗的罗成单雄信，训斥罗成惹事生非。罗成一气之下要回北平府。程咬金怕事情暴露，赶紧去追罗成。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2698</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>28_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

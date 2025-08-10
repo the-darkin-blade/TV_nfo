@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>金棠欲杀死啸山</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490897</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>大戏完结后，傲天在门外遇到顾小楼向她打招呼，但小楼竟说不认识他。
+
+傲天急召啸山与金棠开会，指遗失的鸦片被万钧找回，啸山起了怀疑为何万钧会知道是周大帅所为。
+
+傲天希望不再做鸦片生意，转而申请正式赌牌，金棠与啸山都没有异议。周大帅被新政府拘捕后，啸山要另觅新政府支持。刚巧学尧饮醉回来，啸山骂他不务正业，以后要跟自己学做生意。
+
+小楼原是 月兰师妹
+
+金棠想看百乐门的数簿，但桂生不肯交出，于是他拜托傲天，劝她交出所有百乐门资产。
+
+桂生见手下阿福被打，与金棠理论，阿福阻止并说出金棠要与绮红结婚，更要取得百乐门的大锁匙，桂生知道后非常伤心。
+
+晚上桂生边吸鸦片，边回想与金棠的美好时光，傲天探望桂生，劝她不要再吸鸦片。桂生自责把所有东西都给了金棠，现在却一无所有，坚持不会把百乐门交出来。
+
+傲天晚上回家，月兰问他知否小楼已返回上海。原来小楼是月兰师妹，当年二人一同在北平学戏，后来月兰离开，小楼则渐渐成名。傲天说昨天见到小楼，见她好像不快乐，月兰听后决定去探望她。
+
+银馨上门 辱骂小楼
+
+小楼看到月兰出现感愕然，突然银馨与数名女人破门而入更四处捣乱。银馨辱骂小楼，指若非小楼缠着尚文彬，他不会收小楼为徒，并警告小楼要她离开文彬。
+
+月兰把小楼的事告知傲天，带小楼去八方会馆暂住，小楼在会馆练功，心情甚为舒畅。傲天捐了一笔钱给会馆，为培训新人而出力。月兰为小楼介绍傲天，小楼为当日无礼而道歉。
+
+兆匡经过工厂时被两名日本人殴打，之后更见纱厂正在冒烟。国栋与兆匡回到办公室，国栋坦言法律已没有用，现在最重要是势力。兆匡在公园遇到傲天，慨叹有学识都不及有势力；傲天欣赏兆匡，指希望日后合作。
+
+镇岳欲收 渔人之利
+
+傲天来见万钧，指以后不再售卖鸦片，但希望能尽快获得赌牌，万钧答应会尽快处理。啸山刻意找广东帮追击金棠地盘，使华界大乱。啸山欲见万钧，但遭多番拒绝。啸山终见到万钧，但他指若啸山有事，可由傲天转告。  纱厂有工人怕日本人再来烧厂，故没有上班。正当国栋心急之际，俊杰找傲天帮忙。兆匡感谢傲天帮忙，指如他有困难，自己愿意帮忙。金棠知道啸山是主谋，决定出手报复，带齐人马去啸山的赌场，准备开枪打死啸山之际，却见沃利出现，令他不能下手……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2665</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep04.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

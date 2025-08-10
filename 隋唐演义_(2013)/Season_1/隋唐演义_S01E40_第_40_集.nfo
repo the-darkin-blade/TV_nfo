@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 40 集</title>
+  <originaltitle>第 40 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>40</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783865</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>相国府中，在外学艺的二公子宇文成龙学成归来，尤善心术，知裴元庆要来面圣，于是出计压其风头。　　宇文化及带宇文成龙去见杨广，杨广问其三载在外学得何计，宇文成龙称自己棋艺高超，杨广要与其较量一番，并下赌注一万两白银，杨广赌性大发，全然忘了正在等候的裴氏父子。宇文成龙向杨广提议由李渊在晋阳宫一月内修建行宫，杨广随口答应。　　裴氏父子面圣，宇文成龙却拉着杨广下棋，裴元庆一气之下，将宇文成龙扔到池中。杨广却丝毫未怒，觉得裴元庆少年英姿，让他明日献艺，也好封他官职，挂帅围剿瓦岗。　　次日，裴元庆献艺，力举千金鼎，宇文化及故意使坏，与裴元庆聊天，并赐酒。裴元庆气被卸掉，一把扔掉千金鼎，差点砸到杨广，杨广大怒，在宇文化及的怂恿下，竟要斩裴元庆，邱瑞据理力争要保裴元庆，朝庭乱作一团，此时原宁国大使古鲁木前来献雄狮一头，言语中有轻蔑之意，问大隋可有人能驯服雄狮，宇文化及故意举荐裴元庆。裴元庆果然驯服雄狮，大涨国威，杨广大喜命裴元庆挂帅，平定瓦岗，宇文化及却言裴元庆有勇无谋难任元帅一职，推荐宇文成龙为其元帅，而裴元庆为先锋官。杨广允之。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2789</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>40_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="40" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

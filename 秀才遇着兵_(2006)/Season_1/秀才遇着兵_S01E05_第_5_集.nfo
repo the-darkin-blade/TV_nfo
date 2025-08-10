@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:30:40 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 5 集</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>秀才遇着兵</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>5090450</id>
+  <uniqueid default="false" type="tmdb">284459</uniqueid>
+  <uniqueid default="false" type="tvrage">477172</uniqueid>
+  <uniqueid default="false" type="trakt">1541866</uniqueid>
+  <uniqueid default="true" type="tvdb">5090450</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>金英为令东楼死心，谎说侠盗飞鹰是亡夫陆战的另一身份。征粮大队回县途中突然杀出一群山贼，义妹奋力抗贼但不敌，金英再次暗中出手成功退贼！东楼明白各人收入微薄引致贪风，决定提高粮钱，各人大喜签据作实；又随即宣布改革，所征钱粮上缴后余数点滴归公，不得私吞，众人大怨！
+
+原来山贼是么公的同党，劫粮不成又失去钱粮油水，对东楼及义妹更加仇视！苦无对策，于是他力劝史师爷取消告病，但他却胸有成竹继续休假！老伯周旭及何知府的表亲林通报官，林通说议好以二十两买下周旭祖屋，周旭指他明明出价二百两，现存心欺骗所以不卖，两人争持不下！东楼明知贫不与富斗，暗中与周旭夹计，先判林通得直，之后再恐吓林通，指周老伯被气得晕倒病危，林通为免搞出人命，答应送他一百两医药费及村外大屋一座；周老伯感激水大人让他有屋有钱安亨晚年，但义妹却误会东楼巴结权贵。
+
+衙门所有捕快突然一同告病，结果盗贼横行；史大妈山路上遇贼，一心寻死的秀姑突然出现要求被杀，竟吓退贼人，史大妈感激她「替死」之恩，刚巧义妹路过见姑姐陆秀姑神色有异，立即把她接回家。东楼知是史其旺制造混乱，史师爷却表明要回复常例钱，突然东楼掏出一书信，史师爷见书即面露怯色。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2681</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Gentle.Crackdown.E05.Hdtv.1080I.H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

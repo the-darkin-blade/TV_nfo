@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:30:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 6 集</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>秀才遇着兵</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>5090451</id>
+  <uniqueid default="false" type="tmdb">284460</uniqueid>
+  <uniqueid default="false" type="tvrage">477173</uniqueid>
+  <uniqueid default="false" type="trakt">1541868</uniqueid>
+  <uniqueid default="true" type="tvdb">5090451</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>东楼查得史其旺虽文采过人，但当年因不肯贿赂贪官故没有通过考试，是一名假秀才，东楼以此痛脚要求史师爷要捕快们复工，他唯有就范！何百福知府查巡将至，东楼不欲浪费公帑，只略为清洁府衙；何知府见府衙残旧不堪，虽没明斥亦心觉被待慢，又暗示自己六十大寿将至，随行知县明白心意为他大做寿宴，史师爷不信东楼可以不贿而得何知府欢心，看他如何过关。
+
+东楼看出赵、钱两知县有心病，使计再在两者挑拨，不单能笼络他们，更能使他们不再在何知府面前针对自己。寿宴上，东楼只送贺寿图一幅，何知府本来不甚满意，但接着东楼以小技俩加上三寸不烂之舌、送上贺寿百福绝联、又安排五福齐飞、九鲤拜寿等，意头十足，让何知府大乐而返！史师爷见东楼能见招拆招，所费无几便能靠拢各大人，虽敌意未减亦开始对他另眼相看。
+
+抚台大人之子马立光路过良才县，竟在山头强抢民女，刚巧义妹路过，把他们加以教训，拉回衙门，么公说水大人正与知县大人酬酢未能审理，义妹以为东楼只爱吃喝玩乐，甚为气愤，唯有把他们先行扣押。
+
+岂料么公得知他是抚台之子暗中放人，义妹质问东楼但见马立光已被释放，无奈放弃查办。马立光恃着权势再次犯案，义妹发现民女云芝被奸污，立即追捕立光。义妹对这强奸犯恨之入骨，把他打至不似人形再拉回衙门。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2586</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Gentle.Crackdown.E06.Hdtv.1080I.H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

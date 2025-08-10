@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>兰陵王</title>
+  <originaltitle>蘭陵王</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <sorttitle/>
+  <year>2013</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>5.8</value>
+      <votes>5</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>魏晋南北朝时期，华夏大地步入前所未有的乱世。金戈铁马纵豪迈，勇夫壮士化枯骨。北齐气数将尽，北周在宇文邕（陈晓东 饰）的统领下迅速崛起，朝着统一大业全速前进。而在这位盖世英雄面前，北齐战神兰陵王高长恭（冯绍峰 饰）成为最大阻碍。在征伐途中，兰陵王意外踏入巫咸后人隐居的世外桃源，并结识了世代拥有预知能力的白山村女孩杨雪舞（林依晨 饰）。乱世因缘前注定，岂是人力所能移。雪舞这个奇女子与兰陵王和宇文邕均结下不解的因缘，可是纵使早已窥见未来的天机，却无法撼动命运的安排。  一代豪杰兰陵王功成名就，自然引来帝座的不满。杀父弑君的太子高纬（翟天临 饰）继位，高长恭和杨雪舞这对乱世有情人即将迎来宿命中最大的磨难……</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa>NR</mpaa>
+  <certification>NR</certification>
+  <episodeguide>{"tmdb":"59081","imdb":"tt5617626","wikidata":"Q14864063","tvdb":"273244"}</episodeguide>
+  <id>273244</id>
+  <imdbid>tt5617626</imdbid>
+  <tmdbid>59081</tmdbid>
+  <uniqueid default="false" type="tmdb">59081</uniqueid>
+  <uniqueid default="false" type="imdb">tt5617626</uniqueid>
+  <uniqueid default="false" type="wikidata">Q14864063</uniqueid>
+  <uniqueid default="true" type="tvdb">273244</uniqueid>
+  <premiered>2013-08-14</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <genre>War</genre>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <country>中国</country>
+  <tag>romance</tag>
+  <actor>
+    <name>冯绍峰</name>
+    <role>Lan Lingwang</role>
+    <profile>https://www.themoviedb.org/person/936431</profile>
+    <tmdbid>936431</tmdbid>
+  </actor>
+  <actor>
+    <name>林依晨</name>
+    <role>Yang Xuewu</role>
+    <profile>https://www.themoviedb.org/person/1222312</profile>
+    <tmdbid>1222312</tmdbid>
+  </actor>
+  <actor>
+    <name>陈晓东</name>
+    <role>Yuwen Yong</role>
+    <profile>https://www.themoviedb.org/person/588138</profile>
+    <tmdbid>588138</tmdbid>
+  </actor>
+  <actor>
+    <name>翟天临</name>
+    <role>Gao Wei</role>
+    <profile>https://www.themoviedb.org/person/1518224</profile>
+    <tmdbid>1518224</tmdbid>
+  </actor>
+  <actor>
+    <name>毛林林</name>
+    <role>Zheng Er / Feng Xiaolian</role>
+    <profile>https://www.themoviedb.org/person/1518223</profile>
+    <tmdbid>1518223</tmdbid>
+  </actor>
+  <actor>
+    <name>韩栋</name>
+    <role>Yang Jian</role>
+    <profile>https://www.themoviedb.org/person/1518226</profile>
+    <tmdbid>1518226</tmdbid>
+  </actor>
+  <actor>
+    <name>胡宇威</name>
+    <role>An Dewang</role>
+    <profile>https://www.themoviedb.org/person/1233857</profile>
+    <tmdbid>1233857</tmdbid>
+  </actor>
+  <actor>
+    <name>Tiara Huang</name>
+    <role>Yu Tu</role>
+    <profile>https://www.themoviedb.org/person/1518228</profile>
+    <tmdbid>1518228</tmdbid>
+  </actor>
+  <actor>
+    <name>张籽沐</name>
+    <role>Princess Yuwen Zhen</role>
+    <profile>https://www.themoviedb.org/person/3709707</profile>
+    <tmdbid>3709707</tmdbid>
+  </actor>
+  <actor>
+    <name>王笛</name>
+    <role>Empress Ashina</role>
+    <profile>https://www.themoviedb.org/person/1518234</profile>
+    <tmdbid>1518234</tmdbid>
+  </actor>
+  <actor>
+    <name>宗峰岩</name>
+    <role>Yuwen Yu [Emperor Ming of Northern Zhou]</role>
+    <profile>https://www.themoviedb.org/person/2296493</profile>
+    <tmdbid>2296493</tmdbid>
+  </actor>
+  <actor>
+    <name>郑晓宁</name>
+    <role>Yuwen Hu</role>
+    <profile>https://www.themoviedb.org/person/1518231</profile>
+    <tmdbid>1518231</tmdbid>
+  </actor>
+  <actor>
+    <name>王峥</name>
+    <role>Yuwen Shenju</role>
+    <profile>https://www.themoviedb.org/person/1518232</profile>
+    <tmdbid>1518232</tmdbid>
+  </actor>
+  <actor>
+    <name>吕中</name>
+    <role>Xue Wu's grandmother</role>
+    <profile>https://www.themoviedb.org/person/555366</profile>
+    <tmdbid>555366</tmdbid>
+  </actor>
+  <actor>
+    <name>卢勇</name>
+    <role>Hulu Guang</role>
+    <profile>https://www.themoviedb.org/person/1065331</profile>
+    <tmdbid>1065331</tmdbid>
+  </actor>
+  <actor>
+    <name>张国庆</name>
+    <role>Zu Ting</role>
+    <profile>https://www.themoviedb.org/person/1518237</profile>
+    <tmdbid>1518237</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Tian Ye</name>
+    <role>Hulu Xuda</role>
+    <profile>https://www.themoviedb.org/person/1518239</profile>
+    <tmdbid>1518239</tmdbid>
+  </actor>
+  <actor>
+    <name>戴春荣</name>
+    <role>Empress Hu</role>
+    <profile>https://www.themoviedb.org/person/1236265</profile>
+    <tmdbid>1236265</tmdbid>
+  </actor>
+  <actor>
+    <name>何中华</name>
+    <role>Emperor Gaozhan</role>
+    <profile>https://www.themoviedb.org/person/2040525</profile>
+    <tmdbid>2040525</tmdbid>
+  </actor>
+  <actor>
+    <name>朱海军</name>
+    <role>Xiao Cui</role>
+    <profile>https://www.themoviedb.org/person/1518242</profile>
+    <tmdbid>1518242</tmdbid>
+  </actor>
+  <actor>
+    <name>Xiong Zi Ling</name>
+    <profile>https://www.themoviedb.org/person/1518277</profile>
+    <tmdbid>1518277</tmdbid>
+  </actor>
+  <actor>
+    <name>Koko Tang</name>
+    <profile>https://www.themoviedb.org/person/1518278</profile>
+    <tmdbid>1518278</tmdbid>
+  </actor>
+  <actor>
+    <name>孙艺宁</name>
+    <role>Hong E</role>
+    <profile>https://www.themoviedb.org/person/1518279</profile>
+    <tmdbid>1518279</tmdbid>
+  </actor>
+  <actor>
+    <name>魏千翔</name>
+    <role>Han Xiaodong</role>
+    <profile>https://www.themoviedb.org/person/1518225</profile>
+    <tmdbid>1518225</tmdbid>
+  </actor>
+  <actor>
+    <name>邓莎</name>
+    <role>Lan Lingwang's birth mother</role>
+    <profile>https://www.themoviedb.org/person/1518227</profile>
+    <tmdbid>1518227</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Donghan</name>
+    <role>Yang Shishen</role>
+    <profile>https://www.themoviedb.org/person/1518238</profile>
+    <tmdbid>1518238</tmdbid>
+  </actor>
+  <actor>
+    <name>余心恬</name>
+    <role>Feng Xiaoling</role>
+    <profile>https://www.themoviedb.org/person/1518276</profile>
+    <tmdbid>1518276</tmdbid>
+  </actor>
+  <actor>
+    <name>赵汉唐</name>
+    <role>尉迟迥</role>
+    <profile>https://www.themoviedb.org/person/1954989</profile>
+    <tmdbid>1954989</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 24 集</title>
+  <originaltitle>第 24 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783847</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>杨林命人将秦琼拿下，秦琼口出狂言，正要斩杀秦琼之际，玉郡主回到登州王府，杨林不禁讶异，玉郡主避重就轻，说出自己遭遇，此时，侍卫正等杨林下令斩杀秦琼，玉郡主阻拦。　　上官敌认出秦琼并非程达，而是恩公秦琼。玉郡主向杨林诉说秦琼相救的经过。杨林决定一试秦琼是不是正人君子。此时上官敌前来求情，杨林这才确信无疑。　　秦琼被迫承认假冒姓名，替人顶罪，杨林倾佩秦琼义气，免除其罪，并免除各地官员捉拿响马不力的罪名。杨林见秦琼英雄胆识，甚是喜爱，欲要收秦琼为十三太保，秦琼欣然答应。　　此时，等不及的程咬金、尤俊达前来叫阵，秦琼知是程咬金、尤俊达二人，便当即请命前去捉拿，杨林允。　　秦琼与程咬金交手，小声让程咬金林中等候，并假装无意放走了程咬金、尤俊达，秦琼回到登州王府赴命，杨林并不怪罪秦琼追丢了响马。正当秦琼不知为何程咬金、尤俊达为何知道自己来到登州府之时，杨林将秦琼带到了玉郡主面前，二人再次相见。此时玉郡主对秦琼已然没有了猜忌，她将自身遭遇全部告诉了秦琼，两人交心谈论着昔日往事。　　宫中，杨广得知玉郡主并没有死，而是回到了登州王府，却并不惊讶，只是让宇文化及监控靠山王杨林的动静。　　宇文化及斥责宇文成都感情用事，放走玉郡主，宇文成都情感爆发，不认同宇文化及所教授的道理，他只想成为一个有感情的男人，而不是一个天下第一的冷血的杀手。　　玉郡主受到杨广差人从来的贺礼，祝贺玉郡主大难不死，玉郡主已知杨广之意，玉郡主按兵不动。　　一日，老妇人击鼓鸣冤，女儿失踪，杨林派秦琼、玉郡主暗访此事。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2660</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>24_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

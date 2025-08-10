@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>颂恩发现真相遭伏击</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>仁心解码II</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">913761</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>启荣以为瑶珠会自杀，情急下便抱着她，又自责令她不开心，但其实瑶珠只打算用消毒药水洗浴缸，并非轻生。两人不自禁在梳化上互相依偎，因打雷吓倒才急忙分开。启荣收到思家来电，竟谎称在自己家看电视。
+
+思家在医院安抚精神不稳病人时反被割伤手，而之后才知道病人因男友有了外遇而受打击。启荣离开瑶珠家，竟见思家冒着大雨在附近等他，启荣不想让思家怀疑，只好说出瑶珠患上癌症。
+
+启荣酒醉　说出心声
+
+启荣夹在二女之间心烦不已，回家时已喝酒至酩酊大醉，在醉酒之下发出求爱口讯给瑶珠。瑶珠听到后甚为感动，翌日买了启荣喜爱的早餐给他吃。启荣回到医院后，见思家亲手制作了分量十足的三文治给他，又不忍在此时说出他和瑶珠的事，结果启荣只有维持与瑶珠和思家二人同时交往。
+
+立仁向慧翘分享女儿和外孙的片段，令慧翘一时感触，羡慕立仁三代同堂。慧翘感可惜男友已死，又不符合领养资格。慧翘知道男友原来保存了精子，但冷藏库有问题令精子尽毁，无法以男友精子人工受孕。
+
+嘉丽不忍　志森牺牲
+
+永铿决定撤回启荣和世邦提出对志健的精神评估，亲自上阵再写一份，于是局面演变成罗永铿决战连志森，昔日仁和医院对立的人一较高下。立仁知道当中有异，便去找嘉丽追问志森改变立场的原因。
+
+原来志森帮助志健，全因永佳手持嘉丽醉酒驾车伤人不顾而去的证据，以此威胁志森。嘉丽知道志森牺牲太大，决定不会让志森受委屈，在诊所痛骂志健和永佳，又到警署自首。
+
+嘉丽想清楚二人关系不会进一步，仍感激志森所做一切。志森不能陪她远赴歌剧现场，只有单独表演歌剧给她看以作答谢。
+
+证物颈链　发现线索
+
+货柜发现的女死者看似与耀泉无关，令线索又再中断。颂恩再翻查死者证物，找到女死者曾光顾的首饰店，颈链有刻名可作证。颂恩记得佩茹戴有同一款颈链，便再展开逮捕耀泉的行动，可惜警方无法在耀泉家找到证物，无奈下只好再一次释放耀泉。
+
+颂恩失手　遇袭重创
+
+颂恩找立仁商讨案情，立仁怀疑耀泉不会知道颈链的价值，推断凶手另有其人。二人再查cafe的消费纪录，果然在郭家凶案前有两位客人同坐。颂恩与立仁分开后，便收到佩茹电话，结果把颂恩引到后巷。
+
+颂恩看见佩茹与平日带病的样子不同，更手持利刀，颂恩被耀泉从后伏击，更被绑于隐蔽小屋内。两人在离开前刺了颂恩一刀，待她慢慢失血而死……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2663</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.A.Great.Way.To.Care.Ii.E19.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

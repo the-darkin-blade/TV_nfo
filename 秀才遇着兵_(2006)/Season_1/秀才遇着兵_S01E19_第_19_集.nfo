@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:30:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 19 集</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>秀才遇着兵</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>5090464</id>
+  <uniqueid default="false" type="tmdb">284473</uniqueid>
+  <uniqueid default="false" type="tvrage">477186</uniqueid>
+  <uniqueid default="false" type="trakt">1541928</uniqueid>
+  <uniqueid default="true" type="tvdb">5090464</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>集各人线索，东楼推断万太保是小祥子，当年偷取宝典离宫，各人循此点分头追查。东楼说要宴请邵大人，万太保喜见东楼顺应为官之道拢络人脉，席间更安排美女助庆，万太保一见美人浑身不自在先行离去，东楼和邵大人更加怀疑他是太监。东楼再作打探，万太保坚持未忘与亡妻的约誓，丽君又说没有半件亡母遗物，越觉可疑。
+
+史师爷与金英往西昌县，再查老太监被烧死一事，意外地找到死里逃生的殷公公，查问下殷公公和盘托出小祥子就是万太保，多年来一直被他追杀，当日李公公往探望自己，遇上毒手做了替死鬼，结果令他能够逃出生天，史师爷决定送殷公公上京作证，揭发万太保一切罪状。
+
+金英一行人终到达京城，岂料殷公公年老久病，不抵奔波在途中死去，史师爷决定用殷公公身份写勒索信给小祥子，来一招引蛇出洞，邵上书将联同周大人作证，只要万太保一出手，便证明他是当年盗宝小太监。
+
+万太保见信大惊，但心思缜密，命楚雄跟踪邵上书，楚雄回报发现邵大人及东楼一众在商议有关小祥子一事，还有一具公公尸首；万太保怕楚雄继续查探会惹麻烦，竟向楚雄下毒手以除后顾之忧。万太保知殷公公已死，未有堕进刑部圈套，反另设局陷东楼毒杀楚雄，更当场揭穿义妹身份，义妹幸能逃脱，万太保把东楼移交刑部审理，令邵上书进退两难。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2680</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Gentle.Crackdown.E19.Hdtv.1080I.H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

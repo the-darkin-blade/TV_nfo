@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>晓东为救雪舞牺牲</title>
+  <originaltitle>晓东为救雪舞牺牲</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>38</episode>
+  <id>4659281</id>
+  <uniqueid default="false" type="tmdb">1224946</uniqueid>
+  <uniqueid default="false" type="trakt">1236527</uniqueid>
+  <uniqueid default="true" type="tvdb">4659281</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雪舞来到朝思暮想的兰陵王墓前诉说思念，雪舞向兰陵王承诺：无论多苦，她都会坚强勇敢地将孩子带大。冯小怜和祖珽带兵赶来抓到杨雪舞，就在小怜要下手杀她的时候，宇文邕赶来救走雪舞，晓冬为了让所有人脱险，牺牲了自己的性命。宇文邕带着雪舞逃脱，一路马不停蹄回到周国，火速命太医救活她，这时宇文邕才知道雪舞有了身孕。半梦半醒的雪舞拜托宇文邕一定要帮她保住孩子。齐国皇宫，兰陵王之死令高纬终日闷闷不乐，他想要放过雪舞，不再继续杀人。小怜表面上答应高纬，暗中却命令祖珽暗杀杨雪舞。自从兰陵王死后，小怜每晚都喂高纬吃曼陀罗让他陷入熟睡，而她穿上披风一脸欣喜，偷偷摸摸的离开寝宫，交代宫女不得泄漏此事。平安醒过来的雪舞，面对晓冬惨死的消息，她悲痛不已。祖珽派来的刺客被宇文神举抓获，宇文邕为了保护雪舞安全，不顾众人反对，执意册封杨雪舞为妃。在齐国，安德王整日饮酒，痛哭高长恭之死。雪舞向上天为齐国百姓祈福，为高长恭和韩晓东祈祷。一名宫女前来，要为雪舞丈量身形，缝制周国皇妃穿着的衣裳，雪舞错愕不已。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep38_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="38" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

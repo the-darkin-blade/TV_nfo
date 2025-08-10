@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 51 集</title>
+  <originaltitle>第 51 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>51</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783877</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>程咬金带着几个兄弟去闹洞房，嘲笑王伯当当初骂东方玉梅水性杨花，现在又娶了她。王伯当心中憋气，竟与东方玉梅打了起来。东方玉梅一气之下与哥哥东方白离开虹霓关。徐茂公大怒要斩王伯当，齐国远则言其中内情是因程咬金挑拨，徐茂公将程咬金赶出瓦岗，又命王伯当追回东方玉梅。　　王伯当不知东方玉梅去向，心中郁闷。程咬金怂恿王伯当攻打汜水关，戴罪立功，不想王伯当竟被汜水关守关大将盖天雄生擒，程咬金逃跑。正当程咬金发愁去何处搬救兵时，竟被一张网网住，被押去了清风寨。清风寨寨主正是东方白，东方玉梅见是程咬金不禁一惊。程咬金撒谎王伯当为寻东方玉梅被盖天雄捉住，东方玉梅点兵一千前去攻打汜水关，生擒二将。程咬金借此劝说盖天雄献关，盖天雄答应。王伯当知东方玉梅来救自己很是感动，向东方玉梅赔礼道歉，二人重归于好。　　杨广依旧在扬州行宫行乐，尚未回鸾。靠山王杨林向杨广献计，以玉玺为诱饵召集天下反王前来破铜旗阵，必能引得各反王自相残杀，到时再将剩余反王势力一网打尽，杨广深以为然。宇文化及又献毒计，让李渊出兵马十万。　　李世民从扬州回晋阳，感慨开挖运河的百姓之苦，言君王之英明与否在于对人民的用度。李渊接到圣旨，为十万兵力之调动忧心忡忡。李世民审时度势劝父造反，李渊不允。李建成心怀鬼胎，以为父亲造反，自己将为太子，也劝李渊起兵，李渊这才动了起兵之意。李世民看出父亲的忧虑，主动请缨，带兵五千前去守阵。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2711</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>51_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="51" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

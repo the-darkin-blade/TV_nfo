@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 60 集</title>
+  <originaltitle>第 60 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>60</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783886</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>刘武周大喜，却对大帅宋金刚越来越不满，宋金刚对尉迟恭心存嫉恨。　　宋金刚审问秦琼，发泄私愤，污辱秦琼。尉迟恭知秦琼是条好汉，出手相救，冒险将秦琼送回，并约定战场上见。刘武周怒尉迟恭竟放走秦琼，要将他斩首。尉迟恭则言自己所投之人并非明主，决意明日再战最后一次，便离开沙场。　　次日，尉迟恭与秦琼对战，不敌秦琼，下马而去。李世民却着急将他收服，于是带人前去铁匠铺亲自去请尉迟恭，尉迟恭拒绝李世民，李世民失望而归。　　刘武周担心尉迟恭转投他人，会对自己造成威胁，命宋金刚前去灭口。宋金刚杀死乔公山以及尉迟恭两名学徒，尉迟恭杀死宋金刚为父报仇，又直奔白壁关，取下刘武周首级，献与秦王李世民。在秦琼、尉迟恭的辅佐之下，李世民收复失地。然又接到圣旨，命李世民兵伐洛阳。秦琼、程咬金等人求秦王必要保存单雄信性命，李世民言自己也正有此意。　　洛阳城中，罗成在单盈盈的细心照料下，病体痊愈。　　李唐出兵洛阳，尉迟恭领命迎战。王世充则派出罗成前去迎战。罗成见是尉迟恭，毫不留情，将尉迟恭打退。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2657</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>60_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="60" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

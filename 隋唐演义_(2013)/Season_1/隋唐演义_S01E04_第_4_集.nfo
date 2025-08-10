@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 4 集</title>
+  <originaltitle>第 4 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2681171</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>黄骠因长久饥饿，骨瘦如柴，秦琼买马，无人问津。心灰意冷之时，二贤庄金四爷慧眼识得黄骠，得知秦琼乃是英雄落难，便以百两买下黄骠，秦琼不舍黄骠，又退回五十银两，请求善待黄骠。　　樊虎在押解龙海回衙门的途中，遇到金蛇卫，由于龙海出卖，樊虎也遭到金蛇卫追杀。　　二贤庄单盈盈得知金四爷买回一匹好马，嚷着驯马，单雄信见到黄骠，顿觉是秦琼出了大事，派人四下追寻秦琼下落。　　原来这黄骠马原是单雄信送给王伯当的，当年因为秦琼捉拿响马无数，其中不少是绿林中人，王伯当被派往山东暗杀秦琼，但王伯当到了山东历城，一病不起，陷入困境，秦琼出手相助。王伯当感念秦琼救命之恩，倾慕秦琼之坦荡品格，便弃之杀心，并将黄骠马赠予秦琼。从此，秦琼在绿林中被奉为恩人。　　由于王小二出卖，秦琼陷入绝境，幸而樊虎赶到，杀掉金蛇卫，救出秦琼，两人逃至一道观，道观掌门人正是单雄信门客魏征，单雄信前来将秦琼接到了二贤庄养伤，徐茂公、单雄信等人与秦琼结拜为兄弟。　　罗成护送玉郡主回登州府，小树林中遇上练斧子的程咬金，罗成与程咬金两人一言不合打了起来，程咬金受伤狼狈逃回汝南庄。　　玉郡主回到登州王府，便见宇文成都奉命前来迎接她回京和杨广完婚，罗成出言不逊，宇文成都出手教训，玉郡主被迫无奈、欲将自刎而死。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2657</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>04_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

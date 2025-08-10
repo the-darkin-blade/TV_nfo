@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 44 集</title>
+  <originaltitle>第 44 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>44</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783869</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李世民来到工地，却听民工说再闹水鬼，所以才有劳工不断死去。李世民答应定要查明此事。麻叔谋不想李世民插手此事，将壮丁还给李世民。李靖取到死者毛发，带回研究发现，劳工是吸入毒气而死。李世民当下决定，晚上再去工地一趟。　　李密安排壮丁混入劳工之中，故意携毒香而入。李世民在民工棚中果然查到毒香，抓获李密安排的壮丁，麻叔谋惊。李密又见麻叔谋房中有小孩衣物，皆已残破，问及近来丢失小孩一事，麻叔谋搪塞。李世民言皇上不日即到，此事交与皇上处理。　　李元霸从观中逃回家中，与李建成比武，闻听雷声，狂性大作，差点将李建成打死，幸好李世民出手相救。李渊一气之下，将李元霸关入铁笼之中。　　杨广从宫中出发，前往山西晋阳。宇文化及故意不通知李渊接驾，使得杨广对李渊有些不满。然及杨广至行宫中，见行宫精致美妙，便也消了气。宇文化及诬陷李渊行宫早已建好，有谋反之心，李渊大骇，不知如何辩解。然李世民镇定自若，拔钉验锈，证明行宫确为新建。杨广见李世民一表人才，赐白银万两，并封他为秦王。李世民禀杨广运河工地劳工暴毙一事，杨广宣李密与麻叔谋对峙公堂，李密直言毒香为麻叔谋为谋私利所为，又言麻叔谋喜吃孩童一事。杨广怒斩麻叔谋，升李密为开河总管。李元霸关在铁笼之中，听家仆说自己的三位哥哥都被封官，便将牢笼掰开，要去找皇上讨个官做。李元霸前往行宫，打得官兵落花流水，直闯大殿。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2677</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>44_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="44" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

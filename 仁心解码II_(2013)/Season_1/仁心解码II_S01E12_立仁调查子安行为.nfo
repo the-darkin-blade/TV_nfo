@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>立仁调查子安行为</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>仁心解码II</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">913776</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>子安前往警署自首，说出杀人动机，全因死者皆曾伤害他认识的孩子，指这是保护孩子的最佳方法。国彬与组员研究案情，发现案发时间与子安的口供脗合。
+
+自幼与颂恩一同在孤儿院长大的启超担任子安的代表律师，以子安精神异常下做出不受控制行为，要求精神状况评估。立仁了解子安的精神情况后，认为不能用精神异常作为抗辩理由。立仁问启超印象中子安曾作出最激烈的行为是甚么后，分析他极其量只会自虐，并未发展到伤害他人的程度。
+
+子安曾一度失踪，再出现时已到警署自首，故此他在失踪期间的行动十分关键。国彬与立仁认为子安若无杀人即在维护某人，更假设子安想帮国威顶罪，则一切便可理解。
+
+世邦发现　自己身世
+
+日勤和世邦一同送颂恩回家，提及在幼年突然离开孤仔院的文仔，便看颂恩收藏的儿时照片。大家都发现文仔的童年照片与世邦确实十分相像。离开颂恩家后，世邦向日勤透露，照片中的肯定是自己的孪生兄弟，一时间无法接受。
+
+年月前往自杀病人凤娇的丧礼，却被亲属赶走，报纸又报道博安医生害病人自杀身亡，于是年月决定辞职负起责任。慧翘不认同永铿牺牲年月一人的做法，但年月却觉得反正面试不通过，一人牺牲可保住黎医生和医院名声。立仁手持一张凤娇生前两天发出的感谢咭，感谢医院及何年月医生的照顾，又认为年月肯定知道内情。
+
+年月正打算在记者会承认一切，立仁和慧翘竟赶及带凤娇的女儿出现。永铿不满立仁未经商量便妄自行动，反被立仁要胁年月已受传媒追捧，不能逼使他离开，而有损医院形象。
+
+志森不知　嘉丽暗恋
+
+瑶珠的病人陈生指太太沉迷偶像而断定她出轨，但陈太称偶像只是性幻想对象。瑶珠与志森、嘉丽谈起，两人对婚姻忠诚与否的立场正好相反。志森觉得即使只是思想出轨仍算不忠，嘉丽则认为现实中陈太仍对丈夫专一。
+
+虽经过一番舌战，志森和嘉丽转眼已和睦，更相约放工后欣赏《蝴蝶夫人》演出，可惜因事受阻来不及前住，于是改在车中播放现场演奏版本。瑶珠见嘉丽替志森安排各项生活琐事已感不妥，提醒志森婚外情的最大原因是如嘉丽般失婚，甚至嘉丽的前夫也误会志森二人正在交往。
+
+启超道出　杀人动机
+
+当值护士惊见子安不在病房，世邦和日勤急忙寻找。二人见子安和国威在后楼梯争执，但国威已迅速离开。
+
+启超在晚上遭人毒打，国彬查到启超不久前曾多番与国威联络过……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2644</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.A.Great.Way.To.Care.Ii.E12.1080I.Hdtv.H264-Area11(1)_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

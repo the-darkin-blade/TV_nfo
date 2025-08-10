@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>高纬杀父谋权篡位</title>
+  <originaltitle>高纬杀父谋权篡位</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id>4659273</id>
+  <uniqueid default="false" type="tmdb">1224938</uniqueid>
+  <uniqueid default="false" type="trakt">1235408</uniqueid>
+  <uniqueid default="true" type="tvdb">4659273</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>高长恭与雪舞隐居生活自由自在，高长恭说他隐居是为了让太子有跟更多历练机会。祖珽在朝中力夸太子，高湛却勃然大怒，原来高湛在体察民情的过程中遇到了穷困的百姓，得知了太子卖官鬻爵的事，高湛公然斥责太子荒唐行径，会给齐国带来亡国之祸。高纬不认自己有错，皇上见太子不知悔改，说出废太子的话，他下令急召兰陵王回宫，就宣布传位一事。高纬不满父皇处处将他与兰陵王相比，当他得知父皇传段韶、斛律光进宫商议传位之事，担心父皇将皇位传于兰陵王，决定听从郑儿和祖珽的奸计，先下手为强。几日后，柔然族祭天大典，高纬在使者送来的牲礼沾上麻药，使皇上当场昏厥。高纬抱起父皇入房，命所有大臣留在大殿上。高纬将毒药放入杯中，他犹豫了，毕竟这是自己的父亲。不料此时皇上药性减退醒来，发现太子要杀害自己，痛心大喊要传位于兰陵王，高纬顿时失去理智，拿起一旁的香炉往父皇的头上猛敲，杀死了父皇。此时祖珽拿着皇上传位昭书赶来，高纬才知原来父皇一开始就打算传位给自己，他悔恨不已。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep30_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

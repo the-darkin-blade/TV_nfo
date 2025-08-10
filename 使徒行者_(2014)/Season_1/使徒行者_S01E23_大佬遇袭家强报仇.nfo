@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>大佬遇袭家强报仇</title>
+  <originaltitle>Episode 23</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>5000444</id>
+  <uniqueid default="false" type="tmdb">2171083</uniqueid>
+  <uniqueid default="false" type="trakt">1314996</uniqueid>
+  <uniqueid default="true" type="tvdb">5000444</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>欢喜陪小嘉闲逛时被敌对社团砍伤，结果他一反常态放走凶手，小嘉怀疑此事乃希微所为。卓凯施计拿到学华储存犯罪证据的私人电脑，并抢先学华一步救出羡晴，学华正式通缉二人，卓凯暗中命浩勤破解电脑密码。家强为欢喜报仇后社团地位提升，小嘉借机警告希微不要再对付欢喜。欢喜要带小嘉母女们一起旅行，养母们万分欣喜。浩勤安排羡昕与羡晴通电话互报平安，羡昕感动于爱人的贴心。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2648</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Line.Walker.E23_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 9 集</title>
+  <originaltitle>第 9 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2681176</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>汝南庄尤俊达得到线报，皇纲即将到达二贤庄附近的长叶林。尤俊达立刻下令备好人吗，准备劫皇纲，皇纲即到，程咬金入梦得一仙人指点，斧子耍得出神入化，但醒来之后，却只记住了三招半，尤俊达对程咬金早就不报希望，如今程咬金能练会三招半，已是让他喜出望外。　　单面、单轴奉命接单盈盈回二贤庄，单盈盈因单安之死不敢回去，情急之下哭了起来，罗成上前安慰，这一安慰，化解了二人心中诸多芥蒂。　　比武场上，秦琼迎战，与孙成比试箭术，众人皆知此为刁难，但秦琼泰然自若，几局巧妙设计，使得孙成投降认输。　　武奎、武亮见孙成输掉比赛，秦琼逃脱惩戒，情急之下，武奎跳将出来，要以帅印为赌注，与秦琼比试武艺，实为比武之时暗杀秦琼。　　罗艺无奈应允，秦琼、武奎立下生死状，两人上了比武场。　　武奎、秦琼场上比武，武奎招招杀气十足，秦琼步步退让，武奎出招快狠，岂料最终死在了比武场上，秦琼见武奎已死，大惊，罗艺等人也大惊。武亮愤起要杀秦琼，遭到罗成阻拦，双方立下生死状，武亮自知也拿不下秦琼，只得退让，秦琼等人迅速离场。　　杨林的太保罗方、薛亮押着皇纲走到长叶林附近，罗方疑心前方有险，欲要改道，埋伏中的尤俊达、程咬金等人计划趁他们绕道经过长叶林之时再劫道。正在此时，一群黑衣人闯了出来，劫住罗方、薛亮，双方一场恶战。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2667</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>09_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

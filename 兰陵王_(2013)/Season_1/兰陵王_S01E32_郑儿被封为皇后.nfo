@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>郑儿被封为皇后</title>
+  <originaltitle>郑儿被封为皇后</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id>4659275</id>
+  <uniqueid default="false" type="tmdb">1224940</uniqueid>
+  <uniqueid default="false" type="trakt">1235761</uniqueid>
+  <uniqueid default="true" type="tvdb">4659275</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>郑儿强迫冯小怜喝下毒酒，冯小怜死去。郑儿从此化身宫女冯小怜。很快高纬新纳淑妃——冯小怜，成为皇宫一大喜事。因淑妃身体微恙，特召天女雪舞进宫看病，冯淑妃躺在帘帐垂下的卧床，雪舞看不清样貌，一把脉搏，无任何异象，诊断恐怕是心病缠身。淑妃贴身宫女来报，说是娘娘的金镯子不见了，怀疑是跟雪舞一块进宫的小翠手脚不干净，雪舞相信小翠的清白，请娘娘务必查清真相。小翠自认坦荡，接受搜身，却被搜出金镯，小翠错愕，雪舞为她求情，冯淑妃心慈不予以追究，雪舞谢恩。冯淑妃掀开帘帐，露出真面目，雪舞和小翠愣住了，眼前盈盈而笑的淑妃分明就是郑儿，回到王府，雪舞将郑儿是冯淑妃的事告诉兰陵王。隔日兰陵王进宫向皇上谏言，请求他撤销封小怜为妃的仪式，当下高纬允诺。随后朝廷之上，皇上对满堂文武大臣宣布，要封冯淑妃为皇后，即日举行册封大典，而且他要为皇后盖一座园林，名为仙都苑。兰陵王一听，心生不安。小怜知道皇上高纬对兰陵王一向忌讳，他拥有朝廷众臣信任和百姓的爱戴，若有日有心篡位，必是皇上大劫，小怜献计要皇上一步一步瓦解兰陵王的势力。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep32_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

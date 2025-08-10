@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>启荣公开向瑶珠示爱</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>仁心解码II</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">913753</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>颂恩在水田村的旧居找到梦中见过的月历，在现场环境影响下，亦记得童年时曾躲在床下，又记得曾抱着玩偶奔跑，却不解为何凶手当时没有杀她，反送她到医院。
+
+立仁和志森推断凶手也许患有突发精神分裂，得知颂恩发烧，便起恻隐之心送她到急症室。子安听到事情有进展，但当听到颂恩似乎决心找出当年的凶手，便劝她不要执着。
+
+启荣世邦　被指仇富
+
+富家子弟志健在公路醉酒一案转到精神科，因志健坚称自己患有精神紧张，于是由世邦和启荣负责观察，但志健态度不合作，又因未能得到特别照顾，便指博安医院医生的仇富，他们撰写的报告不能尽信。立仁虽及时出面摆平事件，但已引起传媒关注。
+
+立仁知道慧翘患上老花眼，在帮她调校电脑荧幕时却不慎扭伤腰部，反要慧翘送他回家和替他涂药油。立仁为答谢她煮面给她吃，二人又一同看球赛。立仁见慧翘十分投入，甚至逻辑尽失，不禁失笑。
+
+思家到启荣家经营的面店帮忙，家人已视她如媳妇。世邦来到面店，称自己失恋，因拍到日勤已与一直暗恋的慧敏在一起，但启荣知道日勤正与瑶珠交往，代表日勤正一脚踏两船，于是便急约日勤出来说清楚。
+
+瑶珠患癌　启荣相伴
+
+日勤表示已与瑶珠和平分手，但启荣仍担心瑶珠，便到诊所找她，几番转折下才知道瑶珠正在别间诊所求诊。瑶珠道出分手原因是她患有乳癌，这亦是与前男友分手原因，导致她不忿男人只凭外表判断女人。
+
+启荣只好尽量安慰她，但瑶珠检查身体后知情况不乐观，便拜托启荣在她出事后要代为照顾兄长瑶星。启荣为哄瑶珠开心，便陪她逛街，更送她名贵耳环。看到街头表演时，启荣又凭歌寄意，冲动下公开向瑶珠示爱。
+
+另一边厢，思家一直在面店等待启荣，期间又追问荣父有关启荣瑶珠的交情。启荣回来向思家坦白送了名贵耳环给瑶珠，又紧张电脑上瑶珠的专栏有没有被删。
+
+觅得线索　锁定真凶
+
+慧翘在儿童病房用魔术哄倩莹开心，但在场的男护士同样表演魔术，却惹得倩莹有惊恐反应。慧翘跟进伟雄情况，发现他连基本问题也无法如实作答。立仁认为伟雄患「复制错忆」，导致「顺行性遗忘」，只会重复即时接收到的讯息，加上指骨有关节炎，不可能握军刀杀人。
+
+立仁推断倩莹怕的不是伟雄本人，而是他手中的军刀。警方追查到郭家珠宝被拿去变卖，但伟雄一直在医院不可能是凶手……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2647</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.A.Great.Way.To.Care.Ii.E17.1080I.Hdtv.H264-Area11(1)_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

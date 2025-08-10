@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>傲天提议三铿转型</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490904</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>时间回到三十年代，傲天追问日良有关赌牌的进展，日良解释是蒋委员长未有指示，要再耐心等待。韩立与傲天私下把酒谈天，韩立说日良总是打官腔。小楼在傲天家中作客，月兰与美琴劝她再踏台板，小楼怕名声不及当年。
+
+文彬假借父亲病危，约见小楼，求她不要离开自己。傲天检查公司数簿时，突然对瀚林说想成立戏班，瀚林指不知道戏班如何运作，傲天吩咐他去询问一下。
+
+啸山有意 巴结日良
+
+小楼见过文彬之后，终日闷闷不乐。月兰探望她，安抚她做人最重要开心。小楼赞月兰凡事从容面对，是傲天之福。月兰告知小楼，傲天已出资成立戏班，由月兰做班主，邀请小楼演出。兆匡与婷婷看完映画戏后，在戏院外见有人被打。婷婷欲出手相助，但兆匡阻止。
+
+国栋的纱厂生意一落千丈，决定把公司关闭，兆匡提议找傲天相助，国栋指不能再打扰他。
+
+啸山的赌场生意每况愈下，但赌牌仍未到手，啸山想用自己的方法处理这件事。手下汇报，啸山获得日良接见。啸山看上日良的军权，对其阿谀奉承，愿意全心为日良办事。日良甚喜，指他想要一批法国红酒，啸山答应帮忙。
+
+文彬不准 小楼演出
+
+傲天约见兆匡与敬泉，想知道有甚么正行生意可做，兆匡建议开办银行。瀚林提起国栋的纱厂受日本人影响即将倒闭，傲天知道纱厂是国栋多年心血，关闭实在可惜。
+
+傲天送小楼到八方会馆，但中途坏车，他们边走边谈，傲天觉得小楼对演出仍有顾虑。小楼把开戏的事告知文彬，文彬亦表示支持，并想亲自约见傲天。文彬指外界有很多流言蜚语，而且他怕会影响到小楼的声誉，但傲天坦言只要小楼愿意演出，他都会继续支持。
+
+文彬与小楼回到家中，文彬指傲天以前售卖鸦片，若小楼真的与傲天合作，会影响文彬的声誉。文彬斥令小楼立即婉拒演出，并与月兰绝交。敬泉告知傲天，除逸庆外，其他银行家都反对他开银行，主要是顾忌傲天的黑帮背景，而同一时间，小楼亦向傲天婉拒演出。
+
+傲天创业 一较高下
+
+傲天决定注资国栋的纱厂，欲与日本人一较高下，并且要证明上海人做生意比日本人好。金棠、啸山与傲天开会，他们不满傲天负责申请的赌牌仍未获批。傲天表示新政府不会发赌牌，所以要做实业，由纱厂做起，但金棠与啸山都表示对经营纱厂没有兴趣。
+
+百乐门的生意一落千丈，要靠向傲天借钱来发薪，桂生仍然不知所终。金棠见绮红放弃在百乐门表演，相当烦恼……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep11.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

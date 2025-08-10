@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>叛逃</title>
+  <originaltitle>叛逃</originaltitle>
+  <showtitle>叛逃</showtitle>
+  <sorttitle/>
+  <year>2014</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>2</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>《叛逃》由陈展鹏、吴卓羲、蒙嘉慧、陈茵媺领衔主演。香港作为国际大都会，随时有可能会受到恐怖袭击。为了防止境内可能出现的恐怖活动，反恐特勤队于2009年成立。成员全由警队内部招募，是精英中的精英，既有高智能重装部队的新鲜感，又有纪律部队的男儿豪情气概。多名来自SDU、PTU、ASU、G4和重案组等不同部门的精英，经过严格筛选，成功考入特勤队，接受密集式训练，包括、射击、体能、爆炸品处理、枪械等，成为世界级水平的重装精锐部队，反恐特勤队。众人由训练到任务行动。面对不同案件及危机处理，由误会到了解，建立同胞间的信赖及友谊，刻划出一段段队员间出生入死、肝胆相照的动人故事。</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"39564","imdb":"tt6611264","tvdb":"279583"}</episodeguide>
+  <id>279583</id>
+  <imdbid>tt6611264</imdbid>
+  <tmdbid>39564</tmdbid>
+  <uniqueid default="false" type="tmdb">39564</uniqueid>
+  <uniqueid default="false" type="imdb">tt6611264</uniqueid>
+  <uniqueid default="true" type="tvdb">279583</uniqueid>
+  <premiered>2014-03-17</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Drama</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <tag>police</tag>
+  <tag>elite forces</tag>
+  <actor>
+    <name>吴卓羲</name>
+    <role>Alfred Chong Yau-kit</role>
+    <profile>https://www.themoviedb.org/person/1222249</profile>
+    <tmdbid>1222249</tmdbid>
+  </actor>
+  <actor>
+    <name>陈展鹏</name>
+    <role>Carson Chong Yau-ching</role>
+    <profile>https://www.themoviedb.org/person/1238985</profile>
+    <tmdbid>1238985</tmdbid>
+  </actor>
+  <actor>
+    <name>蒙嘉慧</name>
+    <role>Yip Ting</role>
+    <profile>https://www.themoviedb.org/person/25248</profile>
+    <tmdbid>25248</tmdbid>
+  </actor>
+  <actor>
+    <name>陈茵媺</name>
+    <role>Jessica Chung Yat-ka</role>
+    <profile>https://www.themoviedb.org/person/1566076</profile>
+    <tmdbid>1566076</tmdbid>
+  </actor>
+  <actor>
+    <name>李司棋</name>
+    <role>Tong Suk-fan</role>
+    <profile>https://www.themoviedb.org/person/1587473</profile>
+    <tmdbid>1587473</tmdbid>
+  </actor>
+  <actor>
+    <name>关礼杰</name>
+    <role>Steven Shum Chi-ngo</role>
+    <profile>https://www.themoviedb.org/person/1276972</profile>
+    <tmdbid>1276972</tmdbid>
+  </actor>
+  <actor>
+    <name>黎诺懿</name>
+    <role>Fu Wang-leung</role>
+    <profile>https://www.themoviedb.org/person/112986</profile>
+    <tmdbid>112986</tmdbid>
+  </actor>
+  <actor>
+    <name>黄德斌</name>
+    <role>Ko Wai</role>
+    <profile>https://www.themoviedb.org/person/70108</profile>
+    <tmdbid>70108</tmdbid>
+  </actor>
+  <actor>
+    <name>罗乐林</name>
+    <role>Kiu Kim-hang</role>
+    <profile>https://www.themoviedb.org/person/1191924</profile>
+    <tmdbid>1191924</tmdbid>
+  </actor>
+  <actor>
+    <name>杨秀惠</name>
+    <role>Yeung Lok-man</role>
+    <profile>https://www.themoviedb.org/person/1240093</profile>
+    <tmdbid>1240093</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

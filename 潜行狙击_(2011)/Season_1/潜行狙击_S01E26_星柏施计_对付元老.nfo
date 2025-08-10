@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>星柏施计 对付元老</title>
+  <originaltitle>Episode 26</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id>4163915</id>
+  <uniqueid default="false" type="tmdb">2298784</uniqueid>
+  <uniqueid default="false" type="trakt">1644071</uniqueid>
+  <uniqueid default="true" type="tvdb">4163915</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>星柏成功指控笑棠为卧底，凭欧洲毒品来源击败笑棠，登上义丰社团坐馆之位。星柏计划将社团生意国际化，与以太会合作试水香港毒品市场。司徒凯伤愈后向家培汇报，家培安排他脱离卧底行动并争取减刑。心凌劝立青回头是岸，但立青难以启齿。星柏入股高级餐厅，提议发放款项安置老叔父，实则淘汰旧高层。笑棠挑拨众人，与星柏对立。君岚在新公司表现出色，获老板赞赏。家培告知笑棠星柏可能购入大批毒品，两人计划利用笑棠助星柏顺利提取货物，再人赃并获。社团损失惨重，星柏安抚众人并承担损失，后求助于笑棠以确保毒品安全到港。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2694</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E26.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

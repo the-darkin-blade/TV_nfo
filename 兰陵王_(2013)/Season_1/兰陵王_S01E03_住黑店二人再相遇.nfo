@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>住黑店二人再相遇</title>
+  <originaltitle>住黑店二人再相遇</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>4658524</id>
+  <uniqueid default="false" type="tmdb">1224911</uniqueid>
+  <uniqueid default="false" type="trakt">1231446</uniqueid>
+  <uniqueid default="true" type="tvdb">4658524</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>为了救回须达，兰陵王必须想法设法混入周国。而身在白山村的雪舞尽管得知自己终究不能和四爷在一起，却看到了四爷遗忘的战神面具。雪舞心里牵挂着四爷，决定将面具送回给他。寻找四爷的路途中，涉世未深的雪舞因为识人不清遭到讹诈。来自贱民村的小混混韩晓冬帮雪舞解了围。雪舞本以为韩晓东是个好人，不料韩晓冬却反将一军将雪舞卖入黑店花楼。被困在花楼中的雪舞用机智聪明让其他姑娘脱险，自己却身陷险境。店家要拿雪舞杀鸡儆猴，千钧一发之际，有客人来到寻找姑娘，店家虽不满意但也只能拿雪舞交货。当雪舞被带到客人跟前才发现所谓的客人竟是四爷，雪舞简直不敢相信那个几日前救了她、还接受她衿带、为她出气的四爷竟是一个买女人的禽兽。雪舞哀叹自己遇人不淑。四爷却告诉她，他需要如同雪舞一样正直聪慧的女子，一同协助扮装前往周国救他兄弟，雪舞答应下来。而当四爷告诉雪舞她要做的就是和自己成亲时，雪舞顿时傻了眼。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep03_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

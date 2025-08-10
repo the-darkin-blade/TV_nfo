@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>酒醉金棠侵犯芷贞</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490912</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>与流氓经过一轮厮杀后，傲天大胜，镇岳誓言报仇。
+
+洋服店派来另一个小师父，他为金棠度身时竟想暗杀他。之后阿添查到傲天杀死的人中有镇岳的结拜兄弟，金棠打算静观其变，桂生劝金棠一定要斩草除根，把镇岳连根拔起。金棠不听其劝告，并叮嘱她以后不要在手下面前提出相反意见。桂生决定杀镇岳，并叫手下留意他的一举一动，她的表弟想藉此立功，桂生不准。
+
+桂生表弟 惨被枪杀
+
+桂生约镇岳见面，镇岳手下劝他小心为上，但镇岳却看不起桂生。桂生临出门前，遭到傲天阻止。镇岳到达见面的地方，桂生表弟已乔装成侍应欲刺杀镇岳。
+
+金棠知道桂生表弟已死，桂生指表弟是为他而牺牲，但金棠指与他无关。桂生气愤，金棠叫她小心动胎气，这时桂生才告知腹中真相。金棠竟埋怨桂生以前的职业，令她不能生育。百乐门试业，沃利玩得非常尽兴。傲天到达后听金棠发牢骚，再扶饮醉的金棠回家。
+
+芷晶为金棠抹身时，酒醉中的金棠竟侵犯芷晶，芷晶冲出房间激动地欲自杀，却被他人阻止。桂生对此事相当自责，劝芷晶要珍惜生命。芷晶不想留在翟宅，桂生拜托傲天为她找一户好人家。
+
+金棠努力 修补关系
+
+金棠对此事全无悔意，并把责任推在桂生身上。傲天终安排芷晶到美琴家暂住，并陪芷晶回乡下嫁人，文龙得知后欲冲去车站，向傲天追问芷晶去向，傲天只能安慰他。
+
+傲天拿账簿给桂生，桂生在花园望见刚凋谢的花，慨叹自己的身世，傲天无言以对。桂生多日来在花园静思不见金棠，金棠认为芷晶只是下人，不明白桂生为何会愤怒。
+
+傲天指桂生为金棠的缘故，曾想单独对付镇岳，幸好众兄弟阻止她。金棠大感惊讶，想与桂生修复关系。傲天安排金棠与桂生在花园相遇，金棠恳求桂生原谅，并把所有财产交给她，桂生终被金棠的真诚打动。
+
+绮红成功 迷倒金棠
+
+傲天发现镇岳有过百箱鸦片将会运往北方，想趁鸦片经徐州时，把整批鸦片抢回来，但金棠指徐州是周大帅地盘，没能力对抗整支军队。
+
+金棠在百乐门招呼沃利，沃利非常满意。突然，他被台上歌声所吸引，后来得知歌声是由绮红代唱。桂生设宴请众兄弟狂欢，众人都受过桂生恩惠，愿为她赴汤蹈火。当桂生欲结账时，发现傲天早已付清。
+
+金棠约见绮红，想她继续留在百乐门，但绮红指要回杭州老家。金棠提出要去杭州开会，傲天找金棠，但发现金棠不在……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2666</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep19.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>叶婷发现遭乐敏监视</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>4840184</id>
+  <uniqueid default="false" type="tmdb">1984080</uniqueid>
+  <uniqueid default="false" type="trakt">1274056</uniqueid>
+  <uniqueid default="true" type="tvdb">4840184</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>叶婷得知乐敏隐瞒自己滥药后，便找乐敏对质，终令乐敏承认自己滥药，并告知叶婷自己不会再犯，但此事已勾起了叶婷对乐敏的疑心。
+
+叶婷发现自己的手提电脑出现故障，便找其骇客朋友帮忙修理，竟发现电脑正被骇客程式侵袭，而攻击叶婷电脑的人正身处乐敏的家。叶婷乘乐敏不为意的时候在她的电话中加装偷听器，才因此发现原来乐敏一直遵从剑亨的命令监视自己。
+
+阴谋被揭　剑亨病发
+
+剑亨原来与Edmond有秘密的合作关系，而乐敏是剑亨用来监视Edmond及叶婷的间谍。叶婷得知幕后黑手是剑亨后便决定与之对质。
+
+叶婷独自回家后故意将手机给乐敏查看，令乐敏发现剑亨竟打算出卖自己，一气之下便跑到剑亨的家与之对质，此时乐敏才惊觉自己中了叶婷的计。
+
+叶婷揭穿剑亨的真面目后伤心欲绝，而剑亨也因受到打击而心脏病发，叶婷不忍见剑亨痛苦，便报警将剑亨送院治理。
+
+日嘉幸福　有杰不快
+
+叶婷回家后冷静情绪，并决定要彻查自己亲生父亲死亡的真相。为了完成计划，叶婷便决定放弃留学，并留在剑亨身边继续为组织工作。乐敏事后亦向叶婷坦白一切，但叶婷却没有因此原谅乐敏。
+
+另一方面，有正带日嘉回家与淑芬见面，淑芬一见未来媳妇便感到相当高兴，反观有杰却显然感到心事重重，眼见有正与日嘉眉来眼去，一脸幸福的样子，令有杰更感到不是味儿。
+
+车站避雨　单独相处
+
+有杰自从知道日嘉与有正拍拖后，便开始变得孤僻，就算行动组的同僚邀约也不为所动。
+
+一天有杰发现日嘉因为车胎爆裂而被困路中，便出手帮助日嘉，此时下了一场大雨，有杰及日嘉惟有跑到车站避雨，造就了有杰与日嘉独处的机会。
+
+野鸟发狂　淑芬受袭
+
+香港各地发生多宗禽鸟突然死亡的事故，令市民皆感人心徨徨，甚至有人认为是世界末日的先兆，但仁美却感到事件可能与生化恐袭有关。淑芬在户外工作时，突然被发狂的野鸟袭击需要送院治疗，有正闻言后即与正杰一起赶到医院探望。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1333</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Ruse.Of.Engagement.E10.20140328.1080I.【高清帝国hdk-Www.52Hdking.Com】_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Ruse Of Engagement 20140328 【高清帝国hdk Www 52Hdking Com】 qsv av1</title>
+  <originaltitle/>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>328</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1333</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Ruse.Of.Engagement.E10.20140328.1080I.【高清帝国hdk-Www.52Hdking.Com】_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="328" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

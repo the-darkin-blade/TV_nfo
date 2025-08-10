@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:30:40 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 3 集</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>秀才遇着兵</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>5090448</id>
+  <uniqueid default="false" type="tmdb">284457</uniqueid>
+  <uniqueid default="false" type="tvrage">477170</uniqueid>
+  <uniqueid default="false" type="trakt">1541855</uniqueid>
+  <uniqueid default="true" type="tvdb">5090448</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>新县令即将上任，史师爷要粉饰太平，么公要各摊档暂停营业，惹来村民怨声载道！东楼发现义妹有一个木刻，与当年自己的救命恩人所赠的一样，向义妹打听木刻来历，希望找出恩人报恩。义妹告诉母亲，东楼怀疑她就是当年江湖有名的侠盗飞鹰；金英隐姓埋名多年，连女儿也不知其身份，决定谂计瞒过东楼。
+
+史师爷对东楼敌意未消，誓要他在良才县消失以除后顾之忧。么公夥同毛、士、生、非当街捉着东楼，讹称要整顿县内人口，说东楼没有户籍要立即递解出境，硬把他送往渡头，各人轮流把他拳打脚踢，争取最后机会消消气，可怜东楼被打得头破血流遍体鳞伤，无奈就此被搁在小舟上被送走。鲁大人收到公文，接纳他告病归田，而新任县令将提前到任，县令原来就是水东楼！
+
+众人顿时大惊，更怕变成误杀县令的凶手，立即折返渡头，却遍寻不获，原来祥泉把他救了。突然，东楼在衙门出现，各人已知他身份，跪地认错求饶，东楼亦说既往不究，同时命令安排清点衙门上下各项物资，以便新旧县令正式交接。
+
+各人立即出尽法宝，于一晚之内交回私自挪用的家俬椅桌珠宝古董等，东楼亦趁机助义妹复职。史师爷想要抗衡东楼，讹称要为东楼摆官威，为他大排宴席，完事后竟说全是官衙上下为他垫支使费，陷他变成各人债仔要胁签债据，东楼被吓得晕倒当场。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2585</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Gentle.Crackdown.E03.Hdtv.1080I.H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

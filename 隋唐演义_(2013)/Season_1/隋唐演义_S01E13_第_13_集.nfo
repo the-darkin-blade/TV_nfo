@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 13 集</title>
+  <originaltitle>第 13 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783836</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>秦琼带着单盈盈、罗士信、罗成回到家中，和母亲一番团聚，罗士信认秦母为娘，秦母甚是高兴。　　宇文成都得知玉郡主被父亲宇文化及所派之人抓到关进监牢，便去探望，玉郡主一口咬定是宇文成都将自己出卖，宇文成都解释无用，伺机将玉郡主救出牢外被宇文化及当场发现，宇文化及为了让宇文成都死心，故意将玉郡主放了出去，宇文成都答应宇文化及从此以后不再和玉郡主有瓜葛。　　单盈盈和罗士信在秦母家过得不亦乐乎，罗成和秦琼则去拜访唐璧，以谋求一官职，无奈唐璧并不掌权，真正掌权是徕乎尔傲慢无礼，专横跋扈，挑衅秦琼，罗成、秦琼无奈迎战，正当徕乎尔要战罗成之时，罗士信在家等不及来找秦琼，见到徕乎尔欺负秦琼，上来就和徕乎尔一阵打斗，将徕乎尔气焰打消下去。徕乎尔不敢再跋扈，秦琼顺利当上了旗牌长。　　秦琼当上四品旗牌长，第一件官差就是要押送贺礼，送往越王杨素府上，秦琼辞别母亲，罗成也辞别舅母回往北平府，便和秦琼一同上路。　　后宫中，萧美娘故作乖巧，讨好独孤皇后，得到独孤好感，独孤皇后病重，自知时日无多，临终前，独孤皇后依然牵挂着杨勇，文帝对杨勇无甚好感，独孤皇后作为一位母亲，对杨勇依旧诸多牵挂，她恳求杨广，在登基之日，赦免杨勇，杨广答应了独孤遗嘱。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2637</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>13_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

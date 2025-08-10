@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>隋唐演义</title>
+  <originaltitle>隋唐演义</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <sorttitle/>
+  <year>2013</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>7.0</value>
+      <votes>3</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>北齐名将之后秦琼，自小与程咬金一起长大，凭借一身武功被官府提拔为下级小官，某日秦琼遇到李渊被太子杨广截杀，单枪匹马救出了李渊全家。来到潞州不得不靠卖马维持生计，幸亏老板娘深明大义暗中接济。程咬金在长叶林劫夺了杨林十六万两银子皇杠。秦母大寿当天程咬金被抓，为搭救程咬金，贾柳店结拜的众兄弟策划造反劫狱，机缘巧合程咬金做了瓦岗寨的混世魔王。隋炀帝去扬州看琼花，瓦岗寨联合其他起义军汇聚在四明山意图杀死隋炀帝推翻隋朝。李世民借机跑回太原，并起兵造反。李密逃到瓦岗被众人拥戴为主。李世民夜探瓦岗寨被程咬金抓获，李密欲杀李世民，被秦琼劝阻，并乘机放了李世民。在秦琼等的帮助下，李世民在玄武门一战清除异己成为唐太宗，开创了贞观之治。</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"107682"}</episodeguide>
+  <id/>
+  <imdbid/>
+  <tmdbid>107682</tmdbid>
+  <uniqueid default="true" type="tmdb">107682</uniqueid>
+  <premiered>2013-01-14</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Crime</genre>
+  <studio>Dragon Television</studio>
+  <country>中国</country>
+  <actor>
+    <name>严屹宽</name>
+    <role>Qin Qiong</role>
+    <profile>https://www.themoviedb.org/person/1407599</profile>
+    <tmdbid>1407599</tmdbid>
+  </actor>
+  <actor>
+    <name>白冰</name>
+    <role>Xiao Meiniang</role>
+    <profile>https://www.themoviedb.org/person/1018707</profile>
+    <tmdbid>1018707</tmdbid>
+  </actor>
+  <actor>
+    <name>富大龙</name>
+    <role>Emperor Yang Guang</role>
+    <profile>https://www.themoviedb.org/person/1412414</profile>
+    <tmdbid>1412414</tmdbid>
+  </actor>
+  <actor>
+    <name>姜武</name>
+    <role>Cheng Yaojin</role>
+    <profile>https://www.themoviedb.org/person/15170</profile>
+    <tmdbid>15170</tmdbid>
+  </actor>
+  <actor>
+    <name>王宝强</name>
+    <role>Li Yuanba</role>
+    <profile>https://www.themoviedb.org/person/71051</profile>
+    <tmdbid>71051</tmdbid>
+  </actor>
+  <actor>
+    <name>王建新</name>
+    <role>Luo Yi</role>
+    <profile>https://www.themoviedb.org/person/3153859</profile>
+    <tmdbid>3153859</tmdbid>
+  </actor>
+  <actor>
+    <name>张翰</name>
+    <role>Luo Cheng</role>
+    <profile>https://www.themoviedb.org/person/1539662</profile>
+    <tmdbid>1539662</tmdbid>
+  </actor>
+  <actor>
+    <name>王力可</name>
+    <role>Yang Yu'er</role>
+    <profile>https://www.themoviedb.org/person/2309135</profile>
+    <tmdbid>2309135</tmdbid>
+  </actor>
+  <actor>
+    <name>刘萌萌</name>
+    <role>Princess Qionghua</role>
+    <profile>https://www.themoviedb.org/person/2318502</profile>
+    <tmdbid>2318502</tmdbid>
+  </actor>
+  <actor>
+    <name>杜淳</name>
+    <role>Li Shimin</role>
+    <profile>https://www.themoviedb.org/person/1110539</profile>
+    <tmdbid>1110539</tmdbid>
+  </actor>
+  <actor>
+    <name>徐少强</name>
+    <role>Yuwen Huaji</role>
+    <profile>https://www.themoviedb.org/person/70674</profile>
+    <tmdbid>70674</tmdbid>
+  </actor>
+  <actor>
+    <name>汤镇业</name>
+    <role>Yang Jian</role>
+    <profile>https://www.themoviedb.org/person/1254216</profile>
+    <tmdbid>1254216</tmdbid>
+  </actor>
+  <actor>
+    <name>唐艺昕</name>
+    <role>Shan Yingying</role>
+    <profile>https://www.themoviedb.org/person/1539646</profile>
+    <tmdbid>1539646</tmdbid>
+  </actor>
+  <actor>
+    <name>寇振海</name>
+    <role>Li Yuan</role>
+    <profile>https://www.themoviedb.org/person/108832</profile>
+    <tmdbid>108832</tmdbid>
+  </actor>
+  <actor>
+    <name>斯琴高娃</name>
+    <role>Cheng Moshi</role>
+    <profile>https://www.themoviedb.org/person/1118783</profile>
+    <tmdbid>1118783</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

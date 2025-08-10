@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:31:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>雅蕾撞破上升爱嘉恋情</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>再战明天</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>5024063</id>
+  <uniqueid default="false" type="tmdb">3236331</uniqueid>
+  <uniqueid default="false" type="trakt">1324357</uniqueid>
+  <uniqueid default="true" type="tvdb">5024063</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>正桥为了向学员灌输良好的品格和纪律，作出的训练愈来愈严格，除了监控学员在宿舍的生活外，更在训练时向学员施以胡椒喷雾。正桥的举动虽令一众学员心感不满，但众人皆惧怕正桥的权威，没有人敢提出反对。  上升与爱嘉在街上结伴同行，并细心安排晚上的每个行程，两人的温馨浪漫羡煞旁人，殊不知刚好雅蕾乘车经过，因而撞破了上升和爱嘉的恋情，雅蕾见上升终于找到伴侣，心中不禁感到高兴。  探望立桂　上升感慨  大成是赤柱监狱中的一名终身囚犯，同时亦在监狱中从事赌博生意，一次意外被上升发现大成的赌博纪录。囚犯继仁见大成事败，强行喝下一支洗发水以求在狱中制造混乱，上升见继仁口吐白沬，惟有暂停了对大成的调查。  上升回到办公室，知悉一众同事在立桂的私人物品中发现一本笔记，里面记载着同事入职时的小故事，上升深受感动，独自到拘留所探望立桂。成为阶下囚的立桂亦对自己所作所为后悔不已，上升也对立桂的遭遇感到同情及可惜。  上升不满　恋情公开  上升受邀来到雅蕾的餐厅，却发现爱嘉联同一众朋友为他举办生日派对，令上升大感惊喜。由于雅蕾因不知道内情，竟在派对上公开了上升与爱嘉的情侣关系，上升闻言后大感紧张，并以为是爱嘉将秘密告知雅蕾。  爱嘉感到受委屈，独自离开了人群，上升才知道自己错怪了爱嘉。伟晋亦有参与上升的生日派对，并与雅蕾的关系愈来愈亲昵，春光看在眼内亦感到不是味儿。  好好重遇　昔日好友  好好在餐厅洗碗以筹集生活费，突然听到后巷传来打斗声，在好奇心驱使下上前查看，竟重遇自己当年在按摩店工作时所认识的朋友，两人寒暄两句后便互相交换电话道别。
+
+春光正好前来探望好好，见好好重遇昔日好友，劝告她切勿再与三教九流的人接触，以免再次误入歧途。
+
+春光与好好分别后，便到一寿司店探望另一名释囚，春光察觉到店家的态度有异，便在离开店后暗中折返，因而揭穿了释囚的骗局，并阻止释囚旷工与坏分子见面。
+
+春光误会　好好贩毒  伟晋与雅蕾经常见面，两人互相欣赏，感情突飞猛进。时伟晋突然收到春光的求救电话，伟晋与雅蕾即赶到现场了解，只见国沾在游戏机中心被警察包围，看来又再次犯下罪行。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.再戰明天.E12.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

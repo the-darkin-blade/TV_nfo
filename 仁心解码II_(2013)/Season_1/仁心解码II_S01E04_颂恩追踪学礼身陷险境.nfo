@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>颂恩追踪学礼身陷险境</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>仁心解码II</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">913774</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>世均送院救治后无大恙，而他作供指正是被学礼所伤，更称学礼已被恶魔附体。立仁、国彬、慧翘一同商讨案情，三人同意学礼已康复，亦有动机袭击世均，但认为世均特意伪造证供，以嫁祸学礼杀芮之。他们推断学礼会再找世均，要求警方加强保安留意世均。
+
+医院有病人受末日论影响袭击女护士兆儿，幸得启荣智急英雄救美，令兆儿向他投怀送抱，但此举惹来世邦和日勤嫉妒。三人回到办公室，看见思家收到玫瑰花，又与男友甜蜜对话，启荣表现难过，立仁以「明日若是世界末日」的心理测验，试出启荣失恋。
+
+慧翘立仁　追查学礼
+
+慧翘和立仁在医院内搜集学礼失踪前的线索，发现他在电视播放财经时段时必定观看节目，「2025」的数字密码其实是股票号码，而早前从枕头发现的纸条则是股票的行情。应奇又发现到，平日学礼会定期向他纵火连累的生果摊订购贵价生果，所以有可能再联络档主尧祖。
+
+应奇承认学礼思路清晰，已完全康复，希望自己能将功补过。立仁将调查成果通知国彬，国彬调查后得知学礼曾在两日前光顾生果摊，但生果摊将结束营业，认定学礼会再找尧祖。
+
+瑶珠上任　即显功力
+
+立信前往诊所找志森，原来淑宜已签纸离婚，但立信仍希望能挽救婚姻。志森得知后只有安慰他，指淑宜笃信盖亚教后已非昔日的贤妻。
+
+瑶珠正式到诊所上班，已需面对棘手病患。病人Frankie患情绪病，源于爱在街上执拾胶袋和垃圾的母亲，瑶珠向他坦言其压力来自母亲的精神病，所以不应逃避，要多关心母亲的病情。另一方面，瑶珠不知自己被暗中跟踪，对方更会速写绘画她的生活情况。
+
+启荣瑶珠　冤家聚头
+
+立仁和志森知道启荣失恋，都劝他早日面对处理自己情绪，志森更把瑶珠的着作送给启荣，把这位诊所的新医生介绍给他认识，想不到启荣马上说瑶珠的不是，原来启荣早在求学时期与瑶珠结下恩怨。启荣家经营面店，因此启荣在假日帮忙送外卖，恰巧外卖地点正是瑶珠的戏剧工作坊，两位冤家再次聚头，只有份外眼红，两人提起往事又再争吵不休。这时瑶珠兄长瑶星及时出面保护妹妹，启荣与瑶星素有交情，知道他有自闭倾向，答应送他回家。
+
+学礼现身　透露秘密
+
+警方估计错误，学礼在投资股票赚钱后再无于生果摊出现，而尧祖检查银行帐户竟发现户口多了一笔巨额金钱……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2647</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.A.Great.Way.To.Care.Ii.E04.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

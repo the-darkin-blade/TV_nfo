@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>杨雪舞重返白山村</title>
+  <originaltitle>杨雪舞重返白山村</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id>4659270</id>
+  <uniqueid default="false" type="tmdb">1224935</uniqueid>
+  <uniqueid default="false" type="trakt">1234983</uniqueid>
+  <uniqueid default="true" type="tvdb">4659270</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宇文邕在山林间守护雪舞，雪舞想起了家乡，宇文邕陪她一同回到白山村，不料看见的却是一座死城。心爱的奶奶不见了，陪伴她的虾蟆招财、进宝不见了，连总是跟她斗嘴吵架的儿时玩伴，也通通都消失了。雪舞看到奶奶的坟冢，才知道疼爱她的奶奶已经离开人世，雪舞掩面而泣。雪舞在屋里发现一个锦囊，里面是奶奶写给她的信，心中奶奶告诉雪舞她始终以雪舞为骄傲。宇文邕鼓舞雪舞，告诉她应当完成奶奶的心愿，帮助所有需要帮助的人，别再难过，雪舞重新振作起来。宇文邕答应雪舞如果到了周国，他会为雪舞建造一座一模一样的白山村，让雪舞十分感动。高长恭等人策马狂奔赶来，居然见到宇文邕牵着雪舞的手，一脸深情款款，高长恭大发雷霆。宇文邕见了高长恭也很恼怒，两人打作一团。没想到马贼不知何时挣脱绳索，来到雪舞的身后，将锋利的弯刀架在雪舞颈项，而杨士深和其他齐军也被马贼给押制住，动弹不得。高长恭和宇文邕合力抗贼，随后周军出现拿下马贼。雪舞回到了高长恭身边，长恭说他已经知道真相，恳求到雪舞原谅。宇文邕转身离开。待宇文邕离去后，尾随的高纬找到兰陵王等人的行踪，不顾长恭反对，放火杀了马贼。剿匪一事，让高长恭与高纬之间的嫌隙加深，也让雪舞深感隐隐不安。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep27_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

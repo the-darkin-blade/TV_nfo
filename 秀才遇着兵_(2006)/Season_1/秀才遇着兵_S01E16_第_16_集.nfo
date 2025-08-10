@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:30:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 16 集</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>秀才遇着兵</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>5090461</id>
+  <uniqueid default="false" type="tmdb">284470</uniqueid>
+  <uniqueid default="false" type="tvrage">477183</uniqueid>
+  <uniqueid default="false" type="trakt">1541916</uniqueid>
+  <uniqueid default="true" type="tvdb">5090461</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>京中大臣联名上告朝庭，东楼闪电破案，功加三级；万太保命他接手陈年失窃案，当年天竺国与大明国结盟，为表诚意把「养生宝典」借给明国三十年；但宝典在宫中失窃下落不明，现归还在即，钦点南北名捕肃天南及乔振北联袂找寻宝典。
+
+东楼向义妹表白，说回良才县后便向拾义妈提亲，他并向万太保推掉婚约，丽君不能接受，以死相胁，万太保唯有将她击晕。万太保有要事要离京一趟，命东楼好好照顾丽君，万事待他回来再说。丽君醒来，为求与东楼成亲，竟命人封锁太保府软禁他！
+
+大婚当晚，东楼宁死不从，与丽君对峙，义妹听闻两人成亲，冲动大闹太保府，丽君即以硬闯太保府、盗取机密之罪诬告义妹威胁东楼，东楼无奈就范与义妹划清界线，义妹误会他贪慕权贵，含泪离去！史师爷暗助安儿入读贵族私塾，大毛说史师爷一定是爱屋及乌，秀姑藉送汤打探他的心意，岂料他说安儿令他感同身受才决心栽培，秀姑失望而回。
+
+东楼找义妹去菩提寺查案，义妹公事公办，令他难受。丽君仍仇视义妹，威胁小和尚骗义妹到菩提寺企图下毒手，东楼赶到时义妹已喝了毒茶，丽君不肯交出解药，东楼唯有喝毒茶以死相随！岂料小和尚误把毒茶对调，丽君毒发面容肿胀！万大人返回京城召见两人。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1072</height>
+        <durationinseconds>2589</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Gentle.Crackdown.E16.Hdtv.1080I.H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

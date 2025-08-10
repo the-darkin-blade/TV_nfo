@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>傲天阻啸山杀俊杰</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1510455</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>三十年代上海新政府成立，城区被划分为华界、公共租界及法租界；其中法租界由上海三大亨创立的三铿公司垄断大部份鸦片生意，雄霸一方。
+
+烟民朱俊杰因为偷鸦片被睇场刀疤打至重伤，俊杰父亲朱启华为救亲儿却被斩死。刚巧举行禁烟游行的学生经过，他们亦加入混战，更有学生放火烧鸦片。三铿公司的大亨之一乔傲天知道鸦片被销毁却不愤怒，反而下令放走学生；但当麦瀚林说启华已死，傲天眼泛泪光。
+
+啸山不满 金棠行动
+
+翟金棠是法租界第一位华人督察长，因他刚捣破爆窃党而受到传媒争相采访。总监费沃利回警察厅时见金棠占去他的泊车位，即叫金棠把车驶开，但遭金棠高傲地拒绝。
+
+金棠下令把杀人的刀疤拘捕，但刀疤是另一大亨龚啸山的手下。金棠手下怕啸山不高兴，金棠偏要啸山明白杀人填命的道理。啸山知道金棠拘捕刀疤之事极为不满，并对傲天坦言要与金棠誓不两立。傲天找金棠商讨，把被销毁的鸦片算在自己身上，但金棠却命人烧毁整间大学。
+
+金棠决定在情人祝绮红生日当日包起百乐门为她庆祝，并要啸山公开向他道歉，但当日碰巧是建国筹款晚会，指明要啸山出席，傲天为如何摆平事件大伤脑筋。傲天前往拜祭启华，却在灵堂上被华嫂关秀莲大骂。
+
+啸山计划 对付金棠
+
+早上，傲天起床，曹月兰为他点燃鸦片，但傲天想起秀莲的话即放下烟枪。黎家的吉利纱厂需要贷款，黎兆匡安排向益新银行借贷，岂料父亲黎国栋却已向傲天借钱，兆匡不满父亲亲近帮会。
+
+傲天与银行行长孔逸庆见面，知道筹款晚会不能改期，即求刘美琴帮忙。啸山收到金棠请柬后决定出席，誓言要金棠交还刀疤，否则杀入百乐门。
+
+美琴找啸山，问他是否要与金棠作对，啸山指希望金棠知道现在自己可与他平起平坐。美琴指三人曾一起打江山，不要针锋相对，并劝他不要出席。
+
+啸山要金棠 交还刀疤
+
+傲天把建国筹款晚会移师到百乐门举行，金棠对此安排非常满意。晚会当日啸山不但带手下出席，并派手下埋伏在百乐门四周。啸山一进场即逼令金棠交还刀疤，但金棠拒绝。当啸山要动手之际，傲天与啸山耳语，指愿意介绍在场卓万钧参事给他认识，成功让啸山收手，并主动去结识万钧。
+
+啸山指自己仍未见到刀疤，傲天叫他放心，此事由他负责。晚会后，傲天劝金棠释放刀疤，但金棠仍不愿意。另一边厢，俊杰见啸山车队经过，故意袭击啸山，但被啸山手下打至头破血流……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2666</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep01.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

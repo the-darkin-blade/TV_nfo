@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>金融天才卧底入狱</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>4974200</id>
+  <uniqueid default="false" type="tmdb">2171063</uniqueid>
+  <uniqueid default="false" type="trakt">1311813</uniqueid>
+  <uniqueid default="true" type="tvdb">4974200</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小嘉驾车救走家强和木荣，三人为了筹钱去赌场赌钱却全部输光，之后小嘉帮助家强反败为胜获得代理权。道行手下卧底连浩勤奉命入狱接近过气黑帮大佬覃欢喜查清毒品下落，作为金融天才的他在狱中施计获得欢喜欣赏。兆良一心想侦破外围赌博集团却得不到卓凯的支持，最后兆良直接找小嘉询问情报并威胁她做自己的线人。浩勤刑满出狱后突然被抓，原来欢喜想要招揽他加入自己的组织。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2666</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Line.Walker.E03_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

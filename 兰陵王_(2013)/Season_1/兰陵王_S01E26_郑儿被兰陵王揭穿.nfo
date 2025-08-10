@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>郑儿被兰陵王揭穿</title>
+  <originaltitle>郑儿被兰陵王揭穿</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id>4659269</id>
+  <uniqueid default="false" type="tmdb">1224934</uniqueid>
+  <uniqueid default="false" type="trakt">1234883</uniqueid>
+  <uniqueid default="true" type="tvdb">4659269</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>郑儿对高长恭表达爱意，兰陵王却只是责骂她。此时杨士深和韩晓东赶来，告诉高长恭雪舞被马贼所抓的噩耗，长恭无法原谅郑儿，将她丢下，去救雪舞。落单一人的郑儿，被刚好经过此地人的猎人羞辱。郑儿受辱后决定自尽，却被尾随的高纬大军救起。郑儿被高纬救醒后，把遭遇的羞辱全都转嫁成对兰陵王跟雪舞的恨意，高纬心疼郑儿，决定为她狠狠出一口气。此时宇文邕在边境军营，他在贩卖民女的画像中看到雪舞，得知了马贼把雪舞抓去的消息，独自离开军营去寻找雪舞。宇文邕在贩卖市场买下了雪舞。马贼看到宇文邕出手阔绰，在路上想从他身上捞钱，被随后赶来的宇文神举杀溃。宇文邕带雪舞离开，两人逃入林谷。雪舞已病入膏肓，宇文邕为救雪舞，冒死拼命跋山涉水，为雪舞采回药草，终于救回雪舞。此时兰陵王循线抓到马贼，查出雪舞行踪，大队人马赶紧循线追上。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep26_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

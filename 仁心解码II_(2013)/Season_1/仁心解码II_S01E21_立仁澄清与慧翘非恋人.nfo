@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>立仁澄清与慧翘非恋人</title>
+  <originaltitle>Episode 21</originaltitle>
+  <showtitle>仁心解码II</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">913762</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>颂恩在坟场见到父亲蒋大军出现，但未能上前与他相认，晚上颂恩反在梦中重现她在四岁时发烧，父亲向她说出后悔来港，和送她去医院的往事。
+
+国彬向下属说明近日发生两宗黑帮仇杀案中，都涉及枪击伤人，枪手的手法俐落，使用中国制半自动步枪。原本颂恩只顾想着父亲的事，但当国彬说出疑犯正是大军时，才知父亲一直在内地，最近才回到香港。
+
+颂恩受命　保护志健
+
+志健的官司纠纷未平息，又爆出与多位女性的床上照片流出的新闻，他的女友莫青婷更到警署举报他迷奸好友范霭枝，又指所有床照均是志健上传到网站，照片中的女性都看似神智不清。颂恩知道志健获法院判定无罪，大感愤慨，心中决定要让志健因强奸定罪。
+
+志健离开法庭时遭枪击，混乱中只有司机中枪受伤。国彬初步调查得知枪手从远距离射击，判断可能是杀手所为，不排除因床照事件惹来仇杀。志健不肯与警方合作，拒绝入住警方安排的安全屋，国彬只有派颂恩和振东等一众下属保护他，可是志健却不理人身安全，执意要到桑拿店，更在店中调戏颂恩。颂恩虽感不忿，但仍不得不继续执行任务。
+
+三角关系　终告结束
+
+颂恩在街上拾到一只纸飞机，其独特的摺飞机方法正和小时候父亲所摺的一样，随后又见大军在附近出现，可惜又未能找到他。国彬仍认为颂恩是汪家的孤女，为她找到当年为汪氏父母办理后事的姑母现正在三藩市，让颂恩能联络亲人。
+
+启荣夹在瑶珠和思家之间难以选择而饱受痛苦，世邦和日勤见状，决定为他解决问题。启荣为思家办生日会，不料瑶珠也受邀到来，启荣一直与两人同时交往之事终于被揭穿。情急之下启荣追随瑶珠离开，其实已代表他心中早有选择。原来瑶珠和思家早在约会启荣到戏院当日已遇上，并知道一切真相，两人都决定离开启荣，因此才联同世邦与日勤合演出生日会这场戏，希望能结束这段三角关系。
+
+立仁捐精　慧翘受孕
+
+立仁随慧翘到美国捐出精子，让她进行人工受孕。立仁原想保密此事，却被接载之的士司机转告二人同游美国的消息给应奇，应奇得知后大肆宣扬。慧翘于是坦然讲出立仁是捐精者，但二人并无感情关系，但众下属却都认为两人只是尴尬，不肯承认恋情而已。
+
+立仁怕医院内会传开与慧翘间的事，又担心婴儿一出生便没有父亲，但慧翘早已跟他约法三章，婴儿与立仁并无关系，她会独自抚养……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2657</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.A.Great.Way.To.Care.Ii.E21.1080I.Hdtv.H264-Area11(1)_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

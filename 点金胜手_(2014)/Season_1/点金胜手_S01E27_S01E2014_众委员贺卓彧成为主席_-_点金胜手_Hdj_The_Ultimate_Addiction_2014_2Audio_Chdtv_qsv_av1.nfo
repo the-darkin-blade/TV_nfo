@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>众委员贺卓彧成为主席</title>
+  <originaltitle>众委员贺卓彧成为主席</originaltitle>
+  <showtitle>点金胜手</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2399346</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>沛勋失去家族生意及主席一职后，生活变得清闲，亦有较多时间与辛勇相处。辛勇和沛勋散步时，却遇上日升与双怡在车上亲热。双怡发现辛勇两人后没有一丝惊讶的神情，更主动下车与沛勋打招呼。沛勋看见自己的侄儿日升与辛勇的旧情人打得火热，反而大感尴尬。
+
+卓彧正式取代沛勋成为股票谘询委员会的主席，而一众委员均认为卓彧头脑灵活擅于变通，故对卓彧登上主席之位表示支持。
+
+得知真相　至然心碎
+
+资雅在双菲的口中得知双庆夫妇假离婚欺骗至然，便即到至然的菜田质问双庆。双庆告知资雅欺骗至然只为了向卓彧报仇，却不知两人的对话已被至然听到。
+
+得知真相的至然激动离开，资雅追出并在塘边找到至然。至然未能接受自己被双庆欺骗感情的事实。卓彧知悉至然被双庆欺骗，便即派人绑架双庆。
+
+双庆被捉　惨遭私刑
+
+双庆被卓彧的手下绑架后即被卓彧以铁棍殴打双手，双庆的妻子发现丈夫被恶汉绑架后，即致电双怡求救。双怡得知双庆出事后肯定是卓彧所为，便向男朋友日升求救，日升听后致电卓彧，要求他放走双庆。
+
+卓彧不想与日升关系破裂，只好听从日升的要求将双庆放走。双菲得知双庆受伤入院后便赶到医院探望，却只见双庆在警方面前作假口供。双菲对双庆的做法虽表示不满，但双怡却没有理会双菲，独自带走双庆。
+
+卓彧浚基　合作图利
+
+辛勇得知双庆被卓彧毒打一事后，便到双怡的家与她理论，并再三希望双怡能及早回头。双怡并不认同，更认为辛勇仍未能放下对自己的感情。
+
+锦发自离开棱锐后，便经常在娇婵的茶餐厅流连，和街坊的关系亦愈来愈好，亦与娇婵进行派饭活动支持贫困人士，沛勋与辛勇见状亦一同参与以表支持。辛勇在活动时发现一流浪狗，沛勋见流浪狗与辛勇有缘，便强迫辛勇收养回家。
+
+卓彧担任委员会主席后，便打算与内地官二代朋友浚基合作进行上市活动图利，日升得知后亦打算参与，奈何却未能找到合作机会。
+
+明瑜接受　人工受孕
+
+明瑜得知自己可以用人工受孕的方式怀上卓彧的孩子后，为了与卓彧能够保持一点关联，决定进行人工受孕的手术。
+
+至然一直对双庆仍未能忘情，希望再见双庆，但双庆害怕再被卓彧教训而拒绝。至然于海边等待双庆但却遇上卓彧。卓彧知道至然对双庆仍未死心，出言劝告，却换来至然的斥责。至然指卓彧的贪婪才是造成悲剧的主要原因，兄妹争执时至然不慎失足堕海。… ...</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1291</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[点金胜手].Hdj.The.Ultimate.Addiction.Ep27.2014.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>点金胜手 Hdj The Ultimate Addiction 2014 2Audio Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>点金胜手</showtitle>
+  <season>1</season>
+  <episode>2014</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1291</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[点金胜手].Hdj.The.Ultimate.Addiction.Ep27.2014.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2014" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

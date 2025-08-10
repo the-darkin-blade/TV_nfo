@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>兰陵王被妖后毒杀</title>
+  <originaltitle>兰陵王被妖后毒杀</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>36</episode>
+  <id>4659279</id>
+  <uniqueid default="false" type="tmdb">1224944</uniqueid>
+  <uniqueid default="false" type="trakt">1236282</uniqueid>
+  <uniqueid default="true" type="tvdb">4659279</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雪舞毫无戒心喝下酒，瞬间昏了过去，兰陵王强忍心痛，让晓冬护送雪舞离开。兰陵王向安德王交代后事，然后让主管老王遣散了家中所有人。不久皇上和皇后到了兰陵王府，让兰陵王喝毒酒。兰陵王神情无惧，喝下皇上赐的毒酒，死前只求皇上君无戏言，善待齐国黎民百姓，毒性大发，齐国一代战神兰陵王死了，高纬觉得心中说不出是大快还是不快，百感交集。冯小怜下令祖珽带人去追捕杨雪舞，生要见人、死要见尸，晓冬一路不敢停的往齐国边境逃，他听从四爷命令，将雪舞安全护送到宇文邕身边，当今天下只有他能保护雪舞，不料中途，雪舞醒了过来，哭喊着苦苦哀求晓冬让她回去陪着四爷。晓冬心软，听从雪舞的建议，把马车推下悬崖制造他们已经摔死的假象，两人分头逃跑。雪舞被祖珽的士兵追击，跌落悬崖。高纬不敢相信高长恭死去，捅了高长恭一刀，才确认他已死。雪舞命不该绝，被一对曾受过天女恩惠的阿文母子救起。皇宫里，兰陵王的死令大臣们议论纷纷，怎么都不相信清廉正直的兰陵王会贪污，段韶、斛律光赶回邺城，强忍哀恸为兰陵王请命，希望皇上能以皇室之礼安葬兰陵王，小怜说不如就成全他们的心意，如此一来，这墓陵或许还能将杨雪舞引蛇出洞。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep36_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="36" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

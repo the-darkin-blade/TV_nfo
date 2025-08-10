@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:31:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>上升与颂恩分享经历</title>
+  <originaltitle>Episode 2</originaltitle>
+  <showtitle>再战明天</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id>5010350</id>
+  <uniqueid default="false" type="tmdb">3236321</uniqueid>
+  <uniqueid default="false" type="trakt">1322147</uniqueid>
+  <uniqueid default="true" type="tvdb">5010350</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>颂恩入狱后即成为了上升的关注对象，身为福利官的翁伟晋及迟春光，他们的职责是为囚犯重过新生活，故二人便安排对颂恩的家人进行家访。
+
+伟晋及春光发觉，颂恩的母亲一直对颂恩及可儿之事爱理不理，更为了个人幸福再次结识新男友，并打算与爱郎离港，丢下一对子女。  春光忍不住指责颂恩的母亲，认为颂恩犯下杀人罪，主要是因为她胡乱带男人回家，才导致可儿被奸，令颂恩失控。颂恩的母亲闻言后大为不悦，将春光及伟晋赶走。虽然家访失败，但身为上司的伟晋并没有责怪春光。  正桥刻意　回避上升  正桥与经营面店的外婆鲁秋分同住，爱嘉与秋分相识，同时也是正桥的老朋友。一天，爱嘉将破损了的毛公仔交给秋分缝补，翌日即到面店找秋分取回毛公仔，并顺道与正桥一起外出，商量自己出嫁外国事宜。  当正桥知道上升亦会在席后，便借故推辞爱嘉的邀请，爱嘉不想夹在上升与正桥之间，没有继续强迫正桥出席。
+
+爱嘉与上升、伟晋及上升的前妻叶雅蕾在餐厅会合，上升知道正桥爽约后，对正桥更添不满。雅蕾在聚会中与上升谈话，身旁的人亦察觉到雅蕾想为上升物色对象。  囚犯赠画　寄语爱嘉  聚会过后，上升驾车接送爱嘉回家，爱嘉却发现自己带在身边的毛公仔不见了，顿感到十分无助。原来毛公仔是爱嘉小时候由上升所赠，用作安抚害怕乘坐飞机的爱嘉。爱嘉飞往外国出嫁之日在即，担心自己没有毛公仔陪伴在侧，上升承诺爱嘉会帮忙寻回毛公仔。  爱嘉回到罗湖惩教所执勤时，囚犯惠珠竟送赠画作给自己，而惠珠同时亦寄语爱嘉：「当看见奇景时想起的第一个人，就是自己真正喜欢的人」，爱嘉之后亦将此话记在心中。  颂恩自杀　上升抢救  性格主动外向的春光在公司中一直与同事关系良好，亦深得上司伟晋的器重，而春光知道在狱中的可儿心理出现异常状况，即亲自到狱中了解，并且出言开解可儿的心结。  另一方面，被判囚终身的颂恩在狱中一直沉默寡言，上升欲了解他的情况便亲自到囚房内，发现颂恩留下遗书并割脉自杀。  在上升努力抢救颂恩的性命时，同时间竟天放异象，两道彩虹划空而过，令众囚犯皆感兴奋不已。当爱嘉看到这番奇景，第一个想起的人竟然是上升。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2684</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.再戰明天.E02.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

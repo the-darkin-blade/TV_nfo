@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>大佬涉毒家强偷毒</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>4982813</id>
+  <uniqueid default="false" type="tmdb">2171069</uniqueid>
+  <uniqueid default="false" type="trakt">1312536</uniqueid>
+  <uniqueid default="true" type="tvdb">4982813</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>家强和小嘉惨遭毒打后去找欢喜理论却被其手下恶意刁难，原来他们这是为了试探家强的忠心。卓凯加入羡晴参加的烹饪兴趣班担任导师，他要帮遭受家暴的羡晴报警时却吓跑永权使其险些自杀。卓凯将卧底密码藏入菜单试探家强时被欢喜看到，之后欢喜派手下前去查探。浩勤得知羡昕即将结婚后打算放弃卧底身份，幸亏卓凯宽慰劝解。毒品拆家拒绝与欢喜合作白粉生意，欢喜派家强潜入拆家威拿的狗场偷取毒品。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Line.Walker.E09_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

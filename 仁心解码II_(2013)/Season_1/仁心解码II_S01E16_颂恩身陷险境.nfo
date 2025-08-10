@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>颂恩身陷险境</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>仁心解码II</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">913760</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>郭家一家三口被发现伏尸屋内，警方证实死者郭凯诚与妻子及12岁儿子都是被刀状利器割断动脉致死。因受害者死前无明显反抗，加上无被强行闯入痕迹，警方推断凶手行凶手法俐落，屋内夹万被破坏，可列作劫杀案。颂恩发现屋内还有一个女孩玩的玩偶，认为郭家应不止一家三口。
+
+果然在睡房的衣橱内找到自凶案发生后便一直藏身的小女儿郭倩莹。经立仁诊断，倩莹患创伤后遗症，受惊过度而无安全感，在医院也会躲藏在床下。
+
+颂恩梦见　杀人军刀
+
+国彬等人在死者家附近的Blue Swan café调查，店主吴氏夫妇都认得郭太是熟客，死前曾光顾买外卖，可惜闭路电视坏掉没有拍下当时情景。凯诚公司的经理作供，指死者生前与合股的拍档沈伟雄曾有争执。国彬和颂恩在伟雄家发现他是军事迷，更发现他房中失去一柄军刀，其形状与法医报告中死者伤口脗合。
+
+颂恩让倩莹看见伟雄手持军刀的照片后，倩莹激动不止。调查此案后，颂恩的恶梦内容便变为梦到自己藏在床下，见到手持军刀的男人，还有古旧的明星月历。志森分析这并非受案件影响的投射，反而是真实回忆。
+
+志森与嘉丽出席商会成立35周年晚会，医学界权威麦永佳医生赞赏志森的论文，原来是嘉丽故意安排的见面机会，为诊所争取更多研究经费。在回程途中遇到交通挤塞，富二代霍志健在公路醉酒闹事所致。志森见到志健在晚会上已极不礼貌，更不屑富家子弟的失礼行径。
+
+启荣撮合　立仁慧翘
+
+启荣得知慧翘生日将至，又认为她对立仁有意思，便想撮合二人。时值永铿放大假，立仁与永铿坦诚彼此立场虽不同，但能互相保持良好工作关系。到了慧翘生日会时，启荣等一众下属全都藉口有事离场，余下她和立仁同桌。
+
+立仁以为众人为她准备特别惊喜，不料是送上情侣套餐。立仁为此极为生气，扬言不会对慧翘有意思，慧翘也痛骂了启荣一顿。二人各自离去，却又在便利店巧遇上。慧翘介意被人胡乱宣扬自己恋上立仁，令她情绪低落，结果她拿了立仁的八达通在便利店疯狂购物，以平衡心情。
+
+颂恩追凶　反陷险境
+
+颂恩向子安提及调查的案件与梦境，子安追忆在颂恩约四岁时被发现给人留在急症室，更因高烧留院，之后社工便把她交给孤儿院。
+
+Café的老板夫妇遇害，死状与郭家一样，收银机内钱财被夺去。调查期间颂恩梦见伟雄要杀害倩莹，于是她向志森求救，每晚的恶梦已令她难分真假……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2646</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.A.Great.Way.To.Care.Ii.E16.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

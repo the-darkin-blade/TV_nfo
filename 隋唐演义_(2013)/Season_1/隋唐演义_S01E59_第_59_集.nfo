@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 59 集</title>
+  <originaltitle>第 59 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>59</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783885</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>尉迟恭心怀怨恨，转投刘武周。刘武周见其力大无穷、武艺高强，封他为先锋官。　　王世充欲图瓦岗，与单雄信商议。单雄信要求王世充务必保全自己的兄弟王伯当。　　秦琼与玉郡主商量出路，秦琼不想留洛阳，投王世充，但碍于情面，不知如何辞行。玉郡主劝秦琼不必为情面之事所困，应早做打算。　　王世充围攻瓦岗寨，劝降王伯当，王伯当不肯。王世充率兵攻入瓦岗，王伯当杀萧后，拉着李密逃向山涧，却被王世充堵截，被乱箭射死。　　李世民、李建成、李元吉招兵完毕回朝，却正遇白壁关告急，李建成、李元吉为抢功请缨前去，却被尉迟恭打得落荒而逃，白壁关失守。李渊派李世民前去收复白壁关，徐茂公说必要请到秦琼、罗成、程咬金三人此事方才能行。　　徐茂公扮作女人，混进洛阳城，找到程咬金，劝说秦琼随他投奔大唐，却正遇罗成重病不能起身。然秦琼胸怀天下，知王世充并非明主，答应徐茂公。秦琼将罗成交付单雄信，与程咬金携亲眷离开洛阳城，单雄信依依惜别二位兄弟。　王世充知秦琼、程咬金已走，要求单雄信务必将罗成留住，更是召集御医，为罗成治病。　　秦琼、程咬金与徐茂公汇合，徐茂公言明白壁关失守一事，几人直奔白壁关，拜见秦王。秦琼、程咬金到达白壁关却发现齐国远、李如辉也在李唐营之中，兄弟相见，分外高兴。　　程咬金、秦琼奉李世民之命迎战尉迟恭，程咬金不敌尉迟恭。秦琼与尉迟恭比试，程咬金趁机偷袭，却致秦琼被尉迟恭生擒。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2686</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>59_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="59" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

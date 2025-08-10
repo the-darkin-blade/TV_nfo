@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>众人支持资雅复健</title>
+  <originaltitle>众人支持资雅复健</originaltitle>
+  <showtitle>点金胜手</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2399337</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>卓彧为了帮助资雅康复，便重金邀请脑科专家帮资雅治疗，辛勇本不愿意接受卓彧的帮助，但为了资雅的病情着想亦只好接受。
+
+卓彧正式担任股市谘询委员会副主席，并希望以此身分加快通过外地公司的上市申请，但是沛勋却以主席的身分一直对卓彧加以制衡。
+
+明瑜及其幕僚亦察觉到沛勋是卓彧的阻碍，故决定使计加以排除她。因发现明瑜为资雅的事而与卓彧不和，众幕僚见状便努力加以游说，以求卓彧夫妇和好。最后卓彧亦主动制造惊喜，以挽回与明瑜的夫妻感情。
+
+街坊原谅　锦发振作
+
+资雅在脑科专家的帮助下，努力地进行一系列的复康疗程，尚谦、辛勇及国亮亦陪伴在资雅身边加以支持，令资雅感受到朋友的关怀。
+
+另一方面，娇婵为了令锦发重新振作，极力游说一众受「C Coin」影响的街坊，以求他们原谅锦发，令锦发重新得到了街坊支持。
+
+卓彧为了反抗沛勋的箝制，向沛勋的家族生意下手，卓彧利用网路散播谣言，以令沛勋的家族银行出现挤提危机。
+
+沛勋与兄　关系决裂
+
+沛勋亦被人诬蔑，指她为了保全家族生意而将政府的机密消息告知其兄长柴沛权。令沛勋身为委员会主席的公信力大受影响，她的位置此显得岌岌可危。
+
+辛勇知悉沛勋因家族生意而被外界恶意中伤，便即赶到沛勋身边加以慰问，但沛勋认为自己清白，故不担心卓彧会成功得逞。
+
+沛勋回到办公室后遇上沛权，原来当年沛勋的父亲认为沛权无能，故将家族生意全部交给沛勋打理，因而令他怀恨在心。沛权要求沛勋将手上的家族生意交出，沛勋拒绝，令兄妹关系进一步恶化。
+
+至然双庆　成为朋友
+
+至然见卓彧因为资雅的事而显得郁郁寡欢，于是为了令卓彧安心，至然便决定代卓彧到医院看顾资雅。
+
+到医院的至然因此认识了双庆并感到一阵熟悉感，原来在至然的眼中，双庆无论在外表甚至性格也与自己因海难身故的恋人甚为相似。
+
+明瑜现身　恐吓资雅
+
+卓彧虽成功影响了沛勋的主席职务，但是卓彧并没有因此感到开怀，只一心一意地关心资雅的病况。
+
+看见丈夫将大部分的精神都灌注在资雅的身上，明瑜深感自己比不上资雅。妒火中烧的明瑜独自到医院探望资雅并出言加以恐吓，资雅为了避开麻烦，偷偷离开医院。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[点金胜手].Hdj.The.Ultimate.Addiction.Ep18.2014.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>点金胜手 Hdj The Ultimate Addiction 2014 2Audio Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>点金胜手</showtitle>
+  <season>1</season>
+  <episode>2014</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[点金胜手].Hdj.The.Ultimate.Addiction.Ep18.2014.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2014" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

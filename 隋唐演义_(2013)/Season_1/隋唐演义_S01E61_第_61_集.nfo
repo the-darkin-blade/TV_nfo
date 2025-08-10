@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 61 集</title>
+  <originaltitle>第 61 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>61</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783887</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>王世充大喜，重赏罗成，并承诺若是罗成能够活捉秦琼、尉迟恭等人，定会为他与盈盈成婚，享尽荣华富贵。单盈盈却劝罗成为天下苍生着想，投于李世民麾下，定能有所作为。罗成念及单家与李唐之仇，甚是犹豫。单盈盈则劝他应以天下为重，二人约定，相守到老之诺言，至死不渝。　　次日，罗成迎战程咬金，单雄信监战。程咬金败走，罗成紧追来到小树林，却见李世民以及众兄弟都候在林中，劝说罗成归唐。罗成敬佩李世民仁义之心，愿投麾下。李世民喜得大将，设宴庆贺。　　王世充知罗成归唐一事，怒骂单雄信，单雄信发毒誓自己与李唐乃是国仇家恨，绝对不会叛敌，王世充这才消气。　　李世民与秦琼等人商议攻打洛阳之事，为谋收服单雄信之计休战一月。王世充则借休战之日，广发文书，请求窦建德、孟海公等人发兵来救。　　一日，天气炎热，程咬金怂恿李世民前往御果园纳凉，却正被在城墙上巡逻的单雄信看见，单雄信驾马前去御果园，欲擒李世民，以解洛阳之困。程咬金根本阻拦不住单雄信，只能前去搬救兵。单雄信追杀李世民，这时徐茂公斜刺杀出，求单雄信赶紧离开，单雄信不肯。徐茂公紧紧抓住李世民战袍不放。单雄信挥槊斩断战袍，与徐茂公割袍断义。正在河中洗澡的尉迟恭听到打斗之声，赶来营救，将单雄信打与马下。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2673</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>61_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="61" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:31:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>上升发现爱嘉流落街头</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>再战明天</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>5029689</id>
+  <uniqueid default="false" type="tmdb">3236335</uniqueid>
+  <uniqueid default="false" type="trakt">1324943</uniqueid>
+  <uniqueid default="true" type="tvdb">5029689</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>囚犯顺潮在与上升单独会面时向他施袭，上升因受到致命伤昏厥，幸好同事及时发现异状，成功破门入内拯救上升并送院救治。爱嘉因为间接令惠珠自杀一事感到内疚，为逃避内疚感的折磨打算自杀，但最后没法鼓气勇气而放弃寻死。  上升在医院苏醒后，只见正桥及伟晋等好友探望，不见爱嘉踪影，担心不已。春光见上升神情紧张，便将爱嘉的手机短讯给他察看，才稍令上升的情绪稳定下来。  好好出言　安慰爱嘉  爱嘉放弃自杀后，便有如行尸走肉般在街上流连。当爱嘉看见街头上的露宿者亦不期然想起惠珠，并悲从中来。恰巧好好经过，发现爱嘉跪坐在地即上前问候，而爱嘉亦将自己的事告知好好。好好一直感激爱嘉过去的关怀和帮助，故主动地开解失意的她。  香港发生一宗伦常惨案，一名孩童持刀杀害了自己的亲妹妹，经警方调查后发现死者就是囚犯百云的孙女。百云惊闻噩耗后悲痛不已，并认为是上天要惩罚自己过去的罪孽，因此萌生自杀念头，结果需要独立囚禁。  再次犯事　国沾入狱  国沾再次犯事而被拘捕，更在拘留所与人殴斗，伟晋担心国沾此举会引起法庭反感，故亲自与国沾见面并加以劝解。  国沾虽为富家子弟，却一直得不到父母关爱，故早已放弃自己，并一心打算重返监狱。听到国沾的剖白后伟晋无言以对，便回到哥连臣角惩教所与国沾的昔日好友见面。  国沾的好友悉闻国沾再次误入歧途，不禁想起当年两人齐心争取提早出狱的往事，因而流下了男儿泪。
+
+伟晋与春光一起回办公室却在路上遇见雅蕾，原来她一心追求伟晋，希望伟晋能原谅自己的错失，但是伟晋亦已对雅蕾完全失望。伟晋为了摆脱雅蕾，表示春光是自己的女朋友。  好友协助　寻回好好  伟晋成功利用春光摆脱雅蕾的纠缠后，即被春光斥责其性格随便，伟晋闻言后大感不悦，便将春光一直暗恋自己的事说出来。春光发觉事情被揭发后大感尴尬，因此逃避伟晋，但伟晋却是真心的对春光有好感，故开始努力追求春光。  好好为了逃避正桥而独自在外工作，正桥为了查出其下落，便拜托朋友四出找寻她，终成功发现好好在一间便利店工作。一众好友便帮正桥向好好传达口讯，最终成功感动好好回到正桥身边。  上升得知　爱嘉往事  上升出院后发现爱嘉失踪已久，即四出找寻爱嘉下落，最后在天桥下发现沦为露宿者的爱嘉。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2693</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.再戰明天.E16.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

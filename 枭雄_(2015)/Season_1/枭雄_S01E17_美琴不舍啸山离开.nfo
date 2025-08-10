@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>美琴不舍啸山离开</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490910</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>袁少帅被杀令风声变得很紧，傲天提议先离开上海暂避风头，啸山却希望把赃款用来做生意。
+
+傲天为意外自责，美琴没有怪他，反而问起袁少帅被杀之事，傲天否认啸山有份参与，但美琴称早已知道真相。
+
+芷晶康复后没有找文龙，但文龙觉得她口不对心。文龙等人听到芷晶在怡香院出事，立即赶去了解，原来芷晶冲上怡香院欲杀桂生，却被桂生手下阻止，傲天上前营救时亦被捉拿。
+
+啸山被逮 受刑逼供
+
+桂生知道琼姐瞒着自己，在外面放高利贷，即执行家法。桂生欣赏芷晶的坚强与勇敢，请她到家中工作。
+
+啸山有了资本后想离开码头，出外争取更多地盘。啸山与手下去饭厅，遇上金棠等人，金棠手下认得啸山就是通缉犯，即上前拘捕。
+
+阿添带警察去啸山家中搜索，美琴立即通知傲天。金棠审问啸山，但啸山不认杀害少帅，金棠欲屈打成招。美琴与傲天去找金棠，跪求金棠放啸山一马。傲天以捐钱名义，把从少帅家中抢来的钱，全部交给金棠。
+
+身受重伤的啸山回到家中后，说出打算离开上海准备投靠周大帅，美琴依依不舍。啸山离开前，把美琴与学尧交给傲天照顾。启华询问傲天知否啸山已走，傲天假称不知。
+
+傲天决心 杀掉铁头
+
+铁头在水果店捣乱，把傲天打至重伤，并要他交出一百个大洋，否则伤害启华一家。傲天与芷晶等人商讨如何对付铁头，芷晶想求桂生帮手，但傲天拒绝，指希望自己想办法。
+
+晚上，傲天见到铁头手下想烧毁果档，幸好及时制止。傲天忍无可忍，决定报仇。傲天来到铁头经常出现的餐厅，令他永远不能再作恶。
+
+文龙担心会惹上麻烦，傲天称这事由他负全责，并指已再不能留在华界，只有去法租界才安全，启华知道后相当愤怒。傲天离开果档，启华在背后劝他，但傲天心意而决，头也不回。
+
+没有子嗣 金棠被辱
+
+傲天与文龙在赌场工作，生活尚算稳定，而芷晶在桂生家中亦相当愉快。金棠把赌场生意交给桂生管理，并把部份收益送给沃利，答谢他的帮忙，沃利甚喜，并承诺会一直帮助他。
+
+庭亭再次得子，在警局内派红鸡蛋，见到金棠即耻笑桂生不能生育，金棠气在心里。桂生满脑子都在筹划生意，金棠劝她休息一下，并告诉她结婚多年，应该有下一代。
+
+金棠计划与桂生鱼水之欢，但钱经理拿来夜总会文件要桂生立即签署，金棠在书房等她，却愈等愈夜。傲天在赌场四周巡视，他发现其中一名荷官有古怪，似跟赌客串通。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2652</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep17.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

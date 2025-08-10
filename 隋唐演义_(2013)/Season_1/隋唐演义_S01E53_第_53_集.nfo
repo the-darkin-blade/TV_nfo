@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 53 集</title>
+  <originaltitle>第 53 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>53</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783879</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>正在李世民面见杨林之时，李靖叫醒李元霸，李元霸杀出重围，在外宣称若是不放李世民等人，他将投奔反王，与隋军为敌。杨林迫于李元霸的压力，只得后退一步，放李世民等人，以平此事端，红拂女赶往晋阳。　　程咬金等得不耐烦，与齐国远一起撺掇李密夜探铜旗阵，却正遇四宝大将尚师徒。秦琼知魏王等人前去探阵，追去救驾，与尚师徒恶战一番，竟枪折马死，幸好罗士信来得及时，才救他一命。待秦琼回到营中，众人知黄骠马已死，不禁大为悲痛。徐茂公怒斥程咬金，魏王、秦琼为程咬金求情，徐茂公方才放过程咬金。　　罗成夜盗阵图，被丁延平发现。罗成劝丁延平弃暗投明，丁延平则坚持忠心不侍二主，断不能做不忠不义之事。罗成对丁延平言自己愿为拿出阵图付出性命，二人约定若是罗成能够踏出此门，便算罗成赢，他将不再阻拦。罗成与丁延平战在一处，不分胜负，难舍难分。罗成与丁延平交手，罗成胜出携阵图离开，丁延平拔剑自刎，罗成洒泪而去，将阵图交予魏王，并提议从阵图所示玄武阵直攻而入。秦琼等人则担心罗成会因此暴露，定会连累北平王府而不应允。此时，李世民前来，表明反隋之心，为天下谋太平之志，想要加入反王，一同作战。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2719</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>53_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="53" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

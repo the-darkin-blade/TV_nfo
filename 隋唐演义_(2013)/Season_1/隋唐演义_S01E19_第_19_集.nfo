@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 19 集</title>
+  <originaltitle>第 19 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783842</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>杨广逼问出高熲下落，却不知遗诏何处，杨广杀了杨素，又下令放火烧了越王府，高熲杨素已死，遗诏似乎也被烧在了越王府，杨广来到关押杨勇之处，杨勇以为杨广要放出自己，好言哀求却激怒杨广，杨广最终手刃哥哥杨勇。　　玉郡主一心揭露杨广恶行，但宇文成都为保护玉郡主，执意安排人将玉郡主送往柳州避难，玉郡主明白凭一己之力并不能对抗杨广，但她为了不连累自己的父亲，又无法登州王府，只能听从宇文成都安排，前往柳州。　　萧美娘看穿宣华复仇之心，为了拉拢宣华，萧美娘也称自己也为复仇才跟了杨广，并称要宣华从中相助，这正中宣华下怀，她对萧美娘逐渐消除了戒心。　　杨林派人向杨广询问玉郡主之事，杨广以玉郡主回程途中出了事故，掉落悬崖而了结，却并不知此时玉郡主正在李忠的护送下前往柳州，行至一处，李忠却要杀害玉郡主，玉郡主逃跑过程中，幸而遇到回家途中的秦琼，秦琼在李忠挑明身份之后，依旧出手相救，秦琼将李忠打退，将玉郡主带到客栈养伤，养伤期间，秦琼对玉郡主照顾无微不至，玉郡主感念在心，对秦琼渐生好感。　　李忠逃回，于遇上宇文成都，成都追问，李忠谎称玉郡主自己逃跑，宇文成都并未对李忠生疑，但李忠却早已背叛宇文成都，他半路暗杀玉郡主乃是宇文化及的安排。　　玉郡主养好了伤，独自离去，秦琼不放心玉郡主一人上路，追了上去，正好遇上宇文成都挟持玉郡主。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2608</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>19_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

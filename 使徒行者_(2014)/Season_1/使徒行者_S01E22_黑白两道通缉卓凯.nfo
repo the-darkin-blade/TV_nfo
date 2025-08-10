@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>黑白两道通缉卓凯</title>
+  <originaltitle>Episode 22</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>4999989</id>
+  <uniqueid default="false" type="tmdb">2171082</uniqueid>
+  <uniqueid default="false" type="trakt">1314832</uniqueid>
+  <uniqueid default="true" type="tvdb">4999989</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>学华拘捕美贤以此要挟卓凯交出卧底资料，卓凯趁机逃匿。学华抓走羡晴并通缉卓凯，神秘人命欢喜发出巨额悬赏干掉卓凯。小嘉在木荣帮助下获知当日与欢喜秘密见面的轿车车主是林希微，她和家强潜入希微办公室调查时却被抓住，最后欢喜出面救出二人。欢喜经检验后证实与小嘉是亲生父女，原来家强暗中掉包了DNA报告。羡昕和浩勤根据线索找到杀死兆良的杀手，杀手逃脱时落入卓凯手中。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2650</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Line.Walker.E22_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>大佬夺权幼子遭绑</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>4975786</id>
+  <uniqueid default="false" type="tmdb">2171064</uniqueid>
+  <uniqueid default="false" type="trakt">1311915</uniqueid>
+  <uniqueid default="true" type="tvdb">4975786</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>家强受挞沙邀请出席黑社会宴会，小嘉按照卓凯指示利用藏在身上的监控搜集证据时讯号受到干扰，随后她和卓凯根据宴会录像怀疑浩勤可能是卧底。挞沙为夺位便派人绑架欢喜独生子小星，浩勤也遭连累，欢喜拒绝妥协并向警方求助。小星头部受伤危在旦夕，奉命看守的家强致电小嘉安排医生前来藏身处，小嘉奉卓凯之命将追踪器藏在医生包里，谁料挞沙手下要求小嘉一同前往，当卓凯率队赶到时却未见小嘉及绑匪的踪影。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2663</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Line.Walker.E04_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

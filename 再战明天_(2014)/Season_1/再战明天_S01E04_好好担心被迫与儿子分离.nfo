@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:31:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>好好担心被迫与儿子分离</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>再战明天</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>5012767</id>
+  <uniqueid default="false" type="tmdb">3236323</uniqueid>
+  <uniqueid default="false" type="trakt">1322425</uniqueid>
+  <uniqueid default="true" type="tvdb">5012767</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>好好当年单亲怀孕，并因失去一足不良于行，故一直受人歧视。一晚，好好遇上赖帐的客人，走上前与其理论，更沉不住气把对方推到在地，抢走属于自己应有的报酬。岂料，那人流血不止，失救至死，好好被捕，并经法庭裁定误杀，判囚于罗湖惩教所，好好亦需在狱中产子。  正桥重遇恩人好好后，将此事细心地记载在日记上，尽显他认真及念情的一面。伟晋为了解颂恩在狱中伤人一案，亲自与他面谈，但想不到颂恩在伟晋前一直保持沉默，令他的无功而还。  上升正桥　关系恶化  上升派人调查在狱中的藏毒案，发现有机会是透过外界的往来书信把毒品运入监狱，由于正桥与具犯毒纪录的释囚尚有联络，因此上升决定把他调离调查岗位，此举引正桥极大不满。
+
+及后，上升成功锁定到犯人就是伟全，派员对他进行突击搜查，终成功破获狱中的毒品来源，让颂恩还以清白。
+
+正桥明白上升把他调离的用意后，主动向他道歉，但上升却警告正桥，命他不要利用职权与好好见面。正桥闻言后感到私人生活被上升干涉，两人之间的冲突因而升温。  伟晋协助　释囚更新  年轻的释囚小凤出狱后，即在春光安排的面包工场中工作；但小凤却被店东怀疑她偷窃，故春光即赶到现场了解。
+
+事件最终水落石出，明白是误会一场；事后春光出言欲安抚小凤的情绪，但小凤感到自己受委屈，气得一走了之，春光亦因此替小凤担忧。  伟晋为了狱中的模范囚犯国沾安排提早出狱，并与雅蕾商量聘请国沾作侍应。雅蕾闻言后爽快答应了伟晋的请求，并提出希望伟晋能抽空出席由她举办的慈善晚会。  细响出手　毒打颂恩  上升与雅蕾介绍的对象一起用膳，虽然上升亦有心找寻女伴，可惜他的社交话题贫乏没趣，加上他对女性亦不够细心，令约会失败告终。  立桂一直负责狱中的膳食岗位，但上升为了严加看管重犯细响，指示立桂调离膳食岗位以集中对付细响。立桂虽然不想失去膳食岗位，但同时又担心失去退休长俸，亦只好无奈地接受上升的安排。  立桂按上升的指示监视细响的一举一动，但是细响竟然乘立桂不觉的时候将颂恩拉入厕所毒打。当立桂意识到不妥时亦已太迟，最后颂恩需要留院观察，细响则被安排单独囚禁。  好好犯事　刑期加长  好好出狱之日在即，却因为儿子在狱中被人欺负，忍不住与狱友口角，最后更出手殴打其他囚犯。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2687</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.再戰明天.E04.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

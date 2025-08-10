@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 34 集</title>
+  <originaltitle>第 34 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783858</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>秦琼深明大义，欲将瓦岗还给翟让，翟让羞愧自己小肚鸡肠，被秦琼打动，将瓦岗拱手相让，瓦岗与山东义军合军。　　正当众人为合军之事高兴时，却忽听瓦岗寨山头一声巨响，陷下一个大洞。徐茂公掐指一算，点名要程咬金下地穴。程咬金下地穴，却见地穴中竟有龙袍大印，于是将其带出。众人商议，拥戴程咬金为大德天子、混世魔王。　　为贺合军、立国之喜，瓦岗寨摆下酒宴，上下欢腾。瓦岗败兵贺连章、李兴逃走，却正遇已到山下的杨林大军，二人痛斥秦琼为恶人，并要加入隋军，攻打瓦岗。秦琼见远处火光，方知杨林大军已到瓦岗山寨门口!　瓦岗军中已醉倒一片，秦琼前去城楼前与杨林争辩朝廷之不体恤民情，杨广残暴阴狠，稳住杨林大军。　　王伯当受徐茂公之命，前去隋营，单盈盈更助他一臂之力将隋营粮营烧着。杨林苦劝秦琼回头不得之际，却闻身后扎营之处一片慌乱，只得撤回营中，却知营中粮草被悉数烧光，只得撤回潼关，补充粮草。杨林刚到潼关，接到圣旨回朝，命魏文通不得煽动，离潼关而奔长安而去。魏文通立功心切，又想报被擒之辱，擅做主张，兵发瓦岗。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2629</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>34_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

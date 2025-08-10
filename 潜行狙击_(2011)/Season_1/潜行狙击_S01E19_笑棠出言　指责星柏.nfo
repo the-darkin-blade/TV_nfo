@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>笑棠出言　指责星柏</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>4157975</id>
+  <uniqueid default="false" type="tmdb">2298775</uniqueid>
+  <uniqueid default="false" type="trakt">1644056</uniqueid>
+  <uniqueid default="true" type="tvdb">4157975</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>可可因爱牺牲，求助应驹救星柏，但两人关系因此破裂。星柏醉酒后殴打可可，两人关系进一步恶化。一烈欲与内地集团交易毒品，国彬推脱，笑棠则主动提出负责水路运输。笑棠向星柏透露此事，星柏震惊。望晴得知后，提醒笑棠身份并提议香港截获毒品，笑棠应允。但交易当天，笑棠将毒品带走直赴内地。笑棠与望晴共度温馨夜晚，随后告知望晴交易安排。警方行动失败，笑棠已携毒品前往内地。星柏与可可关系持续紧张，而笑棠的卧底行动愈发危险，但他仍坚守职责，决心完成任务。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2681</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E19.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

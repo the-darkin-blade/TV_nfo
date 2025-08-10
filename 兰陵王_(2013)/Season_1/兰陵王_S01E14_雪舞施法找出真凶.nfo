@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>雪舞施法找出真凶</title>
+  <originaltitle>雪舞施法找出真凶</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>4659257</id>
+  <uniqueid default="false" type="tmdb">1224922</uniqueid>
+  <uniqueid default="false" type="trakt">1233213</uniqueid>
+  <uniqueid default="true" type="tvdb">4659257</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>为了在皇帝面前抹黑兰陵王，祖珽带着大批人马来到兰陵王府东翻西找，并在雪舞床下搜出咒死皇上的大逆邪物。尽管祖珽所作所为有诸多破绽，但皇上早已气急败坏，认为兰陵王诅咒他不得好死。雪舞的离去更让祖珽有机可趁，他硬是诬陷雪舞是兰陵王包养的妖女，专门施以镇魇之术，好诅咒皇上藉以伺机窜位。兰陵王百口莫辩，只得被押入大牢，死期在即，而郑儿作为此事唯一的人证早已吓傻。她义愤填膺地去找祖珽理论，却狠遭毒手，遭到囚禁。雪舞全然不知她前脚离开，后脚祖珽来兰陵王府兴风作浪的事情。雪舞在城中与奶奶久别重逢，发现奶奶更加苍老。雪舞一想到自己任性离开白山村，让奶奶担心着她的安危，她就自责内疚不已。雪舞决定要和奶奶回到白山村，但就在祖孙二人将要离开之时，雪舞探出窗外看却见到四处城墙全都贴上了公告纸，公告纸上一张是公告兰陵王通敌大罪，另一张则是通缉杨雪舞，雪舞陷入了两难，最后，她还是选择暂时离开奶奶，回到兰陵王身边。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep14_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

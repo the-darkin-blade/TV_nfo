@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>失枪复现　笑棠担心</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>4145214</id>
+  <uniqueid default="false" type="tmdb">2298753</uniqueid>
+  <uniqueid default="false" type="trakt">1644039</uniqueid>
+  <uniqueid default="true" type="tvdb">4145214</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>司徒凯锁定越南仔藏身地，O记成功拘捕他，但邵喜仍逍遥法外。家培与望晴怀疑笑棠因欠债而私吞赃款，并可能涉及国生被杀案。家培发现国生失去摄录机的记录异常详细，心生疑惑。笑棠无意中发现窃听器，谋划对策。家培告知笑棠失枪上有其指纹，笑棠面不改色。邵喜发现金表被长禄所得，怒找星柏算账，可可通知星柏逃离。笑棠故意误导望晴，以为自己有同党。家培找到国生遗失的摄录机，内有记忆卡，笑棠被O记带回调查，却守口如瓶。案件扑朔迷离，真相待揭。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2694</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E04.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>借醉生事　笑棠被捕</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>4154439</id>
+  <uniqueid default="false" type="tmdb">2298770</uniqueid>
+  <uniqueid default="false" type="trakt">1644052</uniqueid>
+  <uniqueid default="true" type="tvdb">4154439</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>少杰在藏毒单位失踪，家培怀疑其身份暴露，全力搜救。星柏折磨少杰并引笑棠至天台，以毒品为饵换取少杰下落。笑棠交出毒品，救出昏迷的少杰，但破坏了警方部署，让星柏逃脱。家培虽理解笑棠苦衷，仍停其职查办。望晴陪伴笑棠，尝试说服俊龙作证，但无果。笑棠酒后欲打星柏发泄，被拘捕。家培坦言笑棠将遭革职，望晴告知时两人拥吻。CIB众人对笑棠被革职气愤，立青欲找上级理论。家培带望晴到一住宅，望晴误以为有秘密任务。星柏取回毒品未受责备，反得台湾交易机会，但随后被警方拘捕，令可可惊愕。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2697</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E15.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

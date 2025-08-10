@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>黑警落网假死局破</title>
+  <originaltitle>Episode 24</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id>5001031</id>
+  <uniqueid default="false" type="tmdb">2171084</uniqueid>
+  <uniqueid default="false" type="trakt">1315204</uniqueid>
+  <uniqueid default="true" type="tvdb">5001031</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小嘉发现欢喜打算潜逃国外后施计拖延旅行计划，欢喜早已知晓小嘉的身份却仍当她是女儿。羡昕干扰警方行动助卓凯和羡晴逃脱，她受处分后提出辞职。家强游说希微命令学华放过卓凯，随后卓凯历经风险后公开学华的犯罪证据。欢喜因藏有新界地契而遭到希微追杀，家强假意杀死欢喜以此夺位并取得希微信任。欢喜手下误会家强，欢喜致电解释时却被希微手下发现，随后希微抓住欢喜时小嘉养母碰巧出现。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2660</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Line.Walker.E24_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

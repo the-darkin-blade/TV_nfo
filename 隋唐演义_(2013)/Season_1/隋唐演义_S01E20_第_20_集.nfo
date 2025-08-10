@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 20 集</title>
+  <originaltitle>第 20 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783843</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>玉郡主以死威胁，宇文成都伤心欲绝，忍痛看着玉郡主随秦琼而去。　　罗艺接到命令，剿杀南阳侯伍云召，罗艺命张公谨先行一步，密告伍云召速速逃离南阳关。而他与罗成就拖延时间，给伍云召出逃留出时间。　　麻叔谋见罗艺几日无动静，便着急起来。　　宇文成都放走玉郡主和秦琼，回想起李忠所言，得知此次让李忠追杀玉郡主的乃是宇文化及，宇文成都悲愤至极，自知自己保护不了玉郡主，才决定放她而去。　　此时的伍云召对其父被杀一事毫不知情，他正忙于公务，因为判案有情，朱灿对伍云召感激不已。公堂之上，堂兄伍天锡前来拜访伍云召，伍云召碍于伍天锡山大王的身份以及对朝廷的忠心，规劝伍天锡改邪归正，效忠朝廷，伍天锡知兄弟二人不同道，无奈独自离去。　　张公谨到达南阳，将伍建章直言敢谏却遭到杨广杀害的事情原委告知伍云召，伍云召却不相信张公谨所言，反将其关入大牢。途中，罗艺装病拖延行程，麻叔谋心急似火，率兵先行进入南阳关。直到麻叔谋城下叫阵，伍云召才知张公谨所言属实，悲愤之下，伍云召杀出南阳城，麻叔谋手下兵将不战而退，麻叔谋无奈之下，不得不败逃而走。麻叔谋败回营中，罗艺施计，以麻叔谋通敌罪名，要斩杀麻叔谋。　　朱灿得知伍家之事，愤然而起，誓要帮助伍云召杀出重围。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2667</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>20_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:31:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>上升发现大量违禁品</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>再战明天</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>5017803</id>
+  <uniqueid default="false" type="tmdb">3236327</uniqueid>
+  <uniqueid default="false" type="trakt">1323091</uniqueid>
+  <uniqueid default="true" type="tvdb">5017803</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>安迪因为爱嘉突然悔婚，故亲自回港了解情况，并出言指责上升未有用心照顾爱嘉。上升被安迪斥责感无言以对，更刻意把自己对爱嘉的爱意隐藏起来。
+
+上升希望上游在香港考取会计师资格，找一份稳定工作。但上游的心愿是加入惩教署，却因害怕上升反对而未有表明心迹。上游缺席考试，危站海边期望能着凉染病，碰巧正桥路过并出言慰问，才知道上游的志愿是加入惩教署。  伟晋出手　协助春光  正桥一直用心照顾好好在狱中的生活，但好好同时亦一直受到其他囚犯的暴力对待。一次，天生痴呆的女囚犯惠珠发现好好被毒打，即假装病发晕倒，让好好得以脱身。好好得悉惠珠好意，二人因此成为朋友互相扶持。
+
+春光一直认真地处理囚犯的诉求，并决心为一名囚犯处理其感情问题。但春光为了协助囚犯，竟在街上对人造成骚扰结果被警察盘问，最后需要伟晋出面才摆平事件。之后，伟晋向春光提供了意见，令她成功安抚为情所困的囚犯。  正桥担任　上游教练  细响在独立囚室的刑罚即将期满，上升担心把细响带返一般囚室会出现问题，故请来心理专家评估细响的精神状况。经一番讨论，上升最终决定按原定计划把细响带回一般囚室。颂恩与细响再次相遇，他们的严峻关系亦将一触即发。  上游在正桥的鼓励下加紧训练体能，以应付惩教署的入职考试。正桥亦主动担任上游的私人教练。在正桥指导上游的过程中，正桥察觉到自己有成为教官的才能，决定申请调职成为惩教中心的教官。  颂恩坚拒　解开心结  秋分在子书的要求下，决定与颂恩对话，以求解开颂恩心结，重拾其人生希望。但想不到颂恩在与秋分的相处中一直保持沉默，令经验丰富的秋分亦未能成功与他混熟，最终无功而返。  太平绅士到赤柱监狱进行探访，某名囚犯突然晕倒在地，经上升了解后，发现囚犯在狱中自行纹身，受细菌感染而晕倒。上升为了查出纹身工具的流入途径，开始进行大规模搜索，竟发现监狱出现各式各样的违禁品，令惩教署高层大为紧张。  爱嘉要求　上升坦白  安迪回港后经常与爱嘉见面，更经常回忆起爱嘉还是婴儿时的往事。爱嘉明白安迪不断分享这些故事，是想藉这些回忆加深自己与上升的叔侄关系。爱嘉忍不住与上升单独对话，祈望他能坦白自己的真正心意。  但最后上升仍然选择保持沉默，令两人的关系陷入胶着。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2695</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.再戰明天.E08.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

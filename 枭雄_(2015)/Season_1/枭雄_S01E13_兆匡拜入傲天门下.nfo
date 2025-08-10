@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>兆匡拜入傲天门下</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490906</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>傲天计划开设银行，只欠郭天行行长做担保，但天行对此事漠不关心。婷婷采访天行时，又见兆匡与傲天在一起，兆匡指只有天行的银行做担保对傲天最有利。傲天即吩咐敬泉，调查天行的背景。
+
+兆匡多次为傲天解决困难，傲天非常欣赏他，并希望兆匡能拜入他门下。傲天想安排啸山入股纱厂，但国栋颇有顾虑。兆匡提到傲天想他拜入门下，但婷婷不喜欢，国栋指两者没有冲突。
+
+啸山要求 工人服从
+
+兆匡带婷婷到洋酒货仓，指这里曾是三铿的旧烟格，但已改头换面。婷婷问兆匡会否加入傲天门下，兆匡誓言不会。啸山准备巡视纱厂，想带学尧同去，但学尧推却。啸山来到纱厂便摆出一副大老板姿态，要所有人包括国栋都要服从他，并安排手下阿义做工头。
+
+阿义空降成为新工头，使工人甚为不服，尤其是俊杰，因他以前曾被阿义欺负过，同事毛冠潮指只要做好本份，就不用怕他。
+
+耀光来见小楼，他与其他戏迷都期待小楼可以再开戏，但小楼坦言将会离开上海，并已经收拾好行李。月兰知道小楼要离开，决定邀请她在自己家中暂住，更坦言文彬不敢去傲天家。小楼明白月兰心思后大喜并十分感激，傲天知道小楼来住，亦十分高兴。
+
+报道真相 婷婷被责
+
+月兰与傲天再次劝小楼重踏台板，小楼愿意重新考虑。敬泉向傲天汇报，天行与日本人有间接生意来往。
+
+敬天无意中发现绮红与电影公司老板相当亲密，而绮红亦无意中发现金棠的夹万锁匙。绮红告知金棠将与电影公司老板去天津拍戏，金棠表面上若无其事，其实醋意大发，暗中跟踪绮红。
+
+婷婷发现天行与日本人往来甚密，怀疑他勾结日本人，但报馆老板怕天行报复，不肯刊登她的报道；敬泉安慰婷婷，无须理会老板的责骂，做记者就要报道真相。
+
+诬蔑小楼 忘恩负义
+
+婷婷原谅兆匡，二人继续约会，但原来兆匡违背诺言。兆匡软硬兼施，加上法律知识，轻易帮天行收取恶霸的坏账。婷婷则继续调查天行的私生活，并拍到天行与日本人交往的照片。兆匡知道事情愈来愈危险，劝她不要再查。
+
+小楼为演出举行记者会，她非常紧张。傲天从旁与她谈天说笑，让她放松心情。小楼问他欣赏哪位刀马旦演的《穆桂英挂帅》，傲天欲言又止。
+
+小楼去到剧院，碰巧文彬亦召开记者会，宣布他的新演出，而且是与小楼于同一日表演。文彬出言诬蔑小楼忘恩负义，刻意与他作对，月兰看在眼里，怒火中烧……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2660</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep13.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

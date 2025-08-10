@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 58 集</title>
+  <originaltitle>第 58 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>58</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783884</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>王世充热情款待单雄信，单雄信骑虎难下，只能应允。　　瓦岗兵力薄弱，汜水关竟被人抢占，罗成再无法忍受李密之不作为。罗成怒斥李密，几言不合，李密怒斩罗成。秦琼见李密无丝毫悔改之意，决意离开。王伯当送别秦琼、罗成、程咬金独自一人留在瓦岗。秦琼一行人等，商量着前去洛阳看望单雄信，再做打算。　　单雄信得王世充重用，王世充要他招来瓦岗旧将，与他一起平定天下，报李渊抄杀满门之仇。单雄信甚为感动，日日巡街，打听瓦岗兄弟们的下落。一日，单雄信巡街之时，正遇秦琼、罗成、程咬金等人，高兴不已，将几人迎到府中。王世充要单雄信一定留住此三人，又怕李唐之人前来拉拢，于是叮嘱单雄信要严加防范。罗成、单盈盈终于再次相见，二人交心，终解开心结，重归于好，并约定相守到老，永不分离。　　李渊父子分析天下大势，派李世民、李建成、李元吉前去山西招兵。山西太原铁匠尉迟恭，力大无穷，能抵三人，听说李唐李世民正在招兵，于是辞别义父乔公山，前去投奔李世民。临行前，乔公山赠尉迟恭一对十八节的雌雄紫金钢鞭。　　李世民得知秦琼、罗成、程咬金三人正在洛阳，于是想请徐茂公前去请来此三人为大唐效力，徐茂公欣然应允，但言时机未到。　　尉迟恭前去投军，李建成、李元吉却正在寻欢作乐，根本不理征兵之事。尉迟恭久等未有音讯，于是闯进衙门找征兵之人，却遭一顿毒打。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2653</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>58_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="58" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

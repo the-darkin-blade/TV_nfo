@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:30:43 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 12 集</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>秀才遇着兵</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>5090457</id>
+  <uniqueid default="false" type="tmdb">284466</uniqueid>
+  <uniqueid default="false" type="tvrage">477179</uniqueid>
+  <uniqueid default="false" type="trakt">1541901</uniqueid>
+  <uniqueid default="true" type="tvdb">5090457</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>义妹眼见母亲危在旦夕，于是不眠不休细心照顾，金英见女儿对自己不瞅不睬，又宁愿留在衙门也不回家，知道她内心极度挣扎。万太保怀疑义妹与飞鹰有关，亲身到良才县为朝廷下旨捉拿飞鹰。
+
+楚雄看出金英母女关系突然转坏更起疑心，想到利用江湖中人对飞鹰悬红虎视眈眈，散播谣言令他们绑架义妹引飞鹰现身。东楼接到义妹被掳后，知道是捉拿飞鹰的陷阱，东楼设计让罗师傅假扮飞鹰救义妹，在众目睽睽之下被揭破身份，粉碎飞鹰重现的传闻。
+
+东楼令义妹以为母亲为求罗师傅出手相救，答应以身相许，义妹赶到制止，发现只是一场误会，母女两人冰释前嫌。原来金英幼时父母双亡，被绿林好汉抚养成人，更练得一身好武功，长大后开始劫富济贫；因身手了得，多年来只有神捕陆战有力追捕，亦只有他知飞鹰是女儿身。
+
+但陆战与金英多次交手后却似无心缉捕，一次陆战误堕山崖，金英立即撕烂名画以卷轴为陆战护着脚骨，神捕趁机表白心迹，飞鹰感动，决退出江湖下嫁陆战。两人更视该卷轴为定情信物。金英把卷轴送给义妹，让义妹转赠意中人。义妹发觉自己喜欢了东楼，误打误撞终把卷轴送给他，但东楼却未知她心意。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2611</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Gentle.Crackdown.E12.Hdtv.1080I.H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

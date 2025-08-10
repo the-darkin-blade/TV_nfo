@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>丁敏笑棠　发生关系</title>
+  <originaltitle>Episode 21</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id>4160833</id>
+  <uniqueid default="false" type="tmdb">2298777</uniqueid>
+  <uniqueid default="false" type="trakt">1644061</uniqueid>
+  <uniqueid default="true" type="tvdb">4160833</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>望晴救出坠海的笑棠，两人感情加深。国彬因对付笑棠之事败露被捕，一烈身边仅余星柏与笑棠相争。笑棠挂念望晴，偷偷与她见面，感情升温。笑棠得知一烈妻儿回港，认为是接近丁敏的好时机。丁敏钱包丢失得笑棠相助，两人被困电梯时笑棠献殷勤，望晴心中不是味儿。丁敏交易毒品时遇险，笑棠跟踪发现一烈派赵克杀人灭口。笑棠救走丁敏并找医生治疗，丁敏得知真相后震惊。丁敏向笑棠透露一烈藏毒仓库，两人发生关系，感情慰藉。一烈误以为丁敏不知内情，对她安抚。笑棠利用丁敏获取情报，与星柏的争斗愈发激烈。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2693</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E21.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

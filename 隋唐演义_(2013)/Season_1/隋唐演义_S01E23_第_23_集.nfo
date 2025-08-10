@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 23 集</title>
+  <originaltitle>第 23 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783846</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>果然，秦琼不久就查到汝南庄，尤俊达等人谎办丧事掩盖过去，秦琼再次进庄，发现尤俊达等人办丧为假，被关着的程咬金听闻噪杂之声，打了出来，承认自己就是劫皇纲之人，程咬金和秦琼一阵对打，程母见程咬金又坏了事，不禁哭了起来。　　秦琼从程母口中得知，程咬金之父乃是秦琼父亲秦彝的副官，二人生前是八拜兄弟，程母乃是秦琼干娘，秦琼认下程母。　　尤俊达将劫皇纲之事向秦琼说明，秦琼答应不抓捕程咬金等人，秦琼独自回到府衙，思虑之下，为保程咬金、尤俊达，秦琼决心冒名程咬金赴登州王府认罪。　　尤俊达不放心秦琼，派人暗中探听秦琼动静，并请来玉郡主，将事情经过告知了玉郡主。　　秦琼回到家中，为母亲尽孝，实则在向母亲死别，秦琼辞别母亲，又来到客栈，并未见玉郡主，只是托人将一封信交给玉郡主。　　玉郡主回想着往昔的点点滴滴，秦琼的侠义之心她已然了然于心，最终她下定回登州王府，救下要代人顶罪的秦琼。　　玉郡主和程咬金、尤俊达快马加鞭赶往登州府，玉郡主将程咬金、尤俊达安顿在登州府附近，自己进城探明情况。此时秦琼已经来到登州王府，装扮成程咬金的模样，前来挑衅。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2780</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>23_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:31:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>好好被囚犯欺负</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>再战明天</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>5016842</id>
+  <uniqueid default="false" type="tmdb">3236326</uniqueid>
+  <uniqueid default="false" type="trakt">1322949</uniqueid>
+  <uniqueid default="true" type="tvdb">5016842</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>兆江是伟晋的父亲，一直以来伟晋对父亲的人生观不敢苟同，故父子关系并不和睦，连兆江邀请伟晋用膳，伟晋也故意带春光一起赴约。兆江心知伟晋完全不把自己放在眼内，但仍向伟晋提出自己将会推出自传一事，并希望能得伟晋帮忙，但却换来了儿子的嘲讽。  这时，雅蕾在餐厅出现，伟晋才知道雅蕾是提议兆江推出自传的人，伟晋为此大感气结，并带春光一起离开。
+
+上升推荐　正桥晋升  立桂明白自己离退休之期已近，但仍相信上级会在退休前安排自己升迁，让他能在退休时取得更多的退休金，故此心中一直充满希望。想不到在惩教署的高层会议中，上升却推荐正桥升迁，而高层也决定给予正桥机会。
+
+好好早前因一时冲动殴打囚犯，需要上庭受审，她再次拜托正桥帮忙，但这次正桥却认为好好不应完全依赖别人，要她自行准备求情信。好好为了早日与儿子团聚，接受了正桥的建议。
+
+立桂得知　升职无望  立桂察觉到高层对自己的态度有所改变，意识到自己失去了升迁机会。及后，立桂无意间看到内部会议文件，才知道上升支持正桥升迁，大感失望。
+
+囚室饭堂内，囚犯石清主动与其他囚犯分享自己安排的特别膳食，原来是石清偷偷地把监狱中的死乌鸦烹煮，才会有此特别膳食。其他囚犯得知自己吃了死雀后大为愤怒，便与石清发生了冲突，正桥见状即冲入人群中制止暴乱。
+
+正桥遗失　监狱锁匙  正桥顺利处理好囚房内发生的暴力事件后，突然发现自己身上的监狱锁匙不翼而飞。正桥担心监狱锁匙流出，便即时通知上升。上升认为事态严重，便动员监狱中的所有人进行地毯式搜查。
+
+最后在员工休息室顺利寻回锁匙，但正桥却因遗失锁匙一事被上升纪律处分，更因此失去了升迁机会。立桂得悉此事后，表示替他难过，正桥却怀疑遗失锁匙一事，可能与立桂有关系，感到十分失落。不过正桥依然主动替立桂偿还债务，令立桂心存内疚。  为保安全　放弃反抗  好好因为已经不需要在狱中照顾儿子，故被安排搬到一般囚室服刑，想不到她一转囚室，即时遭其他囚犯以暴力对待，好好不想再惹事端，决定不作反抗。  正桥被处分后打算调离赤柱监狱，故向春光请教意见，但最后正桥仍未能下定目标。爱嘉出院当日，上升因害怕身边人的闲言闲语，决定不接爱嘉出院。爱嘉与朋友饮酒消遣后乘车回家，却因喝醉而在朋友面前显得毫无防备。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2686</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.再戰明天.E07.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

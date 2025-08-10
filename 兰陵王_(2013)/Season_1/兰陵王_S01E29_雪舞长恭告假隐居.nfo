@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>雪舞长恭告假隐居</title>
+  <originaltitle>雪舞长恭告假隐居</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id>4659272</id>
+  <uniqueid default="false" type="tmdb">1224937</uniqueid>
+  <uniqueid default="false" type="trakt">1235298</uniqueid>
+  <uniqueid default="true" type="tvdb">4659272</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>皇帝寝宫传出闹鬼的谣言，高湛夜不能寐，高纬对父皇表示关心，高湛要他多向兰陵王学习。在段韶及安德王等人劝说下，兰陵王带雪舞暂时告假隐居，两人回到长恭母亲的旧居，得到了难得的平静与幸福，却不知朝廷已在暗潮汹涌。就在高长恭隐退之际，被囚禁的祖珽利用高纬迷信之弱点，重出牢狱，与太子高纬结盟。祖珽杀害小孩制造宫中“鬼敲门”事件，使高湛为避天祸，同意择日转为太上皇，让出皇位于太子。高纬卖官鬻爵，填补国库。高湛实地查访，高纬提拔的官员主动献出贡银，高湛夸奖祖珽做的不错。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep29_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

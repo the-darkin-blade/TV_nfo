@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>车内藏尸卓凯被抓</title>
+  <originaltitle>Episode 21</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id>4997784</id>
+  <uniqueid default="false" type="tmdb">2171081</uniqueid>
+  <uniqueid default="false" type="trakt">1314621</uniqueid>
+  <uniqueid default="true" type="tvdb">4997784</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>欢喜受宋先生要挟加大收地力度，小嘉跟踪时对幕后人产生好奇之心。小嘉和家强说服一村民搬迁时地痞现身放火烧屋，村民对二人心生怨恨。浩勤突然想起当日兆良并非坠楼致死，而是被另一名黑警所杀，卓凯为查明真相暂停恢复卧底的身份。卓凯来到兆良的亲戚家调查，之后巡警在卓凯车内发现兆良亲戚的尸体。卓凯被拘捕后暗中指示羡晴与卧底见面，随后他设局查出黑警竟是上司郭学华。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2665</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Line.Walker.E21_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

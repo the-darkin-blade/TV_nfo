@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>傲天小楼遭日军捉拿</title>
+  <originaltitle>Episode 30</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490923</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小楼为营救小蝶的事辗转难眠，月兰出言安慰。啸山为防止月兰欺骗他，故一早来到小楼楼下，发现傲天扶着伤者下来，啸山觉得那人一定是小蝶，随即上前跟踪。
+
+当啸山发现傲天并非驶往车站方向时，啸山认为他们是去取回东条的文件。傲天驶回三铿公司，啸山跟着进去，并派人搜查整间公司，却没有东条的文件。这时，傲天把啸山囚禁在密室，以为可阻止啸山的追捕，岂料聪明反被聪明误。
+
+行刑吐露 心底情意
+
+韩立发现傲天身陷险境，决定留在上海接应傲天。啸山心急如焚，决定把傲天二人交由东条处置。傲天与小楼被日军囚禁，生死未卜。
+
+傲天为安慰小楼，提起《穆桂英挂帅》，他说穆桂英不怕牺牲，为国捐躯，小楼即时为傲天再度献唱。傲天与小楼快将被处决，小楼坦言知道傲天保留当日之戏票，答谢傲天一直以来的帮助，傲天十分感动。
+
+傲天的门生终于知道傲天并非汉奸，他们集齐在乔宅，跪求傲天原谅，傲天称不知者不罪。
+
+啸山拍摄 大屠杀片
+
+东条怒气冲天，要啸山讲一个不杀他的理由，啸山求东条让他将功补过。啸山见到学尧的摄影机，即想到一个办法。他叫学尧拍一段审犯片段，若抗日分子不肯供出同党的位置，即在摄影机前屠杀，因杀人场面太震撼，学尧及其他人都不敢直视，啸山却杀得性起。
+
+婷婷把啸山的屠杀抗日分子照片交给傲天，傲天完全不能接受，指他已经成为狂人。韩立来见傲天，指啸山每日都有很多门生保护，国统处人员无法下手，但傲天直言他能够。自从学尧见啸山屠杀中国人后，每晚都做恶梦，美琴问是否啸山杀人，学尧不敢说。
+
+美琴苦劝 啸山收手
+
+美琴决定要劝告啸山，但啸山性情大变，每时每刻都怕身边的人会杀害他。美琴欲一家离开上海，但啸山指全中国都属于日本人，根本无路可走。
+
+美琴偷偷会见傲天，傲天指啸山帮东条做事，已经杀了很多人。美琴希望啸山收手，但无从入手。傲天计划利用美琴，让啸山对付东条，美琴为助啸山改邪归正，决定协助傲天。
+
+美琴失踪，啸山相当紧张，他命令手下四出搜查。这时，傲天出现，坦言是他软禁美琴，要啸山用游击队名单及东条的人头来交换。啸山心知是九死一生，但为保美琴性命，只好答应。美琴知道啸山答应刺杀东条，改过自新，心感安慰，但傲天心中，却想着另一件事。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2671</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep30.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

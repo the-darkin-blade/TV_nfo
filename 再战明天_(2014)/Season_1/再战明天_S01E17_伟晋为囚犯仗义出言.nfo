@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:31:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>伟晋为囚犯仗义出言</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>再战明天</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>5030627</id>
+  <uniqueid default="false" type="tmdb">3236336</uniqueid>
+  <uniqueid default="false" type="trakt">1325152</uniqueid>
+  <uniqueid default="true" type="tvdb">5030627</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>爱嘉因为上升向她提出分手，加上惠珠自杀而陷入崩溃，上升见状于心不忍，便一直留在爱嘉身边加以照顾和鼓励，可惜未见起色。  得春光帮忙，爱嘉与心理医生见面进行治疗，爱嘉在会面中担心自己未能再担任惩教工作，心理医生建议爱嘉重拾惩教人员的使命感，以消除自己的心理阴影。  爱嘉回到赤柱后即被正桥带回面店，原来上升为了鼓励爱嘉重新振作，便与一众好友暗中预备派对给爱嘉惊喜，爱嘉感到自己在人生低潮中并不孤单，心中开始重燃希望。  小轩主动　为错道歉  小轩一直为揭发正桥违规一事感到内疚，便利用在法庭实习的机会，向正桥表达自己的歉意，正桥亦接受了小轩的道歉。经历了是次事件，一众学员认同了正桥的教导方法，开始积极地完成每一节的训练课程。  春光为了跟进释囚的生活状况而得罪了一众流氓，因而被流氓袭击身陷险境。幸好伟晋一直暗中跟在春光身后，看到她遇险即上前营救，令春光大为感动。  开幕表演　发生失窃  伟晋与春光一起参加囚犯更生中心的开幕礼，并安排了哥连臣角的囚犯负责表演。伟晋发现活动是由雅蕾负责统筹，她更邀请兆江到场参与开幕礼，不禁令伟晋感到十分无奈。
+
+表演顺利结束，这时雅蕾却发现捐款箱被贼人爆窃，故要求在场的参加者留下进行搜查，一众达官贵人怀疑是囚犯所为，即出言冷嘲热讽。  伟晋看不过眼，挺身而出为囚犯辩护，最后雅蕾亦成功找出真正犯人，兆江把一切看在眼内，亦对儿子那份对惩教工作的坚持感到欣赏。  伟晋发现　雅蕾用心  伟晋与春光路过书报摊，竟发现雅蕾在美国曾经坐牢的事被传媒揭发，即勾起了伟晋对雅蕾的同情心。  伟晋亲自到雅蕾经营的餐厅与雅蕾见面，原来雅蕾一早知道自己的往事会被人揭发，并打算利用这机会树立形象，以巩固自己在兆江身边的地位。  伟晋知道雅蕾利用自己的同情心后，怒不可遏，并决定与雅蕾断绝来往。即使如此，也没有令雅蕾感到一丝后悔。
+
+上升要求　爱嘉协助  百云寻死的情况愈来愈严重，上升便安排心理医生到赤柱监狱研究案情。心理医生认为要百云重新振作，唯一办法就是安排过去的受害者与百云见面，以解开百云多年来的心结。
+
+上升认同心理医生的观点，便联络罗湖惩教所安排爱嘉到赤柱监狱与百云见面。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2695</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.再戰明天.E17.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

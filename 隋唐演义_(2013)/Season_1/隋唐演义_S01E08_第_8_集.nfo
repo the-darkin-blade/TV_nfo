@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 8 集</title>
+  <originaltitle>第 8 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2681175</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>武安福目中无人，杀向秦琼、罗成，秦琼和罗成躲避不及，武安福意外自戕而亡。　　秦琼自责不已，王妃安抚众人，兵来将挡、水来土掩，罗艺也想趁机杀杀武家兄弟的威风。　　武奎、武亮得知武安福被杀，愤然带兵来到北平王府兴师问罪，要罗艺交出秦琼。　　罗艺泰然自如，派人设下埋伏，武奎、武亮二人自知莽撞必然吃亏，于是知难而退。但是武家兄弟并不罢休，誓要秦琼性命为武安福报仇，二人商议，借八月十五操练兵马之时，让秦琼上场比武，再伺机暗杀秦琼。　　罗艺接到邀书，已知武家兄弟的预谋，他让秦琼练好武艺，迎接比武。单盈盈为己之过悔不当初，她不敢回二贤庄，又担心秦琼因此受到陷害，便愈加苦恼。　　杨广趁太子杨勇打入禁苑之际，勾结宇文化及，稳固自己的低位，为了早日登上太子之位，他便以美色器乐笼络威胁越王杨素，杨素为了自保，不得不答应杨广，向文帝谏言，废黜太子杨勇，立晋王杨广为太子一事。　　越王杨素谏言重立太子，文帝亦有此意，独孤皇后知文帝用心，亦是赞成，但文帝对此并未下定决心。　　陈公公将文帝重立太子之意告知杨广，杨广知文帝未下决定，他又与宇文化及串通，伺机再加一把火，让文帝坚定废黜太子之心，以期彻底除掉太子杨勇。　　北平王府，单盈盈和罗成来往尽是口舌之争，单盈盈看不惯罗成傲慢姿态，罗成也看不惯单盈盈粗莽行径，两人互不顺眼，却不得不为了秦琼比武之事频繁来往。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2625</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>08_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

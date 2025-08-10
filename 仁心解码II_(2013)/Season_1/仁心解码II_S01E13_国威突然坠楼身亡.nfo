@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>国威突然坠楼身亡</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>仁心解码II</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">913773</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>立仁不明白为何子安执意替人顶罪，颂恩说出一段往事，原因子安曾因追小偷错过一班巴士而幸免于难，深感天主让他重生去为教会付出。立仁指国威正是典型的反社会人格，可是颂恩不相信国威会杀人。
+
+世邦在街上与日勤通电话，告之已问明母亲身世的事，母亲否认他发现的事。谈话中途世邦遇见国威，便追随他至一工厂大厦。世邦不敢妄动，途中已通知国彬到来会合。国彬率众进大厦搜查，世邦留下看守出入口。怎料不久后，国威竟从大厦堕下，他临终前见到世邦，认错世邦是儿时玩伴文仔，留下一声道歉便咽气身亡。
+
+颂恩子安　大受打击
+
+国彬在大厦发现一单位可能是国威的藏匿之所，并找到一段国威生前拍下的自拍片段。片段中国威承认一切罪行，更向子安和颂恩致歉。颂恩无法接受恍如家人般的至亲自杀而痛哭，国彬安慰她，说自己的父亲也是吞枪自杀，所以明白她的感受。
+
+启超、立仁和世邦通知子安国威已自杀的消息，子安又再激动得难以自制。启超单独安慰子安，才能安抚他的情绪。世邦前住灵堂拜祭国威，遇到颂恩和启超也一同到来，便向二人道出已查明自己的身世。
+
+原来他与文仔是双胞胎兄弟，世邦很在意国威死前的道歉，为此想知国威与文仔是否有过节，但颂恩和启超都不觉得二人特别交恶。
+
+平时会相约看球赛的三人组加上国彬，成了四个大男人相聚的局面。启荣见国彬已与颂恩感情大有进展，自然极为羡慕，又见志森收到嘉丽短讯，更不忿只有自己孤身一人。立仁教他发短讯约会别人，启荣不屑认为是懦夫行为。
+
+志森回避　嘉丽爱意
+
+立仁又注意到志森与嘉丽关系状甚暧昧，志森才惊觉嘉丽对自己有意，反而他本人完全看不出来。于是志森翌日便向嘉丽表示他和妻子情比金坚，又不用嘉丽为自已的生活打点，嘉丽感没趣便淡然离开。
+
+瑶珠一度担心志森家变，要他好好想清楚自己对嘉丽的感情。此时二人见到晓彤在街头表演默剧，志森才知道女儿在大学并非主修法律，而是戏剧，父女又再大吵一场。志森原渴望嘉丽如旧能辅导女儿，但嘉丽反叫他找身在海外的妻子处理。
+
+启荣思家　首次约会
+
+启荣原本以手机的多人聊天室功能相约同事吃火锅，却误把约会思家的讯息传至多人聊天室中，顿时成为同事间热话，连年月也向启荣给予贴心小提示，告之思家喜欢的食店……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2647</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.A.Great.Way.To.Care.Ii.E13.1080I.Hdtv.H264-Area11(1)_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

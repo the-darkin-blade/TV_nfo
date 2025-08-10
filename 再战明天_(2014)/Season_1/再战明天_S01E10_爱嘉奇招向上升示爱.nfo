@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:31:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>爱嘉奇招向上升示爱</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>再战明天</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>5019279</id>
+  <uniqueid default="false" type="tmdb">3236329</uniqueid>
+  <uniqueid default="false" type="trakt">1323411</uniqueid>
+  <uniqueid default="true" type="tvdb">5019279</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>爱嘉知道了上升一直收藏在心里的秘密后，决定向正桥倾诉心事，并将自己打算辞去惩教工作及离开香港的决定告知他。
+
+正桥早察觉到爱嘉与上升之间的感情问题，故向爱嘉提出自己的见解。同时正桥亦察觉到爱嘉开始对惩教工作感到迷惘，建议爱嘉重新考虑自己的事业前途，爱嘉闻言后并没有即时回应。  爱嘉回到罗湖惩教所，发现没有抽烟习惯的囚犯购买香烟，决定为此作出调查，并决定到好好等人的囚室进行突击搜查。而囚犯为了推卸责任，早将香烟全数交给好好保管。爱嘉见状便以加刑来威胁好好供出主谋，吓得好好向爱嘉跪地求饶。  细响密谋　逃狱计划  好好为了在狱中得享安逸生活而向暴力低头，爱嘉因而独自与好好进行对话并动之以理，终令好好决心改变自己的人生态度，爱嘉亦因此事而重拾工作热情。
+
+性格变得积极的爱嘉，开始构思方法向上升示爱，终于想出了一个能够向上升表达自己心意的方法。
+
+在赤柱，上升为了查出狱中违禁品的来源，对囚犯展开突击搜查，竟然搜出一部属于细响的手提电话，随即决定将细响囚禁在独立囚室听候发落。
+
+立桂知道细响的事被上升揭发后，亦显得十分不安，独自与细响进行对话，细响竟在此时指示立桂协助其逃狱的计划。  上游决心　感动上升  上游正式加入惩教署，开始了惩教署的入职训练，而上游的直属教官正是刚上任不久的正桥。  正桥的训练相当严格，令资质较差的上游未能跟上训练，最后被正桥处罚，并要独自在操场中进行练习。  上游一心要完成训练，就算天气变坏也毫不放弃继续操练，正桥被上游的决心感动，致电上升要他到操场探望上游。上升亦被其妹的意志力所感动，决定接受她加入惩教署工作的决定。  爱嘉奇招　表达爱意  升回家后，突然发现一张又一张的心意咭，原来爱嘉为了向上升表达爱意，将自己的心意和承诺写在心意咭上。上升将爱嘉收藏起来的心意咭全数找出来，并且细阅咭上的每一句情话，更决定外出寻找爱嘉。  原来爱嘉亦早就在上升的家门前独自等待，并希望上升能够接受自己的爱。上升最终按捺不住自己的感情，将爱嘉抱入怀中。  细响逃狱　引发枪战  细响在立桂的安排下，在监狱中故意闹事，并借故让自己受伤及假装发狂。惩教人员见状即决定将细响送到医院治理，并由立桂陪同细响一起登上救护车。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.再戰明天.E10.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

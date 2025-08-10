@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>挞沙身亡试探家强</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>4981482</id>
+  <uniqueid default="false" type="tmdb">2171068</uniqueid>
+  <uniqueid default="false" type="trakt">1312404</uniqueid>
+  <uniqueid default="true" type="tvdb">4981482</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>卓凯和家强带着挞沙逃离时遇袭发生车祸，二人联手退敌时卓凯意外发现家强似乎受过专业射击训练。挞沙回车里取记忆卡时车辆爆炸致使他粉身碎骨，随后卓凯派人检查被烧毁的记忆卡。欢喜将巨额赏金交给家强，并令浩勤和家强携手合作，之后浩勤借机试探家强时却一无所获。兆良担心欢喜一手遮天便想一挫其锐气，他率人拘捕欢喜等人并游街示众。家强的外围投注站遭到破坏，他也被欢喜手下毒打一顿。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2667</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Line.Walker.E08_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

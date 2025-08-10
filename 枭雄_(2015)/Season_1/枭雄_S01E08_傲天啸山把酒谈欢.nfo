@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>傲天啸山把酒谈欢</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490901</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>枪杀事件后，沃利震怒，要求金棠立即缉拿凶手。金棠怀疑革命党已在华界躲避，并对阿添说，只差一步就能升为督察长，不能有误。
+
+傲天把被拘捕的经过告知文龙，文龙则埋怨他，因为做了他的替身，被啸山打了一顿，傲天知道小莉认识了革命党人，带同文龙回到定邦的住处找她。傲天发现定邦住处已人去楼空，却发现墙上有两幅图案，傲天深信小莉会回来，便在楼下等她出现。
+
+桂生自觉 不配金棠
+
+傲天与文龙等不到小莉，文龙叫傲天先回水果店休息，傲天离开时却被啸山捉着。傲天指学尧偷窃，学尧不认，啸山即命手下教训他，刚巧美琴经过，阻止他下手。金棠的手下遍寻华界，但仍未找到革命党。金棠来见桂生，桂生知道他正为革命党的事而烦恼。
+
+琼姐指桂生要管理整间怡香院相当辛苦，可以找金棠帮手，并说金棠对桂生特别爱护，何不与他在一起。桂生坦言与金棠不能门当户对，若金棠要结婚，也看不上风尘女子。
+
+傲天一直在楼下等待小莉，突然见一人离开住所。傲天悄悄跟到货仓前，认出是当日开枪凶手，即在货仓外偷听。他知道革命党的藏身地点后，立即去找金棠。傲天离开时，却被革命党人发现，并认出他。
+
+出卖情报 不获犒赏
+
+傲天到警察厅途中遇上啸山，啸山欲对付他，但他说知道革命党的下落，要去拿取悬红。傲天向金棠讲出革命党的藏身地点，金棠即命令手下去围捕。傲天想拿取悬红，但金棠却指已被人捷足先登，傲天不服。傲天回到水果店，见档口被铁头捣乱，傲天知道啸山是铁头的克星，所以要求啸山出手相助。
+
+傲天声称他已是啸山手下，更把从铁头身上抢来的钱交给啸山，二人自此成为好友。两人在酒楼把酒谈欢，啸山讲起与美琴的往事，他们二人情投意合但因啸山在军校犯事被开除，想不到美琴仍守在自己身边，啸山感动向美琴家提亲，却遭美琴父亲反对。自此美琴离家出走，跟随啸山过活，因此啸山誓言尽力爱锡美琴与儿子。
+
+金棠柔情 桂生感动
+
+傲天遇到美琴，盛赞她能管得到啸山，实在不容易。美琴反指啸山平时没有朋友，但仍与傲天成为友好，认为他的口才殊不简单。
+
+金棠顺利升为第一位华人督察长，亦是忠义堂话事人，自此黑白两道都以他马首是瞻，但金棠最想尽快捉拿所有革命党。
+
+桂生知道金棠升为督察长，亦为他高兴，但桂生自知是风尘女子，现在金棠地位不同，更不敢主动亲近……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2663</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep08.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

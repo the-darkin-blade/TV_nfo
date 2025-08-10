@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>通过考验接近家强</title>
+  <originaltitle>Episode 2</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id>4973700</id>
+  <uniqueid default="false" type="tmdb">2171062</uniqueid>
+  <uniqueid default="false" type="trakt">1311676</uniqueid>
+  <uniqueid default="true" type="tvdb">4973700</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>家强将从小嘉手中抢回的组织名册交还头目挞沙获其赞赏，他因争夺赌博代理权遭遇鸡成手下阿火追杀并牵连了小嘉，之后挞沙让家强及阿火以盈利来竟逐代理权。卓凯在道行葬礼上看到小嘉后猜出她的身份，小嘉通过卓凯的考验后成为他的直属卧底。为了查出其他四名卧底的身份，小嘉故意接近家强并加入外围赌博集团。正当家强胜券在握时却惊闻兄弟木荣被骗走大量现金一事，之后愤愤不平的木荣独自向阿火讨公道时身陷险境。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2665</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Line.Walker.E02_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

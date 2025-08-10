@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亡国妖后祸国殃民</title>
+  <originaltitle>亡国妖后祸国殃民</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>45</episode>
+  <id>4659291</id>
+  <uniqueid default="false" type="tmdb">1224953</uniqueid>
+  <uniqueid default="false" type="trakt">1237605</uniqueid>
+  <uniqueid default="true" type="tvdb">4659291</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>安德王紧急进宫，向高纬禀报宇文邕御驾亲征，已经攻进平阳，高纬听了竟毫不在乎，继续装疯卖傻当他的叫化子，安德王深感无奈，气愤离开。小怜听说打仗了，一脸兴奋地表示想要看战争，高纬为了讨好小怜，满足她的请求，决定出兵亲上前线，孰不知，小怜是想要藉战乱引兰陵王出面。平阳之战，因为高纬要等小怜穿衣打扮，误了出兵时机。段韶、斛律光两名大将直言冯小怜是亡国的妖后，高纬一怒之下用弓弦勒死斛律光，将段韶打入大牢。安德王前来洛阳找兰陵王，告诉他明日午时皇上将在邺城处决段韶，而且宇文邕已经出兵，即将进攻邺城。高长恭抑不住胸中怒火，雪舞已经猜到兰陵王要去邺城救段韶救百姓。高长恭与安德王拟好救段韶的计划，他转身走入房间，看到雪舞已经将包袱收拾好放在床铺。雪舞用行动说明了自己对兰陵王的支持，兰陵王知道自己此去风险很大，他留了一些东西给平安，让雪舞等平安长大，告诉平安这是爹给的。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep45_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="45" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

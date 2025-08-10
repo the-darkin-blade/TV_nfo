@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>颂恩复职调查宙斯之谜</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>仁心解码II</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">913765</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>启荣带思家到图书馆找瑶星，见他对图书馆藏书资料位置等都过目不忘，连各地区美食情报都能如人形电脑般念出，惹得思家很高兴。启荣感谢瑶星能令思家暂忘情伤，却被瑶珠听到二人的对话。
+
+宙斯被杀　瑶星被捕
+
+志森诊所突然遭盗窃，瑶珠估计可能是风的报仇行为。风受传媒追问，矢口否认盗窃。少霞再与风商议，可以把他母亲二十年前与文华的地下情拿来炒作新闻。风要求更多报酬，于是又未能达成协议。颖琳见到风与其他女子相好，追问时却被打并赶走。
+
+瑶星偷偷到风家取走画簿，却被大厦管理员发现风已倒在血泊中，因此被怀疑是犯人。国彬调查发现衣柜内藏一个笔盖，又在附近的垃圾桶找到疑似是凶器的美工刀，偏偏监察系统已损坏多时，物证调查不容易。
+
+国彬怀疑瑶星因妹妹曾被风骚扰而下杀机，但启荣和瑶珠力挺瑶星因患自闭症，又无暴力倾向，根本不会杀人。启荣安慰瑶珠，瑶珠看着兄长的画册，哭诉后悔没了解兄长。
+
+年月思家　竟为情侣
+
+启荣请求立仁帮忙推理，立仁认为瑶星并非有预知能力，但能画出宙斯相关的速记必有别的原因。
+
+博安医院传出有病人遭性骚扰，永铿在传媒面前极力维护医院形象，又开会向众医生谘询如何防止事情发生。慧翘建议仿效美国，设配偶欢乐区让病人解决性需要以杜绝性骚扰，马上令永铿反感。立仁解围建议先办各项活动让病人舒缓情绪，私底下其实亦支持慧翘提出的欢乐区。
+
+启荣、世邦、日勤在思家房外偷听思家与年月争吵，起初以为二人讨论病人锦标的报告，不料思家竟说是不想与年月分手，众人才知道思家的真命天子是年月。三位男子开解思家约她宵夜，思家仍沉醉在与年月的感情，还分享二人的相识经过。
+
+瑶星绘画　能助破案
+
+警方找博安的医生和志森等人商讨风被杀的案情，发现他曾在荷兰生活时已犯过多宗性骚扰少女的案件。志森分析他是得不到认同，故想哗众取宠博取关注。众人浏览风在网上的片段时，启荣发现片段中，风的家有三张图画，与瑶星的速写一模一样。若推论瑶星并非真凶，考虑到他的记忆力强，有可能记得现场细节，于是决定让与瑶星关系最好的启荣请他画出案发时的细节。
+
+颂恩复职　加入调查
+
+立仁到医院接颂恩，颂恩要他先一起到一旧车场，原来昔日她在孤儿院认识的国威不思进取工作，又沉迷毒品，令颂恩气愤难平……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2651</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.A.Great.Way.To.Care.Ii.E08.1080I.Hdtv.H264-Area11(1)_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

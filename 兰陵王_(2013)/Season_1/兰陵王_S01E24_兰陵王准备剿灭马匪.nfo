@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>兰陵王准备剿灭马匪</title>
+  <originaltitle>兰陵王准备剿灭马匪</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id>4659267</id>
+  <uniqueid default="false" type="tmdb">1224932</uniqueid>
+  <uniqueid default="false" type="trakt">1234641</uniqueid>
+  <uniqueid default="true" type="tvdb">4659267</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>此时适逢北齐边界马贼猖獗，杀人越货之事屡屡发生，皇帝高湛下旨命兰陵王出城剿匪。得知马贼想抢一家员外的女儿做压寨夫人后，高长恭想出一条计策——找美女色诱土匪出现，然后一举剿灭。郑儿自告奋勇愿做诱饵诱骗马贼，完成任务。小翠惊闻此事，赶紧告诉雪舞，此时雪舞真的得了病，她顾不得自己的身子还未痊愈，赶忙追出。一到王府大门口，雪舞果真看到浩浩荡荡的一行人准备离去，她看到兰陵王此行居然有郑儿随行，难过不已。高长恭看到雪舞依然不信任自己，甩头跃上马儿，领着队伍出发而去，陡留雪舞独自在冷风中红了眼眶。韩晓东在城里发现上次假冒道士的骗子，他抓着道士回王府与郑儿对峙，却在路上发现了出城去剿匪的兰陵王和郑儿，他很奇怪为什么兰陵王没有带着雪舞，决定回王府去探望雪舞。回到兰陵王府见到雪舞，晓东和雪舞一同质问假道士，假道士把实情和盘托出。这时安德王突然赶来传递消息，原来朝廷原本任命他去做高长恭的后援，谁知在高长恭出发后，临时改派太子高纬当高长恭的后援，尾随前往。雪舞听了心中一紧，若高纬故意不支援高长恭，兰陵王安危堪虞。待安德王离去后，雪舞要晓冬尽快替她准备硫磺与硝石，两人悄悄地从王府溜出。雪舞一路暗中尾随兰陵王，不料恰好看见郑儿暗地想对长恭下迷药的诡计。兰陵王自己没喝酒，打算把酒分给弟兄们。郑儿只好找借口换了正常的酒。马贼的探子发现了兰陵王一行假扮的商旅，汇报给首领。此时兰陵王一行也到达员外家。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep24_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

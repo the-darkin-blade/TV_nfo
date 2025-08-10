@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>雪舞劝长恭归隐山林</title>
+  <originaltitle>雪舞劝长恭归隐山林</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id>4659271</id>
+  <uniqueid default="false" type="tmdb">1224936</uniqueid>
+  <uniqueid default="false" type="trakt">1235127</uniqueid>
+  <uniqueid default="true" type="tvdb">4659271</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>果真如雪舞所担忧，大殿之上，高湛斥责太子高纬烧杀马贼暴行，把按例仅能赐于太子的大璋玉赏给兰陵王，高纬不堪其辱，怀恨在心。适逢代表凶险的赤星再现，以前雪舞还在白山村时，奶奶就曾告诉过她赤星现，乃是天罚，必然为天下来灾祸。而高长恭正与太子高纬冲突不断，雪舞担心高长恭，她得想办法让高长恭急流勇退，归隐山林，躲开灾祸。但她深知高长恭会放不下尚书令重责，放不下大齐军民百姓，很可能宁愿选择牺牲自己姓名也不愿辜负天下人，所以她只得私下找段韶与安德王商量此事。段韶闻言后，认为周国已与北齐之间有停战协议，此时确是高长恭暂避锋芒的良机，遂答应雪舞将会尽快与斛律光将军商议，拟出让高长恭安心退隐之策。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep28_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>金棠拒绝向日投诚</title>
+  <originaltitle>Episode 27</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490920</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>美琴与学尧要离开上海，被啸山发现。美琴不欲良心受责，劝啸山不要投靠日本人，但啸山坚持己见，把母子二人锁入房中，不准他们离家半步。
+
+月兰与小楼从报纸上得知傲天已投靠日本，非常惊讶。她们质问傲天，但傲天不欲多解释，并说如有不满可以离开。月兰气在心里，但小楼相信傲天另有苦衷。
+
+钱经理拿着白米赶回寺庙，但经过日军哨站时忘记鞠躬，被日军殴打一顿。
+
+傲天坦言 曾爱小楼
+
+华界沦陷，金棠劝桂生离开，但桂生坚持不走。金棠起初不明所以，相当愤怒。后来，他知道桂生匿藏多名妇女，决定协助桂生拯救所有人离开华界。阿添欲请傲天帮手，但金棠不再相信傲天，这件事由他们暗中处理。
+
+月兰无意中在傲天抽屉发现小楼学艺时的旧戏票，她询问阿娥，问及月兰在英国时小楼可有探望傲天。阿娥直言小楼经常到来，月兰感到事有蹊跷。
+
+傲天工作完毕，在大厅休息。月兰问傲天是否喜欢小楼，傲天指已是多年前的事，现在情已不再，月兰百般滋味在心头。月兰见小楼，把她所知的坦诚相告，小楼知道傲天喜欢自己，不知如何应对。
+
+啸山出手 对付金棠
+
+傲天夜会兆匡，兆匡指其他人都安全，但仍然不满傲天所为。傲天说最担心金棠，因他不肯投诚，东条一定对付他。
+
+金棠为妇女们办好通行证，准备带她们到法租界避难，但他出发时啸山与傲天赶至，他们为东条传话，问金棠是否投诚。啸山受东条命令，欲立即处决金棠，混乱间啸山发现大量通行证，于是暂不杀金棠，先行捉他回去审问。
+
+金棠被啸山带回「三铿」，打至半死，啸山欲杀了他，但傲天指一定要问出通行证的由来，以便向东条立功。凌晨，阿添救走金棠，并安排金棠离开上海，但金棠指要回去找桂生。
+
+东条命令 抢掠物资
+
+啸山手下查出桂生住处，并发现有游击队队员出入，于是即派人去捉拿。金棠赶至寺庙，叫桂生带所有人离开，他则引开啸山。金棠与啸山相遇，一直追至丛林，二人发生枪战，生死未卜。
+
+东条知道游击队员逃走后非常震怒，责骂啸山与傲天办事不力。桂生与妇女正从山路离开华界，桂生为金棠念经时，佛链断裂。
+
+月兰希望傲天能一同离开上海，到英国暂避，但傲天拒绝并称有要事，叫月兰自己照顾自己。月兰怕傲天会出事，欲了解真相，但傲天有口难言。
+
+桂生等人匿藏在纱厂，全靠兆匡把粮食偷偷送去……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2667</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep27.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

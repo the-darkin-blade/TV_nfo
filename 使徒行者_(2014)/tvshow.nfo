@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>使徒行者</title>
+  <originaltitle>使徒行者</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <sorttitle/>
+  <year>2014</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>7.7</value>
+      <votes>12</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>出身香港社会最底层的丁小嘉在考上警察后，又以卧底的身份重回鱼龙混杂的砵兰街，替CID督查康道行搜集情报。谁知在追查三合会头目游达富的犯罪事实过程中，道行意外遇害身亡。他在临死前为防止手下卧底人员身份暴露，而删除了包括小嘉在内等五名卧底的纪录。在此之后，道行的同袍刑事情报科总督察卓凯联系到小嘉，希望其能协助找到其他四名卧底，并掌握外围赌博集团的犯罪证据。在此之后，小嘉和赌博集团的得力干将薛家强发生交集，更由此陷入警方与犯罪团伙、黑帮组织之间的连番对决和火并之中，由此上演了一段令人拍案叫绝的卧底传奇……</plot>
+  <tagline/>
+  <runtime>42</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"75117","imdb":"tt4089772","tvdb":"284877"}</episodeguide>
+  <id>284877</id>
+  <imdbid>tt4089772</imdbid>
+  <tmdbid>75117</tmdbid>
+  <uniqueid default="false" type="tmdb">75117</uniqueid>
+  <uniqueid default="false" type="imdb">tt4089772</uniqueid>
+  <uniqueid default="true" type="tvdb">284877</uniqueid>
+  <premiered>2014-08-25</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Crime</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <tag>police operation</tag>
+  <tag>undercover cop</tag>
+  <tag>police officer</tag>
+  <tag>triad</tag>
+  <tag>undercover operation</tag>
+  <actor>
+    <name>林峯</name>
+    <role>Sit Ka-keung (Bao Seed)</role>
+    <profile>https://www.themoviedb.org/person/89409</profile>
+    <tmdbid>89409</tmdbid>
+  </actor>
+  <actor>
+    <name>马国明</name>
+    <role>Wai Sir</role>
+    <profile>https://www.themoviedb.org/person/1232198</profile>
+    <tmdbid>1232198</tmdbid>
+  </actor>
+  <actor>
+    <name>许绍雄</name>
+    <role>覃歡喜</role>
+    <profile>https://www.themoviedb.org/person/63582</profile>
+    <tmdbid>63582</tmdbid>
+  </actor>
+  <actor>
+    <name>苗侨伟</name>
+    <role>卓凱</role>
+    <profile>https://www.themoviedb.org/person/236075</profile>
+    <tmdbid>236075</tmdbid>
+  </actor>
+  <actor>
+    <name>袁伟豪</name>
+    <role>徐天堂</role>
+    <profile>https://www.themoviedb.org/person/1615007</profile>
+    <tmdbid>1615007</tmdbid>
+  </actor>
+  <actor>
+    <name>蔡思贝</name>
+    <role>竇亞希</role>
+    <profile>https://www.themoviedb.org/person/1545561</profile>
+    <tmdbid>1545561</tmdbid>
+  </actor>
+  <actor>
+    <name>张振朗</name>
+    <role>龐浩洋</role>
+    <profile>https://www.themoviedb.org/person/1613713</profile>
+    <tmdbid>1613713</tmdbid>
+  </actor>
+  <actor>
+    <name>黄翠如</name>
+    <role>鄭淑梅</role>
+    <profile>https://www.themoviedb.org/person/227741</profile>
+    <tmdbid>227741</tmdbid>
+  </actor>
+  <actor>
+    <name>黄智雯</name>
+    <role>Madam G</role>
+    <profile>https://www.themoviedb.org/person/1255464</profile>
+    <tmdbid>1255464</tmdbid>
+  </actor>
+  <actor>
+    <name>江美仪</name>
+    <role>莫羨晴</role>
+    <profile>https://www.themoviedb.org/person/236195</profile>
+    <tmdbid>236195</tmdbid>
+  </actor>
+  <actor>
+    <name>佘诗曼</name>
+    <role>丁小嘉</role>
+    <profile>https://www.themoviedb.org/person/123643</profile>
+    <tmdbid>123643</tmdbid>
+  </actor>
+  <actor>
+    <name>陈豪</name>
+    <role>魏德信</role>
+    <profile>https://www.themoviedb.org/person/551869</profile>
+    <tmdbid>551869</tmdbid>
+  </actor>
+  <actor>
+    <name>麦美恩</name>
+    <role>朱倩</role>
+    <profile>https://www.themoviedb.org/person/3196016</profile>
+    <tmdbid>3196016</tmdbid>
+  </actor>
+  <actor>
+    <name>周柏豪</name>
+    <profile>https://www.themoviedb.org/person/1123831</profile>
+    <tmdbid>1123831</tmdbid>
+  </actor>
+  <actor>
+    <name>林宣妤</name>
+    <profile>https://www.themoviedb.org/person/1981305</profile>
+    <tmdbid>1981305</tmdbid>
+  </actor>
+  <trailer>plugin://plugin.video.youtube/play/?video_id=XDcBIRCGQ-k</trailer>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

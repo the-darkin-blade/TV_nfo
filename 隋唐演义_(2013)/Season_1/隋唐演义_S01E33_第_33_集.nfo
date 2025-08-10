@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 33 集</title>
+  <originaltitle>第 33 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783857</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>百国武士大会如期召开，各附属国均派出本国最强悍之武士前来迎战。宇文成都武艺高强，连胜数场，大灭附属国之威风。各附属国碍于隋朝威力，无不俯首称臣，尊隋朝为天国，杨广借此建立起天朝制度。正在大隋大扬国威之时，王贵人又喜得龙子，杨广得意之心开始膨胀。　　秦琼、单雄信一行人等来到瓦岗寨，单雄信与瓦岗寨寨主翟让素有交情，前去商议。然二寨主圆觉和尚、三寨主贺连章害怕山东义军抢占瓦岗，想先杀义军首领，再将义军编入瓦岗喽兵之内。于是，二人故意从中挑拨，恶语出尽，又动起手来。数个回合，圆觉和尚借人多之利将单雄信几人绑下。秦琼见单雄信未回，与徐茂公商议之后，便偕罗士信一同前去寨内打探情况，却见单雄信几人正被绑在院中。秦琼问其因由，主动道歉，想要小事化了，圆觉和尚、贺连章却咬住不放，想要取秦琼性命，几言不合，罗士信忍耐不得，率先动手，圆觉和尚见时机已到，与秦琼叫板，欲杀秦琼!　　罗士信手提大枪与瓦岗喽兵战在一处，连杀郭明顺、郭清二兄弟，圆觉和尚见罗士信力大难敌，故意引他去往后院。罗士信追到后院，不料却掉入深水坑中，圆觉和尚命人去抬石灰，却听前院中打斗正酣，于是暂放罗士信，去往前院。　　玉郡主、单盈盈担心秦琼、单雄信等人，前去找徐茂公，徐茂公派罗成、谢映登前去瓦岗寨。　　圆觉和尚骗秦琼罗士信已死，秦琼心痛震怒，使出撒手锏杀死圆觉。罗士信则从下水道钻出，与瓦岗寨喽兵厮杀起来。罗成等人赶到，救下单雄信也加入战斗，瓦岗喽兵不堪一击，四处逃窜，翟让携亲眷从后山逃走，却正遇程咬金，程咬金生擒翟让。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2795</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>33_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="33" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

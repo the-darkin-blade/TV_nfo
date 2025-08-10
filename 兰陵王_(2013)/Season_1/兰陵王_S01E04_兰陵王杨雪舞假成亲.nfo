@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>兰陵王杨雪舞假成亲</title>
+  <originaltitle>兰陵王杨雪舞假成亲</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>4658526</id>
+  <uniqueid default="false" type="tmdb">1224912</uniqueid>
+  <uniqueid default="false" type="trakt">1231543</uniqueid>
+  <uniqueid default="true" type="tvdb">4658526</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>原来四爷想扮成迎亲队伍混入城中营救须达。与此同时尉迟迥也想也这个机会诱出兰陵王，他早已在周城设下天罗地网。城门外尉迟迥对这支假扮的送亲队伍心生疑问。虽然雪舞见多识广，将尉迟迥的怀疑一一化解，但尉迟迥仍然设下眼线，宁肯错杀一百，不肯放过一个。为了骗过尉迟迥，四爷和雪舞在女娲庙许下相爱誓言的雪舞，看到四爷如此虔诚，雪舞明明知道结婚是假的，心中却莫名的感动，对四爷芳心暗许。顺利入城之后四爷为了雪舞的安危要送她离开，他从腰间拿出了块随身玉佩，塞到雪舞的手中，让她换成盘缠，愿她一路平顺。雪舞离开后才发现，玉佩上清清楚楚刻着高长恭三个字。雪舞这才意识到没想到四爷就是她日思夜盼希望能见到的兰陵王高长恭，就是奶奶口中所说的战神，雪舞深感此行兰陵王凶多吉少，决定折回，助兰陵王一臂之力。尉迟迥设下天罗地网，准备刑场处决斛律须达。但兰陵王凭借过人的计谋还是将须达救出。可是成功搭救斛律须达的兰陵王却苦陷尉迟迥严密的封城，出不了城，还差点被尉迟迥发现。千钧一发之际，一阵爆破声让敌人惊恐不已。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep04_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

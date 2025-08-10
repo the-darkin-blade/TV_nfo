@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 30 集</title>
+  <originaltitle>第 30 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783854</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>秦琼回到家中，将程咬金和尤俊达之事相告，并商议救出二人之计策。单雄信、徐茂公等人劝说秦琼弃暗投明，解官起义，推翻朝廷暴政，秦琼犹豫不决，，玉郡主激愤讲出杨广杀害文帝、陷害杨勇并最终杀死杨勇之事，此时，面对罗方、薛亮前来搜查，紧张时刻，众人即将暴露，玉郡主出面化解危机，罗方、薛亮带兵离去，秦琼等人确定劫狱救出程咬金、尤俊达之方案，但秦琼为了不牵连北平王府，支走了罗成和柴绍。秦琼自知自己一反，母亲和玉郡主必然被牵连，于是他安排罗士信护这玉郡主、单盈盈和秦母先行离开。　　行到半路的罗成仍不放心秦琼等人，决定蒙面参与营救程咬金、尤俊达二人。营救行动中，齐国远、李如辉两人扮成乞丐，伺机放出行动信号；王伯当假借靠山王之名进入牢狱，暗语告知尤俊达和程咬金劫　王伯当装扮成官差进入看押程咬金和尤俊达的监狱，并与典狱司喝起酒来。玉郡主、单盈盈则与秦母假装探亲混出了济南府的城门。时至三更，王伯当率人将程咬金、尤俊达救出，程咬金放火将牢狱烧掉，杨林见漫天火光，知有人劫狱，率十三太保前去阻拦，秦琼为保兄弟，与义父杨林为敌，打斗起来，城门口罗士信、罗成击退士兵，众人冲出城外，秦琼阻拦杨林，与其恩断义绝。　一时间，程咬金愣头愣脑不明所以，尤俊达暗中回应。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2630</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>30_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

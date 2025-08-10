@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>晓东为证清白离开王府</title>
+  <originaltitle>晓东为证清白离开王府</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id>4659264</id>
+  <uniqueid default="false" type="tmdb">1224929</uniqueid>
+  <uniqueid default="false" type="trakt">1234164</uniqueid>
+  <uniqueid default="true" type="tvdb">4659264</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>郑儿开始抓住机会，想尽办法陷害晓冬、打压杨雪舞，就在一次晓冬驾驭马匹时，郑儿故意惊吓马儿想害晓冬，却引来高长恭危险，郑儿立即舍身相救兰陵王，竟被马匹踢中受了伤。郑儿的救命之恩让高长恭内疚不已，日夜舍身照顾郑儿，如此亲密让雪舞深感不安。一日雪舞为郑儿把脉诊伤，沉睡疗养中的郑儿竟在梦中呼喊出长恭名字，让雪舞震惊不已。装病期间，郑儿趁晓冬不在潜入他房里，找到了晓冬收藏的雪舞给他的手绢，这可让郑儿找到了把柄。突然间，城里开始谣传兰陵王妃杨雪舞跟下人韩晓冬有奸情。消息传到小翠耳里，小翠找到正在病塌上休养的郑儿，指责她暗中搞鬼，佯装不知情的郑儿十分委屈，情绪激动竟然呕出鲜血，兰陵王眼见此景，心中替郑儿不平。雪舞跟晓冬得知谣言后十分震惊，此时正好遇上了满心疑惑的高长恭，小翠要晓冬澄清一切，没想到晓冬当众承认自己确实留着雪舞的手绢，但这是因为他出于感恩之心才留着。为了避嫌，晓冬决定离开兰陵王府。晓冬为了莫须有的罪名离去，让雪舞十分难过。翌日，高长恭得知晓冬离去，安慰雪舞说没有人怀疑晓冬，等他想明白了就会回来。一向疼爱雪舞的皇姥姥来到王府，口口声声要抱孙子，兰陵王和雪舞的感情更加稳固。郑儿开始记恨姥姥。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep21_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

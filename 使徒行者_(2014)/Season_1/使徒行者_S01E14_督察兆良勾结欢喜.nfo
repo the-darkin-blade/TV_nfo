@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>督察兆良勾结欢喜</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>4988904</id>
+  <uniqueid default="false" type="tmdb">2171074</uniqueid>
+  <uniqueid default="false" type="trakt">1313359</uniqueid>
+  <uniqueid default="true" type="tvdb">4988904</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>浩勤抱着羡昕冲出火场后二人受伤昏迷，他们清醒后深情拥吻，但此景却被兆良看到。永权遭到卓凯追逐后翻车逃走，受伤的卓凯冒死抢在汽车爆炸前救出羡晴，羡晴对卓凯心生好感。崇金部署完复仇交易计划，受制于崇金的安琳提出与家强私吞货物远走高飞时遭拒。欢喜阻止兆良杀浩勤，原来二人早已暗中勾结并密谋对付崇金。木荣负责代客泊车的地盘被其他社团抢走，家强知晓后带着小嘉和木荣抢回地盘。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2662</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Line.Walker.E14_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

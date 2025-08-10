@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:31:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>再战明天</title>
+  <originaltitle>再戰明天</originaltitle>
+  <showtitle>再战明天</showtitle>
+  <sorttitle/>
+  <year>2014</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>1</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>高级惩教主任文上升（吴启华饰）在赤柱监狱驻守，负责监督更生人士在监狱中的纪律；面对犯人的凶狠横暴，他谋勇兼备，使人望风而寒。上升的下属乔正桥（王浩信饰）体恤囚犯，惟行事拓落不羁，与上升频生磨擦；后来获得启导，转往惩教署职员训练院担任教官，发挥所长。任职于罗湖惩教所的姚爱嘉（徐子珊饰）胸无大志，经过工作的锻炼，渐找到人生意义。女囚丁好好（何超仪饰）命途多舛，在爱嘉连动带训下，幡然悔悟。隶属于更生事务组的翁伟晋（黄德斌饰）和迟春光（朱千雪饰）竭尽心力，协助更生人士改过自新。伟晋看穿上升只因婚姻失败，以照顾妹妹文上游（黄心颖饰）为借口，刻意逃避感情问题；但伟晋自身亦受家庭问题烦恼不已，幸得上升前妻叶雅蕾（梁琤饰）和春光两位红颜知己……
+
+上升是爱嘉的长辈，和她相知多年；正桥与好好，一名是惩教人员、一名是释囚；两段爱情均世俗不容，他们经历波折，能否开花结果？恶犯广生事端，上升等人性命濒危，他们能否排除万难、完成使命？</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"94499","imdb":"tt10476104","tvdb":"286591"}</episodeguide>
+  <id>286591</id>
+  <imdbid>tt10476104</imdbid>
+  <tmdbid>94499</tmdbid>
+  <uniqueid default="false" type="tmdb">94499</uniqueid>
+  <uniqueid default="false" type="imdb">tt10476104</uniqueid>
+  <uniqueid default="true" type="tvdb">286591</uniqueid>
+  <premiered>2014-10-06</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <actor>
+    <name>吴启华</name>
+    <profile>https://www.themoviedb.org/person/122818</profile>
+    <tmdbid>122818</tmdbid>
+  </actor>
+  <actor>
+    <name>徐子珊</name>
+    <profile>https://www.themoviedb.org/person/131256</profile>
+    <tmdbid>131256</tmdbid>
+  </actor>
+  <actor>
+    <name>王浩信</name>
+    <profile>https://www.themoviedb.org/person/1690917</profile>
+    <tmdbid>1690917</tmdbid>
+  </actor>
+  <actor>
+    <name>何超仪</name>
+    <profile>https://www.themoviedb.org/person/78429</profile>
+    <tmdbid>78429</tmdbid>
+  </actor>
+  <actor>
+    <name>黄德斌</name>
+    <profile>https://www.themoviedb.org/person/70108</profile>
+    <tmdbid>70108</tmdbid>
+  </actor>
+  <actor>
+    <name>梁琤</name>
+    <profile>https://www.themoviedb.org/person/974871</profile>
+    <tmdbid>974871</tmdbid>
+  </actor>
+  <actor>
+    <name>张国强</name>
+    <profile>https://www.themoviedb.org/person/1266162</profile>
+    <tmdbid>1266162</tmdbid>
+  </actor>
+  <actor>
+    <name>朱千雪</name>
+    <profile>https://www.themoviedb.org/person/2467017</profile>
+    <tmdbid>2467017</tmdbid>
+  </actor>
+  <actor>
+    <name>潘志文</name>
+    <profile>https://www.themoviedb.org/person/1772642</profile>
+    <tmdbid>1772642</tmdbid>
+  </actor>
+  <actor>
+    <name>单立文</name>
+    <profile>https://www.themoviedb.org/person/142644</profile>
+    <tmdbid>142644</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

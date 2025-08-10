@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>叶婷以情报交换有正保密</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>4838513</id>
+  <uniqueid default="false" type="tmdb">1984078</uniqueid>
+  <uniqueid default="false" type="trakt">1273813</uniqueid>
+  <uniqueid default="true" type="tvdb">4838513</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>南韩恐怖分子成功被ATF一网打尽，有正所提供的重要情报功不可没，同时令志敖对有正掌握南韩恐怖分子情报一事感到好奇。
+
+有正满腹疑问秘密约会叶婷，叶婷便以提供情报作为条件，希望有正保守秘密。叶婷与剑亨因为Edmond出卖组织一事而发生争执。
+
+未能表白　有杰后悔  有杰对加入情报组一事一直死心不息，并且独力为ATF进行调查，终于找到能够汇报给情报组的线索，并且亲自向日嘉及志敖报告。有正知道有杰的心事，便承诺会帮有杰争取加入情报组的机会。  有杰与旧朋友到酒吧消遣，因此撞破叶婷与有正见面，亦令有杰误会两人是情侣关系。
+
+翌日，有杰与淑芬出外购物，巧遇正在约会的有正及日嘉，才令有杰得知两人的情侣关系，有杰相当悔恨，未有及时向日嘉表露心意，并且将问题归咎于自己未能加入情报组失去先机。
+
+叶婷提议　剑亨淡出
+
+叶婷自从发现Edmond出卖组织后，便一直加以疏远，并且劝好友乐敏要重新考虑与Edmond的关系。但乐敏对组织的事情一无所知，因此并没有将叶婷的劝告放在心上。
+
+另一方面，Edmond因为被组织指责，故迁怒于向组织告密的剑亨，并且口出恶言加以警告，叶婷看在眼里，便借机提议剑亨放下工作并淡出组织，剑亨对此表示保留。
+
+盗取罪证　有正告密
+
+叶婷为了保护剑亨，便指示骇客帮忙盗取Edmond电脑中的资料。叶婷取得Edmond与恐怖分子交易的证据后，便将证据亲手交给有正，并希望有正能对情报的来源保密。
+
+有正之后以匿名信的方式将Edmond的犯罪情报告知ATF，令ATF锁定Edmond是恐怖组织「惊鸟」的成员加以调查。
+
+Edmond得知自己被警方盯上，认为剑亨向警方告密，二人闹翻。叶婷突然收到Edmond来电，从他口中得知自己亲生父亲的死与剑亨有关，叶婷为了确定真相，便前往Edmond的家打算问个究竟，却发现他伏尸家中。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1331</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Ruse.Of.Engagement.E08.20140326.1080I.【高清帝国hdk-Www.52Hdking.Com】_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Ruse Of Engagement 20140326 【高清帝国hdk Www 52Hdking Com】 qsv av1</title>
+  <originaltitle/>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>326</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1331</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Ruse.Of.Engagement.E08.20140326.1080I.【高清帝国hdk-Www.52Hdking.Com】_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="326" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

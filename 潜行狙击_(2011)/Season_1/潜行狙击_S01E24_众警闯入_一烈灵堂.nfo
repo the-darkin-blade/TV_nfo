@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>众警闯入 一烈灵堂</title>
+  <originaltitle>Episode 24</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id>4161706</id>
+  <uniqueid default="false" type="tmdb">2298782</uniqueid>
+  <uniqueid default="false" type="trakt">1644067</uniqueid>
+  <uniqueid default="true" type="tvdb">4161706</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>一烈在狱中惨死，定天情绪复杂。社团召开大会，成员议论纷纷，笑棠趁机请缨调查一烈死因，收集黑警线索。星柏趁机巩固地位，打击笑棠。笑棠探望即将离港的丁敏，关心彼此。望晴决定不再担任笑棠联络员，家培接手。笑棠有意竞逐坐馆之位，家培支持。一烈葬礼上，警方突然出现拘捕众人，可可感到羞辱与无助。定天决意为一烈报仇，司徒凯劝阻无果。司徒凯计划辞职，与心凌独处时，心凌看出他的感情，但司徒凯压抑情感。立青得知司徒凯的秘密，劝心凌相劝。社团召开大会选举新坐馆，星柏、笑棠和赵克展开竞争。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2697</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E24.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

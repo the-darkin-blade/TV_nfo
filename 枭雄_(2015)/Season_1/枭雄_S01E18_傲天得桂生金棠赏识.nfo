@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>傲天得桂生金棠赏识</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490911</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>傲天拆穿赌场有荷官出千，金棠甚喜，并欣赏傲天的才智，决定晋升他。
+
+傲天回华界探望美琴与学尧，发现美琴现在帮人缝衣，生活尚可。傲天从美琴口中得知，启华仍对自己离开感气愤，美琴劝他迟点才去探启华。傲天从远处望见启华年纪渐老，体力愈来愈差，心中一酸流下泪来。
+
+傲天遇上啸山的旧手下，知道码头生意不济，即请他们到赌场帮手。
+
+法国神父 突然被绑
+
+法国领事好友汤神父欲到天津宣教，带了一大笔钱去建教堂，突然有幪面贼人冲入教堂杀光所有警察，并绑架神父。沃利震怒，金棠称会三日内救出神父。贼人不想夜长梦多，决定把偷来的美金在赌场上转换。
+
+傲天与文龙在赌场发现两名贼人，傲天认出他们是小莉的朋友，即上前询问。傲天知道他们手上的美金是打劫神父而来，称警察出很高悬红，劝他们自首。神父顺利被救出来，沃利非常高兴并指法国政府会颁发护照及勋章给金棠。
+
+金棠召见傲天，答谢他用妙计救出神父，傲天不敢领功，金棠决定收傲天为门生。傲天正式拜入金棠门下，在赌场下了不少心机令生意额大升。桂生在金棠面前称赞他，金棠对他亦相当满意。
+
+桂生不适约傲天等人在家中开会，傲天指近日在赌场附近出现一班猪猡党，令客人大减，金棠决定交由傲天处理。桂生不适，原来是怀了身孕，金棠喜上心头，并吩咐桂生多休息。
+
+镇岳拒绝 提供鸦片
+
+金棠知道近日鸦片涨价，皆因镇岳垄断价格，金棠想约他出来见面，但桂生指金棠不宜出面。桂生代金棠与镇岳商谈，镇岳提出条件是要在法租界开烟档。桂生不同意，二人谈不拢，镇岳声言不再提供鸦片给她。
+
+桂生的旗袍勾穿了，傲天介绍美琴给她，桂生欣赏美琴的手艺。桂生计划挑选百乐门的跳舞女郎，金棠要她留家休息，选拔由他与傲天负责。傲天与文龙一起选跳舞女郎，文龙看得眼花撩乱，不知选哪个才好。
+
+新任署长 激怒金棠
+
+金棠被约见新任署长，希望与他打好关系，可是新署长并不领情，声言要扫除上海的黄赌毒。金棠碰到一鼻子灰，只好假借办案，及早离开。沃利指由明天开始，要肃清法租界。金棠声言明天起所有警察放假三天，与新署长打对台。
+
+金棠放假后法租界大乱，新署长特别约见金棠，请求他平定治安。金棠取消病假后，法租界治安平定，显示了金棠的实力，但有一班流氓不听使唤，仍在四周抢劫，金棠决定对付他们。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2666</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep18.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

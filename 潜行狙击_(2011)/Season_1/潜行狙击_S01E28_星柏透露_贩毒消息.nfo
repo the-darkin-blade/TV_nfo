@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>星柏透露 贩毒消息</title>
+  <originaltitle>Episode 28</originaltitle>
+  <showtitle>潜行狙击</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id>4165059</id>
+  <uniqueid default="false" type="tmdb">2298786</uniqueid>
+  <uniqueid default="false" type="trakt">1644073</uniqueid>
+  <uniqueid default="true" type="tvdb">4165059</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>君岚不慎破坏CIB部署，但成功收集到星柏等人的沟通方式。望晴趁机在梓良电脑植入监控程序，幸得笑棠相助，免遭轻薄。两人感情升温。星柏警告笑棠停止骚扰梓良，透露将有大量毒品运港。立青得知赐登暗恋星柏，故意扮作同性恋者接近他。任曦社慈善会上，爆周刊职员被拘捕，梓良等人窃喜。家培见任曦社将赠物资到日本，起疑。赐登查出梓良与望晴关系密切，星柏与可可怀疑笑棠是超级卧底。星柏求助国彬查笑棠身份，并答应助他逃狱。家培决定中止望晴卧底行动，但收到国彬逃走消息，怀疑星柏所为。星柏确认笑棠身份，决定利用警方运毒，再对付笑棠。同时，星柏向可可求婚，计划在毒品交易完成后结婚。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2688</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lives.Of.Omission.E28.720P.Hdtv.X264.2Audio-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:30:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 20 集</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>秀才遇着兵</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>5090465</id>
+  <uniqueid default="false" type="tmdb">284474</uniqueid>
+  <uniqueid default="false" type="tvrage">477187</uniqueid>
+  <uniqueid default="false" type="trakt">1541930</uniqueid>
+  <uniqueid default="true" type="tvdb">5090465</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>丽君意外说出东楼曾访菩提寺，万镇方心知不妙，到寺发现金英一众已逃之夭夭，但见宝典已全被翻译，怒杀大师泄忿。金英估计万镇方已练成宝典神功，查看南北名捕尸首证实死于神功之下，疑团尽解。
+
+史师爷带天竺神僧，查看名捕尸首，被万镇方跟踪发现，立即使出神功想杀掉神僧以保秘密，神僧中招，幸得御赐铅铁帽保命，只是晕倒，突然邵上书联同四大护法出现，但不敌万镇方，金英母女联手出击，一轮激战，最终合力将他杀死。太保府被封，丽君亦告失纵。
+
+邵上书奏准皇上，金英助寻宝典有功，飞鹰得以特赦免罪，平反身份。东楼被连升十级赐三品大官，毛、士、生、非得以复职，始知全是水大人苦肉计。
+
+史师爷说东楼义妹情投意合，欲促其好事，村民亦纷送贺礼以表对水大人心意，东楼亦以作为良才县父母官为荣，大感安慰。
+
+但大婚当日，东楼失去踪影，义妹怒闯衙门，各人发现东楼被掳，原来……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2612</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Gentle.Crackdown.E20.Hdtv.1080I.H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

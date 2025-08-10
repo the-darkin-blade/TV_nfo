@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>兰陵王邙山大捷</title>
+  <originaltitle>兰陵王邙山大捷</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>4659252</id>
+  <uniqueid default="false" type="tmdb">1224917</uniqueid>
+  <uniqueid default="false" type="trakt">1232352</uniqueid>
+  <uniqueid default="true" type="tvdb">4659252</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>周军军营中，前段时间身中剧毒的雪舞体软如绵，只能用着仅剩的力气握着兰陵王送给她的玉佩，思念兰陵王。宇文邕强行带着雪舞观战。此时的洛阳城外，已被尉迟迥所领的八万大军给紧紧包围得密不透风。打着宇文邕军旗的突厥大军，也从西面缓缓前来，跟原本的周军会合，顿时旌旗蔽空，围城的周兵多的犹如密密麻麻的黑蚁群，声势浩大。看到这样惊人的阵仗，已披着战甲的宇文邕深感体内热血沸腾，迫不及待要见到周兵万马奔驰，杀得齐兵血肉横飞的战场。但宇文邕正想长驱直入之时，一群穿戴黑色与赤红卫甲的齐国骑兵戴着鬼面具，从邙山那方直冲过来，从后方杀入，气势骇人，犹如一条所向披靡的火龙，迅速杀入周兵之中，周兵被杀得措手不及，落慌而逃。所有的周军看到这鬼魅军队恐怖的气势，全都骇然。领军之人将脸上的鬼兽面具缓缓拿下，乘骑在马背上的，是英姿飒爽的兰陵王。兰陵王以不可思议之姿，以五百奇迹击退十万，挽救了齐国，并救回了他日夜思念牵挂的杨雪舞。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep09_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

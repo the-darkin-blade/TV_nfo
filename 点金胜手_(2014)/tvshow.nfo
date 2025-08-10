@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>点金胜手</title>
+  <originaltitle>點金勝手</originaltitle>
+  <showtitle>点金胜手</showtitle>
+  <sorttitle/>
+  <year>2014</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>1</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>此剧以金融界为背景，生活时事为题材，透过塑造卓彧成为金融才俊，描写他的奋斗过程，以及他与两个女子纠结难分的命运，揭示人性对立，变质扭曲的人生观。</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"84809","tvdb":"282235"}</episodeguide>
+  <id>282235</id>
+  <imdbid/>
+  <tmdbid>84809</tmdbid>
+  <uniqueid default="false" type="tmdb">84809</uniqueid>
+  <uniqueid default="true" type="tvdb">282235</uniqueid>
+  <premiered>2014-06-02</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <tag>stock market</tag>
+  <tag>financier</tag>
+  <actor>
+    <name>黄宗泽</name>
+    <role>Cheuk Yuk (Damon)</role>
+    <profile>https://www.themoviedb.org/person/144586</profile>
+    <tmdbid>144586</tmdbid>
+  </actor>
+  <actor>
+    <name>徐子珊</name>
+    <role>Chi Nga (Gia)</role>
+    <profile>https://www.themoviedb.org/person/131256</profile>
+    <tmdbid>131256</tmdbid>
+  </actor>
+  <actor>
+    <name>黄智贤</name>
+    <role>Chow San Yung</role>
+    <profile>https://www.themoviedb.org/person/1192984</profile>
+    <tmdbid>1192984</tmdbid>
+  </actor>
+  <actor>
+    <name>陈敏之</name>
+    <role>Ho Seung Yee</role>
+    <profile>https://www.themoviedb.org/person/994580</profile>
+    <tmdbid>994580</tmdbid>
+  </actor>
+  <actor>
+    <name>胡定欣</name>
+    <role>Fong Ming Yu (Anson)</role>
+    <profile>https://www.themoviedb.org/person/1234856</profile>
+    <tmdbid>1234856</tmdbid>
+  </actor>
+  <actor>
+    <name>江美仪</name>
+    <role>Chai Pui Fan (Florence)</role>
+    <profile>https://www.themoviedb.org/person/236195</profile>
+    <tmdbid>236195</tmdbid>
+  </actor>
+  <actor>
+    <name>欧阳靖</name>
+    <role>Chu Kwok Leung</role>
+    <profile>https://www.themoviedb.org/person/8178</profile>
+    <tmdbid>8178</tmdbid>
+  </actor>
+  <actor>
+    <name>黄嘉乐</name>
+    <role>Ho Seung Hing</role>
+    <profile>https://www.themoviedb.org/person/555909</profile>
+    <tmdbid>555909</tmdbid>
+  </actor>
+  <actor>
+    <name>梁靖琪</name>
+    <role>Ho Seung Fei</role>
+    <profile>https://www.themoviedb.org/person/1232672</profile>
+    <tmdbid>1232672</tmdbid>
+  </actor>
+  <actor>
+    <name>梁烈唯</name>
+    <role>Law Chun Kei</role>
+    <profile>https://www.themoviedb.org/person/1143685</profile>
+    <tmdbid>1143685</tmdbid>
+  </actor>
+  <actor>
+    <name>胡诺言</name>
+    <role>Yuen Seung Him</role>
+    <profile>https://www.themoviedb.org/person/1222315</profile>
+    <tmdbid>1222315</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

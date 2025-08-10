@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>无耻丈夫挟持羡晴</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>4988385</id>
+  <uniqueid default="false" type="tmdb">2171073</uniqueid>
+  <uniqueid default="false" type="trakt">1313204</uniqueid>
+  <uniqueid default="true" type="tvdb">4988385</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>羡晴遭丈夫背叛后自杀被阻，她指责卓凯揭穿真相。羡昕为查案而接近浩勤致使他被兆良拘捕并遭媒体曝光，她被上级处分后决定暂止筹备婚礼，兆良对浩勤怨恨加深。家强不愿木荣接触毒品，他让木荣打理代客泊车的生意。欢喜约安琳商谈交易之事，安琳对家强产生好感致使小嘉妒火中烧。走投无路的永权闯入羡昕家打开煤气并打晕莫家姐妹，他挟持羡晴逃走后遭卓凯追赶，浩勤救羡晴时煤气突然爆炸。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2660</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Line.Walker.E13_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

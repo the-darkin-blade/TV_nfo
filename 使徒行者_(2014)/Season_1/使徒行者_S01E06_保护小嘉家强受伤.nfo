@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>保护小嘉家强受伤</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>4977281</id>
+  <uniqueid default="false" type="tmdb">2171066</uniqueid>
+  <uniqueid default="false" type="trakt">1312134</uniqueid>
+  <uniqueid default="true" type="tvdb">4977281</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>卓凯为了保密便未澄清贪污一事，兆良借机向上级郭学华中伤卓凯，岂料反遭教训。小嘉被欢喜收买以其代言人身份与挞沙争夺社团坐馆一职，落选的挞沙教训小嘉时被家强舍身阻拦。当年浩勤为了卧底任务犯罪入狱，不知情的羡昕怒而分手。欢喜成立投资公司并利诱挞沙合作赚钱，见钱眼开的挞沙尝到甜处后打算和欢喜修补关系。挞沙将绑架小星一事推卸给家强使其受伤，他要送外围兄弟给欢喜时因家强自荐而非常不满。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2666</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Line.Walker.E06_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

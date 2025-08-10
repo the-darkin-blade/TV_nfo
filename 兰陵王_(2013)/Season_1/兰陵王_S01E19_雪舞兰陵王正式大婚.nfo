@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>雪舞兰陵王正式大婚</title>
+  <originaltitle>雪舞兰陵王正式大婚</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>4659262</id>
+  <uniqueid default="false" type="tmdb">1224927</uniqueid>
+  <uniqueid default="false" type="trakt">1233850</uniqueid>
+  <uniqueid default="true" type="tvdb">4659262</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雪舞即将大婚成为王妃，她对许多礼节无法适应，心情低落，高长恭为了使雪舞开心，带着雪舞假扮平民，还拿着自家的鸡蛋到街上叫卖，虽然有所辛苦，两人却甘之如饴。简单的幸福让雪舞走出不安的阴霾，欣然回去与高长恭准备大婚。于此同时，被流放为奴的郑儿，正对兰陵王百般思念，期盼能逃出再见他一面。为了脱逃，郑儿冒着生命危险假染瘟疫，九死一生之下终于逃脱奴隶囚牢。在高长恭与雪舞二人即将成亲的前一天，大家都开心地替两人张罗喜事。此时，门外来报有人在府门口昏倒，高长恭推开沉重的朱门，惊见满身脏污的郑儿昏厥在滂沱大雨之中。郑儿醒来后痛心疾首地忏悔，哀求雪舞跟高长恭原谅，终于留在了兰陵王府，可是郑儿的内心，早已暗下决定，她要抢回兰陵王的心。在众人的祝福下，雪舞跟高长恭完成大婚，这一路走来，两人历经了如此多的风风雨雨，雪舞感动地流下了泪。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep19_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

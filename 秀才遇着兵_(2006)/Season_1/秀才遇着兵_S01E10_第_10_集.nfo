@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:30:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 10 集</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>秀才遇着兵</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>5090455</id>
+  <uniqueid default="false" type="tmdb">284464</uniqueid>
+  <uniqueid default="false" type="tvrage">477177</uniqueid>
+  <uniqueid default="false" type="trakt">1541888</uniqueid>
+  <uniqueid default="true" type="tvdb">5090455</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>万大人希望把女儿下嫁东楼，东楼推搪要待自己，他日有成才与丽君成亲。东楼从京城带回御赐的「公正严明」牌匾回县，更获赏千里马一匹，委派义妹越级升任马快，让她以千里马穿州过省缉捕汪洋大盗，义妹开心受赏识，但金英更担心她横冲直撞更易闯祸。
+
+义妹决定要捉拿易容大盗独孤龙，并相信他会偷取南朝玉佛，金英知悉后又再暗中跟踪。义妹与镖师合力保护玉佛，金英虽发现独孤龙，但不慎被他走掉，却遇上义妹，金英与她大战一轮才得脱身。义妹遇独孤龙却误信他是捕快，更和他一起把守玉佛，幸好她最终识破他的身份，最后在金英暗助下擒住大盗，把他押回良才县。
+
+史大妈偶遇秀姑，发现两人同日生日，史大妈邀她翌日共贺生日，秀姑去贺寿途中，忍不住又帮衬赌坊，史大妈命其旺定要找秀姑回来一起祝寿，其旺侍母至孝无奈答应，终在赌坊把秀姑赎回。
+
+一批官银将路经良才县，东楼唯有不顾衙门空城，派驻所有人看守驿站保护官银。金英夜访衙门见空无一人，绍泉等人更晕倒房内，发现水大人失纵，衙门收到勒索信要求赎金一万两，史师爷知道贼人是打官银主意。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2676</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Gentle.Crackdown.E10.Hdtv.1080I.H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

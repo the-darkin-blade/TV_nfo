@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>兰陵王遭诬告陷害</title>
+  <originaltitle>兰陵王遭诬告陷害</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>4659256</id>
+  <uniqueid default="false" type="tmdb">1224921</uniqueid>
+  <uniqueid default="false" type="trakt">1233040</uniqueid>
+  <uniqueid default="true" type="tvdb">4659256</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>选妃过程中，兰陵王对雪舞的爱有增无减。甚至表示他会为了雪舞不惜违抗圣意。正当雪舞为难之际，晓冬交给雪舞一封来自陌生人的信，信上只是简单写着山蕲二字，晓冬不解，但雪舞却明白这是奶奶的意思。山蕲，是当归的别称，应当归去，是奶奶来接雪舞回去了。正在兰陵王为雪舞黯然神伤之际。郑儿也同样为情所困，她眼见兰陵王深爱着雪舞，又直接为了雪舞而拒绝自己，郑儿只好求助于胡皇后与祖珽，单纯的郑儿却不知道，心恶如蝎的这两人将会害兰陵王陷入万劫不复的深渊。严峻的斗争形势让兰陵王意识到要是再让雪舞留在自己身边，她成为皇室斗争的牺牲品，兰陵王主动要求雪舞离开。感受到兰陵王态度的变化，雪舞带着伤心离开了王都，而兰陵王府的大劫在她离去后才刚刚开始。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep13_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:30:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 18 集</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>秀才遇着兵</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id>5090463</id>
+  <uniqueid default="false" type="tmdb">284472</uniqueid>
+  <uniqueid default="false" type="tvrage">477185</uniqueid>
+  <uniqueid default="false" type="trakt">1541923</uniqueid>
+  <uniqueid default="true" type="tvdb">5090463</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>金英被严刑逼供交出养生宝典，东楼认为应交刑部审理，万太保坚持要秘密审讯，表明为官之道定求自保，决将宝典失窃嫁祸飞鹰，东楼发现恩师并非官中清流。其实万太保早知金英身份，既知宝典难寻，与刑部又有过节，决一箭双雕擒飞鹰背黑锅。
+
+义妹东楼为救金英争执闹翻，义妹怒取卷轴离去。东楼上告邵大人，希望刑部接办此案。义妹想劫狱救母，衙门各人决暗中相助，义妹混进天牢，伺机行动；但掘地道事败，义妹发难，大毛乘乱骗狱卒开锁，各人明捉暗放，义妹、金英及唐森终逃离衙门。
+
+刑部接手调查案件，万太保怒斥东楼背叛自己，藉词要捉拿一干逃犯再交刑部。东楼盛怒，将毛、士、生、非判罚杖刑再革职。史师爷接应金英等人，发现卷轴裂开内藏梵文丝帕，义妹估计是养生宝典，金英回忆卷轴是当年从万太保府内偷出，认为两者定有关连。而史师爷找菩提大师证明丝帕就是宝典。
+
+东楼被连降六级准备丢官，情场仕途两失意，买醉度日，万太保重新拉拢东楼，他思前想后，决跟从太保上京带罪立功。东楼被丽君尽情糟质，弄得腰酸背痛，突然一名老家丁出现，竟是义妹乔装。原来一切尽是东楼计算中…</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2615</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Gentle.Crackdown.E18.Hdtv.1080I.H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

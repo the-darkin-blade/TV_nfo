@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>文彬出言中伤小楼</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490905</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>韩立相约傲天喝酒，指啸山与日良过从甚密，怕会影响上海的稳定局面，傲天叫敬泉多加留意。啸山为讨好日良，已联络法国酒商做买卖，叫学尧做翻译。学尧不知就里，称上海没有人懂得欣赏红酒，但啸山坚持，要志在必得。
+
+学尧与法国商人商讨过后，以非常便宜的价钱买下一箱红酒。啸山甚喜，指学尧有他的风范。翌日，啸山收到报价单，发现价钱差天共地，不禁勃然大怒更教训学尧。
+
+小楼被邀 出席丧礼
+
+啸山不能为日良买到红酒，日良觉得所托非人，对啸山相当失望，并大声喝走他。敬泉汇报啸山行踪，同时发现韩立的手下正跟踪日良，傲天觉得事有蹊跷，要瀚林探查红酒的送货地址。傲天得知送货地址后，把它交给韩立，令他大为感激。傲天预计日良很快便会下台，并觉得韩立背后有另一位老板。
+
+文彬的父亲过世，小楼为不能见尚老爷最后一面而感自责，文彬坚持要她出席尚老爷的丧礼。月兰到八方会馆找小楼，小楼转身却离开。月兰问是否文彬介意傲天的背景，小楼无言以对。月兰称二人仍可偷偷见面，不被文彬知道，小楼感激月兰体谅。
+
+日良私下 利益输送
+
+尚家正安排尚老爷身后事，银馨指小楼与文彬有亲密关系，若小楼出现会影响尚家声誉，文彬同意，称一切以父亲的面子为重。文彬以小楼仍与月兰见面为藉口，不准她出席尚老爷的丧礼，小楼欲哭无泪。
+
+日良突然被贬职，兆匡赞傲天料事如神，原来傲天吩咐敬泉调查日良，发现背后有利益输送。傲天希望拜会韩立背后的老板，韩立一口答应。
+
+婷婷到纱厂找兆匡，见他与傲天倾谈甚欢，但婷婷不喜欢黑帮人物，故劝喻兆匡远离傲天。
+
+啸山醉酒归家后大发雷霆，突然美琴出现，啸山求她不要再离开，还答应美琴转做正行。
+
+金棠被贬 担任文职
+
+金棠回到警察厅，庭亨已成为正式督察长，而金棠则被贬为文职。庭亨不停侮辱他，金棠忍无可忍向沃利辞职。百乐门入不敷支，而且不够钱发薪，绮红亦只顾玩乐，不愿助金棠打理生意。
+
+小楼坚决出席尚老爷丧礼，但银馨指丧礼当日不想见到她。文彬在八方会馆与众人安排父亲后事，馆主问起小楼为何不在出席名单之上，文彬指小楼不会出席，月兰不服。
+
+受伤的文彬指控小楼找黑帮伤害他，小楼否认，并埋怨文彬重视自己的名声多于她，决定与文彬恩断义绝。小楼失踪后被傲天找到，她后悔过去为文彬而放弃一切。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep12.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

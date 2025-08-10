@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>兆匡查出天行秘密</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490907</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>傲天想找出文彬的缺点，敬泉花时间追查，却无法找到任何破绽。银馨回家后把遇见曼芳与小孩的事告知文彬，文彬叫银馨以后不要再理会她。
+
+傲天代曼芳来见文彬，指知道曼芳曾怀有文彬小孩并准备公开此事。小楼在八方会馆练功，可惜功架不及往年。她看到文彬在报纸上刊登的道歉启事，心中猜想是傲天帮忙。小楼与曼芳重逢，曼芳希望小楼不要被文彬拖累，重新振作。
+
+天行日军 私下交易
+
+天行曾口头承诺，只要傲天帮他帮忙收取恶霸的贷款后，便会帮傲天的银行做担保，可是天行出尔反尔。兆匡怀疑天行暗中与日本军人做生意，傲天吩咐兆匡调查此事是否属实。
+
+韩立知道傲天与天行商讨新银行的事，他指天行暗中与日本军人有千丝万缕的关系，并指幕后老板想控制他。
+
+兆匡查出天行经常运资金上东北三省，与日本军人交易。婷婷听到兆匡与傲天的对话后追问兆匡，但兆匡只劝她不要再追查下去。
+
+正当婷婷继续调查天行时，突然发生了一件凶杀案。婷婷马上往找兆匡，追问兆匡有否参与凶杀案，兆匡否认，指只处理傲天的正当生意。敬泉称之前已有数人被杀，行凶者非常神秘，但手法一致。
+
+啸山迫令 工人加班
+
+啸山要纱厂工人无理加班，把五日才可完成的工作，限定在三日内完成。国栋解释工序繁复，不能随意缩减，但啸山不听，坚持要工人服从己见。
+
+工人叫苦连天，国栋只好尽量安慰他们，增强士气。国栋觉得啸山不会长时间看管纱厂，暂时只能出言安抚工人以拖延时间。兆匡问起纱厂进展，国栋欲言又止，兆匡说如有问题，可以坦白相告，他会向傲天反映。
+
+警察调查凶杀案，已查到天行身上，天行怕警察会查到他与日本军人的勾当，于是计划诬陷银行会计，希望藉此脱罪，并决定迅速运走金钱。傲天知道天行的举动后，亦进行他的计划。
+
+傲天妙计 收服天行
+
+市民知道天行的银行出现财政危机，纷纷赶去提款，天行不知如何应付，只能吩咐员工不要开门。这时，傲天却公开向银行存入钜款，重拾市民信心，傲天更称视天行为朋友，才存入钜款。天行需要这笔钱来稳定公众的信心，但又不想被傲天威胁，令他进退失据。
+
+傲天的银行成功开业，亦能控制天行，韩立的老板非常满意，韩立答应安排时间相见，傲天甚喜。金棠听到百乐门的歌女说南京有一间比百乐门更大的夜总会，金棠以为是桂生所开。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep14.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

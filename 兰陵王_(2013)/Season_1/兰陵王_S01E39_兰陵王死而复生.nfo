@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>兰陵王死而复生</title>
+  <originaltitle>兰陵王死而复生</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>39</episode>
+  <id>4659282</id>
+  <uniqueid default="false" type="tmdb">1224947</uniqueid>
+  <uniqueid default="false" type="trakt">1236669</uniqueid>
+  <uniqueid default="true" type="tvdb">4659282</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雪舞不愿陷宇文邕于不仁不义。宇文邕拿出兰陵王托孤的信，雪舞伤心，也感念宇文邕对她的恩德。皇后阿史那对于宇文邕封雪舞为妃，感到不悦。雪舞向皇后坦陈心迹，请皇后不要怀疑自己。宇文邕为雪舞做的还不只这些，他让齐国边境的贱民村迁移到周国，好好的安顿整村人，让雪舞在周国还能拥有家的感觉。齐国皇宫深夜，小怜等皇上睡下，行踪神秘兮兮走往一处地窖，待在里面的人是兰陵王，他没有死，从一开始他喝下的毒酒，被小怜调包，放入酒里的毒药不会致死，只会令人心脏麻痹数时辰，要杀死兰陵王，小怜终究是不舍的。兰陵王昏迷数日，感觉有人对自己无微不至的照顾，睁开眼没想到会是冯小怜，他百感交集。小怜告诉兰陵王雪舞已经死了，还拿出银梳证明话里着真实性，但兰陵王听出她话里的破绽，知道她在说谎，但没有点破，决定装作表面的顺从，卸除小怜的戒心。冯小怜离开地窖，兰陵王企图挣脱铁链，用尽力气仍无法挣开，静下心，他开始思考如何离开这里，去见雪舞。宇文邕请雪舞上朝为自己提出国事建议，雪舞说的头头是道，众臣皆服。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep39_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="39" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

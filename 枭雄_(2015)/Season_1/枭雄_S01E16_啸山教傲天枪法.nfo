@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>啸山教傲天枪法</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490909</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>时间回到二十年代，自从小楼离开上海，傲天终日闷闷不乐。
+
+桂生见洋人夜总会甚有派头，决定开设一间可招呼中国人的夜总会，得金棠支持。雄爷与阿杨因地盘而争执，金棠因有事不能到场调停而桂生代为出面，独力摆平事件。
+
+桂生决定结束怡香院及借贷生意，要琼姐交出所有账簿。琼姐怕桂生知道她亏空公款，于是找铁头帮忙，把所有债仔的债务过户给他。
+
+铁头欲对 芷晶施暴  文龙知道芷晶的债务过了给铁头，叫芷晶立即还钱否则后果堪虞。文龙带芷晶到赌档赌博，岂料连文龙的薪金都输光。芷晶见广告女郎薪水丰厚，决定前去应征。铁头见芷晶成为了广告女郎一时色心起，把她捉到公寓施暴，芷晶反抗逃到街上遇见桂生。
+
+啸山见美琴不适，即问何事，美琴指怀有第二胎。码头有工人争执，啸山到场后扣留袁少帅的货要求加钱，突然有队军人赶至，啸山见状立即放货，令手下不满。啸山与周大帅的手下秘密会面，得知对方要暗杀袁少帅。
+
+啸山与傲天试枪，啸山枪法如神令傲天拜服。啸山教傲天开枪，并叫他明晚进入袁府，负责引开其他人。啸山把地图和枪交给傲天，他只好照办。
+
+傲天回家，启华与他促膝长谈，劝傲天要为将来打算，并计划把新铺交由傲天打理。傲天与啸山乔装打扮，混入袁府，傲天在府内放火，引开军人注意，啸山则闯进少帅睡房，欲杀少帅。
+
+傲天救人 反被毒打
+
+傲天见到啸山杀人非常气愤，大骂啸山。啸山声言此事只有他们知道，二人分钱后，各行各路。傲天回家，从启华口中得知，警察为少帅被杀一事曾来问话。启华说凶手谋财害命，毫无人性。
+
+傲天想起听文龙说过，芷晶因欠债险被铁头污辱，他决定把钱拿去救芷晶。芷晶被阿娴骗到铁头的赌档，差点惨遭施暴之际，傲天突然赶到。傲天把钱交给铁头，但铁头并不放人更痛打傲天。
+
+文龙见事态不妙，即找啸山帮手，美琴看到新闻纸，心知少帅是被啸山所杀，而她在家中亦发现了大量珠宝。美琴听到啸山要出门，即赶去阻止他，岂料她却遇上意外。
+
+啸山奋勇 救出傲天
+
+铁头把傲天打至重伤，并要在他面前侵犯芷晶。这时啸山赶至，救出傲天与芷晶，并将他们送往医院，文龙则陪在芷晶身边。啸山知道美琴出事，紧张万分。傲天非常自责，认为美琴的意外是因他而起，但啸山认为一切天注定，二人和好。
+
+桂生为了开夜总会，用高价购地，并决定出售怡香院来套现。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2666</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep16.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

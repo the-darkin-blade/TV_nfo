@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>月兰发现小楼情信</title>
+  <originaltitle>Episode 28</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490921</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>兆匡召集斧头帮及傲天的旧门生，计划成立一支新队伍，专门对付日军。有人指要先杀害啸山与傲天，兆匡反指，他们已是东条身边的红人，很难对付。
+
+兆匡说，首要任务是要先把华界的妇女，安全送到法租界。敬泉指这必须要有日军签发的通行证。傲天收到东条指示，要说服三名商人加入东亚和平促进会。傲天欲见韩立，当千辛万苦来到约定地点时，小楼突然出现。
+
+两人幽会 以作掩饰
+
+小楼带傲天回家，以避开日军耳目，傲天想不到小楼就是国统处派来的人。小楼把她被委派的来龙去脉告知傲天。傲天十分欣赏，并向小楼道歉，因他以前不欲小楼牵涉谍战之中，才故意把她骂走。小楼指她深信傲天不会是汉奸，因他并非无情之人。傲天为国家大事，愿意忍辱负重，她实在非常难过。
+
+傲天把三名商人名单交给小楼，指东条欲伤害他们，要她把此事转告韩立，尽快安排他们离开。啸山知道傲天密会小楼，指傲天已变，现在都拈花惹草。学尧指东条下了命令，一定要把电影完成，但现在抗战时期，他相当为难。啸山叫他依照东条吩咐，誓要把电影拍好，令学尧不知如何是好。  兆匡救人 却遇阻挠
+
+美琴捐出所有物资助受难妇女，她怕救援人士因啸山的行为而讨厌她。兆匡约见学尧，请求他借出通行证和货车，以便通过日军关卡，可是学尧怕被啸山知道，指需要考虑。婷婷指如果学尧不肯，很难救助桂生及众妇女，兆匡坦言这是唯一办法，要博一次。
+
+学尧把兆匡的请求告知美琴时，刚巧被啸山听见，美琴立即拒绝。兆匡把货车驶过日军关卡时，拿出通行证称要运走电影器材，但日军不理，坚持一定要搜查。  傲天情信 暗藏密码
+
+啸山每日派人跟踪傲天，更偷看小楼的信。他们只发现是傲天写的情信。小楼多日未联络到韩立，她怕东条会对付逸庆等人。她从傲天的情信中，知道要把名单交给兆匡，她不明所以，只有照做。  小楼在戏迷聚会上，偷偷地成功把名单交给兆匡。兆匡即通知逸庆等人，叫他们速离上海。逸庆感谢兆匡大恩。婷婷知道兆匡有线人汇报，但不敢追问。
+
+傲天宴请各界商人，希望他们加入东亚和平促进会。有商人不肯加入，并指傲天是日本人的走狗。傲天即利用暴力，迫他就范。
+
+傲天收到小楼寄来的信，得知兆匡已把事情办妥，而逸庆等人已离开上海。月兰在无意中拾获有关信件，以为真是小楼给傲天的情信。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2674</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep28.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

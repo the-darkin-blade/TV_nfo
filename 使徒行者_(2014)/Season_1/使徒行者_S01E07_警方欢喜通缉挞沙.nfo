@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>警方欢喜通缉挞沙</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>4981235</id>
+  <uniqueid default="false" type="tmdb">2171067</uniqueid>
+  <uniqueid default="false" type="trakt">1312280</uniqueid>
+  <uniqueid default="true" type="tvdb">4981235</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>羡昕现任男友兆良警告浩勤远离女友，但浩勤并未死心。欢喜在家强相助下设局令挞沙遭到警方追捕，他独占坐馆位置并巨额悬赏通缉挞沙。一众贪钱的流氓为查出挞沙下落竟绑架小嘉及家人，幸亏小嘉施计成功脱险。卓凯暗中在羡昕处安装了窃听器，他因而得知羡昕姐姐羡晴经常遭到丈夫永权毒打。卓凯根据蛛丝马迹找到挞沙并打了起来，家强突然现身帮助卓凯，此时欢喜手下也赶来并发生枪战。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Line.Walker.E07_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>枭雄</title>
+  <originaltitle>梟雄</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <sorttitle/>
+  <year>2015</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>9.0</value>
+      <votes>1</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>民国初年，上海号称「东方冒险家乐园」，各路英雄豪杰云集。当时上海三大亨合力建造叱咤风云的流氓集团，素有「翟金棠(汤镇业饰)贪财，龚啸山(黎耀祥饰)善打，乔傲天(黄秋生饰)会做人」的说法，要成就大业，往往要不择手段。而傲天、啸山、金棠亦历尽大时代的波澜起跌、敌友之间的尔虞我诈。在这时局纷扰的年代，又有谁能彰显出人性的光辉？</plot>
+  <tagline/>
+  <runtime>42</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"80371","tvdb":"309132"}</episodeguide>
+  <id>309132</id>
+  <imdbid/>
+  <tmdbid>80371</tmdbid>
+  <uniqueid default="false" type="tmdb">80371</uniqueid>
+  <uniqueid default="true" type="tvdb">309132</uniqueid>
+  <premiered>2015-10-26</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Crime</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <tag>shanghai, china</tag>
+  <tag>business tycoon</tag>
+  <tag>1930s</tag>
+  <actor>
+    <name>黄秋生</name>
+    <role>Kiu Ngo-tin</role>
+    <profile>https://www.themoviedb.org/person/66717</profile>
+    <tmdbid>66717</tmdbid>
+  </actor>
+  <actor>
+    <name>黎耀祥</name>
+    <role>Kung Siu-san</role>
+    <profile>https://www.themoviedb.org/person/123654</profile>
+    <tmdbid>123654</tmdbid>
+  </actor>
+  <actor>
+    <name>汤镇业</name>
+    <role>Chak Kam-tong</role>
+    <profile>https://www.themoviedb.org/person/1254216</profile>
+    <tmdbid>1254216</tmdbid>
+  </actor>
+  <actor>
+    <name>吴卓羲</name>
+    <role>Lai Siu-kwong</role>
+    <profile>https://www.themoviedb.org/person/1222249</profile>
+    <tmdbid>1222249</tmdbid>
+  </actor>
+  <actor>
+    <name>胡杏儿</name>
+    <role>Ku Siu-lau</role>
+    <profile>https://www.themoviedb.org/person/938251</profile>
+    <tmdbid>938251</tmdbid>
+  </actor>
+  <actor>
+    <name>马国明</name>
+    <role>Kiu Ngo-tin</role>
+    <profile>https://www.themoviedb.org/person/1232198</profile>
+    <tmdbid>1232198</tmdbid>
+  </actor>
+  <actor>
+    <name>苏玉华</name>
+    <role>Cho Yuet-lan</role>
+    <profile>https://www.themoviedb.org/person/1222763</profile>
+    <tmdbid>1222763</tmdbid>
+  </actor>
+  <actor>
+    <name>陈炜</name>
+    <role>Yiu Gwai-sang</role>
+    <profile>https://www.themoviedb.org/person/1021936</profile>
+    <tmdbid>1021936</tmdbid>
+  </actor>
+  <actor>
+    <name>梁琤</name>
+    <role>Lau Mei-kam</role>
+    <profile>https://www.themoviedb.org/person/974871</profile>
+    <tmdbid>974871</tmdbid>
+  </actor>
+  <actor>
+    <name>唐诗咏</name>
+    <role>Li Zhi-jing</role>
+    <profile>https://www.themoviedb.org/person/1237978</profile>
+    <tmdbid>1237978</tmdbid>
+  </actor>
+  <actor>
+    <name>王君馨</name>
+    <role>Chu Ting-ting</role>
+    <profile>https://www.themoviedb.org/person/1255467</profile>
+    <tmdbid>1255467</tmdbid>
+  </actor>
+  <trailer>plugin://plugin.video.youtube/play/?video_id=JDoX73eEBHw</trailer>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

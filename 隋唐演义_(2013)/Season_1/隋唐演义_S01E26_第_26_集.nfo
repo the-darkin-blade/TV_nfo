@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 26 集</title>
+  <originaltitle>第 26 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783850</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>寿宴之上，秦琼、玉郡主听到杨林要为二人操办婚事，秦琼觉得事情突然，有所顾虑，杨林劝说两人，定下亲事。　　玉郡主大婚之日，宇文成都闷闷不乐，杨广看出宇文成都心事，赐给他一个妃子，宇文成都深感屈辱。　　婚宴之上，杨林一时兴起，带领秦琼来到兵器房，将当年正藏秦彝的盔甲送给了秦琼，秦琼这才得知杨林就是自己的杀父仇人，秦琼一时恍惚，他决心杀掉杨林，但刀剑在手，最终放弃。他决心离开登州王府，玉郡主不离不弃，与之奔走。　　这边，单雄信正在聚集绿林兄弟，准备付山东济南为秦母过寿。　　杨林得知秦琼、玉郡主悄悄与大婚之夜离去，以为是秦琼家中有急事，并未起疑。此时上官敌来报单雄信正广发英雄帖，与近日在山东济南集合　　秦琼带着父亲盔甲玉郡主回到家乡，秦母得知玉郡主就是杨林女儿，一时悲从中来。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2680</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>26_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

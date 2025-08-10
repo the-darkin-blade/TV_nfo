@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:37:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>接近目标小嘉受伤</title>
+  <originaltitle>Episode 26</originaltitle>
+  <showtitle>使徒行者</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id>5002572</id>
+  <uniqueid default="false" type="tmdb">2171086</uniqueid>
+  <uniqueid default="false" type="trakt">1315562</uniqueid>
+  <uniqueid default="true" type="tvdb">5002572</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>羡昕成为卓凯卧底后意图调查宋先生之一的家宝，她计划用舞蹈引起家宝的注意。小嘉加入了议员淑云的助选团队，并成功获取淑云信任。卓凯将郭正违法之事告诉羡晴，羡晴提出帮卓凯收集上司郭正的犯罪证据。希微安排家强与言廷见面，她打算促成二人合作。小嘉和家强在养母灵堂相遇时突遇恶霸，她为保护家强被恶霸砍伤。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2653</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Line.Walker.E26_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>金棠迫傲天出手调查万钧被杀一事</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490898</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>禁毒专员万钧被杀，日良怀疑与三大亨有关，总参谋副官韩立认同。日良命令韩立审问三大亨，并成立特别调查组，专门调查此案。韩立以蒋委员长之名，请三大亨来问话，但啸山却没有出现。
+
+韩立指万钧被杀手法似帮会所为，问傲天及金棠可有头绪，二人皆说没有。金棠肯定是啸山所做，傲天则希望先调查清楚。金棠指政府已怀疑是他们所为，只给傲天一天时间调查，若傲天调查无所发现，金棠即告发啸山。
+
+众人劝傲天 举报啸山
+
+韩立见到啸山，告知万钧昨晚被杀。啸山突然发难，说昨天自己已在杭州，绝不知情，又说韩立只是小官，若非有蒋委员长的委任状，他绝不会接见。美琴见状，问学尧发生何事，学尧不敢说出事实。
+
+沃利称法租界警方会全力与新政府合作，命令金棠立即找出真凶，使金棠不知如何是好。镇岳为了打击三大亨，刻意制造风声，把矛头指向啸山，镇岳更向韩立指，割喉是啸山常用手法。兆匡与敬泉刚在附近，听到镇岳向韩立说的话，即把听到的告知傲天。
+
+众人都希望三铿公司与啸山厘清关系，以免日后被政府穷追猛打。瀚林等人都提议傲天举报啸山，只有兆匡知道傲天不想。
+
+傲天透露 凶案线报
+
+美琴去找傲天，知啸山一定是出了事，傲天叫她放心由他处理。金棠去桂生家，想取回百乐门数簿及自己的屋契，但桂生早已离开，并只留下一封信。
+
+傲天约见兆匡，问如何判定为杀人犯，兆匡说出法律定义，傲天即想到办法。韩立对日良称，在华界和法租界，线报都直指啸山杀人，日良下令立即拘捕他。这时傲天突然出现，说发现有新线报，并指人证物证俱在。
+
+镇岳成为 代罪羔羊
+
+啸山的手下收到消息，警察厅已派人去拘捕他，并指通风报信的是金棠，啸山于是要美琴立即离开上海。
+
+阿七主动见韩立，告知事发当日见到谁进入了万钧家。啸山听见屋外有声，以为是警察厅的人，于是持枪准备杀出去。另一边厢，韩立带大队人马去镇岳家，指他是杀万钧的凶手。韩立向日良报告已捉到凶手镇岳，并指有人证与物证。
+
+啸山松了一口气后，他却怪责美琴找傲天协助，但美琴反指责啸山要儿子去冒险。日良召见傲天，多谢他举报镇岳，傲天追问赌牌进展，日良称会跟进。韩立亦私下感谢傲天帮助，希望可与他成为朋友，傲天一口答应。
+
+金棠得知镇岳之事后勃然大怒，认为连傲天都反对自己，因此要立即采取行动，随即约傲天到百乐门开会。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep05.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

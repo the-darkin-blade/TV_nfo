@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:30:40 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 4 集</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>秀才遇着兵</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>5090449</id>
+  <uniqueid default="false" type="tmdb">284458</uniqueid>
+  <uniqueid default="false" type="tvrage">477171</uniqueid>
+  <uniqueid default="false" type="trakt">1541864</uniqueid>
+  <uniqueid default="true" type="tvdb">5090449</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>东楼醒来被各人催签债据，他没有屈服，说并说唯有不顾颜面上书被诬告欠债，史师爷立即制止免事情闹大，东楼险胜一仗！民妇三婆报官，辛苦筹得的一千文钱为夫治病，却在山间去茅厕时被偷去，丈夫更告不治，誓要捉贼取回辛苦钱以还公道。众人皆知钱财没记认，水大人竟接理此案，史师爷心想等着看东楼好好被刁民整治。
+
+水大人下令彻查，竟派义妹把茅厕板带回衙门审问。审茅厕板一事令村民争相看审，东楼棒打厕板严刑迫供，被村民耻笑，东楼乘机教训村民既知无聊却到场看审，不事生产连累良才县沦落，向每人征罚五文钱，将罚款全归三婆，三婆不单取回失款，更有余钱殓葬丈夫，众人才明白水大人苦心，东楼顿时民望高企，又过一关！
+
+又到征收钱粮以作上缴及来年官衙使费，但惯例又是捕快们搜括民脂民膏的时候，岂料东楼随团下乡，乡绅不单大宴东楼，更送赠蔘茸海味金银珠宝，水大人照单全收，么公以为贪官真貌出现，义妹更不屑其所为。
+
+原来东楼把赠礼转送贫困村民，义妹对他另眼相看。义妹见捕快们调戏民女，出手制止，却被毛、士、生、非奸计制服，么公更大肆侮辱义妹父亲，此时一直在跟踪的金英暗中隔空出手救女，又被东楼目睹其武功！东楼藉词采药再试探金英身份，试探不成反失足跌下山崖，金英唯有出手，救回东楼。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2667</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Gentle.Crackdown.E04.Hdtv.1080I.H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

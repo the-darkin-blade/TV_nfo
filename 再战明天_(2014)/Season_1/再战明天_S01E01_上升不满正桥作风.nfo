@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:31:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>上升不满正桥作风</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>再战明天</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>5008115</id>
+  <uniqueid default="false" type="tmdb">1950497</uniqueid>
+  <uniqueid default="false" type="trakt">1321975</uniqueid>
+  <uniqueid default="true" type="tvdb">5008115</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>文上升是惩教署的高级惩教主任，隶属赤柱监狱，其性格严格认真、一丝不苟，因而深得上司器重。至于隶属罗湖惩教所的姚爱嘉，虽然同属惩教人员，其玩世不恭、粗枝大叶的性格，虽让人感到不大可靠，但仍得到同事及囚犯的爱戴。  由于爱嘉即将出发到法国，与身处当地的男朋友结婚，自然成为同事间的谈话重心。一次爱嘉独自执行职务时，遇上囚犯顾惠珠突然癫痫发作，爱嘉见状即出手救援，为此被惠珠咬伤，需送院治理。  正桥制服　滋事分子  乔正桥是上升在惩教署内的下属，性格随和的正桥深得囚犯的欢心，但却与上升的关系不咬弦。这天，正桥按上升指示带领新的囚犯到监狱服刑，新来的囚犯名叫邓颂恩，因为谋杀父亲罪名成立而被判终身监禁。  正桥见颂恩神情颓废、了无生气，便指示同被判囚终身的杜子书及钟以硕教导颂恩有关监狱内的规矩。同一时间，监房内其他囚犯突然因小事而爆发冲突。
+
+正桥马上出手阻止，因而被卷入斗争之中，幸正桥是惩教署中的精锐分子，不消一会便独力将囚犯制服。  爱嘉被罚　当街献吻  正桥虽然成功独力处理狱中的冲突事件，但正桥的鲁莽行动却令身边的同袍受伤，上升故对正桥表示不满。  正桥向同事提及自己与释囚之间还有联络，被上升听进耳中后，上升表示担心正桥此举会影响惩教署声誉。正桥听到上升的看法，对他感到不满。
+
+爱嘉出院后马上参加朋友举办的派对，众人狂欢过后，竟突然要求赌输的爱嘉到街外向陌生人献吻。碰巧上升因担心爱嘉而在附近出现，故爱嘉即向上升献吻。一众朋友因而误会上升就是爱嘉的未婚夫，但原来，爱嘉与上升竟是叔侄关系。  颂恩杀父　被囚终身  颂恩本是被大学收录的高才生，虽然出身贫穷，未来却一片光明。岂料某天颂恩回家的时候，发现妹妹郑可儿衣衫不整的在床上哭泣，才惊悉继父乘自己不在家的时候强奸可儿。  颂恩发现此事，怒不可遏，在码头失控与继父发生冲突，结果不慎将烂醉的继父推下海中溺毙。可儿因此被判监禁十八个月，颂恩则被判囚终身。上升得知颂恩的背景后，指示下属在狱中要加倍留意颂恩的情绪问题。  重遇细响　上升受袭
+
+甲级重犯叶细响伤愈出院，需押返赤柱监狱服刑，为避免细响的兄弟于途中劫狱，赤柱监狱上下均作高度戒备。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2689</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.再戰明天.E01.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

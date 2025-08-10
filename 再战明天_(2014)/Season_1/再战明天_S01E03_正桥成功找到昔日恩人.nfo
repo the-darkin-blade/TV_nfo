@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:31:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>正桥成功找到昔日恩人</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>再战明天</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>5011812</id>
+  <uniqueid default="false" type="tmdb">3236322</uniqueid>
+  <uniqueid default="false" type="trakt">1322268</uniqueid>
+  <uniqueid default="true" type="tvdb">5011812</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>爱嘉突然悔婚，令她在外国的家人大感困惑，上升等人则明白爱嘉的任性妄为，故最后也没有强迫爱嘉回外国。  为了方便照顾爱嘉，上升便让她寄住在自己家中。正当上升帮助爱嘉整理行装的时候突然发生意外，幸好上升及时出手保护，才没有令爱嘉受伤。爱嘉受到上升的保护及关怀后，心中却涌出一丝暖意，并感到自己对上升并不只是叔侄之间的感情。  颂恩不慎　得罪细响  秋分除了经营面店外，也是专门照顾囚犯的探监义工，以帮助举目无亲的囚犯打点日用品，及安抚囚犯的孤独情绪，故此秋分与身为福利官的晋伟也相当熟稔。
+
+赤柱监狱内，颂恩因未能适应狱中生活，不小心得罪细响。细响一直是狱中的滋事分子，故一直想出手教训颂恩出气，而细响的手下伟全为讨好细响，便利用手上的毒品教训颂恩。  前妻雅蕾　代觅对象  雅蕾见上升离婚后一直未有另觅对象，决定介绍女性朋友给上升认识。雅蕾为了解上升的喜好，便相约爱嘉见面相谈。爱嘉乐意把上升的嘉好与雅蕾分享，但上升却未有对雅蕾介绍的对象动心，故令雅蕾的计划难有进展。  秋分完成探访工作后回家，却遇见正桥；原来他乘秋分不为意时调查其笔记簿，希望能找寻出一个囚犯的下落。  陷害颂恩　吸毒伤人  丁好好是名囚禁于罗湖惩教所的囚犯，她身边有一名年仅三岁的儿子需要照顾；根据法例，好好的儿子因为已满三岁，故需要离开监狱交予社福机构照顾。好好不舍与儿子分开，决定在狱中安守本分，以求与儿子一同出狱。
+
+伟全在香烟中渗入了毒品，并诱骗在狱中形单只影的颂恩吸食，颂恩不虞有诈，吸食毒品后，失去了自制能力并用利器刺伤了惩教人员。  上升知悉事件后大为紧张，除了将颂恩独立囚禁外，更派人搜查监狱以查出毒品来源，可惜最后一无所获。  正桥觅得　恩人好好  正桥与释囚相熟，故收到了由释囚所发出的结婚喜帖，但是众惩教人员担心赴宴会惹起上升不满，故最后纷纷拒绝参加婚宴。  卢立桂察觉到正桥不忿的心情，便相约正桥在外面喝酒谈天，并大谈上升的不是，正桥终决定反抗上升的命令独自参加释囚婚宴。  凑巧上升与爱嘉在婚宴会场外与正桥碰面，上升见状即在释囚面前训斥正桥，因而令正桥感到不快。爱嘉希望上升让步，但是上升一直遵从父亲教诲，行事决不容一丝错误，故不打算接受爱嘉意见。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2693</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.再戰明天.E03.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

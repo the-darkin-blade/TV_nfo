@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 11 集</title>
+  <originaltitle>第 11 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783832</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>秦用连杀突厥大将胡雷、沙托明两员大将，红海狼狈逃跑，秦琼等人一举夺回瓦口关。秦用、史大奈被任命守将，严守瓦口关。　　杨广杀死琼花公主，并由萧美娘假扮琼花回到寝宫，这边杨广派李公公将杨勇引到御花园去见琼花公主，杨勇醉醺醺地一拍背对他的琼花，琼花竟落水身亡。杨勇惊慌失措。　　文帝和独孤皇后得知竟是杨勇害死琼花，却不知这一切都是杨广所为，他杀死琼花，嫁祸于杨勇，不过是借机除掉杨勇，登上太子之位，果不其然，杨勇因此被编为庶民，杨广顺理成章当上太子。　　而杨广所为遭到大臣高熲和李德林的怀疑，二人暗中查探。　　秦琼思念母亲，罗艺便允秦琼归家，并安排他去济南府任职，秦琼辞别北平王，罗成拜访舅母随秦琼前往，单盈盈也跟随二人上路，要回二贤庄。行至半道，单盈盈不敢独自回家，秦琼决定先改道山西二贤庄，送单盈盈回家，单盈盈大喜。　　前往宫中查探令箭来处的玉郡主刚一到京城，听闻琼花公主被太子杨勇所害，玉郡主没有贸然进宫，而是去找高熲探访宫中形势，玉郡主从高熲口中得知令箭可能出处，玉郡主决定前往宫中从宇文成都口中探知一二。　　杨广一边假意逢迎文帝，一边与萧美娘穷奢极欲。　秦琼和罗成送单盈盈回到二贤庄，单雄信却对秦琼闭门不见，只说让他赶紧回山东去，秦琼不明所以，单盈盈询问无果，一气之下，也跟着秦琼、罗成去了山东。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2639</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

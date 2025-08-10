@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:30:43 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 14 集</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>秀才遇着兵</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>5090459</id>
+  <uniqueid default="false" type="tmdb">284468</uniqueid>
+  <uniqueid default="false" type="tvrage">477181</uniqueid>
+  <uniqueid default="false" type="trakt">1541910</uniqueid>
+  <uniqueid default="true" type="tvdb">5090459</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>东楼屡破奇案，悬红收入比衙门过往的常例钱更多，东楼更获各州县争相送礼邀他办案，东楼亦与众分甘同味，衙门上下一片升平。刑部下旨要东楼及义妹微服上京，助查近日的连环凶杀案，义妹开心可与东楼朝夕相对。
+
+义妹发现东楼遗失卷轴大发雷霆，东楼不明所以，向大毛及金英打听，知道那是她的订情信物后，便想办法寻回卷轴退还，以示两人并无儿女私情。东楼不顾倾盆大雨在山上找寻，反令一直跟踪他的义妹误会更深，东楼终找回卷轴，却不慎被毒蛇咬伤，义妹情急之下为他啜血清毒，把他救回衙门，众人以为他们上山偷情，取笑他们搞地下情，东楼不知所措，寄望上京途中交待清楚。
+
+史师爷到青楼寻欢，竟遇秀姑堕落风尘，正大肆奚落之际，秀姑哭诉真的为救儿代赖仁还债，史师爷亲耳听到赖仁以三百两把秀姑卖给怡香院，立即答应助她赎回安儿，岂料赖仁反口，让母子见面后便把儿子带走，立心以儿作摇钱树，其旺决要教训这贱人！
+
+东楼义妹到达京城，万太保说近月多位官胄贵女出嫁前夕被谋杀，叫东楼全力破案。戚太史女儿出嫁在即，丽君到戚府留宿当陪嫁姊妹；岂料戚贵女亦遭毒手，丽君目睹凶手离去的身影，义妹认为丽君会有危险，自荐当她的保镖，东楼恐被义妹得悉与丽君婚约，甚感头痛。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Gentle.Crackdown.E14.Hdtv.1080I.H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

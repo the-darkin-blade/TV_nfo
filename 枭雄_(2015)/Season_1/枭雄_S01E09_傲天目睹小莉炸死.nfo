@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>傲天目睹小莉炸死</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490902</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>傲天终于见到小莉，但她否认墙上的图案是留给她的暗号。傲天说父亲已去世，叫她一同去拜祭，但小莉坚持不去。
+
+傲天帮学尧取回风筝，令学尧大为高兴。傲天对啸山说学尧很乖，但小莉却很大胆，竟参加革命党。
+
+傲天回家后见启华脚痛，为他按摩，启华劝他不要再接触啸山，傲天却指与他接触大有好处。傲天在果档顾店，他自觉不甘于终身卖水果，誓要闯出一片天地。
+
+桂生看淡 金棠感情
+
+庭亨的手下查出革命党仍在上海，更用此事来挖苦金棠。愤怒的金棠要求手下三日内拘捕所有余党，否则后果自负。琼姐带怡香院的数簿给桂生，碰巧金棠离开，琼姐称金棠是个好男人，叫桂生不要错过。桂生指对爱情已经看淡，觉得她与金棠的感情总会完结。
+
+小莉见很多警察要捉拿定邦，但他不愿离开。同党指风声太紧，定邦答应离开时却遇上金棠的手下。金棠与桂生去看映画戏后走到公园，桂生谈到喜爱公园的桂花香时，金棠随即向她求婚。
+
+突然有人袭击桂生，幸好被金棠制服。桂生回到帮会欲问出主谋，帮会众老大直指桂生抢他们生意，被袭击是咎由自取。金棠突然出现，指桂生是他的女人，一切将由他撑腰。
+
+小莉定邦 惨被出卖
+
+小莉为筹集离开上海的船费，竟然与党友去打劫赌档。赌档负责人不相信她手上的是真炸弹，刚巧傲天在场，帮她一把，小莉才能平安离开。
+
+傲天担心小莉的安全，文龙又指黑白两道都在寻找革命党，傲天听到后更加忧心忡忡。定邦的枪伤非常严重，小莉只希望他们可尽快离开。党友说认识蛇头，可安排上船离开上海。
+
+警察收到线报，得知定邦的藏身处，立即出发赶去拘捕他。小莉知道定邦被捕后，心情极度慌乱，把抢回来的钱交给党友后，便匆匆离去。
+
+完成任务 金棠得赏
+
+金棠知道定邦已落网，心情大喜。傲天经过车站，见到两名革命党，从旁偷听到小莉可能被捉，旋即赶去革命党藏身处救小莉。
+
+小莉回去，见到定邦被打至遍体鳞伤，为救出定邦，小莉竟把炸药绑在身上，一鼓作气冲进去。警察们见她身上有炸药，不敢开枪，只好让他们离开。傲天从远处望去亦不敢妄动。
+
+金棠带沃利及庭亨去看革命党的尸体，沃利非常满意，指会为金棠办法兰西护照，以作奖励。傲天亲眼看见小莉被炸死，内心有说不出的痛苦，启华劝他生逢乱世不能自责，但傲天誓要为小莉报仇……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep09.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

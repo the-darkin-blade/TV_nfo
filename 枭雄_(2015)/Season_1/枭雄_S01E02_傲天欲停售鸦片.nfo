@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:33:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>傲天欲停售鸦片</title>
+  <originaltitle>Episode 2</originaltitle>
+  <showtitle>枭雄</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2490895</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>为了配合新政府的禁烟政策，督察长沈镇岳努力打击烟档。万钧被新政府委任为禁毒专员，为了顺利推行禁毒，要与傲天打好关系。万钧在启华出事的烟格约见傲天，称在鸦片盒的残骸中发现三铿公司的封条，但前事免提，万钧要求傲天为禁烟出力，傲天敷衍答应。
+
+学生们见傲天车经过，立即拦截。傲天手下聂勇想对付学生但被傲天阻止，傲天派瀚林去了解学生需要，学生即反映鸦片祸害。
+
+傲天劝啸山 停售鸦片
+
+为了帮俊杰戒毒，傲天把他绑在房里。傲天想公司以后停售鸦片，瀚林指啸山最难应付，傲天要先由他入手。
+
+啸山回家，见傲天送上很多礼物，明白傲天必有事相求。傲天想公司不再做鸦片生意，啸山即时反对，指鸦片利润好，赌场的利润也不及鸦片十分之一。傲天极力劝他，指为着儿子的将来不要再卖鸦片。
+
+啸山儿子龚学尧从法国回来，与陆敬泉及兆匡等好友相聚，互问近况。看见啸山出现，兆匡即借意离开。
+
+兆匡问女友楚婷婷有关其弟楚志文的伤势，婷婷提起当日见傲天车，即上前拦截，但傲天派人送志文去医院。兆匡说不应接受傲天恩惠，但婷婷指傲天应该赔偿。
+
+金棠在啸山 赌场捣乱
+
+金棠及其他督察长被万钧召见，要求他们推行禁毒。傲天约见参谋长雷日良，说孔逸庆想结识他。镇岳与金棠的手下在政府办公室外发生争执，镇岳与金棠互指对方是政府奴隶，双方手下持枪对峙。
+
+金棠命人点存仓内的鸦片数目后把它们封起来，傲天说以后不能再卖，啸山也不反对。但金棠指鸦片好赚，不能不卖，并指啸山一日不道歉，都会继续与他为敌。
+
+金棠刻意到啸山的赌场搜查私烟，并打伤啸山的手下。金棠在百乐门挂上绮红的名牌，让她以后可在这里唱歌，老板姚桂生怕影响生意，金棠指自己才是老板。啸山知道是金棠刻意为难自己，决心报复。
+
+啸山下跪 突然道歉
+
+傲天为学尧设宴，但忘记派请柬给金棠。金棠突然出现，月兰即向他道歉。啸山见三人均在场，表示有话要说。傲天以为他要发难，岂料啸山向金棠下跪道歉。
+
+俊杰戒烟太痛苦，大叫要死，傲天劝他不要放弃。敬泉突然出现与傲天耳语，傲天即决定与俊杰一起闭关七天专心戒烟。
+
+绮红收到电话后突然外出，另一边厢，金棠发现仓内的鸦片被人偷去。金棠来不及反应时，手下告知绮红正前往码头。金棠到码头时见绮红正被人侵犯，即叫手下阿添出手救助，阿添却发现身边全是鸦片……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2665</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Lord.Of.Shanghai.Ep02.Hdtv.1080I.H264-Pan6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 32 集</title>
+  <originaltitle>第 32 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783856</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>然而此三人只有一辆马车，行路太慢，罗成与单盈盈竟去劫道，遇上陀螺寨山大王伍天锡。罗成本要动手，单盈盈几句绿林行话一出，伍天锡仗义将马车赠与二人。罗成、单盈盈、秦母三人快马上路，直往小孤山而去。　　秦琼与众兄弟假扮官兵、响马，骗过潼关大帅魏文通，顺利通过潼关。然随后杨林率兵追来，才知魏文通竟放秦琼通关，怒斥魏文通上当受骗。魏文通羞愧请命去追回秦琼等人。魏文通快马直追，秦琼策马而回阻拦魏文通，二人大战几个回合，却被正在石头上睡觉的罗士信看到。罗士信搬起巨石砸向魏文通，魏文通巧妙躲过。罗士信生擒魏文通，将其带回。　　小孤山，罗成、单盈盈、秦母归队，众人欢庆重聚之喜。程咬金、尤俊达、齐国远三人在魏文通面前说要绕道回去攻打通关，又故意放走魏文通。　　秦琼及众兄弟举酒痛饮，酒兴阑珊之际却对未来之路赶到迷茫。秦琼大义凛然，与诸位畅谈男儿英雄之志，劝说诸位反隋，为天下谋得太平。　　秦琼、单雄信、王伯当等人商议决定前往瓦岗，投奔翟让，大兴义军，个兄弟也都纷纷赞成，拔营前去瓦岗。杨林久等魏文通，知秦琼等人竟设调虎离山计，于是下令严守潼关。　　宫中依旧是歌舞升平之景象，杨广命宇文化及下令召集各附属国前来，并设下百国武士大会，叮嘱宇文成都养精蓄锐，横扫百国武士。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2720</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>32_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

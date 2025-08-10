@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:36:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 41 集</title>
+  <originaltitle>第 41 集</originaltitle>
+  <showtitle>隋唐演义</showtitle>
+  <season>1</season>
+  <episode>41</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2783866</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>罗艺发现罗成装病之事，一怒之下竟要和罗成断绝父子关系，派张公瑾修书一封，送往瓦岗。罗成见信后带罗松回北平府认亲。　　袁天罡前来山西通守府中接走李元霸前去观中练武。刚送走李元霸，李渊接到圣旨，竟命他一月之内建起行宫，李渊悲愤，知此事难为。李建成竟李渊造反，李世民则十分镇定，主动要求督建行宫，一月内定能完成。李世民与柴绍一起前往天雷寺，欲借庙修建宫殿，长老应允，并推荐李靖、红拂女从旁帮佐，李靖、红拂女欣然答应。　　袁天罡指导李元霸练武，李元霸总觉得兵器太轻，不趁手。袁天罡承诺在白日之内为他寻一样兵器。李元霸狡黠问明日是否在百日之内，惹得袁天罡大笑。　　宇文成龙、裴氏父子兵至瓦岗，宇文成龙命裴元庆前去攻打瓦岗寨，并说若是打败便要取他人头。裴元庆知宇文成龙故意为难，但他丝毫不把瓦岗军放在眼里，领命而去。　　裴元庆正在外叫阵，徐茂公却命人挂起免战牌，意欲磨其锐气。裴元庆见瓦岗不战，命人在门外叫骂，王伯当不堪此辱，拔剑而射，不想裴元庆武艺高强，悉数躲过，竟反射一箭，射中王伯当。裴元庆见瓦岗久不出战，收兵而回。王伯当问徐茂公为何不战，徐茂公只言明日就战。　　次日，瓦岗城门打开，迎战裴元庆。徐茂公劝说裴元庆不可为虎作伥，早日弃暗投明，裴元庆求胜心切，全然不听徐茂公劝导。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Dragon Television</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2641</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>41_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="41" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

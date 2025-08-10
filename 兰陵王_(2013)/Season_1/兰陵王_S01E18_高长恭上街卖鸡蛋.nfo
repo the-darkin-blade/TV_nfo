@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 09:28:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>高长恭上街卖鸡蛋</title>
+  <originaltitle>高长恭上街卖鸡蛋</originaltitle>
+  <showtitle>兰陵王</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id>4659261</id>
+  <uniqueid default="false" type="tmdb">1224926</uniqueid>
+  <uniqueid default="false" type="trakt">1233751</uniqueid>
+  <uniqueid default="true" type="tvdb">4659261</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宇文护一反，皇宫大乱，皇后及雪舞等众人安危不保，为保护内宫，宇文邕被迫准备退位诏书。但在即将让位时，禁卫军竟出现拿下宇文护所有的随从和亲信，原来这是宇文邕假装中毒的计中计，之前名册亦为假造，诱使宇文护杀害自己亲信。靠着众人的齐心协力，一代权臣宇文护终被铲除。此时，雪舞跟兰陵王则趁乱逃离周国，在安置好贞儿后，雪舞和高长恭便策马狂奔出宫。看到客栈传出一阵狼烟，兰陵王本以为是安德王前来接应，未料却是宇文邕的亲卫队。雪舞央求宇文邕放走他们，宇文邕眼看雪舞唯一只爱兰陵王，忍痛放人，并与兰陵王高长恭签订停战协议书，从此三年，周国养息国力，不攻齐国。兰陵王一回邺城，火速进宫面圣，将停战协议书呈给高湛，高湛没想到在高长恭大婚之前还能带来与周国的和平，欣喜不已，在朝中频频对其赞许，一旁的高纬心里很不是滋味。高长恭与高纬朝中相争一事，传到雪舞的耳里后，她担心此事会让这二人的嫌隙似乎更为加深。雪舞她对兰陵王千叮万嘱要行事要尽量低调，避免与太子高纬有所正面冲突。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youhug</studio>
+  <studio>北京东王文化发展有限公司</studio>
+  <studio>Polyface Films</studio>
+  <studio>上影英皇</studio>
+  <dateadded>2025-08-10 09:27:57</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 兰陵王 Ep18_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
