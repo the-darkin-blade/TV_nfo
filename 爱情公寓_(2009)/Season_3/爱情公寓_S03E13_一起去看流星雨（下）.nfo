@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>一起去看流星雨（下）</title>
+  <originaltitle>一起去看流星雨（下）</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>3</season>
+  <episode>13</episode>
+  <id>4462509</id>
+  <uniqueid default="false" type="tmdb">1299728</uniqueid>
+  <uniqueid default="false" type="trakt">1236501</uniqueid>
+  <uniqueid default="true" type="tvdb">4462509</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>野营的活动继续进行。胡一菲用关谷神奇吃到一半的火腿肠作为诱饵，进行打猎。傍晚，曾小贤苦心搭建的帐篷变成了一个大圆球，众人哄堂大笑。唐悠悠错过了一部武侠片的试镜，为此而心情沮丧。一怒之下，她将陈美嘉更换为自己新的经纪人。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2767</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S03E13.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="3"/>
+  </episode_groups>
+</episodedetails>

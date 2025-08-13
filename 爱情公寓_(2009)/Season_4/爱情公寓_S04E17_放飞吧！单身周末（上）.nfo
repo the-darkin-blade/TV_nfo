@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>放飞吧！单身周末（上）</title>
+  <originaltitle>放飞吧！单身周末（上）</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>4</season>
+  <episode>17</episode>
+  <id>4776994</id>
+  <uniqueid default="false" type="tmdb">1299820</uniqueid>
+  <uniqueid default="false" type="trakt">1237035</uniqueid>
+  <uniqueid default="true" type="tvdb">4776994</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>关谷和悠悠决定领证结婚，这意味着接下来的周末将是最后一个单身周末。悠悠和美嘉购物抽奖，赢取了海南豪华游，她们决定叫上一菲一起去，不料在海南遇上热带风暴，只能留在酒店内。悠悠和美嘉去 Spa，无奈预约的人太多，按摩师都不在，于是美嘉自制了按摩霜给悠悠试用，却不小心让悠悠的皮肤变黑。一菲在酒店遇到一个与曾小贤长相相似的舞者阿西边，由于阿西边同时拥有曾小贤的相似感和新鲜感，让原本沉闷的一菲突然活跃起来。另一方面，由于女生不在，男生们在公寓中的日常生活受到了很大打扰。他们决定帮关谷实现那些被悠悠禁止的项目，结果把公寓弄成一片狼藉。于是子乔从超市找来一个临时保姆帮他们收拾房间，可是后来才发现临时保姆的美貌与体贴是他们的幻觉。终于，关谷、子乔和张伟决定买机票飞去海南与女生们汇合。可是当见到悠悠的黑脸时，众人都惊呆了。</plot>
+  <runtime>47</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2821</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S04E17.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="4"/>
+  </episode_groups>
+</episodedetails>

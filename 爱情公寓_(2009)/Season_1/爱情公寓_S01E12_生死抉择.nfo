@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-13 21:50:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>生死抉择</title>
+  <originaltitle>生死抉择</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>4021851</id>
+  <uniqueid default="false" type="tmdb">1242451</uniqueid>
+  <uniqueid default="false" type="trakt">1235434</uniqueid>
+  <uniqueid default="true" type="tvdb">4021851</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>曾小贤从电台回来讲述后续与Lora约会的一切，他这艘铁达尼号不幸沉船，与旧情复燃成了意料之中的事实。阔别多年，Lora讲述了这些年的种种风光历史，小贤对Lora的故事只能汗颜，又割舍不了对她的痴迷与牵挂，还将之带回来过夜，第二日早餐时，Lora与小贤调情你侬我侬，大家容忍不了小贤如此“衰”样。游戏人间的Lora突然跪地向小贤求婚，彻底雷到众人。 一菲担心情人节落单，于是找子乔和关谷两人商量各自做其后备人选，哪知两人都已与美嘉有了口头之约。气急败坏的一菲计上心头……美嘉被戳“备胎”后，四人协商抽签决定人选，最后都没合适的方案。 小贤对Lora的感情变得越来越十分复杂，不知如何对待。他并不想和Lora结婚，迷茫之际宛瑜出招，她借来追求者，在酒吧示范如何拒绝Lora，不料弄巧成拙，小贤面对Lora强烈的攻势，狗急跳墙，只能使出惊人的杀手锏。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-13 21:50:11</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2795</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓_S01E12_生死抉择.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

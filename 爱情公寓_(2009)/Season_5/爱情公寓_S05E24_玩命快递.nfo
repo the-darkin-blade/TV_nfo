@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>玩命快递</title>
+  <originaltitle>玩命快递</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>5</season>
+  <episode>24</episode>
+  <id>7535447</id>
+  <uniqueid default="false" type="tmdb">2063861</uniqueid>
+  <uniqueid default="true" type="imdb">tt11687524</uniqueid>
+  <uniqueid default="false" type="trakt">3932262</uniqueid>
+  <uniqueid default="false" type="tvdb">7535447</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>美嘉在医院待产，吵着要吃自己网购的巧克力，一菲带着海棠和咖喱酱去快递站找快递，却被快递站的景象给惊呆了。子乔、张伟和大力负责留在医院转移美嘉的注意力，美嘉阵痛难忍，提出了一堆无厘头的要求，子乔和张伟为了满足她，咬牙作出了巨大的牺牲。</plot>
+  <runtime>49</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2999</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S05E24.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="5"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:09:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>答案</title>
+  <originaltitle>答案</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>3</season>
+  <episode>1</episode>
+  <id>4391978</id>
+  <uniqueid default="false" type="tmdb">1299715</uniqueid>
+  <uniqueid default="false" type="trakt">1236231</uniqueid>
+  <uniqueid default="true" type="tvdb">4391978</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>曾小贤最终赢得了那次“百万富翁真人秀”的最终胜利。可是，奖金被电视台一直扣留，还被迫与电视台签订了不平等条约。正在履行条约的小贤遇到了前来探班的丽萨，她并通知小贤主持一部量身定做的新的栏目《我代表月亮选择你》。这让小贤重获自由。小贤带着给大家买的礼物踌躇满志的回到家，可看起来大家对自己买的礼物并不感冒。得知奖金就快到账的小贤想为朋友们做点什么，于是答应朋友们可以用钱满足他们每人的一个愿望。长江后浪推前浪，前浪拍死在沙滩上。事事难预料，在曾小贤奖金马上到手之际，突然杀出个黄宝强，无情的取代了曾小贤主持人的位置，小贤的奖金也不了了之。黄宝强十分感谢曾小贤的帮助，并帮助小贤实现了一个愿望，为他盘下了楼下的酒吧。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2767</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S03E01.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="3"/>
+  </episode_groups>
+</episodedetails>

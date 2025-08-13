@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>兄弟守则</title>
+  <originaltitle>兄弟守则</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>4</season>
+  <episode>13</episode>
+  <id>4776990</id>
+  <uniqueid default="false" type="tmdb">1299816</uniqueid>
+  <uniqueid default="false" type="trakt">1236985</uniqueid>
+  <uniqueid default="true" type="tvdb">4776990</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>悠悠越来越红，有一位粉丝找她合照时，居然把手放在了悠悠的胸上，路过的小贤正好看见这一幕。悠悠担心关谷误会，要小贤保密此事，小贤答应了，却转身就告诉了美嘉、子乔和一菲。小贤指使悠悠帮自己打网游练级，还要在午夜收听他的节目并做笔记，悠悠苦不堪言。另一方面，张伟接下了一宗法律援助的案子，帮一个被儿子抛弃的老人洪七（魏宗万 客串出演）讨回房子。可是这位老人非常难缠，不仅不客气地住进了公寓，而且到处惹是生非，最终老人表示自己在“夕阳红”公寓找到一间租屋，终于离开。悠悠终于无法忍受曾小贤的不合理要求，并以“兄弟守则”的名义威胁曾小贤要告诉关谷当时的情况。关谷赶到粉丝的甜品店理论，却发现粉丝的手是假肢，一切都是一场误会。</plot>
+  <runtime>49</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2979</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S04E13.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="4"/>
+  </episode_groups>
+</episodedetails>

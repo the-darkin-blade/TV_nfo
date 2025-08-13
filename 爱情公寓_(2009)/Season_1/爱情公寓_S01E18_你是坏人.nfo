@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-13 21:50:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>你是坏人</title>
+  <originaltitle>你是坏人</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id>4021911</id>
+  <uniqueid default="false" type="tmdb">1242457</uniqueid>
+  <uniqueid default="false" type="trakt">1235643</uniqueid>
+  <uniqueid default="true" type="tvdb">4021911</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宛瑜深夜未归，展博在家苦等如热锅蚂蚁急得团团转，正在此时，美嘉在电梯口撞见宛瑜被人骚扰。展博英雄救美，却不料误伤了宛瑜的老同学阿泰，美嘉看不顺阿泰，担心他另有图谋，大家离开留下宛瑜阿泰叙旧。阿泰英俊帅气，这让展博醋意大发，他不愿一段情丝就此幻灭，不料再见阿泰时，其已昏迷在床，宛瑜神色慌乱。难道，阿泰真的不是好人？ 胡一菲苦练多日的话剧得到了大家的祝贺，唯独曾小贤赐其冷言冷语，让一菲甚感不爽。事后小贤在一夜之间自编自演互动剧《擎天柱之死》，邀请大伙前去观赏。两人暗中进行心理较量，一菲在忍无可忍的同时也从小贤的表演中获得灵感，创作出了新作品。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-13 21:50:11</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2580</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓_S01E18_你是坏人.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:09:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>神奇家族</title>
+  <originaltitle>神奇家族</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>2</season>
+  <episode>5</episode>
+  <id>4172621</id>
+  <uniqueid default="false" type="tmdb">1298912</uniqueid>
+  <uniqueid default="false" type="trakt">1235846</uniqueid>
+  <uniqueid default="true" type="tvdb">4172621</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>关谷一年前救的心脏病病人心凌，康复后决心报答关谷当年的恩情。无奈，关谷无法接受她报恩的方式，只得编了个善意的谎言。为防止心凌看穿，关谷邀众人一起演戏。惟恐天下不乱的子乔以帮助关谷的名义为自己谋着福利。一菲劝关谷说出事情真相，停止忽悠。小贤则认为，一个牛皮不够兜，需要编个更大的谎。而羽墨不愿参与演戏，于是悠悠尽心尽力传授表演法则。心凌到来的那一天，一场状况百出的闹剧在爱情公寓上演了。此时正值“学雷锋日”，大家准备给单亲家庭的小朋友送礼物。张伟遇到的小朋友狮子大开口，列了长长的礼物单。为表现自己的爱心，向来抠门的张伟忍痛买齐了所有礼物，不料收礼物的却是…一菲听闻后，决定帮他讨回公道，两人却再次遭遇尴尬。</plot>
+  <runtime>51</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>3112</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S02E05.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="2"/>
+  </episode_groups>
+</episodedetails>

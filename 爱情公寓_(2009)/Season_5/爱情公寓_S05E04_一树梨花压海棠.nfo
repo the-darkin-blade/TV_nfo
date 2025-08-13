@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>一树梨花压海棠</title>
+  <originaltitle>一树梨花压海棠</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>5</season>
+  <episode>4</episode>
+  <id>7535392</id>
+  <uniqueid default="false" type="tmdb">2046155</uniqueid>
+  <uniqueid default="true" type="imdb">tt11597156</uniqueid>
+  <uniqueid default="false" type="trakt">3932242</uniqueid>
+  <uniqueid default="false" type="tvdb">7535392</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>子乔正式搬去和美嘉同住，小夫妻俩却为了衣柜的使用权起了争执。美嘉跑去求助小黑，得到了一件“神器”，本以为解决了问题，结果却让子乔悲痛不已。张伟为了节省房租，在网上征招了一个室友，签合同那天，新室友终于出现，张伟瞬间目瞪口呆。</plot>
+  <runtime>49</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2945</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S05E04.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="5"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>土豪我们做朋友</title>
+  <originaltitle>土豪我们做朋友</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>4</season>
+  <episode>11</episode>
+  <id>4776988</id>
+  <uniqueid default="false" type="tmdb">1299814</uniqueid>
+  <uniqueid default="false" type="trakt">1236952</uniqueid>
+  <uniqueid default="true" type="tvdb">4776988</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>曾小贤的上级 Lisa 分配任务，要曾小贤接待温州商人杜老板（杜海涛 客串出演），以便拉到节目的赞助。杜老板喜欢打高尔夫，可是曾老师最后只订到了桌球馆，并叫上美嘉和子乔作陪，杜老板从来没玩过桌球，觉得很是新鲜。由于杜老板不会玩，而三人也不敢惹他不高兴，所以专门编造出一种“斯丢披得”打法（谐音 stupid，意为白痴打法）来哄杜老板开心。不料，此时却遇到了黑社会老大挑衅，杜老板又不小心用类似高尔夫的打法把桌球打到了黑社会老大的桌子上。黑社会老大非常生气，要曾小贤将球从自己桌子上一杆打回去，否则就动手收拾他们一行人。没想到小贤居然真的将球打了回去，两伙人最终讲和，还一起开心地玩了起来。另一方面，悠悠被一家国际知名影视公司看中，让她发送一份自己曾经拍摄过的影片集锦。大家看过集锦之后发现悠悠每一次都在最后死掉，不是很合适，众人决定帮悠悠重新拍摄一份。关谷重新编写了剧本为悠悠拍戏，先后拍了偶像、古装、谍战、科幻，还拉来张伟协助，但都是错漏百出，最后不了了之。</plot>
+  <runtime>50</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>3054</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S04E11.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="4"/>
+  </episode_groups>
+</episodedetails>

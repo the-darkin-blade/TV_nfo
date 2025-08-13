@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>飞跃创界山（下）</title>
+  <originaltitle>飞跃创界山（下）</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>3</season>
+  <episode>22</episode>
+  <id>4391998</id>
+  <uniqueid default="false" type="tmdb">1658215</uniqueid>
+  <uniqueid default="false" type="trakt">1236690</uniqueid>
+  <uniqueid default="true" type="tvdb">4391998</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>电视版你的月亮我的心试播开始。好事多磨，在直播期间，受邀来参加节目的嘉宾突发意外事故，搞的小贤先是在演播室接生，再是在演播室灭火，狼狈不堪。本答应好一起看直播的一菲等人由于全楼停电，无法观看直播，所以在家组团玩起了桌游。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2767</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S03E22.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="3"/>
+  </episode_groups>
+</episodedetails>

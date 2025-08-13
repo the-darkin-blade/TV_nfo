@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>盗梦空间</title>
+  <originaltitle>盗梦空间</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>4</season>
+  <episode>5</episode>
+  <id>4772195</id>
+  <uniqueid default="false" type="tmdb">1299808</uniqueid>
+  <uniqueid default="false" type="trakt">1236849</uniqueid>
+  <uniqueid default="true" type="tvdb">4772195</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>子乔得知美嘉怀孕之后，疑似得了强迫症，于是被一菲送往心理医生处。心理医生对子乔进行了催眠疗法。子乔在第一重梦境里发现周围的人都知道了子乔当爸爸的消息，还帮他举行庆祝聚会，甚至在聚会上发现自己胸前背着的假娃娃变成了真的婴儿，子乔被吓坏了，走进了第二重梦境。第二重梦境中子乔想要离开爱情公寓避避风头，结果还没来得及走，就发现有一个叫做“吕纸乔”的顶包师已经来爱情公寓做了他的替身，既抢了他在美嘉心中的地位，也抢了室友们和他之间的友谊。在第三重梦境中，美嘉已经临产，医院要求美嘉的爱人为手术签字。子乔为了证明是美嘉的爱人，填写了医院设计的表格，也唤醒了子乔对美嘉过往相处的记忆。可是不幸后来美嘉抢救无效，在最后时刻对子乔承认孩子是子乔的。回到现实中的子乔回到家里，美嘉告知子乔自己没有怀孕的消息，子乔以为这是第四重梦境，激动之中选择从阳台跳下，结果幸好挂在了歪脖树上。</plot>
+  <runtime>48</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2935</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S04E05.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="4"/>
+  </episode_groups>
+</episodedetails>

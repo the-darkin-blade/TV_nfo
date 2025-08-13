@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>微信战争</title>
+  <originaltitle>微信战争</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>5</season>
+  <episode>35</episode>
+  <id>7535459</id>
+  <uniqueid default="false" type="tmdb">2064413</uniqueid>
+  <uniqueid default="false" type="trakt">3932273</uniqueid>
+  <uniqueid default="true" type="tvdb">7535459</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>大家在微信聊天群里商讨筹备婚礼的事宜，美嘉看中了一堆好看的钻戒，让大家帮着挑选。子乔却背着她偷偷开了另外一个群，让大家帮他劝说美嘉节约用钱。美嘉察觉到众人纷纷站在子乔那边，也背着子乔偷偷开了一个群。可怜其他人夹在乔嘉夫妻中间左右为难，于是又开了新群吐槽。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>1080</width>
+        <height>1920</height>
+        <durationinseconds>2750</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S05E35.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="5"/>
+  </episode_groups>
+</episodedetails>

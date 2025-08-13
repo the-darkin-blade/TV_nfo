@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-13 21:50:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>情人节前奏曲</title>
+  <originaltitle>情人节前奏曲</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>4021921</id>
+  <uniqueid default="false" type="tmdb">1242458</uniqueid>
+  <uniqueid default="false" type="trakt">1235668</uniqueid>
+  <uniqueid default="true" type="tvdb">4021921</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>情人节即将到了，为追求宛瑜，展博绞尽脑汁问到宛瑜的喜好，为谋蝇头小利，子乔主动承担了展博的任务，并高价网购回一件精美的大衣。礼物盒送进了屋内，阴差阳错被美嘉看到，宛瑜猜测这是子乔为其准备的情人节礼物，一时间让美嘉感动万分。面对美嘉的款款柔情，子乔不忍心道出大衣来源的真相。展博临时改变礼物的主意，奈何美嘉已经私自改了大衣，木已成舟的事实让子乔左右为难。还展博买礼物的钱，子乔不得不想尽心思筹钱。 胡一菲在小贤的挑衅下开始为某人制作巧克力。小贤则为竞选居委会主席而干起了销售灭火器的行当。一菲在制作巧克力时使得厨房失火，情急之下，小贤拿出了灭火器，却又发生了意外。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-13 21:50:11</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2778</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓_S01E19_情人节前奏曲.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

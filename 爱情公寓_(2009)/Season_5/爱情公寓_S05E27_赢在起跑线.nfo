@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>赢在起跑线</title>
+  <originaltitle>赢在起跑线</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>5</season>
+  <episode>27</episode>
+  <id>7535451</id>
+  <uniqueid default="false" type="tmdb">2064405</uniqueid>
+  <uniqueid default="false" type="trakt">3932265</uniqueid>
+  <uniqueid default="true" type="tvdb">7535451</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>美嘉抽到了知名幼儿园的面试资格，副园长要上门家访。为了小小布，美嘉把自己和子乔包装成事业有成的上流阶层，并偷偷“借用”一菲刚刚装修好的新家来招待院长，不料接二连三地被其他人撞破。正当一菲决定不计前嫌帮助二人时，大力却道破了一个令人震惊的真相。</plot>
+  <runtime>48</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2936</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S05E27.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="5"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>以父之名</title>
+  <originaltitle>以父之名</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>4</season>
+  <episode>3</episode>
+  <id>4772193</id>
+  <uniqueid default="false" type="tmdb">1299806</uniqueid>
+  <uniqueid default="false" type="trakt">1236819</uniqueid>
+  <uniqueid default="true" type="tvdb">4772193</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>美嘉怀孕的事情被揭穿，但美嘉不肯向大家透露孩子的父亲是谁。展博向公司提交未来设想，却被老板拒绝，老板决定举办选美比赛，吕子乔建议展博选择一个丑女一起出镜来博眼球，展博随便从杂志中找到一张丑女图片，又开发了外挂进行投票，使这位丑女的人气暴涨。另一方面，曾小贤要帮诺澜在爱情公寓租一处房间，而一菲恰好在公寓楼下遇到正在招租的二房东（何炅 客串出演），由于二房东提起该房间的爱情运势特别灵验，让一菲联想到诺澜与曾小贤，再次吃醋，不但拒绝租下房间，还把宣传告示偷偷撤掉。二房东打算举办看房会，一菲为了拖住曾小贤，强迫曾小贤和展博一起陪她看杂志，展博这才发现原来他选择的丑女“阿美”其实是 EIO 的成员。为了拖延时间，一菲让展博将杂志上的整篇报道朗读出来，让展博对 EIO 产生了浓厚的兴趣。这时，楼上的二房东找来，曾小贤说诺澜不会住进爱情公寓，一菲释然。展博找到阿美小姐并向她道歉，不料阿美小姐却感谢展博为她和 EIO 所做的炒作，阿美后来向展博详细介绍了 EIO，让展博萌生了加入 EIO 的想法。美嘉死活不肯说出孩子的父亲是谁，关谷和悠悠打算用“寻龙尺”来自行寻找，寻龙尺最终把目标锁定在子乔身上。众人质问子乔关于美嘉怀孕的事，美嘉却说孩子并不是子乔的。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2582</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S04E03.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="4"/>
+  </episode_groups>
+</episodedetails>

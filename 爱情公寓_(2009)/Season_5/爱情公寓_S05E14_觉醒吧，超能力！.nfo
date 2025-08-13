@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>觉醒吧，超能力！</title>
+  <originaltitle>觉醒吧，超能力！</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>5</season>
+  <episode>14</episode>
+  <id>7535404</id>
+  <uniqueid default="false" type="tmdb">2054923</uniqueid>
+  <uniqueid default="true" type="imdb">tt11635502</uniqueid>
+  <uniqueid default="false" type="trakt">3932252</uniqueid>
+  <uniqueid default="false" type="tvdb">7535404</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>张伟时来运转，不仅发现自己有了“超能力”，还接到一个大单子，为当红男星处理情感纠纷。大力和美嘉主动要求给张伟当助理，三人看到当事人和他的女友时，震惊得差点掉了下巴。情况虽然棘手，但张伟自信可以用自己的超能力来解决，谁知超能力突然出现了问题。</plot>
+  <runtime>54</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>3281</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S05E14.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="5"/>
+  </episode_groups>
+</episodedetails>

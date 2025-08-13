@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:09:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>断网 所以穿越</title>
+  <originaltitle>断网 所以穿越</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>2</season>
+  <episode>14</episode>
+  <id>4172630</id>
+  <uniqueid default="false" type="tmdb">1298921</uniqueid>
+  <uniqueid default="false" type="trakt">1236057</uniqueid>
+  <uniqueid default="true" type="tvdb">4172630</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>子乔以张伟的名义在外风流，受害人为此建了一个网站控诉张伟。一菲与小贤因公寓的违章搭建发生争执。悠悠气关谷替自己回绝了已面试三次的剧本，两人闹起了别扭。恰逢公寓断网，在反复看了两遍谍战片后，百无聊赖的他们玩起了故事接龙。在他们杜撰的故事里，一干人等穿越来到了四十年代，共同密谋了一场刺杀汉奸的行动。每个人都希望成为故事的主角，可他们的故事总是被其他人所打断。最后这场刺杀行动经历了一连串添油加醋的复杂剧情之后，最终在大世界天台上，七个主角想象出来的人物把故事推向了高潮。每个人还从各自的角色中，悟出了一份特殊的人生体验。</plot>
+  <runtime>55</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>3307</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S02E14.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="2"/>
+  </episode_groups>
+</episodedetails>

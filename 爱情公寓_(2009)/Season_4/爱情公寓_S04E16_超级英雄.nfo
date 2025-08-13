@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>超级英雄</title>
+  <originaltitle>超级英雄</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>4</season>
+  <episode>16</episode>
+  <id>4776993</id>
+  <uniqueid default="false" type="tmdb">1299819</uniqueid>
+  <uniqueid default="false" type="trakt">1237023</uniqueid>
+  <uniqueid default="true" type="tvdb">4776993</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>一菲为了帮助一个患病的学生，决定参加一个人机格斗大赛赢取奖金，用来支付学生的手术费。小贤担心一菲的安全，想自己借钱给一菲，于是他去银行取钱，但繁琐的手续让他没办法取钱，只好转向张伟借钱。张伟设定了一份很复杂的贷款合同，将小贤折磨得痛苦不堪。不料一菲后来却误解了曾小贤，把他骂得一无是处。一菲在比赛之前得知有人匿名将八万元捐给了一菲的学生，收到鼓励，在比赛中突然发力，获得了冠军。比赛后，一菲得知是小贤帮自己的学生出了医药费，十分感动。另一方面，关谷经过漫长的排队等待，终于拿到了买房的合同，可是子乔却带悠悠来到一家 4S 店，假装要买车，蹭了咖啡和蛋糕。悠悠在 4S 店无意中参与了一辆车的拍卖活动，居然真的拍中了，这意味着悠悠要花十五万买下那台车。无奈，第二天关谷带子乔和悠悠来到 4S 店，希望碰到一位新买家将汽车转卖出去。后来，他们真的遇到一位女士有意买下悠悠的车，女士在咨询车的使用情况时，关谷和悠悠相继描述买车之后的想象画面，双双收到感染，于是决定在最后时刻放弃买房，转而买下这辆车。</plot>
+  <runtime>47</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2859</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S04E16.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="4"/>
+  </episode_groups>
+</episodedetails>

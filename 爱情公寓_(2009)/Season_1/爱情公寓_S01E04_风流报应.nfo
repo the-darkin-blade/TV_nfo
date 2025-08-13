@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-13 21:50:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>风流报应</title>
+  <originaltitle>风流报应</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>4021771</id>
+  <uniqueid default="false" type="tmdb">1242443</uniqueid>
+  <uniqueid default="false" type="trakt">1235289</uniqueid>
+  <uniqueid default="true" type="tvdb">4021771</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小贤光鲜整洁地出现，一身职业行头地配以满脸兴奋的表情，宣告了他即将踏入电视圈。进入电视圈是他历来的最大梦想。他从小道消息打听到一档电视新栏目在找主持人，而LISA榕是该节目的制片人，小贤在电台本欲和Lisa寒暄，虽遭Lisa冷嘲热讽，凭其三寸不烂之舌，最后Lisa还是给了小贤一个机会，详谈地点约在了爱情公寓。 涉世未深的宛瑜意外正式成为一名百科全书销售员，虽然这个冷僻的销售工作并不被人所熟知。宛瑜立即在爱情公寓进行销售实战。正为旅游知识竞答题目发愁的关谷进入了她的视线，宛瑜灵机一动将第一个顾客锁定在关谷身上…… 关谷遭遇事业颈瓶，美嘉为其精心准备了鱼汤补脑却被贪嘴的子乔吃掉，美嘉大怒两人大吵一番，子乔无奈下许诺钓更大的野生鱼回来。Lisa来到小贤家后相谈甚欢，子乔好心来为小贤撑场面，小贤担心子乔的出现会坏了自己的前途，将之拒于门外。Lisa认出了她朝思暮想念念不忘的男人吕子乔。他俩曾有过一夜之缘但子乔的不告而别令Lisa仍是心痛。子乔Lisa重逢，一场闹剧再次上演……</plot>
+  <runtime>48</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-13 21:50:11</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2897</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓_S01E04_风流报应.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

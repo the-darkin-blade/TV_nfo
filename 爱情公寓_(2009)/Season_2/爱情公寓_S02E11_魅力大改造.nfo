@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:09:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>魅力大改造</title>
+  <originaltitle>魅力大改造</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>2</season>
+  <episode>11</episode>
+  <id>4172627</id>
+  <uniqueid default="false" type="tmdb">1298918</uniqueid>
+  <uniqueid default="false" type="trakt">1235979</uniqueid>
+  <uniqueid default="true" type="tvdb">4172627</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>电台在选新的副主任，小贤写了申请信托 Lisa 榕帮忙，她以忙着选电视剧女演员为由推脱，正逢悠悠前来送申请信，小贤便将她推荐给了 Lisa，悠悠却在面试时临阵脱逃。在一菲等人的鼓励下，悠悠采纳了小贤的建议去见导演，并成功成为了女主角。得知导演要带悠悠去香港时，关谷担心她遭到潜规则，要求小贤去解救她以弥补错误。然而，解救不成反而闹了笑话。张伟开车不小心违规被开罚单，从此他迷上了开罚单的女交警 —— 莫兰。在子乔的鼓励下，张伟终于约出了莫兰。羽墨为张伟制定了一份约会战略，莫兰的哥哥莫青亦为妹妹制定了一份。两人在张伟和莫兰约会的餐厅相遇后，一见如故，全然没有意识到：两份约会战略被对调了。</plot>
+  <runtime>48</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2900</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S02E11.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="2"/>
+  </episode_groups>
+</episodedetails>

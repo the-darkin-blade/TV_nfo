@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-13 21:50:43 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>特大丑闻</title>
+  <originaltitle>特大丑闻</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id>4021751</id>
+  <uniqueid default="false" type="tmdb">1242440</uniqueid>
+  <uniqueid default="false" type="trakt">1235218</uniqueid>
+  <uniqueid default="true" type="tvdb">4021751</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>虽然子乔和美嘉顺利地骗过了大家，以情侣的名义入住了爱情公寓，但是陷入财政危机的他们依旧想再拉一个人进来住，好和他们分摊房租。就在这时，一个斯文的帅哥——漫画家关谷神奇走了进来。人生地不熟的关谷本来要找的是爱森酒店，走错才来到这里，却被子乔逮到了个好机会。由于语言障碍，外加子乔和美嘉的一顿猛忽悠，关谷阴差阳错地住进了爱情公寓。美嘉在帮关谷拿行李的时候，无意间发现了关谷皮箱里的《爱情三脚猫》画稿，酷爱漫画的美嘉顿时对关谷产生了浓厚的兴趣。 经过婚礼风波的“洗礼”，展博和宛瑜找到了共同语言，变成了好朋友。热心的胡一菲察觉出展博有苗头，于是使劲儿怂恿弟弟追求人见人爱的美女宛瑜，展博迫于姐姐的淫威，只能照办。展博和宛瑜的第一次约会变成了一次“诡异”的“智力问答”，一边是胡一菲的远程指挥，另一边是宛瑜的刻意胡扯，完全风马牛不相及。原来宛瑜是著名的林氏企业的千金，为了躲避父亲给他相亲，才出走独自来到爱情公寓，所以非常忌讳别人问到她的家世，生怕这样会暴露。 关谷原来是日本著名卡通画社的首席画师，因为自己的作品被制作人过分商业化，一气之下离开，原本打算从此洗手退出漫画圈的他，意外地在异国结识了这个头号大粉丝兼腐女的美嘉，在美嘉的鼓励下他重拾信心，他决心就在爱情公寓里筹备成立一个新的漫画工作室。 小贤无意中发现美嘉和关谷在屋内的动静，强烈的好奇心让他和胡一菲忍不住偷窥他们说话。有一句没一句的偷听让他们误以为两人正在做不可告人的勾当。而胡一菲愤慨的陈词又通过电话听筒，传给了还在“约会”的展博。展博将这些话当作是姐姐的“作战指示”对宛瑜展开了“发难”，宛瑜以为自己的身份已经暴露，于是只得向大家坦白她的隐藏身世……</plot>
+  <runtime>47</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-13 21:50:11</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2876</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓_S01E02_特大丑闻.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

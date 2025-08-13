@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-13 21:50:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>一腿成名</title>
+  <originaltitle>一腿成名</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>4021791</id>
+  <uniqueid default="false" type="tmdb">1242445</uniqueid>
+  <uniqueid default="false" type="trakt">1235325</uniqueid>
+  <uniqueid default="true" type="tvdb">4021791</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>子乔误打误撞在地铁上遇到了号称东南亚最大公司演艺经纪公司的星探。尽管闪姐怪异的谈吐和自以为幽默的行为让子乔坐立难安，然而在演艺圈这光环的诱惑下，子乔半推半就最终速度签订合同，带着一纸契约带着演员梦回到爱情公寓。关谷前来恭贺子乔签合同一事，顺道打听能否将关谷的作品推荐给名导，子乔应允，第二日便带关谷前去找闪姐。 小贤对他的电话编辑朱迪拙劣的工作态度十分不满，恰逢宛瑜要找工作，小贤便借机放朱迪的大假，让宛瑜做起了他的电话编辑。起初，宛瑜专业的表现令小贤十分满意，而电话编辑并不是门简单的活儿，接下来出现的状况却令他们两个措手不及…… 关谷和子乔来见闪姐。闪姐是典型的在混迹多年的老江湖，其忽悠技术极高，言语劲爆让关谷几乎绝倒。迫于闪姐的淫威，关谷答应了给闪姐画像的要求，之后就长了针眼令其痛苦不堪。美嘉为了房租，答应与子乔俩人合谋演出一场吵架大戏。尽管俩人平时生活中已是小吵不断，但这一次，俩人却假戏真做了……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-13 21:50:11</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓_S01E06_一腿成名.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

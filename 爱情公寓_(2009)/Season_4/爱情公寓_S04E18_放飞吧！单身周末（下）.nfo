@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>放飞吧！单身周末（下）</title>
+  <originaltitle>放飞吧！单身周末（下）</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>4</season>
+  <episode>18</episode>
+  <id>4776995</id>
+  <uniqueid default="false" type="tmdb">1299821</uniqueid>
+  <uniqueid default="false" type="trakt">1237062</uniqueid>
+  <uniqueid default="true" type="tvdb">4776995</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>一菲去找阿西边介绍给大家认识，阿西边给大家表演了他的绝技 —— 手劈榴莲，大家都惊呆了。众人送礼物给悠悠和关谷，美嘉却决定把自己曾经与子乔打赌赢得的打耳光权利转让给关谷。关谷提议大家在十二点前将耳光权利花光，子乔四处躲藏，但还是被打了好几个耳光。美嘉保留了最后一记耳光的权利，说会在适当时候给子乔一个“惊喜”。在离开三亚的前一晚，小贤赶到了，因为他听说有个撞脸版的自己，不放心一菲。众人在海南渡过了愉快的单身周末。由于关谷和悠悠比赛谁的脸更黑，各自去做 Spa，最后导致结婚证件照片无法识别身份，所以没有顺利领到结婚证。然而，回到上海的“小贤”突然喜欢上吃榴莲，并且变得不会说普通话了。原来，曾小贤私下联系与阿西边互换一天身份，众人哭笑不得。圣诞节快到了，一菲提议组团过圣诞，但众人各有自己的安排。诺澜要小贤陪她过圣诞，小贤特意喝了红牛调整时差；悠悠的老板安排悠悠在圣诞夜和当红明星迪诺（胡歌 客串出演）吃饭来制造绯闻，帮助悠悠提升人气。悠悠怕关谷吃醋，因此先告诉了一菲等人，一菲提前给关谷打了预防针，因此在得知消息之后，关谷以为是悠悠在故意考验他，表面上故作镇定。一菲找来学校里的上官老师，加上张伟，三人组成了圣诞夜不出门联盟。小峰和女友分手，并邀请美嘉来自己的豪宅。美嘉原以为小峰要和自己复合，没想到只是请自己帮忙照看房子。晚上，美嘉一个人在豪宅里，发生了“灵异事件”。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2807</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S04E18.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="4"/>
+  </episode_groups>
+</episodedetails>

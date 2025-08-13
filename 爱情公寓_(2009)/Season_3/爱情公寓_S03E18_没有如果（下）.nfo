@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>没有如果（下）</title>
+  <originaltitle>没有如果（下）</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>3</season>
+  <episode>18</episode>
+  <id>4391992</id>
+  <uniqueid default="false" type="tmdb">1299749</uniqueid>
+  <uniqueid default="false" type="trakt">1236596</uniqueid>
+  <uniqueid default="true" type="tvdb">4391992</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>展博由于发了一张帅照并公布了手机号发到网上，导致每天都有无限的美女电话打进来，展博挑花了眼，但最终还是停留在了一个“钢铁侠”女身上，并扔了那部一直响不停的手机。乡下进城的子乔碰巧捡到了这部手机，代替了展博。无数次的约会令子乔很快的就升级成功，成为约会高手。曾小贤由于得罪了领导，被贬到了深夜的电台节目当主持人。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2767</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S03E18.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="3"/>
+  </episode_groups>
+</episodedetails>

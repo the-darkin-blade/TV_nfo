@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>购物的色彩</title>
+  <originaltitle>购物的色彩</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>5</season>
+  <episode>9</episode>
+  <id>7535397</id>
+  <uniqueid default="false" type="tmdb">2046160</uniqueid>
+  <uniqueid default="true" type="imdb">tt11599198</uniqueid>
+  <uniqueid default="false" type="trakt">3932247</uniqueid>
+  <uniqueid default="false" type="tvdb">7535397</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>购物节将至，所有人都在研究最划算的打折方式，大力想趁此机会写一篇论文，暗中观察每个人的购物性格。咖喱宣布自己快恋爱了，可惜男方实在太羞涩，她在犹豫是否要主动出击。阿拉善马上要降温，小贤打算网购一批过冬用品，张伟自告奋勇推荐了许多超级划算的团购网站，小贤收到快递后惊呆了。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2737</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S05E09.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="5"/>
+  </episode_groups>
+</episodedetails>

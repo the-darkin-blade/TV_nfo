@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:09:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>最佳女主角</title>
+  <originaltitle>最佳女主角</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>2</season>
+  <episode>12</episode>
+  <id>4172628</id>
+  <uniqueid default="false" type="tmdb">1298919</uniqueid>
+  <uniqueid default="false" type="trakt">1236015</uniqueid>
+  <uniqueid default="true" type="tvdb">4172628</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>由于最新出演的电视剧，悠悠赢得了不少粉丝。无意中拿到剧本的关谷，迫切想知道剧中杀手的线索，便让小贤为他读剧本，两人却发现悠悠饰演的角色又一次牺牲。当得知悠悠即将迎来演出十周年纪念日时，他们更加不忍心将实情和盘托出。为了给悠悠一个美好的纪念日，关谷开始张罗起来。为配合关谷的计划，一菲等人也在纪念日当天来到片场。张伟与莫兰约会不久，再次失恋。子乔为培养泡妞拍档，同时帮助张伟走出阴影，对他进行了多项搭讪方案的训练。张伟屡次搞砸后溜走，剩下子乔孤军奋战。于是秦羽墨遂自荐，担任他的新拍档</plot>
+  <runtime>51</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>3070</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S02E12.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="2"/>
+  </episode_groups>
+</episodedetails>

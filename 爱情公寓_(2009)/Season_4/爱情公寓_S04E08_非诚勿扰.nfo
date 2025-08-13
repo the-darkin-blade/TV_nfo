@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>非诚勿扰</title>
+  <originaltitle>非诚勿扰</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>4</season>
+  <episode>8</episode>
+  <id>4772199</id>
+  <uniqueid default="false" type="tmdb">1299811</uniqueid>
+  <uniqueid default="false" type="trakt">1236887</uniqueid>
+  <uniqueid default="true" type="tvdb">4772199</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>诺澜虽然已经去了美国，但由于临行前一菲对她的坦白而心生歉意，因此决定帮一菲在网上相亲。由于曾小贤最熟悉一菲，所以登门拜访曾小贤的相亲者络绎不绝，其中也不乏富家子弟。子乔看到这里有很大的商机，于是怂恿曾小贤一起举办一个追求一菲的培训班，结果在培训班的最后一课上一菲突然出现，一菲对曾小贤向外人公布自己隐私的行为非常愤怒，提出与曾小贤绝交。另一方面，由于漫画产业的不景气，关谷决定去找兼职工作，悠悠和关谷请教大师兄的意见，结果大师兄分别推荐了“甲醛净化员”、“差评消除员”、“水质检测员”和警察局里画嫌疑犯肖像的工作，关谷和悠悠觉得都不靠谱，最后关谷在悠悠的劝说下决定去做美术老师。美嘉最近一直在梦中梦见与关谷一起玩抓娃娃机，这一点被张伟发现。张伟为了让美嘉把注意力转移到自己身上，让美嘉多看自己的照片。结果最后在美嘉的梦中却梦见张伟以小龙虾的身份出现。最后，事情被悠悠和关谷得知，美嘉表示绝不会破坏悠悠和关谷的幸福，而悠悠也表示理解美嘉是因为单身太久，不介意美嘉对关谷的暗恋。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2779</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S04E08.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="4"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>疯狂话剧（下）</title>
+  <originaltitle>疯狂话剧（下）</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>4</season>
+  <episode>15</episode>
+  <id>4776992</id>
+  <uniqueid default="false" type="tmdb">1299818</uniqueid>
+  <uniqueid default="false" type="trakt">1237008</uniqueid>
+  <uniqueid default="true" type="tvdb">4776992</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>被困在男厕内的小贤，被媒体记者误认为人妖。买黄牛票的情侣因只有一张票无法一起进场，就把票分给了一菲。悠悠下台后终于把手机取了出来，却被其他演员看到，慌乱之中悠悠将手机扔进一只靴子里。然而根据剧情，舞台上需要留下一只靴子，不知情的导演把装有手机的靴子扔回了舞台。这时一菲又打起关谷电话，场内又响起了《我心永恒》。悠悠见情况不妙，急忙冲出去救场。撕扯中，手机掉了出来，悠悠只好说自己是穿越来的，将剧情改编成了穿越连续剧。另一方面，小贤趁记者不备，偷走了他的相机准备删掉自己的照片，但却找不到删除键。此时导演到处找人照相，小贤被硬拉了过去。小贤借机从演员口中套出了删除键的位置，删除了照片。子乔被名字发音相似的几位女演员弄晕，最后搭讪了一个有老公（就是卖给张伟戏票的黄牛党）的女演员，结果被揍了一顿。关谷被警察放了回来，他在剧院门口遇到一菲，此时真黄牛出现被警察抓了个正着。而美嘉过量加入爆米花原料，自己被“爆米花海洋”淹没。疯狂话剧的风波以啼笑皆非而告终。关谷和悠悠决定提升生活质量，悠悠希望买辆车，但关谷却想买一套新住房。在关谷的软磨硬泡下，悠悠同意先看看房子。两人看了一个小区各方面都不错，决定交订金看房。关谷拉上子乔来参考，子乔觉得售楼处的人满口谎话，但关谷觉得自己能买得起的也就这种房子了，于是签了订金。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2700</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S04E15.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="4"/>
+  </episode_groups>
+</episodedetails>

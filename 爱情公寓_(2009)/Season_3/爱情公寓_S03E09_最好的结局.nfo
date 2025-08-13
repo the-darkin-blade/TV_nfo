@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:09:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>最好的结局</title>
+  <originaltitle>最好的结局</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>3</season>
+  <episode>9</episode>
+  <id>4391985</id>
+  <uniqueid default="false" type="tmdb">1299723</uniqueid>
+  <uniqueid default="false" type="trakt">1236413</uniqueid>
+  <uniqueid default="true" type="tvdb">4391985</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>展博妈安慰求婚受阻的儿子展博，劝说儿子要敢于两人的分歧。一菲和美嘉迷路后打电话向曾小贤求助，曾小贤听后幸灾乐祸，当得知她俩开的是自己的新车时，借了辆车直奔她俩那里救援。接到录取通知的宛瑜决定去米兰，为了和她在一起，展博也做出决定，要陪宛瑜一起去。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2768</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S03E09.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="3"/>
+  </episode_groups>
+</episodedetails>

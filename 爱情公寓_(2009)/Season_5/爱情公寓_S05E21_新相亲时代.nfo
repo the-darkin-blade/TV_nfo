@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>新相亲时代</title>
+  <originaltitle>新相亲时代</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>5</season>
+  <episode>21</episode>
+  <id>7535443</id>
+  <uniqueid default="false" type="tmdb">2063858</uniqueid>
+  <uniqueid default="true" type="imdb">tt11686276</uniqueid>
+  <uniqueid default="false" type="trakt">3932259</uniqueid>
+  <uniqueid default="false" type="tvdb">7535443</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>赵海棠最近沉迷于相亲APP，子乔带他去最新潮的线下相亲空间见世面，没想到竟然真的在那里遇见了赵海棠的理想型，而且长得和大力一模一样！咖喱酱暗恋一个帅气的室内设计师，邀请一菲当僚机，可是一面对这位帅哥，咖喱酱就紧张到结巴。</plot>
+  <runtime>47</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2861</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S05E21.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="5"/>
+  </episode_groups>
+</episodedetails>

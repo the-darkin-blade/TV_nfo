@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>模拟家庭</title>
+  <originaltitle>模拟家庭</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>5</season>
+  <episode>31</episode>
+  <id>7535455</id>
+  <uniqueid default="false" type="tmdb">2064409</uniqueid>
+  <uniqueid default="false" type="trakt">3932269</uniqueid>
+  <uniqueid default="true" type="tvdb">7535455</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>为了解决各自的困惑，由海棠、大力担任父母、张伟、咖喱担任儿女的模拟家庭实验启动了。当了爸爸的海棠格外得意，想尽办法占张伟的便宜，但同时，他和大力在观念上的巨大分歧也显现了出来。另一边，趁着子乔出差，一菲决定要把美嘉锻炼成为一名独立女性。</plot>
+  <runtime>47</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2844</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S05E31.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="5"/>
+  </episode_groups>
+</episodedetails>

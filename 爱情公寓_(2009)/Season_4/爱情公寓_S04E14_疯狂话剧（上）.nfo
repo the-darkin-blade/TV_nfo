@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>疯狂话剧（上）</title>
+  <originaltitle>疯狂话剧（上）</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>4</season>
+  <episode>14</episode>
+  <id>4776991</id>
+  <uniqueid default="false" type="tmdb">1299817</uniqueid>
+  <uniqueid default="false" type="trakt">1236994</uniqueid>
+  <uniqueid default="true" type="tvdb">4776991</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>悠悠主演的话剧要公演了，邀请大家一起去看。张伟打算借此机会继续追求薇薇，谁知薇薇叫上了自己事务所的三个男同事，让张伟非常尴尬，为了面子还不得不从黄牛处为上述三人高价买了三张票。子乔假扮媒体记者在话剧后台四处勾搭女生，看上了一个叫“晴晴”的演员。悠悠在后台准备的时候，由于副导演的突击检查，不小心把关谷的手机放在戏服的口袋中，由于戏服非常紧身，之后却怎么也拿不出来了，只好硬着头皮上台。而此时一菲还在路上，关谷为了防止一菲打电话给自己，只好在门口守着以便接一菲进场。不料警察却以为关谷是黄牛，把关谷抓走了。一菲来到剧场之后，没有见到关谷，只好打了电话。此时悠悠正在台上表演，铃声响起，居然是《泰坦尼克号》的主题曲《我心永恒》。悠悠只好将错就错，声称这是来自西域的旋律。此时，台下的观众们也没闲着：美嘉拖小贤出来上厕所，男厕一个人也没有，女厕却排队排到了门外。美嘉偷偷去了员工盥洗室，无意发现卖爆米花的工作人员偷懒，于是自己打算假扮成爆米花销售员；曾老师上完厕所之后因为没有厕纸而困在厕所中；张伟为了能与薇薇坐在一起，花钱贿赂薇薇的同事换座，谁知并没有成功。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S04E14.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="4"/>
+  </episode_groups>
+</episodedetails>

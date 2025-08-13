@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>当幸福来撬门（下）</title>
+  <originaltitle>当幸福来撬门（下）</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>4</season>
+  <episode>21</episode>
+  <id>4776998</id>
+  <uniqueid default="false" type="tmdb">1299824</uniqueid>
+  <uniqueid default="false" type="trakt">1237106</uniqueid>
+  <uniqueid default="true" type="tvdb">4776998</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>一菲找人来换锁，不巧小贤来她房间问她关于门锁的事情，一菲怕小贤知道她在换锁，就把小贤带到会所吃饭。会所本来需要预约排队，可是因为两人都有优惠劵，受到了贵宾级接待。服务生送来情侣套餐，小贤以为这是一菲是主动设计的，而门上的钥匙也是一菲故意送给他的。一菲心中既尴尬又矛盾，只想带小贤回家证明。两人回家后，发现家中被翻的凌乱，开锁师又留了字条。这时小贤又看见自己的圣诞老人装被一菲补好了，于是对一菲的反复周旋不解。一菲被逼问得说不出话，最后脑袋一发热吻了小贤。另一方面，关谷向悠悠坦白自己家可能有遗传肾病，悠悠表示不介意，于是两人放心地去做了婚检。婚检报告出来后，关谷没有什么问题，但悠悠却隐瞒了自己的报告。子乔经过一系列人肉搜索之后，发现女友是写网络小说的宅女，之前的恐怖 Blog 也是小说的纲要而已，失去兴趣的子乔决定与这位女友分手。一菲和小贤关系突飞猛进，大家都看出了两人间的变化。一菲和小贤在阳台上谈情说爱，美嘉他们隔着窗户围观，小贤正欲亲吻一菲，突然碰见楼上一个女生跳楼，原因是被男友和闺蜜同时背叛。一菲觉得自己彷佛就是那个背叛闺蜜的人，心境大不如前。美嘉和悠悠找一菲谈心，一菲说自己不愿做小贤与诺澜之间的第三者。一菲找到小贤摊牌，小贤说自己心里一直有一菲，他会和诺澜说清楚。这时诺澜打来电话，说自己第二天就回上海，让小贤去机场接她。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2699</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S04E21.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="4"/>
+  </episode_groups>
+</episodedetails>

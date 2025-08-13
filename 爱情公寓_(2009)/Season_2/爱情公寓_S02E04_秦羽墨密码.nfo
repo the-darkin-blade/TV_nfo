@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:09:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>秦羽墨密码</title>
+  <originaltitle>秦羽墨密码</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>2</season>
+  <episode>4</episode>
+  <id>4172620</id>
+  <uniqueid default="false" type="tmdb">1247651</uniqueid>
+  <uniqueid default="false" type="trakt">1235816</uniqueid>
+  <uniqueid default="true" type="tvdb">4172620</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>张伟的自作聪明惹恼了一菲，她与张伟展开了智力对决，从而赢得了张伟房间的使用权并将其改装成了洗衣房。被驱逐的张伟只得到男生的套间借宿，他恶劣的睡眠习惯却令男室友痛苦不堪。为了公寓的和谐，受尽苦难的众男决定通过答题赢回张伟的房间使用权，悠悠兴奋地当起了比赛裁判。跟未婚夫玩“失踪”的羽墨，一方面担心未婚夫找不到换了住址与手机号码的自己，一方面又不愿自己那么轻易就被找到。她便仿照“达芬奇密码”，设置了重重关卡，希望李察德能通过破解密码找到自己。结果陆陆续续有人找上门来，而其中却没有李察德。</plot>
+  <runtime>52</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>3152</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S02E04.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="2"/>
+  </episode_groups>
+</episodedetails>

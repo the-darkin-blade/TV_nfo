@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:09:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>一夜有情</title>
+  <originaltitle>一夜有情</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>3</season>
+  <episode>3</episode>
+  <id>4391980</id>
+  <uniqueid default="false" type="tmdb">1299717</uniqueid>
+  <uniqueid default="false" type="trakt">1236275</uniqueid>
+  <uniqueid default="true" type="tvdb">4391980</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>子乔和关谷假扮印度人，来到了美嘉男朋友艾派德举办的画展上，关谷嫉妒艾派德的艺术细胞比自己强大，一拳弄坏了他的作品。子乔嫉妒艾派德比自己长得高，于是偷走了他的鞋子。而这一切，耽误了艾派德与美嘉的约会，两人因此分手。晚上，美嘉把自己离开的原因如实告诉了悠悠，一向大嘴的悠悠依旧没有保密，知道真相的大家用真诚的方式留下了美嘉。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2765</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S03E03.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="3"/>
+  </episode_groups>
+</episodedetails>

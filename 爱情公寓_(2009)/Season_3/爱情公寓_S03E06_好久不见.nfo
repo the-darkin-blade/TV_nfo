@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:09:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>好久不见</title>
+  <originaltitle>好久不见</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>3</season>
+  <episode>6</episode>
+  <id>4391982</id>
+  <uniqueid default="false" type="tmdb">1299720</uniqueid>
+  <uniqueid default="false" type="trakt">1236329</uniqueid>
+  <uniqueid default="true" type="tvdb">4391982</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>关谷和悠悠诚意邀请宛瑜、展博参加他们策划执行的情侣周末狂欢，宛瑜爽快答应。狂欢结束，关谷和悠悠用用了六个字形容：成功、精彩、难忘。宛瑜和展博也用六字评价：一剑、杀了、我吧。子乔带着从宛瑜那里坑来的礼物转手当做泡妞工具。可谁知，礼物却是展博准备送给毫不知情的宛瑜的求婚戒指。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2765</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S03E06.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="3"/>
+  </episode_groups>
+</episodedetails>

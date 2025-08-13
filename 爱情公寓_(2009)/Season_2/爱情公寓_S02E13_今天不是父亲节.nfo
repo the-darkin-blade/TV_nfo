@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:09:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>今天不是父亲节</title>
+  <originaltitle>今天不是父亲节</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>2</season>
+  <episode>13</episode>
+  <id>4172629</id>
+  <uniqueid default="false" type="tmdb">1298920</uniqueid>
+  <uniqueid default="false" type="trakt">1236042</uniqueid>
+  <uniqueid default="true" type="tvdb">4172629</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>关谷和悠悠正式开始约会，两人避开众人耳目偷偷甜蜜。原以为是其他人在偷窥的他们，开门后发现门外居然有个婴儿，而且婴儿车上各种用品一应俱全。推理之后，大家一致认定子乔就是孩子的亲生父亲。接下来，一菲等人协助子乔寻找孩子的母亲。经过层层筛选，最终锁定的目标 Fiona 竟然就是 Lisa 榕，线索至此中断。与此同时，悠悠因为子乔的关系，更是主动担起了照顾孩子的责任。关谷精心策划的约会也因这个孩子变得面目全非。羽墨无比同情关谷，决定出手帮帮他，结果却倒戈与悠悠组成育婴二人组。孩子突然开口叫爸爸妈妈，说的却是日语。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2814</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S02E13.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="2"/>
+  </episode_groups>
+</episodedetails>

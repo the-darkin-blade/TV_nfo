@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>一条大河</title>
+  <originaltitle>一条大河</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>4</season>
+  <episode>7</episode>
+  <id>4772198</id>
+  <uniqueid default="false" type="tmdb">1299810</uniqueid>
+  <uniqueid default="false" type="trakt">1236866</uniqueid>
+  <uniqueid default="true" type="tvdb">4772198</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>曾老师参加诺澜的约会之后，决定和诺澜在一起，让一菲十分伤心，在诺澜临行前大醉。另一方面，张伟发现了薇薇的微博，并按照微博的指示出尽洋相，却不料微博是子乔和美嘉的恶作剧。得知真相的张伟打算将计就计，让美嘉的手机被子乔浸在酒中。而关谷和悠悠联系上了关谷的父亲，由于父亲不同意关谷做漫画家，所以之前父子一直不和。关谷和悠悠打算借网络视频让关谷父亲参观一下爱情公寓的生活，结果先后看到了醉酒的一菲、变态的张伟以及因手机浸酒而争吵的美嘉和子乔。最后，关谷父亲表示很喜欢悠悠，同意了两人的婚事。一菲则在诺澜临行前对诺澜明确表示自己喜欢曾小贤。而张伟也主动出击联系上了薇薇，没想到两人都是律师，有很多的共同话题。</plot>
+  <runtime>49</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2946</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S04E07.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="4"/>
+  </episode_groups>
+</episodedetails>

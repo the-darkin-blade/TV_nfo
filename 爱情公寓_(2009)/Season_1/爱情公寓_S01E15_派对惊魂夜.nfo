@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-13 21:50:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>派对惊魂夜</title>
+  <originaltitle>派对惊魂夜</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>4021881</id>
+  <uniqueid default="false" type="tmdb">1242454</uniqueid>
+  <uniqueid default="false" type="trakt">1235514</uniqueid>
+  <uniqueid default="true" type="tvdb">4021881</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>展博认识的可爱女生Ada的派对就在今晚，子乔趁此机会邀请了许多美眉，他们将在家里举办一场盛大的狂欢派对。为了掩人耳目，子乔借社区老年业余艺术团表演把其他人都骗走。美嘉知道了Ada留给展博的语音邮件，和子乔死磨硬泡留下来参加派对，为了不让其他人识破，假装身体不适生病，这小伎俩被聪明的一菲看在眼里。 一菲，展博，子乔同时生病，子乔的阴谋被当众揭穿，他道出了晚上派对一事，大家兴奋踊跃加入晚上的狂欢。Ada一行人准时到达爱情公寓。子乔被美女追捧，关谷被日本美少女认出漫画家身份，学机器人舞让其人气顿时大涨。宛瑜和一菲鼓励展博索取女生电话，唯独展博还是孤零零一人。派对上出现DANCER QUEEN，其舞蹈惊艳四座相当吸引眼球，一菲怎会甘心被人抢去风头，立即跳上台和她飚舞……局面好像有些无法控制。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-13 21:50:11</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2733</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓_S01E15_派对惊魂夜.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

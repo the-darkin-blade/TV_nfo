@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>有话好好说</title>
+  <originaltitle>有话好好说</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>5</season>
+  <episode>8</episode>
+  <id>7535396</id>
+  <uniqueid default="false" type="tmdb">2046159</uniqueid>
+  <uniqueid default="true" type="imdb">tt11597250</uniqueid>
+  <uniqueid default="false" type="trakt">3932246</uniqueid>
+  <uniqueid default="false" type="tvdb">7535396</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>子乔为了成为一名成功的主播，向咖喱酱取经，并按照她的建议进行了各种惨烈的尝试。美嘉不忍看他独自辛苦，决定给代餐小面包设计新包装。一菲找来两个装修小工敲墙，可是两位师傅不会说普通话，双方鸡同鸭讲，一菲的新房惨遭毒手。</plot>
+  <runtime>47</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2845</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S05E08.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="5"/>
+  </episode_groups>
+</episodedetails>

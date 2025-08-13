@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-13 21:50:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>赌神关谷</title>
+  <originaltitle>赌神关谷</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>4021831</id>
+  <uniqueid default="false" type="tmdb">1242449</uniqueid>
+  <uniqueid default="false" type="trakt">1235383</uniqueid>
+  <uniqueid default="true" type="tvdb">4021831</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>关谷的杰作出版成空头支票，加上与小雪分道扬镳，心情不好加之最近手头又是山穷水尽，房租成了心头大病。美嘉好心帮助，奈何关谷的大男子思想瞬间汹涌，立即回绝她的好意。美嘉鬼使神差地去找子乔协商共同帮助关谷。他们在打扑克时启用一套十分古怪的规则，毫不知情的关谷几回合下来，居然是荷包满满，这让子乔哑巴吃黄连有苦难道出。关谷以为自己如此好火候乃是天赐良机，得意地自诩“赌神”。扑克斗地主继续进行，不知他的好运是否能持续下去……单身郁闷男青年展博对同事赵无量早时互看不顺眼，近期赵无量频频炫耀女友等行为激其不满，于是在家中大倒苦水。为鼓舞士气，宛瑜挺身而出以展博女朋友的身份去其公司打气。其间，谁也没料到随后一菲的惊艳登场，瞬时将整个”攀比大赛“的气氛燃烧起来……</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-13 21:50:11</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2729</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓_S01E10_赌神关谷.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

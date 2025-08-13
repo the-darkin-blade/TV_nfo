@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-13 21:50:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>美丽小世界</title>
+  <originaltitle>美丽小世界</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>4021841</id>
+  <uniqueid default="false" type="tmdb">1242450</uniqueid>
+  <uniqueid default="false" type="trakt">1235414</uniqueid>
+  <uniqueid default="true" type="tvdb">4021841</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小贤主持的电台节目满600期了，Lisa告诉他，将在600期之夜邀请一位女嘉宾前来与小贤共同主持节目。小贤回到家后，将此消息告诉大伙，大家纷纷致贺。这时，快递送来一个花篮，贺卡上的名字赫然写着：Lora。这让小贤犹如晴天霹雳，瞬间就震惊了。在宛瑜和一菲的追问下，小贤道出了与Lora的多年纠结情史，这个曾让他戴绿帽子的女人再次出现，让之心神不宁。还没来得及想出解脱办法，Lora已在爱情公寓附近等待。大家轮流为小贤做心理安抚，小贤发誓不会再像之前那样沉船。 子乔风流成性的毛病依旧没改，四处群发信息约MM见面。一菲和故友小波意外重逢，子乔垂涎小波的美貌，用为一菲介绍优质男友为条件，建议四人来个对对碰。晚上见面，一菲对子乔的“朋友”张伟颇有好感，而一波和子乔则一见倾心。 子乔约小波回家，小波接到一个电话，真相慢慢浮出了水面。而小贤的直播节目开始了，大家都不约而同的打开了收音机……</plot>
+  <runtime>47</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-13 21:50:11</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2826</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓_S01E11_美丽小世界.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

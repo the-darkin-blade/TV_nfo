@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-13 21:50:43 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>婚礼大乱斗</title>
+  <originaltitle>婚礼大乱斗</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>457221</id>
+  <uniqueid default="false" type="tmdb">1242439</uniqueid>
+  <uniqueid default="false" type="trakt">1235183</uniqueid>
+  <uniqueid default="true" type="tvdb">457221</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>麻省理工大学计算机专业毕业的天才青年陆展博学成归国，被一家网络公司看中担任网络工程师。他在机场巧遇林氏企业出走的富家女林宛瑜，两人粗心大意，毫无社会经验，不知不觉中上了一辆开往郊区的巴士。展博本想去投奔自己同父异母的姐姐胡一菲，等停车了才发现已经迷失在人烟稀少的乡村公路边…… 胡一菲此时正在所住的公寓中筹备一场婚礼，却和另一位爱情公寓的住客，担任本次婚礼主持人的曾小贤，为了婚礼的执行方案发生了激烈矛盾。 创业失败的花花公子吕子乔，在公寓大堂的厕所里与神父误打误撞，被胡一菲搞错以为是神父。将错就错的他本想在席间顺便推销自己的产品，居然遇到自己的前女友——穷困潦倒的可爱女孩美嘉，她也是偶尔路过，打算留下来骗吃骗喝的。冤家见面，分外眼红，他们都在暗地里盘算着如何揭穿对方，从而报当年“互甩”的一箭之仇。 婚礼被胡一菲和曾小贤这两个水火不容的家伙搞得不伦不类。千呼万唤始出来的“新郎”和“新娘”居然是被警察送回来的展博和宛瑜，众人大跌眼镜。 真正的新郎新娘终于出现了，公寓的创始人发来贺电祝福，宣布今后在这里相恋的情侣可以房租减半！子乔和美嘉顿时心领神会，默契地上演了一场夸张的“一见钟情”，希望以此住进公寓。在一场“终生难忘”的婚礼之后，新人提议，将这家公寓命名为——爱情公寓。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-13 21:50:11</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2716</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓_S01E01_婚礼大乱斗.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

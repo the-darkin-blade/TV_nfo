@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>我是励志师</title>
+  <originaltitle>我是励志师</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>4</season>
+  <episode>10</episode>
+  <id>4772201</id>
+  <uniqueid default="false" type="tmdb">1299813</uniqueid>
+  <uniqueid default="false" type="trakt">1236931</uniqueid>
+  <uniqueid default="true" type="tvdb">4772201</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>美嘉暗示小峰不适合，小峰却虚构了一个不存在的女朋友晓昭来调和美嘉的戒心。子乔宣布自己的新职业 —— 励志师，相关的 APP 软件也制作成功。为了治愈女性的伤痛，他在 APP 中放了很多鼓励女性的视频。子乔一秒变天使哥哥，连唐悠悠也为这位外甥的视频痴迷。张伟因为参与诉讼精神紧张变成了口吃，还在超市遭遇女孩子暴打，经过子乔励志师 APP 的调教，张伟“成功”转型，变成娘娘腔，在第二次开庭上出尽洋相。另一方面，酒吧员工的婚礼邀请关谷出席，悠悠为了给自己的婚礼做参考，也提出要去，结果新郎新娘却因此事大吵起来，婚礼取消了，让关谷和悠悠非常抱歉。关谷和悠悠又同时萌生了把婚礼筹办外包给好朋友的想法，不巧的是，两人分别把婚礼外包给绝交中的曾小贤和胡一菲，于是再次爆发争执，不过最后终于和好。最后，众人聚在一起足浴，一切的纠结与紧张都暂时抛在脑后。几天后，小峰带着新结识的女朋友来找美嘉，美嘉后悔不已。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2770</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S04E10.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="4"/>
+  </episode_groups>
+</episodedetails>

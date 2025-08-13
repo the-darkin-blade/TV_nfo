@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-13 21:50:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>谁动了我的情人节</title>
+  <originaltitle>谁动了我的情人节</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>4021941</id>
+  <uniqueid default="false" type="tmdb">1242459</uniqueid>
+  <uniqueid default="false" type="trakt">1235705</uniqueid>
+  <uniqueid default="true" type="tvdb">4021941</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>子乔大倒过往情史，以身试法教展博追求女生的秘笈，展博木讷，结果不是想象中的那么美好，让宛瑜莫名其妙。展博情急下向宛瑜表白，宛瑜推诿今晚因工作原因要去香港，展博失望，两人因此不欢而散。 小贤为灭火时的失误向一菲道歉，一菲并不买账。小区举办3VS3篮球赛，胡一菲二话不说强势地加入了男生的队伍。一菲赛后患重感冒，得到小贤悉心照顾。纵然两人平时针锋相对恶语相向，一种奇妙的气息在他俩之间产生。 美嘉计划多日的情人节卖花行动已实施，满屋鲜花的搬运累惨了子乔等人。子乔质疑美嘉的能力，在经济不景气情况下怎能卖出鲜花，于是两人打赌，赌注十分恶毒。 情人节夜大雨滂沱，飞机取消，宛瑜回到家想找展博续好。突如其来的女孩还有满屋鲜花让宛瑜措手不及，断定展博是薄情郎。气急败坏的宛瑜和美嘉为查清事实……众人相聚情人夜，展博能否会化险为夷，与宛瑜拥有美好的结局？</plot>
+  <runtime>49</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-13 21:50:11</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2984</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓_S01E20_谁动了我的情人节.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

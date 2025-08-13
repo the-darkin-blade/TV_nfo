@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-13 21:50:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>大堵车</title>
+  <originaltitle>大堵车</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>4021821</id>
+  <uniqueid default="false" type="tmdb">1242448</uniqueid>
+  <uniqueid default="false" type="trakt">1235363</uniqueid>
+  <uniqueid default="true" type="tvdb">4021821</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在Lisa的力荐下，小贤终于如愿所偿成功闯进电视圈，还成为著名的电视访谈节目《如玉有约》的嘉宾，他租来一辆敞篷车准备拉风地开去电视台风光一把，展博当他的御用司机。正赶上刚被出租车司机在中环线上绕了13圈的关谷回来，惟愿去电视台路上不堵车。七人兵分两路，一同前往为小贤捧场。 小贤等四人坐进了敞篷车，容光焕发的向电视台驶去。在一菲的怂恿下，展博巧施伎俩赛过一绿色JEEP，上演飙车大戏。冤家路窄，在大堵车时又碰上绿JEEP，司机邪恶的眼神让展博毛骨悚然。一菲和子乔在堵车过程中都没闲着。一菲成功勾搭上一奔驰男，子乔则前去泡开着MINICOOPER的MM，剩下小贤在那心急如焚，眼看节目录制时间就要到了，天色已黑，众人却还在高架上。而宛、美、关三人早已到达电视台。时间紧迫，小贤究竟该何去何从……</plot>
+  <runtime>47</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-13 21:50:11</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2832</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓_S01E09_大堵车.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

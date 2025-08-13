@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:09:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>Big Boss</title>
+  <originaltitle>Big Boss</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>2</season>
+  <episode>18</episode>
+  <id>4172634</id>
+  <uniqueid default="false" type="tmdb">1298925</uniqueid>
+  <uniqueid default="false" type="trakt">1236153</uniqueid>
+  <uniqueid default="true" type="tvdb">4172634</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>一菲受邀暂时接替学校跆拳道社教练的职位，而迎接她的队伍犹如一盘散沙。于是一菲开始了全面整顿，并为他们报名了大学生跆拳道联赛。然而比赛中的全军覆没让一菲深受打击。羽墨暗示小贤去安慰一菲，小贤不慎被拉下水，成了跆拳道社的新成员。等待他的，是残酷的训练和另一场联赛。关谷随着出版社的倒闭，正式失业。同时他的签证也即将到期，关谷迫切需要一份新工作帮助他继续留在中国。悠悠尽心尽力地为关谷打造与众不同的简历，却还是不能让关谷摆脱被遣送回国的命运。在大家心灰意冷的时候，子乔带来了好消息。</plot>
+  <runtime>50</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>3038</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S02E18.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="2"/>
+  </episode_groups>
+</episodedetails>

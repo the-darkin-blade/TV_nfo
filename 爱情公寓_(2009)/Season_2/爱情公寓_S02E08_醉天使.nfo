@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:09:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>醉天使</title>
+  <originaltitle>醉天使</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>2</season>
+  <episode>8</episode>
+  <id>4172624</id>
+  <uniqueid default="false" type="tmdb">1298915</uniqueid>
+  <uniqueid default="false" type="trakt">1235903</uniqueid>
+  <uniqueid default="true" type="tvdb">4172624</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>羽墨从情感困境中走出却变身宅女，悠悠为了激发她往日的活力，劝其出门。在电梯上碰到了超级大帅哥 Neo 的羽墨，顿时恢复正常。原来，Neo 是一位时尚造型师，羽墨、一菲、小贤和悠悠都陶醉在 Neo 为他们打造的新造型中。万人迷 Neo 赢得了众人的好评。一菲和羽墨甚至为他争风吃醋。关谷遭遇了网恋，可惜约会对象小曼无法容忍他的日本口音。失意的他，喝下了 Neo 调的酒，意外收获一口标准的普通话，他再次与小曼约会。子乔因为“公寓一哥”地位被抢，暗生妒忌。他和张伟也学 Neo 换了新造型，欲以海外侨胞的身份展开一次泡妞行动，他们甚至跟着陌生女孩儿去了她们朋友的订婚仪式。酒醒后的他们才意识到，往事不堪回首。</plot>
+  <runtime>49</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2978</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S02E08.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="2"/>
+  </episode_groups>
+</episodedetails>

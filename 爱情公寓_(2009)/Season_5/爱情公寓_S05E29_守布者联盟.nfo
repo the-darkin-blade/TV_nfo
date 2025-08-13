@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>守布者联盟</title>
+  <originaltitle>守布者联盟</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>5</season>
+  <episode>29</episode>
+  <id>7535453</id>
+  <uniqueid default="false" type="tmdb">2064407</uniqueid>
+  <uniqueid default="false" type="trakt">3932267</uniqueid>
+  <uniqueid default="true" type="tvdb">7535453</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>咖喱酱为了见到自己的偶像，跑去参加了拟音大赛，天天对着一堆锅碗瓢盆敲敲打打。子乔和美嘉又出新花样，邀请一菲等人成为小小布的“守布者”，一开始对这个活动百般嫌弃的众人，最后竟然为此吵了起来。子乔美嘉为了劝和，拉着大家去帮咖喱酱参赛。</plot>
+  <runtime>49</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2942</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S05E29.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="5"/>
+  </episode_groups>
+</episodedetails>

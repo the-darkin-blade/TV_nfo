@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-13 21:50:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>一见钟情水</title>
+  <originaltitle>一见钟情水</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>4021781</id>
+  <uniqueid default="false" type="tmdb">1242444</uniqueid>
+  <uniqueid default="false" type="trakt">1235317</uniqueid>
+  <uniqueid default="true" type="tvdb">4021781</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>最近一菲的网店生意极其不景气，为了挽回损失她捣腾了一种来自印度地区的人气香薰，名为一见钟情，指望借此小赚一笔。关谷的漫画《爱情三脚猫》得到了日本著名出版商的认可，他决定放慢生活的脚步，期望着能遇到一个心仪的女孩儿，开始一场浪漫的恋爱之旅。美嘉得知关谷的心愿后春心荡漾，从一菲买来了一见钟情水，秘密筹划着与关谷的浪漫约会，并以惨痛的代价和子乔协商各自的约会时间。 展博送给宛瑜一个典藏版的变形金刚作为纪念礼物。这个意外的礼物并没让宛瑜感到开心，时下她正为下季度的房租犯愁。本是离乡背井，现在又是弹尽粮绝，她只好抱着展博送的变形金刚去找小贤将其挂在网上拍卖。展博在在网上搜到的变形金刚价格低的离谱，他立马出手抬高价格拍下被一菲大骂白痴。展博乐于其中，和买家几轮口水大战，最后喜笑颜开地将变形金刚拍到名下。距美嘉精心准备约会开始时辰越来越近，满屋蜡烛，红酒，良辰美景……这美好的一切让美嘉沉迷在憧憬着关谷的到来中，迎面而去走进来的却是子乔和小雪。美嘉和子乔惊天动地的大吵开始时，一见钟情正在关谷和小雪之间发生……</plot>
+  <runtime>47</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-13 21:50:11</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2839</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓_S01E05_一见钟情水.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

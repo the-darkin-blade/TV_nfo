@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:09:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>在爱的名义下</title>
+  <originaltitle>在爱的名义下</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>2</season>
+  <episode>7</episode>
+  <id>4172623</id>
+  <uniqueid default="false" type="tmdb">1298914</uniqueid>
+  <uniqueid default="false" type="trakt">1235886</uniqueid>
+  <uniqueid default="true" type="tvdb">4172623</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>羽墨遭遇重大感情变故后，不仅没有过激行为，反而正常得有些不正常。其他人担心她从此一蹶不振，便设想了各种方案，试图帮助羽墨走出阴影，但无一例外都被否决。羽墨还给一菲和悠悠留下一张可疑的光盘，而这其中隐藏着重大信息。大家都认定拿回的那颗钻戒是不祥之物，于是让张伟以羽墨的名义将其捐献给福利院。大家为了阻止羽墨外出旅行，悠悠找来一帮群众演员，不仅让慈善晚会仓促上马，更是一连举办了三次。不堪忍受的张伟终于向院长吐露实情，却被羽墨听到，她转身离去。四处寻找的六个人一无所获。直到深夜，子乔终于找到了羽墨。</plot>
+  <runtime>52</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>3128</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S02E07.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="2"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-13 21:50:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>异性吸引力</title>
+  <originaltitle>异性吸引力</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>4021801</id>
+  <uniqueid default="false" type="tmdb">1242446</uniqueid>
+  <uniqueid default="false" type="trakt">1235336</uniqueid>
+  <uniqueid default="true" type="tvdb">4021801</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在常人看来，展博乃海龟高材生，仪表堂堂年轻有为，除了有点木头人的味道，基本上还是人品佳口碑好的男人，怎奈在感情这一栏上至今还保持硕大的零蛋记录。展博追女失败还频受打击日渐心灰意冷，一菲在酒吧找到一名小女演员，雇她去演出好戏假扮展博的追求者，以此拯救展博的自信心。万事俱备，只欠东风，谁想到一菲的如意算盘到最后还是落空了…… 经历一轮吵架风波后，美嘉头上仍是阴云密布久久未散，这让爱情公寓里的气氛显得十分紧张。子乔借钱给美嘉买礼物，不但未赢得美人心，反遭美嘉一顿唏嘘。美嘉已是心如死水，宛瑜和小贤看在眼里急在心里了，讨论欲实施相关计划修补美乔俩人的关系。号称“调解达人”兼新版老娘舅的小贤出了个主意，他将和宛瑜采取各个击破方针。但愿众人拾柴火焰高，两人的努力是能挽回吗？</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-13 21:50:11</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2804</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓_S01E07_异性吸引力.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

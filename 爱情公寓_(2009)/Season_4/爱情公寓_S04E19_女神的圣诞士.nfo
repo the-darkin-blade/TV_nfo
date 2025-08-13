@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>女神的圣诞士</title>
+  <originaltitle>女神的圣诞士</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>4</season>
+  <episode>19</episode>
+  <id>4776996</id>
+  <uniqueid default="false" type="tmdb">1299822</uniqueid>
+  <uniqueid default="false" type="trakt">1237074</uniqueid>
+  <uniqueid default="true" type="tvdb">4776996</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>美嘉请子乔过来帮忙“抓鬼”，没想到灵异事件是因为房子中所有家电都有人工智能与语言识别功能，两人大开眼界，子乔决定和美嘉一起在豪宅中度过圣诞节，还用一连串的脑筋急转弯成功制服了智能冰箱。迪诺约悠悠提前出来吃饭，表示对悠悠有好感，让悠悠心生不安。悠悠故意请迪诺和关谷见面，缓解尴尬的气氛，可是关谷仍然表面故作镇定，悠悠又气又急。真正的约会上，关谷的醋意终于爆发出来，将迪诺骗至厕所吓唬了他一下。悠悠终于证实了关谷内心对自己的重视，两人幸福相拥。另一方面，张伟和上官老师打算出去约会，倒时差让曾小贤快要发疯，公寓里只剩下一菲和曾小贤。一菲误喝了曾小贤的安眠冲剂，醒来之后发现小贤已经帮自己搬回一颗可以许愿的圣诞树。一菲对着圣诞树许愿，感动不已，发觉自己儿时想要找的男人其实就是曾小贤。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2706</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S04E19.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="4"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>颜值平均眼镜</title>
+  <originaltitle>颜值平均眼镜</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>5</season>
+  <episode>12</episode>
+  <id>7535401</id>
+  <uniqueid default="false" type="tmdb">2049252</uniqueid>
+  <uniqueid default="true" type="imdb">tt11612038</uniqueid>
+  <uniqueid default="false" type="trakt">3932250</uniqueid>
+  <uniqueid default="false" type="tvdb">7535401</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小区里来了一个帅气的销售小哥，容易犯花痴的美嘉为此浪费了不少钱，子乔非常肉疼。小黑设计了一款颜值平均眼镜，声称可以帮大家走出颜值陷阱。咖喱酱也总是因为看脸而遇到渣男，于是她决定洗心革面，戴着这幅眼镜去找男朋友。</plot>
+  <runtime>52</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>3130</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S05E12.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="5"/>
+  </episode_groups>
+</episodedetails>

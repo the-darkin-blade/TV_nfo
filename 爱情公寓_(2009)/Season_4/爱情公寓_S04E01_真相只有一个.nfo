@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>真相只有一个</title>
+  <originaltitle>真相只有一个</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>4</season>
+  <episode>1</episode>
+  <id>4739380</id>
+  <uniqueid default="false" type="tmdb">1299804</uniqueid>
+  <uniqueid default="false" type="trakt">1236774</uniqueid>
+  <uniqueid default="true" type="tvdb">4739380</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>曾小贤在一菲和诺澜的门外，最终选择出门买一瓶新的红花油，不料遇见骗子郎中，争执到很晚，因此不了了之。另一方面，关谷觉得验孕棒很可疑，表示一定要将此事调查清楚，于是在垃圾桶中翻出一份快递单、一张用过的手纸以及吃了一半的巧克力这三件可疑物件。美嘉为了阻止秘密泄露，买通了快递送货员让他说谎骗关谷。曾小贤为了帮胡一菲早日治好脚伤，决心苦练大师的按摩手法，最终成功练得一手很好的按摩技巧。众人决定用安眠冲剂将一菲催眠之后秘密为其按摩，不料被一菲发现。一菲假装睡着等曾小贤按摩，诺澜却在这时再次来到公寓对曾小贤表白，这让胡一菲很不爽，一脚把曾小贤踢倒。关谷后来调查出快递单其实是美嘉买的酒心巧克力，美嘉松了口气。可是悠悠却将巧克力与验孕棒的事情联系起来，分析出验孕棒其实是美嘉的，美嘉只好向悠悠招供。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2784</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S04E01.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="4"/>
+  </episode_groups>
+</episodedetails>

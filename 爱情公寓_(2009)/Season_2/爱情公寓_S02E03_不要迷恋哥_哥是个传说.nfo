@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:09:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>不要迷恋哥 哥是个传说</title>
+  <originaltitle>不要迷恋哥 哥是个传说</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>2</season>
+  <episode>3</episode>
+  <id>4172619</id>
+  <uniqueid default="false" type="tmdb">1247648</uniqueid>
+  <uniqueid default="false" type="trakt">1235786</uniqueid>
+  <uniqueid default="true" type="tvdb">4172619</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>羽墨不满未婚夫李察德只顾忙于自己的事业，才搬进爱情公寓，试图以“失踪”引起他的关注。谁知，未婚夫送的钻戒也失踪了。经推断，戒指应落在她之前居住的楼上公寓。张伟自告奋勇帮她拿回钻戒，而公寓现在的住户是凶神恶煞的大庆，拿回钻戒似乎成了不可能完成的任务。话剧女主角全体患病，唐悠悠意外获得了三场话剧的女主角戏份。可话剧的上演时间却是同一天晚上。向来苦于没有机会表现的她面对突如其来的机会，一时间分身乏术、难以抉择。小贤的深夜电台节目一直没有听众，子乔无聊的打赌加剧了他的自暴自弃。一菲对小贤的堕落忍无可忍，她打进节目的热线电话狠狠数落了他。这一切却阴差阳错地让小贤原本一潭死水的主持事业泛起些许波澜。</plot>
+  <runtime>49</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2979</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S02E03.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="2"/>
+  </episode_groups>
+</episodedetails>

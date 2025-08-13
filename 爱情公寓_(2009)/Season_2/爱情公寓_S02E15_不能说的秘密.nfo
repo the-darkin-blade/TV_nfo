@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:09:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>不能说的秘密</title>
+  <originaltitle>不能说的秘密</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>2</season>
+  <episode>15</episode>
+  <id>4172631</id>
+  <uniqueid default="false" type="tmdb">1298922</uniqueid>
+  <uniqueid default="false" type="trakt">1236091</uniqueid>
+  <uniqueid default="true" type="tvdb">4172631</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>关谷和悠悠的恋爱 100 天纪念日即将到来，关谷却和师兄在漫画推荐会上闹翻。为了不让纪念日在糟糕的氛围中度过，悠悠打电话约关谷的师兄杜俊来家里进行调停。岂料，被一菲和小贤听到，产生了误会。悠悠希望杜俊主动向关谷和解，提出为他介绍女友作为交换条件。一菲和小贤碰到临时决定回家的关谷，顿时乱了手脚。他们越帮越忙，导致误会一波接着一波。而子乔成了最大的受害者。张伟、羽墨几人受邀参加酒吧点心师丹尼的欢送会。得知需要出份子钱之后，张伟既想保全自己的面子又不想花钱，决定以自己的方式欢送丹尼。唯一的“盟友”羽墨也在最后关头背叛了他。无奈的他还是来到了酒吧。</plot>
+  <runtime>50</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>3017</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S02E15.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="2"/>
+  </episode_groups>
+</episodedetails>

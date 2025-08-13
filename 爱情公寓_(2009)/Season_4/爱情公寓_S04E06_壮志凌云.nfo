@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>壮志凌云</title>
+  <originaltitle>壮志凌云</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>4</season>
+  <episode>6</episode>
+  <id>4772196</id>
+  <uniqueid default="false" type="tmdb">1299809</uniqueid>
+  <uniqueid default="false" type="trakt">1236856</uniqueid>
+  <uniqueid default="true" type="tvdb">4772196</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>子乔幸免于难，只是脖子受了扭伤，住院几天。张伟重返爱情公寓，拜托子乔引开薇薇身旁的另一名女士，从而帮他在酒吧搭讪美女薇薇。子乔去后却发现薇薇身旁的人换成了一个十岁女孩，只好答应代为看管她，却被人小鬼大的女孩搞得无言以对。诺澜要去美国学习，她对曾小贤的表白微信被胡一菲听到，一菲又吃醋了。矛盾中的一菲把微信内容如实告诉小贤，小贤让一菲等他回来一起吃蛋炒饭。但处女座的曾小贤面对诺澜的表白，又犯了选择困难综合症。</plot>
+  <runtime>47</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2824</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S04E06.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="4"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:09:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>我 百万富翁（上）</title>
+  <originaltitle>我 百万富翁（上）</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>2</season>
+  <episode>19</episode>
+  <id>4172635</id>
+  <uniqueid default="false" type="tmdb">1298926</uniqueid>
+  <uniqueid default="false" type="trakt">1236171</uniqueid>
+  <uniqueid default="true" type="tvdb">4172635</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小贤即将参加《谁能成为百万富翁》，他把唯一一张后援团通行证给了一菲。她表示当晚有事，但会尽早赶来捧场，还叮嘱他多撑几轮等她来观战。可在比赛现场，几轮答题之后，一菲的座位依然空着。小贤选择了继续答题，等待一菲出现。大家张罗着张伟的生日惊喜派对，这让即将奔三的羽墨变得心情低落，她给自己制定了奔三的保养卡片。子乔为了鼓动羽墨参加野外生存俱乐部，便向她发起了挑战。关谷收到 20 年前自己画的蜡笔画，众人唏嘘不已。受此启发，悠悠买来两个时间囊，和关谷分别放入最珍贵的记忆，并约定 50 年后重新打开。可悠悠敌不住好奇心，偷偷打开了关谷的时间囊。</plot>
+  <runtime>48</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2887</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S02E19.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="2"/>
+  </episode_groups>
+</episodedetails>

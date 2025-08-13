@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>美嘉去哪了</title>
+  <originaltitle>美嘉去哪了</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>5</season>
+  <episode>7</episode>
+  <id>7535395</id>
+  <uniqueid default="false" type="tmdb">2046158</uniqueid>
+  <uniqueid default="true" type="imdb">tt11597232</uniqueid>
+  <uniqueid default="false" type="trakt">3932245</uniqueid>
+  <uniqueid default="false" type="tvdb">7535395</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>众人兵分两路寻找美嘉，一菲带队地毯式排查医院，子乔这一队负责破解美嘉的手机密码。一菲在妇产科门口遇到了老熟人，被各种误会，最后只能落荒而逃。子乔回忆和美嘉过去的点点滴滴，尝试了各种有纪念意义的数字，却都不对。他们能及时找到美嘉吗？</plot>
+  <runtime>42</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2551</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S05E07.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="5"/>
+  </episode_groups>
+</episodedetails>

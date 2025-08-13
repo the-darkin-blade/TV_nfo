@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:09:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>我被钻石闪了腰</title>
+  <originaltitle>我被钻石闪了腰</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>2</season>
+  <episode>6</episode>
+  <id>4172622</id>
+  <uniqueid default="false" type="tmdb">1298913</uniqueid>
+  <uniqueid default="false" type="trakt">1235865</uniqueid>
+  <uniqueid default="true" type="tvdb">4172622</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李察德终于找到羽墨，羽墨欣喜的同时又很担心，因为她把他送的钻戒弄丢了。当李察德知道羽墨丢失钻戒后，反应与众人之前的设想大不同，这让大家无比感动。子乔等人正听着关谷推理两人小别胜新婚的剧情发展，羽墨却进来宣布她和李察德分手了，因为他还有另一个女人 Tina。张伟在路上被钻戒砸到，他的同窗班尼正巧前来借钱买钻戒求婚，张伟便将捡到的钻戒低价转手给他。谁知，这颗钻戒居然是羽墨的，而且价值连城。于是悠悠发挥出她的演技，配合张伟成功拿回钻戒。小贤出于职业习惯，主动去开导羽墨，不料却跑偏了题。羽墨当即决定找第三者 Tina 谈判，让她知难而退。正当羽墨以美容顾问的身份与 Tina 过招时，李察德出现了。</plot>
+  <runtime>52</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>3130</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S02E06.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="2"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>B方案</title>
+  <originaltitle>B方案</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>5</season>
+  <episode>28</episode>
+  <id>7535452</id>
+  <uniqueid default="false" type="tmdb">2064406</uniqueid>
+  <uniqueid default="false" type="trakt">3932266</uniqueid>
+  <uniqueid default="true" type="tvdb">7535452</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小小布马上就要百日了，张伟割肉买了一辆婴儿车当礼物，却发现美嘉已经有了。为了退掉这辆婴儿车，张伟用遍了各种奇葩的招数。另一边，子乔、一菲和海棠不小心弄坏了小小布的百日写真，为了不让美嘉发现，三人偷偷展开了瞒天过海的秘密行动。</plot>
+  <runtime>47</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2843</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S05E28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="5"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>我家宝藏</title>
+  <originaltitle>我家宝藏</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>5</season>
+  <episode>5</episode>
+  <id>7535393</id>
+  <uniqueid default="false" type="tmdb">2046156</uniqueid>
+  <uniqueid default="true" type="imdb">tt11597172</uniqueid>
+  <uniqueid default="false" type="trakt">3932243</uniqueid>
+  <uniqueid default="false" type="tvdb">7535393</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>街道住户委员会主任胡一菲要张伟给出现感情危机的情侣做思想工作，降低分手率和退租率。情侣们闹分手的理由都很奇葩，张伟很头疼。子乔和美嘉最近一直在公寓里晃来晃去，似乎在搜寻着什么，引起了大家的怀疑。一菲想到了一个新的装修方案，鼓动大家一起上楼帮忙。</plot>
+  <runtime>52</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>3153</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S05E05.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="5"/>
+  </episode_groups>
+</episodedetails>

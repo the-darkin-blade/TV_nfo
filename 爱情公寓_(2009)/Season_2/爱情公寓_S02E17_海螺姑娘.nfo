@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:09:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>海螺姑娘</title>
+  <originaltitle>海螺姑娘</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>2</season>
+  <episode>17</episode>
+  <id>4172633</id>
+  <uniqueid default="false" type="tmdb">1298924</uniqueid>
+  <uniqueid default="false" type="trakt">1236128</uniqueid>
+  <uniqueid default="true" type="tvdb">4172633</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>张伟在超市偶遇他曾经的新娘 —— 小丽和她的男友强子。不久，小丽送来她和强子的结婚请柬邀请张伟参加，并递给张伟一张支票以表示他们的歉意，却遭到了张伟的拒绝。在小丽的坚持下，一菲代张伟答应了作她的伴娘，但张伟誓死不从，他选择了极端的方式，试图以此逃避伴娘这个尴尬角色。悠悠不小心弄脏了关谷打算上色的画，正在酝酿着如何向他赔罪。岂料她和关谷掀开薄布时，看到的竟是一副上色完美的画，之前溅上的油渍毫无影踪。羽墨打趣，是传说中的“海螺姑娘”所为，自此关谷开始对“海螺姑娘”念念不忘。略生醋意的悠悠使计找到了“海螺姑娘”，却发现，“海螺姑娘”不只一人，甚至压根儿就不是姑娘。</plot>
+  <runtime>49</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2957</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S02E17.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="2"/>
+  </episode_groups>
+</episodedetails>

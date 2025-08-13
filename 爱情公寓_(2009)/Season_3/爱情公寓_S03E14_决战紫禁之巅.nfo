@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>决战紫禁之巅</title>
+  <originaltitle>决战紫禁之巅</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>3</season>
+  <episode>14</episode>
+  <id>4391989</id>
+  <uniqueid default="false" type="tmdb">1299729</uniqueid>
+  <uniqueid default="false" type="trakt">1236520</uniqueid>
+  <uniqueid default="true" type="tvdb">4391989</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>被选为唐悠悠的经纪人后，陈美嘉向关谷神奇感慨，经纪人行业水太深。唐悠悠签约了新合同，满心欢喜。却遭到了陈美嘉的抱怨。曾小贤的广播节目由于请了诺澜当嘉宾，收听率打破纪录，翻了三倍之多。Lisa榕向他表示了祝贺。回到公寓中，陈美嘉提议大家应该演古装。众人开始了对于角色的畅想和议论。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2768</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S03E14.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="3"/>
+  </episode_groups>
+</episodedetails>

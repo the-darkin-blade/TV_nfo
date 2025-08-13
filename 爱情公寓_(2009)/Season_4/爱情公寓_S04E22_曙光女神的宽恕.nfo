@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>曙光女神的宽恕</title>
+  <originaltitle>曙光女神的宽恕</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>4</season>
+  <episode>22</episode>
+  <id>4776999</id>
+  <uniqueid default="false" type="tmdb">1299825</uniqueid>
+  <uniqueid default="false" type="trakt">1237129</uniqueid>
+  <uniqueid default="true" type="tvdb">4776999</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>大家在酒吧里讨论小贤与一菲的事情，众人都鼓励小贤第二天去机场直接和诺澜分手，可小贤还是心中忐忑。最后小贤与大家都在酒吧喝醉。第二天早晨，小贤叫上关谷一起打车去机场，两人却在出租车上睡着了。小贤在梦中梦见电视台台长鼓励他和诺澜在一起，还要为他们俩创办新节目。另一方面，诺澜在机场等了好久，小贤的电话也打不通，只好自己回到爱情公寓。一菲见到诺澜之后口不择言，美嘉和一菲的谈话又被诺澜无意中听见，使诺澜误以为喜欢小贤的是美嘉。美嘉决定将错就错，代替一菲向诺澜宣战。诺澜在美国进修了心灵净化学，她的晓之以理、动之以情很轻易地打败了美嘉。悠悠见美嘉落败，自己挺身而出，对诺澜说喜欢小贤的还有自己，但也被诺澜的“曙光女神”击败。此时，关谷和小贤终于醒了过来，质疑出租车司机绕路，司机将他们扔在郊外马路边。不巧出租车司机在前面不远处出了车祸，关谷和小贤打算假装生病，一起搭救护车回市区。为了分散一菲的注意力，对龙虾过敏的张伟决定吃龙虾，大家急忙将他送进医院，也与小贤和关谷在医院会合。小贤赶到医院，终于打算和诺澜说清楚。诺澜告诉小贤只要在他身边就好，其他事情她不在意。小贤说了句我爱你，叫的却是一菲的名字，这时，一菲正巧站在病房门口。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2797</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S04E22.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="4"/>
+  </episode_groups>
+</episodedetails>

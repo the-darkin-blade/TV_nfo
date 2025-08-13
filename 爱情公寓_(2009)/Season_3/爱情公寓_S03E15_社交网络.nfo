@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>社交网络</title>
+  <originaltitle>社交网络</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>3</season>
+  <episode>15</episode>
+  <id>4391990</id>
+  <uniqueid default="false" type="tmdb">1299731</uniqueid>
+  <uniqueid default="false" type="trakt">1236543</uniqueid>
+  <uniqueid default="true" type="tvdb">4391990</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>爱情公寓里最近风靡起一个叫脸盆网的社交网站，大家都在抓紧注册、发帖，一菲也不例外。可是当她主动要参加同学聚会时，却被网站管理员拒绝请求。后查明原因是该网站默认一菲已经去世。一菲气急败坏，在展博的帮助下，得知了为什么被误认为已过世。为了澄清事实，一菲在众人的出谋划策下，顺水推舟，将同学召齐，准备将自己根本没有死的事公之于众。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2761</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S03E15.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="3"/>
+  </episode_groups>
+</episodedetails>

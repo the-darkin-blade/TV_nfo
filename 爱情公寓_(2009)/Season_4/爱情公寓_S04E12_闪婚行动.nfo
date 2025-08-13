@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>闪婚行动</title>
+  <originaltitle>闪婚行动</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>4</season>
+  <episode>12</episode>
+  <id>4776989</id>
+  <uniqueid default="false" type="tmdb">1299815</uniqueid>
+  <uniqueid default="false" type="trakt">1236971</uniqueid>
+  <uniqueid default="true" type="tvdb">4776989</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>张伟新交了一个女朋友默默，决定闪婚，大家觉得非常不可靠。可是当张伟带默默回家之后，默默的各方面表现都不错，众人这才放了心。曾小贤回来看见默默之后，发现她竟然是自己的初中同学，并且整过容。默默一直暗恋曾小贤，并企图非礼曾小贤，两人不小心倒在一起的一幕被美嘉撞见，于是引起了误会。张伟以为曾小贤要抢未婚妻，于是决定将婚礼提前一个星期。另一方面，张伟委托悠悠做自己婚礼的总策划，子乔建议找一个全能的司仪来撑场，表示自己认识一个金牌司仪王大卫，会搞气氛又会 B-box，不料因为悠悠和关谷安排的曲目过多，大卫拒绝了司仪的工作。后来，关谷和子乔打赌，如果子乔会 B-box 并在婚宴上搞出热闹的气氛，就允许他在自己和悠悠的婚礼上举办内衣秀。结果一系列反常的事件让关谷怀疑子乔早就设局引自己和他打赌，目的就是举办内衣秀。最终子乔虽然拿到了 B-box 的毕业证，但是在酒吧现场表演时，演出效果十分差劲。婚礼那天，小贤和美嘉一起开车去帮张伟接新娘，发现默默和张伟居然同时逃婚了。</plot>
+  <runtime>41</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2513</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S04E12.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="4"/>
+  </episode_groups>
+</episodedetails>

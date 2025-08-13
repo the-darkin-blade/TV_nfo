@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-13 21:50:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>长舌妇</title>
+  <originaltitle>长舌妇</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>4021901</id>
+  <uniqueid default="false" type="tmdb">1242456</uniqueid>
+  <uniqueid default="false" type="trakt">1235610</uniqueid>
+  <uniqueid default="true" type="tvdb">4021901</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>一次与美嘉的闲聊，宛瑜得知子乔有了新欢要与安妮分手。在宛瑜看来，安妮相当出色既聪明美丽，还深谙美容方面的心得，考虑到与安妮的友谊，宛瑜不得已提前告诉了安妮，安妮闻后悲痛欲绝，扬言要让子乔后悔。可谁知，第二天，子乔突然反悔了！ 由于小贤粗心大意，写错了面试时间，展博还没来得及生气，却迎来了更称心如意的工作机会。 沈临风将到一菲家做客，为讨好男友，一菲向关谷寻求日本料理的制作方法，两人一顿忙活后美食便上桌。沈公子对饭菜称赞不绝，但是唯独对于银鳕鱼的烹饪颇有微词，这可惹恼了顶真的关谷神奇。一场争斗一触即发。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-13 21:50:11</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2718</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓_S01E17_长舌妇.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

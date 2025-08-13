@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:09:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>我猜到开头 却猜不到结局</title>
+  <originaltitle>我猜到开头 却猜不到结局</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>2</season>
+  <episode>1</episode>
+  <id>4029001</id>
+  <uniqueid default="false" type="tmdb">1247646</uniqueid>
+  <uniqueid default="false" type="trakt">1235743</uniqueid>
+  <uniqueid default="true" type="tvdb">4029001</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>原本就热闹非凡的爱情公寓，依旧频频掀起风波。小贤、子乔、一菲、关谷相约去新开的酒吧，巧遇了旧相识张伟。得知张伟在第二天中午将举行婚礼，子乔体内的不安分子开始活跃，他极力怂恿张伟在婚前最后一晚实行“终极单身夜”计划。宿醉的张伟醒来时，已是第二天下午四点。错过婚礼的他匆匆赶到婚礼现场，结果却大大出乎意料。一路上，他的心情如坐过山车般跌宕起伏，小贤和子乔最终使他鼓起勇气面对，他却在进入现场后发现新娘与伴郎私奔了！子乔等人走后，关谷、一菲碰到唐悠悠。自称与子乔关系密切的她无处可去，便被他们带回爱情公寓暂时留宿。一菲和关谷担心的“痴情女负心汉”戏码并未上演，而子乔与唐悠悠之间真正的关系，却让他们更为震惊 —— 原来悠悠是子乔的小姨妈。</plot>
+  <runtime>51</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>3092</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S02E01.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="2"/>
+  </episode_groups>
+</episodedetails>

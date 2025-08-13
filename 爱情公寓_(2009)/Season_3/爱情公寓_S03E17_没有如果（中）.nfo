@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>没有如果（中）</title>
+  <originaltitle>没有如果（中）</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>3</season>
+  <episode>17</episode>
+  <id>4462511</id>
+  <uniqueid default="false" type="tmdb">1299734</uniqueid>
+  <uniqueid default="false" type="trakt">1236585</uniqueid>
+  <uniqueid default="true" type="tvdb">4462511</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>Lisa榕对曾小贤十分爱恋，曾小贤想借助领导对他的感情攀登事业顶峰，他对lisa非常排斥但又不敢得罪。两难的他计划赴约时让一菲前来帮助。不但无功而返，反而愈演愈烈。喝多了的美嘉吐了正在当人体雕塑的子乔一身。悠悠对吕布的饰演者十分喜爱，于是，身为编剧的她为吕布加了很多戏，内容也采用了那人的想法，后遭到了制品人的严厉批评，最终丢了饭碗</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2767</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S03E17.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="3"/>
+  </episode_groups>
+</episodedetails>

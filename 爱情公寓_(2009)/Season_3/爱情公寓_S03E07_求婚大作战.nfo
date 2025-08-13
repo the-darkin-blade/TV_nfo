@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:09:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>求婚大作战</title>
+  <originaltitle>求婚大作战</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>3</season>
+  <episode>7</episode>
+  <id>4391983</id>
+  <uniqueid default="false" type="tmdb">1299721</uniqueid>
+  <uniqueid default="false" type="trakt">1236350</uniqueid>
+  <uniqueid default="true" type="tvdb">4391983</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>展博把准备向宛瑜求婚的消息告诉了大家，并嘱咐千万不要告诉一菲。这次依然是悠悠，转瞬之间便将此事告诉给了一菲。一菲一不做二不休，立刻通知了母亲。正在度假的母亲打了架飞机来到了爱情公寓。展博求婚的事情让妈妈兴奋不已，并要求一菲也抓紧时间，和展博一起把“问题”解决了。这几天，一菲妈为一菲物色对象，吕子乔由于给她留下了美好的印象而被极力推荐。当推荐小贤时，一菲无奈借口他不是直男而拒绝，小贤躺着中了枪。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2767</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S03E07.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="3"/>
+  </episode_groups>
+</episodedetails>

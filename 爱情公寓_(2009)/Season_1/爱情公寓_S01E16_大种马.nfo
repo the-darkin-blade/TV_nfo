@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-13 21:50:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>大种马</title>
+  <originaltitle>大种马</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>4021891</id>
+  <uniqueid default="false" type="tmdb">1242455</uniqueid>
+  <uniqueid default="false" type="trakt">1235573</uniqueid>
+  <uniqueid default="true" type="tvdb">4021891</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>子乔的朋友弄丢了胡一菲的DV机，展博关谷等人都逃不了干系。子乔准备去DV遗失的游泳池找，刚换上夸张的泳装迎面而来的是他久违的四处游历回来的干爹----大仲马。父子相逢甚是欣喜，幽默的大仲马谈吐风趣，风度翩翩的他很快博得大家喜欢，子乔对此有些忧心忡忡。 一菲回来质问DV的事情，大仲马也在场，为了弥补子乔造成的损失大方地开给了一菲一张两万元的支票，除去DV费用其他捐献给一菲所在的学校。一菲大感大仲马的爽气，婉拒后收下，子乔怕大仲马拿出他的江湖骗术使诈，称老爹的未婚妻让大仲马立即离开与之结婚，大家一致阻拦子乔。大仲马为挽回信任，邀请一菲展博晚餐，并希望在晚宴上拿回支票…… 小贤是某杂志钻石会员，昂贵的订刊费用让其压力重重，在宛瑜的陪同下去杂志社退订，遭到杂志社工作人员百般刁难，不知精灵神勇的宛瑜是否能赢得这场口水战。</plot>
+  <runtime>48</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-13 21:50:11</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2891</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓_S01E16_大种马.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

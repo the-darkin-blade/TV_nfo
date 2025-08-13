@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>翻滚吧！展博</title>
+  <originaltitle>翻滚吧！展博</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>4</season>
+  <episode>4</episode>
+  <id>4772194</id>
+  <uniqueid default="false" type="tmdb">1299807</uniqueid>
+  <uniqueid default="false" type="trakt">1236845</uniqueid>
+  <uniqueid default="true" type="tvdb">4772194</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>关谷和悠悠决定一心筹备婚礼，并打算为所有事情设置优先级，但后来却为同等重要事情的优先级争吵起来。美嘉去医院验血时碰见了高中同学，只好向同学假称自己已经结婚怀孕。不料同学邀请她参加同学聚会，美嘉无奈只好让子乔假装成自己老公一起参加。同学聚会上，子乔在同学面前对婚礼浪漫的描述让美嘉感动不已，而子乔也在聚会之后回想起关于美嘉怀孕的某些线索。另一方面，展博想要加入 EIO 的决定受到了一菲的反对，一菲打算设置三重关卡来考验展博的基本素质。虽然开始时屡次失败，但是最终，展博的坚持终于说服了一菲。一菲决定放手，让展博自己在外独立闯荡；而有了一菲的支持，展博也变得更加勇敢。展博暂别爱情公寓，众人依依惜别。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2709</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S04E04.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="4"/>
+  </episode_groups>
+</episodedetails>

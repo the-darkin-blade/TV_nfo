@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-13 21:50:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>无聊的周末</title>
+  <originaltitle>无聊的周末</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>4021871</id>
+  <uniqueid default="false" type="tmdb">1242453</uniqueid>
+  <uniqueid default="false" type="trakt">1235489</uniqueid>
+  <uniqueid default="true" type="tvdb">4021871</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>这是一个无聊的周末。在大家的召唤下，小贤重新搬进了爱情公寓。美嘉和关谷帮小贤搬东西，发现了一个奇怪的生物！这个长相怪异的生物以非常惊人速度生长，还在公寓里四处乱窜…… 子乔依旧成天泡妞，在酒吧，在网上找寻他的猎物。一菲假扮网友从中作梗让其扑了一个空。这个周末，一菲没去和沈公子约会，而是和宛瑜开展了蛋炒饭厨艺争霸赛，正在等女生电话的让展博被一菲抓来担当裁判，两个争强好胜的女人加一呆板的男人，一场好戏就此展开。最后电话铃声响起，是Ada打来的，展博非常兴奋。子乔却自作主张地趁机想出了一个爆炸性的主意……</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-13 21:50:11</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2719</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓_S01E14_无聊的周末.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

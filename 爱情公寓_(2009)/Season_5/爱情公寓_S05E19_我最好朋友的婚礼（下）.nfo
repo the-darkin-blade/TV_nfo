@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>我最好朋友的婚礼（下）</title>
+  <originaltitle>我最好朋友的婚礼（下）</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>5</season>
+  <episode>19</episode>
+  <id>7535441</id>
+  <uniqueid default="false" type="tmdb">2063051</uniqueid>
+  <uniqueid default="true" type="imdb">tt11675960</uniqueid>
+  <uniqueid default="false" type="trakt">3932257</uniqueid>
+  <uniqueid default="false" type="tvdb">7535441</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>为了给悠悠赢得游戏中的辣椒酱，张伟被凹成各种羞耻的造型来保证wifi信号通畅。好不容易可以登机，张伟却在安检口被拦了下来。美嘉和咖喱酱终于找到了奥义卷轴，里面的内容却让关谷崩溃了。张伟一行人能否顺利登机？关谷和悠悠的婚礼能否按时举行？</plot>
+  <runtime>42</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2555</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S05E19.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="5"/>
+  </episode_groups>
+</episodedetails>

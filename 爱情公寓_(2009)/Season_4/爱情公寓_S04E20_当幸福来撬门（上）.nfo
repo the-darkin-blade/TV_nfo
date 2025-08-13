@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>当幸福来撬门（上）</title>
+  <originaltitle>当幸福来撬门（上）</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>4</season>
+  <episode>20</episode>
+  <id>4776997</id>
+  <uniqueid default="false" type="tmdb">1299823</uniqueid>
+  <uniqueid default="false" type="trakt">1237088</uniqueid>
+  <uniqueid default="true" type="tvdb">4776997</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>楼下酒吧说起圣诞夜那天有人冒充圣诞老人把圣诞树偷走，大家怀疑是曾小贤，一菲帮忙圆场。一系列的奇怪事件让众人都觉得一菲的桃花运就要来了。一菲想要弥补曾小贤，于是约他去会馆吃饭，并在网上购买礼物，可是都阴差阳错地没有成功，反而引出一串误会。另一方面，子乔声称自己结交了一位新的神秘女友，真实姓名都没有向子乔公布。对此，悠悠认为应该私下在网上人肉搜索，增进了解，而关谷却觉得应该保持一些个人的隐私空间。悠悠在网上搜寻资料时发现，子乔的这位女友曾经写过一篇可怕的博客，都是关于自己和前男友分手之后，前男友不幸在事故中身亡的事件。子乔得知后毛骨悚然。而一菲不小心把房间的钥匙也当礼物赠送给了曾小贤，不放心的她决定更换门锁。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2713</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S04E20.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="4"/>
+  </episode_groups>
+</episodedetails>

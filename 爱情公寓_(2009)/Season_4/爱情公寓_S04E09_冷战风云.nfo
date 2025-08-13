@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:10:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>冷战风云</title>
+  <originaltitle>冷战风云</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>4</season>
+  <episode>9</episode>
+  <id>4772200</id>
+  <uniqueid default="false" type="tmdb">1299812</uniqueid>
+  <uniqueid default="false" type="trakt">1236910</uniqueid>
+  <uniqueid default="true" type="tvdb">4772200</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>关谷在学校做美术老师，但在课堂上学生对日语的狂热追捧让他莫名其妙，好好的美术课变成了日语课。悠悠决定假装成旁听生，帮助关谷应对难搞的局面，但在学生们的怂恿下被迫带头起哄，使关谷极其气愤。最终悠悠的演技派上用场，终于感化了班上捣乱的学生们。美嘉在宠物店碰到了自己曾经帮助过的学生小峰，小峰对美嘉钟情，但是美嘉觉得小峰年龄比自己小，陷入尴尬。另一方面，一菲和曾小贤绝交之后，两个人一直处于冷战的状态，曾小贤接二连三的和解方式都不奏效。胡一菲逼迫张伟和子乔跟曾小贤划清界限，但曾小贤却用内衣秀的 VIP 收买了张伟和子乔。胡一菲看到曾小贤和子乔、张伟依旧缠在一起，张伟要向一菲道歉，结果意外使曾老师的脑袋卡在了门缝中。众人齐力解救曾老师，最终又意外让曾老师将一菲扑倒在地。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2617</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S04E09.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="4"/>
+  </episode_groups>
+</episodedetails>

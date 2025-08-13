@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-10 22:09:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>谁来一起晚餐</title>
+  <originaltitle>谁来一起晚餐</originaltitle>
+  <showtitle>爱情公寓</showtitle>
+  <season>2</season>
+  <episode>9</episode>
+  <id>4172625</id>
+  <uniqueid default="false" type="tmdb">1298916</uniqueid>
+  <uniqueid default="false" type="trakt">1235928</uniqueid>
+  <uniqueid default="true" type="tvdb">4172625</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>一菲考上了博士，恰逢男友沈临风休假，沈公子决定请大家吃饭，为一菲庆祝。然而，这一顿表面和谐的晚餐，却暗潮涌动。关谷看到沈临风前几天在酒吧与其他女生有暧昧，为一菲鸣不平。羽墨得知后决定亲自出马找到证据，向一菲袒露实情。而取证的过程却与她的设想截然不同。小贤大发醋意，不愿参与。于是子乔为他找来了性感律师 Sally 临时充当女友，以引起一菲的嫉妒。误解了 Sally 身份的小贤断然拒绝，由张伟欣然接替。可到了饭局当天，小贤又突然改变了主意。悠悠小施伎俩骗到了一菲的秘密，一菲勒令她不许泄密。心里憋不住话的悠悠试图靠疯狂吃喝来管住自己的嘴。正当场面即将失控之际，一菲自己开口了。</plot>
+  <runtime>48</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>JiangXi Television</studio>
+  <studio>iQiyi</studio>
+  <studio>Youku</studio>
+  <studio>上海电影（集团）有限公司</studio>
+  <studio>上海辛迪加影视有限公司</studio>
+  <dateadded>2025-08-10 22:08:56</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <durationinseconds>2936</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>爱情公寓S02E09.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="2"/>
+  </episode_groups>
+</episodedetails>
