@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 40 集</title>
+  <originaltitle>第 40 集</originaltitle>
+  <showtitle>飞虎神鹰</showtitle>
+  <season>1</season>
+  <episode>40</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3168737</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>陈恭鹏此时只能更加倚重燕双鹰了，张桥接到许莉莉电话，于是中断会议去和燕双鹰接头，燕双鹰告诉张桥老丁临死前交代，假钞模板每次都从南京到上海，也就说假钞铸模厂一定在南京。同时要求务必于次日晚前抓获李康。经过盘查找到了李康宾馆藏身之所，燕双鹰亲自出手，抓获李康，没想到这一切被王月目击。</plot>
+  <runtime>42</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>LeTV</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1278</width>
+        <height>720</height>
+        <durationinseconds>2574</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E40.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="40" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

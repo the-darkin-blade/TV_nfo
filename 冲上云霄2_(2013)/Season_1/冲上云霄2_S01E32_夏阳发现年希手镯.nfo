@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>夏阳发现年希手镯</title>
+  <originaltitle>夏阳发现年希手镯</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586998</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>Cadet Program的第一阶段完结，学员们将要到英国伦敦受训半年，众飞行学员欲在出发之前举办派对，更讨论是否邀请新晋的准空姐出席。性格正经的少雄坦言无意参加，而胡娉为了表示好感，秘密地为少雄送上了一杯咖啡，少雄经分析后得知是胡娉所赠，但却不明白她因何而做。胡娉看见少雄这种不知情识趣的性格，却也没有表示反感。
+
+志宏芮嘉　再燃火花
+
+志宏在和芮嘉发生过关系后，便拒绝了其他女性的追求。志宏和芮嘉一起买的那一对观赏鱼死了一条，当志宏深感孤独的时候芮嘉到访，原来碰巧芮嘉的一对观赏鱼也死了一条，故特地拿尚存活的一条送给志宏收养。志宏按捺不住自己的情感和芮嘉拥吻，芮嘉虽然受落，但却认为自己与志宏的暧昧关系不能继续下去。
+
+前往伦敦　受训半年
+
+胡娉借故在少雄前往英国受训前邀约他外出，并相约要保持联络。而同样地，子麟在出发前也和卓芝约定好，要互相寄送生活近照，让子麟能见证卓芝生儿育女的每个时刻。
+
+学员们登上往伦敦的班机，正好遇上准空服员进行实习，芮嘉作为导师与众学员同行，而家骏为了支持女儿也登上了班机。芮嘉在休息室无意中撞破日东和素心打情骂俏，得悉了他们关系的芮嘉竟没有介意，反而为两好友找到归属而高兴。家骏从芮嘉中得知一切后找日东谈话，并提出自己有意追求芮嘉，日东也表示支持。
+
+在飞行学员受训的半年间，亦风继续陪同祖思完成她的梦想清单，而祖思也十分珍惜和亦风共度的每个回忆。少雄和子麟也不忘和自己的心上人保持联络，而家骏也经常到芮嘉的家探望胡娉，亦借故接近芮嘉，三人间的感觉也愈来愈像一家人。以泰开始亲自驾驶飞机学习飞行，并由日东从旁指导，日东故意出题干扰以泰驾驶，但以泰也成功过关并得到日东赞赏，以泰也感受到飞行带来的乐趣和成功感。
+
+亦琛出手　考验年希
+
+另一方面，年希也开始了驾驶训练，而指导她的是亦琛，当亦琛见年希那副自信满满的样子，决定考验年希处理突发状况的训练。课堂完毕后，亦琛与年希邀约养女Zoe和年希母亲Manna在英国野餐，Manna与亦琛甫见面，便看穿他和年希现时的关系，Manna并寄语亦琛，指将年希交托给他。晚上年希和亦琛单独约会，在气氛的带动下，亦琛和年希在伦敦深情拥吻……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2652</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E32.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

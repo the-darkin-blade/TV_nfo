@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 21 集</title>
+  <originaltitle>第 21 集</originaltitle>
+  <showtitle>孤岛飞鹰</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281718</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰将日本兴亚院支持军队印制假钞的无耻勾当告知朱大姐，朱大姐非常震惊，并表示单单是摧毁一个印钞厂并不能解决假钞泛滥的根本问题，而是应该找到日本军队印制假钞的证据，公之于众营造世界舆论。燕双鹰请求朱大姐为其疏通一个火车站台，行动成功之后燕双鹰将会把日本人印制假钞的有力证据提供给共产党。三天后，燕双鹰和林小江扮成日军要员，在朱大姐提供的车站隆重接待了宫本庆隆。</plot>
+  <runtime>37</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1908</width>
+        <height>1080</height>
+        <durationinseconds>2257</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>21_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

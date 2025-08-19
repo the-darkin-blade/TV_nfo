@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦琛带夏晨认识苏怡旧友</title>
+  <originaltitle>亦琛带夏晨认识苏怡旧友</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586992</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>经过早前的评核后，亦琛终成为Training Captain，亦风及卓芝等为亦琛庆祝，特意在家中开派对玩乐，志宏带来了一位参加者，原来就是已和卓芝分手的世沛。原来世沛早前因怕尴尬而没有在卓芝回港时探望她，因此借亦琛升职的机会，特意来与卓芝见面。卓芝因不舒服回房休息，世沛因担心进房探望，两人互诉近况之后，双方亦了解虽然不能成为夫妻，但大家还是能互相照顾的朋友。
+
+亦琛考核　学员能力
+
+Cadet Program正开始进入模拟飞行的训练，但是在进入电脑模拟飞行前，亦琛却先安排学员以单车模拟飞行及降落，亦琛指学员驾单车时，亦需要同时回答亦琛提出的飞行指示。初时均自信满满的学员在经过实际操作后，全都感受到自己的实力实际未成气候，惟独是少雄在测试中表现良好，更得到亦琛称赞。
+
+祖思亦风　酒吧消遣
+
+祖思以亦风曾在三亚救助自己，及请教他教导掷飞镖为名，邀约刚下班的亦风往酒吧消遣，两人在酒吧中却遇上占卜师，亦风问占卜师有关机长试的事，得到了好的兆头。但当轮到祖思后，祖思却怕得连牌也不敢打开，令亦风觉得祖思在隐藏心事。
+
+亦风回家后想起了夏晨，并拿出了她在法国完成的肖像，此却被路过的亦琛发现。亦琛意识到亦风对夏晨有爱意，只是因为亦风在意自己的感受才一直停滞不前。
+
+亦琛突然　约会夏晨
+
+婚姻介绍所的小仪又再邀约亦琛吃晚饭，亦琛也向小仪倾诉此问题，而小仪看穿亦琛还是会逃避相貌酷似苏怡的夏晨，所以教亦琛要面对夏晨。亦琛接受了小仪的意见，主动找夏晨见面，当亦琛确定了夏晨亦对亦风有意之后，便直接向夏晨提出约会的请求。虽然亦琛此举相当唐突，但夏晨终也答允了。
+
+亦琛为与夏晨的约会而制作蛋糕，年希见状也要求亦琛教她做蛋糕，也不断追问蛋糕是要做给谁人，但亦琛却没有回答。
+
+夏晨得知　苏怡点滴
+
+亦琛与夏晨相约在Skylette的咖啡厅见面，而亦琛也将亲手做的蛋糕送给夏晨。虽然夏晨勉强吃了几口，但原来夏晨并不喜欢吃甜食，亦琛得知后却没有因此不高兴，反而觉得自己开始了解夏晨而感到愉快。亦琛特意带夏晨到苏怡生前工作的地方，并和认识苏怡的同事见面，夏晨亦开始了解苏怡是一个怎样的人……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E26.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

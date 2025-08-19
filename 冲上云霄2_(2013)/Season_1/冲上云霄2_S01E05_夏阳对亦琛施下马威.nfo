@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:01:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>夏阳对亦琛施下马威</title>
+  <originaltitle>夏阳对亦琛施下马威</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586970</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>夏晨是在Skylette任职的飞机维修员，在公司深受同僚的尊敬及信赖，为了飞机的安全，就算冒着让同僚反感的风险都会不断地对飞机加以检查，是个认真而精细的维修员，但其外貌与亦琛死去的妻子苏怡十分相似。虽然夏晨性格倔强认真，但和同事之间相处融洽并得到信赖，甚至将自己的家分租给Skylette的同事和空姐，并经常照顾他们的起居生活。
+
+欲求真相　众人问卜
+
+夏阳在维修部的同事口中收到消息夏晨已回来Skylette，便在维修机坪等待夏晨，并预备好在法国买来的润手霜做礼物，但是夏晨与夏阳碰面后，她却表现得冷淡。
+
+之后亦风在机场工作时再一次看见苏怡的身影出现在机场，感到害怕困惑的亦风接受了卓芝众人的提议，使用类似碟仙的占卜工具「Spirit Board」去找寻答案。当众人正问到重点的时候，却被下班回家的亦琛打断了话题。当亦琛回房间休息后，卓芝问亦风为何不说给亦琛知道在机场见到苏怡，原来亦风不想影响到亦琛的复职试才故意隐瞒。
+
+亦风担心　兄未忘情
+
+之后夏阳为了与夏晨见面，便借故以洗手间未修理好的理由传唤夏晨，也因此让亦风撞见，亦风因此知道夏晨并不是苏怡外，并得知夏阳和夏晨的关系非比寻常。亦风回家，不断试探在预备明天复职飞行的亦琛，最后在亦琛的质问下，亦风终于说出了夏晨的事情，并问及亦琛是否仍未能放下苏怡。虽然亦琛表达出做人应该向前看的观念，但是听在耳里的亦风和卓芝还是觉得担心，怕亦琛根本还未忘情。
+
+夏阳处处　挑战亦琛
+
+就职飞行当日，Skylette的同事都特地和亦琛打招呼，夏阳甚至特地调动自己的班次，就为了能与亦琛同机，但是夏阳在派遣中心开始，便不时去质疑亦琛的决定。
+
+飞机起飞后在途中遇上了军事演习，夏阳当众指出亦琛的决策太保守，但亦琛认为自己是以飞行安全为第一考虑，却因为亦琛凡事照足程序的行动，令空姐不能拿到额外的交通费，夏阳也特地做司机接送他们回家，夏阳这样做明显是在暗嘲亦琛。在外人看来，夏阳是担心亦琛加入会动摇自己在Skylette的地位，所以才处处针对亦琛。
+
+夏阳搬来　要求同住
+
+之后夏阳一直也没有放弃过和夏晨见面，但夏晨却不断地逃避夏阳，最后夏阳只有利用和空姐们的关系，入住夏晨的家中…</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2657</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E05.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

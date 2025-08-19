@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 36 集</title>
+  <originaltitle>第 36 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>36</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281677</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在没有麻药和手术刀的情况下，燕双鹰凭着惊人的毅力要求进行手术，孙医生用燕双鹰的刀顺利取出子弹，燕双鹰的性命得以保住。几天的朝夕相处以及生死经历，使得莎莉对燕双鹰的感情慢慢起了变化，然而燕双鹰仍然与其保持距离。此时在宜宾军管会，吴玉霞手下的突击队长给她送来一件东西，说是在王连顺的军服口袋中找到的。吴玉霞拧开后发现了严森给王连顺的指令，意识到自己上了敌人的恶当冤枉了燕双鹰。随后她召开会议，对自己的严重错误懊悔不已，而且其余领导也都反省了自己的工作，吴玉霞提出当下的四项工作，一是取消对燕双鹰的通缉，二是追查王主任身份，三是抚恤死去战士的家属，四是将赵铁钢调入风雷小组。此时的老板与其下属秘密藏身于歌乐山被废弃的防空洞里，这里不仅有他们的特务老巢，还有一间病毒实验室，佐藤等731部队的日本研究员正在此处研发并制造新型病毒，它比二号病毒更易传播和扩散。黑狼带着雅琴三人回到基地，没有处理掉燕双鹰的他令老板非常失望。老板要求赵雅琴按照他们的要求制造炸弹，赵雅琴和林玉仙正义直言，宁死不屈，老板下令枪毙两人。</plot>
+  <runtime>38</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2339</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep36_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="36" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

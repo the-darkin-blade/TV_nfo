@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:32 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第39集</title>
+  <originaltitle>第39集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>39</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187936</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>包拯质问包勉为何犯案，包勉反问两人同喝其母的奶水长大，为何会有不同的人品。艾虎随朱瑛等人回到盐帮，仍查不出施打暗器之人，显示包勉并非杀人灭口的对象，艾虎急回衙向包拯表明包勉清白，岂料包拯表示这也代表包勉可能就是主使者，自然不会杀自己灭口。嫂娘探视包勉，包勉表示死无对证，唯有请三叔包拯办案，包拯以不在其位不愿干预，只应允借调卷宗查看疑点，庞太师趁机向仁宗请求将包勉一案交由包拯亲审，欲令包拯公私两难。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered>1083-05-09</premiered>
+  <aired>1083-05-09</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2588</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep39-40.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="39" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第40集</title>
+  <originaltitle>第40集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>40</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187937</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>庞太师设下圈套，包拯左右为难：若判包勉无罪则为循私，若包勉有罪则须叔侄相残，又将被批为沽名钓誉罔顾人伦，包拯在芸儿开解下。展昭持续追查使用子午断魂钉之凶手，终逼唐飞现形，并欲杀朱瑛等人灭口，幸艾虎及时赶至相救，可惜未能留下唐飞活口。证据不足下，包勉被判无罪。铁荣发现萧锋账本，查出收受赃银均有暗记，此时包拯竟在嫂娘行李中发现铸有同样暗记的银两。包拯将包勉再次下狱，这次罪证确凿，铡包勉势在必行。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered>1083-05-09</premiered>
+  <aired>1083-05-09</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2588</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep39-40.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="40" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

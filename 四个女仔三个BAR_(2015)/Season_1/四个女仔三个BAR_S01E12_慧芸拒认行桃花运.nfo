@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:03:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>慧芸拒认行桃花运</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>四个女仔三个BAR</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3188649</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>众女陪可欣到婚礼场地参观，仲衡心不在焉，手机不离手。仲衡趁可欣不在，要求梓博代接阿清来电，替他撒谎。
+
+智毅看见妻子带回一份礼物，盒内是一个镶有相片的相架，慧芸谎称是赠品。智毅在健身室狂操练，隽烨猜与慧芸有关，话题一下子转到有法官约会妁彤，隽烨大为紧张，智毅坦言隽烨着紧妁彤，大可重新追求她。隽烨却谓决定权不在他，他透露送了妁彤鲜花对方亦没反应，又慨叹当年与妁彤交往，妁彤介意他已结婚，至他与前妻离婚，妁彤却与自己分手，隽烨又重提智毅与法庭版记者Amber的旧事。
+
+眼角瘀黑　婚事难成
+
+隽烨问智毅会否与对方发展，智毅坚决的表示不会，还谓当年只是一个意外，他不会让意外出现第二次。
+
+可欣催促森木替她择吉时出门，森木借故拖延，却对慧芸说可欣眼角的夫妻宫瘀黑，恐她的婚礼会有阻滞，又指红粉绯绯的慧芸才像行桃花运，慧芸责森木乱说。
+
+可欣试新娘化妆时仲衡来电，便请靖姿代为接听，仲衡不满靖姿接听可欣的电话，语气极不友善的表示没空到来陪可欣试妆。靖姿骗可欣说仲衡母亲家爆水管，所以仲衡不能前来，可欣失望。午膳时，靖姿接到翠花的减肥秘笈，把内容改为养生秘笈，以黑天使的身分传给梓博。
+
+戏弄梓博　靖姿偷笑
+
+梓博照着黑天使的短讯做，一边吃饭一边用左手按右耳，他还教安居一起做，靖姿在旁偷笑。梓博把汤给靖姿饮，安居指他借母亲的老火汤追求女生。
+
+安居与达勤处理一案件，控方律师及何官都认为影像模糊不清的片段不宜作呈堂证据，但安居坚持把有关的闭路电视录影片段呈堂，何官不耐烦。智毅与两徒及森木研究百通与韵诗的电话短讯内容时，四人先后接到展信来电介绍基金产品，刚好拿文件过来的紫凝知道后，立即致电展信。
+
+妁彤轻易　打发展信
+
+紫凝接到贯东来电投诉，要求女儿通知展信不要再打电话给他。紫凝发现妁彤正与展信通电话，示意妁彤不要理睬展信，妁彤却答应与展信见面，并邀紫凝同往。展信向妁彤介绍基金，更欲跳过金管局的规管条例，替妁彤即时落单，被妁彤拆穿。妁彤指紫凝不似那么容易受骗的人，紫凝直认自己不够醒目，又坦言之前以为妁彤很冷漠，但发觉并非如此。
+
+森木与慧芸招待银行客户午膳，花了数千元，慧芸觉得花费太大，提出开源节流……</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-20 00:03:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2718</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E12.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

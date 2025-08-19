@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>Cadet学员顺利毕业</title>
+  <originaltitle>Cadet学员顺利毕业</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5587001</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>夏阳借故支开了亦琛，邀年希单独前往高雄的海边，夏阳直接向年希问及分手原因，并直言性格刻板正经的亦琛并不适合年希。年希听罢没有动摇，反向夏阳说出以前与夏阳的感情已经完结。想不到夏阳并没有放弃，更即时拿出了在法国锁桥所取得的手镯给年希看，年希看后大感愕然。
+
+夏阳正欲将手镯重新戴在年希手上，但年希猛然醒悟，并转身逃离了夏阳。年希在逃走的途中遇上亦琛，年希将亦琛紧紧抱着，而亦琛也以甜言蜜语安慰年希。从后跟随年希的夏阳看见此情此景，知道了年希的选择，只有无奈地转身离开。
+
+卓芝出现　鼓励子麟
+
+子麟积极地为补考备战，当自己感到疲累的时候，便看着笔记上卓芝画下的涂鸦，为自己打气。看到卓芝时，子麟提出希望卓芝可以在补考前前来鼓励自己。子麟开始应考，但并没有集中精神的他不断地望向窗外，直至卓芝出现才定下心来完成考试。子麟自信满满地离开考试房间，准备直接参加港队的游泳比赛，这时卓芝则突然跳出来，更扮成「飞天女猪侠」为子麟打气。
+
+格志努力　讨好爱苹
+
+爱苹和祖思在街上闲逛，巧遇驾车经过的格志和华特，格志因为照顾爱苹，便不理华特的意见接送爱苹和祖思回去夏晨的家。
+
+在夏晨家中，格志知道了爱苹喜欢的偶像组合来香港，便为她花费时间和金钱为她取得门票。但格志单方面的关怀和付出却吓怕爱苹，不敢去接受格志的好意，更将门票送给祖思自己到酒吧消遣，却因此巧遇华特。
+
+祖思发现　亦风手绳
+
+另一方面，祖思得悉亦风的手绳不见了，亦风辩称在街头遗失了。但当祖思到夏晨房间帮忙时，却在夏晨房内找到了亦风的手绳。夏晨看见祖思发现手绳时，却像有事隐瞒般把手绳收了起来，令祖思感到相当困惑。
+
+鼓起勇气　表达心意
+
+子麟除通过了考试外，也顺利在比赛中得到金牌，也将金牌送给了卓芝表达心意。
+
+Cadet Program的所有学员终顺利毕业，正式可以在民航机上工作。另一方面，日东也将转到民航处就职。
+
+当以泰完成课程后，竟主动到维修部找夏晨，并向她提出想回归维修部。夏晨听后没有感到高兴，反而拒绝以泰提议，并向他说出，指以泰应努力正式成为机师后才再作决定，以免以泰日后感到后悔。
+
+年希不满　搞地下情
+
+年希与亦琛碰巧在同一班机工作，但年希却因为亦琛而心不在焉，就算在机上也频频出错，令工作认真的亦琛气结…</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2656</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E35.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

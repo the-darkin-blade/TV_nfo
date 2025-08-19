@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 32 集</title>
+  <originaltitle>第 32 集</originaltitle>
+  <showtitle>大漠枪神</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310892</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰、高进设计让老大现身，原来老大就是部队里的司务长王松。也正是高进怀疑的奸细。燕双鹰、高进、孙四海带队夜袭山寨，慢慢向内靠近。小玲、大莲、林雪从洞口逃出被大刀步鹰再次抓到，步鹰利用她们三人引来燕双鹰，燕双鹰见到站在三人背后的步鹰，步鹰告诉他七年前，就是因为他，小渊死了，如果日本人知道了步鹰和小渊偷卖军火，一定会杀死他，而共产党，要是知道步鹰是叛徒，更不会放过他。因此，在那种情况下步鹰必须死，而且，要死在燕双鹰手里。此后，步鹰再度控制老刀把子。步鹰在山寨里埋下了很多炸药欲杀所有人，大莲嫉妒小玲想与她同归于尽，小玲拼死咬断炸药引线救了大家，大莲也死在了林雪的枪下。老伙计墓旁，燕双鹰告诉步鹰自己要参加解放军，两人殊死搏斗，而步鹰最终死在了燕双鹰的枪下。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1080</height>
+        <durationinseconds>2776</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>E32_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

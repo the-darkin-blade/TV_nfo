@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>初见偷看日熙手机</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>爱我请留言</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1504896</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>2009年9月9日，电视台记者茹初见在集体结婚的现场采访完毕，收到一个有关「天下无双」的短讯。初见在朋友的婚宴中认识张日熙，日熙嘲笑想出要求新郎的好友高唱天下无双的人无聊，而提出此意见的人正是初见。日熙知道初见胃痛，给她送上一粒朱古力。
+
+初见被急召往报道一宗四级大火的新闻，目睹生离死别。初见在海旁徘徊，与乐天送擦肩而过。大雨下初见无法叫停的士，在的士上的天送邀请她上车一同离开。日熙发了多个短讯给初见，还有留言，初见心急收听，但手机没电，她发现天送的手机与她的相同，便向天送借用电池。
+
+柳娟怀疑　男友不忠  初见因感火灾造成很多人来不及说一声再见，决定把握自己仍「来得及」的机会，给日熙回了电话。转眼已到了2013年，在初见与日熙「拍拖」四周年纪念日的早上，初见查看手机，却没收到男友任何讯息。
+
+天送因女儿乐悠悠尿床，迟了将悠悠交付给保母卢爱林。爱林是初见的母亲，初见因爱犬「009」病了，也请爱林带009往见兽医。
+
+初见现已是一巧克力连锁店的市场部经理，她的好友兼同事宋柳娟怀疑男友不忠，经常偷看对方手机，初见劝柳娟直接问清楚男友。广州分公司派来的实习员在办公室受训两星期后，会被派到柳娟负责的分店，柳娟向初见埋怨店内走了一位高级职员，却给她一个实习生。  边看边走　跌伤肩膀
+
+午饭时，柳娟仍忙于追踪男友及她的疑似情敌是否在线上，初见一再指她不应如此不信任男友，柳娟谓自从看了第一次后便不能自拔，又认为初见与日熙甜蜜温馨，毋须追踪男友的手机上线情况，所以不会明白她的心情。初见找不到手机，开会前终想起午饭时遗留了在盛宴餐厅的洗手间内。  天送到四年前火灾现场献上菊花，然后匆匆赶到爱林的家接女儿，悠悠放学后不停地哭。初见到餐厅取回手机后急不及待查看，她边看边走，结果跌倒，撞伤了肩膀。
+
+及时补救　初见心软  爱林发现初见的手不妥，问她发生了甚么事，又记得是女儿拍拖纪念日，知道初见要与男友出外庆祝。但实际上，初见一整天也未收到日熙任何讯息，她只好带009到楼下的公园漫无目的地逛逛。
+
+悠悠终于冷静下来，告诉父亲自己没有吃掉老师上星期派给她，要她好好保管的棉花糖，但当悠悠回校后却找不到棉花糖，因而被姚校长斥责她不守信用。… ...</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1332</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Swipe.Tap.Love.Ep01.20140331.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Swipe Tap Love 20140331 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>爱我请留言</showtitle>
+  <season>1</season>
+  <episode>331</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1332</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Swipe.Tap.Love.Ep01.20140331.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="331" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 16 集</title>
+  <originaltitle>第 16 集</originaltitle>
+  <showtitle>大漠枪神</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310873</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小玲精神崩溃最终醒来，完全不知道自己因人格分裂产生了另外一个自我而做了杀手。小玲被步鹰完全控制。老刀把子已经安排好杜奇一定要杀死燕双鹰。小玲醒来发现燕双鹰已经不再了。燕双鹰临走前留下字条告诉小玲自己仍放不下理惠并让小玲忘了他。荒山丘陵，杜奇带着七、八个人埋伏欲杀燕双鹰，枪声响起，燕双鹰头部受伤。小玲伤心欲绝。一个月后，在一户村民家门口发现失忆沦为乞丐的燕双鹰，好心的大莲和大莲爹收留了燕双鹰并给了他一顿饱饭。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2735</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>E16_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

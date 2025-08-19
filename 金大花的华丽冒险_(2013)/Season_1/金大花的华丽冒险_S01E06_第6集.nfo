@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第6集</title>
+  <originaltitle>第6集</originaltitle>
+  <showtitle>金大花的华丽冒险</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>4565186</id>
+  <uniqueid default="false" type="tmdb">911313</uniqueid>
+  <uniqueid default="false" type="trakt">919446</uniqueid>
+  <uniqueid default="true" type="tvdb">4565186</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>大花即将代替亮妍进设计部上班，公司里每个看似亲切的笑脸背後，究竟各怀什麼鬼胎。大花能安然过关。少了大花，冠军的心里总觉得空空的。偏偏晓菲就是看中冠军，一再地缠着冠军，还直言冠军就是喜欢大花，冠军能认清自己的心意。大花听说金妈受伤，硬是要欧阳泰带她回家看看。孝顺的大花终於能回家，面对挂心的妈妈、爸爸、大利，还有朝思暮想的冠军哥，她能沈住气，在家人面前当个陌生人。金标老大为了土地建案，要小刀堵欧阳泰回来办公室聊聊，并挟持大花当人质。危急之时，冠军和大利正好送货经过，冠军会挺身而出吗。欧阳泰能尽释前嫌，和冠军一起救出大花。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-08-19 23:55:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2700</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[壹高清]金大花的華麗冒險.King.Flower.Ep06.1080I.Hdtv.H264.2Audio-Onehd_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

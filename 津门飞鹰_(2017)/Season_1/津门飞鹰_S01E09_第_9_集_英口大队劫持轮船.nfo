@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 9 集 英口大队劫持轮船</title>
+  <originaltitle>第 9 集 英口大队劫持轮船</originaltitle>
+  <showtitle>津门飞鹰</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310925</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰向郭大路发牢骚，没想到冯文朗竟然怀疑自己，国军最大的弱点就是互相猜忌，才导致被共军全歼，郭大路也感同身受，多亏燕双鹰及时赶来，他不是被乱枪打死，也会成为共军的俘虏，燕双鹰觉得冯文朗不会善罢甘休，没想到自己一路上出生入死，最后竟然会被自己人算计，郭大路气得咬牙切齿。与此同时，英口大队准备今晚采取行动，并进行了周密的安排，时间是三十分钟，挟持船长改变航道，再设法擒住国民党的军官，士兵们就会乖乖就擒。英口大队的日军开始行动，先佯装喝醉杀死了巡逻的国民党士兵，燕双鹰听到有人惨叫声，郭大路要杀死关押的共产党间谍云建明，替燕双鹰出气，还和燕双鹰兄弟相称，燕双鹰担心他会惹上麻烦，郭大路才不管冯文朗，立刻赶回去击毙共产党，然后再宣布他是畏罪逃跑了，云建明反复声明自己是党国忠良，燕双鹰才是共产党，郭大路只知道燕双鹰救了自己的性命，才不关心谁是共军，云建明气得无语，他宁可死在燕双鹰手里，也不甘心死在郭大路手里，就在这时候，英口大队冲进来，郭大路顾不上云建明，和日军战在一处。
+
+高进听出枪声不对，立刻赶过去增援，与日军展开激战，日军火力强劲，高进他们且战且退。英口大队的日军挟持了国民党的团长，并把他铐起来，又把其余两个营长也一举捉获，然后一起去下面的货仓和岩本汇合。日军长官带队偷偷潜入驾驶舱，挟持了船长，并打死了试图逃走的船员，燕双鹰意识到日军开始行动了，赶忙过去增援。
+
+英口大队还把警卫室的国军也一举歼灭。郭大路他们很快就没有子弹了，多亏高进带人及时赶来，可是日军火力太猛，高进想击毙云建明，他赶忙躺在地上，躲过一死，高进和郭大路汇合在一起来救叶琳娜和叶母，冯文朗只关心被关起来的共产党谍报员云建明，遭到叶琳娜的指责。叶琳娜想起燕双鹰曾经说过船上有日本人，断定是他们劫船。英口大队把船舱的旅客都赶到走廊里，要把船开到日本，旅客们强烈反对，被他们击毙，国民党团长被英口大队挟持，命令士兵们都把武器交出来，任凭他们处置。</plot>
+  <runtime>38</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1078</height>
+        <durationinseconds>2295</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>09_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

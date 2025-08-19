@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 25 集</title>
+  <originaltitle>第 25 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281665</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>洪雪儿等人找到了燕双鹰等人所在的旅店——通达旅社。燕双鹰准备展开行动，并请赵雅琴代发一封机要电报，而这一切，被跟踪两人的林玉仙看在眼里。为了引蛇出洞，燕双鹰只身回到通达旅社。伙计说有两拨人来找过他，后来的那位先生留给他一包烟，燕双鹰大喜，这包烟正是五号情报员与其通信的泰山牌。李瑞山洪雪儿等人开着汽车一路追踪燕双鹰，燕双鹰将计就计上了汽车。就这样，隔空争斗的燕双鹰和老板终于再度会面了。两人表面和气，实则暗流汹涌。燕双鹰对老板几番试探，当众揭穿老板的谎言，嘲讽他对于程汤的不信任，并谴责他为了两党之争无视国人性命的歹毒行径。老板无话可说，只得答应燕双鹰的条件，释放锦玉景标和如常以换回货物。赵雅琴按照燕双鹰的嘱咐进城发电报，林玉仙一路跟踪。雅琴发完电报离去后，林玉仙使计从邮局工作人员那儿取回电报单，她看完后大吃一惊。从电报的内容分明就可以判断出燕双鹰就是共产党！</plot>
+  <runtime>40</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2429</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep25_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

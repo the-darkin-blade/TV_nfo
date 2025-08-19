@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第3集</title>
+  <originaltitle>第3集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187900</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>庞昱苛扣赈粮侵吞赈银，陈州通判林丰忍无可忍欲上报朝廷，反被庞昱嫁祸打入大牢。即将退休之牢头田忠见林丰为官清正，甘冒奇险上京向王丞相通风报信。皇上查知后，下令包拯即日至陈州查赈。庞太师担心包拯刚正不阿，将对其子庞昱不利，要求女儿庞妃向皇上进言改派他人前往陈州却已不及。庞太师唯有传信提醒庞昱，岂料庞昱有恃无恐，竟令知州蒋完将林丰立即处斩，杀人灭口，以绝后患。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>1080-04-03</premiered>
+  <aired>1080-04-03</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep03-04.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第4集</title>
+  <originaltitle>第4集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187901</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>公孙策献计要包拯向仁宗求得“御札三道”，并按此谐音做成龙、虎、狗“御铡三刀”，上斩仗势欺人的权贵奸臣，下除鱼肉乡民的恶霸，仁宗在王丞相建言下恩准赐刀并下旨特准先斩后奏之权，包拯一行当即出京，包拯抵达陈州查赈，展昭来见告知林丰之事，包拯见展昭多次拔刀相助，感佩之余更有意纳为旗下。展昭不愿被江湖人说他沦为官府鹰爪而婉拒，公孙策向展昭说之以理、动之以情，展昭表示将看包拯如何处置庞昱后再做决定。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>1080-04-03</premiered>
+  <aired>1080-04-03</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep03-04.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

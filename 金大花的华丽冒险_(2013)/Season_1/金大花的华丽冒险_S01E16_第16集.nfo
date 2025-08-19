@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第16集</title>
+  <originaltitle>第16集</originaltitle>
+  <showtitle>金大花的华丽冒险</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>4565196</id>
+  <uniqueid default="false" type="tmdb">911324</uniqueid>
+  <uniqueid default="false" type="trakt">919456</uniqueid>
+  <uniqueid default="true" type="tvdb">4565196</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>欧阳泰对大花坦白已将亮妍逝去的事实告诉杜董，后续问题将由自己承担，决定送大花回杂货店做原本的自己，面对大花远去的模样，使欧阳泰忆起与大花相处的过往，最终决定向她表白，却也只能依依不舍地放她离开。失去女儿的打击让杜董无法原谅与释怀，大花带着养生粥拜访杜董，向他解释欧阳泰因为失去亮妍内心痛苦不已，并坦承自己为了还清父亲的赌债，才会选择改变容貌扮演亮妍，两人承受着欺瞒所有人的罪恶感，希望获得杜董的原谅。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-08-19 23:55:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[壹高清]金大花的華麗冒險.King.Flower.Ep16.1080I.Hdtv.H264.2Audio-Onehd_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

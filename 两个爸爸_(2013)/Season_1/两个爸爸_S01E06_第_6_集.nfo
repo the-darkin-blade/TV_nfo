@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 6 集</title>
+  <originaltitle>第 6 集</originaltitle>
+  <showtitle>两个爸爸</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>4648794</id>
+  <uniqueid default="false" type="tmdb">2584666</uniqueid>
+  <uniqueid default="false" type="trakt">1264934</uniqueid>
+  <uniqueid default="true" type="tvdb">4648794</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>映帆误会翔希和静竹有暧昧，她故意试探翔希。翔希接温蒂放学时突然接到客户电话，他无奈下请求映帆接温蒂放学。温蒂放学后没有人来接，在振华的请求下静竹送温蒂回家。映帆来到温蒂家，她以女主人的口吻向静竹道谢。振华、静竹和温蒂在一起做晚餐，气氛温馨犹如三口之家。趁静竹接电话时，温蒂独自溜出家门，静竹寻人时不小心从楼梯上摔下去。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sanlih E-Television</studio>
+  <studio>EBC Drama</studio>
+  <dateadded>2025-08-17 22:15:45</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2745</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>J2.Two.Fathers.Ep06.Hdtv.1080I.H264.Ac3-Hdwtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

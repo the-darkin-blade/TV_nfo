@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>武媚娘失宠淋雨生病</title>
+  <originaltitle>武媚娘失宠淋雨生病</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id>5097929</id>
+  <uniqueid default="false" type="tmdb">1040335</uniqueid>
+  <uniqueid default="false" type="trakt">1698971</uniqueid>
+  <uniqueid default="true" type="tvdb">5097929</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李世民终于来见媚娘，同意让媚娘再跳《兰陵入阵曲》。媚娘满怀期待赴约，却看到李世民与徐慧共舞，李世民用绝情的话伤了媚娘，伤心绝望的媚娘于大雨中跑向净初池。 徐慧看出李世民为媚娘痛心，向李世民表白。然而当媚娘投湖自尽的消息传来，李世民抛下徐慧去找媚娘。徐慧嫉妒成狂。 杨妃召集太医为媚娘诊治，李世民用自己的身体温暖媚娘。韦妃暴怒。 媚娘被救回来，杨妃向媚娘欺瞒了李世民救她的真相。李世民为救媚娘，身染寒疾，媚娘跪求王德，让他放自己去见李世民，媚娘见到李世民，向他袒露心迹。 魏王府庆祝《括地志》书成，称心陪太子在酒楼买醉。太子回想与李泰昔日手足之情，冲动下跑去魏王府闹事。 李世民梦到武媚娘带着驯服的狮子骢找他，并恳请他一起离开长安城。醒后让王德宣武媚娘在骊山之行陪驾。 徐慧得知自己并没有随行，十分失望。又得知武媚娘也随行，顿时吃了一惊。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2680</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep24 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

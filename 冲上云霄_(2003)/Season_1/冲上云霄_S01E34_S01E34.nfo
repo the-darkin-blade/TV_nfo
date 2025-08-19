@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>苏怡向亦琛提出分手</title>
+  <originaltitle>Episode 34</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id>4328877</id>
+  <uniqueid default="false" type="tmdb">1982472</uniqueid>
+  <uniqueid default="false" type="trakt">1851348</uniqueid>
+  <uniqueid default="true" type="tvdb">4328877</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>苏怡在罗马买下一对情侣指环，欲送赠亦琛，但中途却晕倒街头。在模糊中苏怡幻觉自己会病发身亡，亦琛伤心欲绝，苏怡惊醒急忙往找亦琛，亦琛见她面色大变，向她问过究竟，她却秘而不宣。在回程机上，二人遇上一对情侣叮当和大雄，大雄欲向叮当求婚，苏怡送上之前所买的戒指，亦琛奇怪她何时买了戒指。
+
+苏怡病情恶化，她不欲亦琛担心，拒绝入院治疗。苏怡无意中把亦琛给以珊所买的画册拿回家，亦琛将画册送给以珊，苏怡始知道画册是属于以珊。善波与嘉露谈论起亦琛与以珊的缘份，善波害怕苏怡与云志的下场一样，劝苏怡与亦琛分手。
+
+唐璜因病送院，亦琛和亦风探望才知他患上性无能，但他羞于向妻儿坦白，才故意让佳美离去，亦琛明白父亲的苦衷，暗中通知母亲回港照顾父亲。佳美回来向丈夫坦承爱意不改，愿陪他长相厮守，夫妇和好。
+
+亦琛获准重飞，与苏怡庆祝，苏怡却提出分手，亦琛不明所以，并将缘份公仔寄回以珊。嘉露告知以珊，亦琛与苏怡分手一事，以珊心情复杂。亦琛首航罗马，以珊同行，机上有乘客偷偷吸烟，导致机舱洗手间起火，亦琛以安全为由，决定折返。机上乘客大惊，空姐们无力安抚，亦琛也束手无策，以珊站出来表明绝对信任亦琛等机组人员，希望乘客能信赖他们，乘客终被以珊打动，飞机顺利降落。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1574</width>
+        <height>1080</height>
+        <durationinseconds>2669</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E34.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 25 集</title>
+  <originaltitle>第 25 集</originaltitle>
+  <showtitle>两个爸爸</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>4648814</id>
+  <uniqueid default="false" type="tmdb">2584706</uniqueid>
+  <uniqueid default="false" type="trakt">1265336</uniqueid>
+  <uniqueid default="true" type="tvdb">4648814</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sanlih E-Television</studio>
+  <studio>EBC Drama</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2713</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>J2.Two.Fathers.Ep25.Hdtv.1080I.H264.Ac3-Hdwtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

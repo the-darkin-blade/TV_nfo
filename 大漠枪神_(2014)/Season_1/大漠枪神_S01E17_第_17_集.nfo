@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 17 集</title>
+  <originaltitle>第 17 集</originaltitle>
+  <showtitle>大漠枪神</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310874</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>王英和大莲收留了燕双鹰，给他取名李大喜，有人问起便说是姥家外甥。梳洗后的大喜已不是那个胡子拉碴、满脸是泥的乞丐，而是个威武英俊的年轻人，大莲竟看呆了。不由得喜欢上大喜。大喜脑中回闪着一些以前支离破碎的画面。小玲一直在寻找燕双鹰的尸体，但一无所获。土匪马大炮的山寨里，大家议论着被中央军收编是好是坏。这时，大难不死的沈七七门外进来，众人称他为七爷。沈七七建议马大炮接受收编，第二天马大炮派人迎接特派员小玲。此事也被老刀把子知道。松林中，两个流氓欲欺负大莲，大喜刀锋飞快、如闪电般制服了流氓，并开枪打死了其中的一个，大莲惊讶不已。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2747</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>E17_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

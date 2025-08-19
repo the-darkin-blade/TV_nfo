@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:01:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>航班延误亦风被召见</title>
+  <originaltitle>航班延误亦风被召见</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586976</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>自从夏晨为以泰争取医药费后便被福照针对，除了不让她协助维修飞机外，更指派她做其不擅长的文件工作，通宵达旦让夏晨日益疲劳。亦风得悉后虽然着夏晨休息，但夏晨却执意要完成福照交带的工作，亦风知道自己屡劝无效，便在家中带来了损坏了的电器，着夏晨协助维修，目的就是让夏晨能拿起自己的工具进行她擅长的工作，用以鼓励疲惫的夏晨。
+
+志宏认定　芮嘉出轨
+
+另一方面，芮嘉和素心在台湾的海边酒吧消遣，互相诉说着自己的感情问题，之后芮嘉遇上了一名相貌俊朗的男子，在他的温柔的话语下，那一刻芮嘉找回了恋爱的感觉，并和那男子在海滩上互相拥抱，却被志宏全都看在眼里，并且深信芮嘉背着日东出轨。之后，志宏与芮嘉在工作时重遇，并以此事作为要胁，互相帮大家保守秘密。
+
+工作途中　夏晨腹痛
+
+亦风的机长考核进入了第四阶段，虽然亦风愈来愈紧张，但他身边的朋友和同事也对他充满信心，但是，这次用作考核亦风的航班，飞机有大量的地方需要维修，福照自信可以在起飞前完成维修，便加紧督促维修员工作，并要求公司增派人手，故此夏晨便应召回停机坪工作，但是在这重要时刻夏晨突然感到腹痛……
+
+为保安全　飞机延误
+
+机师亦风、马修上机后，发现飞机有很多地方需要修理，并同时要决定是否让客人上机，故召来福照上机查问状况，福照向亦风承诺飞机能准时修理好，故此亦风决定不延误航班，照原定时间表上客。
+
+福照和以泰在机上工作时，遇上一名年轻的金融才俊，当他看见福照时便对他加以侮辱，令福照对飞机能否准时完成维修变得更紧张。夏晨在最后的工序中不支晕眩，福照看见后竟破口大骂，亦风看到虽然即时出面解围，夏晨却决定忍痛工作。之后飞机成功维修完毕，但是夏晨却发现引擎漏油，虽然福照认为可以如常起飞，但夏晨为了飞行安全，毅然向亦风提出需要延迟起飞，而亦风也决定以乘客的安全为依归。
+
+在航空公司而言，在飞机上客后延误达两小时是非常罕见的问题，故此家骏便召见亦风、夏晨及福照以了解事件，但夏晨在解释事件时，竟然承担起所有责任。最后夏晨和福照被要求休假直至另行通知。之后亦风质问夏晨，但夏晨却表明是因为相信福照而决定承担失误责任，亦风气结……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E11.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

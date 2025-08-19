@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>太子坠马腿伤无法治愈</title>
+  <originaltitle>太子坠马腿伤无法治愈</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>5082176</id>
+  <uniqueid default="false" type="tmdb">1040306</uniqueid>
+  <uniqueid default="false" type="trakt">1395739</uniqueid>
+  <uniqueid default="true" type="tvdb">5082176</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>武如意大难不死来到承庆殿，凝视文德皇后生前最爱的面罩，两个蒙面男子忽然出现企图杀害武如意。李世民在一个太监的陪同下闻讯赶来，两个蒙面男子已经悄然离去。查案官员发现郑婉言跟武如意喝酒的时候使用一个含有机关的酒壶，猜测郑婉言毒害武如意不成反自酿苦果。 武如意做了一个噩梦，文德皇后生前最爱的面罩渗出鲜血。杨淑妃与武如意私下谈话，但只是表面交好。李世民盘问武如意之前为何被身份不明的男人袭击，武如意谎称韦贵妃之前对她非常好。太子坠马受伤，李世民吃了一惊叮嘱手下暂时关押武如意，随后起身向太子府赶去。李世民来牢中探视武如意，武如意要求李世民查出幕后元凶，李世民将婉言自作孽的真相告诉如意，如意却仍然顾念姐妹之情，求李世民保全婉言名声。 李世民被告知太子的腿伤难以治愈，李世民查出太子是因为私纵下人行凶才招致被人报复的祸端。魏征直谏李世民在对太子教育一事上的过失，李世民将教导太子的重任交给魏征。长孙无忌提醒李世民太子落马可能是皇室阴谋。 称心悉心照料受伤的太子，惹来太子妃对二人关系的猜忌。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2682</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep07 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

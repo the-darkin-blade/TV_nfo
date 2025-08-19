@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>武如意遭陷害被关进大牢</title>
+  <originaltitle>武如意遭陷害被关进大牢</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>5082172</id>
+  <uniqueid default="false" type="tmdb">1040302</uniqueid>
+  <uniqueid default="false" type="trakt">1395722</uniqueid>
+  <uniqueid default="true" type="tvdb">5082172</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>萧蔷来到皇帝的宫殿，皇帝却扔下萧才人来到承庆殿遇到佩戴面罩翩翩起舞的武如意，武如意与皇帝跳了一段舞姗然离去。翌立，皇帝得知萧才人是韦贵妃的姨甥女，托咐太监王德送了一件扮饰给萧才人。武如意偷走了文德皇后生前最爱的面罩，李世民派出太监王德在宫中四处寻找面罩。 武如意深夜入殿遇到李世民，李世民正在观赏一张画纸，武如意就站在画纸背面，李世民察觉到画纸后面有人吃了一惊，徐惠及时出现将武如意拉到一边。两人谈起皇宫发生的事情，徐慧提醒武如意不要到处冒险。已故皇后祭日到来，武如意的面具被拿走，不得不戴着已故皇后最喜爱的面罩入殿起舞，韦贵妃幸灾乐祸认定武如意难逃一死，要求武如意当众作诗一首。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2669</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep03 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

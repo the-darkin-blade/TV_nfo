@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第33集</title>
+  <originaltitle>第33集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187930</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>玉耀坦承丝巾为玉辉所有，间接证实玉辉即为玉蝴蝶。此事惊动南宫权与玉辉，玉辉坦承自己就是玉蝴蝶，并表示自己是为民除害，岂料展昭说出庞太师侍妾惨遭杀害，身旁亦遗留同样丝巾，显示玉辉即为凶手，南宫父子闻言震惊。展昭要玉辉随他向包拯投案说明，南宫权出示太祖所赠铁卷丹书，表示有免死金牌护身。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>1082-11-02</premiered>
+  <aired>1082-11-02</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep33-34.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="33" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第34集</title>
+  <originaltitle>第34集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187931</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>玉辉一死，庞太师侍妾被害一案亦破，庞太师纵然不悦，亦拿包拯无可奈何。然而杀害玉辉之真凶仍逍遥法外，包拯等人仍需查明真相，为展昭洗清冤枉。月华不信展昭会杀玉辉，赶至开封府相助。展昭告知定国公府总管陈升是关键人物，但他不适合再去定国公府查案，月华应允帮忙找陈升询问清楚，未料月华人未至，陈升已被灭口。此时却突又惊传玉蝴蝶再次作案。玉蝴蝶另有其人，南宫权为此来向包拯讨公道，包拯只得接案彻查玉辉之死。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>1082-11-02</premiered>
+  <aired>1082-11-02</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep33-34.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:32 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>云志和亦琛不和</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id>4328861</id>
+  <uniqueid default="false" type="tmdb">1982456</uniqueid>
+  <uniqueid default="false" type="trakt">1851332</uniqueid>
+  <uniqueid default="true" type="tvdb">4328861</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>苏怡被送院，亦琛担心又内疚，医生证实她是旧患复发，瘀血压着神经线，要进行紧急手术，苏怡担心手术后会见不到亦琛，亦琛表明会等她醒来，苏怡安心。手术成功，亦琛一直在旁照顾苏怡，众人为二人高兴。
+
+以珊和卓芝姑嫂不和，云志从中调解，卓芝对以珊成见太深，拒绝云志。以珊和卓芝实习，卓芝故意拖累以珊，以珊受责，但仍处处维护卓芝，令卓芝对她改观。亦琛知卓芝和以珊不和，找卓芝谈心，尝试找出她的心结。以珊认为云志不体谅她，找亦琛诉苦，亦琛告知原来云志曾答应卓芝，在她毕业后会陪她去看极光，但云志因以珊而忘记此承诺，因此憎恨以珊，以珊恍然大悟。
+
+以珊告知云志，卓芝和以珊的问题源于他，云志明白是自己不对，却不满亦琛不直接与他商量，反而私下找以珊和卓芝。云志斥责亦琛过份介入其家事，亦琛好人难做，明白云志对自己心生嫌隙，遂向云志道歉，此一幕被路过的以珊看在眼内。
+
+亦琛探望苏怡，苏怡芳心大喜，借意拥抱亦琛，但亦琛仍有所保留。以珊问云志为何猜疑亦琛，是否因她和亦琛过去的一段情，影响了二人的友谊，云志默认，以珊失望透。云志向卓芝道歉，劝她不应迁怒以珊。云志向亦琛表明他一直以他为竞争对手，担心他会抢走以珊，一事情急才怪错好人，二人和好。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1568</width>
+        <height>1080</height>
+        <durationinseconds>2674</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E18.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

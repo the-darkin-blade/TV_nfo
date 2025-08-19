@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>孤岛飞鹰</title>
+  <originaltitle>孤岛飞鹰</originaltitle>
+  <showtitle>孤岛飞鹰</showtitle>
+  <sorttitle/>
+  <year>2012</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>1</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>“八一三”以后，日军全面攻陷上海，租界区成了战争以外的孤岛。一个以锄奸为已任的秘密组织猎鹰暗杀队应运而生，他们以燕双鹰（张子健 饰）为首出没于日伪之间，极力阻止日寇对我财富的掠夺。日军从东京派来特使今井武夫（平田康之 饰），企图利用假钞套购中国的黄金。燕双鹰打通市长（梁冠华 饰）关节，利用其女儿章月欣（苑冉 饰）之口，与郑雅姝（王紫瑄 饰）、林小江（刘亚津 饰）设下圈套，并冒充日本亲王将今井武夫费了九牛二虎之力搞到的黄金秘密劫持，同时将责任嫁祸于外滩的黑帮组织。今井武夫恼羞成怒，派章月欣打入暗杀组织内部，以图里应外合将其一网打尽。不料章月欣暗恋着风流倜傥的冷面杀手燕双鹰，这是今井武夫做梦也没想到的......</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"136337"}</episodeguide>
+  <id/>
+  <imdbid/>
+  <tmdbid>136337</tmdbid>
+  <uniqueid default="true" type="tmdb">136337</uniqueid>
+  <premiered>2012-09-18</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <genre>Action</genre>
+  <genre>Mystery</genre>
+  <studio/>
+  <country>中国</country>
+  <actor>
+    <name>张子健</name>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>梁冠华</name>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>曲栅栅</name>
+    <profile>https://www.themoviedb.org/person/2795038</profile>
+    <tmdbid>2795038</tmdbid>
+  </actor>
+  <actor>
+    <name>苑冉</name>
+    <profile>https://www.themoviedb.org/person/2275188</profile>
+    <tmdbid>2275188</tmdbid>
+  </actor>
+  <actor>
+    <name>王智</name>
+    <profile>https://www.themoviedb.org/person/1985026</profile>
+    <tmdbid>1985026</tmdbid>
+  </actor>
+  <actor>
+    <name>刘亚津</name>
+    <profile>https://www.themoviedb.org/person/2217134</profile>
+    <tmdbid>2217134</tmdbid>
+  </actor>
+  <actor>
+    <name>严燕生</name>
+    <profile>https://www.themoviedb.org/person/2796184</profile>
+    <tmdbid>2796184</tmdbid>
+  </actor>
+  <actor>
+    <name>Dai Yunxia</name>
+    <profile>https://www.themoviedb.org/person/3270225</profile>
+    <tmdbid>3270225</tmdbid>
+  </actor>
+  <actor>
+    <name>平田康之</name>
+    <profile>https://www.themoviedb.org/person/1252774</profile>
+    <tmdbid>1252774</tmdbid>
+  </actor>
+  <actor>
+    <name>铃木美妃</name>
+    <profile>https://www.themoviedb.org/person/3234572</profile>
+    <tmdbid>3234572</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

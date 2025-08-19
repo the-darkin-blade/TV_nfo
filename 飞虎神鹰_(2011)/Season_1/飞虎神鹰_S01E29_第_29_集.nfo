@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 29 集</title>
+  <originaltitle>第 29 集</originaltitle>
+  <showtitle>飞虎神鹰</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3168726</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>反共救国军全军覆没，张桥他们通过审讯俘虏得知了事情的经过，他在李康落在指挥部的外套衣兜里找到了反共救国军的人员花名册，立即按图索骥一夜之间将反共救国军连根拔起。陈恭鹏指责杜马提前撤退，没有和李康一起坚持到最后，消灭燕双鹰。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>LeTV</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2611</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E29.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

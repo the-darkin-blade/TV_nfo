@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 5 集</title>
+  <originaltitle>第 5 集</originaltitle>
+  <showtitle>大漠枪神</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310862</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>沈七七警觉有问题并向小渊报告，小渊命理惠案中协助阻止报告送出。步鹰、燕双鹰路上遇到一闹鬼的村子，听村民说这里经常有妖魔鬼怪出现，村民无缘无故就不见了，十几天下来村里丢了四五十人。夜里，步鹰、燕双鹰在村院子里“抓鬼”，很快，小“鬼”被降，审问之下，这名小“鬼”说是替老板办事，每次做完买卖之后，都按人头付钱，之后再把村民交给黑戈壁的301给水站。大漠中，步鹰、燕双鹰继续追寻乡亲们的下落。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2786</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>E05_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

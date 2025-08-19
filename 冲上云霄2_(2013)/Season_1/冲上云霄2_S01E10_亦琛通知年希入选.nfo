@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:01:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦琛通知年希入选</title>
+  <originaltitle>亦琛通知年希入选</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586975</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>年希不断反思夏阳说过的每一句话，最后在比利的意见下找到了问题的提示，之后年希更在子麟及少雄的对话间提出了问题的答案，就连亦琛也对年希那有纹路的解答感到难以置信。之后亦琛向众人解释，提出问题的目的是为了考验应考者的分析能力、表达能力和逆境对抗能力，少雄因为在讨论时表现太逞强，听罢后不禁面如死灰。
+
+最后测试　年希失利
+
+事后年希再遇到夏阳，并多谢他给予问题的提示，但因为夏阳说话太轻佻，最后与年希不欢而散。夏阳进入接见室，见到亦琛和日东正在为最后一名入围名额的人选而争论，一直在计划中表现事不关己的夏阳在亦琛的催促下，便对剩下的一个名额表达了自己的意见。之后年希和少雄特别地要一起进行面试，两人即时意识到他们只可以有一个入选「PPP」，最后年希因为冲动答题，表现明显比对航空知识素有研究的少雄差。
+
+年希自觉　应征失败
+
+年希自知应征失败便独自回家，亦琛回家后，便送了一张往伦敦的机票给年希，年希初时以为亦琛打算赶她回家，但之后才发现是「PPP」的取录通知，指年希将前往英国伦敦受训。原来是夏阳以「PPP」的宗旨说服日东和亦琛加开名额，令年希可以一同加入「PPP」。
+
+离「PPP」受训的日子愈来愈近，亦琛也显得精神紧张，亦琛在停车场看见正准备陪女伴出国旅游的夏阳，顿时上前指责夏阳经常不出席「PPP」的会议，抛下工作给其他成员，摆出一副事不关己的态度。
+
+「PPP」的入选者正式飞往伦敦受训，除了年希外，少雄、友朋、比利及子麟等人也成功入选了「PPP」，但是在集合当日，教官之一的夏阳并没有出现，亦琛也无可奈何，惟有自己一人带领学员。
+
+亦琛带队　众人赴英
+
+在飞机上，亦琛不断向学员们询问有关飞机飞行的常识问题，除了年希哑口无言十问九不知外，其他也表现良好，年希自觉惭愧。到达伦敦后，夏阳突然在训练中心出现，原来夏阳一直在训练中心等候大家到来，亦琛看见夏阳后登时放下心头大石。其后，夏阳亲自来临年希身处的房间，邀请所有「PPP」的学员往当地的酒吧消遣，当是庆祝大家入选「PPP」的派对，喜欢热闹的年希当然马上应允。
+
+夏阳使计　考验学员
+
+在酒吧中，大家一边喝酒一边诉说自己对飞行的憧憬，度过了相当愉快的一夜，但当早上开始「PPP」第一堂课时，大家却因为酒精影响而精神不足……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2660</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E10.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

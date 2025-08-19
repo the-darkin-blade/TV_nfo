@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>徐慧暗中陷害武媚娘</title>
+  <originaltitle>徐慧暗中陷害武媚娘</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id>5097936</id>
+  <uniqueid default="false" type="tmdb">1040342</uniqueid>
+  <uniqueid default="false" type="trakt">1698978</uniqueid>
+  <uniqueid default="true" type="tvdb">5097936</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>徐慧让文娘把看守萧蔷的太监宫人都支走，萧蔷求徐慧请李世民救自己和孩子，徐慧却直言李世民不会为萧蔷对抗这个韦氏。萧蔷绝望。徐慧告诉萧蔷可以杀掉自己孩子嫁祸韦妃。韦妃派春盈去监视萧蔷，春盈看到萧蔷正颐指气使责骂徐慧，放松警惕。媚娘以为徐慧想和萧蔷冰释前嫌，不好相见，答应替她走一趟，徐慧给了媚娘一个安胎用的香囊。 魏征对于太子十分欣慰，太子承诺不让自己出差错，并说要到邙山流韵寺为李世民祈福。李泰却不着急，让门徒杜楚客送一封信给太子妃。太子妃收到一个陌生小太监送来的信，看完信后脸色煞白，急急出门，她按照信上所说，在邙山见到了本该已经死去的称心和太子在一起，太子妃怒不可遏，进宫找媚娘商量对策，却被徐慧截下，徐慧巧言令太子妃误信了她，把太子没有杀称心一事和盘托出。徐慧因东宫已于媚娘结盟，早已视东宫为敌，便假意给太子妃出主意，让她去找魏征处理称心的事。媚娘给萧蔷送去了糕点和名贵的补品，萧蔷看到食盒中的香囊，碍于韦妃在场，萧蔷表面一派高傲，实际上偷偷把香囊拿回手中。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep31 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

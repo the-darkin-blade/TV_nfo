@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦风指没将夏晨当成苏怡</title>
+  <originaltitle>亦风指没将夏晨当成苏怡</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586990</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>亦风、夏晨、以泰等一行人来到了三亚度假，大家发现习惯外游的亦风早已为大家安排好交通行程，夏晨与祖思见状不禁对亦风大表信赖，维修部的同事见状，便提醒以泰，支持他在夏晨面前争取表现，以博取夏晨好感。之后大夥儿来到酒店，却发现已经有人在等待他们，原来在夏晨家居住的空中服务员们，亦特地调假来了三亚和大家一起度假。
+
+祖思溺水　亦风相救
+
+之后大夥儿在泳池玩乐，姚浩一时忘形不小心推倒祖思，并令她跌进水里遇溺，幸好亦风见状将祖思救起才不致乐极生悲。
+
+在自由活动时间，亦风特意为夏晨拍摄了不少照片，也不断想向夏晨表达自己的心意，但当想到现在并不是表白的时机，却又令亦风欲言又止。夏晨查看亦风相机时，提出要删除自己的照片，原因是夏晨觉得，亦风所拍摄的并不是夏晨而是苏怡。亦风听后强烈地否认，并且向夏晨承诺日后一定会说清楚自己的心意……
+
+以泰解释　心中理想
+
+之后大夥儿转到沙滩玩乐，石强及姚浩向亦风提出进行排球比赛，之后亦风和以泰组队，并大胜了石强及姚浩。石强气极，认为正步向机师之路的以泰反叛更愤而离开。以泰跟随其后，并且对石强等人透露自己参加Cadet Program只是为了一圆父亲的期望，及证明自己的能力，更说出自己的目标仍是想当一个工程师。石强及姚浩等人得悉以泰心意后与他和好如初，众人更支持以泰追求夏晨。
+
+以泰出手　挑战亦风
+
+在泳池以泰向亦风提出挑战，要求与他比试徒手闭气潜水，岂料以泰求胜心强，不小心在泳池遇溺，幸好最后只是暂时昏迷而没有生命危险。石强等人见状，特意找夏晨并且说出以泰对夏晨的爱意，夏晨听后不禁愕然。夏晨探望正在昏迷的以泰，并坦言说出自己和以泰只是朋友关系，并希望这段友情可以长久地维持下去。但其实以泰早已经清醒，当他听完夏晨的心底话后，不禁流下了男儿泪。
+
+为助亦风　祖思病发
+
+亦风将之前单车赛和夏晨一起特训用的绳子，自行制作成手绳经常带在身上，但亦风突然发现手绳不见了，当祖思知道亦风丢失了重要的手绳后，为了不让亦风失望，独自往沙滩希望能替亦风寻回手绳，但却因此触发到肺病发作。
+
+幸好这时夏晨出现，并且带祖思回酒店食药才脱离危险。终于知悉了祖思前往三亚的爱苹，以短讯通知祖思要她尽快回香港，夏晨也决定陪伴祖思回港，经过种种事情，让祖思认定了夏晨是自己的好朋友……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2663</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E24.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

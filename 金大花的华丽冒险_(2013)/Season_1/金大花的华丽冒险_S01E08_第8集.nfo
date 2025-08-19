@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第8集</title>
+  <originaltitle>第8集</originaltitle>
+  <showtitle>金大花的华丽冒险</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>4565188</id>
+  <uniqueid default="false" type="tmdb">911315</uniqueid>
+  <uniqueid default="false" type="trakt">919448</uniqueid>
+  <uniqueid default="true" type="tvdb">4565188</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>无法面对亮妍在自己怀中逝世的欧阳泰，一早就在家中喝得醉醺醺的。万念俱灰的他，看著亮妍的脸又出现在面前，以为是亮妍回来了。情不自禁地亲吻大花.大花该如何面对眼前这个几乎崩溃的男人。欧阳泰行为失序，摸不著头绪的大花因而得到半天假，请冠军带她出门散心。在大花的提醒下，冠军发现临别时大花赠送的手鍊，在不知情的状况下，说出了内心对大花的思念和真心的告白。大花多年的爱恋终於得到回应，虽然不能立刻向冠军坦诚身份，两人的感情似乎开始加温。当大花正开心自己感情就要萌芽，欧阳泰的爱情却也随著亮妍离开人世而宣判了死刑。欧阳泰再也不愿活在谎言中，决定公开亮妍的死讯，让大花回归自己的人生正轨。没想到大花反而坚持留下，陪欧阳泰一起面对没有亮妍的世界，欧阳泰能振作起来面对公司的明争暗斗。失去了亮妍的两人，又将面对什麼更艰钜的挑战。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-08-19 23:55:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[壹高清]金大花的華麗冒險.King.Flower.Ep08.1080I.Hdtv.H264.2Audio-Onehd_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

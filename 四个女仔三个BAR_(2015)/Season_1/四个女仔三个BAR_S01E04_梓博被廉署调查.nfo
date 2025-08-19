@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:03:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>梓博被廉署调查</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>四个女仔三个BAR</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3188640</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>翠花迁进紫凝寓所时，把一把祖传的大关刀带来，紫凝不满，幸可欣表示大关刀有煞气，可镇住对面单位，成功安抚紫凝。紫凝让翠花住进她的衣物房，以一张朝拆晚开的梳化作床，谁知翠花一进房便想把一张武打明星的海报贴起来，紫凝不准，可欣遂想出紫凝与翠花都接受的解决方法。靖姿把三大箱文件送到终审法院给智毅，弄到满身大汗，最狼狈是高跟鞋的鞋踭也几乎断了。靖姿在餐厅遇到Kelvin，Kelvin知道智毅收了靖姿为徒，不怀好意的向智毅暗示靖姿不简单。
+
+靖姿购买　二手电脑
+
+梓博拿电脑到朋友的店铺放售，以M31之名作联络人。靖姿拿电脑往修理，但因电脑太旧，店主游说她买二手机。靖姿回家后依照单张资料上网与机主M31联络，要求翌日早上在中环交收，梓博因无法离开公司，淑芬提议由她代劳，而靖姿因临时工作不能亲取电脑，请可欣替她走一趟。
+
+梓博的上司Richard收到市民寄来表扬梓博的信件，但没有把信交给梓博。智毅接见一名被控危险驾驶引致他人死亡的保母车司机李明，了解事发经过后，与Paul及靖姿午膳，Paul认出靖姿曾随Kelvin学习，他提醒靖姿应多建立人际关系，又自诩人脉广，认识很多大商家及富二代，可介绍给靖姿，更把写有他私人电话号码的名片给靖姿，着靖姿随时找他。
+
+羡慕耀力　经常旅游
+
+智毅与靖姿到李明案件的事发现场视察，智毅找到重要线索，但靖姿却没发现，智毅直指靖姿观察得不够仔细，着靖姿再尝试找出有关细节，作为他给靖姿的首项任务。慧芸到书店买书，看到墙上贴满旅行照片，还有复活岛的风景相，令她对经常旅游的耀力非常羡慕。智毅发现妻子拿出很久之前购买的智利旅游书，慧芸重提丈夫一次又一次失约于她。  淇淇反对　梓博转工
+
+智毅认为案件不会等他，但复活岛随时都可以去，慧芸投诉当年连蜜月旅行也为智毅的工作让路，智毅答应今年内必与慧芸到复活岛旅行。Richard不满梓博经常不在公司，怀疑梓博偷懒。廉署表示有市民投诉梓博要求他们写嘉许信，作为优先处理个案的条件，梓博到廉署接受问话。梓博接受审讯时按捺不住，把不满情绪发泄出来，怀疑世间根本没有公义。他经过一蔬果店，店主多谢他处理大厦外墙石块剥落个案有效率，挽回他的生意……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-20 00:03:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2689</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E04.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

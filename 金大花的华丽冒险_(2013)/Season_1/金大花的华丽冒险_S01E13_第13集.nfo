@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第13集</title>
+  <originaltitle>第13集</originaltitle>
+  <showtitle>金大花的华丽冒险</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>4565193</id>
+  <uniqueid default="false" type="tmdb">911320</uniqueid>
+  <uniqueid default="false" type="trakt">919453</uniqueid>
+  <uniqueid default="true" type="tvdb">4565193</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>杜董的身体虽日渐康复，但仍一直挂心亮妍的婚事，欧阳泰和大花因而去拍摄婚纱照，让杜董安心。大花心中虽是千百个不愿意，仍不断说服自己这是工作的一部分，没想到却意外被冠军撞见，冠军气愤离去。着急的大花跑回杂货店想向冠军解释，却目睹晓菲亲吻冠军。才说好要互信的两人，会因为这场误会，而让刚萌芽的感情产生什么隔阂。看出欧阳泰对大花日渐增长的情愫，冠军约欧阳泰谈判。没想到欧阳泰却当面对冠军宣示自己才能给大花更好的未来。冠军会因此让步。大花的华丽冒险，却意外点燃两个男人之间的夺爱战火。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-08-19 23:55:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2680</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[壹高清]金大花的華麗冒險.King.Flower.Ep13.1080I.Hdtv.H264.2Audio-Onehd_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

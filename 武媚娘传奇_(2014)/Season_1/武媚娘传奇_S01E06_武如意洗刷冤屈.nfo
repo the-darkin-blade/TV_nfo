@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>武如意洗刷冤屈</title>
+  <originaltitle>武如意洗刷冤屈</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>5082175</id>
+  <uniqueid default="false" type="tmdb">1040305</uniqueid>
+  <uniqueid default="false" type="trakt">1395729</uniqueid>
+  <uniqueid default="true" type="tvdb">5082175</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>郑婉言私下拜访殷德妃，希望德妃娘娘除掉武如意。郑婉言离去不久，一个宫女来到德妃娘娘面前，德妃娘娘叮嘱宫女送一个酒壶给郑婉言。郑婉言按照德妃之前的提示操控酒壶机关倒毒酒给武如意，武如意喝下平安无事，郑婉言反而死于非命。韦贵妃对武如意刑讯逼供，武如意遭受非人折磨依然不肯屈打成招。德妃向赵公公透露真相，除掉郑婉言的人正是自己。 李世民闻讯赶来提议让大理寺介入调查，韦贵妃听出李世民话外之意，心知李世民想饶武如意性命。看到皇帝对自己生死毫不在乎，武如意十分伤心，不顾徐慧劝阻，要去承庆殿抄经书。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2679</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep06 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

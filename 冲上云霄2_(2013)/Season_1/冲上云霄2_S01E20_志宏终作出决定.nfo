@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>志宏终作出决定</title>
+  <originaltitle>志宏终作出决定</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586986</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>以泰参加Cadet Program一事被维修组同事知道后，都纷纷对以泰加以指责，指以泰背叛了维修部，也说他只是为了和亦风比较。正当以泰打算反驳的时候夏晨出现，但是她却完全不给以泰辩白的机会。就算众人下班回家吃饭时，夏晨也不回应以泰的说话，其他同事也对以泰单单打打，令以泰大感不快。
+
+以泰在天台找到夏晨，表示考Cadet Program只是为了证明自己，目标并不是要成为机师，但此话却惹怒了做事认真的夏晨，夏晨要求以泰一定要认真完成Cadet Program，甚至帮以泰申请假期让他专心应试。但是，当实际工作时，维修组众人发觉不太习惯缺少了以泰的团队。
+
+年希回港　应考机师
+
+年希回港后，便寄住在夏阳的家，并且预备应考Cadet Program，以成为Skylette的机师为目标，但是夏阳也特地提醒年希Cadet Program不同于「PPP」，需要认真看待，此话却让年希回忆起亦琛以前在「PPP」，也如此指责过自己对飞行不认真。
+
+在自尊心的驱使下，年希往亦琛的住处找他。亦琛知道年希欲考Cadet Program后，便将自己当年的Cadet Program笔记交给年希，但同时亦琛也将他的蛋糕笔记给年希，并要求年希边做蛋糕边解答航空问题。亦琛本想趁机会问年希为甚么她会拥有苏怡的缘分天使，但年希却先反问亦琛，在苏怡死的时候他在哪里……
+
+夏晨与兄　大吐苦水
+
+因为以泰的事情，让夏晨一直显得闷闷不乐，便决定找兄长夏阳倾诉，夏阳得知后特地预备好食物和夏晨共餐，也一起回味两人童年时的幸福时光。这时年希出现，众人的话题便转为夏阳和夏晨的身世，原来夏阳一直以来也没有将他真实的身世说给别人知道，所以年希也因此变成唯一一个知道夏阳真实背景的人。
+
+年希离开后，夏阳询问夏晨是否想以泰成功考到Cadet Program，夏晨表示支持以泰应考，故此夏阳回Skylette后，便故意问问题难倒以泰，扮作坏人了好让以泰打好考Cadet Program的基础。
+
+左右逢源　大吃不消
+
+志宏的两个女朋友因为同时投考Skylette的空中服务员，便经常致电志宏问及应考的问题，但志宏因要积极预备机长试，筋疲力尽的他甚至不小心在电话中弄错她们的名字。
+
+志宏与女友闹翻，于是向芮嘉诉苦……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E20.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

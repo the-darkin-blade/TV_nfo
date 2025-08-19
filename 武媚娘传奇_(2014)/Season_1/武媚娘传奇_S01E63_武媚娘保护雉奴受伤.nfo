@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>武媚娘保护雉奴受伤</title>
+  <originaltitle>武媚娘保护雉奴受伤</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>63</episode>
+  <id>5109838</id>
+  <uniqueid default="false" type="tmdb">1040374</uniqueid>
+  <uniqueid default="false" type="trakt">1724284</uniqueid>
+  <uniqueid default="true" type="tvdb">5109838</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>王皇后为自己的政治婚姻感到可悲。素节在净初池畔舞剑，王皇后心中喜爱素节，欲亲近素节。不料却被素节羞辱。王皇后痛恨萧淑妃。侍女秀珠建议王皇后可以笼络一名能得李治喜欢的女子，二人想起媚娘。长孙无忌找出很多杨长史打着李恪名义行事的证据，决定给李恪安个结党营私的罪名。李治与王皇后到感业寺祭拜长孙皇后，祭拜结束后，王皇后去见媚娘，却扑了个空。媚娘逃出感业寺，遇到李治，两人都陷入刺客的刺杀中，李恪赶来护驾，杨长史利落的杀了杨沫灭口。不料杨沫并没死，他突然朝李治发难，媚娘舍身护住了李治。 羽林卫赶来，李治当众宣布媚娘已有先帝骨血，把媚娘带回了宫。 长孙无忌和长孙冲找仵作检查李恭尸体，发现李恭是被人用极薄极快的匕首趁乱暗杀的，两人都肯定了李恪绝不是没有异心的，长孙无忌准备把李恪赶出长安。李治一行人回宫，李义府眼尖地看到媚娘，又得知她怀了先帝的孩子，难掩心中狂喜。长孙无忌入宫，追问李治何时给媚娘加封太妃，李治口头拖延。长孙无忌提及李恪救驾有功，可与结党营私一事功过相抵，李治选择相信李恪。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep63 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="63" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

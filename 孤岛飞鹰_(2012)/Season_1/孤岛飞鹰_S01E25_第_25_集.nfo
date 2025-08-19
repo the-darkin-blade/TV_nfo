@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 25 集</title>
+  <originaltitle>第 25 集</originaltitle>
+  <showtitle>孤岛飞鹰</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281722</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>章月欣发现躺在病床上的父亲脉搏正常心跳平稳，便故意将大岛英枝支走，单独与父亲相处，果然章啸天跳下病床。章啸天告诉女儿自己是今井和大岛英枝的重点监控对象，因为他是天国宝藏事件的亲身参与者。</plot>
+  <runtime>38</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1908</width>
+        <height>1080</height>
+        <durationinseconds>2291</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>25_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

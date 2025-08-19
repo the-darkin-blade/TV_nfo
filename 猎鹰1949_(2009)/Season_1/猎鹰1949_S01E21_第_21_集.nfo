@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 21 集</title>
+  <originaltitle>第 21 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281661</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>凌晨时分，一名身患重疾的男子潜入医院药房偷窃药品，此人正是失踪的中村一郎。此时，一路跟踪燕双鹰和林玉仙的洪雪儿等人灰溜溜地回到安顺寨，老板对程汤和林玉仙的行踪愈加怀疑，他决定即刻启程赶往宜宾。燕双鹰如约来到刘天龙的老巢，施展绝技将其掠为人质，刘天龙为保小命只得交出一百根金条。而此时，货物正安全地藏在龙王祠堂地下，其余众人也为寻找并擒拿中村一郎做好了准备。正当红星医院的院长以及医护人员为药房被窃以及霍乱顽症感到忧烦之时，燕双鹰一行人带着染病的袍哥前来就诊。燕双鹰告知孙医生这些病人身患霍乱，并与已在医院的老马叔等人属于同源感染。交待了大致情况后，燕双鹰询问孙医生最近医院有无异常，孙医生提起了药房失窃一事，并道出被偷的血红蛋白注射剂和黄连鱼腥草解毒剂均用于传染病的控制。燕双鹰仔细地勘查了药房现场后认定，这窃贼正是霍乱缠身的中村一郎，并且判断出重病的中村此刻仍潜伏在医院内。</plot>
+  <runtime>42</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2531</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep21_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

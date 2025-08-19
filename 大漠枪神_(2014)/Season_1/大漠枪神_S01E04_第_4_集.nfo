@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 4 集</title>
+  <originaltitle>第 4 集</originaltitle>
+  <showtitle>大漠枪神</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310861</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰机智化解沈七七追捕燕双鹰潜入日军基地大肆破坏，理惠与燕双鹰被武功逼入到一间房子里面，两人藏在屋中与武功为首的日本人激战。燕双鹰在房中与武功激战的时候，步鹰在另一处过道杀死了几个日本人，燕双鹰在理惠的帮助下逃离枪战现场，沈七七得知燕双鹰逃走，立即来到理惠的房中，认为是理惠故意放走了燕双鹰。燕双鹰回到住处藏在暗处，步鹰随后回来被燕双鹰举枪盘问，经过步鹰的一番解释，燕双鹰打消对步鹰的怀疑，改而与步鹰商议下一步的计划，步鹰向燕双鹰谈起喜鹊，透露是喜鹊提供了一些机秘信息，燕双鹰听完步鹰的话，忽然意识到了是喜鹊故意提供一些错误信息，步鹰并不认同燕双鹰的猜测，始终坚持喜鹊不会叛变。沈七七独自来到燕双鹰的住处，屋中空无一人，桌底下绑着一捆炸药，沈七七临危不乱解下炸药找到了一张纸条，纸条上是燕双鹰写下的内容，沈七七看完纸条方才明白燕双鹰站在身后，心中一紧赶紧转身藏到门边，让沈七七疑惑的是，燕双鹰并没有站在屋外，正当沈七七放松警惕的时候，燕双鹰忽然出现在屋中，面色阴沉出声提醒沈七七，沈七七迅速转过身子企图举枪射杀燕双鹰。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2770</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>E04_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

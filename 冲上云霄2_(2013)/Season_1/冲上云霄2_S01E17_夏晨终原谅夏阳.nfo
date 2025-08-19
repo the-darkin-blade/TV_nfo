@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:01:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>夏晨终原谅夏阳</title>
+  <originaltitle>夏晨终原谅夏阳</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586983</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>亦风和亦琛一起负责的航班内，有一名乘客因为心脏病死亡，亦琛为了顾及其家属的感受，决定让航班折返让其家属得以接应援助，此举得到了家骏的高度赞扬。
+
+家骏举办了一年一度的「Skylette慈善单车赛」，一直也有参加的夏晨和众同僚亦照样参加，开始为比赛努力练习。夏晨在练习期间遇上了因单车损坏不能前进的亦风，夏晨协助修理后，亦风便陪夏晨一起练习。夏晨的团队有人因为家庭原因不能参赛，亦风得知后自荐担任替补团体单车比赛的空缺，以泰起初反对，但因为夏晨和其他同事的支持，也只好接受亦风的加入。
+
+志宏误会　日东风流
+
+志宏在回家的时候，遇到了日东挽着一名妙龄少女回家，状甚亲昵，志宏为怕芮嘉见到伤心，便自行找日东理论，岂料原来只是志宏的一场误会，该妙龄少女原来是日东和芮嘉的养女胡娉，也是一名出名的芭蕾舞演员，虽然胡娉不是芮嘉和日东的亲生女儿，但关系就像一家人般融洽。
+
+子麟高调　退出体坛
+
+在表扬香港杰出运动员的颁奖典礼上，身为芭蕾舞演员的胡娉获得嘉许，正当自己进行致谢辞的时候，因看见来支持子麟的家骏，突然收起开朗的样子而变得紧张起来。当游泳选手子麟致辞后，他更当众宣布退役，指自己完成「PPP」课程后，未来将会以投考skylette飞行员为新目标。颁奖典礼顺利完结，家骏偕子麟与胡娉及芮嘉攀谈，言谈间，胡娉似乎早已认识家骏，但家骏看来却对胡娉没有特别印象，令胡娉相当不快。
+
+夏晨遇上　机师非礼
+
+夏晨和以泰一起在为飞机作起飞前的维修，洋人机师Bass在巡视时发现夏晨，便上前搭讪，夏晨回避他继续工作，但Bass却死心不息，并乘夏晨不察上下其手非礼。夏晨反抗将Bass推跌在飞机引擎上，也因此弄脏了Bass的衣服，怒不可遏的Bass返回驾驶室，并向同机的志宏发脾气及写报告投诉夏晨，并指示不想再有女性接近他驾驶的飞机。
+
+亦风鼓励　夏晨举报
+
+志宏与亦风与同事们相约在酒吧消遣，志宏提起了Bass非礼夏晨的事，其他女同事闻言也说出自己曾经遇过的事，原来Bass骚扰女同事已经有前科，其脾气暴躁也令不少同事对他敬而远之。亦风闻言后便急步离开，前往夏晨家，但从以泰口中得知事件发生后，夏晨便将自己关在房内不想见人……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E17.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

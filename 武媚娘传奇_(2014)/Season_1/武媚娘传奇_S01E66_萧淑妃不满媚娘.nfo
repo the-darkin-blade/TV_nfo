@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>萧淑妃不满媚娘</title>
+  <originaltitle>萧淑妃不满媚娘</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>66</episode>
+  <id>5109841</id>
+  <uniqueid default="false" type="tmdb">1040377</uniqueid>
+  <uniqueid default="false" type="trakt">1724287</uniqueid>
+  <uniqueid default="true" type="tvdb">5109841</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>媚娘看到了雍王素节和皇长子李忠。素节羞辱李忠，媚娘出言制止。素节顶撞媚娘，踹媚娘的肚子。媚娘用木剑在他的屁股上打了三下以示教训，素节哭着跑了。媚娘等素节走后，把李忠带回自己的居所，给他点心吃。李治希望长孙无忌同意留李恪在长安。长孙无忌与李治打赌，看李恪身居要职的时候是否会任人唯亲。李绩不见李恪，还劝他尽早离开长安。李忠用手帕把点心都包起来，要带回去给母亲，高阳来找媚娘，感叹李忠可怜。怜芝将药膏涂在素节身上，使素节看上去增加了很多淤伤。萧淑妃发现素节身上伤痕，怜芝将这些都推到媚娘身上，引起萧淑妃的恨。高阳担心媚娘惹上萧淑妃，王皇后发来请柬，邀媚娘赴太极宫阙楼赏菊之宴。李治给了李恪要职，又让李恪帮自己选拔适合兵部要职的人才。杨长史劝李恪擢升同袍柴令武等人，李恪犹豫后还是同意了。李治派人监视李恪。 长孙冲给长孙无忌送来宫中媚娘的行踪记录，长孙无忌发现每日御书房批过的的奏折都会给媚娘抄送一份，越发不能容忍媚娘。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2650</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep66 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="66" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

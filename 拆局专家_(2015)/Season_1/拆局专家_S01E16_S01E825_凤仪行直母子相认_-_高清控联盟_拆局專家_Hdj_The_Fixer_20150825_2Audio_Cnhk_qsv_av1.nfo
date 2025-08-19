@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>凤仪行直母子相认</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>拆局专家</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2299410</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雷蕾寻觅母亲时收到华碧传来的片段，惊觉是一段遗言。片段中华碧默许雷蕾与心平来往，并悉心为她预备了结婚戒指。雷蕾大惊，立即着白纯查探电话讯号位置，当雷蕾赶到码头时，已见华碧的游艇驶走并突然发生爆炸。搜救队打捞时并没有发现任何残肢或尸体，雷蕾为母亲作了衣冠冢作悼念。
+
+雷蕾与心平回到自然学校，祁琪告知雷蕾华碧离开前曾给予她一笔巨款以作学校未来十年的营运开支，当时祁琪已十分担心华碧会出事。
+
+华碧终于接受心平
+
+原来当日华碧离开廉政公署到医院探望凤仪，离开时遇见心平；心平感谢华碧前来，华碧打开心扉向心平说出多年来为掩饰十年前的事，是一生中最错误的决定，心平便提议让他解拆这个困局。华碧开腔感谢心平为她所作一切，心平亦唤了华碧一声「妈」，二人相拥。
+
+雷蕾问及母亲所在，但心平以保障客户私隐为由拒绝回答。
+
+平安作饵引诱罗庚
+
+平安在警署大吵大闹，要两名警员按着她才能将她制伏。平安假意合作着二人放手，但一松手时，她便迅速逃走。可是行直已在门口将她截住。平安恶意顶撞行直，令行直气上心头将她锁进拘留室；被困在拘留室的平安终于尝到苦头，愿意向行直认错，才获释放。平安在警署门口见到大文的车已在等候，便跳上车，急欲撇开行直。
+
+行直回到警署向伟权报告，调查所得证明罗庚才是幕后操纵者，并提议以平安作饵，引罗庚入局，丹青认为太危险反对但无效。
+
+事后行直解释其实罗庚不会对平安不利，反而平安会找罗庚报复。果然平安向大文表示将找罗庚报复，但大文告诉他心平也打算向罗庚还击，着平安忍耐并与心平合作。
+
+为了家人不愿离港
+
+行直希望心平暂离香港，但心平表示母亲老了，若今次离开不知何时可以再见。他以前不敢回来，是因为知道回来会令大家都不开心。可是现在见面了，面对行直敌视的眼神，心平反而觉得开心。
+
+心平指最少世上还有人紧张自己，这是家人特有的权利，同时回想起母亲当年的说话，家并不是讲道理而是讲感情的地方。行直则表示如果心平犯法，必定会将他绳之于法。
+
+恢复记忆行直感动
+
+昏迷的凤仪突然醒来，并要求立即出院。她回到跌打馆时，认得出馆中各人；回到家见到平安及心平后，凤仪也能回想起往事，好像完全康复了。可是行直一直站在门外，不敢进来，生怕母亲仍然认不出自己。
+
+雷蕾前来探望凤仪，也劝行直内进……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1321</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[高清控联盟]拆局專家.Hdj.The.Fixer.Ep16.20150825.Hdtv.1080I.H264.2Audio-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>高清控联盟 拆局專家 Hdj The Fixer 20150825 2Audio Cnhk qsv av1</title>
+  <originaltitle/>
+  <showtitle>拆局专家</showtitle>
+  <season>1</season>
+  <episode>825</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1321</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[高清控联盟]拆局專家.Hdj.The.Fixer.Ep16.20150825.Hdtv.1080I.H264.2Audio-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="825" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

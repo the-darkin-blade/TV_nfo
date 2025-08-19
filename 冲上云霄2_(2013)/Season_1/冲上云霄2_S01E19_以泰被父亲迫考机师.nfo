@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:01:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>以泰被父亲迫考机师</title>
+  <originaltitle>以泰被父亲迫考机师</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586985</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>Skylette的慈善单车赛举行在即，夏晨及亦风都为比赛而努力练习，但是亦风性格好胜，完全忽略了团队合作精神，也因此影响练习成绩。虽然以泰等人希望亦风退出，但是夏晨决定让亦风留下，并亲自单对单训练亦风，务求训练出团队默契。
+
+小仪发现　亦琛心结
+
+亦琛为了兑现婚姻介绍所老板娘小仪的承诺，穿着一身机师制服与她共进晚餐，两人在闲谈期间，小仪发现亦琛有心事困扰，也劝亦琛应该要学会放开，不要让悲伤继续留在心内。
+
+亦琛一上班便被家骏召见，原来是Skylette将开始新一轮的招聘计划，并开始新的Cadet Program训练新进机师，所以Skylette决定将Cadet Program总监一职授予亦琛，亦琛也欣然接受。但同时，家骏也打算将亦琛晋升做Training Captain，用以训练整间Skylette的副机长，亦琛认为自己加入Skylette的日子尚浅，恐未能胜任，但家骏却认为亦琛性格铁面无私，加上第一华人机长的身分，绝对胜任有余。
+
+亦风努力　说服亦琛
+
+亦琛回家后，消息灵通的亦风第一时间恭贺亦琛成为Training Captain，但当知道亦琛还在考虑中，便说服亦琛接受Training Captain一职，也着他不用担心会因为未来的机长试而影响兄弟关系。
+
+亦琛成为Training Captain一事传遍了整个Skylette，副机长们包括即将进行机长试的志宏，纷纷向亦风请教亦琛的喜恶，希望能藉此讨好他。志宏进行模拟飞行训练，正好由亦琛负责，志宏为了在亦琛面前留有好印象，便经常在意亦琛的神情，结果因此在降落时失准，最后亦琛出言鼓励志宏放松心情，才顺利完成模拟飞行。
+
+亦风带领　胜出比赛
+
+Skylette慈善单车赛正式开始，在比赛初期，因为亦风的错失而让夏晨带领的维修队一度落后，但之后凭着亦风的认路能力，及之前和夏晨训练出的团队默契，终于取得了胜利。夏晨等人在家中庆祝，突然以泰的父亲出现，并和以泰两人走到外面倾谈，原来以泰父亲私自为儿子写好Skylette机师的招聘表格，并要求以泰参加，本来以泰无意参加，但却因为亦风的无心快语，令以泰心中改变了主意……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2649</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E19.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

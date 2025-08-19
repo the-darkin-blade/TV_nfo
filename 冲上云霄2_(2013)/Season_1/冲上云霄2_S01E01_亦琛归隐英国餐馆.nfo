@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:01:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦琛归隐英国餐馆</title>
+  <originaltitle>亦琛归隐英国餐馆</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5425940</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>高志宏成为副机长并转任Skylette，并和老朋友唐亦风一起拍档飞往伦敦，这次也是志宏在Skylette的第一次飞行。在大楼外志宏和亦风碰面，互相比较大家的飞行里数，志宏告诉亦风在之前的公司主要飞台湾短线，但却被亦风揶揄志宏是为了结识女孩。志宏在派遣中心遇上了昔日曾合作过的程日东及麦马修，志宏与同僚谈话时得知，同机的机师是人称「Cool魔」的顾夏阳，但是当志宏谈论起「Cool魔」的时候，大家的面色也变得很微妙，甚至亦风的面色也铁青起来。
+
+夏阳处处　针对志宏
+
+夏阳于机场禁区进餐时遇上名模Kate，在离开时主动向Kate搭话，Kate本想拒绝对方，但却被夏阳的魅力吸引，之后夏阳看见Kate的登机证，告知她将与自己乘坐同一班机，并递上了一张纸条……
+
+志宏和亦风眼见夏阳迟迟未到，便以猜拳决定谁致电通知他，最后亦风使诈，决定由志宏致电，但夏阳偏偏就在志宏刚接通电话时出现，并在志宏报告时挑剔他，又不断出言加以侮辱，但当他们一起登机时，夏阳对空姐们的态度却截然不同，而空姐们也对夏阳有极高的评价，令志宏更是气结。
+
+当飞机预备升空的时候，卓芝和其他空姐都忙着处理乘客的投诉，之后发现名模Kate和李公子在商务客位，李公子全程冷落身旁的Kate，之后卓芝偷看到夏阳给Kate的纸条，知道了Kate成为了夏阳的新目标。而在驾驶舱，夏阳也不断找机会嘲讽志宏，也讲故事骚扰正在控制飞机升空的亦风，甚至要志宏斟茶递水，令志宏感到相当不忿。志宏欲向卓芝诉苦，但却被卓芝反指是因为志宏能力不及夏阳，志宏顿感无奈。
+
+飞行途中　遇上困阻
+
+在飞行途中，亦风发现前方出现雷雨云，再继续飞行便会有机会被雷电击中，当亦风和志宏因此辩论之际，夏阳截停了他们的谈话，并向卓芝了解乘客的情况，更特别地问起在商务客位Kate，最后夏阳决定穿过雷雨云继续飞行，志宏觉得夏阳有心偏帮Kate，夏阳也没理会志宏，并轻松地驾驶飞机穿过雷雨云。当飞机成功登陆伦敦，全程看着夏阳驾驶的志宏也不得不佩服夏阳的驾驶技术，之后卓芝突然拿着蛋糕进入机长室，原来一切也是夏阳的安排……
+
+夏阳巧遇　浪荡年希
+
+夏阳在伦敦巧遇长年游走世界各地，Manna的女儿何年希，夏阳对年希的身影留下印象……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2667</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E01.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

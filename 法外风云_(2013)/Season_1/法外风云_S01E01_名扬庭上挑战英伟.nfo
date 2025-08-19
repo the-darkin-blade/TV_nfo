@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:15:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>名扬庭上挑战英伟</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>法外风云</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2021901</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>律师余英伟代表游艇制造商向内地富豪罗波提出抗辩。这场官司的起因，源自罗波向游艇制造商订制了一艘游艇，而当游艇交货之后，罗波却突然感到不满意而要求游艇制造商退款，当中金额涉及一亿港元。故此游艇制造商便聘用英伟担任代表律师，对罗波的诉讼进行抗辩。庭上英伟以风趣幽默的说词，让在旁听席的观众都不禁嘲笑罗波，因被大众指他的品味低俗，是个暴发户，令罗波甚感尴尬。
+
+名扬要求　增加奖金
+
+罗波的代表律师李名扬则一直保持沉默，直至英伟发言完毕，名扬唯一的发言便是向法官要求午饭时间，看到自己代表律师的无能表现，令罗波更感无地自容。在午饭休庭的时间，罗波责怪名扬没有为自己辩护，名扬则回应是指当时英伟的说词没有值得反驳的地方，但他却自信已掌握到案件的关键。名扬亦趁机向罗波要求奖金，罗波为求争回面子，便爽快答应了名扬的请求。
+
+回到庭上，名扬便以英伟的身形和品味为例子，指出游艇公司根本未能对罗波提供贴心服务，并借机对英伟作人身攻击。英伟不甘受辱并在庭上大发脾气，迫使法官陆思凝宣布休庭，以处理英伟那失控的情绪。思凝同时要求名扬和英伟在庭上处事要保持自重。回到庭上，名扬公开向英伟道歉平息事件。
+
+名扬反击　打败英伟
+
+名扬要求游艇制造商Addino出庭作供，并且以游艇的结构和设备为由，不断指责游艇制造商完全没有考虑使用者的立场，因此罗波有权要求游艇制造商回收游艇。游艇制造商被名扬咄咄相逼，最后惟有承认是因为罗波对游艇的种种无理要求而影响其专业判断。看见制造商承认失误，英伟也没有任何反驳的余地，最终名扬成功助罗波取胜。
+
+事后，英伟质问思凝是否在庭上对自己存有偏见，原来思凝是英伟的前妻，两人因为性格不合而离婚收场。另一方面，名扬和思凝也是旧相识，三人之间有着千丝万缕的关系。
+
+被逼垫资　名扬肉痛
+
+名扬赢官司后，控辩双方便在律师事务所办理文件，游艇制造商需要在限期内退回一亿元给罗波，并需要支付堂费。赢出官司的罗波意气风发，并对游艇制造商揶揄一番，而游艇制造商也因此迁怒英伟，出言痛斥英伟无能，令他甚感不快。
+
+名扬跟随罗波回公司，罗波亦兑现承诺，以现金一千万作为名扬的奖金，罗波要求名扬陪自己到夜总会玩乐，名扬虽然不情愿，但也被逼陪罗波花天酒地，罗波亦借出自己的保险箱为名扬保管奖金……</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-17 22:15:45</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Will.Power.E01.1080I.Hdtv.H264-Area11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

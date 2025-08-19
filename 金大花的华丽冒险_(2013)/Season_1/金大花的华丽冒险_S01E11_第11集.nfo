@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第11集</title>
+  <originaltitle>第11集</originaltitle>
+  <showtitle>金大花的华丽冒险</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>4565191</id>
+  <uniqueid default="false" type="tmdb">911321</uniqueid>
+  <uniqueid default="false" type="trakt">919451</uniqueid>
+  <uniqueid default="true" type="tvdb">4565191</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>就在欧阳泰即将得标时，冠军突然出现抢标，而且还让晓菲勾着他的手。看来势在必得的冠军，会如何给欧阳泰致命的一击。赌上总经理大位的欧阳泰，面对半路杀出的程咬金，他该如何招架。冠军冲动的行为，原是想尽快赚到两百万，带大花回家，不料却引爆两人激烈的争执，还当着欧阳泰的面吵了起来。此时的大花，不仅完全站在欧阳泰的立场痛骂冠军忘恩负义，而且居然不肯跟心爱的冠军哥走。更叫人意外的，欧阳泰居然偷偷要承鸿整理好大花的行李，在当天晚上半哄半骗地让大花踏上回家之路。莫非欧阳泰打算公开真相，大花的华丽冒险将就此止步了。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-08-19 23:55:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2698</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[壹高清]金大花的華麗冒險.King.Flower.Ep11.1080I.Hdtv.H264.2Audio-Onehd_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

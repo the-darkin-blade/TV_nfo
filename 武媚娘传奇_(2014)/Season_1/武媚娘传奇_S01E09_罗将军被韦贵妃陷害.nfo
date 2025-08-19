@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>罗将军被韦贵妃陷害</title>
+  <originaltitle>罗将军被韦贵妃陷害</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>5082178</id>
+  <uniqueid default="false" type="tmdb">1040308</uniqueid>
+  <uniqueid default="false" type="trakt">1395754</uniqueid>
+  <uniqueid default="true" type="tvdb">5082178</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>太子醒来得知遭人构陷，太子愤懑之下在东宫大发雷霆，恰被魏征看到，魏征对太子的行为很失望。 掖庭的小太监给如意送来装有精致菜肴的食盒和一张署名为“慧”的字条，如意把菜肴喂给野猫，发现食物有毒。 德妃得知刘司药在徐慧送给如意的食盒里下毒，震怒。 徐慧夜探如意，如意得知徐慧受宠，为徐慧高兴，提醒徐慧后宫人心险恶。两人姐妹情深，对月结拜，义结金兰。 彭婆婆找到如意帮忙写一封信，并警告她最无情的就是帝王。 罗将军到掖庭狱探视旧情人郑子章，却只在敛房看到一具冰冷的尸体。罗将军伤痛至极。如意担心罗将军为她送饭。罗将军向如意说出过去被郑子章始乱终弃，如意从郑子章给罗将军的“绝交信”上看出破绽。罗将军激动之下把如意的脸划花。罗将军向春盈求证，得知郑子章始乱终弃的事其实是韦妃培养爪牙的阴谋。罗将军要杀春盈报仇，被关入掖庭狱。如意擦掉伤疤，原来罗将军并没有真正划伤如意的脸。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2681</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep09 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 38 集</title>
+  <originaltitle>第 38 集</originaltitle>
+  <showtitle>飞虎神鹰</showtitle>
+  <season>1</season>
+  <episode>38</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3168735</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰和小锦娣、桔子对公馆里人逐一排查，老丁拿来了来自铸模厂密电又有假钞模板要来，上海公馆监视的桔子和小锦娣发现公馆报务员刘霞放飞了鸽子，小锦娣开车一路跟踪，终于发现了李康手下王月藏身之所，并通过跟踪王月来到松江。她们接近了李康藏身之地，而此时李康还幻想靠假钞生意咸鱼翻身，丝毫未料到大祸即将临头。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>LeTV</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1152</width>
+        <height>652</height>
+        <durationinseconds>2590</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E38.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="38" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

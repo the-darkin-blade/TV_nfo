@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>长孙无忌提议送武媚娘回感业寺</title>
+  <originaltitle>长孙无忌提议送武媚娘回感业寺</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>69</episode>
+  <id>5109844</id>
+  <uniqueid default="false" type="tmdb">1040380</uniqueid>
+  <uniqueid default="false" type="trakt">1724290</uniqueid>
+  <uniqueid default="true" type="tvdb">5109844</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>长孙无忌得知媚娘没了孩子，准备上奏将媚娘送回感业寺。媚娘不解自己为何会小产，她把所有有嫌疑的人的名字都用茶水写在桌子上，媚娘发现自己竟然在怀疑李治。李治来告诉媚娘调查的结果，媚娘却明白自己是喝了皇后调制的茶水后才有腹痛感，认为真凶一定是皇后。瑞安怕媚娘会想不开，指挥宫人们把剪刀一类锋利物都收起来，媚娘告诉瑞安她不会寻短见，媚娘让瑞安把床下的木箱打开，里面全是媚娘为孩子准备的东西。王皇后看到李治为媚娘失魂落魄，羡慕不已。李治头疼加重，却不肯宣太医医治。长孙无忌面见李治，说动李治在一个月后送媚娘回感业寺。萧淑妃找到王皇后，说出自己的担忧，原来媚娘的孩子是媚娘和李治之间最大的障碍，现在孩子没有了，媚娘和李治的障碍也不复存在，因此媚娘完全有可能是自己流掉了孩子。王皇后深知这是萧淑妃的有心挑拨。媚娘把给孩子准备的衣服玩具都烧掉，高阳以为媚娘是不想见到这些，准备离开，承诺要为媚娘安排，不料媚娘竟然打算留下来，她要查出杀害孩子的真凶。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2654</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep69 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="69" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

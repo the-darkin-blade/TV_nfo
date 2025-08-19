@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>年希出言反击亦琛批评</title>
+  <originaltitle>年希出言反击亦琛批评</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586997</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>日东、亦琛与家骏等人在酒吧聊天，巧遇陪同事消遣的素心。因之前饭聚令亦琛得知素心对日东有意思，亦琛故借机将素心的心意告诉日东，日东听后便主动约会素心，家骏见状后也觉得自己也要出击寻找伴侣。
+
+Skylette新一代的空中服务员完成培训课程，正式开始在航班中实习，家骏为了支持胡娉特地出现，并且为胡娉弹唱出一首已经作了二十年的生日歌，来庆祝胡娉的生日并且要求她原谅自己。家骏更在众人的面前承认胡娉是自己的亲生女儿，让胡娉感动流泪。
+
+芮嘉志宏　回避家骏
+
+家骏想邀请芮嘉在台湾约会，但是芮嘉早已和志宏约好同游垦丁，于是两人偷偷离开酒店以避开家骏。芮嘉和志宏边喝酒边享受垦丁的阳光海滩时，两人都共识到大家也想追求一段没有责任而刺激的感情，并互相问及大家对伴侣的要求。之后两人个别回到酒店房间，但还是想念着对方，两人更发生亲密关系。
+
+年希亦琛　发生争执
+
+年希在模拟飞行中无视降落的安全程序，亦琛召见她并加以斥责，但年希不觉得自己有错的态度却令亦琛大为光火。这时年希突然问亦琛，为何她在意旁人目光而逃避自己，亦琛对年希突如其来的质问大感错愕无言以对，只好目送怒气冲冲的年希离开。
+
+亦琛讨教　恋爱问题
+
+亦琛应邀和小仪吃饭，他向小仪请教自己虽已放下对旧爱的思念，但这时候是否适合追求年希，亦琛也担心因为自己对年希的爱，而抹杀了她在Cadet Program的努力。当听了小仪的解答后，亦琛终能下定决心。
+
+年希得知　亦琛心意
+
+年希因生病而令身体变得非常虚弱，同行的以泰见状，便不理会年希的反对而通知亦琛。亦琛见年希病弱，便驾车接送她回家，年希发脾气欲强行下车，亦琛惟有下车追赶并喝停了年希。在年希的追问下，亦琛终于亲口承认对她有意，令她深受感动，与亦琛相拥不肯放手。
+
+亦琛下班后，故意同时邀约夏晨及亦风一起离间，希望能帮忙修补他们之间紧张的关系，但他却发现夏晨还是在逃避亦风，亦风也因为夏晨对自己的误会而感不快。
+
+亦琛私下与夏晨见面，并将缘分天使送给夏晨，夏晨却推却，但亦琛指希望苏怡的缘分天使能够帮助现在的夏晨和亦风，夏晨最终收下天使。
+
+少雄年希　同被表扬
+
+Cadet Program终于完成第一阶段，其中少雄、子麟、以泰及年希成绩特别出众，被日东公开表扬……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2667</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E31.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

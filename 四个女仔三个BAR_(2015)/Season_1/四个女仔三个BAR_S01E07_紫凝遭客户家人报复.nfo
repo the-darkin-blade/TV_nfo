@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:03:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>紫凝遭客户家人报复</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>四个女仔三个BAR</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3188644</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>荃湾一大厦顶楼连天台的业主葛大仁被告刑事毁坏，想请慧芸替他打官司，但慧芸不在港，大仁信不过其他律师，宁愿自辩，可欣教他可把案情相关资料写在纸上，呈给法官看。
+
+案件开审，大仁向证人问话时情绪激动，法官怀疑大仁精神有问题，把案件押后审讯，并要求大仁的精神报告，其间大仁须还押在小榄精神病治疗中心。慧芸回港后立即往见大仁，得悉可欣教大仁自辩，狠狠的教训了可欣一顿，可欣忍不住哭起来。达勤介绍安居替被控不小心过马路的林健威辩护，并试探安居对酬金的要求。
+
+打赢官司　不感兴奋
+
+安居询问智毅意见，智毅模拟证人上庭答辩的情况，安居发现师傅没依口供内容作答，智毅指证人上庭时的表现是无法预知的，提醒安居不要被准备工夫规限了他的表现，并着靖姿及梓博协助安居处理该案。
+
+安居与靖姿及梓博到案发现场视察，梓博跟几位街坊聊了几句，知道观察现场的最佳位置，靖姿欣赏梓博积极主动的做事态度。安居成功令健威脱罪，但他并不兴奋，因为他觉得健威并非好人，然而他身为辩方律师，必须尽全力为他打赢官司而感矛盾。妁彤闻言提醒安居，身为大律师要维持的是司法制度，并非要决定被告是否有罪。
+
+要求翠花　代收包裹
+
+淇淇的手机仍是转驳到留言信箱，梓博只好留言请她回电话。靖姿与梓博以黑天使及M31身分网聊，分别谎称自己的职业为咖啡师及调酒师。
+
+慧芸教可欣如何处理大仁的案件，森木亦说出一般被告人不宜自辩的理由，可欣获益良多。翠花在酒吧听隽烨讲及一些行内的潜规则时，接到紫凝来电，要求她立即回家代收包裹。翠花回到家门外，发现送包裹者竟是安居。
+
+提议子轩　承认控罪
+
+翠花向安居表示，她与紫凝的背景、性格、生活习惯等都是两个极端，却可以住在一起，她自己也觉难以置信。
+
+智毅在大学讲课，李丹因过度紧张而服药，无法如期交功课，智毅接受她补交。智毅发现慧芸有明显的改变，在家边工作边听歌、不饮咖啡饮花茶、衣着喜好、甲油颜色也有所转变。大仁案件再次开庭聆讯，慧芸成功争取撤销对大仁的控罪。十七岁的吴子轩被控贩运危险药物，紫凝因他未够十八岁，没有案底，又是初犯，且藏有危险药物不多，建议子轩认罪，相信子轩会被轻判，无须入狱……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-20 00:03:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2689</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E07.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

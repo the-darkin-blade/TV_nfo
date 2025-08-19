@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>夏晨向亦风表白</title>
+  <originaltitle>夏晨向亦风表白</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>37</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5587003</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>Manna在Skylette等待BJ，准备进行两人的长途旅行，年希也为Manna能和喜欢的人在一起感到高兴，并叫Manna放心不需要担心她。但Manna也趁机说出，指一早已经察觉到年希和亦琛的关系。
+
+机长徽章　赠予年希
+
+BJ从公司出来，众Skylette机师也一起聚首，一同欢送BJ荣休。在BJ临离开前，决定将自己在民航处的Authorized Examiner职位交给亦琛，BJ也将自己随身多年的机长徽章赠送给年希，代表BJ已经将年希视作一家人。亦琛也正式在Manna和BJ面前，承认自己和年希正在交往，却被在身后偷听的同事全部听到了。
+
+为陪爱苹　格志出丑
+
+爱苹邀约格志到酒吧看才艺表演，原来爱苹也邀约了其他同事前来，当中也包括了华特，令初时以为是和爱苹单独约会的格志顿感愕然。但因为表演太无聊，很多人也先行离开，惟独爱苹和华特觉得表演有趣而留下。格志为了陪伴爱苹而勉强相伴，但是之前格志已经因为长途机而变得相当疲劳，最后爱苹和华特惟有先用计程车送格志先行离开。
+
+华特和爱苹两人一起散步，在交谈之间，华特觉得自己和爱苹的喜好很相近，两人的距离也开始拉近。
+
+志宏担心　亦风介意
+
+亦琛因年希通过机师试，特地安排了在餐厅庆祝，但也事有凑巧遇上了正和Pansy一起约会的夏阳，而原来夏阳也是因为想遇上年希才特地选择这餐厅。
+
+以泰和亦风一起飞行，而负责的机长正是志宏，起飞之后，志宏一脸若有所思，原来一直以来亦风的成绩都比志宏好，担心亦风介意自己抢先成为机长。虽然亦风嘴上说不介意，但事实上也担心自己成为机长只剩下最后一次机会。
+
+祖思要求　影婚纱照
+
+祖思从医生处接过验身报告后表现忧伤，陪祖思去医院的爱苹问起结果，祖思也故意说其他话题带过加以隐瞒。原来祖思的病情已经转差，如不进行手术将只剩下一个月的寿命。
+
+祖思约亦风出来，指希望亦风能陪她影婚纱照，并说出这是她人生中最后一件想做的事，亦风只得应允。看到祖思竟然拿出了夏晨转赠给自己的缘分天使后，亦风忍不住往找夏晨理论，斥责她为甚么将亦琛所送的缘分天使送出，将自己的幸福拱手让人。
+
+以泰努力　安慰夏晨
+
+夏晨表明是因为不忍心伤害身患绝症的祖思，亦风不禁气结离开。夏晨心情变得忧郁起来，以泰见状便上前安慰，并支持夏晨要争取自己的幸福……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E37.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="37" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

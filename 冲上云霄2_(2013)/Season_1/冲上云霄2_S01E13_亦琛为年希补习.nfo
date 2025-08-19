@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:01:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦琛为年希补习</title>
+  <originaltitle>亦琛为年希补习</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586978</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>亦琛不断斥责年希，认为她参加「PPP」只是想追逐已经死去了的爱情，年希听后再不能够忍耐自己激动的感情，转身离开了训练中心，并在外面仰天放声大哭，因亦琛的话彻底地触及年希内心的伤口。之后年希并没有回训练中心，并回家去找Manna，Manna没有追问年希发生了甚么事，但却愿意无条件的支持她。
+
+亦琛得知　年希故事
+
+翌日，亦琛与一个在伦敦开设书店的老朋友见面，并想他归还之前借出了的飞行书籍，从那位朋友口中，得知了书被一个叫Daniel的飞行员借走，但是因为意外坠机死亡，也不能完成在流星雨下向自己女朋友求婚的愿望。亦琛听罢后便知道了那个死去的飞行员就是年希的前男朋友。
+
+之后亦琛找到在河边温习飞行知识的年希，而年希一直在温习的书，就是当年亦琛借出去的那一本。之后亦琛向年希说明此书的来历并想要回收，但是年希却不愿意归还，指看着这本书就像是和Daniel身处于同一个世界，亦琛听后大怒并一手将书撕毁，说不想自己重要的回忆成为年希逃避现实的藉口。
+
+尽力鼓励　年希振作
+
+另一边厢，夏阳和子麟一起外出散步，子麟不断向夏阳追问自己在「PPP」的表现，夏阳却反问子麟为甚么要放弃成为游泳选手而选择成为飞行员，原来子麟一直不希望兄长担心，故希望能成为收入稳定的飞行员，夏阳听后想起了自己与夏晨的关系，心头不禁一阵感慨。
+
+在训练中心，亦琛为了让年希能追上进度，特地帮她进行模拟飞行的补习。年希一边练习，一边幻想着望向金牛座的星空，亦琛也附和着年希。之后「PPP」的学员被安排往飞行博物馆参观，亦琛着年希寻找「Old Bird」，在年希不断找寻之下，终于找到了，原来「Old Bird」是一个女飞机师的故事，亦琛以此来鼓励年希继续以飞行为目标。
+
+文翠机上　遇上生母
+
+文翠和卓芝是同事兼好友，文翠的养母也正好与文翠乘搭同一班航机，为了管好养母令文翠感疲惫，但虽如此，两人之间的关系却让人感觉温暖。而在机舱的另一边，影后江薇也在机上，并且特别留意文翠的一举一动，卓芝撞破江薇用平板电脑偷拍文翠。之后江薇私下和卓芝谈话，原来江薇是文翠的生母，因为事业江薇选择了事业而放弃家庭，虽然不求能认回女儿，只求能看到女儿幸福生活……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E13.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

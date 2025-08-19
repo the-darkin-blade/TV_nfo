@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 4 集</title>
+  <originaltitle>第 4 集</originaltitle>
+  <showtitle>孤岛飞鹰</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281697</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰到换衣间换剑道服，把手枪放到换衣间椅子下面。今井武夫宣布开始，燕双鹰和平田市戴上头盔开始比试剑道。平田市十分狂妄，连剑道最基本的礼仪都不讲了。青木弘一认为他一个小小的少佐，仗着天皇特使的势力，如此狂妄对待他的朋友燕双鹰，是不把他们海军放在眼里。剑道比试十分精彩，众人不禁拍手称好，平田市频出狠招，但燕双鹰却放弃了击中他要害的机会，主动承认输给了平田市。青木弘一对燕双鹰有机会获胜耿耿于怀，燕双鹰却说比赛到这个份上正是恰到好处。</plot>
+  <runtime>38</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1908</width>
+        <height>1080</height>
+        <durationinseconds>2284</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>04_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

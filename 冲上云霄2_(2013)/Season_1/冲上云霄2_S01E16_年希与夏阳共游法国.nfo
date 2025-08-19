@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:01:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>年希与夏阳共游法国</title>
+  <originaltitle>年希与夏阳共游法国</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586982</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>年希不断向亦琛追问有关他和苏怡的事情，也因此触动到亦琛的痛处，并独个儿外出冷静。Manna见状立刻追出门外去努力安慰亦琛，亦琛向Manna承认自己未能对苏怡忘情，Manna亦一边安慰亦琛，一边代年希道歉。
+
+天气影响　终止飞行
+
+「PPP」的学员经过漫长的训练课程后，终于迎接最后一日的训练，日东及亦琛等人安排学员乘上飞机体验花式飞行，但因为年希迟交功课，被亦琛将她安排至最后。学员们都十分享受飞行体验，但当轮到年希时，亦琛却收到雷暴警报而决定终止飞行，年希为此失望不已。
+
+晚上年希独自在课室中制造机舱模型，亦琛知道年希因不能飞行定感失望，故前去安慰年希，但他见年希却扮作没事般继续制作模型，亦琛惟有离开。
+
+年希夏阳　激情拥吻
+
+翌日早上，亦琛安排了小型飞机，打算为年希补回花式飞行，但亦琛却发现年希一早便离开房间。亦琛在年希的桌上发现了缘分天使，而他凭气味肯定了这就是属于苏怡的缘分天使。年希一早外出，原来是为了在飞机坪上利用模型扮演飞行，藉此弥补不能飞行的失落，此时她却遇到了路过的夏阳，夏阳便带她进行了一次飞行。
+
+飞行过后，年希发现了夏阳拥有能解开她手镯的锁匙，夏阳用此锁匙解开了年希的手镯，年希有感夏阳的出现是一种上天注定的缘分，便禁不住心中的感情和夏阳在停机坪拥吻，而这一切却全部看在了在亦琛的眼中。
+
+亦琛缅怀　昔日感情
+
+夏阳和年希自行离开了训练中心，两人同游法国享受浪漫，两人因为汽车无油而要在法国一间废屋中留宿，在留宿其间两人发生了亲密关系。年希和夏阳来到了法国着名的锁桥，桥上的每一个铁锁也代表了一段爱情的承诺。年希要夏阳等待她，并独自将前男友的手镯锁在桥上，为这段已经过去的恋情告别。
+
+另一方面，亦琛则和其他学员乘飞机回港，而亦琛自取回缘分天使后，便不断沉浸在与苏怡的回忆中，没法放下对苏怡的思念。
+
+卓芝不满　世沛家人
+
+世沛和卓芝也开始预备婚礼，世沛的家长因此和亦琛他们见面吃饭，研究他俩未来的事，世沛是围村人，父母的思想也较为专制保守，令天性骄纵的卓芝感到自己和世沛的家人难以相处。日东及芮嘉举办酒会庆祝两人的结婚周年，一众友好也都出席……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2645</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E16.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

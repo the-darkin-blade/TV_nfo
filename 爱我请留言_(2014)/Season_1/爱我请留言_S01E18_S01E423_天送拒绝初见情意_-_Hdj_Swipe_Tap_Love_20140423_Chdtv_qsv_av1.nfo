@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>天送拒绝初见情意</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>爱我请留言</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2299938</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>志安到天送家，表示自己找回「勇」与梦想，他要求加入天送公司，希望与天送一同追寻梦想。天送怀疑志安在大雨天仍想「飞车」，志安自言只要专心便可以，且很想告诉「她」自己「找到了」。天送意会志安所说的「她」便是柳娟，志安指柳娟不知他要骑车，只以为他仍陪着母亲。
+
+柳娟传短讯嘱志安不要骑电单车，又谓明晚会告诉他&lt;蒙眬夜雨里&gt;的他是谁，却突然接到志安撞车的噩耗。初见致电通知天送志安撞车，而她则要赶往医院陪柳娟，却找不到锁匙，又找不到母亲。
+
+望与志安　同寻梦想  天送在电话中教她如何找锁匙，并在爱林的零钱盒取了足够的现金，又嘱她要带伞，甚至提醒她走到街口等的士，让她尽早抵达医院。  志安的手术需时十小时，警察把志安的手机交给柳娟，柳娟发现志安曾写短讯给她，表示想与她一起骑车，志安母亲听到，立即瞪向柳娟。柳娟上前，何母解释并非怪责柳娟，她只是生儿子的气而已。
+
+志安的手术结束，并度过了危险期，但未知会否苏醒过来。柳娟一直陪着志安，跟他说话。天送隔着门对志安说，会等志安出来与他一起寻找梦想，而他刚想到为公司命名为「1/2 Sweet Home」。
+
+担心日熙　得罪客人  天送与初见离开医院后，初见心里很想问他为何是「Sweet Home」，为何是「1/2」，她还想问从前二人有说有笑，为何天送要把一切都变走了，但却没有说出口。未料天送竟借口要接女儿放学，表示不送初见回公司。
+
+志锋回到公司，看见本应忙着剪片的日熙却伏在桌上睡着了。日熙着志锋回家陪母亲，志锋却表示对日熙没有信心，而且翌日到关岛拍摄工作的整个行程都是志锋自己策划的，现在不能前往，更担心日熙无法处理，并像过往一样沉不住气得失了客人，他直言日熙根本不懂与人相处。日熙承诺会想出几个应变方案，努力把事情做好，要他放心。
+
+皎妃决定　回家乡去  家好打理完妻子的身后事，提早销假回到公司，因为独个儿在家的日子更难熬。家好把饭盒分了一半给初见，感叹没了伴儿，任何事都会剩一半。
+
+柳娟不时给志安手机发短讯，并做了之前与志安一起做过的事，心里渴望志安早日醒来。
+
+皎妃辞职，柳娟以为她已找到她的王子，皎妃却谓自十三岁起便穿上高跟鞋，穿州过省的等待王子出现，却总没等到。她感到倦透，决定放弃并回乡去。… ...</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Swipe.Tap.Love.Ep18.20140423.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Swipe Tap Love 20140423 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>爱我请留言</showtitle>
+  <season>1</season>
+  <episode>423</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Swipe.Tap.Love.Ep18.20140423.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="423" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

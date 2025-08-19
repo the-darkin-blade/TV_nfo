@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 8 集</title>
+  <originaltitle>第 8 集</originaltitle>
+  <showtitle>大漠枪神</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310865</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>夜晚，燕双鹰潜入理惠房间问她是谁出卖了他和步鹰，理惠告诉他自己只知道他叫喜鹊。走廊里，燕双鹰再次成功从沈七七的枪下逃脱。燕双鹰以为步鹰已死，带着步鹰的遗物来到山顶小庙，遇到正赶来告诉步鹰联络人是叛徒的侦查员宋三。宋三告诉燕双鹰，游击三组的组长正是南岔子村的燕彪。燕双鹰再次潜入301分站欲带走步鹰的尸体。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2811</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>E08_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

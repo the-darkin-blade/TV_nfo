@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>武如意在琉璃宴上大出风头</title>
+  <originaltitle>武如意在琉璃宴上大出风头</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>5082183</id>
+  <uniqueid default="false" type="tmdb">1040325</uniqueid>
+  <uniqueid default="false" type="trakt">1395764</uniqueid>
+  <uniqueid default="true" type="tvdb">5082183</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>如意向李淳风求得了破佛齿的方法。徐慧苦思棋局，在天亮之际参破棋局，如意一夜陪伴。徐慧穿上了蓝色云锦织就的新裙子，如意把杨妃所赐的银丝珐琅扇赠给徐慧。 琉璃宴当日，如意扮作少年郎出现在琉璃宴上。杨妃看见银丝珐琅扇在徐慧而不是如意手上，脸露一丝不悦。唐朝的首席琵琶师出场前意外弄伤。西域高昌国乐师挑衅，在如意的安排下，扮作奉酒侍女的女官迎战，对方叹服。 李世民收到军情奏报，伊州统领王居麟擅自命令守城兵马后撤二十里。韦源承觐见，将原因归结于自己的决策。李世民才明白，王居麟居然是韦氏的人，自己低估了韦氏的势力。李世民担忧琉璃宴会发生不可控的事情，动身前去参加琉璃宴。 高昌乐师见果然随便一个宫女都可以演奏古曲，不敢再提挑战大唐乐师。 天竺国师于宴前大夸佛齿的无坚不摧，要大唐以十万黄金买下佛齿，如意用从李淳风处得来的羚羊角将佛齿击碎，再次顺利过关。 日本大棋手物部挑战大唐国手，徐慧却出现了醉酒的症状，半途弃子。如意接替徐慧，硬是凭借对之前徐慧和翰林院棋手棋局的记忆，在胜负关键的一手上，将棋下成了平局。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep14 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

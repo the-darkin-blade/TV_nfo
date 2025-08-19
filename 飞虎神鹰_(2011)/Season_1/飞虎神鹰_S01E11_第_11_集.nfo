@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 11 集</title>
+  <originaltitle>第 11 集</originaltitle>
+  <showtitle>飞虎神鹰</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3168708</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>马志成用枪指着燕双鹰却不知自己燕双鹰早已让九头等人将他的手下全部打死，马志成求饶，燕双鹰打断他的双脚，要将他打死时，桔子却出手制止了。但将马志成赶出小都会。共产党的铁流小组来到了九号赌场清理了马志成手下的尸体，老张的手下小英说出了赌场内的爆炸绝对不是一般人能做得到的因为爆破做到了精准爆破，所以说很有可能是国民党的特务参与，老张看出了这次的爆破跟燕双鹰肯定有关。</plot>
+  <runtime>41</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>LeTV</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2519</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E11.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

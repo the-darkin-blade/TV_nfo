@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>潮拜武当</title>
+  <originaltitle>潮拜武當</originaltitle>
+  <showtitle>潮拜武当</showtitle>
+  <sorttitle/>
+  <year>2015</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>1</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>一群来自香港不同阶层的年轻人，各自怀着不同原因，远离忙碌烦嚣的香港大都会，来到武当山上，追随两位甚有个人风格的男女武当高手学习武术，一起过着平和恬静的生活，从而认识到充满人生智慧的道家思想。经过几个月的学习，这群年轻人除了学到博大精深的武当功夫、彼此建立起深厚友谊之外，更从道家精神中对人生有了更深入的体会，因而帮助他们摆脱了上山之前所背负着的沉重包袱、解开了一直困扰着他们的种种心结，得以重拾信心，勇敢地继续面对眼前的人生大道。与此同时，一个隐藏于众人之间的秘密竟被揭开，使众人彼此之间的友谊和信念面对着严峻的考验。</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"90644","tvdb":"295905"}</episodeguide>
+  <id>295905</id>
+  <imdbid/>
+  <tmdbid>90644</tmdbid>
+  <uniqueid default="false" type="tmdb">90644</uniqueid>
+  <uniqueid default="true" type="tvdb">295905</uniqueid>
+  <premiered>2015-05-25</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <actor>
+    <name>杨茜尧</name>
+    <profile>https://www.themoviedb.org/person/1222259</profile>
+    <tmdbid>1222259</tmdbid>
+  </actor>
+  <actor>
+    <name>钱小豪</name>
+    <profile>https://www.themoviedb.org/person/544797</profile>
+    <tmdbid>544797</tmdbid>
+  </actor>
+  <actor>
+    <name>元秋</name>
+    <profile>https://www.themoviedb.org/person/119426</profile>
+    <tmdbid>119426</tmdbid>
+  </actor>
+  <actor>
+    <name>陈智燊</name>
+    <profile>https://www.themoviedb.org/person/1163184</profile>
+    <tmdbid>1163184</tmdbid>
+  </actor>
+  <actor>
+    <name>梁靖琪</name>
+    <profile>https://www.themoviedb.org/person/1232672</profile>
+    <tmdbid>1232672</tmdbid>
+  </actor>
+  <actor>
+    <name>元华</name>
+    <profile>https://www.themoviedb.org/person/57609</profile>
+    <tmdbid>57609</tmdbid>
+  </actor>
+  <actor>
+    <name>郭政鸿</name>
+    <profile>https://www.themoviedb.org/person/140479</profile>
+    <tmdbid>140479</tmdbid>
+  </actor>
+  <actor>
+    <name>陈自瑶</name>
+    <profile>https://www.themoviedb.org/person/1240092</profile>
+    <tmdbid>1240092</tmdbid>
+  </actor>
+  <actor>
+    <name>康华</name>
+    <profile>https://www.themoviedb.org/person/1411531</profile>
+    <tmdbid>1411531</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

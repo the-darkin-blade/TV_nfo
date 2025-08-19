@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 9 集</title>
+  <originaltitle>第 9 集</originaltitle>
+  <showtitle>飞虎神鹰</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3168706</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>九头与燕双鹰来到了小都会歌舞厅与马志成谈判，桔子好心提醒要燕双鹰离开，燕双鹰要桔子跟他跳舞，这时马志成看到桔子在和燕双鹰在跳舞，立刻来到了贵宾厅，并拿枪指着燕双鹰，燕双鹰全身挂满手榴弹，马志成被吓到，燕双鹰拿出枪指在马志成的头上，警告马志成三天内不滚蛋就要他的命将其激怒。</plot>
+  <runtime>42</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>LeTV</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2554</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E09.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

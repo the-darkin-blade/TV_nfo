@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>武媚娘假死和李牧相遇</title>
+  <originaltitle>武媚娘假死和李牧相遇</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>50</episode>
+  <id>5103005</id>
+  <uniqueid default="false" type="tmdb">1040361</uniqueid>
+  <uniqueid default="false" type="trakt">1712479</uniqueid>
+  <uniqueid default="true" type="tvdb">5103005</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李世民说出鸩杀李牧的事，媚娘心痛绝望下，对李世民拔剑相向，媚娘下不了手，想要自尽，被李世民阻止。李世民也赐了媚娘一壶酒，媚娘饮下。媚娘再醒来时，身边正是李牧，在媚娘的追问下，李牧道出实情，这一切都是李世民的设计。李世民即将亲征北境，有感将会丧命，提前把媚娘托付给李牧照顾。李世民亲征北境，李世民临行前让李治监国，徐慧掌管后宫。李牧让媚娘自行选择去留，媚娘决心到辽东去找李世民。媚娘翻山越岭赶赴北境，锦乐宫中，徐慧效仿韦妃昔日的雷霆手段立威。媚娘在充斥着兵乱的辽东寻找李世民的踪迹，险象环生，李牧不放心媚娘，一路偷偷跟随保护。媚娘身陷北境士兵围攻，险遭强暴，关键时刻，李牧出现救下媚娘，两人一起逃走。然而李牧的马早已累得筋疲力尽，后有追兵的同时，前方也出现了北境士兵，两人似陷入绝境，这时，李恪军队出现，北境士兵逃跑。李恪认出媚娘，惊讶。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2670</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep50 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="50" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

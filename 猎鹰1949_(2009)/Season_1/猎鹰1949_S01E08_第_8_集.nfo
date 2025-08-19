@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 8 集</title>
+  <originaltitle>第 8 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281645</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>老奸巨猾的老板并没有露面，而是派副官李瑞山假扮自己前往十六号公寓。假扮老板的李瑞山与燕双鹰等人商谈沙坪坝大礼堂的刺杀计划。计划决定由燕双鹰全权负责这次行动，燕双鹰调兵遣将开始部署。而李延平也准备安排“五号”与燕双鹰接头。燕双鹰与林玉仙扮作游人到大礼堂附近拍照以便观察附近地形。林玉仙问及燕双鹰对老板的印象，燕双鹰告诉她早已识破他见到的老板是他人假扮，只是没有当面揭穿。林玉仙对燕双鹰敏锐的洞察力佩服有加。燕双鹰潜入沙坪坝大礼堂与李延平接头，二人互通情报后决议，用移花接木之计让燕双鹰完成大礼堂刺杀野司首长的黑鹰一号行动，以便使燕双鹰获得老板的绝对信任。同时，李延平也将“五号”情报员的情况告诉燕双鹰，并准备安排二人在百乐门舞厅接头，以便相互配合铲除敌特。燕双鹰讯问李延平五号情报员久在敌人内部难道不能提供老板的行踪只要摸清他的行动规律就可以及时将他抓捕。李延平告诉燕双鹰事情没有那么简单这个老板非常狡猾平时很少露面即使要见面见面的时间和地点也都由他临时派人来通知所以无法掌握其确切的行踪。林玉仙暗中与老板见面，向他汇报李瑞山扮演的老板被燕双鹰识破的情况，老板虽然大为震惊，但也消除了一些对燕双鹰的怀疑，于是老板决定等沙坪坝大礼堂刺杀行动完成后再亲自与燕双鹰见面。燕双鹰按照原定计划到百乐门舞厅与“五号”接头，“五号”却没并有现身，他只是躲在暗处将李延平规定的接头信物——一支老刀牌香烟安全的交到了燕双鹰的手上。</plot>
+  <runtime>37</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2258</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep08_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

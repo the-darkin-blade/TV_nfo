@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:03:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>梓博怀疑靖姿是黑天使</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>四个女仔三个BAR</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3188650</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>韵诗的视像作供光碟在法庭播出，靖姿看着替韵诗难受。忠祥夫妇与祖贤在法庭认识，不时一起讨论所旁听的案情，休庭时，三人讨论百通案，均认为百通所犯罪行严重，但祖贤表示有智毅替百通辩护，情况不会太悲观。淑芬夸祖贤有见识，知道智毅实力非凡。祖贤一见智毅便想躲开，但被智毅叫住，淑芬好奇祖贤竟认识智毅，祖贤自言一出生便与智毅认识……
+
+靖姿计算时间，想到她认识韵诗时，对方已是援交少女，她自问思想保守，没法接受韵诗的行为。梓博借一瓶瓶装水安慰靖姿，发觉靖姿比他更有创意。
+
+邀请祖贤　家中晚饭
+
+靖姿不适，智毅着梓博陪靖姿看医生，然后送她回家。
+
+智毅表示晚上他与慧芸都有事忙，不能陪祖贤晚饭，忠祥听到，提议祖贤到他们家吃饭，智毅知道二人是梓博的父母，也放心答应。
+
+梓博给靖姿煲中药，又替她维修家居电器，梓博问靖姿为何不为可欣婚礼做姊妹，靖姿反问梓博为何知道仲衡一脚踏两船仍要帮他，梓博指仲衡已知错，应给他机会。靖姿坦言不想仲衡因她而与可欣吵架，所以不做姊妹，梓博表示已提醒仲衡要一心一意对可欣，别再拈花惹草。
+
+可欣未有　说出真相
+
+祖贤透露，智毅间中会提及梓博，他因而知道梓博之前是一位工程师，周家三口均对此话题甚感兴趣。
+
+紫凝及翠花陪可欣购买婚礼用品，二人埋怨仲衡总不出现帮忙，她们一进门便发现地上的座位排位表，知道是靖姿放在门下的，紫凝以为靖姿不做姊妹便不再参与婚礼的筹备事宜，翠花却指靖姿是个言而有信的人，她又问可欣靖姿退出姊妹团的原因，可欣以靖姿工作忙碌为借口，并未说出真相。
+
+翠花提议请靖姿到可欣家一起吃寿司，可欣略带尴尬的到隔壁找靖姿，还强调家中只有她与翠花及紫凝。
+
+未及接听　阿清来电
+
+靖姿因刚服了中药表示不吃，她关心可欣筹备婚礼的进度，彼此倾谈间仲衡来到，充满戒心的促女友回家。  达勤忙得衣衫不整，慧芸觉得甚是碍眼。耀力把一本书送到律师楼给慧芸，并提醒她参加晚上的读书会聚会，他看见自己赠慧芸的相片，问慧芸是否刻意把相片带到办公室中，慧芸表示并非巧合。慧芸在电视看到耀力接受访问，抢过遥控，不许祖贤转台，耀力说花茶的功效繁多，智毅不屑。
+
+陪审团退庭，进陪审员室商议前，阿清打电话给仲衡，仲衡正与可欣购买嫁娶金器，未及接听……</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-20 00:03:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2710</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E13.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

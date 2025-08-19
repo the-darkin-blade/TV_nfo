@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 23 集</title>
+  <originaltitle>第 23 集</originaltitle>
+  <showtitle>大漠枪神</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310883</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>躺在河滩旁昏迷的大莲被杜奇的两个手下带回山寨，杜奇安排大莲去做老刀把子身边的奸细，否则就把她卖到妓院，聪明机灵大莲得到老刀把子的喜爱，留在了山寨。燕双鹰带着马魁去和沈七七做人质交换，马大炮得知马魁也死了，发誓三天后要杀燕双鹰。马大炮带齐所有人在胡家窝棚埋伏欲杀燕双鹰，并抓了全村的人，如果杀了燕双鹰，大家都没事，杀不了他，就杀全村人。胡家大院们前，燕双鹰和马大炮一伙土匪展开火拼，燕双鹰告诉马大炮是沈七七杀了马魁，沈七七还想利用燕双鹰杀了马大炮自己做白罗山的老大。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1080</height>
+        <durationinseconds>2789</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>E23_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

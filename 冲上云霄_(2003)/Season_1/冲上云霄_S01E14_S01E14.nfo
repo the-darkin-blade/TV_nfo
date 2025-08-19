@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦风、希欣和浩聪险遇空难</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>4328857</id>
+  <uniqueid default="false" type="tmdb">1982451</uniqueid>
+  <uniqueid default="false" type="trakt">1851328</uniqueid>
+  <uniqueid default="true" type="tvdb">4328857</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>庆祝派对上，亦琛执行传统，把众人推下水池，众人享受一个愉快的晚上。苏怡挂念亦琛，收到亦风的电邮，却没有亦琛的消息，感失望，善波取笑她。机场出现一个精神失常的怪人，苏怡对他多加留意，予以协助。
+
+以珊和苏怡在机场替一孕妇接生，孕妇感激二人帮忙，决定把新生女婴取名怡珊，二人高兴不已。苏怡把女婴的相片电邮给亦风，亦风替她们高兴，而亦琛见到照片上的以珊，心神恍惚。
+
+众人接受更严格之飞行训练，因经验不足而失误多多，亦琛令众人加以检讨。亦琛把学员分成小组进行飞行训练，亦风、希欣和浩聪被编为一组，亦风反对，欲独自一人飞行，亦琛教训之，指出亦风急躁，希欣保守，浩聪中庸，三人可互补对方不足，应好好合作。亦风、希欣和浩聪合作设计飞行计划，亦风采用一进取的飞行方法，亦琛知道感担心，但日东劝他应信任亦风。亦琛见三人的计划有板有眼，准备十足，感安慰。
+
+飞行当日，天气转坏，希欣和浩聪担心，亦风既来之则安之，亦琛表面冷淡但处处留神。亦风决定起行，希欣和浩聪同意，三人起飞。起飞后，天气急速转坏，机件故障，幸三人机智冷静度过难关，亦琛等导师对三人加以赞许。众人顺利完成训练回港，毕业典礼之上，众人喜气洋洋，但浩聪父亲因事忙缺席，令他失望不已。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E14.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 24 集</title>
+  <originaltitle>第 24 集</originaltitle>
+  <showtitle>飞虎神鹰</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3168721</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>赤手空拳的燕双鹰巧妙地开动机关，操控自动化射击系统，将葛彤和手下全部击毙。葛彤临死前交代了李康的藏身处。自以为已经大功告成高世宝去礼查饭店寻欢作乐，李康则藏身在位于汾阳路八十号公馆的总部，等候葛彤回报。</plot>
+  <runtime>41</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>LeTV</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2483</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E24.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

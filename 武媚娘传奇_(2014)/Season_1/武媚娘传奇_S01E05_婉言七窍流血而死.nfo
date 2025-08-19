@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>婉言七窍流血而死</title>
+  <originaltitle>婉言七窍流血而死</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>5082174</id>
+  <uniqueid default="false" type="tmdb">1040304</uniqueid>
+  <uniqueid default="false" type="trakt">1395727</uniqueid>
+  <uniqueid default="true" type="tvdb">5082174</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>皇帝心中升起好奇，郑婉言正跟武如意和徐惠在院落内游玩，李世民站在旁边目不转睛注视郑婉言。一位公公高声呼喊郑婉言，提醒郑婉言前往李世民指定的宫殿，郑婉言随公公离去之时，武如意感概万分意识到入宫的女人跟市集上的器具一样供人挑选，郑婉言来到李世民身边坐下。武如意来到文德皇后居住的宫殿，对着文德皇后佩戴过的面罩行礼，行完礼武如意坐到案前提笔写字。李世民见殿内有灯火，走入殿内，武如意正坐在殿内写字，李世民站在不远处悄悄观注武如意。郑婉言因为长得跟逝世的皇后非常相像获得李世民重视，李世民想起当年为文德皇后画眉的场景。武如意引领李世民到楼上游玩，登楼观看普通宫女的出行情况，希望李世民不要每天按部就班生活，稍微改变一下做息时间就能看到宫中发生的许多有趣的事情。 郑婉言与萧蔷在宫中相遇，萧蔷对郑婉言恶言相向，郑婉言提醒萧蔷不能怠慢她，皇帝已经赐了她名号，萧蔷没有将郑婉言的话放在心上，迅速抓起郑婉言的手腕查看守宫痣，发现郑婉言手腕上依然留着守宫痣。郑婉言来到武如意身边述苦，武如意一脸关怀开导郑婉言。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2687</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep05 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第3集</title>
+  <originaltitle>第3集</originaltitle>
+  <showtitle>金大花的华丽冒险</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>4565183</id>
+  <uniqueid default="false" type="tmdb">911310</uniqueid>
+  <uniqueid default="false" type="trakt">919443</uniqueid>
+  <uniqueid default="true" type="tvdb">4565183</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>亮妍坠崖性命垂危，伤心欲绝的欧阳泰除了想救回亮妍，还得想办法瞒住爱女心切的杜父，保全盛大经营权，他该如何瞒天过海。金爸欠下巨额赌债，将杂货店抵押，角头老大胡金标上门讨债，限时一个月内还清欠款，否则就得搬家。大花家遭遇前所未有的危机。眼看就要金家就要散了，冠军决定冒险去找金标老大协商，会获转圜亦或引发更大的风暴。胡金标最疼爱的独生女晓菲，仑庄一带没人敢惹她，偏偏冠军鸟都不鸟她，她反倒觉得冠军超Man的，硬要他当司机!究竟晓菲的出现，会对大花和冠军的感情带来什么波澜。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-08-19 23:55:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2680</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[壹高清]金大花的華麗冒險.King.Flower.Ep03.1080I.Hdtv.H264.2Audio-Onehd_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 1 集</title>
+  <originaltitle>第 1 集</originaltitle>
+  <showtitle>英雄</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3278071</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>大刀步鹰救下了燕双鹰，一心想要报仇，步鹰让拜他为师。日本人得到了步鹰的消息，准备去抓捕。步鹰给燕双鹰治好病，并逃出日本人抓捕。燕双鹰一直想要报仇，但步鹰通过给他讲道理，让他明白了，一定要冷静下来，寻找机会，才能报仇成功，不然只能是送死。步鹰的组织有一个暗杀日本长官的计划，燕双鹰是其中一颗重要的棋子。计划开始执行，燕双鹰却在屋子中与同样蒙面而来的理惠相遇，两人动起手来。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.66</aspect>
+        <width>1668</width>
+        <height>1006</height>
+        <durationinseconds>2815</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E01.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

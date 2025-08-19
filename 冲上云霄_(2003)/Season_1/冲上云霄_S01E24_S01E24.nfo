@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>立豪与浩聪好友反目</title>
+  <originaltitle>Episode 24</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id>4328867</id>
+  <uniqueid default="false" type="tmdb">1982462</uniqueid>
+  <uniqueid default="false" type="trakt">1851338</uniqueid>
+  <uniqueid default="true" type="tvdb">4328867</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>苏怡发现善波和嘉露有私情，替二人高兴。嘉露感尴尬，命令善波保守秘密，更警告他不要痴心妄想。亦琛对新工作感不习惯，幸得苏怡帮忙。嘉露在工作上处处针对善波，但善波处处忍让。一日因润田的过失，令一旅行团未能准时上机，善波替润田补救，却被嘉露指摘，善波自尊心受损，决定辞职和搬走。苏怡向嘉露解释，嘉露原谅善波。
+
+立豪母琴姐在机场当清洁工人，遭人投诉工作表现欠佳，亦琛向她查询详情，琴姐表明因立豪不想她当清洁工人，故常投诉她，亦琛大怒，找立豪指摘他忘本，立豪有口难言。亦风代立豪向亦琛解释，他是因为其母身体欠佳，才故意令她生辞职之念，对自己乱投诉已感内疚。亦琛明白立豪苦心，安排立豪与琴姐面谈，母子和解。后立豪父又被浩聪父解雇，浩聪代他出头，向父亲求情，但他不为所动，父子吵架收场。立豪误会浩聪拒帮助，二人反目，亦风等人全站在立豪一边，浩聪烦恼。
+
+金泽成为众人的新教官，其严厉程度不下于亦琛，众苦不堪言。希欣对亦风渐生情愫，暗暗画下二人画像摺成纸飞机，但纸飞机却被志宏发现。志宏把此事告知立豪，二人犹豫应否告诉亦风，但又不想伤害浩聪，感为难。立豪父向立豪坦承是自己多次偷懒才被解雇，叫他不应为自己而与浩聪反目，立豪知错怪浩聪。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1568</width>
+        <height>1080</height>
+        <durationinseconds>2682</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E24.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

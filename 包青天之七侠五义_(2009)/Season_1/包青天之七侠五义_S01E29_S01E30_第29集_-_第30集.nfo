@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第29集</title>
+  <originaltitle>第29集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187926</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>案情再次陷于胶着，却在艾虎一句无心话中，令包拯灵光乍现，随命展昭与艾虎赶赴青州王府搜出同谋名册。包拯则再次探监，告知仁宗有意纵放，赵怡反痛斥仁宗妇人之仁，包拯晋见仁宗，晓以大义，仁宗终于明白皇叔与包拯苦心，沉痛下令要包拯监斩赵怡。包拯三度探监，从赵怡话中得知谋反并非其最终目的，意在警醒仁宗治国之道，包拯感佩叩谢，表示日后史评自有公断，京东王赵怡一番苦心终未白费。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>1082-06-29</premiered>
+  <aired>1082-06-29</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep29-30.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第30集</title>
+  <originaltitle>第30集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187927</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>南宫世家虽世袭定国公之位，却始终以江湖人自居，为此朝廷特派展昭前往贺寿，并带艾虎作陪。路上偶遇月华与表妹梧桐，月华误认女扮男妆的艾虎为好色登徒子，双方一言不合不欢而散。展昭与艾虎拜见定国公，却为南宫之次子玉辉以比试武功为由，留住府中。月华抱着家传巨阙剑来找玉耀，表示必须要能以这把剑打败她的人才有资格娶她，此话引起玉辉不满，与月华决斗，幸兆兰兄弟赶来阻止。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>1082-06-29</premiered>
+  <aired>1082-06-29</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep29-30.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

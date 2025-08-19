@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 30 集</title>
+  <originaltitle>第 30 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281671</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>伤势不重的吴玉霞回到军管会，王主任向她汇报了燕双鹰枪杀战友、抢走病毒之事，再加上被袭时的印象，吴玉霞断定内奸就是燕双鹰！被囚禁的燕双鹰向看守的战士讲述了真相，并用自己的一身武艺向他们证明自己并非凶手，班长赵铁刚不信任的态度有了改变。匆匆赶来的吴玉霞与燕双鹰当面对质，无奈她被仇恨蒙蔽了双眼，成见已深，燕双鹰只好以暴力方式逃出军管会。王主任率众战士对他围追堵截，然而燕双鹰十八般武艺发挥得淋漓尽致，成功突围，开着抢来的汽车扬长而去。汽车的女主人名叫莎利，是重庆旗天航运公司驻宜宾代办处的首席代表。燕双鹰偷偷回到招待所，整理好随身的战斗装备后给雅琴和中村留了张纸条，嘱咐他们赶紧离开，却被酷似他的神秘黑衣人来了个偷梁换柱。黑衣人一路跟踪，燕双鹰早有察觉，和他玩起“捉迷藏”，最后，两人在一幢废弃的厂房内会面了。来者正是老板的手下，他自报家门，绰号“黑狼”。燕双鹰简直不能相信自己的耳朵！原来这“黑狼”不仅是小玲曾经的恋人，更是杀害她的凶手！小玲和战友的双重血债令燕双鹰难以掩饰内心仇恨，然而为了最终的胜利，燕双鹰极力克制自己，与黑狼对战了几个回合之后便绝尘而去。</plot>
+  <runtime>42</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2546</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep30_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

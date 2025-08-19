@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第21集</title>
+  <originaltitle>第21集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187918</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>郭亮见大势已去突围而去，包拯等人正欲护送特使元贞进京，德琳公主却要求包拯转往西夏向元昊复命，元贞则由雷莎将军护送。德琳召来雷莎要她于途中暗杀元贞，雷莎大惊，德琳表示一切都是奉元昊之命，雷莎无奈，只得领命而去。雷沙离去后，郭亮竟现身德琳房中，原来他已与德琳勾结，德琳根本是假借李元昊之命令，欲挑起两国战端好趁机夺取王位，成为大夏国的女皇帝。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>1081-10-21</premiered>
+  <aired>1081-10-21</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep21-22.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第22集</title>
+  <originaltitle>第22集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187919</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>公孙发现德琳诡计，包拯紧急通知王丞相与皇上暂勿妄动，雷莎则回到西夏欲以未杀元贞向元昊领罪，却发现一切都是德琳阴谋，元昊命弟元昌与雷莎赶赴边界迎接包拯，以信输诚，终于阻止一场战端，德琳公主亦受到制裁。元贞误会兄长元昊不顾手足之情，遂跟着欧阳春隐居山林，为了两国和平，包拯不得不要求展昭尽速找到带走元贞的欧阳春。逃脱追捕的郭亮，为了得到元贞，亦将目标转向欧阳春。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>1081-10-21</premiered>
+  <aired>1081-10-21</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep21-22.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

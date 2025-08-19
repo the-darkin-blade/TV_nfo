@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 29 集</title>
+  <originaltitle>第 29 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281670</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在安顺寨，燕双鹰在老板密室发现了一个收发电报的耳机，然而这个耳机与寨内的电台型号并不符合，燕双鹰立刻嗅出了异样的气息。经过一番搜查，他找到了藏匿于写字台中的微型电报机。更可怕的是，他发现老板竟掌握着自己与总部的联络频率，事实表明党内有奸细，他所经历的一切不过是一场阴谋！押送老板的船遭遇了伏击。敌人的突袭令解放军措手不及，李延平和李瑞山壮烈牺牲，负伤的吴玉霞在昏迷中看到杀手模糊的身影，来者竟似燕双鹰！入夜，燕双鹰去军管会确认二号病毒的情况，然而铁箱全是空的，燕双鹰大吃一惊。正在此时，有黑衣人持枪闯入，杀害了两名警卫战士，燕双鹰闻声追踪，却被当成凶手抓了起来，遭到军管会王主任的无理审讯。一群解放军拜访了住在军管会招待所的赵雅琴和中村两人，他们带来燕双鹰要求见面的消息。赵雅琴突然发现其中一人手臂上有青龙刺青，她恍然大悟，偷偷递给中村武器，并在接送他们的汽车底盘安装了炸药，两人由此顺利逃走。在这个过程中，赵雅琴发现袭击的背后隐藏着巨大的阴谋。</plot>
+  <runtime>39</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2366</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep29_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

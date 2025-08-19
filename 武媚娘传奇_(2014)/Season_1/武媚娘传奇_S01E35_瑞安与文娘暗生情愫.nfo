@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>瑞安与文娘暗生情愫</title>
+  <originaltitle>瑞安与文娘暗生情愫</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id>5099020</id>
+  <uniqueid default="false" type="tmdb">1040346</uniqueid>
+  <uniqueid default="false" type="trakt">1704181</uniqueid>
+  <uniqueid default="true" type="tvdb">5099020</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>魏征请媚娘带话给太子，可以逼宫，但不能伤兄弟性命，且一定要确认了李世民是想废太子后。魏征会求李世民在他死后让出殡仪仗绕皇城一周，若是盖在棺材上的是黑纱，则是要废太子，若是白纱，则说明太子地位不会动摇。临别，魏征赠媚娘良言，让她在宫中痛快的施展才华，莫问前程。瑞安帮文娘补烛台，巧用心思在烛台底刻下了文娘的名字，文娘感动。媚娘把魏征的话写在纸条中告知东宫，徐慧装作担心媚娘，看到了信的内容。媚娘有意把纸条夹在绫缭中送给太子妃，徐慧模仿媚娘笔迹重写了一张字条，颠倒了黑白纱的含义。徐慧命文娘截住前往东宫送绫缭的瑞安，文娘装作摔倒，换掉瑞安木匣中的纸条，心里对瑞安很是抱歉。瑞安希望文娘能绣一对鸳鸯送自己。瑞安将木匣交予东宫。 侯君集生擒高昌王及王子凯旋，众人在承天门上迎接大军归来。媚娘想向李世民坦言所做的一切，却因献俘大典失去时机。侯君集为朝廷再立新功，李世民要与侯君集二人对饮。媚娘回到宫中，发现瑞安正纠结于对文娘的感情，媚娘鼓励瑞安去勇敢表白。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep35 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

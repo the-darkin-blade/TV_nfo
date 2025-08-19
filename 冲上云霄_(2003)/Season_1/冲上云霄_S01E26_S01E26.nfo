@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>嘉露和善波发展地下情</title>
+  <originaltitle>Episode 26</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id>4328869</id>
+  <uniqueid default="false" type="tmdb">1982464</uniqueid>
+  <uniqueid default="false" type="trakt">1851340</uniqueid>
+  <uniqueid default="true" type="tvdb">4328869</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>歌手Eason外游，在机场被歌迷包围签名，Eason一不小心划花了亦琛的车，亦琛大怒。苏怡是Eason的忠实歌迷，能接待他感兴奋，亦琛不以为然。Eason举行签名会，苏怡因要回医院覆诊，未能到场，遂求亦琛代去，亦琛无奈答应。亦琛到场见歌迷大排长龙，又感格格不入，另买了文艺小说当礼物送给苏怡。苏怡满心欢喜等亦琛回来，见亦琛只带回小说，表面雀跃但内心感失望。
+
+云志劝亦琛应站在苏怡角度去想，亦琛觉悟，硬着头皮向Eason讨签名，苏怡见状感动不已，主动拥吻。云志渴望当父亲，以珊感压力，向嘉露吐苦水，二人对话却被善波听到，善波误会嘉露有孕，喜出望外。善波对嘉露特别体贴，不时送上补品，嘉露虽感莫名其妙，但仍照单全收。
+
+云志见以珊暪着他去验孕，感费解。善波以为将为人父，努力赚钱，请苏怡代为投资股票。苏怡告知嘉露，善波以为她怀孕，欲与她结婚，嘉露恍然大悟。嘉露戏弄善波，并告知她并没怀孕，善波大失所望，但仍对嘉露痴心一片，嘉露感动，终接受他，但要求保密发展地下情，善波大喜答允。
+
+以珊不知自己能否当一个好母亲，感心烦找珊怡的母亲谈天，珊怡母劝她应放开怀抱，接受新生命，以珊觉悟。云志对以珊的态度感疑惑，卓芝谓女人要当母亲的心理和生理压力不少，做丈夫的应好好体谅，云志觉悟。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1568</width>
+        <height>1080</height>
+        <durationinseconds>2677</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E26.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

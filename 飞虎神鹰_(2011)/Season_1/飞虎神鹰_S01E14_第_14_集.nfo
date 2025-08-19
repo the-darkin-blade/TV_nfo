@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 14 集</title>
+  <originaltitle>第 14 集</originaltitle>
+  <showtitle>飞虎神鹰</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3168711</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰向其他人说出了杜马要他归还小都会歌舞厅，不然就要向他开战，九头等人都劝他交还小都会歌舞厅，燕双鹰却又说出杜马他们不会轻举妄动所以小都会现在很安全。杜马回到光复社杜马将情况报告了陈恭鹏要求陈恭鹏多给他点人手，因为自己解决不了燕双鹰，陈恭鹏派出姚千树帮助杜马，这时这时光复社的一号特工给陈恭鹏送来一封信，陈恭鹏打开一看大吃一惊，杜马这时想到了一条妙计。夜晚燕双鹰送余如萍回自己的租房处，自己又回到了小都会歌舞厅，桔子向燕双鹰表达了爱意并和他搂在一起这时让站在门口的小锦娣看到了，小锦娣又哭了。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>LeTV</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1278</width>
+        <height>720</height>
+        <durationinseconds>2603</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E14.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

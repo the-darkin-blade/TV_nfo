@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>希欣得悉身世</title>
+  <originaltitle>Episode 23</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>4328866</id>
+  <uniqueid default="false" type="tmdb">1982461</uniqueid>
+  <uniqueid default="false" type="trakt">1851337</uniqueid>
+  <uniqueid default="true" type="tvdb">4328866</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>乘客龙老太是客户服务部的投诉常客，众人对她避之则吉，亦琛也被她斥责一番，大感没趣。龙老太在飞机上大肆批评以珊的服务态度，以珊难堪之极，幸得雁婷帮忙。龙老太一下飞机再投诉飞机餐难食，亦琛负责跟进，并向唐璜反映，唐璜反驳是她偏见，亦琛苦无对策。
+
+亦琛和以珊被龙老太弄得一头烟，互吐苦水，但二人并不讨厌她，反认为她反映了公司有需要改善的地方，应好好正视她提出的意见。苏怡鼓励亦琛，二人巧遇龙老太，发现她只是个热心乘客，龙老太对苏怡大有好感，赞亦琛有福气，苏怡开心。
+
+善波发现自己爱上嘉露，向她示爱，嘉露即时拒绝，善波失望。众新晋机师再接受训练，忙碌非常，亦风接送希欣，二人产生莫名的感觉。金泽电邮希欣，谓会到港一聚，希欣以为可以一家团聚，兴奋不已。亦风突然向她道歉，表示当日在日本见她心情欠佳，才欺骗她她是金泽的女儿，希欣感失望，恨透亦风。亦风向希欣道歉，希欣明白不是他的错，二人和好。金泽抵港，希欣硬着头皮跟他见面，雁婷也到来，二人向希欣解释其父亲的下落，金泽的而且确是希欣父亲的好友，在希欣小时候曾照顾过她。嘉露醉酒归来，善波见状加以照顾，嘉露模糊中向善波透露心声，善波怜惜不已，二人情不自禁发生关系。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1568</width>
+        <height>1080</height>
+        <durationinseconds>2672</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E23.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

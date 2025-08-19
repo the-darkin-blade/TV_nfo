@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 27 集</title>
+  <originaltitle>第 27 集</originaltitle>
+  <showtitle>大漠枪神</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310887</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>第二天，林雪兴奋地向赵团长和李政委报告高进高连长回来了，原来是燕双鹰将他送回了部队，在李政委的劝说下，燕双鹰用李大喜的名字留在部队里帮忙林雪的医疗队。李政委告诉赵团长他或许就是要找的人。高进醒来知道是李大喜救了自己觉得这个人很不简单，并向团长和政委报告怀疑部队里有内奸。李大喜的好身手令部队所有人都非常震惊，大喜告诉高进对付关东山的土匪并不是他们想的那么容易，关东山就是土匪的家，对于这里他们非常熟悉。土匪黄五龙血洗了刘木营，是共产党驻扎部队附近的一个村子，村里有中年人、青年、老人还有孩子，死得惨不堪言。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2787</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>E27_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

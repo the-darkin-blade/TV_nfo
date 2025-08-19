@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:03:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>可欣决定悔婚</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>四个女仔三个BAR</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3188651</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>达勤工作忙得团团转，他与客户通电话时，慧芸催促他交文件，声明达勤必须先处理公司客户，才能处理他的私人客户，又斥达勤时间管理差劲，森木听到，劝慧芸不要过分责备达勤。
+
+陪审团中，连同阿清有三人认为百通肛交罪名成立，而陈棠仍考虑时间因素，他认为肛交罪名不轻，不能轻率下判断，七名陪审员须续留法院，至翌日继续商议。靖姿代森木把一对和合二仙公仔送给可欣作结婚礼物，而她也送上一件精致的首饰，可欣突然拥着靖姿哭诉害怕会选择错误。
+
+达勤气愤　即时辞职
+
+可欣晚上接达勤来电后，把遗忘交回公司的剪报带返律师楼给达勤，她主动提出把有关文件处理好，达勤趁机吃饭盒，并致电回家告知太太他回家的时间。
+
+慧芸经过看见，斥达勤竟让休假中的可欣回公司帮他，可欣欲向慧芸解释，慧芸不听，且斥达勤为了提早下班而要可欣代他工作，她扔下一份文件，要达勤完成才可下班。达勤气愤，即时写了辞职信，把信扔给慧芸便走了。慧芸在楼上书屋睡着了，醒来后表示头痛，耀力教她按压穴位舒缓头痛，又赠她香薰油。慧芸离开时外面下雨，耀力借慧芸一把雨伞。
+
+改变立场　通过裁决
+
+智毅闻慧芸说朋友教她按压虎口位舒缓头痛，又发现书店的雨伞，感到不安。智毅到书店，注意到Sandy与耀力谈话间有身体接触，耀力以为智毅对瑜伽班有兴趣，上前向他介绍。
+
+下午五时多，陪审团仍未达成有效裁决，阿清提议重新投票，她改变之前立场，令投票结果得以通过。可欣出嫁前一晚，三位好友到她出门的酒店祝贺及作最后准备，安居替她们拍影片留念。仲衡的兄弟团也陪仲衡度过最后一个单身之夜，可是仲衡接到阿清来电便立即外出。
+
+阿清闯进　婚礼现场
+
+阿清扬言不准仲衡与可欣结婚，仲衡谎称可欣有了他的骨肉，他答应阿清两年后与可欣离婚，又急不及待与阿清亲热。翌晨，可欣托靖姿回家取耳环，靖姿发现仲衡不在家，梓博坦言仲衡昨夜外出未返。梓博到酒店表示仲衡昨夜饮醉了，着他先接可欣及姊妹团到婚礼现场。
+
+阿清一身新娘打扮出现，用刀把仲衡与可欣的结婚照割毁，可欣目睹仲衡与阿清争吵，却冷静地请保安把阿清赶离开。仲衡宣读誓词后，可欣当众说出心底话，宣布不读誓词，也不签婚书……
+
+可欣突然　不知所终
+
+仲衡不知悔改，指阿清和可欣都不知足，更打电话找另一女友，梓博看不过眼，斥他咎由自取……</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-20 00:03:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2716</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E14.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

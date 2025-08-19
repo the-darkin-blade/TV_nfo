@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 16 集</title>
+  <originaltitle>第 16 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281655</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>景标带着如常翻墙逃进一个院子，这院子不是别处，正是燕双鹰和赵雅琴藏身的十六号公寓。景标和如常急于逃命，一言不合就跟燕双鹰交起手来，景标本是袍哥，也教过如常一些拳脚功夫，但他们怎能是燕双鹰的对手。不打不相识，一番交手，燕双鹰看出这叔侄两个不是坏人，景标虽然隐藏了自己的袍哥身份，燕双鹰却依然仗义出手赶走了方五桥一票人，将景标和如常搭救下来。景标和如常更是为燕双鹰的义气和身手所折服。燕双鹰和赵雅琴正在考虑怎样才能让景标和如常彻底脱离险境，景标却说他准备带如常去宜宾投奔如常的小姑——霍杰的妹妹。燕双鹰便决定和他们一起离开重庆。燕双鹰、赵雅琴和林玉仙与景标和如常分头登上开往宜宾的客轮，而此时刘天龙的手下也跟踪他们上了船。轮船上，赵雅琴和林玉仙为了与燕双鹰接近而争风吃醋，而机警的燕双鹰却发现船上状况有异。一番打探，燕双鹰查出刘天龙居然也在这条船上，就住在三层的特等舱房。</plot>
+  <runtime>41</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2484</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep16_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

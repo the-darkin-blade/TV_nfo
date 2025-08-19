@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 20 集</title>
+  <originaltitle>第 20 集</originaltitle>
+  <showtitle>英雄</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3278090</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰与战友们计划着把幕后黑手牵制住，只有找出老大部队才能不会在受敌人的被动。夜晚燕双鹰找出了一直与老大的联络员，并从联络员口中得知了重要的情报。经过周密的部署终于查出老大就是部队里的司务长。小玲、林雪、大莲被困在地窖里，三人经过配合终于逃出了地窖，不料刚逃出地窖就被土匪们抓住，而为首的人，竟然是步鹰！步鹰令手下点燃埋藏在山寨中的炸药，准备炸死攻山的小分队。这时，燕双鹰、高进率小分队冲了上来，双方展开了激烈的战斗，土匪被歼灭，解救了小玲三人，步鹰趁乱逃走。小玲独自去拆除炸药，大莲尾随而至，因嫉妒产生仇恨，用枪打伤了小玲。千钧一发之际，林雪打死了大莲，炸药被顺利拆除。第二天在老伙计墓前，燕双鹰与步鹰再次相遇，二人比枪，燕双鹰击毙了步鹰，跟随部队投入了新的战斗。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>2.0</aspect>
+        <width>1666</width>
+        <height>852</height>
+        <durationinseconds>2819</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E20.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

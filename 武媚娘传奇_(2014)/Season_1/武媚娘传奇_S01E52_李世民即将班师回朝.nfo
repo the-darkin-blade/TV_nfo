@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李世民即将班师回朝</title>
+  <originaltitle>李世民即将班师回朝</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>52</episode>
+  <id>5103007</id>
+  <uniqueid default="false" type="tmdb">1040363</uniqueid>
+  <uniqueid default="false" type="trakt">1712481</uniqueid>
+  <uniqueid default="true" type="tvdb">5103007</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>媚娘偷偷祭拜李牧，被李世民发现，媚娘请求李世民宽恕李牧一家罪名，李牧一家沉冤昭雪。 烽火连月，军心不稳，士兵们都很思念故土，军中将领碍于李世民的帝王身份而不敢开口请求班师回朝，媚娘得知这些，婉言相劝李世民，李世民态度松动，终于同意回朝，军中将士对媚娘无不心服。然而没能拿下北境，却成为李世民一生的遗憾。 身在长安的太子李治将媚娘巧绘于九扇屏风上，画中人姿态各异，但笔笔都透出李治对媚娘的深情。高阳公主观看屏风上的画，李治说画中人是擅舞的萧良娣来遮掩心思，高阳却一眼看出画中人是媚娘。李治提醒高阳公主不要和她的心上人辩机闹得满城风雨。高阳反问李治对武媚娘的感情，李治含糊其辞。长孙无忌为李世民还朝的事求见太子，李治担心长孙无忌看见屏风，高阳公主看出哥哥心思，帮忙拖延长孙无忌，但还是被长孙无忌窥到了画。长孙无忌提醒李治，李世民此次归来一定会考核他，让他在处理政事上作风再硬朗一些。 瑞安始终忘不了文娘，为了文娘送的手帕和其他太监大打出手。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2655</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep52 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="52" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

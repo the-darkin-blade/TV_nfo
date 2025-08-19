@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 36 集</title>
+  <originaltitle>第 36 集</originaltitle>
+  <showtitle>飞虎神鹰</showtitle>
+  <season>1</season>
+  <episode>36</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3168733</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>杜马和燕双鹰来到吉斯卡尔德西餐厅，此时张桥也无法联络上燕双鹰。余茹萍发现了许莉莉在盥洗室里绝望地寻找着什么，余茹萍以一个特工技能发现了燕双鹰写镜子上地址，许莉莉连忙将地点告诉了张桥。燕双鹰在西餐厅发现事情不对，周围伏兵密布，燕双鹰意识到这其实对又一次考验。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>LeTV</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1152</width>
+        <height>652</height>
+        <durationinseconds>2615</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E36.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="36" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>王皇后暗算武媚娘</title>
+  <originaltitle>王皇后暗算武媚娘</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>70</episode>
+  <id>5109845</id>
+  <uniqueid default="false" type="tmdb">1040381</uniqueid>
+  <uniqueid default="false" type="trakt">1724291</uniqueid>
+  <uniqueid default="true" type="tvdb">5109845</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>高阳劝说李治，把媚娘变成他的女人，留下媚娘，李治心中的渴望被高阳的话点燃。当夜，李治将王皇后当成媚娘，宠幸了王皇后。 媚娘仔细查自己周围所用的东西，在高阳的误打误撞下终于发现“帝女花”织锦有问题。媚娘将织锦送去给太医，太医发现织锦被浸染过芜花，配上皇后调制的茶，造成了媚娘的中毒流产。原来真凶真的是王皇后。长孙无忌看出李治不打算送媚娘回感业寺，准备再次上奏，王皇后递来消息，表示也愿意为媚娘离宫一事联合后宫尽绵薄之力。媚娘把查出的结果告诉高阳，高阳鼓动媚娘成为李治的女人，留在后宫，把王皇后最在乎的后位和李治的宠爱都夺过来，为孩子报仇。媚娘不愿背叛李世民，心中纠结痛苦。 高阳在李治处发现先帝遗诏，偷走它拿给媚娘。媚娘对李世民的薄情难以置信，爱情的信仰崩塌。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2663</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep70 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="70" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

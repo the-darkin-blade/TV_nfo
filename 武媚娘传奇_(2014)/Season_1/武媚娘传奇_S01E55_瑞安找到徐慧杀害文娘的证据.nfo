@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>瑞安找到徐慧杀害文娘的证据</title>
+  <originaltitle>瑞安找到徐慧杀害文娘的证据</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>55</episode>
+  <id>5103010</id>
+  <uniqueid default="false" type="tmdb">1040366</uniqueid>
+  <uniqueid default="false" type="trakt">1712484</uniqueid>
+  <uniqueid default="true" type="tvdb">5103010</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>袁天罡给李淳风扫墓，见到了等候在此的长孙无忌，长孙无忌以李淳风的家人要挟袁天罡进宫为媚娘卜卦。瑞安在徐慧殿中发现了自己久寻不见的那只烛台，瑞安顿时明白了徐慧就是杀害文娘的真凶。长孙无忌给李世民引荐了袁天罡。以房玄龄、长孙无忌为代表的世族为了抵制媚娘，在李世民殿前长跪不起，坚持要让袁天罡为媚娘卜卦。瑞安把徐慧杀害文娘的事告诉了媚娘。瑞安要去杀了徐慧为文娘报仇，媚娘却要先确认这件事的真实性。李治闯入媚娘居所，把朝臣的情况告诉了媚娘。媚娘冷静分析局势，发现跪在甘露殿外的都是世家子弟。李治透露有个寒门子弟李义府喜欢攀附权势，媚娘眼前一亮。李义府也想跪在甘露殿外，却遭到奚落，心中生恨。媚娘派瑞安找到李义府。媚娘希望李义府帮自己度过难关，李义府却觉得媚娘没有利用价值，不愿追随。媚娘抓住李义府的心理，先将他想做一番大事成为人上人的渴望勾出来，又许以他利益，李义府心动。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2672</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep55 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="55" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

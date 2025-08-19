@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 3 集</title>
+  <originaltitle>第 3 集</originaltitle>
+  <showtitle>两个爸爸</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>4648791</id>
+  <uniqueid default="false" type="tmdb">2584654</uniqueid>
+  <uniqueid default="false" type="trakt">1264872</uniqueid>
+  <uniqueid default="true" type="tvdb">4648791</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>振华随咏洁回家拿社区管理费，却被永洁自己的生活方式震慑，仓皇逃跑。另一方面翔希在和映帆的谈话中透露出自己对方静竹的欣赏，并坦言他认为静竹是个好老师，将温蒂交托给她自己很放心，令映帆欲言又止。温蒂坚持要等翔希回来一起画全家福，令振华十分感慨。翔希直到温蒂睡着才忙完工作回到家，和振华边喝酒边聊到以前的事情，庆幸生活里有温蒂，一切都值得。静竹仔细的帮温蒂粘好被撕坏的画，为少了一个角而后悔没有仔细寻找，更为自己以前的口不择言感到抱歉。静竹亲自把画送到振华的花坊，并向振华道歉，而振华也送花给静竹来表达谢意。翔希去静竹家的修车房取自己的车，恰好又遇到静竹撞坏别人的车，并出手帮忙解决了问题，静竹的父亲趁机留翔希在家吃饭，却“老丈人看女婿越看越顺眼”。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sanlih E-Television</studio>
+  <studio>EBC Drama</studio>
+  <dateadded>2025-08-17 22:15:45</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2737</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>J2.Two.Fathers.Ep03.Hdtv.1080I.H264.Ac3-Hdwtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

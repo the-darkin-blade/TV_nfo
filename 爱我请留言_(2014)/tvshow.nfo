@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:43 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>爱我请留言</title>
+  <originaltitle>愛我請留言</originaltitle>
+  <showtitle>爱我请留言</showtitle>
+  <sorttitle/>
+  <year>2014</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>7.0</value>
+      <votes>1</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>忍不住查看男友手机的初见（黄翠茹 饰）意外的发现了男友和其他女孩的暧昧讯息，感情受到伤害的初见黯然神伤，再也无法面对男友一如既往的甜言蜜语。天送（黄浩然 饰）的姐姐和姐夫死于一场火灾，心中充满了对于姐姐的愧疚，天送毅然放弃了自己成为玻璃艺术家的梦想，收养了姐姐的女儿悠悠（杨铠凝 饰），没想到他对悠悠的无微不至在无形之中给予了恋人蔡妍（姚子羚 饰）巨大的心理压力，如积月累之间，两人渐行渐远。
+
+　　悠悠和保姆爱林（陈秀珠 饰）之间感情十分要好，而爱林不是别人，正是初见的母亲，天送和初见就此相识。随着时间的推移，天送和初见之间的距离渐渐缩短，但此时的天送并不知道自己是否应该重新开始一段感情，初见的身边亦有名为王子翔（王浩信 饰）的英俊上司对其情有独钟。</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"80149"}</episodeguide>
+  <id/>
+  <imdbid/>
+  <tmdbid>80149</tmdbid>
+  <uniqueid default="true" type="tmdb">80149</uniqueid>
+  <premiered>2014-03-31</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Comedy</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <actor>
+    <name>黄浩然</name>
+    <profile>https://www.themoviedb.org/person/123648</profile>
+    <tmdbid>123648</tmdbid>
+  </actor>
+  <actor>
+    <name>黄翠如</name>
+    <profile>https://www.themoviedb.org/person/227741</profile>
+    <tmdbid>227741</tmdbid>
+  </actor>
+  <actor>
+    <name>王浩信</name>
+    <profile>https://www.themoviedb.org/person/1690917</profile>
+    <tmdbid>1690917</tmdbid>
+  </actor>
+  <actor>
+    <name>戴耀明</name>
+    <profile>https://www.themoviedb.org/person/1629651</profile>
+    <tmdbid>1629651</tmdbid>
+  </actor>
+  <actor>
+    <name>张振朗</name>
+    <profile>https://www.themoviedb.org/person/1613713</profile>
+    <tmdbid>1613713</tmdbid>
+  </actor>
+  <actor>
+    <name>关礼杰</name>
+    <profile>https://www.themoviedb.org/person/1276972</profile>
+    <tmdbid>1276972</tmdbid>
+  </actor>
+  <actor>
+    <name>洪永城</name>
+    <profile>https://www.themoviedb.org/person/2214358</profile>
+    <tmdbid>2214358</tmdbid>
+  </actor>
+  <actor>
+    <name>姚子羚</name>
+    <profile>https://www.themoviedb.org/person/1234807</profile>
+    <tmdbid>1234807</tmdbid>
+  </actor>
+  <actor>
+    <name>梁嘉琪</name>
+    <profile>https://www.themoviedb.org/person/2232029</profile>
+    <tmdbid>2232029</tmdbid>
+  </actor>
+  <actor>
+    <name>张颖康</name>
+    <profile>https://www.themoviedb.org/person/1775002</profile>
+    <tmdbid>1775002</tmdbid>
+  </actor>
+  <actor>
+    <name>杨铠凝</name>
+    <profile>https://www.themoviedb.org/person/2062834</profile>
+    <tmdbid>2062834</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

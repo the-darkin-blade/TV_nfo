@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>高阳得知媚娘怀孕欲告知李治</title>
+  <originaltitle>高阳得知媚娘怀孕欲告知李治</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>61</episode>
+  <id>5109836</id>
+  <uniqueid default="false" type="tmdb">1040372</uniqueid>
+  <uniqueid default="false" type="trakt">1724282</uniqueid>
+  <uniqueid default="true" type="tvdb">5109836</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李治练习剑术，高阳赞赏他的剑术已不逊于先帝。长孙无忌得知安州的事，准备将安州异动禀报李治。高阳劝说李治把媚娘接回宫中，李治却选择不去打扰她。高阳不满如今朝政都被长孙把持，委婉地指出李治就算想接媚娘回来，此刻也是有心无力。感业寺的净音师傅把媚娘近状报告李治。媚娘为了孩子，用重金从比丘尼手中买下感业寺周边地图和出感业寺的门钥匙。 高阳看望媚娘，诉说李治在前朝和后宫都处境艰难，需要帮手，帮李治敲边鼓。媚娘恶心呕吐，高阳发现媚娘有了身孕。长孙无忌将安州的消息告诉李治，李治说出在安州遇袭的并不只是长孙无忌的手下。 高阳劝媚娘回皇宫生下这个孩子，媚娘却只想带着孩子过平安生活，媚娘将逃离感业寺的打算告诉高阳，并说出对大朝会的烟花念念不忘。长孙无忌意欲替李治做主李恪一事，李治犯难。萧淑妃派儿子素节来解救李治，长孙无忌只得先行离开。李治准备回贤灵宫和萧淑妃、素节过夜，却在走到贤灵宫门口时，听说高阳公主带着媚娘消息求见而离开。萧淑妃一番准备却没等来李治，从素节口中，萧淑妃知道了媚娘这个人。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2671</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep61 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="61" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 15 集</title>
+  <originaltitle>第 15 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281654</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰的这一系列行动取得了非常好的效果，李延平和吴玉霞决定趁此机会继续向敌人施加压力。林玉仙将毛人凤的调停书转交到燕双鹰手上，并转告他老板请他到安顺寨见面。燕双鹰从调停书上获知老板的真名叫严森。经李延平查证，这个严森原来是康泽的亲信历任三青团教训长，蓝衣社人事调配处长蓝衣社副总干事，后进入军统在戴笠手下任军统调查科科长，后来军统改名为保密局严森被毛人凤提拔为保密局重庆地下干部培训处少将处长。终于获得敌人的信任使燕双鹰无比兴奋，他也终于腾出时间悼念去世的战友。看到燕双鹰为战友失声痛哭，赵雅琴也不禁心潮澎湃，对燕双鹰更是怜爱有加。重庆是个龙蛇混杂的地方，九号码头上，为人正直的清水袍哥老大霍杰扣押了一批日本货物，而货主贾老板却买通袍哥二当家刘天龙杀害了霍杰。当上老大的刘天龙还答应贾老板一定帮他找回那批货物。刘天龙不仅杀害了霍杰，还想赶尽杀绝除掉霍杰七岁的儿子如常。霍杰的心腹景标连忙带着如常仓皇出逃，刘天龙的狗腿子方五桥带了一帮人穷追不舍。</plot>
+  <runtime>41</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2502</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep15_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

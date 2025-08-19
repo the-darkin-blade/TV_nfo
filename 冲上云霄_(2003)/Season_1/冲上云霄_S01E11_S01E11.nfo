@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>云志向以珊坦白</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>4328854</id>
+  <uniqueid default="false" type="tmdb">1982448</uniqueid>
+  <uniqueid default="false" type="trakt">1851325</uniqueid>
+  <uniqueid default="true" type="tvdb">4328854</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>云志和以珊举行婚礼，亦琛郁郁寡欢，时苏怡从罗马致电，告知当日二人的误会，亦琛若有所思。云志和以珊遇上咪咪，以珊谓当日曾在罗马见到亦琛向她提出分手，后在香港再见到亦琛以钱打发她，认为亦琛对感情不认真。云志恍然大悟，原来一切误会源于当日他叫亦琛代他向咪咪讲分手，更向咪咪问清楚亦琛代他帮助咪咪一事，云志感内疚。
+
+云志决定向以珊坦白，让她选择她自己的路，以珊晴天霹雳，找亦琛问过明白，亦琛表明当日若不是因重重误会，绝对会跟她认真建立一段恋情，以珊释然，二人为了不伤害云志，决定把回忆埋藏在心里，二人难舍难离，却被亦风看见。以珊回家，云志欣喜若狂。
+
+亦琛送上当年所用的笔记和心意咭，亦风感动，送回另一张心意咭，但无意中见到考试题目的电脑档案，亦风光明正大并没偷看。亦风等人趁课余外出游玩，碰到亦琛，亦风知他满怀心事，欲帮他开解，但亦琛并不领情。日东赞赏亦风表现出色，叫亦琛好好帮他，亦琛不置可否。善波对嘉露大有好感，当她的司机，但因汽车脏乱令嘉露皮肤敏感，嘉露又惊又怒，善波照顾嘉露，一不小心弄伤了自己，嘉露内疚，反过来照顾他。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1568</width>
+        <height>1080</height>
+        <durationinseconds>2687</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E11.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

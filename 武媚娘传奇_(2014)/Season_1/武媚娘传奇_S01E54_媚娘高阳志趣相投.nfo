@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>媚娘高阳志趣相投</title>
+  <originaltitle>媚娘高阳志趣相投</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>54</episode>
+  <id>5103009</id>
+  <uniqueid default="false" type="tmdb">1040365</uniqueid>
+  <uniqueid default="false" type="trakt">1712483</uniqueid>
+  <uniqueid default="true" type="tvdb">5103009</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>媚娘将自己去辽东战场找李世民的事告知徐慧，并有意透露给徐慧，此事瑞安也知道。李治得知媚娘真的回宫了，难耐相思。瑞安仍旧在查当年丢失的烛台。媚娘的回归让徐慧颇为忌惮，李世民授意徐慧上奏，请封媚娘为淑妃，徐慧心里暗恨不已。新的铸钱模子出来了，媚娘不小心在上面留下了仰如弯月的指甲印。御史台参高阳公主与辩机和尚有染，李世民决定将高阳嫁给房玄龄的小儿子房遗爱。李世民颁旨把高阳公主嫁给房玄龄次子房遗爱，高阳公主不愿出嫁，来找李治商量对策，李治对此却无能为力。媚娘让瑞安把她带回来的辽东雪参送给徐慧补身体，瑞安告诉媚娘锦乐宫的宫女阿离被徐慧杖毙，媚娘想到徐慧的改变，心里烦乱。徐慧仿瑞安的字迹写了密函发给朝中大臣，密函上写了媚娘随军的事。大臣们接到密函，聚集到长孙无忌的密室里商议。高阳公主不满李世民的赐婚，想用投湖的方法逼李世民出来相见，媚娘出现，遣走宫人，连骗带吓的让高阳公主从湖里走了出来。媚娘说出了高阳嫁人后依然可以与辩机来往的言论，高阳十分欣赏媚娘。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep54 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="54" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>燕双鹰击杀特务小队长</title>
+  <originaltitle>燕双鹰击杀特务小队长</originaltitle>
+  <showtitle>飞虎神鹰</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3168700</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰用冲锋枪打碎了特务小队长的脑袋，火车依然在向前行驶，他将剩下的特务一一解决。队长在火车头指挥，当他看到燕双鹰时用枪指住了他，燕双鹰躲过了他的枪击后将他打翻在地，他跪地求饶被燕双鹰开枪打中，倒地后他的手还在动。</plot>
+  <runtime>37</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>LeTV</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2244</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E03.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

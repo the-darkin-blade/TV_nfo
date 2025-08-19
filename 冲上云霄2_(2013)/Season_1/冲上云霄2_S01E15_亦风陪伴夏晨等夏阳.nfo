@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:01:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦风陪伴夏晨等夏阳</title>
+  <originaltitle>亦风陪伴夏晨等夏阳</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586980</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>根据夏阳给年希的提示，子麟和年希等人努力地思考其个中含意，日梦来到，交谈之后才明白夏阳的提示，原来要完成完整的报告，一定要两组合作分享双方的资料才能成事，最后日梦和年希的团队和好，并完成了报告。
+
+分组作业　竟是测验
+
+到报告完成当日，在课堂上夏阳和亦琛对两组的学习态度都深感失望，之后年希为两组之前因夏阳对自己有好感而造成争执公开道歉，但是夏阳却反驳了年希，之后亦琛拿出了一本笔记簿，年希遗失了的报告笔记竟然在亦琛手上，原来一切都是夏阳布下的局，日梦的档案也是夏阳偷偷删除的，为了考验学员遇上危机时能否保持平常心，以处理问题为优先，但结果却令人失望。
+
+夏阳失约　夏晨伤心
+
+夏阳成功为夏晨安排参观飞行博物馆，但是夏阳却因为私事分身不暇，亦风惟有陪伴着夏晨等待夏阳，但是到了博物馆关门，夏阳还是未有出现。
+
+在夏晨等待的时候，回想起当年夏阳为了去澳洲参加空军而抛弃了自己，之后夏晨忍不住落泪，更再一次肯定了，自己作为妹妹，却在兄长夏阳心中没有任何位置，最后夏晨回到酒店迅速办理手续，离开伦敦回去香港，当夏阳终于赶到的时候，夏晨已经不在了。
+
+年希录下　夏阳誓言
+
+入夜，年希行经飞机库听到有人声传出，一看之下原来是夏阳，夏阳因为爽了夏晨的约，便心事重重的在格纳库静思，年希见夏阳烦恼，便听夏阳向自己倾诉心事，并帮助夏阳录下了誓言，夏阳承诺不会再失信于人。
+
+得到启发　表露爱意
+
+亦风正准备登机的时候，遇到了在咖啡店工作的祖思，祖思原来特别地为亦风预备了一杯咖啡给他带走，但是在阴差阳错下，本来附在咖啡上的讯息却不能交到亦风手上，令祖思感到失望，而在一旁的Amanda看到了整件事情，便上前鼓励祖思。
+
+原来Amanda是一名被商业罪案调查科通缉的犯人，明知道自己一定逃不了，但却为了见一见在Skylette做地勤的前男友康民最后一面才来机场，之后Amanda被拘捕，祖思也鼓起了勇气，亲向亦风表达心迹。
+
+芮嘉发现　日东出轨
+
+芮嘉因工作方便，和志宏卓芝一起在伦敦共餐，但芮嘉却遇见了正和前度女友约会的日东。想不到芮嘉没有上前对质，反而冷静地回头向志宏道别自行回家，志宏感到不妥便跟随芮嘉，之后才知道她看到日东出轨……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2667</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E15.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

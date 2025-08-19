@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第19集</title>
+  <originaltitle>第19集</originaltitle>
+  <showtitle>金大花的华丽冒险</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>4565199</id>
+  <uniqueid default="false" type="tmdb">911327</uniqueid>
+  <uniqueid default="false" type="trakt">919459</uniqueid>
+  <uniqueid default="true" type="tvdb">4565199</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>大花因淋雨病重住院，她左等右等，就是等不到冠军哥前来探视。反而是欧阳泰，不仅请了最好的医生，还守在大花身边细心照料。两人在彼此人生最低潮时相互陪伴扶持，大花能正视这难得的缘分，珍惜眼前这个真心付出的男人。冠军一再地以兄妹之情划清两人界限，搞得一家人气氛尴尬不说，冠军冷澹的态度和残忍的话语更一次次地伤透了大花的心。终于大花下定决心，这一次，真的该放下了.放过自己，也让这些爱自己的人安心吧。失去冠军的大花，感觉就像被整个世界遗弃，虽然身旁的人都不断鼓励她、逗她开心，但大花总觉得心里闷闷的、空空的。大花不禁想问神，我还有可能得到幸福吗。就在此时，幸福悄悄来到她身边，Terry拿出婚戒，在神面前他想向这个女孩许下一辈子幸福的承诺。大花是否能接受Terry，重新开始迎接另一段属于她的幸福。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-08-19 23:55:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2657</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[壹高清]金大花的華麗冒險.King.Flower.Ep19.1080I.Hdtv.H264.2Audio-Onehd_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

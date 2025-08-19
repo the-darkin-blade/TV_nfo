@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 11 集</title>
+  <originaltitle>第 11 集</originaltitle>
+  <showtitle>大漠枪神</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310868</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>步鹰看到小渊的尸体，理惠却不见了。步鹰追着燕双鹰和理惠来到老伙计墓碑旁。枪战下，理惠为救燕双鹰而死，步鹰也死在燕双鹰的枪下。华云龙静静地站在两座新坟的墓碑前。老伙计墓碑旁立起了两座新坟：理惠之墓、宋三游击队员之墓。几年后，客栈内，一群打扮怪异的人计划杀掉半人半鬼的燕双鹰。</plot>
+  <runtime>41</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2498</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>E11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:40 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 4 集</title>
+  <originaltitle>第 4 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281640</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>为了让燕双鹰“扮演”程汤更为逼真，赵雅琴还教他掌握了基本的英语口语。同时他们利用缴获程汤的电台将潜伏贵阳的特务引出并通知贵阳方面将其一网打尽。但是贵阳方面审讯落网特务后告知，赵雅琴的亲人早已遇害。得知此事后丧失理智的赵雅琴将一腔的愤怒与怨气全部发泄在燕双鹰的身上，险些闹出火灾。尔后赵雅琴痛定思痛，拒绝了燕双鹰送她回贵阳的好意，更加坚决的加入到此次卧底行动中来。“老板”接到“程汤”(燕双鹰)的消息，马上进行了严密的部署并派潜林玉仙等特务头目前往太白山接应“程汤”一行，然后一路护送他们赶赴重庆。燕双鹰等人到达预定的接头地点，却发现林玉仙身受重伤，她的手下也已悉数丧命。正当燕双鹰惊诧不已的时候，他们却被我军太白山游击队包围，而此时的燕双鹰和他的手下都是一身的国民党军服与美式装备。燕双鹰断定眼前的意外状况不过是“老板”对他的试探，他不费吹灰之力就制服了这些“游击队员”并揭穿了他们的真实身份。</plot>
+  <runtime>41</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2472</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep04_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

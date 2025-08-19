@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:53:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>佳芳洪鱻合作煮菜</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>爱情食物链</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3215101</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>佳芳察觉洪鱻古古怪怪，洪鱻也向佳芳坦白自己到香港，及潜入各食肆厨房的原因。洪鱻留意到佳芳煮食时随意下调味，感觉她很厉害。但洪鱻也能一眼看出佳芳下了多少调味料，佳芳请洪鱻帮她写食谱。佳芳送上食谱，柏业收了之后交予头抽便没有再理会佳芳。离开时，佳芳被高大男欺负，同样长得娇小的杨金枝（何雁诗饰）出手，为佳芳讨回公道。金枝第一天在「最好味」快餐店上班，便遇到公司推出新菜式。
+
+店长贪婪诬蔑金枝
+
+第一天推出新菜式，成功吸引大批顾客帮衬。电视台外景队外卖五十个饭盒，罗四亲自落单，并要求金枝将单交予头抽先处理外卖饭盒，但却收了饭钱据为己有。这一切被佳芳、金枝、收银员艾苹和水吧明仔看到，金枝只管按罗四指示叫头抽先处理外卖饭盒。因为临时加插数十个外卖饭盒，厨房秩序大乱，遭顾客投诉。柏业查问，罗四将责任推在金枝身上，指要立即辞退她，但佳芳向柏业道出真相。艾苹和明仔怕事不敢讲出真相，金枝不畏强权更晓以大义。
+
+宏彬警告宇球犯法
+
+烨源看到「最好味」的苦瓜销情满意，认为他们营业部已达到营业额，相信可获丰厚佣金。负责会计的包宏彬也认同他们超额完成，但老板凌宇球认为他们推销的不是苦瓜，所以没有佣金可拿。宏彬告知宇球，若被税局发现是苦瓜与苹果的入货数与出货数不相同，会怀疑他隐瞒收益，触犯刑事罪，最后宇球忍痛付佣金给营业部。鲁实知道获得佣金，大赞宏彬，放心佳麒与他交往。鲁实则大骂烨源闯祸，订错苦瓜，令营业部奔波才能摆平事件，更称烨源休想拿到佣金。没有佣金，烨源要求鲁实带他回家吃饭。
+
+洪鱻模仿佳芳菜式
+
+鲁家的晚饭由洪鱻负责，静乐看见烨源后指没理由让他白吃，要他修理冷气机。烨源此行其实是来探望心中女神佳麒，可惜佳麒只对宏彬有好感。静乐向宏彬打听窦凌的生意，宏彬老实相告这个月生意理想，静乐打蛇随棍上探听鲁实可以获得多少的佣金，宏彬为鲁实遮瞒，称他没得任何佣金。佳麒叫宏彬入房，却又叫烨源帮她修理冷气机，烨源求之不得。佳麒与宏彬在房间时赶烨源离开，烨源心有不甘向佳芳投诉。佳芳误会二人，但佳麒其实是要宏彬摸测丝袜的针数。佳麟在房中拍微电影，抱怨佳芳走入他的房间影响拍摄工作。洪鱻已煮好十二道苦瓜菜式，鲁家各人赞不绝口，但洪鱻试吃后觉得与佳芳炮制仍有一段距离，更称要全部倒掉……</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1309</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.爱情食物链.Ep04.2016.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj 爱情食物链 2016 2Audio Hdtou qsv av1</title>
+  <originaltitle/>
+  <showtitle>爱情食物链</showtitle>
+  <season>1</season>
+  <episode>2016</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1309</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.爱情食物链.Ep04.2016.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2016" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

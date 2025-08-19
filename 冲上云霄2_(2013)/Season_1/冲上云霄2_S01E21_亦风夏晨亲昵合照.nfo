@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦风夏晨亲昵合照</title>
+  <originaltitle>亦风夏晨亲昵合照</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586987</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>格志因为突然要处理客人的诉求而找爱苹帮忙，工作过后格志和爱苹在机场内散步闲聊，爱苹说出自己作为一个机场孤儿，一直在机场见证了不同人的离离合合，但其实也对家庭有所憧憬。在格志的试探下，爱苹终透露出自己心声，原来爱苹希望可以有一个亲哥哥去疼惜自己，之后格志经常和爱苹碰面，亦明目张胆地对爱苹照顾得无微不至，亦琛等人看后，认为格志对爱苹有意，但爱苹却代为否认。
+
+祖思成为　夏晨房客
+
+祖思因业主收回单位，需要找地方搬迁，最后在亦琛的介绍下，祖思搬进了夏晨的家居住。因为祖思性格乐观有礼，人也长得标致，很快便深得房客们的欢迎，和他们打成一片。
+
+祖思在咖啡店工作时，得悉了亦风会陪志宏往伦敦旅行散心，竟也心念一动，想跟随亦风一起前往，但爱苹得知后却出言阻止，原来祖思有呼吸疾病并不适宜乘搭长途机。祖思不忿因病而丧失机会，于是决定前往医院检查，看看自己是否真的不能前往伦敦，但医生也提出了祖思不宜坐长途飞行的建议，得知真相后令祖思相当闷闷不乐。
+
+夏阳说出　法国有妹
+
+夏阳向夏晨透露，在半年前曾经收到一封自称是夏阳同父异母的妹妹寄来的信，信中提及想在法国见夏阳一面，但夏阳因为不想处理其父的风流债而拒绝了。原来夏阳将此事告知夏晨后，便是想请夏晨代自己处理此事。夏晨得知亦风将与志宏到伦敦旅行后，便特地安排假期，让自己和亦风同机出发。夏晨的计划是先前往伦敦，之后再到法国处理家事。众人相遇后，亦风和志宏也乐意和夏晨一起进行这一次英法之旅。
+
+志宏游英　以疗情伤
+
+志宏到达伦敦后，不断地发泄自己双重失恋的痛苦，而志宏也强要亦风和夏晨陪伴自己。当亦风在旅途中知道了夏晨要往法国与妹妹见面后，也决定与志宏一起与夏晨前往法国。在法国的火车站，志宏起劲的拍摄当地着名名胜，甚至指示夏晨与亦风亲昵地合照，被迫就范的两人不禁感到面红及尴尬。
+
+夏晨在约定的咖啡店中发现了妹妹留下的纸条，纸条上指示要夏晨前往法国的二手书市集，当到达该地时，夏晨发现了一本以前父亲曾在年幼时送过给自己的图画书。而当夏晨付款的时候，店员将一张字条递给了夏晨，原来这也是妹妹的安排，亦风直接感觉夏晨的妹妹与夏晨在玩缘分游戏……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2667</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E21.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:53:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>贵芬担任代言人</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>爱情食物链</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3215109</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>柏业紧张贵芬被滚油溅伤，贵芬怕被识破由佳芳做幕后枪手。莎莲娜告知利高，指柏业已找了Hestia做代言人还召开记者会，利高恼羞成怒决定继续与莎莲娜合作。金枝看到Hestia受欢迎有点儿妒忌，向佳麟单打谓贵芬并不高贵。
+
+记者会完结后，佳麟、洪鱻预备与贵芬一同离开，却发现狗仔队跟踪贵芬，他们只好分头走。柏业看见贵芬单独一人等车，请缨送她返回深水湾，但狗仔队依然不放过他们。
+
+贵芬租豪宅扮高贵
+
+到达深水湾，狗仔队锲而不舍，结果贵芬走入服务式住宅租了一个单位以避开跟踪。佳芳、佳麟羡慕贵芬有一间豪宅住所，贵芬自言梦寐以求的高富帅已在眼前，绝不会放弃。莲姐送衣服来，得知道贵芬以八万多元租了单位，两母女为此而大吵。
+
+宇球知道「最好味」向他们订了一个月货，担心鲁实和烨源得罪大客户，要佳芳跟进。静乐盘算佳麟拍摄「女神厨房」所赚得的利润，佳芳认为此刻要保障他们的利益，勿让别人知道女神在深水埗卖鱼。洪鱻因贵芬喜欢柏业而感到痛苦，不断唉声叹气，金枝嫌他嘈吵与他争拗，佳麟和佳芳分别劝止他们。
+
+莎莲娜派人调查贵芬
+
+佳麟向金枝解释「女神厨房」不是贵芬而是他创作的人物，若然金枝弄砸，即破坏他的心血。金枝不明佳麟所指，但仍答应保守秘密；另一方面，洪鱻也应承替贵芬保密。莎莲娜找狗仔队跟踪贵芬，得到资料有限，她将有关资料给了利高，二人为公为私决定合作打击Hestia。莲姐送衣服给贵芬，莲姐回深水埗时被狗仔队跟踪，结果为避开狗仔队弄伤了脚。贵芬找佳芳陪母亲看跌打，自己留在店中卖鱼；佳芳发现有狗仔队后立即通知贵芬，但贵芬却没听到电话。
+
+刘鏶邀请贵芬献艺
+
+佳芳即找佳麟，洪鱻与佳麟前往鱼档为贵芬解困，洪鱻始知贵芬卖鱼。狗仔队打开鱼档闸门，洪鱻用水喉射向狗仔队，赶走他们。贵芬被洪鱻知道自己卖鱼，于是用尽方法令洪鱻封嘴不泄密。Hestia在「最好味」派发优惠券，大受欢迎；刘鏶在一旁观察对贵芬满意，更邀她回家吃饭。
+
+刘鏶带贵芬入厨房参观，准备下厨炮制菜式。他在拿鳝鱼时，因鱼滑手掉落地，贵芬本能地捏住鱼头，放入盆中。刘鏶看到大赞贵芬不怕鳝鱼，而他因为捉鳝鱼令身体不适，不能再煮菜，想起贵芬是烹饪高手，请她表演厨艺……</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1304</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.爱情食物链.Ep09.2016.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj 爱情食物链 2016 2Audio Hdtou qsv av1</title>
+  <originaltitle/>
+  <showtitle>爱情食物链</showtitle>
+  <season>1</season>
+  <episode>2016</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1304</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.爱情食物链.Ep09.2016.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2016" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

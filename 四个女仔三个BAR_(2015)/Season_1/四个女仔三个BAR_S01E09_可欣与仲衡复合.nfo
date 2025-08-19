@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:03:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>可欣与仲衡复合</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>四个女仔三个BAR</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3188646</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>智毅把群莲的遗书带给建安，建安终肯在法庭作供，结果陪审团作出一致的裁决。隽烨带新女友参与聚会，被智毅及吕官揶揄他的情史。慧芸带儿子一同前来，吕官认出祖贤经常到法庭旁听。智毅夫妇对祖贤大兴问罪之师，责儿子辜负了他们的信任，又可能令父母陷于疏忽照顾儿童之罪。祖贤却反驳得头头是道，令身为律师的父母无言以对。
+
+靖姿知道梓博感情受挫，借植物鼓励他，梓博心情好转，反过来戏弄靖姿，靖姿向他扔废纸球，差点儿扔到智毅。
+
+智毅突然　提出考试
+
+智毅命梓博重写要求撤销控罪的信，梓博以为自己列写了充足的理据，且已覆查所有资料，肯定没有出错。智毅说出原因，教他应如何写一封有力的要求撤销控罪信。
+
+智毅经常突击考验梓博与靖姿对法律的知识、对不同案件的处理方法等，梓博虽然念熟了有关法例，但总不能因应实际情况灵活的套用，令他感气馁。
+
+智毅突然提出考试，梓博与靖姿须通过考试才能继续留在律师楼，题目是找出一件智毅觉得刁钻的案件，但没有考试范围，没有准确考期及期限，只要智毅一声令下，随时开考，同时智毅又着二人把大堆旧案件的文件夹好好整理。
+
+淇淇坦言　有新男友
+
+安居知道靖姿与梓博将要考试，无意中透露了他的考试题目与二人相同，但谓智毅已提醒他勿给任何提示，靖姿与梓博只好靠自己。
+
+梓博接到淇淇来电，但很快便挂线，他便传短讯给淇淇。梓博捧鲜花等淇淇下班，二人终可坐下来好好聊一次。淇淇坦言与梓博一起没安全感，梓博的话惹她生气，她觉得梓博与她的思想距离太远，更指梓博曾说见过UFO是戏弄她。
+
+淇淇又谓给梓博打出的电话只是她不小心触碰到手机而已，更坦承已与另一男生开展了新恋情。
+
+旧档案中　资料有用
+
+靖姿从旧案件夹中发现有用的资料，详加细阅。
+
+梓博偶遇可欣，约她下班后见面，彼此聊起各自的失恋故事，梓博问可欣会否考虑给自己及仲衡一个重新开始的机会，因他看到可欣手上仍戴着与仲衡的订婚戒指，而仲衡亦仍很挂念可欣。
+
+可欣约了三位好友到家聚会，既准备了美食，又悉心打扮，好友们都不知所为何事，翠花则以为是可欣生日。此时，仲衡拿着鲜花到来，宣布与可欣九月结婚。慧芸到书店，刚旅游完回港的耀力给她送上两本书。
+
+梓博躲在　后梯痛哭
+
+慧芸在书店一角看书时，智毅也来到书店，但彼此未有看见对方……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-20 00:03:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2692</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E09.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

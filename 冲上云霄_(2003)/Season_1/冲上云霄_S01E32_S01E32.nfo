@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>苏怡旧病复发</title>
+  <originaltitle>Episode 32</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id>4328875</id>
+  <uniqueid default="false" type="tmdb">1982470</uniqueid>
+  <uniqueid default="false" type="trakt">1851346</uniqueid>
+  <uniqueid default="true" type="tvdb">4328875</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>善波及时赶到，送苏怡至医院，医生证实她因病毒感染而晕倒，劝她要小心身体，以免触发旧患，善波劝她应把病情向亦琛坦白，苏怡拒绝。嘉露知苏怡病情不轻，向善波打听，善波答应苏怡保密，连嘉露也隐瞒。
+
+以珊从澳洲返港，约众人见面，她气色甚佳，并谓将复职，众替她高兴，但以珊想起餐厅曾是她与云志约会的地方，面色一沉，苏怡却察觉她仍有心事，对她加以照顾，并鼓励亦琛多花时间陪伴以珊。以珊重返工作岗位，被一客人多番非礼，以珊终忍不住与客人争执，幸得雁婷解围。浩聪找到当日云志飞行途中为以珊所订的鲜花收条交给以珊，以珊见云志无时无刻均思念自己，感动不已。
+
+以珊返港后被投诉，亦琛负责调查，劝她放松自己，以珊知亦琛关心自己，不由自主拖着他的手，二人感异样。以珊向嘉露诉心声，应否投向亦琛怀抱，但又怕伤害苏怡，嘉露劝她必须想清楚。
+
+苏怡证实心肌炎复发，令她心情大劣，时亦琛向她报喜，他的眼疾已好转，快将可以飞行，苏怡替他高兴，又为自己难过。名钢琴家王祖倍自愿到机场表演钢琴，苏怡不明所以，祖倍表示只想享受表演的过程，苏怡听后，若有所悟。
+
+唐璜与Natalie的奸情被佳美发现，佳美怒不可遏，搬离寓所，亦琛和亦风也不值父亲所为，支持母亲。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1574</width>
+        <height>1080</height>
+        <durationinseconds>2671</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E32.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 1 集 燕双鹰率队增援攻打小楼</title>
+  <originaltitle>第 1 集 燕双鹰率队增援攻打小楼</originaltitle>
+  <showtitle>津门飞鹰</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310913</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>1948年，随着辽沈战役的隆隆炮声，中国人民解放军东北野战军迅速攻克锦州，关闭了东北大门，旋即，东北野战军主力又以雷霆万钧之势横扫辽西走廊，全歼廖耀湘的西进兵团，国民党新一军，新六军两大王牌在解放军摧枯拉朽的攻势下土崩瓦解，烟消云散，紧接着，解放军挥师东进，揭开了解放沈阳的序幕。东北野战军某部六连的方连长和战士们同仇敌忾，英勇奋战，和驻守沈阳的国民党军队展开激烈的对战，把他们打得狼狈逃窜，只有一小股躲在小楼里的国民党军队，因为占据有力地形，易守难攻，再加上小楼是钢筋混泥土结构，尽管方连长调来山炮进行猛烈轰炸，小楼依旧是安然无恙，迟迟攻不下来，战士们却伤亡惨重，方连长急得一筹莫展。就在这时，第四野战军特种兵纵队特务营营长燕双鹰率队来增援，让方连长留下山炮，带他的战士退后一百米。燕双鹰让战士们先隐蔽，他让二连长郝大刚带几个老战士去探听虚实，再摸准对方的火力点的分布，燕双鹰火力掩护，可是郝大刚他们根本不能近前，燕双鹰立刻让他们撤回来，他断定楼里的守军是一支训练有素，技术精湛的高级步兵，这种隐蔽战很像国民党新六军的战法，就和特务营教导员高进商量，不能硬攻，只能智取，首先要避开正面的敌人，设法迂回进入小楼，才有可能消灭他们。
+
+燕双鹰发现小楼侧后方的小工厂，比小楼高处很多，是很理想的进攻地点，就决定和高进，孙二勇，李忠实，王文学以及朱五六先迂回到小楼后面，然后发出信号弹，让郝大刚等战士每三分钟向小楼开一次炮。燕双鹰一行人来到小工厂，看到小楼防守很严密，一点破绽都找不到，就固定好过江龙，同时发射信号弹，三分钟一到，炮声响起，吸引敌人的注意力和火力，燕双鹰和战士们依次凌空飞渡到楼顶，他们悄悄进到小楼，燕双鹰负责吸引敌人的注意力，让其他人趁机去刺探虚实，燕双鹰制造陷阱，诱使敌人上钩，等敌人发现上当的时候，立刻展开地毯式搜索。燕双鹰左躲右闪，还是被敌人的小队长胡云之发现，并用枪顶住他的头，燕双鹰算好三分钟一到，等跑声响起，他迅速回身，和胡云之展开激烈的肉搏战，不费吹灰之力将其击毙。</plot>
+  <runtime>34</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2074</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>01_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

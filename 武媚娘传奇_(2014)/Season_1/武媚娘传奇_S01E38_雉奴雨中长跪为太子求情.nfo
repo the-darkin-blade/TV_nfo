@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>雉奴雨中长跪为太子求情</title>
+  <originaltitle>雉奴雨中长跪为太子求情</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>38</episode>
+  <id>5099023</id>
+  <uniqueid default="false" type="tmdb">1040349</uniqueid>
+  <uniqueid default="false" type="trakt">1704184</uniqueid>
+  <uniqueid default="true" type="tvdb">5099023</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李世民早有防备，连夜召回大将军李绩在城外剿灭叛军，捉拿侯君集，太子欲逼李世民禅位，却不知自己已然成为瓮中之鳖。面对太子的咄咄相逼，李世民不再留情，一直保护天子的侯君集部下突然反水，生擒太子。瑞安溜到东宫救出媚娘，媚娘一路狂奔至承庆殿，李世民告诉太子从没想过要废他，太子以为媚娘骗了他，怒骂媚娘。李世民质问媚娘为什么要勾结太子，媚娘心灰意冷地要李世民杀了自己，李世民还是下不了手。李治听说承庆殿政变，赶来保护父亲，看到失魂落魄的媚娘，李治不信媚娘会和太子勾结，坚决相信媚娘是清白的，想要救媚娘，媚娘却求李治去李世民面前为太子下跪求情。李泰对着镜子练习悲痛的表情，心里却志得意满。朝廷后宫的局势让韦妃都神清气爽，然而李泰却有些怅然。 李世民查出魏征也与太子谋反有牵连。李治为太子求情在御书房前长跪不起，很快大雨滂沱。李泰也来为太子求情，长孙无忌提醒李世民李治仁厚，如果他日李治登帝，所有皇子都会被保全。杨妃查出媚娘少年时恋人李牧的行踪，派杨长史去找李牧。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2659</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep38 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="38" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:53:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>寻回失落味道</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>爱情食物链</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3215133</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>利高带贵芬到录影厂开拍「女神新厨房」，将她打扮得性感。自推出新片段，「最好味」生意全线下跌，柏业找佳芳设计新菜式迎接硬仗。洪鱻有要事向佳芳求救，到了酒店后佳芳见到来香港捉儿子回台湾的洪大担；大担见佳芳为人老实甚喜欢她。洪鱻告知父亲佳芳是烹饪高手，请她帮助寻找失落的味道。另一方面，刘鏶要与柏业一同上阵对抗利高，柏业找到佳芳答允帮手，刘鏶急于约见佳芳。
+
+刘鏶大担老友相遇
+
+刘鏶和柏业到达酒店中菜厅，见到佳芳与别人饮茶，请佳芳过枱商谈；但谈不了两句，佳芳又跑去与大担饮茶。刘鏶见佳芳跑来跑去，于心不忍，走过去看看佳芳和何人在一起，竟发现大担。刘鏶与大担本是三十多年的老朋友，大担从台湾到香港，全靠刘鏶利用一些下栏材料煮几味可口小菜和狗仔粉，大担从中领悟做出担仔面。洪鱻和柏业一同自责未能守业，佳芳鼓励会有奇迹出现。利高带贵芬到酒店却遇上刘鏶父子、洪鱻和佳芳。利高和贵芬庆功时，莎莲娜又出现提醒利高还钱，令利高不欢而散，莎莲娜即召狗仔队跟踪利高贵芬二人。
+
+洪鱻找到失落味道
+
+利高送贵芬回家，洪鱻见到后劝贵芬离开利高，贵芬反劝洪鱻表示自己不适合他。洪鱻劝贵芬回头是岸，贵芬自知不能回头。洪鱻找佳芳诉苦，由于无处发泄，他将感情向面条发泄，一面做一面想着贵芬。佳芳尝过洪鱻的担仔面，认为洪鱻终于找到失落的味道。洪鱻请父亲、刘鏶试他的担仔面，大担大赞不已，觉得洪鱻已做出色的担仔担，要他即日返回台湾开业。洪鱻指要向另一人致谢，延期返台湾。柏业预备了材料，请刘鏶炮制当年的辞行菜式，与大担吃饯别饭。
+
+贵芬怀孕洪鱻表白
+
+「太好味」在旗舰店举行招待会，利高被传媒爆出他上贵芬家中过夜，粉丝听到女神被包养，对Hestia失望，快餐店生意即时下跌。贵芬不适看医生，发现已怀孕感不知所措。洪鱻穿着黑礼服来找贵芬，贵芬才知道洪鱻是全台湾着名连锁担仔面少东，身家超过台币四十亿；洪鱻更决定返台湾安顿业务后再回来找贵芬。柏业抱怨自己不懂得做菜，佳芳在旁鼓励他找出自己的优点。柏业领悟，将感情和食物融合，二人不约而同想起做狗仔粉，柏业决定推广怀旧菜。 洪鱻向鲁家各人辞行，静乐才知道洪鱻是太子爷。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1309</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.爱情食物链.Ep19.2016.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj 爱情食物链 2016 2Audio Hdtou qsv av1</title>
+  <originaltitle/>
+  <showtitle>爱情食物链</showtitle>
+  <season>1</season>
+  <episode>2016</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1309</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.爱情食物链.Ep19.2016.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2016" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

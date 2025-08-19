@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 6 集</title>
+  <originaltitle>第 6 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281643</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>赵雅琴似乎与燕双鹰走得更近了，燕双鹰甚至还向她吐露了他曾经遇到的一个女人，但是那个女人却死掉了。林玉仙为了报复燕双鹰的直面中伤，只能假意投入孟海马的怀抱。头脑简单的孟海马却不知道林玉仙只是在利用他。重庆方面，李延平接到地下工委负责人吴玉霞和情报参谋刘庚的消息，“五号”传信，猎鹰计划的第一步就是刺杀野司首长。与此同时，高进在重庆建立了交通站，以配合燕双鹰行动，并顺利与李延平取得了联系。 燕双鹰一行踏上了宜宾开往重庆的客轮，特务头目洪雪儿和吴枢斗早已布下迷魂阵，准备一路试探。燕双鹰获知赵雅琴的军械专精是爆破，赵雅琴也不失时机的与他接近。而此时“五号”情报员也意外的出现在船上，并频繁的试图与燕双鹰接触。燕双鹰觉得事有蹊跷，正欲查明这个“五号”的真实身份，不料偷偷跟上船的林玉仙却趁乱溜进了赵雅琴的舱房。经过一番周旋，燕双鹰意识到, 这个“五号”不过是敌特的又一次试探，旨在查实自己的真实身份。燕双鹰一举击毙了假“五号”和胁迫他与其当面对质的特务，洪雪儿和吴枢斗精心安排的试探计划宣告破产。</plot>
+  <runtime>41</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2470</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep06_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

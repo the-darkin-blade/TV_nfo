@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦琛勒令亦风停飞</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>4328862</id>
+  <uniqueid default="false" type="tmdb">1982457</uniqueid>
+  <uniqueid default="false" type="trakt">1851333</uniqueid>
+  <uniqueid default="true" type="tvdb">4328862</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>亦风与亦琛同飞美国，亦风向他求教要诀，亦琛见他精神欠佳，劝他提早休息。翌日起飞前，亦琛发现亦风身体不适，勒令他停飞，亦风认为他小题大做。众人支持亦琛决定，亦风不满，云志看在眼内，对亦风加以教导，表明亦琛凡事以安全为上。后亦风见到苏怡等人为照顾一个在飞机上病发的乘客而忙得不可开交，始明白兄长苦心。
+
+希欣搬到嘉露的家与苏怡、善波同住，浩聪灵机一动买下旁边的村屋，乘机接近希欣，立豪、志宏和亦风等亦加入同居行列。
+
+卓芝和以珊姑嫂和好，二人一同对付云志，云志啼笑皆非。卓芝对亦琛大有好感，亦琛却感吃不消。公司决定在云志和亦琛之间选一人升任机长，对于成为首位华人机长，二人均大有期望，为面试尽力。亦琛告诉亦风以平常心面对，即使失败，也替云志高兴，苏怡全力为亦琛打气，亦琛感动。云志信心不足，以珊大力支持。
+
+卓芝约会亦琛，亦琛感烦恼，请以珊帮忙代他向她推辞，以珊劝告卓芝，卓芝却置若罔闻。云志知卓芝单恋亦琛，劝以珊不应多事，应顺其自然，以珊不明所以。
+
+亦风与亦琛同飞，回程时一乘客突然精神失常，攻击空姐，亦风一时情急出去帮忙，却被乘客闯入驾驶室，更打伤机长。机长未能控制飞机，由亦琛接手，亦风当副手，亦琛临危受命，心情紧张。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1574</width>
+        <height>1080</height>
+        <durationinseconds>2668</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E19.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦风偶然得悉祖思病况</title>
+  <originaltitle>亦风偶然得悉祖思病况</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586994</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>亦风收到通知，得悉机长试是由亦琛负责评核，而亦琛也表明不会因兄弟关系徇私。日东、亦琛等人偕亦风到酒吧消遣，日东趁机分享自己以前考机长的经验，原来当年日东为机长试温习到日夜不分，更自问觉得考机长试是他自己人生最紧张的时刻，亦琛听后表示赞同，也觉得亦风对机长试的危机感不足。这时也在喝酒的夏阳突然提出与亦琛相反的见解，众人看出亦琛和夏阳有着相反的飞行风格外，也感到夏阳对亦琛存有敌意。
+
+亦风撞破　夏晨约会
+
+亦琛再次约会夏晨，但却设计至特地给亦风撞破，亦风回家后一言不发在房内沉思，亦琛借此机会迫弟弟在自己面前表白，承认对夏晨的心意。亦风初时觉得亦琛约会夏晨只是因为她的外表酷似苏怡，但当亦风听到兄长说明，原来亦琛要学习面对夏晨，是为日后方便亦风和夏晨成为情侣后能够顺利适应，不禁大喜。
+
+亦风自始得知亦琛已经完全放下苏怡，自己也可以放心追求夏晨，不用怕对亦琛造成伤害。翌日亦风往停机坪找夏晨，并将当时一起练习单车时所用的绳所造的手绳送给夏晨，并指希望夏晨好好保管，直到亦风完成机长试，便向夏晨表明自己的真正想法。
+
+志宏分享　考试经验
+
+志宏及卓芝在Skylette的咖啡厅与亦风进餐，见亦风紧张地预备机长试，志宏便分享自己的经验，指认识一位前辈就是因为机长试所造成的压力病重入院，更怕亦风也会步其后尘。亦风虽然否定志宏意见，但事实上亦风因为机长试而坐立不安，甚至在飞机上休息时发恶梦。善于鍳貌辨色的夏阳发现，便在下机后约亦风游车河，教他在适当时候放松自己并要对自己有信心。亦风闻言后感到有人相信自己的能力感振奋，之后亦风听从夏阳的意见不强迫自己温习并打机减压，但此举却令到在旁看到的亦琛感到不快。
+
+亦琛担心　亦风考试
+
+之后亦风在考核中表现出色，顺利通过了机长试最难通过的关口，只要完成最后的飞行评估，便可以晋升成为机长。亦风为了答谢祖思的支持，便在水樽上画涂鸦答谢祖思支持自己，令祖思开心不已。但是亦琛却认为亦风缺乏身为机长的危机感，就算亦风通过考验也得不到亦琛认同，亦风顿感气结。
+
+在亦琛独自一人的时候，年希问及亦风的事，虽然亦琛很希望可以亲手将机长肩章交给亦风，但却对亦风是否能考上机长有保留……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2657</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

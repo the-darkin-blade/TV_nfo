@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第10集</title>
+  <originaltitle>第10集</originaltitle>
+  <showtitle>金大花的华丽冒险</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>4565190</id>
+  <uniqueid default="false" type="tmdb">911322</uniqueid>
+  <uniqueid default="false" type="trakt">919450</uniqueid>
+  <uniqueid default="true" type="tvdb">4565190</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>发现亮妍可能是大花假扮的凯乐，处心积虑想要证实自己的揣测，让大花出糗。趁著气氛热闹的庆生会，凯乐拱琴艺出众的杜经理为大家弹奏一曲，无法推辞的大花，会因此当众穿帮吗。冠军哥、欧阳泰，谁能适时出手，英雄救美。同样发现真相的冠军，也感觉到欧阳泰对大花若有似无的 占有欲，直接找欧阳泰理论，扬言立刻辞职带走大花。两个男人之间的冲突一触即发。欧阳泰该如何招架？冠军能如愿带大花回家吗。大花终於不用再以杜经理的身份见冠军，彼此倾吐这段时间各自的无奈。冠军承诺要带大花回家，却没想到大花完全不愿意，两个人起了争执。冠军看著天天见面的大花，此刻却像个陌生人，他用深情的一吻表明自己的决心究竟，大花该何去何从。晓菲来找冠军，警告他金标即将出手对他不利，冠军能躲过这一劫。一旁的大利觉得冠军好像怪怪的，居然平心静气地和晓菲聊女生喜欢的类型。这两人之间似乎有些不寻常，难道冠军要回应晓菲对他的感情了。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-08-19 23:55:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2694</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[壹高清]金大花的華麗冒險.King.Flower.Ep10.1080I.Hdtv.H264.2Audio-Onehd_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

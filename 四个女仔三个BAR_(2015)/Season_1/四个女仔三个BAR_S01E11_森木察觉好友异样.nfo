@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:03:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>森木察觉好友异样</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>四个女仔三个BAR</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3188648</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>梓博通过了智毅的考试，靖姿等大夥儿到紫凝家替他庆祝。安居从电视看到一位于监狱认识的朋友，原来安居经常到监狱探访，为囚犯送上关怀。翌日他与紫凝及翠花午饭时，邀请二女一起到监狱探访。
+
+随安居一起做义工的基金管理经理展信透露，他会替一些囚友做财务管理，紫凝对展信颇为欣赏。
+
+安居介绍翠花认识一位浑号龙哥的囚友陈强，陈强因翠花喜爱旧歌旧物，觉得翠花很特别。智毅接到一宗被控与未成年少女发生性行为的案件，控方证人是未成年的援交少女韵诗。
+
+靖姿认识　援交少女
+
+靖姿发现韵诗是她曾到中学分享职业心得时认识的学生。案中被告裘百通被控与未成年少女发生性行为及非法肛交两项控罪，智毅表示第二项控罪有可能被判终身监禁。
+
+靖姿因韵诗的案件感不安，她无法理解时下年轻人的想法，但明白了韵诗为何会有钱买名牌手袋。梓博想起了淇淇，他在补考前五分钟从社交网站获悉淇淇已为人妻的消息，他不怪淇淇，自问没能力满足她的要求。梓博又感激靖姿以克服读写障碍的故事鼓励他，令他通过补考。可欣与同事们发觉慧芸近来心情大好，森木更觉得慧芸红光满面。
+
+耀力原是　新书作者
+
+耀力早前赠慧芸的新书作者举行新书发布会，慧芸到场才知作者正是耀力本人。紫凝陪展信到新书发布会，看见与耀力谈笑甚欢的慧芸，但未有上前打招呼。耀力风趣幽默地讲述他旅游时的惊险故事，令慧芸留下深刻印象。
+
+紫凝在街上看见妁彤，正想避开，展信却故意上前认识妁彤。耀力推荐慧芸参加读书会，与会友分享阅读的经验和乐趣，一位会员Sandy介绍慧芸看渡边淳一所着的《男人这东西》。
+
+善意提醒　紫凝抗拒
+
+展信向妁彤介绍基金，紫凝不喜欢男友向妁彤找生意。紫凝父母霍贯东及许蕙碰巧也来到同一餐厅，妁彤见到贯东后显得心事重重。妁彤趁在洗手间善意提醒紫凝展信为人不可靠，紫凝十分抗拒，请妁彤不要干涉她的私生活。
+
+妁彤离开餐厅时，与贯东夫妇乘搭同一升降机，升降机突然停顿，等候救援期间，妁彤听到贯东夫妇说到一些紫凝的事，尽显二人对紫凝的疼惜之情。安居给妁彤交收文件后，妁彤要求安居留下陪她喝酒，但其实她是自顾自的狂饮，她听安居说儿时被父亲责罚，觉得羡慕。在酒吧另一边的隽烨看见，担心安居对妁彤有企图，遂送醉醺醺妁彤回家……</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-20 00:03:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2726</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E11.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

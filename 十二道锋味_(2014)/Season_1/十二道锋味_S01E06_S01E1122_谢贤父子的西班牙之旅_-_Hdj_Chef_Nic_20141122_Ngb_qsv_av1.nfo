@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>谢贤父子的西班牙之旅</title>
+  <originaltitle>谢贤父子的西班牙之旅</originaltitle>
+  <showtitle>十二道锋味</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2998609</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>谢霆锋首次与父亲谢贤共同旅行，在西班牙学习分子料理技术，与陈妍希合作创新“黑毛猪叉烧”，父子温情互动成为亮点。</plot>
+  <runtime>27</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youku</studio>
+  <studio>Tencent Video</studio>
+  <dateadded>2025-08-17 22:15:45</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1643</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Chef.Nic.Ep06.20141122.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Chef Nic 20141122 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>十二道锋味</showtitle>
+  <season>1</season>
+  <episode>1122</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>27</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Zhejiang Television</studio>
+  <studio>Youku</studio>
+  <studio>Tencent Video</studio>
+  <dateadded>2025-08-17 22:15:45</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1643</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Chef.Nic.Ep06.20141122.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1122" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

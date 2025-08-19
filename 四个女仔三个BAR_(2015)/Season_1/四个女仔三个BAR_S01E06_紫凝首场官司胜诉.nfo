@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:03:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>紫凝首场官司胜诉</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>四个女仔三个BAR</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3188642</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>梓博首天上班颇为兴奋，智毅着靖姿带他了解公司环境。
+
+紫凝二叔的律师楼接了一宗明星袭警案，请紫凝替其辩护。智毅教靖姿及梓博打官司的详细程序，不时模拟被告人的反应，好考验两徒的应变能力。梓博买了多件新恤衫，父母提醒他未来十二个月都没有收入，应节约开支。淑芬替儿子求签，签文指梓博命中注定甚么事也有两次选择机会。
+
+紫凝买了几本武打明星薛剑做封面的杂志，翠花以为紫凝像她一样迷上薛剑，但紫凝只是因为要替他打官司，才买那些杂志当作资料搜集。
+
+智毅留下　工作清单
+
+慧芸到书店拿取预订的书籍，但到达时书店已关门，她便直接走到楼上的书屋。慧芸与耀力聊天，耀力表示对衣食不讲究，有足够的机票钱让他到处旅游便可，他又认为想过健康生活，并不需要很多钱。慧芸请智毅品尝葵花茶，指此花茶或有助改善智毅的鼻敏感，并同意耀力所说想健康也不需要很多钱的说法。智毅与靖姿外出，留下工作清单给梓博，包括浇花、水机换水、送文件、买咖啡、到洗衣店取衣服等。
+
+紫凝二叔的律师楼，派出负责薛剑案的事务律师崔贤哲带薛剑往见紫凝，紫凝向薛剑了解案发经过，并向他解释其面对四项控罪的情况。
+
+淇淇改变　感情状况
+
+紫凝建议薛剑承认第一条阻差办公的控罪，薛剑难以接受，他质疑紫凝的能力。
+
+贤哲表示若由自己替薛剑辩护，他也会提议薛承认阻差办公罪，又指紫凝是退休法官霍贯东的女儿，师傅则是出名打刑事案的范智毅，认为薛剑应对紫凝有信心。
+
+梓博赶了半天，把清单上的工作完成后，到茶水房的雪柜取了一盒牛奶一饮而尽，后梓博发现淇淇更改了她在社交网站内的感情状况。
+
+翠花拆穿　口不对心
+
+智毅回到办公室，着靖姿用雪柜内的牛奶替他冲咖啡，梓博表示牛奶已被他饮了，智毅着他翌日买一盒一模一样的回来。梓博不记得那盒牛奶是甚么牌子，连忙走到茶水房的垃圾桶翻看，但垃圾刚被清洁工人清倒，他便追出把整袋垃圾抢过来……
+
+可欣带仲衡及三位好友聚会，紫凝把接触薛剑后的印象告知各人。可欣指贤哲是行内有名的「笋盘」，公司内的女同事都很仰慕他，紫凝冷淡表示不觉得贤哲特别出众。紫凝及贤哲替薛剑打赢官司，薛剑邀二人出席他的电影首映。
+
+贤哲听到　紫凝的话
+
+梓博致电淇淇，淇淇的手机总是转驳到留言信箱……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-20 00:03:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E06.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

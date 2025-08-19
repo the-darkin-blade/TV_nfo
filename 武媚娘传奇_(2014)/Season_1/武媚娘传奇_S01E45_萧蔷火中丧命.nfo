@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>萧蔷火中丧命</title>
+  <originaltitle>萧蔷火中丧命</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>45</episode>
+  <id>5100453</id>
+  <uniqueid default="false" type="tmdb">1040356</uniqueid>
+  <uniqueid default="false" type="trakt">1707951</uniqueid>
+  <uniqueid default="true" type="tvdb">5100453</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>萧蔷总是听到有婴儿啼哭，以为是死去的孩子来索命，难以入眠。媚娘痛定思痛，要瑞安去查徐慧之前的行动。徐慧得知萧蔷常去净初池畔挑船，以为她是要害媚娘。袖手旁观。 萧蔷设计将媚娘和徐慧引入自己居所，要同归于尽。大火燃起，媚娘和徐慧都危在旦夕，媚娘自觉不行了，要徐慧好好活下去，来世还要和她做姐妹，徐慧不允许媚娘就这样死去，用身体护住媚娘。徐慧以身相救媚娘的行为不仅挽回了媚娘对她的信任，也得到了李世民的怜惜，李世民下旨封她为贤妃，并将萧蔷母家一族按律处死。杨妃派出人去和莫公公假传圣意，莫公公把消息传递给李泰，杜楚客建议李泰可以向李世民毛遂自荐做太子。李牧梦到年少时父母惨死的那一刻，从梦中惊醒，杨长史来见李牧，暗示他应该为父母报仇，李牧却说从没想过报仇一事，杨长史试图用媚娘挑起李牧对李世民的仇恨，告诉李牧媚娘愿意跟他走是因为怕他伤害李世民，并要李牧察看媚娘的包裹，看看她逃亡时仍舍不得抛弃的东西。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2677</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep45 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="45" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>子麟陪伴卓芝待产</title>
+  <originaltitle>子麟陪伴卓芝待产</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>36</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5587002</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>子麟从三亚回来后相约卓芝午膳，突然卓芝阵痛，子麟大为紧张更立刻通知亦风等人，并由亦风驾车送临盆在即的卓芝进医院，而子麟也一直陪伴在侧。到医院后，子麟也一直陪着卓芝进产房，活像是卓芝的丈夫一般。
+
+另一方面，亦琛、年希和志宏从机场赶到医院，但是贝琪却因为子维病情恶化晕倒，未能到香港支持卓芝。最后亦琛想到利用电脑，以视像通话连系贝琪。卓芝得到好朋友的支持后，终能顺利诞下孩子，而昏迷了的子维，也有了清醒的迹象。
+
+年希要求　亦琛支持
+
+亦琛甫下机回港便被年希缠扰，并且拿出了亦琛的航班行程，原来年希的机师考试即将开始，她要求亦琛当日坐在同一航班以支持自己。亦琛本想叫年希同时邀请其母Manna，但年希指知道Manna每年的这一天有个很重要的约会，所以并没有打算向Manna提及考试的事。
+
+传说机长　考核年希
+
+到考试当日，年希碰巧与子麟在同一机长及同一飞行路线进行考试，而负责考核他们的就是被称为传说机长的BJ。首先由香港飞往伦敦的路线由子麟开始，BJ一直表现和蔼，只是稍为问了些问题便让子麟顺利过关。在客舱的年希在卓芝的口中得知BJ性格和善，顿感放下心头大石。
+
+降落后，子麟甚至被BJ称赞，而子麟更马上将合格的消息通知卓芝。这时子麟的兄长也在客舱出现，为子麟能顺利成为机师而大感高兴。子麟相约卓芝在伦敦游览，原来他们已经正式交往，但是卓芝怕子麟的兄长未必能接受自己，所以提议暂时保密两人关系。
+
+亦琛发现　年希犯错
+
+之后伦敦回到香港的航班便由BJ考核年希，但年希的松懈却换来了BJ的追问。在突如其来的连串问题下，终令年希紧张得把飞行广播也说错，在机上的亦琛听在耳中也感无奈。BJ让年希负责降落，终于年希在降落时表现良好令BJ满意。年希也成功过关，同时BJ也宣布这次是他退休前的最后一次飞行。
+
+Manna遇上　当年旧识
+
+亦琛特地到机长室门口恭贺年希合格，这时Manna也突然出现。当年希问及Manna的约会，BJ便走出来和Manna打招呼，原来Manna每年一次的约会对象就是BJ。亦琛与年希回家，卓芝和子麟特地跟随过来，就是为了听年希细说关于Manna和BJ的故事，原来在Manna怀有年希的时候和BJ相识并且两情相悦，但可惜BJ当时已经有家室，只好约定每年的二月二十八日见面……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2662</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E36.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="36" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

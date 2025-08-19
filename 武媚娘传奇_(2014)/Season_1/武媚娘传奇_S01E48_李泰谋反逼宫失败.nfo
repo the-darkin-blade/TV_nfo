@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李泰谋反逼宫失败</title>
+  <originaltitle>李泰谋反逼宫失败</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>48</episode>
+  <id>5101031</id>
+  <uniqueid default="false" type="tmdb">1040359</uniqueid>
+  <uniqueid default="false" type="trakt">1707954</uniqueid>
+  <uniqueid default="true" type="tvdb">5101031</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李泰造反的消息传入宫中，李世民对皇子们的储位之争深感疲惫，传令不许任何人插手皇子们的事情，让他们自行去解决。李泰对李恪的话完全听不进去，执意造反，李治说动李泰幕僚李义府，李义府割断绑缚李治的绳子，李治逃脱。杜楚客被媚娘射穿胸背，李泰见大势已去，只得束手就擒。王德将北宫门城墙上发生的事情禀告给李世民，李世民得知李泰受伤，前去探望。杨妃含恨服毒殉国，媚娘问杨妃何以一再救她，杨妃相信“女主武氏”的预言，她希望可以借媚娘之手覆灭大唐。杨妃临终前告诉媚娘，李牧已经去刺杀李世民了，媚娘赶去阻止。李世民探望“李泰”，发现赫然是刺客，刺客刺杀李世民，李牧却反手将刺客诛杀，与李世民并肩作战，羽林卫出现，将刺客剿灭。李牧开口向李世民要媚娘，激怒李世民，媚娘飞身挡在李牧前面。李世民把李牧押入天牢。李世民温和处置了李泰和杨妃，老臣们不满，李世民自己也是父亲。朝臣们提议给准太子李治立妃，长孙无忌推荐了罗山令王仁祐之女王玉燕。 媚娘又被关入掖庭狱，李治给媚娘送食物，告诉媚娘他将要大婚的消息。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep48 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="48" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

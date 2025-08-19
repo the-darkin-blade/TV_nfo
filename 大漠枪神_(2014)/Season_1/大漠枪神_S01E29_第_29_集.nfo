@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 29 集</title>
+  <originaltitle>第 29 集</originaltitle>
+  <showtitle>大漠枪神</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310889</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>几个土匪带着高进去见沈七七，沈七七利用高进逼燕双鹰现身，林雪掩护燕双鹰救下高进。在沈七七疯狂的要杀所有人质的时候，燕双鹰、高进冲了进来救下战士们。一个女兵带着哭腔对燕双鹰说林雪被沈七七绑走了!小玲在洞口下喊着要见莲姑，大莲笑着告诉她沈七七已经完了，燕双鹰救了人质。现在关东山已经是莲姑的天下了，也是她收买了黄五龙的手下除掉了黄五龙。操场上，燕双鹰、高进训练着部队的战士们。莲姑被噩梦惊醒走出房间遇到老丁，老丁怀疑老刀把子已经不在了，大莲告诉他老刀把子得了痨病。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2769</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>E29_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

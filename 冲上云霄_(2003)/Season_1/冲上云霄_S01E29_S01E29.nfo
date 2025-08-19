@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>云志向以珊提出分手</title>
+  <originaltitle>Episode 29</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id>4328872</id>
+  <uniqueid default="false" type="tmdb">1982467</uniqueid>
+  <uniqueid default="false" type="trakt">1851343</uniqueid>
+  <uniqueid default="true" type="tvdb">4328872</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>以珊和云志相对无言，彼此知道二人感情有变。亦风催逼亦琛放假陪苏怡去旅行，亦琛谓公事繁忙难抽空，苏怡失望。亦风发现亦琛原来暗中安排一切，欲令苏怡有惊喜，亦琛吩咐他勿告诉苏怡，但亦风却抢先将这喜讯转告苏怡。
+
+以珊为感情烦恼，向嘉露诉苦，嘉露劝她不应多心，应对云志专一，而亦琛已有女友苏怡，二人更准备外游，以珊黯然。卓芝为兄嫂不和苦恼，欲当二人的和事佬，却被云志斥责，深深不忿，向亦琛求助，亦琛此时才知好友出事。以珊约会亦琛，向他表明对他念念不忘，后悔当日与云志结婚，亦琛听罢感愕然。苏怡找亦琛暗示旅游一事，亦琛被以珊的话困扰，竟向她说谎谓没打算放假，苏怡知他欺骗自己，感伤心。
+
+云志欲问清楚亦琛与以珊的感情轇轕，亦琛亦有此意，云志无意中见到亦琛为以珊所买的童话画册，便把要说的话收回。云志问以珊会如何选择二人，以珊竟答不知道，云志大失所望，刚好公司改派他飞长途，他决定离开一下，想清楚未来动向。
+
+亦琛当选杰出青年，云志拍恭贺片段，向他由衷祝福，愿把自己的一切让给他，因二人的友谊比甚么都重要。云志向以珊提出分手，以珊表示当日云志为她拾回手链，证明二人有缘，云志表示手链是亦琛为她找回的，与她有缘的是亦琛，叫她找亦琛。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1568</width>
+        <height>1080</height>
+        <durationinseconds>2684</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E29.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

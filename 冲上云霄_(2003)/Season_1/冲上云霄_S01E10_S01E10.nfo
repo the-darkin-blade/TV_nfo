@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>苏怡赴罗马调查真相</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>4328853</id>
+  <uniqueid default="false" type="tmdb">1982447</uniqueid>
+  <uniqueid default="false" type="trakt">1851324</uniqueid>
+  <uniqueid default="true" type="tvdb">4328853</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>众学员接受多方面的训练，加深对飞行的认识，众人对于当机师的决心更大。亦琛对众学员非常严格，众人苦不堪言，亦风对兄长处处捣蛋，令亦琛啼笑皆非，亦琛劝亦风应放心思于学习，但亦风却置若罔闻。日东劝亦琛应放下偏见，好好教导众学员。
+
+亦琛对唯一的女学员希欣多加指导，希欣感激。希欣欲寄信回港，但时间不够，于是浩聪去借单车，由亦风踏单车到市区寄信。亦风迟到，被亦琛斥责和处分，希欣和浩聪主动一同被罚，三人友谊加深。亦琛向父母报告在澳洲的情况，亦风插咀，向父母告状谓兄长针对他，唐璜和佳美教训亦琛，亦琛无趣。
+
+苏怡念念不忘以珊和亦琛一事，设法调查公仔的典故，认为自己破坏二人的缘份，应作补偿。苏怡决定对罗马一行，调查当日何以以珊和亦琛会因误会而分手。苏怡走访亦琛和以珊相遇的地方，询问当日每个细节，发现亦琛误会了以珊，而以珊亦误会了亦琛，二人不应因小误会而分手，想当红娘撮合二人。
+
+云志和以珊到澳洲筹备婚礼，云志父母高兴，但其妹卓芝却对未来大嫂以珊怀有敌意。云志约会身在澳洲的亦琛，告知他将和以珊在老家举行婚礼，亦琛感打击，强颜祝福二人。亦琛再见以珊，感尴尬，劝以珊要认真对云志，以珊大怒，二人不欢而散。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1580</width>
+        <height>1080</height>
+        <durationinseconds>2700</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E10.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

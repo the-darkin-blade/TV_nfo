@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>徐慧被封为婕妤</title>
+  <originaltitle>徐慧被封为婕妤</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>5082177</id>
+  <uniqueid default="false" type="tmdb">1040307</uniqueid>
+  <uniqueid default="false" type="trakt">1395747</uniqueid>
+  <uniqueid default="true" type="tvdb">5082177</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>郑仁曦一直在等李世民给郑婉言案一个交代，不想李世民却只是贬罚如意到掖庭，追查真相一事不了了之。郑仁曦十分寒心。为给女儿报仇，选择再次和殷宏智合作。 庚申日即将到来，魏征对当年玄武门之变仍心结难纾。长孙无忌忌惮魏征曾有杀李世民之心，对于李世民让魏征教导太子的决定感到担忧，李世民却信任魏征。 韦妃指使春盈用银钱收买掖庭女官罗将军，要她毁了如意的容貌。如意在掖庭再次遇到老宫妇彭婆婆，彭婆婆旧疾复发，如意相救。 彭婆婆被如意所救却不领情，掖庭其他人劝武如意别招惹罗将军。 徐慧被赐侍寝，以一子盘活棋局，得到李世民的注意，把握住了侍寝的机会。 罗将军欲对如意行凶，彭婆婆，为保护如意，割腕自伤，罗将军被吓退。但彭婆婆还不给如意好脸色。 徐慧被封婕妤，萧蔷嫉恨徐慧，在背后传徐慧的风言风语。徐慧挑选侍女，把原先跟着郑婉言的文娘带在了身边。掖庭太监刘公公发现彭婆婆受伤，追查原因，彭婆婆没有说出真相，如意和罗将军被刘公公关进囚屋。</plot>
+  <runtime>7</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>435</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep08 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

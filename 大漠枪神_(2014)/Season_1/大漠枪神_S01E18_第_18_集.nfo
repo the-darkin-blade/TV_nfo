@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 18 集</title>
+  <originaltitle>第 18 集</originaltitle>
+  <showtitle>大漠枪神</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310875</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>一土匪向老丁报告，马大炮的亲信贾六已经到了，特派员明天就到，老丁吩咐按计划行事。王英回到家，告诉大喜和大莲，遇到胡二阎王的管家，该还去年借的高利贷了，虽只借了两块，但连本带息一共十六块。大喜从以前的衣服兜了掏出了三十块大洋交给王英，王英大莲吃惊大喜从哪里来的这么多钱。大喜和王英在街上碰到了特派员小玲，小玲激动万分，知道燕双鹰失忆后谎称认错了人。小玲来到王家看到大喜，告诉他他就是燕双鹰。此时的燕双鹰宁可当一个普通的农民，也再不想变成过去的自己。燕双鹰看着自己的项链和相似理惠的小玲终于想起了过去。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1080</height>
+        <durationinseconds>2782</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>E18_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

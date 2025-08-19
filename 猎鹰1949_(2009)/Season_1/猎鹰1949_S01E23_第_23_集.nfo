@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 23 集</title>
+  <originaltitle>第 23 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281663</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>老板一到宜宾便面见了袍哥刘天龙，当他获悉程汤一行人卷入了霍杰事件，而货物正埋藏于龙王祠堂地下时，他以金钱为诱饵，要求刘天龙带领手下袭击红星医院，杀人灭口以绝后患。在燕双鹰等人毫无防备的情况下，刘天龙的人马包围了医院，一场恶战即将展开，鹿死谁手命悬一线。深夜时分，吴老海等人持枪械对红星医院展开了猛烈的袭击，许多病患被打死，锦玉和景标被生擒，林玉仙带着如常顽强抵抗。正在探视中村一郎的燕赵两人因为燕双鹰的警觉所幸躲过了吴老海的机枪扫射。燕双鹰点燃洒在病床上的酒精，两名炮哥“惹火上身”，从而为藏在病房内的三人争取了休息和准备的时间。凭借着惊人的身法和超乎常人的胆量，燕双鹰成功突围，与在外围酣战的林玉仙里应外合，破敌神勇。不料袭击者突然退回到了楼梯间，藏楼梯间的如常不幸被擒。燕双鹰只身赶往一层大厅解救爱徒。当敌人用手枪指着如常时，燕双鹰感受到前所未有的恐惧，这种恐惧令他犹豫不定，因此失去了夺回如常的机会，他只能眼睁睁看着孩子被掠走。燕双鹰断定此次袭击乃奸细告密所致，而幕后黑手正是心狠手辣的雇主——老板。</plot>
+  <runtime>42</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2566</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep23_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

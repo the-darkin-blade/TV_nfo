@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第7集</title>
+  <originaltitle>第7集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187904</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>展昭奉命追查劫案，遇白玉堂挡，展昭与之周旋数招便快马而去，白玉堂一气之下，竟夜闯开封府盗走包拯官印留言展昭亲自去取。原以为只是场君子之争，谁知白玉堂竟以性命相搏，展昭有惊无险，以微之差胜出。白玉堂心高气傲，负气远走。展昭回府复命，并从找出官印，包拯分析白玉堂看似性情乖张，但自有分寸，答允为白玉堂在皇上面前求情，谁知白玉堂却此人间蒸发，下落不明。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>1080-08-07</premiered>
+  <aired>1080-08-07</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep07-08.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第8集</title>
+  <originaltitle>第8集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187905</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>陈琳为报白玉堂救命之恩，返京找包拯诉说情由，包拯则确定马贼劫道定有京城守门禁军做内应。此时出现一名专杀马贼的神秘侠客，包拯等人分析此人即锦毛鼠白玉堂。马贼为首的徐彪愤恨白玉堂坏其好事，设下陷阱欲取其性命，危急之际，展昭和四鼠赶到，连手将徐彪以及涉案官员追捕到案，皇上龙心大悦，加上包拯、陈琳等人说情，不但不追究白玉堂的罪责，更封五鼠为陷空岛五义。白玉堂难忘江湖自由，再次留书出走。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>1080-08-07</premiered>
+  <aired>1080-08-07</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep07-08.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

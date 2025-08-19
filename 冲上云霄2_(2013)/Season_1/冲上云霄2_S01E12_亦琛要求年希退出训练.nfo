@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:01:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦琛要求年希退出训练</title>
+  <originaltitle>亦琛要求年希退出训练</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586977</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在上次的考试，子麟和年希不合格之后，熟悉飞行知识的少雄便充当了他们的补习老师，但年希嫌念书苦闷，便怂恿子麟和少雄一起潜入飞机库看飞机。到达机场后，年希等人刚好看见有飞机降落，原来是亦琛和夏阳进行飞行练习后回来。子麟、少雄见状即时躲起来，但是年希却被亦琛发现。夏阳与亦琛表达对年希三人的不满，要求全部学员一起决定年希三人的去留，年希深知自己有错，但又不想累及子麟和少雄，便努力地向其他学员道歉求情，之后亦琛在班上说出自己以前学习飞行时的故事，以此来教训「PPP」学员。
+
+亦风得知　事情真相
+
+亦风在上次事件中，对夏晨为了福照将责任扛上身一事相当介怀，便相约以泰外出并向其问个明白，之后以泰带亦风看福照，自从被停职后，福照便经常带狗在公园散步，并喝酒喝到酩酊大醉，原来福照的妻子早死，并育有一子，一直身兼母职的福照却被儿子嫌弃，而他的儿子就是在飞机上侮辱他的那个金融才俊，在亦风听以泰说着福照的故事之时，福照突然不小心跌倒在地头破血流，亦风和以泰惟有帮他包扎疗伤，而喝得大醉的福照竟然误会了以泰是自己的儿子，并且说出自己一直藏在心底的说话。原来福照一直因为自己的自卑心，不想被自己的儿子看轻，更为连累到夏晨停职而内疚不已，也一直将以泰看成是自己儿子的替代品来爱惜。
+
+以泰父母　与子争执
+
+以泰回夏晨家后，发现父母竟然在屋内等自己回来，原来以泰的父母一直反对自己的儿子做飞机维修员，并想以泰投考机师，但是以泰认为成为飞机维修员比驾驶飞机更有成就感，最后不欢而散。
+
+亦风经一晚思考后，决定独自找家骏对话，并承认自己作为机长决定错误，将责任全部承担。虽然家骏相当欣赏其行为，但是亦风必须承受影响机长考核报告的代价，亦风也坦然接受。之后福照和夏晨复职，夏晨旋即意识到是亦风承担了所有责任，令夏晨感到愧疚。
+
+卓芝机上　再遇子维
+
+卓芝在一架由台湾往香港的航班上，遇到一名呼吸困难的病人，为他安排了一个空旷的座位，发现对方原来是子维，即是贝琪刚刚分手的男朋友，并得悉他患上血癌，原来子维为了不让贝琪担心，便一直隐瞒自己的病情，之后下机卓芝马上安排贝琪和子维见面，贝琪知道真相后哭成泪人，而子维则拿出一只收藏已久的婚戒，向贝琪求婚……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2663</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E12.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

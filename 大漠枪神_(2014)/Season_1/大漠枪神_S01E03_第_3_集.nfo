@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 3 集</title>
+  <originaltitle>第 3 集</originaltitle>
+  <showtitle>大漠枪神</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310860</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>步鹰师徒深入谷阳客栈救百姓喜鹊与武功秘密会面，武功宣布喜鹊就任301给水站特高科副科长，喜鹊没有料到自己会迅速升职，惊喜之下忙不迭地向武功道谢。武功叮嘱喜鹊好好追查步鹰的下落，以便到时除掉步鹰，喜鹊辞别武功秘密与沈七七见面，沈七七交待完了一些事情，提醒喜鹊不要将见面的事情告与武功知道。燕双鹰依然沉浸在哥哥去世的悲痛中，步鹰见燕双鹰意志消沉，索性拿出一把手枪递给燕双鹰，燕双鹰接过手枪一门心思打算替哥哥报仇，步鹰来到火气嘲讽燕双鹰不敢开枪杀人，燕双鹰气冲脑门对准步鹰抠动扳机，结果手枪里面根本没有子弹。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2740</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>E03_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

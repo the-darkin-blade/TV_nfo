@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:03:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>妁彤提议有效计划</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>四个女仔三个BAR</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3188652</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>梓博传短讯给黑天使，表示知道对方是可欣。森木问可欣如何处理物业的业权，可欣打算买下仲衡的业权。Max陪客户刘小姐在过境巴士站等了数小时，终于等到刘小姐的丈夫谢维利，对方知道Max的来意立即逃跑，Max紧追，跑了几条街，好不容易把离婚诉讼文件交到对方手上。
+
+紫凝接到贯东来电，请她替其友人邓志熊处理一宗伤人官司，案中被袭者是金牌经理人蓝晶晶。紫凝与贤哲听志熊详述案发经过后，贯东着二人准备申请保释的理由。由于志熊是澳门人，没有香港身份证，贯东担心法官拒绝志熊的保释申请。
+
+何官拒绝　保释申请
+
+贯东离开律师楼时，接到妻子来电表示会迟到，妁彤听到，提议贯东在律师楼边饮咖啡边等候。贤哲建议把保释金额定为九万，紫凝认为定为三万已很足够。森木游说达勤回律师楼工作，达勤大吐苦水，指慧芸一直针对他，且觉得与慧芸闹得很僵，若回去彼此会很尴尬。
+
+志熊案件提堂，何官拒绝保释申请，志熊气愤，要求换律师。紫凝表示会再提保释申请，除加大保释金外，亦会加入人士担保。慧芸以朋友身分协助处理业权纷争，仲衡希望尽快卖出物业套现，可欣却想买了仲衡所占的业权。
+
+仲衡坦言　负债累累
+
+仲衡要求以已升值的市价计算来出让给可欣，并要可欣支付婚礼的一半开支。
+
+紫凝就志熊案向妁彤请教，妁彤认为志熊是贯东的朋友，可请贯东担保志熊。紫凝不想小事也靠贯东，妁彤替紫凝把角色厘清，解决了紫凝内心的疑虑。
+
+梓博替仲衡到可欣家把私人物品搬走，发现可欣的电脑并非他卖给黑天使的那一部，且发觉可欣不喜欢咖啡；后梓博又替可欣把座地灯拿去更换她喜爱的颜色。梓博劝仲衡以原价出售他的业权给可欣，仲衡不肯，且谓之前向阿清借钱投资，反面后正被追债。
+
+贯东妁彤　谈得投契
+
+仲衡又透露他买楼的钱及婚礼开支都是向家人借的，所以他负债累累，他也不理可欣死活，认为再见也不再是朋友，无须留有余地。可欣把金器拿到金饰店售卖，遇到为金饰价值斤斤计较的仲衡。众人与可欣一起学大笑瑜伽，众人把开心能量都投向可欣，梓博更伸出双手，谓替可欣遮风挡雨。
+
+志熊案再提保释申请获何官批准，贯东邀妁彤一起吃饭，紫凝表示妁彤给了她很多意见，贯东再次请妁彤多指点紫凝，他与妁彤就法律的话题谈得颇投契……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-20 00:03:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2676</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E15.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

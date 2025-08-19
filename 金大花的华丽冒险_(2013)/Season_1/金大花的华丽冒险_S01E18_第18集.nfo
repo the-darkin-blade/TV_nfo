@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第18集</title>
+  <originaltitle>第18集</originaltitle>
+  <showtitle>金大花的华丽冒险</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id>4565198</id>
+  <uniqueid default="false" type="tmdb">911328</uniqueid>
+  <uniqueid default="false" type="trakt">919458</uniqueid>
+  <uniqueid default="true" type="tvdb">4565198</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>大花假扮亮妍之事引起轩然大波，但欧阳泰选择和大花一起正向面对旁人的议论，两人患难见真情，关系也更密不可分。但冠军一再地说大花只是妹妹，大花以为冠军是吃醋赌气，难过的大花只得狠下心跟Terry说不要再见面受伤的欧阳泰会就此放弃对大花的感情。大花真的能因此挽回冠军的心。冠军不仅对外放话说大花只是妹妹，对大花也刻意保持距离，甚至当着大花的面牵起晓菲的手说已经和晓菲交往。对从小喜欢冠军的大花来说无疑是重大打击，冠军哥真的变心了。伤心的大花还能痴心等待，将自己的未来托付给这个说变就变的男人。就在大花最难过的时候，抬起头就见到说好不再见的Terry，原来Terry一直像骑士般温柔地守候在大花身边。Terry能渐渐打动大花的心，大花能看清自己的心，重新面对这错综复杂的爱情习题。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-08-19 23:55:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2686</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[壹高清]金大花的華麗冒險.King.Flower.Ep18.1080I.Hdtv.H264.2Audio-Onehd_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

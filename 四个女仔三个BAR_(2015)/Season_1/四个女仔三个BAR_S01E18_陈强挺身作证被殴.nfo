@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:03:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>陈强挺身作证被殴</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>四个女仔三个BAR</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3188655</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>海星及狱警焦庭佑上庭作供后，有囚犯在狱中制造混乱，趁机袭击陈强。安居替翠花准备上庭文件，由于他一直称呼陈强为龙哥，至翻阅资料时他才知龙哥的真姓名，翠花闻言细阅陈强档案。
+
+隽烨接到通知，指陈强受了伤，翌日可能无法上庭。安居担心陈强情况，且觉得他在出庭前受伤有可疑。
+
+安居留意到翠花看过陈强的资料后心事重重，翠花透露陈强是她的父亲，又指陈强以前很胖，所以才认不出他来。安居指陈强已很后悔，翠花认为后悔没意义，因为狮子头不会复生，案发时狮子头只有八岁。
+
+陈强被指　虚构故事
+
+翠花觉得父亲害死狮子头，他们家永远欠人家一条人命，欠人家一个女儿，犹如欠债一样，但永远没法偿还，翠花扬言一生也不会原谅陈强。翠花要求安居把陈强与她的关系保密，也不要告知安心。安居安慰翠花，更表示以后无论发生甚么事，他都会陪伴翠花。
+
+隽烨听取陈强的口供，他提示陈强若有人威胁及恐吓他，可告知法官，陈强谓早预料到挺身作证会发生很多事，但他把冠仔视为儿子，不会计较那么多。冠仔与陈强先后上庭作供，控方律师指陈强因为与冠仔投契，所以虚构故事以图令冠仔脱罪。
+
+临时接手　韵诗案件
+
+翠花耍了两小时大关刀，又翻看儿时照片，久久未能释怀。慧芸参观耀力的摄影展，发现自己出现在一张以「秘密倾慕者」为题的作品中，她责耀力没有事先告知她，耀力向她道歉。
+
+韵诗被控谋杀初生婴儿，妁彤与安居替她辩护，因梓博与靖姿之前协助智毅处理案件，对韵诗较熟悉，妁彤请二人协助。负责该案的事务律师临时有事，改由天娜负责，他们见韵诗时，其态度恶劣，对杀害亲生婴儿毫无悔意。妁彤与天娜要求隽烨把控罪由谋杀改为杀婴罪，韵诗认罪。
+
+不怪妁彤　抢走隽烨
+
+彭官把案件押后两星期，等候感化官报告，其间还押儿童及青少年院看管。天娜与妁彤结伴离开法院时，天娜问妁彤为何没与隽烨结婚，她多谢妁彤，因为她与隽烨离婚后，才认识到现时的丈夫，及现在的幸福生活，所以她已不再怪妁彤。天娜又指隽烨是个好人，也希望他得到幸福。
+
+妁彤因有轻度地中海贫血，担心对胎儿有影响，医生表示可抽羊水检验，但因妁彤在怀孕初期，此举会增加流产的风险。贯东陪妻子到诊所，妁彤听到他们的对话，知道贯东有心脏病……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-20 00:03:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2687</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E18.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

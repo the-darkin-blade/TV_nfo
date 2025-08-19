@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第31集</title>
+  <originaltitle>第31集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187928</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>南宫权对展昭退出江湖跟随包拯之举感到不解，展昭则反问南宫权何以接受定国公头衔却仍以江湖人自居，双方唇枪舌剑，引来玉辉不满。庞太师府中侍妾遭到奸杀，为了查案，包拯将展昭与艾虎召回，展昭临行前将鱼肠剑交总管陈升保管。两人回府检验证据，发现绣着蝴蝶的丝巾，艾虎认出即为玉蝴蝶之物，疑心南宫玉辉犯案，包拯乃令二人再回定国公府暗中追查。月华见展昭去而复返，寂寞芳心再次雀跃起来，月华竟坦承今生非展昭莫嫁。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered>1082-08-31</premiered>
+  <aired>1082-08-31</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2587</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep31-32.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第32集</title>
+  <originaltitle>第32集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187929</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>艾虎察觉月华对展昭有所好感，竟自为媒，欲替月华与展昭牵红线。展昭以身在公门，婉拒月华爱慕，月华强忍难过，表示愿做展昭的红粉知己。庞太师责问包拯为何案情毫无进展，包拯虚以委蛇。庞太师记恨包拯杀子之仇，借口包拯追查侍妾命案不力，告上仁宗，仁宗下令十日内破案，令包拯承受极大压力。王丞相得知嫌犯极可能为定国公的继承人南宫玉辉时，表示太祖曾亲颁给定国公免死金牌铁卷丹书，如果真为南宫家人所为，也难治其死罪。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered>1082-08-31</premiered>
+  <aired>1082-08-31</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2587</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep31-32.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

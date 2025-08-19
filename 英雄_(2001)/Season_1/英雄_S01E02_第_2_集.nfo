@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 2 集</title>
+  <originaltitle>第 2 集</originaltitle>
+  <showtitle>英雄</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3278072</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰被困在屋子里面，外面的日军正在搜查他，这是发现了理惠也在屋里面，不知是谁往屋里东西，后来发现背后的竹筒里居然是炸药，燕双鹰知道后赶快扔了，炸药的响声惊动了日军，他们围住这间小屋子。日军以为是步鹰但是在后来竟然发现是燕双鹰。沈七七想要抓住他时却因为理惠他得以脱身。后来燕双鹰又来找理惠，问她到底是谁，有什么阴谋，正在谈话沈七七敲门而入。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>2.0</aspect>
+        <width>1666</width>
+        <height>852</height>
+        <durationinseconds>2819</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E02.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

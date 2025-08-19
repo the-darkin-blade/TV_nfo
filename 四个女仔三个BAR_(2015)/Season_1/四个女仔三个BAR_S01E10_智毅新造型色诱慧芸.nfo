@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:03:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>智毅新造型色诱慧芸</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>四个女仔三个BAR</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3188647</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>靖姿替梓博向智毅求情，更透露梓博刚与女友分手，智毅认为心情不好而影响表现不是合理的理由。
+
+梓博问智毅何时补考，智毅谓未决定，又问梓博觉得自己是否适合做大律师。梓博道出他的热情和决心，智毅提醒他付出与收成不一定会成正比，若梓博补考未能达到他的要求便得离开。梓博在办公室上网向黑天使诉苦，靖姿发现原来梓博便是M31。靖姿到一中学分享做见习律师的心得，一位女学生对大律师的工作很感兴趣，发问了很多问题，还要求与靖姿合照。
+
+要求可欣　疏远靖姿
+
+智毅与森木的律师楼举办一年一度的假期活动，妁彤临时有事不能参加，智毅着靖姿请朋友补上妁彤的位置，靖姿便邀翠花同往。梓博为了补考已几夜没睡，他不想放假，智毅谓补考是看梓博平日的工夫，多温或少温一两天影响不大，靖姿也鼓励梓博趁机会轻松一下。仲衡接可欣下班，可欣接到靖姿来电，仲衡要求可欣疏远靖姿，谓担心被挑拨离间。
+
+智毅执拾行李时，发现太太买了平日不会穿的衣裙，他便把性感内裤也带上。梓博到了度假酒店仍为考试而担心，靖姿用一张画有黑点的白纸鼓励他。
+
+森木分享　难忘经历
+
+慧芸看到耀力传来的旅行照，她也把酒店外的风景拍照传给对方看。年轻人们都到外面玩耍，慧芸却在咖啡座看耀力送给她的书，智毅陪着她，发觉慧芸的手机频频有短讯。
+
+梓博晚饭时仍想补考的事，又发短讯给黑天使说出自己的状况。众人在卡拉OK又唱又跳，玩的尽兴，靖姿留意到梓博未有一丝笑容。慧芸发现被下有一件性感的女装内衣，但她不肯穿上，冷不防智毅解开浴袍，展示他穿上性感内裤的新造型，慧芸看得笑不拢嘴。森木与众后辈分享他做律师的经历，还提及一宗烹尸案，各人听得毛骨悚然。
+
+投诉父母　心不在焉
+
+靖姿接到M31的短讯，知道梓博因心情矛盾到了海边，便往海边找他。靖姿问梓博会否因森木的经历而放弃做见习大律师，梓博觉得自己犹如在吊桥上，已行了一半，却不知应否继续行下去。靖姿以自己自小有读写障碍、不懂拿筷子等天生的障碍为例，鼓励梓博努力面对困难，她又谓这些秘密只有一位在澳洲的学长知道，要求梓博替她保守秘密。
+
+智毅与慧芸手拖手到酒店大堂等候办理退房手续，慧芸依然手机不离手。智毅与祖贤钓鱼时电话响个不停，祖贤投诉父亲没专心听他说话，跟慧芸一样总是心不在焉……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-20 00:03:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2682</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E10.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

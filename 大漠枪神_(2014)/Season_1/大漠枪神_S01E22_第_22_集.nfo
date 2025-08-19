@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 22 集</title>
+  <originaltitle>第 22 集</originaltitle>
+  <showtitle>大漠枪神</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310879</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小玲揭穿老刀把子的诡计，建议马大炮送大莲下山，通过她的嘴告诉燕双鹰真相，让燕双鹰去找老刀把子寻仇，遭到马大炮拒绝。燕双鹰到马大炮山寨打晕马大炮的儿子马魁，并将他藏匿起来，马大炮、沈七七不得不放了燕双鹰。沈七七来到小玲房间再次求她帮忙，把马魁换回来。沈七七带领七八个土匪快步向关押大莲的山洞走来，结果发现两个看守大莲的土匪已经死了，大莲不见了。在沈七七的追赶下大莲跳下悬崖。老刀把子和屋里的神秘人为此次计划失败吵了起来，被路过门口的老丁听见。神秘人告诉老刀把子一定要杀死燕双鹰，否则就让沈七七、马大炮取代老刀把子的地位。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2720</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>E22_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

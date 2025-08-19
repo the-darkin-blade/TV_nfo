@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>少雄公开与胡娉关系</title>
+  <originaltitle>少雄公开与胡娉关系</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>38</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5587004</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>祖思在夏晨的陪同下，向同屋共住的室友们宣布自己会返回台湾养病，并且向众人道别，众人一直以为祖思和亦风是稳定的情侣关系，听到祖思要长期离开香港无不愕然。虽然不舍，但最后大家还是祝福她一路顺风。
+
+以泰欲辞　机师工作
+
+以泰作为机师的能力受到机长认同，但心中一直放不下维修飞机的成功感，经常借故参与飞机维修的工作，但却被夏晨训斥并拒绝，以泰感到失望和无奈。
+
+以泰往医院探望接受手术后的父亲，并对他直言想辞去机师的工作重返维修部，其父起初强迫以泰考取机师资格是因为不想自己的儿子辛苦，但当看见以泰因为不能做维修而更加辛苦的时候，以泰的父亲只好支持以泰的决定。以泰找亦琛帮忙，并且向家骏提出想重返维修部，最后家骏也答应这个安排。
+
+家骏举行　庆祝派对
+
+为了庆祝亦琛得到BJ的推荐成为民航处的AE，家骏特地举行派对并邀请了Skylette所有相关人士出席。亦琛在场感谢大家的支持，但却发现夏阳没有出席派对，大家觉得是因为年希和亦琛已经公开的情侣关系所致。
+
+芮嘉被家骏邀请帮忙，负责接待派对的来宾，众人指感觉她就像是女主人一样，志宏在旁看见芮嘉表现自如，痛恨得咬牙切齿，并借故拉开芮嘉质问她和家骏的关系。想不到此事却被家骏看见，他更误会志宏因为喜欢胡娉而向芮嘉示好。
+
+胡娉和少雄迟到，少雄也因为不想太早公开自己和胡娉交往而惹恼女友，胡娉因此只好独自进入会场，但瞬即被家骏追问和志宏的关系。志宏和胡娉虽然否认此事，但家骏却像是听不进耳内，少雄突然出现并紧拖胡娉的手，终在众人面前亲口承认和胡娉的关系。
+
+胡娉受责　伤心离家
+
+家骏陪同胡娉及芮嘉回家，并指责胡娉在自己不知情的状况下与男生交往，但相反芮嘉却支持胡娉的选择。之后家骏的语气愈见强硬，令胡娉伤心得出门离家。少雄终在街外将胡娉寻回，并且带胡娉回家亲自向家骏及芮嘉道歉，家骏才接受少雄和胡娉交往。
+
+爱苹赌气　答应外游
+
+爱苹正式和华特交往，但华特觉得格志一直都对爱苹照顾有加无微不至，为了让格志死心，华特便相约格志见面，想向他说明一切，但当华特面对格志时却变得寡断，未能将自己和爱苹交往的事告知格志。格志突然说有重要事想带爱苹往三亚，当爱苹见华特反应不济没有出手阻止，竟一气下应承了格志的邀请……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E38.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="38" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

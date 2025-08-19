@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李义府升职</title>
+  <originaltitle>李义府升职</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>65</episode>
+  <id>5109840</id>
+  <uniqueid default="false" type="tmdb">1040376</uniqueid>
+  <uniqueid default="false" type="trakt">1724286</uniqueid>
+  <uniqueid default="true" type="tvdb">5109840</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>媚娘无声的哭泣，离开甘露殿。高阳感叹李治为何不告诉媚娘为她所做的一切，李治却深情地说他就是在为媚娘编制一个美梦。媚娘在承庆殿对着兰陵王面具出神，思念李世民，媚娘把宫灯一盏盏点亮，看到路的前方也有一盏盏的宫灯被点亮，才知道是李治。李恪回长安后，因为长孙无忌的反对坐了冷板凳，房遗爱、薛万彻、柴令武等人不惧人言，和李恪把酒言欢。 媚娘赠李治八字箴言：君臣之道，帝王之术。还特别指点李治可以拔擢一批寒门士子，培养成自己的势力。长孙无忌担心媚娘会让李治陷入乱伦的祸端。李治找到许敬宗，又召见了李义府，让他去搜集一位股肱重臣的罪证，李治让王德把所有奏折都抄一份给媚娘，王德遵从命令，李治突然感到有一瞬的头痛欲裂。 李义府上奏弹劾辅政大臣褚遂良，李治把褚遂良贬去同州做刺史，同时加封李义府为弘文馆学士。这一幕与当年李世民去世前把李绩贬出长安手法如出一辙。鲁世宁趁机弹劾长孙无忌。李治却没有犹豫的命人砍了鲁世宁的脑袋，这颗人头，正是日前李治向许敬宗借的那样东西。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep65 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="65" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

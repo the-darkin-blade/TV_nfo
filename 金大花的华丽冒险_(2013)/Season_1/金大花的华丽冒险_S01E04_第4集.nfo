@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第4集</title>
+  <originaltitle>第4集</originaltitle>
+  <showtitle>金大花的华丽冒险</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>4565184</id>
+  <uniqueid default="false" type="tmdb">911311</uniqueid>
+  <uniqueid default="false" type="trakt">919444</uniqueid>
+  <uniqueid default="true" type="tvdb">4565184</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>金家陷入低谷，众人都一筹莫展之际，大花跟冠军说自己去澳洲打工一年，便可赚到两百万还债，还可预借薪资解此时的燃眉之急。冠军能接受青梅竹马的大花突然离开吗。从小没出过远门的大花真的要只身去澳洲屠牛。她能顺利预支薪水帮助金家度过难关吗。大花和欧阳泰相约见面，面对天价的酬庸，单纯的大花真的会同意这个改变一生的协议。无路可走的欧阳泰又该如何面对自己的良心呢。就在大花出国前一天，阿喜大利冠军决定带大花去游乐园玩，一起帮大花践行。阿喜和大利想替大花留下美好回忆，极力撮合冠军当大花的一日男友，半推半就下，冠军和大花展开幸福的一日约会。四人一起开心地玩了一整天，但冠军和大花好像各自都心事重重，究竟在两人心中说不出口的是什么。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-08-19 23:55:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2706</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[壹高清]金大花的華麗冒險.King.Flower.Ep04.1080I.Hdtv.H264.2Audio-Onehd_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:01:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦琛支持卓芝当代母</title>
+  <originaltitle>亦琛支持卓芝当代母</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586984</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>经过亦风及亦琛的努力，加上夏晨的指证，外籍机师Bass终于被Skylette辞退。福照着夏晨以后要小心人身安全的同时，也劝夏晨应该以工程师为目标，但夏晨无意考取工程师的执照，反而向福照提出可晋升以泰。
+
+夏晨为了报答亦风及亦琛的帮助，特意邀请他们吃饭，而被停飞的夏阳也有列席，大家边吃边说笑融洽非常。
+
+子维嘱托　世沛卓芝 世沛和卓芝结婚在即，恩爱得就连世沛在工作时卓芝也陪伴在侧，亦琛也为卓芝的婚礼努力筹备，但因卓芝想与贝琪一起行礼，亦琛建议可等贝琪出现才一起商谈。因为子维的血癌逐渐恶化，贝琪要经常到医院照顾他，故此卓芝等人决定往医院探望子维。
+
+原来子维的血癌已经恶化至末期，贝琪提出将自己的婚礼延后，让卓芝可以如期成婚，而贝琪和子维会低调地举行婚礼。卓芝及世沛陪子维散步，而贝琪则与亦风及志宏外出购物，子维乘贝琪不在，便托付卓芝和世沛，请他们在自己死后好好照顾贝琪，因他了解贝琪还不能放下这段感情，更说出贝琪欲在子维死前替他生孩子，但是医生检查后发现贝琪不适合怀孕，令她大受打击。
+
+另一边厢，亦风志宏陪同贝琪购物，贝琪明明知道自己已经没有可能和子维有下一代，也大量的购买婴儿衣服，并说是买给卓芝。
+
+贝琪崩溃　卓芝安慰
+
+卓芝知道贝琪的状况后，便约贝琪出来让她倾诉，一谈到子维的病况，贝琪便忍不住泪水，崩溃了的贝琪指如失去子维，自己也会没有力量和寄托活下去。贝琪更为连替子维留下一点血脉也办不到而自责，卓芝也只能够在贝琪痛哭的时候在身边安慰，之后，卓芝心中也默默地下了一个决定。
+
+卓芝世沛　不欢而散
+
+卓芝约世沛外出晚饭，贝琪也突然出现，并对世沛说她决定远赴美国找代母进行人工受孕，为子维留下一点血脉，而代母的人选，就是卓芝。原来贝琪和卓芝约世沛出来，就是为了恳求世沛同意卓芝成为她和子维的代母生孩子。对于出身于围村，家族思想保守的世沛即场拒绝，同时也为卓芝私下决定借肚给贝琪产子一事感愤怒，他指责卓芝只是为了帮忙她的好朋友，完全没有顾及自己感受，最后两人不欢而散。
+
+家人支持　卓芝赴美
+
+卓芝回家后，得悉事情的亦风即时对卓芝破口大骂，并反对卓芝借肚为贝琪子维产子。亦琛心里虽然不赞成，但却尊重卓芝的决定故支持她。
+
+之后卓芝如期赴美进行人工受孕，亦琛也跟着送别……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2649</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E18.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

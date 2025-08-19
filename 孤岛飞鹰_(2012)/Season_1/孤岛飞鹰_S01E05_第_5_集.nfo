@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 5 集</title>
+  <originaltitle>第 5 集</originaltitle>
+  <showtitle>孤岛飞鹰</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281699</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>今井武夫交代的第二个目的就是“金百合计划”，是与太平天国有关的一笔巨大宝藏有关。太平天国末期，天王洪秀全感到大厦将倾，为东山再起，他命其子洪万里率领五百名天王卫士携带大批金银珠宝混在忠王李秀成的东征大军中离开天京，当行至苏皖交界的龙虎山，洪万里率领五百卫士携带宝藏半途离开大军，悄然潜进龙虎山中，他们花费三个月时间在龙虎山中开凿地穴将宝藏藏起来。而后便与卫士住在周围护卫宝藏，很多卫士在这里娶妻生子，男丁仍编入天王卫队，延续守宝的任务，洪万里死后，其子洪迎春承袭了永王之位，继续守候宝藏。</plot>
+  <runtime>37</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1908</width>
+        <height>1080</height>
+        <durationinseconds>2258</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>05_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

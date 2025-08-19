@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第5集</title>
+  <originaltitle>第5集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187902</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>胡莉一心想修练成人却遭天将追杀，幸得包拯元神相救，胡莉感念至今，不惜自毁道行，吐出元丹救包拯一命，不但包拯回复神智，木道人也作法自毙，胡莉更因此义行终于得道升天。木道人暴毙，庞昱不思反省，竟又派护卫项福行刺包拯，幸展昭出手相救，包拯亦已搜齐证据，策反蒋完指证庞昱，并逮捕至公堂问罪。此时庞太师一方面命女儿庞妃向皇上请旨不准包拯杀子，一方面则加急赶到陈州欲加制止。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>1080-06-05</premiered>
+  <aired>1080-06-05</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep05-06.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第6集</title>
+  <originaltitle>第6集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187903</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>展昭闻讯赶赴开封夜闯禁宫力谏仁宗，仁宗憣然悔悟将包拯官复原职，封展昭为御前四品带刀护卫交开封府任用并加封御猫。陷空岛五鼠之一的锦毛鼠白玉堂听说展昭被仁宗封为御猫，甚为不服，竟直闯开封府欲找展昭对决。白玉堂为显其能，竟擅闯后宫，无意中发现太监郭安欲逼小太监常喜毒杀年老体弱的陈琳为其叔郭槐报仇，遂一刀杀死郭安，并留下挑衅字条欲逼御猫出面与之决斗，不料此举却引得仁宗震怒，下令要包拯立刻将锦毛鼠抓来治罪。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>1080-06-05</premiered>
+  <aired>1080-06-05</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep05-06.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

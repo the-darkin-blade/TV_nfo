@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦风得知身世秘密</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>4328849</id>
+  <uniqueid default="false" type="tmdb">1982442</uniqueid>
+  <uniqueid default="false" type="trakt">1851320</uniqueid>
+  <uniqueid default="true" type="tvdb">4328849</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>以珊欲向亦琛表白，但开不了口。唐璜与佳美再渡蜜月归来，亦琛逼父母向亦风讲出真相，二人支支吾吾。众机师考生参观飞扬城，对飞机及公司运作增加认识，对机师工作更为向往。入职考试结果公布，善波落弟，情绪低落，苏怡等安慰他，善波答应振作，绝不放弃飞行梦想。
+
+歌手Twins姐妹自小失散，几经找寻，是日终于重逢，机场各单位作特别安排，好让姐妹重逢，及满足新闻界采访。Twins姐妹相见，场面感人，众工作人员也替她们高兴。亦琛为亦风身世一事烦恼，向云志吐苦水，坦然告知二人兄弟关系，此番对话却被路过的苏怡听到。云志欲介绍父母给以珊认识，以珊拒绝，云志感不安。嘉露劝以珊应珍惜云志，以珊仍有所保留。
+
+希欣在单亲家庭长大，母亲雁婷拒绝透露其生父是谁，只告诉她她是在日本出生。希欣渴望得知生父身份，趁入职前到日本旅游兼寻亲。浩聪和立豪亦打算出外旅游，知希欣到日本，故决定也到日本，希欣邀请亦风同行，亦风考虑。
+
+唐璜与佳美决定以录影带向亦风道出真相，但在亦风看到之前，苏怡已告诉他他和亦琛是亲兄弟。亦风气愤父母隐瞒真相，一怒之下决定同希欣等人赴日本散心。浩聪在途中借机对希欣大献殷勤，但希欣却不领情，令浩聪气结。飞机上，众人巧遇苏怡和善波，众人决定一同游玩。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1574</width>
+        <height>1080</height>
+        <durationinseconds>2686</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E06.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

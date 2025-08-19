@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>王皇后欲选择皇子过继到自己名下</title>
+  <originaltitle>王皇后欲选择皇子过继到自己名下</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>72</episode>
+  <id>5109847</id>
+  <uniqueid default="false" type="tmdb">1040383</uniqueid>
+  <uniqueid default="false" type="trakt">1724293</uniqueid>
+  <uniqueid default="true" type="tvdb">5109847</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>为稳固后位，长孙无忌要王皇后挑选一个皇子认为儿子，并把他推上太子之位，王皇后挑中了李忠。 媚娘在净初池畔救上了不慎落水的皇长子李忠，并见到李忠的母亲刘侍女，得刘氏的好感与信任。高阳和媚娘商讨接下来的计划，二人推断王皇后会为了巩固地位夺人子嗣。李义府通过瑞安传话给媚娘，他一定会誓死效忠于媚娘。瑞安向李义府转达媚娘的想法，她要李义府去帮她网罗可靠的寒门官员，并透露媚娘会保许敬宗回长安的消息。李恪入宫教李忠剑术，见到了媚娘。李恪为媚娘的决定感到痛惜。媚娘询问李恪如果皇后想过继一个儿子会选择谁，李恪沉思片刻，说出会选择李忠。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2665</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep72 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="72" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

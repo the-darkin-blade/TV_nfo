@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>武媚娘协助高阳公主与辩机私奔</title>
+  <originaltitle>武媚娘协助高阳公主与辩机私奔</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>58</episode>
+  <id>5106943</id>
+  <uniqueid default="false" type="tmdb">1040369</uniqueid>
+  <uniqueid default="false" type="trakt">1718926</uniqueid>
+  <uniqueid default="true" type="tvdb">5106943</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>高阳感恩于媚娘，筹划着让媚娘能和李世民见一面以解相思之苦，来找李治帮忙。李治找李世民，李世民却重病晕倒。 房玄龄劝媚娘离开长安，直言自己时日无多，以后保护不了媚娘了，媚娘同意。媚娘得知李世民病重，前来求高阳帮忙带她入宫。房玄龄在甘露殿偏殿中溘然长逝，众人为大唐又失忠臣良相感到悲伤。高阳把媚娘扮成侍女，带出房府。李世民从昏迷中清醒过来，得知高阳来探望他，却见到了扮成侍女的媚娘。两人终于再度相见，二人都没有想到，他们相会的事情已经传入长孙无忌的耳中。长孙无忌决心也不再遵守约定，要再次对媚娘不利。 高阳决定和辩机私奔，媚娘劝阻高阳不成，决定帮助。长孙无忌得知，决定用高阳和辩机的事情将媚娘置于万劫不复之地。李世民和李恪祭奠杨妃，李世民深觉对不起杨妃和李恪，李恪不愿像杨妃一样活在仇恨中，他在杨妃灵前发誓，将用仅有的生命去守护李世民和李治。辩机与高阳在城外相会，却被羽林卫当场擒住。李世民得知高阳仍旧与辩机纠缠不清，对高阳心痛失望，大加指责，高阳哀求李世民放过辩机。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2672</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep58 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="58" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>志宏为机长试大表紧张</title>
+  <originaltitle>志宏为机长试大表紧张</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586999</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>子麟和卓芝之间愈来愈熟络，而子麟努力支持未婚怀孕的卓芝时，自己对她心生爱慕的感觉亦更强烈。另一方面，子麟自从答应替香港游泳队复出作赛后，在练习时发现自己的状态已经大不如前，但是子麟没有气馁，只是决定加强训练务求令自己回复状态。
+
+夏阳遇险　众人担心
+
+新闻突然报道夏阳在外地飞行时失去了联络，生死未卜，亦琛及年希等人得知后都担心不已。当亦风知悉后，旋即赶回Skylette维修部，亦风果然发现当夏晨知道夏阳失事的消息后，情绪低落并泣不成声，亦风留在夏晨身旁通宵达旦守在她身旁，陪伴她等候意外的最新消息。
+
+另一方面，年希也因为夏阳失事而不能成眠，亦琛担心年希失眠影响翌日考试，于是守在睡房门外以航空问题考年希，直到她累倒睡着才自行回房休息。
+
+弄垮身体　试前病倒
+
+在Cadet Program的考试前，年希因为自己想通了而不再过度担心夏阳，但相反子麟却因为预备考试和游泳训练而弄垮了身体，并在考试前病倒，子麟因怕亦琛取消他的考试资格，结果强忍病况进行考试。
+
+新闻终于报道有关夏阳的最新消息，并确保夏阳已成功脱险，得悉兄长安全的夏晨后欣喜若狂，亦风也顿觉松一口气。
+
+芮嘉献吻　志宏振作
+
+志宏的机长考试终于到了最后阶段，但是负责的Training Captain不是亦琛，而是以前与志宏一起在台湾共事的王机长。志宏以前因为王机长请他喝过芭乐汁而吃过苦头，因此得知考官是王机长后便更加紧张。芮嘉知道志宏会因此紧张便特地单独见面安慰，并且献吻为志宏打气，此举果然令志宏充满了信心和气概。
+
+芮嘉志宏　共游法国
+
+在机上，王机长又再邀请志宏喝芭乐汁，但这次志宏却断然拒绝，王机长斥责志宏不识抬举，但志宏却不以为然继续飞行。降落后，王机长为志宏安排了飞机餐，示意志宏的成绩已经表达在餐内……
+
+芮嘉和志宏相约在法国游玩，芮嘉因抵受不了志宏的热情，两人又再次发生了亲密关系，但事后芮嘉认为和志宏的关系不能继续这样下去。
+
+子麟要求　再次补考
+
+亦琛特别召见子麟，并告知他Cadet Program全部学员中只有他一个不及格。子麟恳求亦琛再次给他机会，最后亦琛安排他进行补考，而日子却与港队的游泳比赛相当接近。
+
+亦琛与年希约会，并庆祝年希顺利通过笔试，但却碰见了刚从外地回港的夏阳……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2660</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E33.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="33" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

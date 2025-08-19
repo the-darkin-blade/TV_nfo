@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>韦源承在朝中势力被铲除</title>
+  <originaltitle>韦源承在朝中势力被铲除</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>44</episode>
+  <id>5100452</id>
+  <uniqueid default="false" type="tmdb">1040355</uniqueid>
+  <uniqueid default="false" type="trakt">1707950</uniqueid>
+  <uniqueid default="true" type="tvdb">5100452</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李世民令人详查案上卷宗，却没有找到李牧此人。李世民下旨重封媚娘为才人，并把《击鞠射菊图》重新悬挂于甘露殿。李世民故意召见媚娘，期待媚娘能够开口坦承一切，一直守在门口的李牧看到嘴角带伤的媚娘走出甘露殿，十分心疼。媚娘劝李牧早早离开皇宫，李牧为媚娘的狼狈和改变感到心痛，答应在宫中祭拜过父母后就离开。 媚娘得知李牧和李世民之间有血海深仇，为了安抚李牧，媚娘决定和他一起离开。媚娘求助于杨妃，杨妃答应为媚娘和李牧做安排。 徐慧想起日前媚娘的试探，找到莫公公要来太子一案的卷宗，细细察看之下发现自己当日就已露出马脚，媚娘早就疑心到她身上了。李世民终于对韦氏出手，韦家、萧家同时垮台。媚娘陪伴疯癫的萧蔷，瑞安不小心说出了萧家的事，萧蔷疯疯癫癫的从媚娘身边跑开了。萧蔷跑到墙角失声痛哭，徐慧找到了她。原来徐慧一早就识破了萧蔷在装疯却没有揭穿，就是在等合适时机，徐慧将萧蔷的所有不幸都归罪于媚娘，萧蔷答应和徐慧联手，除掉媚娘。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2663</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep44 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="44" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

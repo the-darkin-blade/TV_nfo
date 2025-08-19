@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>希欣遭性别歧视</title>
+  <originaltitle>Episode 31</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id>4328874</id>
+  <uniqueid default="false" type="tmdb">1982469</uniqueid>
+  <uniqueid default="false" type="trakt">1851345</uniqueid>
+  <uniqueid default="true" type="tvdb">4328874</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>云志之死令众人伤心欲绝，以珊按其生前遗愿，把他的骨灰从飞机洒下。卓芝不愿留在伤心地，决定与父母回澳洲重新开始，以珊为散心陪伴他们离港，亦琛赞成。苏怡见亦琛痛苦难过，劝他放松，亦琛表明他难以分清自己如何面对她和以珊，但总会给她一个交代，苏怡担心他会提出分手，叫他想清楚才决定。
+
+亦风见浩聪和希欣热恋，感心烦，向金泽提出不再与希欣一组实习，希欣和浩聪知道后，分别向亦风表明不要因私情影响工作和友谊，三人互相体谅。希欣被乘客性别歧视，她感不快，但自我安慰要努力扫除乘客对女机师的偏见。浩聪劝希欣辞职做少奶奶，亦风却支持她努力工作，希欣感亦风比较了解她。
+
+唐璜和佳美聘请新秘书，佳美所选的竟是唐璜的前度女友Natalie，唐璜笑而不语。苏怡挂念亦琛，又不敢约会他，善波劝她从佳美身上入手，苏怡约佳美午膳，佳美找亦琛相陪，苏怡乐在心头。三人在公司外午膳，亦琛发现唐璜竟与Natalie约会，劝父亲小心，但唐璜并没理会，气坏亦琛。
+
+亦琛见冷落苏怡，约她晚膳，苏怡喜出望外，强忍身体不适，盛装出席，善波苦劝无效，叫她事事小心。约会时，亦琛对她郑重道歉，苏怡感不适，借故离去，亦琛奇怪，苏怡却在餐厅外不支晕倒。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1574</width>
+        <height>1080</height>
+        <durationinseconds>2685</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E31.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

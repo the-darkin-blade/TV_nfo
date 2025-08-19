@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦琛和苏怡同游罗马</title>
+  <originaltitle>Episode 33</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <id>4328876</id>
+  <uniqueid default="false" type="tmdb">1982471</uniqueid>
+  <uniqueid default="false" type="trakt">1851347</uniqueid>
+  <uniqueid default="true" type="tvdb">4328876</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>佳美对唐璜死心，两子站在母亲的一边，指摘父亲。以珊对亦琛感情复杂，约会他谈清楚，亦琛正有此意，二人为免伤害苏怡，决定让过去的过去，一同展望未来。苏怡为亦琛庆祝眼睛好转，亦琛对她所做的感动，并向她保证会好好对她，苏怡芳心大喜。佳美决定回罗马，两子感不舍，但仍支持母亲的想法。亦琛劝唐璜到罗马接母亲回来，他却懒洋洋回应，亦琛气结。
+
+云志父母托以珊找寻云志的保险单，以珊在他的遗物中找回昔日的录影带，看着以前幸福的片段，以珊大为感触，不禁哭如雨下。亦琛为哄苏怡开心，放下严肃一面陪她去烧烤，时亦琛收到以珊的电话，感她情绪低落，遂改变计划，与苏怡到她的家相陪。三人一同看旧录影带，以珊和亦琛回忆前尘往事，百感交集。
+
+浩聪和希欣相恋，立豪和志宏加以取笑，亦风看在眼内感失落。浩聪工作表现出色，备受赞赏，令他坚持当机师的理想。苏怡见亦琛仍为云志之死闷闷不乐，欲与他外游度假散心，善波教路，叫她以找佳美为由，约亦琛到罗马一行。亦琛对此建议表赞同，苏怡开心，岂料亦琛只叫她独自前往，自己在港等她和佳美回来，苏怡大失所望。实质亦琛暗中安排与苏怡同行，欲给她意外惊喜，两人在罗马探望佳美后，顺道过了一个浪漫假期，可惜佳美拒绝回港。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1568</width>
+        <height>1080</height>
+        <durationinseconds>2668</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E33.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="33" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李泰胁迫雉奴逼宫</title>
+  <originaltitle>李泰胁迫雉奴逼宫</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>47</episode>
+  <id>5101028</id>
+  <uniqueid default="false" type="tmdb">1040358</uniqueid>
+  <uniqueid default="false" type="trakt">1707953</uniqueid>
+  <uniqueid default="true" type="tvdb">5101028</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李治劝说李泰自动退出储位之争，却更加刺激了李泰。李泰索性捉住李治，准备谋反。杨妃召李恪入宫，李恪听说李泰谋反，准备去阻止李泰，解救弟弟，杨妃要李恪趁乱杀死李泰和李治，取而代之，再向李世民逼宫。李恪震惊，杨妃诉说当年血仇，李恪对身世产生怀疑，李恪被杨妃说动。媚娘来找李牧，却在李牧房间发现三具太监的尸体。媚娘看到尸体手里有封信，得知了魏王逼宫兵变吴王黄雀在后的事。李恪和方副统领登上城楼，开启北宫门，等待叛军，媚娘也急匆匆赶到。叛军已至，李恪放媚娘上城墙。媚娘站在城墙上，苦口婆心劝说李恪不要弑杀兄弟，走上争权的不归路，并不惜以命相搏。李恪心存兄弟情谊，终被劝服，在叛军进城之前，下令关闭北宫门，与叛军呈对峙的局势。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2671</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep47 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="47" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 26 集</title>
+  <originaltitle>第 26 集</originaltitle>
+  <showtitle>大漠枪神</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310886</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰让小玲透露给沈七七赵一平已经死了。大莲经过精心策划以护送特派员为名，率领众枪手进入沈七七的山寨，趁夜制住沈七七的手下，得以进入沈七七的房间。沈七七知道莲姑就是大莲，大莲杀沈七七失败被小玲救下，大莲向小玲哭诉这几年自己受到的痛苦。高进和孙四海研究着如何才能进入山寨，从岩壁下去，就是山寨的入口。当战士们进入山寨时，与提前埋伏在山寨口的大批土匪进行枪战。燕双鹰救下了孙四海并让他回去报信，孙四海向赵团长和李政委说明情况，赵团长命林雪好好照顾孙四海。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2816</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>E26_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

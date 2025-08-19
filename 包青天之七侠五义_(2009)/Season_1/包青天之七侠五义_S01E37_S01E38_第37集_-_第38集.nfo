@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第37集</title>
+  <originaltitle>第37集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>37</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187934</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>王丞相突然来访，表示朝中有要事必得催包拯回府。包拯正陪伴嫂娘养鸡种菜，闻讯只得拜别嫂娘赶紧回京。王丞相告知包拯，有人检举富顺监盗卖官盐，事涉嫂娘独子包勉，包拯大惊之下竟乱了方寸。庞太师得知包勉之事，幸灾乐祸，更准备在必要时火上加油，以报杀子之仇。包拯虽担心包勉之事，却不能也不敢插手经办，甚至连展昭想帮忙都被婉拒，公孙表示万一包勉犯罪，却由包拯经手办案，以包拯性格之公正刚烈，恐将发生叔侄相残之悲剧。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered>1083-03-09</premiered>
+  <aired>1083-03-09</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2584</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep37-38.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="37" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第38集</title>
+  <originaltitle>第38集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>38</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187935</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>检举包勉盗卖官盐的彭立突遭暗杀，王丞相急召展昭赶往梓州，展昭与包勉相见，包勉自认若想替他平反除非此案交由包拯亲自审理。展昭在富顺协助刑部侍郎孟威查案之时发现暗杀彭立的暗器“子午断魂钉”十分特别，透过艾虎询问朱瑛等人，才知原来朱瑛之父也是死在同样暗器之下，只是却查无凶手。此时盐帮梓州分舵主刁三见朱瑛等人来到，担心东窗事发，急找萧锋商讨对策，不意竟遭萧锋派唐飞灭口。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered>1083-03-09</premiered>
+  <aired>1083-03-09</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2584</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep37-38.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="38" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 27 集</title>
+  <originaltitle>第 27 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281668</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>正当刘天龙一伙人准备搬运货物时，暗处突然传来枪响，数十名黑衣人举枪出现，将其包围。来者不是别人，正是洪雪儿和吴枢斗及其手下！一场恶仗就此展开，双方损失惨重。仓皇逃命的刘天龙、景标和吴老海遭到神秘枪手的狙击。在太平旅馆，老板提出条件只要燕双鹰供出卧底在老板身边的五号情报员是谁对于从前的老板可以既往不咎燕双鹰仍然是少将编练官程汤猎鹰计划的监督员。洪雪儿、吴枢斗带着货物回到太平旅馆，发现手下人数猛减后，本来欣喜万分的老板变得疑惑不解，区区赵雅琴等人怎会有如此能耐。果不其然，洪雪儿报告说敌方有四十人左右，加上林玉仙不小心遗失的铁箱钥匙竟然在燕双鹰身上时，老板终于意识到事有蹊跷，打开铁箱，里面竟是满箱的黄土！原来，事情从头至尾不过是燕双鹰自编自演的一出好戏，在精密的筹划下，老板被燕双鹰将了一军。燕双鹰早已发现景标是奸细，正是通过他将藏货地点透露给了刘天龙，由此策划出狗咬狗的闹剧。他还算准林玉仙被激怒后定会将其身份暴露给老板，所以电报一事也是故意为之的。此时，太平旅馆已被李延平带领的解放军包围。老板气急败坏，欲击毙燕双鹰。关键时刻，林玉仙弃暗投明，用枪逼住了老板。燕双鹰提出要和老板赌博，价码是他的性命。在这个生死关头，神秘的情报员五号成全了燕双鹰的围捕，原来他就是副官李瑞山！</plot>
+  <runtime>34</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2052</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep27_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

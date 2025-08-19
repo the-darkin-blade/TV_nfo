@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第1集</title>
+  <originaltitle>第1集</originaltitle>
+  <showtitle>金大花的华丽冒险</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">911308</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>仑庄市场的丑女金大花，牙齿暴暴的，讲话漏风漏风，脸上还有颗凸痣，大家都戏称她水查某。金大花活了二十八年，一次恋爱也没谈过，从小暗恋的冠军哥，也总是只把她当成妹妹，她好希望冠军哥有一天能喜欢她。盛大集团的设计部经理杜亮妍，美丽大方，气质优雅，一出生就是爸爸的掌上明珠。这一天，杜亮妍要和盛大集团总经理欧阳泰结婚了。在盛大，他们是人人称羡的一对，但却有些人，正暗地里对他们的婚姻虎视眈眈。当欧阳泰和杜亮妍有一天来到金大花家的杂货店，大花第一次遇见上流社会的亮妍，对她的美貌感到惊为天人，心中暗暗希望，要是有一天自己能变成她，该有多好。正当大花还沉浸在自己的幻想中时，却没想到，她与亮妍的一面之缘，已经开启一场属于她的华丽的冒险。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-08-19 23:55:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2694</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[壹高清]金大花的華麗冒險.King.Flower.Ep01.1080I.Hdtv.H264.2Audio-Onehd_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 4 集 燕双鹰冒充云精明护送叶母和叶琳娜</title>
+  <originaltitle>第 4 集 燕双鹰冒充云精明护送叶母和叶琳娜</originaltitle>
+  <showtitle>津门飞鹰</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310920</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>叶琳娜担心没有有舍有得指挥，他们无法顺利逃脱。正在这时候，叶琳娜发现燕双鹰跟上来，就让高进停车，没想到他不但不停车，还加速前进，因为郝大刚率队在后面紧追不舍，叶琳娜很着急。燕双鹰且战且退，很快追上了卡车，郝大刚任务完成，顺利撤出了阵地，叶母和叶琳娜都很感谢燕双鹰的救命之恩，并答应向叶洪开全力保举燕双鹰这个假冒的云建明，冯文朗也在一旁随声附和，因为新六军的番号没了，他不想寄人篱下，决定回到天津以后，就脱下军装，带着兄弟们做点小本生意安身立命，燕双鹰一行人马不停蹄赶往营口。云建明不甘心被俘虏，他把椅子腿弄断，成功解开了脚上的绳索，又拼命想撞开大门，可是无济于事，云建明想方设法把从背后捆绑的手臂，绕到前面，用牙解开了手上的绳索，他利用桌子把脱臼的胳膊伸直，借口要喝水，把守卫的战士喊进来，趁其不备将其打晕，抢走了战士的枪，成功地避开巡逻的战士，顺利地从窗户里逃了出去。
+
+第二天一早，战士才发现云建明逃走，赶忙向司令和政委做了汇报，司令担心他的逃跑会给燕双鹰的小分队构成严重的威胁，立刻派郝大刚率特务营沿路搜索，绝不能让云建明活着到达营口，政委想尽快把这个消息电告燕双鹰，可是他们为了不暴露，事先约好，尽量减少通电次数，所以只能靠他们自己随机应变了，司令坚信燕双鹰能够应付这突如其来的变故，不会让大家失望的。燕双鹰一行人日夜兼程，眼看离营口还有三四百里，叶母和冯文朗累得筋疲力尽，叶琳娜提议找地方休息一下，遭到燕双鹰的讽刺讥笑，他担心路上遇到国民党的残兵败将，他们穷凶极恶，烧杀抢掠，很不安全，坚持要一口气赶到营口，叶琳娜气得火冒三丈，和燕双鹰据理力争，燕双鹰将指挥权交给叶琳娜，她不想大家被冻饿而死，赌气把作战地形图拿过来，可是她根本看不懂，郭大路看车队停下来，就赶忙询问其中原因，得知叶琳娜夺回了指挥权，他气得哭笑不得，郭大路也坚持要赶路，可是叶琳娜决定天黑前赶到阜宁县宿营。</plot>
+  <runtime>38</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2321</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>04_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

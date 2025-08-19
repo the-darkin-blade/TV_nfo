@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>猎鹰1949</title>
+  <originaltitle>猎鹰1949</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <sorttitle/>
+  <year>2009</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>1</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>1949年10月1日，黎明的曙光照向久被阴霾笼罩的中华大地，而当华北欢庆新中国成立之际，我国西南边陲正进行着一场惊心动魄的生死之战。人民解放军挥师南下，攻克重镇贵阳，并直指川南。国民党方面不甘心退出历史舞台，于是派出特务潜入大西南，由代号“老板”的特务头子严森（梁冠华 饰）发起了名为“猎鹰计划”的秘密行动。中共特纵特务营营长燕双鹰（张子健 饰）在执行任务时偶然得知“猎鹰计划”，为了保住革命的胜利果实，他化装为军同少将。经过连番严酷的考验，燕逐渐取得严森的信任，但是身份偶然败露又将他推向死亡的边缘。
+
+惊心动魄的角力接连展开，这是属于燕双鹰一个人的战斗……</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"136334"}</episodeguide>
+  <id/>
+  <imdbid/>
+  <tmdbid>136334</tmdbid>
+  <uniqueid default="true" type="tmdb">136334</uniqueid>
+  <premiered>2009-09-04</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <genre>Action</genre>
+  <genre>Mystery</genre>
+  <studio/>
+  <country>中国</country>
+  <actor>
+    <name>张子健</name>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>梁冠华</name>
+    <profile>https://www.themoviedb.org/person/150156</profile>
+    <tmdbid>150156</tmdbid>
+  </actor>
+  <actor>
+    <name>曲栅栅</name>
+    <profile>https://www.themoviedb.org/person/2795038</profile>
+    <tmdbid>2795038</tmdbid>
+  </actor>
+  <actor>
+    <name>苑冉</name>
+    <profile>https://www.themoviedb.org/person/2275188</profile>
+    <tmdbid>2275188</tmdbid>
+  </actor>
+  <actor>
+    <name>须乾</name>
+    <profile>https://www.themoviedb.org/person/2781359</profile>
+    <tmdbid>2781359</tmdbid>
+  </actor>
+  <actor>
+    <name>刘亚津</name>
+    <profile>https://www.themoviedb.org/person/2217134</profile>
+    <tmdbid>2217134</tmdbid>
+  </actor>
+  <actor>
+    <name>赵志刚</name>
+    <profile>https://www.themoviedb.org/person/2788744</profile>
+    <tmdbid>2788744</tmdbid>
+  </actor>
+  <actor>
+    <name>Dai Yunxia</name>
+    <profile>https://www.themoviedb.org/person/3270225</profile>
+    <tmdbid>3270225</tmdbid>
+  </actor>
+  <actor>
+    <name>严燕生</name>
+    <profile>https://www.themoviedb.org/person/2796184</profile>
+    <tmdbid>2796184</tmdbid>
+  </actor>
+  <actor>
+    <name>傅隽</name>
+    <profile>https://www.themoviedb.org/person/3157357</profile>
+    <tmdbid>3157357</tmdbid>
+  </actor>
+  <actor>
+    <name>王心圣</name>
+    <profile>https://www.themoviedb.org/person/2796167</profile>
+    <tmdbid>2796167</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

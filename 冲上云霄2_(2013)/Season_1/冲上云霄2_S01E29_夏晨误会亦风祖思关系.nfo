@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>夏晨误会亦风祖思关系</title>
+  <originaltitle>夏晨误会亦风祖思关系</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586995</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>祖思在飞机上因病昏迷，虽然机上正好有护士协助并进行急救，但是却需要尽快到达医院进行治疗，亦风得悉后大为紧张，并且作出低空飞过雷雨云等鲁莽决定，而且亦风更完全漠视副机长伟力的意见，务求飞机能准时降落。
+
+虽然飞机最后成功降落，但是亦琛知道问题所在并对亦风加以质问，亦风反驳但反令亦琛更加光火，结果亦风的机长考试第二次宣布失败。
+
+亦风说服　祖思父母
+
+亦风下机后，便赶到医院寻找祖思，但却看见祖思的父母因要祖思留在台湾定居而争吵，之后亦风介入为祖思出头，并且在其父母面前承诺会在香港照顾祖思，祖思感动。
+
+亦风回家，亦琛向亦风说教，亦琛说出明白亦风的飞行决定有一定程度受夏阳影响，但亦琛认为亦风并没有相应的驾驶能力。亦琛亦向弟弟进言，指自己相信每个人应有属于自己的一套飞行方法，亦风听后无言。
+
+亦风放弃　表露心迹
+
+夏晨在咖啡厅遇见亦琛，见亦琛心事重重，便知道是为了亦风不及格一事不愉快，但亦琛深知这是成为Training Captain之后不能够避免的事，夏晨之后找寻亦风，但亦风却因为机长试落第，不能够兑现早前的承诺而没有向夏晨表明心意并转身离开。
+
+祖思误会　亦风有意
+
+亦风为了满足祖思的心愿，便陪她一起看日落，并且让祖思填写事项清单，记录自己每一件在生前想完成的事，故此祖思便开始编排行程，想与亦风一起度过剩下的人生。夏阳听到有关亦风的近况后没有甚么反应，但亦风却觉得夏阳比起亦琛更了解自己。
+
+之后亦风打算为夏晨制造惊喜，藉此向她表露心迹而通宵达旦，但结果在阴差阳错之下，反令祖思误会了亦风对自己有爱意。夏晨看到此情此景，只好对亦风死心，即使亦风努力向夏晨解释，但夏晨误会亦风只是当自己是苏怡，亦风大感无奈。
+
+志宏芮嘉　变成好友
+
+另一方面志宏亦开始预备机长试，但独居的他在整天苦读后深感寂寞，没法忍受肚饿而出门晚膳的他遇上了芮嘉，两人决定一起进餐。席上两人互相讨论身边的人发生的事，竟然大感投契，之后两人行经水族店，志宏和芮嘉欣赏一番后，终也一起在水族馆买鱼作为心灵寄托，两人也因此有了联系。
+
+祖思主动　接近亦风
+
+祖思来到了亦琛家找亦风，想为他演奏牧童笛，但因为祖思的肺病令演奏不能急促，亦琛见状便拿出二胡伴奏，以圆祖思心愿……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2647</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E29.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

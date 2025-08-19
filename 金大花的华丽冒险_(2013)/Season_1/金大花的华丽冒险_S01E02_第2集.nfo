@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第2集</title>
+  <originaltitle>第2集</originaltitle>
+  <showtitle>金大花的华丽冒险</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id>4565182</id>
+  <uniqueid default="false" type="tmdb">911309</uniqueid>
+  <uniqueid default="false" type="trakt">919442</uniqueid>
+  <uniqueid default="true" type="tvdb">4565182</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>欧阳泰瞒着杜爸爸带亮妍上山，两人要一起迎接最璀璨的第一道曙光，欧阳泰还要浪漫地再向亮妍求一次婚。亮妍能顺利完成心愿吗。还是真如欧阳泰所说，登山是充满危险的。冠军因为车祸要赔给老板一大笔钱，正愁没钱付呢，正好摸到口袋里的马沙拉蒂现金卡—欧阳泰的名片。决定和大利好好去盛大捞一票！他们能如愿成为百万富翁。大花送货回家，冤家路窄遇上小刀一群人。小刀见大花落单，调戏起大花，不怀好意地说：大花长这么大还没谈过恋爱，他们可以牺牲一下，充当大花的男朋友。路过的冠军正好看到这一幕，毫不犹豫地冲上去救妹妹，一向卒仔的冠军居然为了大花被打得浑身是伤，究竟大花在冠军心中，只是兄妹之情的妹妹，还是必须保护的美眉。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-08-19 23:55:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2685</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[壹高清]金大花的華麗冒險.King.Flower.Ep02.1080I.Hdtv.H264.2Audio-Onehd_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦琛指夏阳违规</title>
+  <originaltitle>亦琛指夏阳违规</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>40</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5587006</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>夏阳进行模拟飞行，并由亦琛负责监察，而夏阳因为对自己飞行技术充满自信，在一边进行手动飞行时，竟同时进行飞行通讯，此举让亦琛觉得夏阳在卖弄技术。亦琛和夏阳一起去酒吧聚会，亦琛提到如果是正式飞行夏阳仍是如此不谨慎，便会因此评他不及格，而夏阳也只是一笑置之。
+
+亦琛善意　提醒夏阳
+
+亦琛点了茶后发现夏阳点了啤酒，于是亦琛提醒夏阳，指明天也要进行模拟飞行测试，根据民航处规定，驾驶者在测试进行十二小时前之内不得饮用有酒精饮品。夏阳指自己十分明白有关条例，同时也向亦琛指出，现在离禁令的规定时间还有两小时，亦琛不禁无话可说。
+
+夏阳在酒吧重遇旧识Michelle，并且陪她往其他地方继续谈心，亦琛在夏阳离开前也特意再次提醒他有关民航处禁令，夏阳回应自有分数。但是当亦琛离开酒吧，却在远处看见夏阳在禁令时间内，手还拿着酒樽。
+
+短片投诉　夏阳喝酒
+
+亦琛在进入模拟驾驶室前一直在思考昨晚看见的事情，而夏阳也在最后一刻才赶到模拟驾驶室，亦琛打算质问夏阳昨晚的情况时候，两人突然收到家骏的传召。 原来有人将一段短片以投诉形式传送了给Skylette，短片中可见夏阳正在喝酒，而发送时间正好是在民航处的禁令时间内。夏阳否认指控，但亦琛因为昨晚的确看见夏阳在禁令时间内还拿着酒樽，故以AE的身分向夏阳提出内部聆讯，并停止夏阳的一切职务。
+
+年希在升降机内遇到亦琛，但亦琛因怕对年希泄露关于夏阳刚被停职一事而保持沉默，甚至因为有学员看见只有年希和亦琛两人在电梯，欲好意地回避却反遭亦琛责备。年希回到派遣中心，才得知马修代替夏阳成本机机师，年希问马修因由，但马修竟回应年希可以自行问亦琛。
+
+年希夏阳　互吐苦水
+
+年希回家后旋即质问亦琛有关夏阳被停职的事，但亦琛却以内部聆讯的内容是机密资料而拒绝年希。年希不满下外出，碰巧遇上了夏阳，两人更相约到山顶倾诉心事。
+
+夏阳将自己被停职的原委告诉年希，而年希也表明无论任何情况也会支持夏阳。翌日亦琛为了哄回年希而想为她制作蛋糕弥补，但年希却提出想亦琛调动更表一起飞往台湾游玩。初时亦琛不太愿意，但也无法拒绝年希而惟有答应。
+
+聆讯方向　不利夏阳
+
+亦风回应与夏晨的约定再次挑战机长试，而夏晨也遵守约定，暗中安排留下鼓励亦风的留言纸条让他感惊喜，两人间严峻的气氛也慢慢融化……</plot>
+  <runtime>87</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>5258</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E40.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="40" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

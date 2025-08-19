@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李忠母亲不赞成李忠认皇后为继母</title>
+  <originaltitle>李忠母亲不赞成李忠认皇后为继母</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>73</episode>
+  <id>5109848</id>
+  <uniqueid default="false" type="tmdb">1040384</uniqueid>
+  <uniqueid default="false" type="trakt">1724294</uniqueid>
+  <uniqueid default="true" type="tvdb">5109848</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>王皇后派人接李忠到宫中，给李忠换上了锦衣华服，还给他好吃的点心，王皇后劝李忠留在自己宫中，李忠却牵念母亲，没有答应王皇后。王皇后向刘氏要李忠，刘氏不给，得罪王皇后。宫中关于李恪和媚娘关系暧昧的流言多了起来，李治严厉镇压。然而李治心里也在嫉妒，他派人监视媚娘。李恪把有毒的戒指交给媚娘，得知媚娘是要用戒指去害人，对媚娘十分失望。 李治与李义府议事，言语间透露出想要李恪离开长安的念头，李义府虽未反对，李治却看出了他的不赞同。李恪前来向李治请辞剑术教头一职，李治同意。 李治与李恪比剑，言语中提醒李恪远离媚娘。深夜，一个蒙面的太监潜入刘氏屋子，将一包毒药倒入刘氏的茶水中。媚娘还是过不了良心那一关，决定接李忠母子到自己宫中，然而媚娘晚了一步，当她赶到刘氏居所的时候，刘氏已经中毒。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2665</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep73 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="73" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

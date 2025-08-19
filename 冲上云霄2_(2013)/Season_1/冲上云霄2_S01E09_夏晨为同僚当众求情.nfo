@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:01:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>夏晨为同僚当众求情</title>
+  <originaltitle>夏晨为同僚当众求情</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586974</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>看见年希这么紧张亦琛的感情状况，让亦风和卓芝以为年希对亦琛有意，便在吃早餐时加以试探年希，年希听后直接否认了亦风和卓芝的猜测，反而游说亦风和卓芝提供有关亦琛的资料，提出会帮亦琛报名参加婚姻介绍的聚会。亦风和卓芝知道年希对亦琛无感觉，也感到放心。
+
+为了同僚　夏晨求情
+
+维修员以泰性格逞强，见同僚家中有事而需外出，便独自一人搬运重型物件，岂料搬运时被压受伤，夏晨闻言后和其他同事一起往医院探望，大家都担心如为以泰申请工伤，会被福照借故革职。
+
+夏晨为了同僚的医药费，特地和福照吃饭，并希望福照能在申请书上签名，但是福照一直对以泰的印象不好，又妒忌夏晨的才能比自己优秀，故此拒绝了夏晨的恳求。亦风刚好也在咖啡店，便出面为夏晨求情，福照见夏晨有高层支持，无奈签下申请书，但也不忘对夏晨冷嘲热讽，令夏晨感失落。
+
+亦风事后特地安慰夏晨，并将事情告知夏阳，但却不告知自己帮助过夏晨，夏阳忍不住斥责亦风，令亦风明白夏阳还是紧张妹妹。
+
+年希亦琛　参加相亲
+
+年希终于成功安排相亲对象给亦琛，但当亦琛知道后却气得七孔生烟，但在亦风和卓芝的好言相劝下，亦琛便陪伴年希一起参加相亲聚会，而年希也希望藉着这次机会了却苏怡的心愿。
+
+想不到是，一起参加的年希却被自己的相亲对象吓走，自己逃了回家，而亦琛的相亲对象竟然是婚姻介绍所的老板娘，亦琛也因此了解每个人总需要一个伴侣在身边，人生才不致于太乏味。亦琛回家后，告知年希自己已经退出了婚姻介绍所的会籍，年希借故转换话题，问亦琛关于「PPP」的事情，亦琛不虞有诈，便向年希慢慢解释「PPP」的计划和相关的飞行知识。
+
+亦琛发现　年希应征
+
+在「PPP」的会议上，亦琛发现了年希的「PPP」申请书，便回家质问年希是否为了套取「PPP」的资料而搬进来住，并发现年希偷取了亦琛辛苦记录的飞行笔记。亦琛痛斥年希情绪化无耐性，参加「PPP」并不是对飞行有热诚，只是想跟随自己男朋友的背影，就算年希来参加面试，也不会让年希进入「PPP」。年希被亦琛说中心事后气炸了肺，最后两人不欢而散。
+
+年希夏阳　试场再遇
+
+之后年希还是参加了「PPP」的面试，另一方面，子麟为了改变自己，希望能突破游泳选手的框架，也在家骏的陪同下参加了选拔……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2665</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E09.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

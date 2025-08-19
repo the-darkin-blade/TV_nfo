@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>燕双鹰奉命打入光复社内部</title>
+  <originaltitle>燕双鹰奉命打入光复社内部</originaltitle>
+  <showtitle>飞虎神鹰</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2453052</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>1949年5月27日，中国最大的城市上海解放，就在人民欢欣鼓舞准备庆祝胜利的时候，潜伏在上海的大批反革命特务在军统光复社的领导下展开了疯狂的破坏活动，他们利用投机商炒卖银元，企图摧毁新兴的人民币，短短一个月时间，上海市场混乱，物价飞涨，人民生活在水深热之中，为粉碎敌人的阴谋并稳定市场，彻底消灭光复社的力量，我军侦察英雄燕双鹰奉命乔装青帮流氓打入光复社内部。</plot>
+  <runtime>37</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>LeTV</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2261</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E01.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

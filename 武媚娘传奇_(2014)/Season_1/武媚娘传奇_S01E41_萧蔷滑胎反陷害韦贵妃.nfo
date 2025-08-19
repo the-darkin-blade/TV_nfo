@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>萧蔷滑胎反陷害韦贵妃</title>
+  <originaltitle>萧蔷滑胎反陷害韦贵妃</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>41</episode>
+  <id>5100449</id>
+  <uniqueid default="false" type="tmdb">1040352</uniqueid>
+  <uniqueid default="false" type="trakt">1707947</uniqueid>
+  <uniqueid default="true" type="tvdb">5100449</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>萧蔷流掉孩子，状似疯癫，韦妃查出媚娘曾送香囊给萧蔷，审问媚娘。杨妃听说萧蔷滑胎，以为是韦妃所为，怎么也想不明白韦妃的动机。李世民得知萧蔷失去孩子，且与媚娘有关，赶往韦妃宫中，言语间尽是对媚娘的维护。疯疯癫癫的萧蔷说出韦妃强迫她喝药的事，又说出曾经死去的刘贤妃，引起李世民注意，李世民命太医查看萧蔷喝的安胎药，在安胎药中发现五行草。狱丞供出放人进掖庭狱杀害媚娘也是受韦妃指使，韦妃指使春盈顶罪。李世民命戴青一定要查个水落石出，并下令将受刑的媚娘送回清宁宫修养。 戴青带大理寺众人入韦妃的乾祥宫搜查，宫人们观察局势见风使舵，韦妃失势。李世民和长孙无忌打算趁此机会将韦家势力一网打尽。韦妃不复昔日风光，灰头土脸的被押入掖庭狱，杨妃探监，在韦妃面前扬眉吐气，韦妃诅咒杨妃早晚会栽在媚娘手上。媚娘感谢杨妃对李牧的救命之恩，杨妃透露太子谋逆一案是李泰的手笔，两人商议对付李泰的方法惟有再找一人与之抗衡，媚娘说出心中人选为李治。杨妃与媚娘商定一有机会就送李牧出宫。 李泰到掖庭狱送韦妃上路。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep41 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="41" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

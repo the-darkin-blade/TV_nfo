@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第14集</title>
+  <originaltitle>第14集</originaltitle>
+  <showtitle>金大花的华丽冒险</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>4565194</id>
+  <uniqueid default="false" type="tmdb">911326</uniqueid>
+  <uniqueid default="false" type="trakt">919454</uniqueid>
+  <uniqueid default="true" type="tvdb">4565194</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>决定奋发向上的冠军不仅开了自己的货运行，也想好好补偿大花。于是带着大花来到河堤约会，不仅有浪漫夜色晚餐，也送大花一份贴心小礼物，表达自己要好好地等待、陪伴大花一起倒数回家日子的心意。一起经历冒险旅程的风雨的两人，在这个晚上，终于能不受旁人打扰地享受恋爱幸福，心也靠得更近。大花和欧阳泰一起出差洽谈生意，因为未婚夫妻的关系必须共处一室过夜。调皮的欧阳泰开了大花一个小玩笑，却发生更多意想不到、令人脸红心跳的亲密接触。欧阳泰甚至说出希望大花一辈子都不要离开!大花终于发现，自己和欧阳泰之间，似乎不只是朋友。在医院休养的杜董，这晚见到宝贝女儿前来探视，却不见欧阳泰一同前来甚至还被女儿含泪告知不能和欧阳泰结婚了!大花和欧阳泰之间究竟发生了什么事?杜董能接受这个令人错愕的消息。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-08-19 23:55:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2695</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[壹高清]金大花的華麗冒險.King.Flower.Ep14.1080I.Hdtv.H264.2Audio-Onehd_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

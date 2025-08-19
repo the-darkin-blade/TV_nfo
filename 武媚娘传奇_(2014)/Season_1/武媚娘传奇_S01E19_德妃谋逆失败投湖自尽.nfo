@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>德妃谋逆失败投湖自尽</title>
+  <originaltitle>德妃谋逆失败投湖自尽</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>5094590</id>
+  <uniqueid default="false" type="tmdb">1040330</uniqueid>
+  <uniqueid default="false" type="trakt">1688180</uniqueid>
+  <uniqueid default="true" type="tvdb">5094590</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>得知羹汤是出自德妃的手，李世民打翻甘露羹。王德用银簪验汤，银簪变黑，媚娘这才知道汤里有毒。媚娘在净初池畔找到德妃，德妃请求媚娘一定要保住李佑，投湖自尽，以死谢罪。李佑和殷宏智看到了燃起的平安火，指挥齐州军进长安，李世民已做下一个死局，等着他们自投罗网。 媚娘求李世民饶过李佑。媚娘护驾有功的消息传开，阖宫都给媚娘送来了贵重的礼物示好。李世民想要保全郑家和德妃名声，长孙无忌却认为应该从严处理。众人离去后，魏征为太子出言辩护。徐慧看望媚娘，二人到御花园散心，萧蔷只能对二人卑躬屈膝，倍感羞辱。 张公公被赐鸩酒，临终老泪纵横。杨妃和韦妃先后拜见皇帝，长孙无忌也为德妃的事情来找李世民商议，长孙无忌认为后宫不应该干涉朝政。媚娘率先开口，遭到长孙无忌斥责。杨、韦二妃请李世民赐德妃善终，李世民答应二妃请求。 韦妃给了萧蔷一颗能助她更快有孕的凤麟丸，委婉提点萧蔷自己会给她创造侍寝的机会。徐慧在藏书阁练字，林公公为她弄来王羲之《兰亭序》的孤本，并奉承徐慧，徐慧这才知道，自己的待遇全拜媚娘所赐。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2667</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep19 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

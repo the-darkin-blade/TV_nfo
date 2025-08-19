@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦琛接受苏怡爱意</title>
+  <originaltitle>Episode 22</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>4328865</id>
+  <uniqueid default="false" type="tmdb">1982460</uniqueid>
+  <uniqueid default="false" type="trakt">1851336</uniqueid>
+  <uniqueid default="true" type="tvdb">4328865</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>亦琛被公司停职，亦风为他不值，亦琛反而安慰他，唐璜等人为亦琛应否动手术各有意见，亦琛想外出旅行散心，顺道想清楚未来方向。以珊认为云志没体谅亦琛，更出卖了他，嘉露劝她应考虑云志的看法，以珊终原谅了他。
+
+亦琛到罗马旅游，苏怡紧陪在则，亦琛劝她不应浪费时间在他身上，苏怡反告诉他自小患心脏病，医生判断她命不久已，但也活至现今，劝亦琛不要放弃，亦琛感激她，并接受她的爱意。以珊对亦琛被停职一事耿耿于怀，飞往罗马欲向他道歉，到步后见亦琛和苏怡开始拍拖，也替二人高兴。亦琛返港，亦风告知父母兄长与苏怡拍拖，唐璜与佳美大喜。云志向亦琛道歉，亦琛接受并感激他能提醒自己机师的使命，二人友谊长存。以珊遇上Mini，Mini告知以珊当日是云志故意让以珊知道她和亦琛之间的误会，并让以珊自己选择心中所爱，以珊深感云志对她的爱，与云志重新开始。
+
+亦琛向公司请辞，公司挽留并让他转职客户服务部，亦琛答应。亦风有感兄长无奈放弃飞行，决定复职，但信心不足，亦琛加以鼓励。亦琛对新工作并不习惯，苏怡从旁打气。浩聪终于有机会和希欣同飞，心情兴奋，聪父为乘客之一，他对浩聪加以挑剔，更命令浩聪辞职回公司帮忙，希欣为浩聪求情，聪父斥责二人，并坚决停止给予浩聪的生活津贴。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2683</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E22.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

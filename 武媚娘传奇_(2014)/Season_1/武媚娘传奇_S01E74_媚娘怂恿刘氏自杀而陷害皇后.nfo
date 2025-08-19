@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>媚娘怂恿刘氏自杀而陷害皇后</title>
+  <originaltitle>媚娘怂恿刘氏自杀而陷害皇后</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>74</episode>
+  <id>5109849</id>
+  <uniqueid default="false" type="tmdb">1040386</uniqueid>
+  <uniqueid default="false" type="trakt">1724295</uniqueid>
+  <uniqueid default="true" type="tvdb">5109849</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>周太医为刘氏诊治，发现刘氏的毒已深入五脏六腑，难以回天，媚娘要周太医对外宣称刘氏是病死的。刘氏自知命不久矣，求媚娘在她过身后好好看顾李忠，媚娘答应。刘氏愿意以自己的性命助媚娘扳倒王皇后。媚娘把藏毒的戒指给了刘氏。刘氏假意同意把李忠过继给王皇后，却暗中叮嘱李忠让他趁机出去把戒指埋在王皇后宫苑的泥土里。 刘氏带李忠到皇后宫中，把戒指中的毒下在茶水里，又把戒指扫落在李忠怀里。李忠借机提出出去玩耍，按照刘氏的指示把戒指埋在皇后的宫苑中。媚娘把李治引到皇后宫中，正碰上服毒的刘氏声嘶力竭的质问皇后为何要谋害自己，两人配合的天衣无缝。李治以为皇后杀了刘氏，大怒。戴青查案，发现罪证都指向王皇后，长孙无忌适时赶来，驳斥戴青的证据，双方争执不下，皇帝看到站在一旁的李忠，让他说实话。媚娘没想到百密一疏，期盼李忠能圆谎。然而李忠几经挣扎，向权势屈服，居然说出了刘氏让自己埋下毒戒指的事，拆穿了刘氏的计划。媚娘功亏一篑，对李忠的选择感到不解又失望。</plot>
+  <runtime>88</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>5299</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep74 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="74" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

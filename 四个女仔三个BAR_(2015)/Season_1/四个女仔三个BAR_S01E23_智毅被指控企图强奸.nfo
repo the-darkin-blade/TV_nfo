@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:03:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>智毅被指控企图强奸</title>
+  <originaltitle>Episode 23</originaltitle>
+  <showtitle>四个女仔三个BAR</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3188660</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>慧芸决定离开，且把度假屋的锁匙还给耀力。慧芸拖行李回到公司，森木发现她的手受了伤，问她发生了甚么事，慧芸忍不住痛哭起来。森木送慧芸回家，她甫下车便看见智毅，立即上前拥抱智毅。可欣回家听到李丹在房内向靖姿哭诉被性骚扰的事，便又离家。李丹认为传媒舆论都站在她的一方，大学却偏袒智毅，她不相信在法庭也得不到公义，她指智毅不但性骚扰她，更企图强奸她。可欣到天台，梓博正在为植物浇水。可欣表示不想留在李丹哭诉被性骚扰的现场，所以到天台唞唞气。可欣与梓博都相信智毅，但指靖姿不是这么想。
+
+网上论坛　公审智毅
+
+梓博发现网上的论坛公审智毅，他便上网替智毅辩护，但因怕连累智毅，所以不会用真名，而是用M31的网名，可欣对这名字有点印象，梓博表示靖姿在网上向M31买电脑，可欣随即透露当天自己替靖姿交收电脑。淑芬与一些法庭之友因智毅的事闹翻了，所以没有到法院听审。淑芬还嘱梓博把她亲手造的小菜带给智毅，以示支持，但忠祥谓若智毅真的做过，终归会出事，梓博却相信自己没跟错师傅。妁彤看到杂志的报道后替智毅抱不平，她知道慧芸不在智毅身边，智毅要孤身作战，也替他难受。
+
+妁彤紫凝　姊妹相认
+
+隽烨指妁彤比智毅幸运得多，至少她身边还有自己，也有紫凝陪伴她。隽烨又透露紫凝已知道妁彤是她的姊姊，妁彤责隽烨把秘密告知紫凝，隽烨解释清楚，妁彤正担心紫凝的反应，紫凝刚好来到，还带来鸡汤给妁彤，妁彤不懂反应，隽烨打破闷局，姊妹俩都接受对方。紫凝陪妁彤到花园散步，妁彤请紫凝替她保密，尤其不要让贯东知道。隽烨把妁彤的枕头拿到医院，妁彤责隽烨在她的家自出自入，隽烨拿出自己寓所的门匙，谓要让妁彤在他的家自出自入。慧芸休假回到工作岗位，达勤亦以合夥人的身分重返律师楼。
+
+靖姿相信　李丹指控
+
+有警员到律师楼称智毅涉嫌与一宗企图强奸案有关，要求智毅到警署协助调查。翠花赢得耍大关刀比赛冠军，紫凝替她开庆祝会。众人谈到智毅与李丹的事，靖姿表示曾亲眼看到一些事情。靖姿向梓博透露目睹李丹与智毅发生过的事，更认为李丹不会撒谎，相信李丹对智毅的指控是事实。梓博得悉子骏月底会回澳洲，而他之前留在香港并非为了靖姿，掩不住喜悦之情。李丹到警署录口供，她歇斯底里的指警员不相信她，还再三坚称智毅的确想强奸她……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-20 00:03:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2689</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E23.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

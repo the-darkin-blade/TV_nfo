@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 6 集</title>
+  <originaltitle>第 6 集</originaltitle>
+  <showtitle>孤岛飞鹰</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281700</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>夜里，严韵遥在开纳路图书馆里看书，听到有声响，她过来看，意外地发现图书馆有一个地下室，穆馆长正在哪里。穆馆长说这里不该她来，让他不要对任何人提起今天的事。章月欣是地下党员，他来找到上级朱大姐报告，父亲章啸天参加特使联欢后整天一言不发，还说那天今井武夫提起天国宝藏，章啸天的脸一下子变了颜色。并说舞会上有一个叫大岛英枝的女人一直缠着父亲。朱大姐说大岛英枝被称为日本陆军的间谍之花，她出来一定是冲着宝藏来的。</plot>
+  <runtime>37</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1908</width>
+        <height>1080</height>
+        <durationinseconds>2267</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>06_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

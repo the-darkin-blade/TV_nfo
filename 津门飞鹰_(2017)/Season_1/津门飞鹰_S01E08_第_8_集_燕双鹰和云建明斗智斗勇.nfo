@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 8 集 燕双鹰和云建明斗智斗勇</title>
+  <originaltitle>第 8 集 燕双鹰和云建明斗智斗勇</originaltitle>
+  <showtitle>津门飞鹰</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310924</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>高进兵分两路，一队守在叶琳娜的舱房门口，一队去寻找云建明，高进搜遍了轮船，也没有发现云建明的踪迹，燕双鹰觉得云建明不会善罢甘休，必须要想办法除掉他，以绝后患。就在这时，云建明突然跳出来，将孙二勇打伤后逃走了，燕双鹰立刻追赶至三层，和云建明厮打在一起，云建明趁机逃走，燕双鹰紧追不舍，云建明且战且退，一直跑到仓库，他当面揭穿燕双鹰是共军假冒自己，燕双鹰环顾四周，又看到他有恃无恐，燕双鹰料定这里有人在偷听，就义正言辞地反驳了云建明的诡计，不该冒充自己的名字，并且一步一步逼近他，云建明气得咬牙切齿，要去叶琳娜和叶母面前揭穿燕双鹰，没想到燕双鹰咄咄逼人地气势，吓得云建明节节败退。
+
+云建明歇斯底里逼他讲出自己的详细情况，燕双鹰谴责他是在撒谎，是要演戏给谁看，不顾云建明的就冲着仓库四周扫射，把冯文朗逼了出来，高进等人及时赶来，还带来叶琳娜和叶母，燕双鹰当众声明，冯文朗找来云建明来指证自己是共产党的侦查员，叶琳娜不管谁是云建明，也不管谁是燕双鹰，她只知道是谁把她和奶奶救出来的，云建明无法证实自己的身份，他叫苦不迭，叶母也坚信云建明是故意上喊燕双鹰，云建明气得哑口无言，高进他们想枪毙云建明，冯文朗赶忙出来阻拦，要把云建明押到天津再做处理。燕双鹰举枪威胁云建明，他苦苦求饶，冯文明狠狠打他一耳光，云建明只好承认自己是共产党的谍报员，冯文朗命人把云建明捆起来，让郭大路看押他，燕双鹰知道冯文朗还是不相信自己，就赌气先走了。
+
+叶琳娜气得大发雷霆，谴责冯文朗诬陷好人，冯文朗赶忙解释，叶琳娜一气之下带着叶母走了。郭大路命人把云建明捆在柱子上，并对他严加看守。燕双鹰此次逃过一劫，不禁对冯文朗更加忌惮，多亏他早有准备，否则将会功亏一篑，高进没想到叶琳娜关键时刻还是会帮着燕双鹰，燕双鹰觉得云建明之所以承认是共产党谍报员，也是冯文朗暗中授意的，可见他是一个很可怕的人，故意做出软弱的样子，就是想迷惑大家，燕双鹰想除掉云建明，可是又不能明着干，高进想利用郭大路来除掉云建明，燕双鹰觉得此计可行，立刻去找郭大路打探虚实，他把郭大路约到甲板上。</plot>
+  <runtime>38</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2334</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>08_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

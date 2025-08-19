@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 21 集</title>
+  <originaltitle>第 21 集</originaltitle>
+  <showtitle>大漠枪神</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310878</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>王英、大莲打算去大莲姑姑家躲避，燕双鹰将500块大洋留给王英，自己留下铲除土匪。马大炮手下朱三愣带着一群人来给到胡大少家给马彪道喜，想不到一进院子就发现数十条尸体，这些人正是燕双鹰所杀。山岗上，燕双鹰发现死在窟树干前的王英，发誓要救出大莲为王英报仇。马大炮看到弟弟马彪的尸体大喊着要杀燕双鹰。而这一切都是老刀把子的计划，沈七七故意引燕双鹰找到了王英的尸体，再连夜将大莲送到白罗山马大炮手里。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2776</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>E21_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

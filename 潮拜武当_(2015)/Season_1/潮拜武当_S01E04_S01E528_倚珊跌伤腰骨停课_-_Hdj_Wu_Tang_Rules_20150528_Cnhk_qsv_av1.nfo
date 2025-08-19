@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>倚珊跌伤腰骨停课</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>潮拜武当</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3200791</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>倚珊问计划书内为何会有武当山的相片，乐洋指那是朋友开发电子游戏的计划书。家港无法打穿粟粉水，继冲提示他不应用蛮力，并讲「以柔制刚」的道理。番薯突然把一个番薯递向继冲，继冲以为有人偷袭他，用功夫挡开。
+
+星语上网查得粟粉水变硬为「非牛顿流体」现象，家港却只想知道继冲为何会隐居武当山当厨师，他眼看继冲制服番薯时出手快而利落，星语想出试探继冲的方法。倚珊虽知家港成功用手穿过粟粉水是有人指点，但仍遵守承诺教他太极拳。
+
+不想倚珊　被人欺骗
+
+乐洋问倚珊有否想过退休，跟她回港享清福，继冲无意中在门外听到她们对话。继冲知道乐洋与母亲素来关系不太好，认为乐洋忽然向倚珊大献殷勤的动机不简单，表示不想倚珊被自己的女儿欺骗。
+
+乐洋回想以往工作时向家庭主妇及长者推销高风险的基金，令她成为销售基金成绩最好的销售员。一次继冲遇上醉酒的乐洋，驱车送她到山顶。乐洋感叹不能阻止承受不了高风险的客户购买高风险基金，继冲指她有自由决定是否继续留在公司，比一些无权决定自己做甚么的人幸福。
+
+亦轩提议　下山玩乐
+
+鑫鑫想趁周日放假与女儿下山购买营养补充品，亦轩提议举行烧烤会，并下山唱卡拉OK。家港与星语不感兴趣，毛瓜毛豆却央亦轩带她俩一同下山。星语哄番薯到后山掘番薯，继冲在厨房发现番薯被掳，着他到后山救人的字条。家港趁机试探继冲的功夫，发现继冲果然是高手，即求继冲收他为徒。  亦轩唱K时要求晴瑚与他合唱，晴瑚拒绝，他于是又以额外酬金诱使晴瑚就范。萧钰身体不适，鑫鑫陪她往见医生，医生替她做超声波扫描，鑫鑫心急想知道胎儿的性别。
+
+乐洋制造　恐怖事件
+
+乐洋与Don通电话，得悉有另一财团会派人到武当山，Don促乐洋尽快完成任务，以免被人捷足先登。烧烤会时各人大讲鬼故，结果均被吓至不能入睡。乐洋于是制造各种恐怖事件，令人人胆战心惊，以为逍遥居有鬼。乐洋为使亦轩尽早离开，在他房间做手脚，却殃及池鱼，令倚珊跌伤腰骨。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Wu.Tang.Rules.Ep04.20150528.Hdtv.1080I.H264-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Wu Tang Rules 20150528 Cnhk qsv av1</title>
+  <originaltitle/>
+  <showtitle>潮拜武当</showtitle>
+  <season>1</season>
+  <episode>528</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Wu.Tang.Rules.Ep04.20150528.Hdtv.1080I.H264-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="528" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

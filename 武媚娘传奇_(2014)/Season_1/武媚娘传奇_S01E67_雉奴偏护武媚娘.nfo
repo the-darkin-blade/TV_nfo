@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>雉奴偏护武媚娘</title>
+  <originaltitle>雉奴偏护武媚娘</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>67</episode>
+  <id>5109842</id>
+  <uniqueid default="false" type="tmdb">1040378</uniqueid>
+  <uniqueid default="false" type="trakt">1724288</uniqueid>
+  <uniqueid default="true" type="tvdb">5109842</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>媚娘盛装出席宴席，王皇后亲切相待，并送她华美的“帝女花”织锦。萧淑妃缺席，并派人告知李治雍王病了。李治关心素节，离席探望，发现素节身上的“伤痕”，萧淑妃趁机告媚娘的状，高阳维护媚娘，李治让李忠说出他亲眼所见，不料李忠竟然与萧淑妃说辞相同，媚娘不为自己辩驳，爽快认罪。李治只好把媚娘罚入承庆殿诵读佛经思过。 周太医说出素节身上伤痕是用药所致，李治知道自己冤枉了媚娘，去求得媚娘的原谅，不料媚娘却说出真相并不重要，结果才重要。李治祈求媚娘让自己照顾她，不要再把他拦在门外。媚娘动容。萧淑妃为李治对媚娘的处置不满，请求李治严惩媚娘，李治却误会是萧淑妃为争宠而利用素节，对萧淑妃失望，萧淑妃不知李治想法，询问李治宠爱她是否因为面容与媚娘相似，李治没有正面回答，萧淑妃失望离开。宫中流言说媚娘的孩子是李治的。王皇后也听到这个了流言。宫人嚼王皇后的舌根，王皇后分外难堪，这时，李治出现，赠送九尾凤簪，并与她姿势亲密。李治却告诉王皇后这么做是为了维护她皇后的尊严。王皇后倍感失落。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2663</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep67 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="67" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

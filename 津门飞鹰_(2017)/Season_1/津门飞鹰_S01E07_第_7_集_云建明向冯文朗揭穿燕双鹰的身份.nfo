@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 7 集 云建明向冯文朗揭穿燕双鹰的身份</title>
+  <originaltitle>第 7 集 云建明向冯文朗揭穿燕双鹰的身份</originaltitle>
+  <showtitle>津门飞鹰</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310923</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰护送叶母和叶琳娜终于来到营口码头，准备乘轮船赶往天津，可是码头上聚集了很多的国民党残兵败将，他们群情激奋，都想早一点上船逃走。叶洪开只订了三个头等舱，也装不下他们这么多人，没想到云建明也在这一条船上，他无意中看到燕双鹰，就悄悄跟了过来，叶琳娜让燕双鹰分配房间，他想和战士们在走廊上住，叶母不忍心，就提议郭大路和他的手下住一间，燕双鹰和他的小分队住一间，叶母，叶琳娜，冯文朗和副官住一间。燕双鹰让高进向总部发报，他去各处查看情况，云建明时刻关注着燕双鹰的一举一动，燕双鹰来到甲板上，听到一对穿着国民党军服的日本人说帮助蒋介石和共产党在平津作战，他们很不服气，一心只想回到日本，两个人看到燕双鹰，立刻躲走了。就在这时，叶琳娜也来到甲板，主动和燕双鹰打招呼，还真诚地向他赔礼道歉，叶琳娜以为他像郭大路那样窝囊，没想到燕双鹰出手不凡，是不可战胜的，叶琳娜也知道他是对的，故意和他对着干的，燕双鹰向她解释，自己的冷静和果断，都是长期经历黑暗的锻炼才练就的，叶琳娜很疑惑，既然特勤处这么厉害，为什么不能救出廖耀湘，燕双鹰声称自己也不是战无不胜的，救出叶琳娜是出其不意，叶琳娜为廖耀湘可惜，堂堂一代名将，就沦为阶下囚，燕双鹰觉得蒋介石在东北是用兵如鬼，犯了大忌，叶琳娜第一次听到这样的言论，不禁为他担心，叶琳娜相信爸爸能守住天津，还想让燕双鹰留在爸爸身边打仗，燕双鹰想护送他们回到天津以后，就脱下军装，做点小买卖，他不想做战争的炮灰，因为这场战争是注定要失败的，叶琳娜指责他不勇敢，只知道惜命，可燕双鹰坚持要离开，叶琳娜也只好作罢，燕双鹰向她说明刚才听到两名日军的对话，叶琳娜想起她爸爸曾经说过，日本战败以后，蒋介石留下二十万日军打内战，她爸爸曾经上书蒋介石，可他还是一意孤行。
+
+燕双鹰怀疑日军想劫船逃回日本，因为这里离日本很近，叶琳娜不相信，船上有1000多国军，就这几个日军根本就不可能得逞，觉得燕双鹰就是草木皆兵。
+
+云建明敲开冯文朗的门，向他说明自己的身份，而且冒充他的是共产党的燕双鹰，冯文朗不禁大吃一惊，他不相信云建明的话，云建明向他讲明了自己是怎么打死守卫逃出来的，燕双鹰就是想利用叶琳娜接近叶洪开，打探情报和作战计划。其实冯文朗早就怀疑燕双鹰的身份，因为他们纪律严明，根本不像国民党的军队，云建明想出一个妙计，让燕双鹰自动承认，冯文朗答应事成之后，到叶洪开面前举荐，让云建明官复原职</plot>
+  <runtime>38</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1078</height>
+        <durationinseconds>2334</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>07_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

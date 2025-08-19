@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 13 集</title>
+  <originaltitle>第 13 集</originaltitle>
+  <showtitle>飞虎神鹰</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3168710</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰看到发现了光复头号杀手杜马，要小锦娣与余如萍先回小都会，杜马与燕双鹰在马路上火拼，最后杜马躲进小吃店里，两人在小吃店内继续火拼，最后杜马不敌从二楼窗外跳出，杜马逃到电车上休息，却不想燕双鹰已在车上等候他，杜马跳车，燕双鹰紧追其后，杜马抢走别人的车，燕双鹰也进入车中，杜马要燕双鹰不要杀他，杜马向燕双鹰说出一些光复社的情况。</plot>
+  <runtime>42</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>LeTV</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2574</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E13.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

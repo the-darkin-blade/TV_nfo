@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>乐洋考虑再踏武当山</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>潮拜武当</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1836826</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>乐洋如常起来上班，才忆起自己已被辞退，后从电视看到在武当山经营民宿旅馆的母亲毛倚珊接受传媒访问。Don的公司欲在武当山建设主题公园，但因倚珊拒绝结束民宿旅馆逍遥居，故Don邀乐洋到武当山游说，若成功更有机会担任主题公园计划的负责人。
+
+提议婉拒　亦轩入学
+
+狂妄自大的富二代罗亦轩，险被主动投怀送抱的美女偷拍他好色证据，被贴身保镖杨晴瑚发现。倚珊的师叔武当真人因亦轩将到武当山学武而烦恼，因他担心亦轩会坏了武当的声誉。倚珊提议以名额已满婉拒亦轩入学，真人却指难以推辞，提议在逍遥居附近开设分校，由倚珊教授亦轩。
+
+逍遥居厨师包继冲及杂工番薯到市集购买食物，番薯差点儿被车撞倒，幸得继冲及时相救。倚珊的徒弟毛豆及毛瓜扮鬼吓番薯，希望在惊吓下令他恢复记忆。
+
+校名必须　追上潮流
+
+倚珊就筹备分校向各人问意见，毛瓜提议加强Wifi，却被倚珊拆穿她想晚上追看韩剧。倚珊希望为分校改一个好名，范唐靓姑认为校名必须追上潮流，倚珊灵机一动，决定为分校取名「潮拜武当」。倚珊与两徒下山接亦轩，却因毛瓜及毛豆的夸张化妆而迟了出发。
+
+亦轩一到埗，便高调让所有人知道他是富家子弟，结果被绑架，更连累在火车站与他相遇的模萧钰及其母钱鑫鑫。
+
+倚珊、毛瓜及毛豆到了火车站后发现忘记带亦轩的相片，她着毛瓜致电逍遥居，请同门把亦轩的相片传送到毛瓜手机。  倚珊发现　错接他人
+
+少女刘星语在火车站外被扒手偷窃，搏击手张家港发现并把扒手赶走。星语知道家港要上武当山，便说自己亦要上山，与家港结伴同行，登上倚珊安排往武当山的车。倚珊等人以为家港便是亦轩，聊天后才发觉不对劲。
+
+绑匪命亦轩致电回家要求一千万元赎金，否则撕票。倚珊等从火车站外店铺的监察电视推断亦轩被人带走，要毛瓜及毛豆追查有关车辆。毛瓜发现贼车，正想追上前时遇到继冲及番薯，便与二人一同追贼车。
+
+番薯撩起　继冲心事
+
+继冲追至一僻静破屋，果然看见亦轩，成功救出他们。家港、星语、亦轩及萧钰成为同学，在「潮拜武当」学武，但家港与亦轩都看对方不顺眼。
+
+番薯突然闹情绪，他担心自己以前是坏人，又想到自己可能有家人，家人不见他这么长时间，一定会很担心他。番薯的话撩起了继冲的心事，他致电女友，但对方的手机转驳到留言信箱。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1323</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Wu.Tang.Rules.Ep01.20150525.Hdtv.1080I.H264-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Wu Tang Rules 20150525 Cnhk qsv av1</title>
+  <originaltitle/>
+  <showtitle>潮拜武当</showtitle>
+  <season>1</season>
+  <episode>525</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1323</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Wu.Tang.Rules.Ep01.20150525.Hdtv.1080I.H264-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="525" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

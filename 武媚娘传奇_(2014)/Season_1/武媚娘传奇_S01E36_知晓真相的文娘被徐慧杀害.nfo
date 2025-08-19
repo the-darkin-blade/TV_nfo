@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>知晓真相的文娘被徐慧杀害</title>
+  <originaltitle>知晓真相的文娘被徐慧杀害</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>36</episode>
+  <id>5099021</id>
+  <uniqueid default="false" type="tmdb">1040347</uniqueid>
+  <uniqueid default="false" type="trakt">1704182</uniqueid>
+  <uniqueid default="true" type="tvdb">5099021</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>媚娘回到宫中，发现瑞安正纠结于对文娘的感情，媚娘鼓励瑞安去勇敢表白。 文娘看到纸条上的字，得知徐慧在害媚娘，想要阻止徐慧，徐慧用刻了文娘名字的烛台重击文娘头部。瑞安来到文娘窗边，向她诉说爱慕之意，却不知文娘门内咽下了最后一口气。侯君集装醉，悄悄潜入东宫见太子，太子将逼供的计划和魏征的建议都告诉了侯君集。 本该大醉的李世民在侯君集离开那一刻就醒过来，原来他是在装醉。太监们向李世民汇报侯君集和媚娘的动向。 徐慧找到莫公公帮她处理文娘的尸体，她自己则拿着烛台想要销毁证据，然而宫中羽林卫警觉，徐慧无法下手。徐慧以为手中烛台与别的烛台没有不同，将烛台洗净藏起。侯君集被人在李世民面前参了一本，李世民着人抓捕侯君集。几个太监在净初池捞树叶和水草，发现了文娘的尸体。瑞安在敛房看到文娘尸身，发现尸身上的伤痕，瑞安对文娘的死因产生怀疑，坚持要去文娘的居所中找线索，徐慧碍于媚娘求情，只得同意。瑞安在文娘房中发现了她绣给自己的手帕，得知文娘也对自己有意。瑞安看到烛台，却没有找到他帮文娘修补的那一支。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2655</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep36 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="36" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

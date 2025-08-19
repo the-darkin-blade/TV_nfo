@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 7 集</title>
+  <originaltitle>第 7 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281644</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>一波未平一波又起，同志们突然发现赵雅琴失踪了。林玉仙挟持了赵雅琴，企图对燕双鹰进行报复，燕双鹰顺水推舟，不仅打探得一些“猎鹰计划”的细节，还不费吹灰之力就救出了赵雅琴，并且当着孟海马的面揭穿了林玉仙的阴谋。获救后的赵雅琴向燕双鹰表明了爱慕之情，却并没有得到燕双鹰的正面回应。燕双鹰处处以执行卧底计划为先，却将个人感情问题抛之脑后，这使得与他朝夕相处并且爱意渐浓的赵雅琴痛苦不堪。林玉仙想与燕双鹰握手言和，并告诉他假“五号”的试探出自洪雪儿和吴枢斗之手，实际上也是老板暗中指使的，燕双鹰故作气愤却暗地里提醒自己要紧绷神经不漏破绽，以便将老板一伙彻底铲除。林玉仙坦言她绝不会轻易放弃燕双鹰。赵雅琴也希望通过这次任务拉近她与燕双鹰的距离。身处赵雅琴林玉仙两个女人的夹缝之中，燕双鹰一心破敌，并无他念。重庆，李延平和吴玉霞已经做好了各项准备，等待燕双鹰一行到来。洪雪儿奉老板之命前往码头迎接燕双鹰，并将他们一行安排在沙坪坝中街十六号公寓。</plot>
+  <runtime>39</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2376</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep07_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

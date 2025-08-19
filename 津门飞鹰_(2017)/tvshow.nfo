@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:43 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>津门飞鹰</title>
+  <originaltitle>津门飞鹰</originaltitle>
+  <showtitle>津门飞鹰</showtitle>
+  <sorttitle/>
+  <year>2017</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>7.0</value>
+      <votes>2</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>1947年底，东北全境解放前夕，四野某部侦察营长燕双鹰奉命组织一支小分队，潜入天津市，设法搞到守卫天津的国民党军队作战方案，绘制军事布防图以及兵力部署，为大军解放天津铺平道路。燕双鹰从侦察营挑选了六名骨干，化装成溃逃的国民党散兵，混上由营口开往天津的轮船，然而轮船被劫，燕双鹰凭借机智勇敢，救出在押士兵，击毙劫匪，夺回客轮。到达天津后，燕双鹰率领小分队一边暗中绘制城防图，一边乔装改扮开起了汽车修理厂，与当地黑帮势力几番争斗，终于赢得了黑帮头子袁文才的信任，而掌握国民党军作战方案和兵力部署的作战厅长段文宏，正是袁文才的把兄弟。就在燕双鹰凭准备盗取机密文件时，他的身份竟然暴露了，最终燕双鹰凭借智慧，摆脱困境，消灭敌人，将机密资料送给了大部队。</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"137462"}</episodeguide>
+  <id/>
+  <imdbid/>
+  <tmdbid>137462</tmdbid>
+  <uniqueid default="true" type="tmdb">137462</uniqueid>
+  <premiered>2017-12-27</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <genre>Action</genre>
+  <studio/>
+  <country>中国</country>
+  <actor>
+    <name>张子健</name>
+    <role>燕双鹰</role>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>淳于珊珊</name>
+    <role>云建民</role>
+    <profile>https://www.themoviedb.org/person/1457880</profile>
+    <tmdbid>1457880</tmdbid>
+  </actor>
+  <actor>
+    <name>陶慧娜</name>
+    <role>叶琳娜</role>
+    <profile>https://www.themoviedb.org/person/3405792</profile>
+    <tmdbid>3405792</tmdbid>
+  </actor>
+  <actor>
+    <name>梁缘</name>
+    <role>梅雪琴</role>
+    <profile>https://www.themoviedb.org/person/1909341</profile>
+    <tmdbid>1909341</tmdbid>
+  </actor>
+  <actor>
+    <name>钟卫华</name>
+    <role>高进</role>
+    <profile>https://www.themoviedb.org/person/2796159</profile>
+    <tmdbid>2796159</tmdbid>
+  </actor>
+  <actor>
+    <name>钱雁秋</name>
+    <role>袁文才</role>
+    <profile>https://www.themoviedb.org/person/1256179</profile>
+    <tmdbid>1256179</tmdbid>
+  </actor>
+  <actor>
+    <name>Kang Kai</name>
+    <role>黄云龙</role>
+    <profile>https://www.themoviedb.org/person/1344905</profile>
+    <tmdbid>1344905</tmdbid>
+  </actor>
+  <actor>
+    <name>杨棋珺</name>
+    <profile>https://www.themoviedb.org/person/3128283</profile>
+    <tmdbid>3128283</tmdbid>
+  </actor>
+  <actor>
+    <name>龚志学</name>
+    <profile>https://www.themoviedb.org/person/3288786</profile>
+    <tmdbid>3288786</tmdbid>
+  </actor>
+  <actor>
+    <name>王腾龙</name>
+    <profile>https://www.themoviedb.org/person/3288788</profile>
+    <tmdbid>3288788</tmdbid>
+  </actor>
+  <actor>
+    <name>Qian Guanrong</name>
+    <profile>https://www.themoviedb.org/person/3288790</profile>
+    <tmdbid>3288790</tmdbid>
+  </actor>
+  <actor>
+    <name>Tao Huina</name>
+    <profile>https://www.themoviedb.org/person/2796151</profile>
+    <tmdbid>2796151</tmdbid>
+  </actor>
+  <actor>
+    <name>Hui Qiu</name>
+    <profile>https://www.themoviedb.org/person/2082539</profile>
+    <tmdbid>2082539</tmdbid>
+  </actor>
+  <actor>
+    <name>李俊琪</name>
+    <profile>https://www.themoviedb.org/person/3288769</profile>
+    <tmdbid>3288769</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Ling</name>
+    <profile>https://www.themoviedb.org/person/1187126</profile>
+    <tmdbid>1187126</tmdbid>
+  </actor>
+  <actor>
+    <name>王心圣</name>
+    <profile>https://www.themoviedb.org/person/2796167</profile>
+    <tmdbid>2796167</tmdbid>
+  </actor>
+  <actor>
+    <name>徐越</name>
+    <profile>https://www.themoviedb.org/person/3021243</profile>
+    <tmdbid>3021243</tmdbid>
+  </actor>
+  <actor>
+    <name>Han Han</name>
+    <profile>https://www.themoviedb.org/person/3288767</profile>
+    <tmdbid>3288767</tmdbid>
+  </actor>
+  <actor>
+    <name>Shuai Lu</name>
+    <profile>https://www.themoviedb.org/person/1888541</profile>
+    <tmdbid>1888541</tmdbid>
+  </actor>
+  <actor>
+    <name>Qiushan Gao</name>
+    <profile>https://www.themoviedb.org/person/3288771</profile>
+    <tmdbid>3288771</tmdbid>
+  </actor>
+  <actor>
+    <name>赵浚凯</name>
+    <profile>https://www.themoviedb.org/person/2931952</profile>
+    <tmdbid>2931952</tmdbid>
+  </actor>
+  <actor>
+    <name>杨增元</name>
+    <role>冯伟畴</role>
+    <profile>https://www.themoviedb.org/person/3595396</profile>
+    <tmdbid>3595396</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

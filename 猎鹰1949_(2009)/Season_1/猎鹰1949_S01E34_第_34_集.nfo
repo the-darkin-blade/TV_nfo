@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 34 集</title>
+  <originaltitle>第 34 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281675</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>去凰山的路上，莎莉绞尽脑汁想要逃跑，她哪里是燕双鹰的对手，后者不费吹灰之力便制服了她。莎莉偷偷丢下的佩花指引了急行部队，他们在前方不远处的山道上发现了燕双鹰与莎莉的行踪。燕双鹰占据高处，吴玉霞等人难以招架，只得静候时机，哪知燕双鹰早就带着昏迷的莎利金蝉脱壳。吴玉霞和战士们无一人受伤，众人对于燕双鹰的手下留情感到诧异。队伍在狙击点北面找到莎莉的外套，于是继续朝北急行，谁料再未发现两人的踪迹，吴玉霞察看地图后才猛然意识到又掉进了燕双鹰的圈套。莎莉醒来发现自己坐在燕双鹰驾驶的卡车上，她与燕双鹰争论法律问题，却因为太过理想和空洞被燕双鹰质问得无话可说。雅琴、玉仙和中村经过重重关卡，终于来到了凰山别墅。三人无意中见到了惊人的一幕，王主任与一个酷似燕双鹰的男子见面了，而且从谈话的内容可以看出，王主任便是内奸！三人立刻行动起来，雅琴用炸药拖延敌人，玉仙与中村则去启动船只。江边一片混战时，燕双鹰赶到老屋，他发现战友已被内奸所杀，心中悲愤不已。被内奸的暴行彻底激怒的他立即在现场做好了防御工事并叫莎莉赶紧离开。此时的雅琴和中村已经抵挡不住敌人的攻势，玉仙还在拼命寻找船钥匙。激战中，中村受伤，雅琴三人的性命堪忧，幸而燕双鹰及时赶到，在敌人的后围发动了猛烈袭击。</plot>
+  <runtime>39</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2345</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep34_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

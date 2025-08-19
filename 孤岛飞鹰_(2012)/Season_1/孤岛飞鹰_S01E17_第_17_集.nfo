@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 17 集</title>
+  <originaltitle>第 17 集</originaltitle>
+  <showtitle>孤岛飞鹰</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281714</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>马庆云来找黎楚雄，说有桩大买卖给他做，他手里有一吨黄金问黎楚雄能不能做，只要法币不要军票，黎楚雄答应说可以做。马庆云告诉燕双鹰，黎楚雄已经答应可以做了，他跟燕双鹰要了一根金条做样本，燕双鹰要他明天到舞厅告诉消息。林小江表示黎楚雄这样爽快有些可疑，燕双鹰说就是要用黄金把日本人引出来，用劫来的金砖引出替日本鬼子套购黄金的汉奸。礼查饭店内，马庆云把那块金砖给黎楚雄验货，他看过后说成色很好没问题。</plot>
+  <runtime>37</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1908</width>
+        <height>1080</height>
+        <durationinseconds>2227</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>17_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

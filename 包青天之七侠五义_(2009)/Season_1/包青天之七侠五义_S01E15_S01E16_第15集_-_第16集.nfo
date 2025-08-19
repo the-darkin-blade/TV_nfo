@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第15集</title>
+  <originaltitle>第15集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187912</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>包拯查出原来楚戈和艾政都曾于江陵府当过捕头，而当时的知府就是冯浩，直觉此事牵连甚广，特意以追查刺客名义登府拜访冯浩。冯浩得知闯入府内的刺客即为艾虎，立刻撤回告诉，此举更令包拯起疑，但因查无实证，只好继续伺机而动。孰料艾虎着急要抓楚戈，竟在风婆婆献计下，绑架包拯意欲逼展昭杀楚戈。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>1081-04-15</premiered>
+  <aired>1081-04-15</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep15-16.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第16集</title>
+  <originaltitle>第16集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187913</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>正当展昭意欲杀害楚戈以救包拯性命之际，艾虎受包拯感召，护送包拯回府，假包拯一见真包拯立即逃窜无踪，但艾虎已从其受伤的左腿认出他就是师父风婆婆。包拯搜集各方证据，查出当年艾政之死与其妻叶芳有莫大干系，遂要玉蓉将叶芳诓至彩锦坊，艾虎拿出自己的随身荷包表示，如果叶芳仍心系两个女儿，必定会答应玉蓉之约。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>1081-04-15</premiered>
+  <aired>1081-04-15</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep15-16.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

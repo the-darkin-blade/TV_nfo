@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>皇上赐武如意新名字武媚娘</title>
+  <originaltitle>皇上赐武如意新名字武媚娘</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>5094587</id>
+  <uniqueid default="false" type="tmdb">1040328</uniqueid>
+  <uniqueid default="false" type="trakt">1688178</uniqueid>
+  <uniqueid default="true" type="tvdb">5094587</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>如意火烧菊花，只留下一朵，机智的解开了难题，阿史那思云心服口服。木图仍然不甘心，要领教李世民的箭术。如意一身戎装掌，李世民射下如意手中的菊花，终于征服了木图。而神采飞扬的如意，也征服了一众皇子公主的心。如意用手帕把菊花包起，李世民深情地看着她。徐慧注视着二人，心中苦涩。如意立了大功，李世民为她赐名“媚娘”，准她入御书房伺候笔墨。晋王李治为光芒夺魄的如意倾情，不能自拔。萧蔷得知如意大出风头，嫉恨发狂，韦妃怒责萧蔷，要她按时出席承天门的巡游庆典，找机会邀宠。 大军集结齐州边境，齐王和殷宏智等待时机。 郑仁曦将长孙无忌行踪告知张公公，张公公杀郑仁曦灭口，并告诉他杀害郑婉言的人，正是德妃。 画家阎立本作《击鞠射菊图》献给李世民，李世民要奖励媚娘在大朝会立下大功，媚娘趁机向李世民提出想免去德妃的禁足之苦，李世民答应。 李世民与媚娘离席散步，徐慧看着二人背影怅然若失。杨妃暗示徐慧下毒之人是媚娘，徐慧虽说不信，心里却长了刺。 绚烂的烟火中，媚娘与武媚娘倾心相知。 德妃得知张公公和殷宏智的图谋，大惊失色。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2669</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep17 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

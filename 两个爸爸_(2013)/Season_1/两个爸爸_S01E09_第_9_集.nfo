@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 9 集</title>
+  <originaltitle>第 9 集</originaltitle>
+  <showtitle>两个爸爸</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>4648797</id>
+  <uniqueid default="false" type="tmdb">2584674</uniqueid>
+  <uniqueid default="false" type="trakt">1265010</uniqueid>
+  <uniqueid default="true" type="tvdb">4648797</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>翔希看到温蒂和正雄手牵手，他小题大作审问正雄与女儿交往一事。方母误会了映帆和翔希的关系，她劝女儿不要去当小三。映帆一直讨好温蒂，但是温蒂却对她很生疏，这令映帆异常失落。振华将映帆对翔希的心意告诉了他，并耐心劝解翔希正确应对此事。振华提出将文汶之事告诉温蒂，结果遭到翔希的强烈阻止。温蒂在学校被两个小男生欺负，她的画也被揉烂了。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sanlih E-Television</studio>
+  <studio>EBC Drama</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2732</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>J2.Two.Fathers.Ep09.Hdtv.1080I.H264.Ac3-Hdwtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

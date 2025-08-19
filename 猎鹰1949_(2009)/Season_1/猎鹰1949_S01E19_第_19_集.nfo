@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 19 集</title>
+  <originaltitle>第 19 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281659</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>赵雅琴和林玉仙联合起来，责怪燕双鹰行动之前未曾与她们沟通，以至于她们一直为燕双鹰的安全担忧，并贸然的展开寻找。面对这样一个尴尬的联合阵营，燕双鹰却道出了他的惊人发现：原来化装成重病之人上船的雇主贾老板就是老板！赵雅琴与林玉仙惊诧不已，而燕双鹰却表示找到这批货后会亲自送到老板的手上，以消除以前的种种误会。林玉仙离开之后，燕双鹰才告诉赵雅琴其实这批货与黑鹰计划有关，他决定利用这批货将老板一网打尽。船至宜宾，燕双鹰等人避开了前来接应的洪雪儿和吴枢斗，暗中潜入宜宾城中。一行人在景标的带领下来到了霍杰生前设立的秘密联络点——济仁堂药店，却得知药店里所有的人都在一夜之间身染怪病。燕双鹰将众人安顿在通达旅社，然后和景标前往红星医院。经过一番明察暗访，燕双鹰得知药店老马叔等人身染烈性传染病，已经被医院实施隔离。燕双鹰和景标偷偷潜入隔离区，看见了全身溃烂昏迷不醒的老马叔等人。</plot>
+  <runtime>40</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2422</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep19_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第7集</title>
+  <originaltitle>第7集</originaltitle>
+  <showtitle>金大花的华丽冒险</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>4565187</id>
+  <uniqueid default="false" type="tmdb">911314</uniqueid>
+  <uniqueid default="false" type="trakt">919447</uniqueid>
+  <uniqueid default="true" type="tvdb">4565187</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>为了还舍身相救的冠军一个人情，欧阳泰破例让冠军和大利来公司上班，大花好高兴。终於能和心爱冠军哥天天相见的大花，能藏好心中的爱慕，扮演好杜经理的角色而不露出马脚。在此同时，大花终於发现人心险恶，原来藏在那些亲切笑脸背後的，是一个个等著你出糗的诡计，公司里多的是口蜜腹剑的人。沮丧、委屈、愤怒都不能弥补已成定局的错误，大花还能继续扮演亮妍。还有多少难关等著她。亮妍病情恶化，心力交瘁的欧阳泰著急地赶赴医院见亮妍。两人深刻的感情能唤醒亮妍。看著深爱的亮妍面临生死关头，他能顺利从死神手中抢回亮妍性命。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-08-19 23:55:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2660</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[壹高清]金大花的華麗冒險.King.Flower.Ep07.1080I.Hdtv.H264.2Audio-Onehd_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

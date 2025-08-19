@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>武媚娘被李世民冷落</title>
+  <originaltitle>武媚娘被李世民冷落</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>5097928</id>
+  <uniqueid default="false" type="tmdb">1040334</uniqueid>
+  <uniqueid default="false" type="trakt">1698970</uniqueid>
+  <uniqueid default="true" type="tvdb">5097928</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李世民在韦妃宫中痛饮，萧蔷服食凤麟丸后侍驾，李世民醉酒把萧蔷当成媚娘，宠幸了萧蔷。 杨妃得知媚娘处境，决意重新解读预言，助媚娘脱困。媚娘在净初池畔放天灯，遇到同来放天灯的李治，李治宽慰媚娘。 韦妃请太医给萧蔷把脉，得知萧蔷气血两足正是受孕的好时机。韦妃叮嘱萧蔷一定要把握好机会。韦妃深觉萧蔷不适合后宫生活，想从本家再挑两个可造之材。萧蔷偷听到二人谈话，得知自己已是弃子，伤心离开。李泰的《括地志》编纂完成。时机成熟，李泰拜见李世民，呈上《括地志》，果然获得圣心。 媚娘思念李世民，求见而不得见，无奈之下，媚娘请求杨妃让自己入承庆殿奉值。杨妃顺手推舟，安排媚娘负责于每日戌时点起承庆殿每层的七十二盏宫灯。杨妃意欲让媚娘与自己联手，重新解读预言，将流言导向太子失德，媚娘不愿为己害人，委婉拒绝，惹来杨妃不快。徐慧入御书房伺候笔墨，李世民要徐慧减少与媚娘的往来，王德送上媚娘的信，媚娘在信中邀李世民到承庆殿观舞，这封信被李世民弃置一旁，内容被徐慧看到。 媚娘在承庆殿等候李世民，李世民一直没有出现。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2670</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep23 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

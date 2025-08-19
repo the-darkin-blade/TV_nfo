@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦琛发现夏阳邀年希外游</title>
+  <originaltitle>亦琛发现夏阳邀年希外游</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>41</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5587007</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>志宏为了阻止家骏向芮嘉求婚，便不断以不同藉口留住芮嘉，但芮嘉也察觉到志宏表现有异，便向他加以追问。志宏没办法之下惟有将家骏想向芮嘉求婚的事说出来，芮嘉问志宏为甚么要挽留自己，志宏向芮嘉表达自己才是最适合芮嘉的男人。
+
+芮嘉被志宏的热情所打动，又按捺不住和志宏发生关系。家骏因为在芮嘉家中等得太久，决定致电芮嘉。但当芮嘉接通电话之后，志宏却一手将电话抢去并挂断来电，也因此让家骏听到芮嘉身边有第二个男人。
+
+年希被劝　放弃飞行
+
+日东以民航处代表的身分视察Skylette，并登上了由亦琛和年希负责的航机。起飞时一切顺利，但飞机的厕所突然出现问题，年希便离开机长室前往厕所处理。回到机长室后，年希才发现自己未重新调校雷达角度，更险些令航机驶入云层中。亦琛忍不住即时斥责年希，但也因此伤了年希的心。事后亦琛向Skylette提交报告，年希也因此需要进行机师考核，失败便会被Skylette辞退。亦琛也再向年希提出她对飞行根本没有爱，也没有正确的飞行态度，并以此劝告年希放弃飞行。
+
+亦琛开解　暴躁夏阳
+
+夏阳开始第二次的内部聆讯，因为Michelle是名人太太，令Skylette挤满了记者欲向夏阳采访，而夏阳也差点向记者动粗，幸得刚好经过的亦琛制止并且安抚因聆讯而脾气暴躁的夏阳，而今次的聆讯主要是亦琛作供，亦琛也照直将所知的事告诉委员会，并表明没有实质的证据证明夏阳真的在禁令时间饮酒。
+
+年希夏阳　逃避聆讯
+
+聆讯结束，夏阳询问亦琛为甚么安排年希进行覆核试，因为覆核试理应是安排给能力强差人意的机员，以年希的能力根本不应该要参加覆核试，但亦琛只是认为年希并非以真心对待飞行。
+
+之后夏阳前往亦琛家找年希并在门外见面，夏阳突然邀约年希一起离港外游，年希也二话不说答应，但却被亦琛听到，亦琛也为年希夏阳两人一起逃避聆讯而气愤，但也无阻年希决定陪夏阳旅行散心的决定。
+
+夏阳得悉　年希真心
+
+年希和夏阳在客机内等待起飞，坐在头等机舱的年希感到风景也永远不及在机长室所看到的，也自问自己因为开始成为机师驾驶民航机，便真正的爱上了天空，一想到未来只能够驾驶小型飞机难免会有失落。夏阳听罢便知道年希并非如亦琛所说不热爱飞行，便即时带年希下机，并往找亦琛承诺不会再逃避聆讯，而亦琛看来也早知道夏阳会回来……</plot>
+  <runtime>85</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>5142</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E41.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="41" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

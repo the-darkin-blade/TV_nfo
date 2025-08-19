@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:03:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>紫凝怀疑与妁彤关系</title>
+  <originaltitle>Episode 22</originaltitle>
+  <showtitle>四个女仔三个BAR</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3188659</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>法律学会欲邀智毅担任法律学术周的讲座嘉宾，智毅答应。靖姿让李丹在可欣的家暂住，可欣不反对。智毅试探儿子对有关他的不利传闻的反应，祖贤冷静对答。智毅和森木看穿李丹的用意，相信学校会看出李丹的口供不可信。紫凝对李丹住在可欣家反应颇大，梓博问靖姿有否问清楚李丹到底发生了甚么事，靖姿表示只信证据，不偏帮任何一方。智毅经过听到，他向梓博和靖姿表示，作为他们的师傅，觉得有必要向他们交代，他谓在法律界多年，从未有过像今次事件令他这么困扰，令他反思自己一直坚守的大原则、教学方法及法律的意义，他也着二徒趁机好好思考一下。
+
+妁彤晕倒　隽烨紧张
+
+梓博与靖姿讨论时，梓博要求靖姿把李丹所说的告知他，靖姿拒绝，并表示要保护李丹，不能让她再受伤害。梓博彷佛也开始对智毅的信任动摇，他甚至关心靖姿若单独与智毅相处时的安危，提醒靖姿若有这种情况要通知他。智毅传短讯给妻子，慧芸却仍没有回音。
+
+智毅下班时发现妁彤在办公室内晕倒，把妁彤送院，隽烨第一时间赶到医院。医生怀疑妁彤因血糖过低而晕倒，会否影响到胎儿则须待出了化验报告才知道，隽烨闻言呆了好一阵子。
+
+妁彤面前　压抑喜悦
+
+妁彤不想隽烨知道她怀孕，隽烨却讲多错多，他与智毅父子晚饭时总是笑不拢嘴，他坦言在妁彤面前被逼压抑喜悦之情，背着妁彤他却恨不得开香槟庆祝。翠花听到隽烨与智毅通电话，知道妁彤怀孕，众人猜测经手人是隽烨。检查报告显示妁彤晕倒是因怀孕初期贫血，而她又吃得太少所致，医生提醒她要注意饮食和营养的吸收。医生又表示妁彤有轻型地中海贫血，若孩子的父亲也有此症，则孩子有四分一的机会有中型至重型地中海贫血。
+
+发现妁彤　跟随母姓
+
+患重型地贫者不但要经常输血，寿命也会很短，所以医生建议孩子的父亲接受检查，妁彤闻言连忙催促隽烨往做检查。紫凝买了很多孕妇的食品及用品给妁彤，妁彤请她帮忙到家中给狗儿喂粮。隽烨与紫凝到妁彤家喂狗后，替妁彤执拾一些个人物品。紫凝发觉隽烨对妁彤家里的情况很清楚，她更注意到妁彤与一位大律师的合照，隽烨指那是妁彤的母亲，还说对方叫郑丽珊，紫凝随即问他妁彤是否跟母亲姓。紫凝回家上网查郑丽珊的资料，发现其洋名叫Sandra，她想起了贯东与志熊的对话。翌日，紫凝问隽烨妁彤父亲是否就是贯东……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-20 00:03:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2676</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E22.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 10 集 日军挟持叶琳娜和叶母</title>
+  <originaltitle>第 10 集 日军挟持叶琳娜和叶母</originaltitle>
+  <showtitle>津门飞鹰</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310926</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>佐藤率日军把所有的国民党士兵都关在一个舱房里，并缴获了他们的枪支。与此同时，船长答应了英口的条件，但是要重新绘制航线图。川崎带领日军袭击叶琳娜的船舱，遭遇到高进小分队的顽强抵抗，叶琳娜让冯文朗去帮忙，他吓得抖如筛糠，根本不敢近前。云建明趁乱打开绳索逃出来。高进让郭大路带队保护叶琳娜等人，他把日军引到走廊里，没想到川崎带人从窗户里跳进来，挟持了叶琳娜和叶母，郭大路也只能眼睁睁地看着，高进立刻赶来增援，川崎威胁他们放下武器，叶琳娜得知他们劫船就是想回日本，只要船到了目的地，就把他们全部放了，叶琳娜提议可以跟他们去船舱，但是必须留下两个日本人做人质，如果杀死人质，大家都活不了，川崎只好答应，双方一起放下枪，高进，郭大路，叶琳娜和叶母他们一起被关进船底的货舱。随后，丧心病狂的日军就把舱门都焊死了，高进很佩服叶琳娜临危不惧的精神，叶母替她担心，冯文朗提醒她不能意气用事，叶琳娜埋怨他胆小怕事，郭大路也瞧不起冯文朗的贪生怕死，高进把所有的希望都寄托在燕双鹰的身上。
+
+英口得知有两个日军也被关进货舱当人质，觉得他们不是普通的国民党士兵，应该是新六军的特勤队，就命令其他人在船上继续搜查残余的队员，燕双鹰从通风管道悄悄潜入叶琳娜的船舱，看到日军在转移他们同伴的尸体，燕双鹰发现日军在对船舱进行搜索，就赶忙躲进了厨房，日军进来搜查，发现通风管道的铁篦子打开了，就对厨房进行仔细地搜查，连橱柜也不放过，燕双鹰躲在菜架子后面，故意扔出来一头蒜，吸引了他们的注意力，燕双鹰趁机跳出来，不费吹灰之力就把那两个日军杀死了，燕双鹰赶忙把尸体藏进橱柜里。燕双鹰从柜里拿出几瓶酒，倒在盆里，并用另一个盆紧紧扣上，再用胶条封上，放进烤箱里，并把烤箱的温度开到最大，他悄悄走上船舱。</plot>
+  <runtime>38</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1078</height>
+        <durationinseconds>2319</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>10_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

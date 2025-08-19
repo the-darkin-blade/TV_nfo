@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:03:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>慧芸与耀力偷情</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>四个女仔三个BAR</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3188657</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>子骏是靖姿移民澳洲初期的邻居，又在同一大学读书，靖姿表示自己修读法律也是受子骏影响。
+
+智毅告知李丹，校方破例让她延期至月底交功课，劝李丹好好把握这次机会。慧芸乘坐的士中途看见一名骑单车的男子在交通意外中受伤，她以为是耀力，十分担心。耀力知道慧芸这么关心他，忍不住拥抱慧芸。慧芸埋怨生活枯燥，与丈夫各有各忙，也因为生孩子而有所牺牲，加上医生指她提早更年期，她扬言即使寿命短几年也要活得精采。
+
+慧芸参加瑜伽班后觉得精神焕发，耀力指她经常失眠和头痛，是因为精神长期没得到松弛，建议慧芸放一个长假期。
+
+抄袭功课　不予合格
+
+耀力带慧芸品尝美食，互喂食物、踏单车，他们甚至深夜在街头亲吻，俨如一对情侣。李丹到律师楼找智毅，智毅指她从网上抄袭功课，不能给她合格。靖姿看见李丹气冲冲的从智毅办公室走出来。森木主动提出分担工作，着慧芸多陪伴智毅及祖贤，又暗示她若有情关过不了，可当作人生的历练，慧芸却笑说最怕情关不找上门。智毅从旅行社取了一些复活岛的旅游资料给慧芸，且谓完成手头上的案件后便可放假，慧芸一点也不兴奋，智毅接到李丹电话便匆匆外出。
+
+智毅买了　智利机票
+
+智毅把饮得醉醺醺的李丹送回大学宿舍，李丹表示无心抄袭功课，求智毅再给她一次机会，智毅谓抄袭是严重的事，他必须告知校方。耀力赠慧芸一条锁匙，谓他在郊外有一间度假屋，欢迎慧芸随时入住。智毅相约慧芸出外午餐，还给慧芸往智利的机票，稍后一起到复活岛。靖姿、子骏、梓博及可欣到离岛游玩，可欣在船上不适，靖姿取呕吐袋回来时，见可欣靠在梓博肩上休息。可欣在岛上不慎跌了一交，梓博连忙扶起她。靖姿看见梓博细心照顾可欣，梓博亦看着靖姿与子骏细说现在，回味过去，似有说不完的话题。
+
+梓博希望　时光倒流
+
+子骏着靖姿念一首他所教的诗，他听着听着忍不住哭起来，他透露女友三个月前因癌症离世，靖姿拥抱他给他安慰，梓博看见感不是味儿。
+
+梓博望天慨叹，淑芬以为他又在等待他的外星朋友，梓博却谓但愿能回到十多年前，到澳洲教靖姿英文，叫她的昵称。靖姿告知可欣说子骏的女友早前过了身，她指子骏是她的第一个老师，教懂她很多东西，她又拿出一个木盒，那是她读法律时子骏送她的礼物，子骏曾说那不单纯是一个存放假发的盒子，而是盛载靖姿的所有希望与梦想……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-20 00:03:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2691</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E20.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

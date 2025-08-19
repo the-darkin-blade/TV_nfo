@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 22 集</title>
+  <originaltitle>第 22 集</originaltitle>
+  <showtitle>孤岛飞鹰</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281719</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>林小江等人潜入厂内，突破层层危险顺利拿到印刷车间钥匙。林小江与郑雅姝约定分两路人马瞄准车间，待燕双鹰将电网断电后立刻行动。另一边实在按捺不住火气的宫本命人打电话给今井一问究竟，却不知此时今井已经在火车站苦等四个小时。</plot>
+  <runtime>38</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1908</width>
+        <height>1080</height>
+        <durationinseconds>2301</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>22_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

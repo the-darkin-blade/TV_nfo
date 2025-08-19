@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>卓芝受打击终崩溃</title>
+  <originaltitle>卓芝受打击终崩溃</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5587000</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>卓芝自行到子维所身处的酒店，却发现子维和贝琪早已退了房间，两好友突然的离别令卓芝相当困惑。子麟突然出现，原来他发现卓芝不小心把手袋遗下，卓芝在手袋拿出了手机，并发现贝琪留下了一个短讯。
+
+贝琪指子维的病情变得反覆，令子维和贝琪在考虑将小朋友带来这个世界是对是错。卓芝看后大受打击，子麟见状便陪卓芝回房让她休息，但卓芝却以想独自冷静为由要求子麟离开，子麟无奈答允。
+
+卓芝后悔　成为代母
+
+卓芝独自一人时，终在痛哭中崩溃，卓芝深深地为自己成全好友而做代母的决定感到后悔。当在卓芝最伤心的时候，却收到了世沛的问候电话，卓芝强忍悲伤不向世沛倾诉贝琪的事，但世沛的每一句话，都让卓芝感到后悔。子麟本来已经上车打算前往集训场地，但最后还是因为担心卓芝而折返。
+
+子麟尽力　安慰卓芝
+
+子麟遇上了心碎的卓芝，以自己的经历鼓励卓芝让她能够振作，最后卓芝倚在子麟的肩膀痛哭了一场。翌日卓芝突然失踪，让子麟担心不已，原来卓芝只是在泳池做运动，而子麟也表演泳术给卓芝看。之后卓芝的电话响起，贝琪又再传讯息给卓芝，内容指子维的病情稍有稳定，并叮嘱卓芝安心养胎，卓芝喜极。
+
+胡娉支持　家骏追求
+
+芮嘉一边和志宏有着秘密的亲密关系，一方面家骏也对芮嘉展开追求，令同事们都觉得芮嘉有新恋情而显得比平时更有女人味，芮嘉只是一笑置之。
+
+为庆祝芮嘉生日，家骏特地大费周章，一番盛情买下鲜花及名表，而胡娉更支持家骏追求芮嘉。但当胡娉看见芮嘉一副不重视家骏的态度后，不禁紧张起来，更问芮嘉为何对家骏的好意没有积极回应，想不到芮嘉仍是一贯地从容不迫，不置可否。
+
+芮嘉生日　送上厚礼
+
+芮嘉为免和家骏见面尴尬，便特地约志宏一起参加生日晚饭。家骏在众人前拿出礼物，在送出名贵手表时，说出自己想把握与芮嘉一起的时间，之后家骏更与芮嘉及胡娉一起拥抱，志宏看在眼中，直觉他们就像一家人。
+
+志宏妒忌　出手骚扰
+
+家骏之后对芮嘉的追求行动开始愈来愈公开及主动，甚至全Skylette员工也知道了家骏正在追求芮嘉，芮嘉最终答应和他约会。志宏见状却心生妒意，故意用电话骚扰两人约会。
+
+夏阳介入　台湾之旅
+
+亦琛和年希决定往台湾高雄旅游，却碰巧被夏阳偷听到，原来一直以来夏阳也想知道亦琛和年希在高雄到底发生过甚么事，才让年希对自己主动提出分手……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2665</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E34.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

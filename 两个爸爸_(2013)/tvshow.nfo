@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>两个爸爸</title>
+  <originaltitle>兩個爸爸</originaltitle>
+  <showtitle>两个爸爸</showtitle>
+  <sorttitle/>
+  <year>2013</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>6.5</value>
+      <votes>6</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>集聪明、英俊于一身的明星律师唐翔希（杨一展 饰）和温柔、和善、热心的花店老板温振华（林佑威 饰）两个黄金单身汉本来并无交集。 却因一通来自医院的电话，彻底改变了他们的关系！这两人曾共同爱上的女人，而这个女人在医院留下一个刚出生的女婴后消失了。唐翔希和温振华看着眼前的小女婴无足无措，充满了震撼与错愕。但两人还是决定把女婴带回去共同养育。 七年后在两个“爸爸”共同扶养下，当年的小女婴唐温蒂（谢语恩 饰）已经成长为一个古灵精怪、聪明伶俐的小女孩。谁说幸福家庭一定要有爸妈才是完整？两个黄金单身汉爸爸、一个天真无邪的小女孩组成的家庭，依然温馨幸福。直到有一天，首次任职小学老师方静竹（赖雅妍 饰），对温蒂这个不一般的家庭生活产生了兴趣。然后，一切似乎都变得不一样起来......</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"56994","imdb":"tt6707142","wikidata":"Q10891809","tvdb":"272837"}</episodeguide>
+  <id>272837</id>
+  <imdbid>tt6707142</imdbid>
+  <tmdbid>56994</tmdbid>
+  <uniqueid default="false" type="tmdb">56994</uniqueid>
+  <uniqueid default="false" type="imdb">tt6707142</uniqueid>
+  <uniqueid default="false" type="wikidata">Q10891809</uniqueid>
+  <uniqueid default="true" type="tvdb">272837</uniqueid>
+  <premiered>2013-03-26</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Comedy</genre>
+  <genre>Family</genre>
+  <studio>Sanlih E-Television</studio>
+  <studio>EBC Drama</studio>
+  <country>台湾</country>
+  <tag>florist</tag>
+  <tag>single father</tag>
+  <tag>housemates</tag>
+  <tag>father daughter relationship</tag>
+  <tag>slow burn romance</tag>
+  <actor>
+    <name>赖雅妍</name>
+    <role>Fang Jing Zhu / 方靜竹</role>
+    <profile>https://www.themoviedb.org/person/96908</profile>
+    <tmdbid>96908</tmdbid>
+  </actor>
+  <actor>
+    <name>Cherry Leung</name>
+    <role>Wu Yong Jie / 吳詠潔</role>
+    <profile>https://www.themoviedb.org/person/2417666</profile>
+    <tmdbid>2417666</tmdbid>
+  </actor>
+  <actor>
+    <name>杨一展</name>
+    <role>Tang Xiang Xi / 唐翔希</role>
+    <profile>https://www.themoviedb.org/person/1765229</profile>
+    <tmdbid>1765229</tmdbid>
+  </actor>
+  <actor>
+    <name>Lin Yo-Wei</name>
+    <role>Wen Zhen Hua / 溫振華</role>
+    <profile>https://www.themoviedb.org/person/1261014</profile>
+    <tmdbid>1261014</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucia Xie</name>
+    <role>Tang Wen Di / 唐溫蒂</role>
+    <profile>https://www.themoviedb.org/person/2417665</profile>
+    <tmdbid>2417665</tmdbid>
+  </actor>
+  <actor>
+    <name>周晓涵</name>
+    <role>Jiang Ying Fan</role>
+    <profile>https://www.themoviedb.org/person/1668742</profile>
+    <tmdbid>1668742</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Tian Lin</name>
+    <role>Fang Fei Zhu</role>
+    <profile>https://www.themoviedb.org/person/1680170</profile>
+    <tmdbid>1680170</tmdbid>
+  </actor>
+  <actor>
+    <name>Lara Chen</name>
+    <role>Lin Yu Fang</role>
+    <profile>https://www.themoviedb.org/person/3576636</profile>
+    <tmdbid>3576636</tmdbid>
+  </actor>
+  <actor>
+    <name>潘慧如</name>
+    <role>Su Wen Wen</role>
+    <profile>https://www.themoviedb.org/person/2463034</profile>
+    <tmdbid>2463034</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-17 22:15:45</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦琛罚亦风停飞</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>4328856</id>
+  <uniqueid default="false" type="tmdb">1982450</uniqueid>
+  <uniqueid default="false" type="trakt">1851327</uniqueid>
+  <uniqueid default="true" type="tvdb">4328856</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>众人在澳洲受训，对飞机的兴趣更大，浩聪只顾追救希欣，对学习并不上心，而希欣给予自己的压力过大，表现未如理想。亦琛返回澳洲，送上香港的手信，众人感高兴。浩聪的父亲到澳洲开会，浩聪一心想有机会与父亲见面，但其父只派人送来口讯，叫他离开飞行学校，跟他学做生意，浩聪感失望。志宏劝浩聪应考虑自己的前途，不应为希欣而学做机师，浩聪却希望与希欣一同当机师，他们的对话被希欣听到。
+
+亦琛教授众人花式飞行，亦风一时兴奋竟作大胆飞行，亦琛以他罔顾安全为由，罚他停止飞行两星期，亦风不服，兄弟争执。希欣劝浩聪不应为自己浪费时间，浩聪表明自己由讨厌飞行变得喜欢，希望与她一同成为机师。
+
+众人飞行技术大有进步，唯亦风被罚，未能参与，大感没趣，众人劝他应向亦琛道歉。日东认为亦琛对亦风过于严厉，应有机会给他，兄弟又再和好。亦琛和亦风到云志的家探望，其父母托亦琛把以珊的童话画册带返港给她，他更把云志婚礼片上所拍的片段播出，亦琛看得心酸，亦风见状，安慰他，二人加深了解。
+
+飞行试将近，希欣紧张，电邮给金泽，金泽送来护身符，希欣感动。希欣飞行前惯性服用晕浪丸，亦风故意把晕浪丸换成维他命，令希欣不再依赖药物，希欣感激。几经辛苦，众人的飞行考试成功，亦琛约他们开派对庆祝。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1568</width>
+        <height>1080</height>
+        <durationinseconds>2681</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E13.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

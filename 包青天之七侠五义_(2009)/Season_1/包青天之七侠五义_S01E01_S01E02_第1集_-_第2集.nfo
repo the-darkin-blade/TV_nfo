@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第1集</title>
+  <originaltitle>第1集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187898</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宋真宗赵恒无后，玉帝命紫微星君下凡投胎、延续大宋国祚赵氏血脉，并派文曲星和武曲星跟随相助，本来下凡投胎转世有元神即可，可太白金星将两人的躯体也投了下去，却不小心将二人的躯体投反了，导致原本俊美的文曲星投生成为黑面包公，为免将来包拯因杀戮之气过重而遭杀身之祸，太上老君替他开出半边天眼，在他危难之际好让文曲星的元神，来护佑于他。包拯新官上任途中，因错过宿头，他和随从包兴在一间破庙落脚。与此同时，一个刚修炼成人形的狐狸精被两位天神追的四处逃窜，慌乱之中，她逃到了包拯落脚的破庙中，危难之时，包拯显出元神，救了这狐妖一命，狐妖跪谢离去。离开破庙，包拯碰见展昭替天行道力毙崂山双煞，斥其不该动用私刑，展昭反讽为官者天下乌鸦一般黑，随即扬长而去。包拯来到定远县就任，立刻严惩恶吏土绅，并下令设置鸣冤鼓，展昭试探之下才知包拯确实为官清廉、不惧权贵，包拯也才发现南侠展昭侠肝义胆，两人惺惺相惜。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>1080-02-01</premiered>
+  <aired>1080-02-01</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep01-02.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第2集</title>
+  <originaltitle>第2集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187899</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>张老汉被乌盆冤魂逼迫，求包拯为其申冤，岂料第一次到了公堂上，乌盆中的冤魂因县衙府的门神拦阻未能进府，包大人写放行纸条方才入内，第二次到了公堂，包拯询问乌盆有何冤屈，乌盆却不开口，只因无衣物遮体，张老汉买来纸扎的衣服，在盆中烧尽。第三次见包拯时，包拯喝退旁人，与乌盆单面对话，问得那冤魂原本是濠州人，因赵大夫妻贪图钱财，所以谋财害命，并加他的骨灰混入制作乌盆的材料中，制成乌盆售卖用来毁尸灭迹。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>1080-02-01</premiered>
+  <aired>1080-02-01</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep01-02.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

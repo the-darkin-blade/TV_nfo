@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦琛与年希保持距离</title>
+  <originaltitle>亦琛与年希保持距离</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586996</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>年希每天都在亦琛家认真地温习飞行知识，并且在家中模拟飞行。年希要求亦琛亲自示范，并指会特意摄录下来作参考，亦琛口说不愿意但最后还是满足年希的意愿。
+
+年希和亦琛及一众同事聚首玩纸牌游戏消遣，看到年希对亦琛的互动和亲昵，不禁让大家都感到年希和亦琛之间的关系已经超越了屋主和租客的界线。
+
+女支持者　接近夏阳
+
+夏阳在Skylette的门外，遇见一名年轻的女支持者正等待着自己，该女孩自称叫阿里诗，并老实不客气的要求夏阳协助她完成报告作业，带她游览Skylette。夏阳一时不懂得应付而答允，陪伴阿里诗一起四周围参观。两人到达维修部，夏阳并介绍了夏晨给阿里诗认识，阿里诗邀请夏阳兄妹一起吃饭，夏阳和夏晨也不懂得如何拒绝。
+
+三人在饭局的言谈间，夏晨发现阿里诗可能就是自己身在法国的同父异母妹妹，但夏阳觉得自己并没有义务要和阿里诗相认，两人的对话却被从洗手间回来的阿里诗听到，她更伤心得独自离开。
+
+夏阳与妹　香港相认
+
+没法等到阿里诗回来的夏晨和夏阳只好回家，夏晨担心阿里诗在香港没有其他亲友，独自流落街头会遇上危险，夏阳终受不了夏晨的哀求，便上网查找阿里诗的资料，才发现她的母亲已经去世。在法国孤单一人的阿里诗，原来一直以不能相认的夏阳作自己的精神支柱，夏晨和夏阳外出找寻阿里诗影踪，阿里诗终于能和夏晨和夏阳相认。
+
+亦琛年希　关系大进
+
+亦琛因工作安排要飞往英国，年希特地为要驾驶飞长途机的亦琛制作早餐。当亦琛到了英国后，特地为年希买了一副真正的飞行员防风眼罩，两人并不断以电话短讯保持联系。年希一边播放亦琛的示范短片温习，一边和亦琛以短讯沟通，两人关系大进。
+
+亦琛回港，发现年希竟特地到机场接机，亦琛于是即时将在英国买来的防风眼罩亲自为年希戴上，但这温馨的画面，却被送阿里诗回法国的夏晨及夏阳看到。看见夏阳感到不是味儿，夏晨见状不禁加以安慰，夏阳回应夏晨，指爱情永远无法取代亲情。
+
+亦琛被指　偏私年希
+
+亦琛之后也对年希特别细心和亲切，也让年希感到愉快和幸福……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2657</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E30.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

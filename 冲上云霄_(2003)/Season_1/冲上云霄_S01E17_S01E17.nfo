@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>以珊撮合亦琛和苏怡</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>4328860</id>
+  <uniqueid default="false" type="tmdb">1982455</uniqueid>
+  <uniqueid default="false" type="trakt">1851331</uniqueid>
+  <uniqueid default="true" type="tvdb">4328860</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>云志之妹卓芝从澳洲回港，以珊大为紧张，四出张罗，但卓芝却对以珊多番挑剔，以珊为难，云志劝她忍耐，二人吵起来，以珊离家出走，找苏怡陪伴散心。苏怡约会亦琛，亦琛对她加以逃避，云志取笑他。
+
+云志向以珊道歉，告诉她卓芝将投考飞扬空姐，并与他们长住，以珊想起要与她一同受训，大感头痛。以珊和卓芝接受空姐训练，卓芝处处针对以珊，以珊忍让令她的表现大受影响，对卓芝深感不满，频向嘉露和苏怡诉苦。以珊知道苏怡暗恋亦琛，鼓励她向亦琛表白，并送上缘份公仔以作支持。
+
+亦琛和云志到澳洲，亦琛犹豫应否买朱古力给苏怡，担心令她误会，云志劝他应放开怀抱，开始新感情。二人返港途中，机长心脏病发和天气转坏，亦琛担任机长，就降落问题与云志争执，亦琛反驳云志，最终证明亦琛判断正确。亦琛表现备受赞赏，此事更成为众机师学习的个案，众机师对亦琛大为佩服，对云志不以为然，虽亦琛把光荣与云志共享，但云志感没趣。
+
+以珊为撮合苏怡和亦琛，故意安排四人约会，云志认为妻子过分关心亦琛，忽略了他，大感不满，对以珊有微言，二人磨擦增加。亦琛处处躲避苏怡，认为二人的年龄差距和兴趣不同，苏怡仍不放弃，二人远足时，苏怡不慎跌倒，她竟感到双脚失去知觉，亦琛大惊。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1574</width>
+        <height>1080</height>
+        <durationinseconds>2680</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E17.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

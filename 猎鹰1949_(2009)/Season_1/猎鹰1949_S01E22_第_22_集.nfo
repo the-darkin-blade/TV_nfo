@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 22 集</title>
+  <originaltitle>第 22 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281662</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰等人与管理员一起对医院各处进行了谨慎地排查，却没有发现中村的蛛丝马迹。众人沮丧万分，燕双鹰突然回想起一个细节：药房的窗台上并没有中村逃走的脚印，他恍然大悟，请来孙医生和药房管理员共同上演了一出好戏。果然，进入晚上，当管理员假装巡视完毕离开药房后，躲在药品柜里的中村很快败露了踪迹。燕双鹰追问中村关于霍乱病毒的细节，中村却闪烁其词，甚至辱骂中华民族！燕双鹰难以压抑心中的愤怒，狠狠地教训了中村，让他为自己的狂妄和懦弱付出了代价。燕双鹰将病毒瓶内的液体悉数灌入中村一郎口中，为了活下去，恐慌之至的中村将事情的来龙去脉全盘托出。原来中村一郎正是臭名昭著的日本731细菌部队二号实验室的一名研究员，军衔少佐。日本投降以后，部队长官石井被捕，中村与其上司佐藤幸之助则携十几箱霍乱病毒逃离总部，藏身民间。两年后他二人被捕，随后又被国民党押至重庆。囚禁期间，翻译许先生代表一位神秘的高级将领与中村、佐藤谈成了一笔交易——若他们交出二号病毒，不仅可以重获自由，还能获得不菲的报酬。在燕双鹰的质问之下，中村交待了霍乱的治疗途径以及传播源的控制方法，在获得所有重要的信息后，燕双鹰这才告诉众人玻璃瓶里的液体不过是水而已，并将中村送去治疗，中村感激不已。燕双鹰意识到，这位藏在幕后的高级将领正是一手策划了病毒交易的老板！</plot>
+  <runtime>40</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2410</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep22_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

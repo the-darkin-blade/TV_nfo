@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:01:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦琛夏阳正式碰面</title>
+  <originaltitle>亦琛夏阳正式碰面</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586969</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>夏阳回机场即被多名空姐围绕要求约会，之后在机上亦风等人闲聊间，透露出有一名由海南受训回来，外貌不俗的女维修员回来复工，夏阳听后面色一变，好像想起某人似的特地下机寻找，但是却一无所获，感觉那名女维修员在夏阳心中占有很重要的地位。
+
+在英国的酒吧街，亦琛碰见了年希，年希为了在球赛下注而向亦琛借钱，但亦琛因为讨厌赌博而坚决拒绝了她，即使最后年希本想押注的球队败北，也令年希因此事相当怨恨亦琛，之后亦琛继续忙于研究芝士蛋糕没有理会年希。
+
+年希趁着亦琛离开了厨房，偷偷地在其蛋糕上乱加材料，打算作弄亦琛报仇，之后亦琛试吃后突然站了起来，并不断要求年希对话，原来年希歪打正着，制作到亦琛一直所追求的味道。但年希已经忘记了自己加了些甚么，最后只有和亦琛一起研究材料制作芝士蛋糕。
+
+亦琛决定　重返天空
+
+经过一番努力，和亦琛认真的态度，终于完成了他所追求的芝士蛋糕，原来当年苏怡生病，亦琛为了让苏怡减轻伤痛，便特地陪她一起弄蛋糕逗她开心，并且在苏怡死前，承诺如果能再造出那一个全世界最好吃的芝士蛋糕，便会穿起机师服重新回到天空，而今天亦琛终于完结了他那漫长的承诺。
+
+当亦琛决定返回香港后，Manna和Zoe都对亦琛的离开相当不舍，但也只是和亦琛郑重的道别，并尊重他离开的决定。亦琛离开之日，年希和他相约未来一定会在天空上再见，暗示年希将跟随失踪男友的脚步，以天空为目标。
+
+压力太大　亦风失误
+
+在亦琛回港的航班上，亦风和卓芝一早便预备礼物欢迎亦琛回家，并告知亦琛知道这一程航班是由亦风负责。之后，亦琛在机上遇上了一个相当迷信鬼神的神经质女人，并不断说亦风将遭劫数，令亦琛感到相当不安。
+
+另一边厢，亦风因为机场控制中心的安排而必须早五分钟降落，加上亦琛在机舱内，令亦风顿感庞大压力，在一片紧张的气氛下，飞机最后着陆失败造成硬着陆，令机上的乘客怨声载道，亦琛也面露不悦之色。
+
+亦琛回港　出任机长
+
+家骏为事件召见夏阳及亦风，亦风抱着承担失误责任的觉悟而跟着夏阳进入经理房，但是却见到日东及亦琛都在房内，原来家骏召见夏阳亦风的目的，是为了告知他们经日东穿针引线之下，亦琛将会加盟Skylette成为机长的消息，夏阳得悉后面带严肃的欢迎亦琛，但其中却感受到一点挑战的气氛……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2653</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E04.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

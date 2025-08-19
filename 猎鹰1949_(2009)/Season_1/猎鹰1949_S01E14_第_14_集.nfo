@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 14 集</title>
+  <originaltitle>第 14 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281653</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>联络点暴露和人员伤亡让老板损失惨重，为保存实力，老板派洪雪儿和吴枢斗安排张保之出城，而燕双鹰却又提前一步来到牛角沱张保之的栖身之所。张保之使尽各种招数想要逃跑，最终还是被燕双鹰结果了性命。燕双鹰还给晚到一步的洪雪儿和吴枢斗留下一件意外的礼物——自动引爆炸弹，让洪雪儿和吴枢斗险些像张保之一样报销，令他们不禁心惊胆寒。燕双鹰和赵雅琴悄悄返回十六号公寓安顿下来，赵雅琴刻意接近燕双鹰而燕双鹰却视而不见。燕双鹰想要联系林玉仙，赵雅琴明明知道这是为了工作却还是郁闷不已。老板得到张保之的死讯和燕双鹰留下的“猜猜下一个会是谁”的纸条与此同时老板又得到快报共产党又起获了四个联络点所幸的是联络点中的人已经提前撤离老板想了想自己付出的代价先是清水湾的废墟而后是登云旅社春意麻将馆现在是张保之和他手下六个联络点几天之内自己损失了两元大将六七十名弟兄再和燕双鹰斗下去不说猎鹰计划无法执行就连自己和手下也会逐一暴露在共产党面前。在李瑞山洪雪儿等人的建议下，老板最终决定请毛人凤出面调停此事。</plot>
+  <runtime>41</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2499</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep14_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

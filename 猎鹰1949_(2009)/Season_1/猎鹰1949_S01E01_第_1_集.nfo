@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 1 集</title>
+  <originaltitle>第 1 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281637</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>1949年10月1日，开国大典宣告了旧时代的灭亡和新中国的诞生。11月中下旬，解放军主力由黔西转入川南，解放大西南指日可待。而此时，一场没有硝烟的战争却刚刚开始。在地下阴暗的角落里，国民党军统潜伏在重庆的特务头子“老板”和他的副官李瑞山接收到已仓皇逃往台湾的国民党高层的指令，纠集了林玉仙、孟海马、张保之、洪雪儿、吴枢斗等特务头目，领导了一支三千多人的队伍，准备进行对共党高级人物实施暗杀以及对于重庆市内未及摧毁的重点目标展开破坏的“猎鹰计划”。我军四野特种兵纵队特务营营长燕双鹰与指导员高进率领特务营为先锋，化装成国民党部队，干净利落的一举击溃了国民党驻彭水十五兵团142师的城防部署。正当燕双鹰正准备率部乘胜占领敌142师师部的时候，却遇到了意想不到的阻击，面对师部院里的冷枪狙击，燕双鹰只身闯进142师师部大楼，他凭借自己敏捷的身手和过人的胆色，终于将埋伏在楼里的一群神秘狙击手逐一击毙。</plot>
+  <runtime>42</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2520</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep01_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

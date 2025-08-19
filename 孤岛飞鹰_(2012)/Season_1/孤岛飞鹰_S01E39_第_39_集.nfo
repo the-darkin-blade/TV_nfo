@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 39 集</title>
+  <originaltitle>第 39 集</originaltitle>
+  <showtitle>孤岛飞鹰</showtitle>
+  <season>1</season>
+  <episode>39</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281737</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>敌人的寻宝大军浩浩荡荡的向龙虎山中挺进，朱大姐的队伍和猎鹰大队成员早已部署在周围，严韵遥一声令下，子弹向敌人飞扫而去，郑雅姝等人不顾自己的生死安危将燕双鹰救出。伏击过后，今井和李志群等人从草丛中窜出，市君这才意识到章月欣利用了自己的软肋向燕双鹰透露了消息，站在一旁的章啸天生怕女儿连累了自己吓得阵阵发抖。在燕双鹰的带领下，大家抢先一步来到龙虎镇，聚义堂仅在咫尺但却机关重重，燕双鹰按照图纸步步斟酌，终于带领大家潜入了地下藏宝库。</plot>
+  <runtime>39</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1908</width>
+        <height>1080</height>
+        <durationinseconds>2393</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>39_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="39" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 18 集</title>
+  <originaltitle>第 18 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281658</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>如常摆脱方五桥等人的纠缠顺利回到管道入口，与燕双鹰和景标汇合，燕双鹰准备前往特等舱房一探究竟。赵雅琴和林玉仙一直守候在燕双鹰的仓房，燕双鹰迟迟未归，争风吃醋渐渐转变成对燕双鹰的担心，二人准备展开行动在船上寻找燕双鹰。燕双鹰通过如常打开的舷窗顺利进入特等舱房，却惊异的发现这个扮作病人的雇主贾老板仿佛与老板有着千丝万缕的联系，正疑惑间刘天龙等人却出现在他的面前。原来狡猾的刘天龙早就料到会有贵客降临。面对刘天龙和他的一众手下，燕双鹰毫不慌张，略施小计就制服了尚在得意的刘天龙。但是为了顺藤摸瓜，找出老板、雇主贾老板和那批货之间的关联，燕双鹰放过了刘天龙。而此时，赵雅琴和林玉仙却已经制服了刘天龙部署在轮船上的手下，并一步步接近特等舱房。燕双鹰提出要在三天之内帮刘天龙找到那批货物，并假意索要一百根金条作为报酬。 刘天龙对此嗤之以鼻，而此时赵雅琴与林玉仙制服了刘天龙所有的手下并闯进了特等仓房。迫于形势，刘天龙只能与燕双鹰达成协议，并按照燕双鹰的要求提前下船取陆路前往宜宾。如常爬过管道打开房门成为燕双鹰行动成功的关键，燕双鹰对如常大加赞赏并收他为徒。</plot>
+  <runtime>40</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2434</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep18_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

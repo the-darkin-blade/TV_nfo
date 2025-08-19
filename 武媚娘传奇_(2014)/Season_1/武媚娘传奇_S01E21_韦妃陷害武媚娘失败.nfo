@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>韦妃陷害武媚娘失败</title>
+  <originaltitle>韦妃陷害武媚娘失败</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id>5097926</id>
+  <uniqueid default="false" type="tmdb">1040332</uniqueid>
+  <uniqueid default="false" type="trakt">1698968</uniqueid>
+  <uniqueid default="true" type="tvdb">5097926</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李世民来找李淳风，再卜卦象。李淳风决定闭关十日推测卦象。 长孙无忌对儿子详解预言，指出武媚娘反的不是李世民而是他的子嗣，言语中透露出对媚娘宁杀勿由的意思。 太子得知民间传出唐三代而亡的流言，太子想把流言的重点导向女主武氏，奏请斩杀。李世民为保护媚娘，让媚娘与自己寸步不离，所有人都在等待着李淳风占卜的结果，然而李淳风没有按时出关，却已经死了，手中留着一张写有如意名字的字条。原来，韦妃通过清风害死了李淳风，意图嫁祸媚娘。魏王得知韦妃擅自行动，坏了自己的事，大怒。魏征拜见太子，引导太子分析韦氏是敌人媚娘才是盟友。朝臣都希望李世民对媚娘一事早做决断，李世民执意护着媚娘。韦妃自知计划失败，她与春盈商议再害媚娘，却不知这一幕都落入了宫女玉玲的眼里。 杨妃得知韦妃又有新举措，来到媚娘宫室，找出了她床榻上李世民模样的青铜傀儡，救了媚娘一命，并赠送媚娘可以用来驱蛊和试毒的白矾、银针、黑豆，以自身经历提醒媚娘。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2669</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep21 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

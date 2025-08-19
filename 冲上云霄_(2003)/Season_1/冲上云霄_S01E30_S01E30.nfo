@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>云志意外身亡</title>
+  <originaltitle>Episode 30</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id>4328873</id>
+  <uniqueid default="false" type="tmdb">1982468</uniqueid>
+  <uniqueid default="false" type="trakt">1851344</uniqueid>
+  <uniqueid default="true" type="tvdb">4328873</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>云志飞往罗马，以珊特来送别，感依依不舍，云志反安慰她，轻松踏上征途。以珊望着他的背影，失声痛哭，被亦琛看到，亦琛加以照料，却被苏怡发现，苏怡伤心欲绝。亦风见苏怡面色有异，向她查问，苏怡无言以对。苏怡鼓起勇气向亦琛追问，亦琛却处处回避，苏怡死心。
+
+亦琛致电云志，劝他回港商量，但云志因电话无电并没听到亦琛的来电。云志在罗马街头思考婚姻和人生，见一少女遗下手链，而另一青年拾回还给她，有所顿悟，决定回港跟以珊重新开始，并立即致电给她，可惜她并没听到留言。云志为想通与以珊的关系，兴奋得在街头慢跑，期间他见到一名小童差点被车撞倒，舍身上前相救……
+
+苏怡向善波和嘉露诉说感情事，嘉露劝她应体谅亦琛的感受，让他有伤痛的空间，苏怡明白但情感上难以接受亦琛对她的冷淡。
+
+亦琛当选杰出青年的颁奖礼上，众人透过录像向亦琛说了一番心底话，当大会播出云志的片段时，云志指亦琛除了工作态度值得表扬，连人格都值得人敬佩，更以认识此友为荣。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1576</width>
+        <height>1080</height>
+        <durationinseconds>2675</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E30.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

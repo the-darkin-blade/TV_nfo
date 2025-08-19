@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 28 集</title>
+  <originaltitle>第 28 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281669</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>老板被生擒，风雷行动顺利完成。搜查旅馆的过程中，解放军发现了藏在密室内的另一批二号病毒。锦玉、雅琴等人终于与燕双鹰团聚，狙击刘天龙的正是雅琴。李延平在秘密会议上宣布风雷行动结束，燕双鹰和李瑞山恢复了真实身份。当务之急是迅速将老板押至重庆，会议讨论采取“暗度陈仓”之计，燕双鹰留在宜宾吸引敌特，李延平、吴玉霞以及李瑞山负责运送老板，货物则被保管在宜宾军管会。陷入精神困境的林玉仙向燕双鹰表露心声，面对敏感真诚的林玉仙，燕双鹰不由得道出了深藏内心的秘密——他逝去的爱人叫做小玲，林玉仙的身上有她的影子。风雷行动的完成也意味着赵雅琴与燕双鹰的分别之日来临，雅琴悲伤落寞，燕双鹰虽有不舍，却仍以国家大义为重。锦玉准备带着如常回到重庆，解散码头投奔工会，众人依依惜别。李延平一行人乘船离去后，燕双鹰前往安顺寨处理接管事宜。</plot>
+  <runtime>38</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2319</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep28_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

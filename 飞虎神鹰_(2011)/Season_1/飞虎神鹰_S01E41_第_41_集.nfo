@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 41 集</title>
+  <originaltitle>第 41 集</originaltitle>
+  <showtitle>飞虎神鹰</showtitle>
+  <season>1</season>
+  <episode>41</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3168738</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰又将李康被捕嫁祸于杜马，同时南京假钞铸模厂位置也被军管会发现了。陈恭鹏从老狐狸那里得知铸模厂暴露，决定尽快挖出内奸。余茹萍为了证明自己，拿出了上级李大海牺牲前留下密码本和一串数字，燕双鹰迅速破解了密码——原闵行区区委副书记田野可能是叛徒。军管会内部奸细浮出水面。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>LeTV</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2620</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E41.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="41" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

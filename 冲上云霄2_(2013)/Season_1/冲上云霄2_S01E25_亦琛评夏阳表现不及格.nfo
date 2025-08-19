@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦琛评夏阳表现不及格</title>
+  <originaltitle>亦琛评夏阳表现不及格</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586991</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>夏阳因为心中一直想着年希和亦琛的关系，在飞机上对其他机师都表现得既冷淡又严肃，令身为副手的伟力顿感不知所措。飞机驾驶途中遇上积雨云，夏阳也没有理会伟力的意见，甚至在降落时发生意外需要紧急降落，夏阳也自信地独自处理问题，完全漠视伟力的意见，并以个人技术进行紧急降落，令机上的乘客都恍如劫后余生。
+
+降落成功后，亦琛质问夏阳作出的飞行决定，夏阳答得头头是道并表现得不可一世。虽然夏阳的决定十分正确，但亦琛竟将夏阳评定为不及格。夏阳听见后质问亦琛原因，更认为是亦琛有意针对自己。亦琛解释是夏阳在整个飞行过程都表现得独断独行，和伟力无沟通及完全没有解释自己的想法，漠视最重要的团体合作，故认为夏阳不及格，夏阳无言以对惟有悻悻然离开驾驶舱。
+
+夏阳向妹　倾诉心事
+
+下机后，一向擅于交际的夏阳拒绝了同事的邀请独自离开了机场，到垦丁游走，细想年希和亦琛到底在垦丁遇到了甚么事。亦琛特地在咖啡店与夏阳对话，而夏阳本身也有为事件反省，直接承认自己一时失准，但是亦琛又再次提起了年希对自己的帮助，令夏阳心感不是味儿。夏阳也因此事向夏晨倾诉，但夏晨也怀疑夏阳到底有没有对年希认真过。
+
+得知日东　离开公司
+
+日东与亦琛闲聊期间，透露自己将会离开Skylette前往其他航空公司发展，也让芮嘉不用在工作时感到尴尬，亦琛也祝福日东顺利。两人遇上素心，日东为了让亦琛能在感情世界重新出发，便邀约素心和亦琛吃饭。日东特地缺席为亦琛制造机会，但此举反令亦琛感到相当为难，亦琛在和素心倾谈之间，却知悉了素心的目标原来是日东，因此令他感到松一口气。
+
+丽安处处　留难芮嘉
+
+空中服务员的新生培训正式开始，除了胡娉、君妍及芷柔之外，志宏的两位前女友菲菲及丽安也入选了参加Skylette的空中服务员训练。因为之前芮嘉干涉丽安和菲菲的感情事，在堂上丽安处处让芮嘉为难，但芮嘉以丰富的经验一一拆解，反让丽安感到不快。胡娉见状拍手叫好，也公开了自己是芮嘉的女儿，因此引来丽安及菲菲的怨恨。
+
+少雄得知　胡娉身分
+
+之后空中服务员和Cadet Program的学员相遇，子麟自从知道卓芝怀孕后便非常紧张卓芝，但反让卓芝担心子麟会对外透露自己怀孕……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2650</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E25.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>武如意深夜殿中起舞遇皇帝</title>
+  <originaltitle>武如意深夜殿中起舞遇皇帝</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id>5081988</id>
+  <uniqueid default="false" type="tmdb">1040301</uniqueid>
+  <uniqueid default="false" type="trakt">1395720</uniqueid>
+  <uniqueid default="true" type="tvdb">5081988</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>武如意见韦贵妃冤枉杨淑妃，赶紧将之前亲自看到贤妃自行从台阶摔下的经过说了一遍，韦贵妃脸上升起不悦开始仇恨武如意。贤妃因为从台阶上摔倒导致终生无法生育，韦贵妃趁机诽谤杨淑妃，李世民没有相信。韦贵妃来到宫中探视贤妃，趁机风言风语挖苦贤妃。刘贤妃在韦贵妃离去不久上吊自杀，突如其来的情况吓得宫女尖声惊叫花容失色。 赵司乐略带感概提醒武如意等人加紧练习以便博得皇帝赏识。韦贵妃见一些妃子当众流泪为刘贤妃逝世难过，脸上升起不屑。李世民与杨淑妃焚烧纸钱祭拜刘贤妃。赵司乐继续监督新才人学习舞蹈，赵司乐对武如意青睐有加。韦贵妃派人来威逼利诱赵司乐。武如意来到徐惠身边提起逝世的刘贤妃，由于还没有见过皇帝，武如意在徐惠面前提起素未谋面的皇帝。萧蔷听到武如意议论皇帝，脸上升起嘲讽上前挤兑武如意，萧蔷和武如意起了争执，徐惠出手相护，赵公公过来喝斥。比舞大会即将到来，武如意与徐惠在最后时刻赶到司乐房，赵司乐让两人去洗衣房清洗大量衣物。两人回来时，比舞大会结束，萧才人成功夺得兰陵王头衔。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2681</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep02 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

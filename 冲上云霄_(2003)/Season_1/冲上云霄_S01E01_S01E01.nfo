@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦琛邂逅以珊</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>4328844</id>
+  <uniqueid default="false" type="tmdb">1982435</uniqueid>
+  <uniqueid default="false" type="trakt">1851315</uniqueid>
+  <uniqueid default="true" type="tvdb">4328844</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>以珊是飞扬航空公司的地勤人员，她向公司同事征求一个特别缘份公仔，此公仔是她的父母的定情信物，因她相信公仔会带给她爱情运。亦琛与云志是飞机师，二人性格各异，对爱情看法不一，但无损友谊。亦琛找到以珊想要的公仔，准备带回香港给她。
+
+亦琛与云志执勤回港，途中乘客苏怡盲肠炎发作，加上天气变差，机上乘客恐慌，亦琛以副机长身份出来安慰众人，令苏怡对他留下深刻印象。香港的机场做好紧急措施，等待飞机降落。苏怡被妥善照料，对机场工作产生兴趣。亦琛在照顾苏怡时不小心遗失以珊的公仔，该公仔郤被苏怡拾去。亦琛致电以珊告知遗失缘份公仔，以珊大失所望。
+
+亦琛之母佳美因忍不住父亲唐璜风流的个性，在他小时候坐飞机离开，故亦琛立志当机师接母亲回来。亦琛挂念母亲，对唐璜喜爱结交年纪小的女朋友大感不满，父子为此争执。亦琛收到消息，母亲居于罗马，决定到罗马一行，云志请他转告当地女友他决定分手。以珊放假到罗马旅游，探望亲友，顺道寻找缘份公仔。亦琛在罗马巧遇以珊，以珊不小心遗失手炼，亦琛替她拾回，二人对对方大有好感，但以珊郤误会亦琛是云志。亦琛又遇上华人青年亦风，二人口角，不欢而散。以珊与亦琛在罗马街头多番遇上，彼此认定有缘份。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2685</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E01.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

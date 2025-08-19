@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>罗将军被春盈杖毙而死</title>
+  <originaltitle>罗将军被春盈杖毙而死</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>5082180</id>
+  <uniqueid default="false" type="tmdb">1040310</uniqueid>
+  <uniqueid default="false" type="trakt">1395757</uniqueid>
+  <uniqueid default="true" type="tvdb">5082180</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>三年一次的大朝会要到了，罗将军告诉如意，大朝会时会大赦天下，如意有机会离开掖庭。李世民收到了褚遂良参韦妃母家的奏折。韦妃为“琉璃宴”做准备。韦妃力荐萧蔷在大朝会献舞，杨妃却提起如意。朝堂上，韦源承奏请李世民立韦妃为后，长孙无忌在上朝路上装病，闭门谢客。李世民不但不批，反倒将主持大朝会“琉璃宴”的权力交给杨妃。 德妃想借韦妃之势让齐王回长安后留下，不再母子分离，于是送上金蹙凤台履讨好韦妃。韦妃借机羞辱德妃，这时杨妃主持琉璃宴的消息传来，德妃看出韦家即将失势。 失意的太子在东宫饮酒作乐，魏征入东宫训斥太子。太子妃得知琉璃宴改由杨妃主持，以为李世民起了易储的心思，认为是称心影响到了太子，要称心离开，称心不愿。 长孙无忌 “抱病”在家，分析朝廷局势，看出太子难堪大任，对他失望。李世民探看彭婆婆，却被彭婆婆当成是李建成，彭婆婆跪求他不要杀害李世民，李世民明白彭婆婆还是疼爱自己。李世民大赦天下，如意被放出掖庭，等候已久的徐慧终于见到如意，姐妹两人再度团聚。 韦妃得知如意并没被毁容，决意除去罗将军。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2660</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep11 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

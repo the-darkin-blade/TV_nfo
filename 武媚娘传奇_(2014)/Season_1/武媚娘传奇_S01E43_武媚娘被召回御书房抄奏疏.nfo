@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>武媚娘被召回御书房抄奏疏</title>
+  <originaltitle>武媚娘被召回御书房抄奏疏</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>43</episode>
+  <id>5100451</id>
+  <uniqueid default="false" type="tmdb">1040354</uniqueid>
+  <uniqueid default="false" type="trakt">1707949</uniqueid>
+  <uniqueid default="true" type="tvdb">5100451</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李世民在朝堂上以是否该出兵北境为题考核众皇子，李泰与李恪各执一词，李治将媚娘之前准备好的答案背出，令李世民和朝臣们都刮目相看。徐慧向媚娘打探李牧的消息，媚娘也用魏征棺材上被替换的白纱来刺探徐慧，昔日的好姐妹如今各怀目的，媚娘伤心。李治品尝到被人重视和赞许的滋味，对权力也有了欲望。李世民宣召媚娘，媚娘在李世民案头看到了李孝常的卷宗，忧心李牧安危。李世民要媚娘抄《齐民要术》，自己则稍作休息，媚娘不忍心叫醒李世民。 李治质问李牧到底对媚娘有何居心，李牧却掐住李治的脖子，李治以为濒临死亡，李牧放开李治，告诉他，不杀他是因为不想媚娘难过，希望李治也不要去向媚娘问自己的身份从而让媚娘为难。李世民翻看媚娘抄的《齐民要术》，媚娘装作失足扑倒油灯，趁乱把李牧的卷宗收入袖中。李世民担心媚娘受伤，媚娘却想赶紧揣着李牧的卷宗离开。李世民期盼媚娘能把李牧的事情据实以告，然而媚娘还是什么都没说。李泰听说李世民重新宣召媚娘，以为媚娘复宠，要徐慧多多接近媚娘，帮自己打探消息。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2673</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep43 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="43" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 17 集</title>
+  <originaltitle>第 17 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281656</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰觉得事有蹊跷就找到景标询问，景标这才道出了自己和如常的真实身份，并将霍杰扣留货物招来杀身之祸，刘天龙想以如常为要挟逼霍杰的妹妹锦玉交出货物的事情全盘托出。知道了事情的来龙去脉，燕双鹰决定继续帮助他们。在景标和如常的掩护下，燕双鹰潜入船长室顺利盗取了轮船上的管道分布图。刘天龙正计划着如何抓住如常，要挟锦玉交出货物以便向住在另一间特等舱房的雇主交差，方五桥汇报说景标得到了燕双鹰的帮助，刘天龙不知道燕双鹰是何许人，根本没把他放在眼里。燕双鹰的舱房内，林玉仙和赵雅琴争风吃醋的好戏继续上演，而此时燕双鹰却计划让如常通过通风管道，爬进刘天龙的房间把窗户打开，以便自己前去打探消息。如常按照管道分布图的指示爬到刘天龙所在的特等舱房，他悄悄潜入舱房中为燕双鹰打开了舷窗。刘天龙此时正在与化妆成病人登上客轮的雇主贾老板谈判，刘天龙答应贾老板一定会找回被霍杰扣押下的那批货物。如常在回来的过程中被人发现。</plot>
+  <runtime>40</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.85</aspect>
+        <width>1916</width>
+        <height>1046</height>
+        <durationinseconds>2439</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep17_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

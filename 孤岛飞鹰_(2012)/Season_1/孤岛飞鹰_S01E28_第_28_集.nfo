@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 28 集</title>
+  <originaltitle>第 28 集</originaltitle>
+  <showtitle>孤岛飞鹰</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281725</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>今井正在询问严韵遥关于袭击者的情况，忽然有人发现了一张袭击者留下的亲笔字条，上面写着“尽快释放赵理君”的字样，不出燕双鹰所料，日本人以为袭击者是想营救前不久被捕的军统头子，至此严韵遥彻底摆脱了怀疑，在章啸天和李志群的建议下得到了释放。今井命令市君要时时监控严韵遥家中动态，以获取天国宝藏的更多信息。燕双鹰早已让手下林小江扮成拉车人等候在特工部门口，当燕双鹰见到了满脸伤痕的严韵遥时两人不禁紧紧相拥在一起。</plot>
+  <runtime>35</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1908</width>
+        <height>1080</height>
+        <durationinseconds>2139</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>28_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

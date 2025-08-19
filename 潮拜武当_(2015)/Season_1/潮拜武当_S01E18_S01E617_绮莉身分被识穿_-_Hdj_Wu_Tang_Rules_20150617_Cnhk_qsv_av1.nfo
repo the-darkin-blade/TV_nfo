@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>绮莉身分被识穿</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>潮拜武当</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3200814</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>番薯醒来看见眼前的护士变成了靖岚的模样，医生指番薯的脑受到震荡，影响说话能力，脚部出现骨折却不算严重。
+
+乐洋问继冲若正东记起过去的事，他将如何向正东说出真相。番薯一觉醒来，终记起自己是何正东，便立即往找继冲，却听到乐洋与继冲的对话，知道继冲是卧底，且靖岚已死，激动得上前找继冲算账，刚好毛瓜毛豆来到，要拉他回房间休息。正东想了想，自觉暂时不宜表露自己已回复记忆，便继续装失忆。正东誓要替妹妹报仇，他看着继冲与乐洋在一起，认定继冲移情别恋，十分气愤。
+
+欲杀继冲替妹报仇
+
+正东想杀继冲，但因身体伤势致手脚不灵活而不成功，后乐洋陪正东散步，他欲把乐洋推下河中亦告失手。正东想尽办法欲杀害继冲及乐洋，却因连番失败而感到气馁。
+
+石琳寄了婴儿衣物给萧钰，各人又提议在山上为萧钰的孩子摆百日宴，萧钰表示担心日后把孩子交给赵家后，不知如何向众人解释。鑫鑫提醒她已答应赵家，她想起孙儿能换来千万元便大感高兴。
+
+随身带备万用剪刀
+
+正东伤愈且回复说话能力，正想杀害继冲，但他经过萧钰房间时，鑫鑫却请他救命，原来萧钰大量出血，鑫鑫怀疑女儿早产。正东抱萧钰出大殿，家川替她检查，指她有齐早产的征状，要尽快送院，否则母子都有生命危险。各人执拾所需物件，倚珊约了小巴，但因没有司机，乐洋命继冲驾车。距离到院尚差半小时车程，家川认为已来不及，提议在车上替萧钰接生。女婴出生后，各人发现忘了带剪刀，正东突然拿出一把万用刀，让家川替婴孩割脐带。
+
+鼓励家川不要放弃
+
+萧钰母女被送院后，医生指婴孩是早产婴，需要进一步观察其肺部及心脏。萧钰担心女儿情况，鑫鑫却只担心孙女一旦有事，自己会见财化水，萧钰不屑母亲对孙女的冷漠，母女起争拗。倚珊等来到探望萧钰，萧钰忍不住哭起来，各人纷纷安慰她。
+
+乐洋赞家川替萧钰接生的功劳最大，家川表示自己为了兄长做医生，但后来发现最重要是医好人的心，若病人本身放弃，医生医术再高明也没用。乐洋明白家川所指的是家港，她认为家港已软化，劝家川不要放弃，相信很快可打动家港。家港在一旁听到二人对话。
+
+众人不屑萧钰卖女
+
+亦轩在酒家订了酒菜慰劳各人，但所点菜式反令各人食欲大减，因而被嘲笑。正东想杀继冲，继冲问他萧钰生孩子时他害不害怕，令正东一时犹豫起来，事后自责有好机会竟不下手。… ...</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1331</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Wu.Tang.Rules.Ep18.20150617.Hdtv.1080I.H264-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Wu Tang Rules 20150617 Cnhk qsv av1</title>
+  <originaltitle/>
+  <showtitle>潮拜武当</showtitle>
+  <season>1</season>
+  <episode>617</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1331</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Wu.Tang.Rules.Ep18.20150617.Hdtv.1080I.H264-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="617" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

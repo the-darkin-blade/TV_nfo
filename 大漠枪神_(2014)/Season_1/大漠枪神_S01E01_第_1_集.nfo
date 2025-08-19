@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 1 集</title>
+  <originaltitle>第 1 集</originaltitle>
+  <showtitle>大漠枪神</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310858</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>抗日时期日军毒害中国百姓，频频将中国百姓抓到实验基地进行各种医学实验，刘大麻子受日军少佐武功命令，亲自带着一帮兄弟来到大漠中抓捕一批百姓。得到消息的燕双鹰与哥哥燕彪埋伏在刘大麻子必经之路，做好了拦截刘大麻子的准备。刘大麻子并不知道危险即将到来，不紧不慢地押着中国百姓向驻住在黑戈壁的日军实验基地赶去，队伍行至一处土坡下方，燕双鹰与哥哥燕彪出其不意偷袭刘大麻子的部队，刘大麻子遇袭惊慌失措，带着手下人扔掉中国百姓逃之夭夭，被解救的百姓对燕彪充满感激，在燕彪的询问下，百姓们透露刘大麻子来大漠中抓捕壮丁，主要目的就是将壮丁们带到日军位于黑戈壁的实验室。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2754</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>E01_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

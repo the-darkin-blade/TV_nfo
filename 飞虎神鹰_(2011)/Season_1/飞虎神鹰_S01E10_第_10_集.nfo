@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 10 集</title>
+  <originaltitle>第 10 集</originaltitle>
+  <showtitle>飞虎神鹰</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3168707</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰在九号赌场的阁楼上发现了马志成安排在赌场外的曾阿四与两名杀手，并命九头夜晚准备行动。夜里曾阿四怕冷想撤，结果被两名枪手说拒绝回去，燕双鹰出现打死曾阿四与两名枪手。燕双鹰说要兄弟们扮成送葬的，一会还有好戏上场。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>LeTV</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1278</width>
+        <height>720</height>
+        <durationinseconds>2611</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E10.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

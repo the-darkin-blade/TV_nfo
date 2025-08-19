@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦风投考机师成功</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>4328848</id>
+  <uniqueid default="false" type="tmdb">1982440</uniqueid>
+  <uniqueid default="false" type="trakt">1851319</uniqueid>
+  <uniqueid default="true" type="tvdb">4328848</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>亦风暗中学驾驶小型飞机，成绩理想，令他充满自信。亦琛主讲机师入职讲座，在座的亦风却对他针锋相对，令亦琛气结，认定他年少气盛，不宜当机师。云志把在罗马找到的相片交给亦琛，亦琛向他坦然承认认识以珊，但二人相处时间少，感情不深。云志表明不会放弃以珊，愿公平竞争。
+
+浩聪对希欣大有好感，主动接送，并代表公司发还欠薪给她，希欣感激。善波欲投考机师，但苦无信心，苏怡把缘份公仔借给他以作支持。亦琛等担任考官，亦风心中不服，仍努力应考。众考生表现平均，亦琛建议剔除亦风，但其他考官劝他不应对亦风有偏见，认为善波条件较差。众人得知亦风和亦琛的关系，对他的态度有变。
+
+云志告知亦琛将向以珊求婚，亦琛黯然但仍祝福好友。苏怡负责照顾小孩，但不小心让小孩走失，被客人投诉，幸得亦风帮助，事后嘉露大怒，而善波内疚因她把公仔借给他才招恶运。苏怡担心被解雇，善波陪她向嘉露道歉，时遇上以珊，以珊替她说项，嘉露答应再给机会她。苏怡认出以珊是当年曾帮助她的机场人员，对她更为感激。以珊见到苏怡的公仔，大感好奇，追问之下，得知公仔是亦琛所赠，该公仔正原是当日亦琛带给她的，以珊认为亦琛才是她的真命天子。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1576</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E05.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

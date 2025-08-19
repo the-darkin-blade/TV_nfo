@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>殷家叛变</title>
+  <originaltitle>殷家叛变</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id>5094589</id>
+  <uniqueid default="false" type="tmdb">1040329</uniqueid>
+  <uniqueid default="false" type="trakt">1688179</uniqueid>
+  <uniqueid default="true" type="tvdb">5094589</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>张公公劝德妃不要再阻拦殷宏智的大计，把李佑亲笔信交给德妃，李佑在信上表明了自己的野心，德妃崩溃。太子得到北漠犯边的消息，欲寻李世民，却收到了来自尚膳局郝公公的约见。李世民和媚娘走到第一次相遇的地方，两人忆及往昔，却有小太监大呼着不好跑来。伪装成太监的刺客刺杀李世民，却被李世民身旁的媚娘用空手抓住刀刃，阻挡了刺客的刺杀。李世民下令羽林卫射杀残余刺客。 殷宏智的手下郝公公约见太子，试图说服太子一起谋反，称心被郝公公动摇，太子却不要做弑父篡位的勾当，狠狠拒绝了郝公公。 与此同时，长孙无忌的马车被绊倒，里面空无一人。 殷宏智和李佑的谋反失败了，长孙无忌怀疑媚娘是德妃同伙，李世民却觉得媚娘此前种种不像是在演戏，好像真的不知情。太子救驾来迟，李世民关心询问太子状况，太子害怕，以为此举是在试探自己是否有反心。 德妃为保李佑，下定决心出手收拾残局。做了有毒的点心羹汤去看望媚娘，并借媚娘的手送了一盏甘露羹给李世民。李世民怀疑媚娘下毒，让媚娘试喝甘露羹，想要从中看出端倪。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2655</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep18 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>骊山狩猎武媚娘被箭射伤</title>
+  <originaltitle>骊山狩猎武媚娘被箭射伤</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>5097930</id>
+  <uniqueid default="false" type="tmdb">1040336</uniqueid>
+  <uniqueid default="false" type="trakt">1698972</uniqueid>
+  <uniqueid default="true" type="tvdb">5097930</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>太子跑去魏王府闹事，就在大家都感到尴尬时，李世民喝止了太子，并赐特权给李泰，准允他扩建文学馆，广揽文博大才。太子脸色沉重，李泰扬眉吐气。太子对冲动胡闹的行为很懊悔，无颜面见魏征。太子妃为太子筹谋，打算骊山狩猎后，与媚娘见面。 太子和称心为狩猎做准备，侍从却来报知太子不必去骊山了。太子沮丧下与手下兵士酗酒摔跤。杨妃嘱托吴王李恪一定要在骊山之行中护住媚娘。 萧蔷得知李世民宣媚娘伴驾却没有宣她，心生嫉妒，冲动之下要去找李世民，韦妃赶到，掌掴萧蔷，让她暂时按捺。 太子还是去见了魏征，魏征告知太子自己懊悔于当年没有尽全力辅佐建成太子，这成了他的心结。现在竟然有一个机会，李世民把太子送到他身边，这次他一定要尽全力辅佐太子。太子被魏征感动，真心把魏征当成老师，魏征教太子赶往骊山救媚娘。 骊山之行终于到来，晋王李治初显神威。李恪几次三番提醒媚娘免陷险境。李世民按计划引媚娘入深林，将媚娘交给羽林卫。但羽林卫对媚娘下杀手，媚娘中箭，千钧一发之际，太子救下媚娘。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2659</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep25 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 1 集</title>
+  <originaltitle>第 1 集</originaltitle>
+  <showtitle>孤岛飞鹰</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281692</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>1937年，日本发动侵华战争，11月上海沦陷。迫于国际舆论压力，侵略者在上海苏州河南岸的公共租界前，停住了战争的步伐，公共租界因此成为了暂时的净土，被称为“孤岛”。为了充斥军费，扩大战争规模，日军不但掠夺中国各地的财政收入，还将目光投向了深埋于地下的文物、宝藏。为粉碎敌人的阴谋，保护国家财产，一支活跃在孤岛地下的秘密抗日力量，利用日军无法进入租借这一有利态势，往返于租界和占领区之间，与日寇展开了殊死搏斗。</plot>
+  <runtime>35</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1908</width>
+        <height>1080</height>
+        <durationinseconds>2100</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>01_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

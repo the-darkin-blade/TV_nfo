@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 8 集</title>
+  <originaltitle>第 8 集</originaltitle>
+  <showtitle>两个爸爸</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>4648796</id>
+  <uniqueid default="false" type="tmdb">2584671</uniqueid>
+  <uniqueid default="false" type="trakt">1264994</uniqueid>
+  <uniqueid default="true" type="tvdb">4648796</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>耀群暗中和映帆联系，并为事务所介绍客户。静竹的鞋子遗留在翔希的车上，映帆看到后醋意大发。振华父爱泛滥，他手把手教咏洁洗手。温蒂要参加学校举行的“我的妈妈”绘画大赛，静竹将此事告诉了振华。为了温蒂，静竹向振华提出帮助翔希父子和好。翔希和映帆在超市偶遇静竹，看到静竹和翔希之间言语亲昵，映帆大为吃醋。为了绘画比赛，振华带温蒂向咏洁求助。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sanlih E-Television</studio>
+  <studio>EBC Drama</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2739</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>J2.Two.Fathers.Ep08.Hdtv.1080I.H264.Ac3-Hdwtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

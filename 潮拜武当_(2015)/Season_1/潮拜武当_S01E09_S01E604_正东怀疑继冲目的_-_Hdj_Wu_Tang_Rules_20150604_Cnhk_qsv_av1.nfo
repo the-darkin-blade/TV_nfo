@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>正东怀疑继冲目的</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>潮拜武当</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3200799</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>乐洋向继冲指出番薯的链坠与靖岚在泰国买的相同，继冲认为那是很普通的泰国手信而已。乐洋猜想靖岚可能认识番薯，甚至推断二人或有奸情被继冲发现，所以继冲杀了靖岚，继冲大怒。
+
+乐洋细看靖岚的相片，想起当日靖岚去泰国旅行回来后，曾把链坠给她看，她追问下，靖岚把男友的相片给她看，她才发现好友的男友竟是继冲。乐洋往找继冲，指靖岚是好女孩，若继冲不认真便不要玩弄靖岚，又认定古惑仔没有真爱。靖岚来到发现好友与男友在一起，追问二人是否早已认识。
+
+番薯原是　黑帮头目
+
+继冲指乐洋担心靖岚被他欺骗，靖岚表示早已知道继冲的事，又相信继冲对她是真心，请乐洋不要为她担心。番薯因在催眠片段中看见自己拥抱毛豆毛瓜，所以避开她们。继冲说催眠片段都是假的，毛豆毛瓜戏弄番薯，要拥抱他作补偿。
+
+继冲想起靖岚在泰国买了两个链坠，一个是给他的，但他认为自己不方便佩戴，靖岚谓要把链坠送给另一个男人。
+
+继冲救了黑社会头目何正东，亦即失忆前的番薯，正东付钱答谢继冲，继冲婉拒。后来继冲因替手下做担保人而被追债，他避到一间酒吧，在酒吧内再次重遇正东。
+
+正东竟是　靖岚兄长
+
+正东的一名手下阿超曾与继冲赛车，赞继冲的赛车技术高超，正东亦欣赏继冲有义气。正东使计试探继冲后，对继冲予以信任，问他是否有兴趣跟自己工作。继冲屡次立功，正东对他情同手足，后继冲看见正东有一个与靖岚相同的链坠，正东只说女生去泰国都爱送他这些东西。靖岚约了兄长见面，继冲此时才知道靖岚有一位哥哥，靖岚表示自小与兄长分开居住，一年只见面两、三次，哥哥知道她有了男友，要求与之见面，此时正东来到，继冲始知正东与靖岚是两兄妹。
+
+希望靖岚　平安过活
+
+正东认为继冲处心积虑利用靖岚接近他，继冲澄清对他与靖岚的关系一无所知，且谓以后不再与正东合作，亦会与靖岚分手。正东斥他玩弄靖岚，继冲自言对靖岚认真，且指她是好女孩，他从没对靖岚做过越轨的事。
+
+正东细说自己与靖岚的身世，自言对妹妹的男友很挑剔，无论专业如机师抑或消防员他都一概不接受，因为他只想妹妹能够平安过生活，不用担惊受怕。可是天意弄人，妹妹到头来却选择了与他一样的古惑仔，他要求继冲好好对靖岚。… ...</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Wu.Tang.Rules.Ep09.20150604.Hdtv.1080I.H264-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Wu Tang Rules 20150604 Cnhk qsv av1</title>
+  <originaltitle/>
+  <showtitle>潮拜武当</showtitle>
+  <season>1</season>
+  <episode>604</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Wu.Tang.Rules.Ep09.20150604.Hdtv.1080I.H264-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="604" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

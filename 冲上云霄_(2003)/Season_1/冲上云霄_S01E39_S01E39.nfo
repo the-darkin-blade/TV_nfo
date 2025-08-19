@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>以珊重新振作</title>
+  <originaltitle>Episode 39</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>39</episode>
+  <id>4328882</id>
+  <uniqueid default="false" type="tmdb">1982477</uniqueid>
+  <uniqueid default="false" type="trakt">1851353</uniqueid>
+  <uniqueid default="true" type="tvdb">4328882</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>亦琛发现以珊精神有异，感担心，与苏怡商量，苏怡见以珊放弃生命感可惜，又自怜身世，感沮丧。苏怡四出散步，见到产房的新生婴儿，感生命的奇妙，重拾对生命的热诚，决定勇敢地活下去。苏怡约亦琛去露营，终于得偿所愿一同遇见彩虹，感无憾。苏怡为大雄和叮当筹备机场婚礼，亦琛劝她不要忙坏身体，但她表明想在有限时间内尽力完成想做的事，亦琛支持她。亦琛看到苏怡为机场所拍的宣传片，众同事赞赏她甜美笑容，便兴致勃勃把宣传片带给苏怡看。
+
+以珊终日幻想云志陪伴左右，令精神恍惚，云志劝她应放下过去的一切，能曾经拥有已经无憾，但以珊执迷不悟。以珊探望苏怡，言谈间透露厌世的想法，苏怡担心，告知亦琛，亦琛连忙找以珊。以珊在家中服药自杀，幸亦琛及时赶到救回其性命，亦琛痛心她不爱惜自己，令云志不能安息。
+
+以珊须留院接受心理辅导，苏怡探望她，劝以珊为了爱她的人应珍惜生命，以珊终醒悟。时云志出现，见她情况好转，终于放心与她告别，以珊虽失去爱情，但仍拥有亲情和友情，决定开始新生活。以珊重新振作，探望苏怡，为她打气，但苏怡的病情不断恶化，经常晕倒，医生指除非她能及时接受换心手术，否则活不长。亦琛知道后，感晴天霹雳，不能接受苏怡快离他而去，以珊在旁支持。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1574</width>
+        <height>1072</height>
+        <durationinseconds>2642</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E39.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="39" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

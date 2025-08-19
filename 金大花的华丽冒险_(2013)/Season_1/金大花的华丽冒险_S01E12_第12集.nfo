@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第12集</title>
+  <originaltitle>第12集</originaltitle>
+  <showtitle>金大花的华丽冒险</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>4565192</id>
+  <uniqueid default="false" type="tmdb">911318</uniqueid>
+  <uniqueid default="false" type="trakt">919452</uniqueid>
+  <uniqueid default="true" type="tvdb">4565192</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>盛大工地发生抗议事件，群情激愤的居民完全不愿意听欧阳泰解释，大花凭藉着出身社会底层的勇气，跳出来想为Terry平息众人怒气，她能顺利化解这场风波。这场抗争背后，又隐藏着什样么的危机。欧阳泰在工地冲突中受伤，大花温柔地替他擦药止痛。大花的勇敢、细心，一点一滴在欧阳泰心中累积着情愫，他不再像之前处处规范大花，而开始处处对大花好、给大花更多空间，甚至让大花回家帮妈妈过生日。在这场冒险中，欧阳泰也渐渐在改变，他会意识到自己心中真正的感情。这天是金妈五十大寿，孝顺的大花特地带着礼物回杂货店帮金妈庆生。面对杜经理频频来访及送礼，金妈会认出朝思暮想的女儿。大花能以亮妍的身份完成帮妈妈庆生的心愿。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-08-19 23:55:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2688</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[壹高清]金大花的華麗冒險.King.Flower.Ep12.1080I.Hdtv.H264.2Audio-Onehd_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

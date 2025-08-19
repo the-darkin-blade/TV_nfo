@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>金大花的华丽冒险</title>
+  <originaltitle>金大花的華麗冒險</originaltitle>
+  <showtitle>金大花的华丽冒险</showtitle>
+  <sorttitle/>
+  <year>2013</year>
+  <top250>0</top250>
+  <ratings/>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>在仑庄一带随便打听一下，谁不知道兴隆市场里有位镇市之宝，人称“水查某”的金大花。这个大花不但纤细窈窕、个性海派，而且还相当勤劳能干。五官其实也还算清秀，只可惜她的牙齿暴了一点，脸上的痣位置尴尬了一点，虽然外貌不时会被人取笑，但仍无损她在兴隆市场响亮名气。
+
+大花一家在兴隆市场经营一家南北杂货店，从小就在市场长大的她，开口说的第一句话，不是爸爸、妈妈，而是“欢迎光临”。三岁学会挑菜捡菜，五岁就能认清所有鱼摊上的种类，到了十岁已经懂得在猪肉摊上称斤论两的帮忙剁猪肉贩售。
+
+高中毕业后，大花就选择留在家中杂货店帮忙，一方面不但可以帮忙家中的生意，另一方面也好天天跟前跟后的看着她的“冠军哥”。林冠军，七岁时独立抚养他长大的母亲过世，自此成为孤儿。白天在市场附近学游民捡些过期食物或是别人不要的东西吃，晚上则在公园餐风露宿，长期营养不良的结果，小小年纪的他差点冻死在街头。当时，大花的妈妈－夏春娇，出去送货回家，偶然发现倒卧在公园一角冻得全身发紫的冠军，便把他带回家照顾。此后，春娇就把冠军当做自己的儿子般对待，不仅让他住家里、供三餐，甚至帮冠军出学费让他念书。大花也乐得多一位“冠军哥”，成天冠军哥长、冠军哥短，十足的小跟屁虫。
+
+说到这个冠军，从小还真是样样冠军，热心助人冠军、耍嘴皮子冠军、搞小聪明冠军。当然，打架落跑也是冠军。国中毕业后，冠军因为不想再麻烦大花一家，在他的坚持之下搬出了金家。他带着金家小弟金大利，以开货车四处打工维生，有时也喜欢小赌一番，成了个小混混，常常和市场老大－菜虫的手下刀哥拳脚相向，在市场里上演“打我呀，你追不到我”的戏码。
+
+不过，每次真的惹出了什么麻烦事，金家的杂货店还是他永远的避风港。长久以来，对大花家怀报着感恩心的冠军，都把青梅竹马一起长大的大花当成妹妹。然而，大花却对冠军心存邪念。喔不是，是心怀爱恋。在大花心中，冠军哥就是守护她的“白马王子”。
+
+她永远都记得高中时期，因为长相被同学取笑，并说她一定一辈子交不到男朋友时，她难过地哭着回家。冠军得知后气愤地拉着她，冲去那些耻笑自己的同学面前，一把搂过她大声说：“谁说我们大花交不到男朋友，我就是她男朋友。”从那一刻起，原本就对冠军有好感的大花更加深信，冠军哥绝对是上天派到自己身边的真爱来着。于是这些年，她一直想着要把自己珍藏二十八年的初吻、初夜献给这位从小到大的“初恋”</plot>
+  <tagline/>
+  <runtime>90</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"46593","imdb":"tt6357796","wikidata":"Q6411580","tvdb":"269612"}</episodeguide>
+  <id>269612</id>
+  <imdbid>tt6357796</imdbid>
+  <tmdbid>46593</tmdbid>
+  <uniqueid default="false" type="tmdb">46593</uniqueid>
+  <uniqueid default="false" type="imdb">tt6357796</uniqueid>
+  <uniqueid default="false" type="wikidata">Q6411580</uniqueid>
+  <uniqueid default="true" type="tvdb">269612</uniqueid>
+  <premiered>2013-01-06</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Comedy</genre>
+  <studio>Sanlih E-Television</studio>
+  <country>台湾</country>
+  <actor>
+    <name>吴慷仁</name>
+    <role>Ouyang Tai</role>
+    <profile>https://www.themoviedb.org/person/1251223</profile>
+    <tmdbid>1251223</tmdbid>
+  </actor>
+  <actor>
+    <name>賴琳恩</name>
+    <role>Yu Kai Le</role>
+    <profile>https://www.themoviedb.org/person/1257664</profile>
+    <tmdbid>1257664</tmdbid>
+  </actor>
+  <actor>
+    <name>郭书瑶</name>
+    <role>Liu Jin Xi</role>
+    <profile>https://www.themoviedb.org/person/1179171</profile>
+    <tmdbid>1179171</tmdbid>
+  </actor>
+  <actor>
+    <name>谢欣颖</name>
+    <role>Jin Da Hua / Du Liang Yan</role>
+    <profile>https://www.themoviedb.org/person/1309285</profile>
+    <tmdbid>1309285</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-19 23:55:38</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

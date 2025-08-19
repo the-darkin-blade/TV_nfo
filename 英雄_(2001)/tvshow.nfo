@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:56:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>英雄</title>
+  <originaltitle>英雄</originaltitle>
+  <showtitle>英雄</showtitle>
+  <sorttitle/>
+  <year>2001</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>1</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>该剧讲述了身负血仇的青年——燕双鹰，孤身向盘踞在关东山的日伪余孽、土匪恶霸等恶势力挑战，身经百战，历尽凶险，终于成为关东山中第一号传奇英雄。然而，面对亲人朋友和无辜百姓一个个死去，燕双鹰毅然与解放军合作，最终走上革命道路，成为了真正的英雄 。</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"136196"}</episodeguide>
+  <id/>
+  <imdbid/>
+  <tmdbid>136196</tmdbid>
+  <uniqueid default="true" type="tmdb">136196</uniqueid>
+  <premiered>2001-05-01</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <genre>Action</genre>
+  <genre>Mystery</genre>
+  <studio>Tencent Video</studio>
+  <country>中国</country>
+  <tag>燕双鹰</tag>
+  <tag>英雄</tag>
+  <tag>张子健</tag>
+  <actor>
+    <name>张子健</name>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiang Zhuqing</name>
+    <profile>https://www.themoviedb.org/person/2795057</profile>
+    <tmdbid>2795057</tmdbid>
+  </actor>
+  <actor>
+    <name>马精武</name>
+    <profile>https://www.themoviedb.org/person/64989</profile>
+    <tmdbid>64989</tmdbid>
+  </actor>
+  <actor>
+    <name>王昌娥</name>
+    <profile>https://www.themoviedb.org/person/3034851</profile>
+    <tmdbid>3034851</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

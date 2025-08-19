@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:03:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>智毅非常问题考梓博</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>四个女仔三个BAR</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3188641</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李明案审讯时，智毅传召李明太太方珍作供，最后李明罪名不成立。翠花因李明成功脱罪替师傅不值，一脸沮丧，隽烨教她打官司必须深藏不露。梓博收到廉署通知，指委员会认为无实证，建议终止对梓博的调查。梓博赠淇淇一条项链，淇淇非常喜欢，还以为梓博想与她商量订酒席、婚纱及选婚期的事。Richard在梓博的评核报告每项均予以劣评，更写上与事实不符的评语，他无法认同，不肯在报告上签署，Richard却谓会在报告正本上注明梓博已阅读。
+
+评核报告　全部劣等
+
+梓博愤愤不平，把报告副本撕掉，扔下职员证离开办公室，仲衡等同事立即拾起被撕毁的报告部分来看。梓博到法庭旁听时，幻想自己是被Richard冤枉的被告，竟不自觉高声抗辩起来，忠祥与淑芬才发现儿子在法庭内。忠祥夫妇知道儿子被上司欺压，支持梓博辞职。靖姿表示廉署曾因嘉许信的事向她求证，她看了廉署给梓博的信后，替梓博高兴。梓博虽然已辞职，但仍希望靖姿写信到高级公务员评议会，证明她写信表扬梓博属自发性，没有收受任何利益，以免Richard将来再冤枉下属。
+
+梓博不听　淇淇来电
+
+梓博因靖姿对牛奶过敏而说起一堆外星语来，靖姿却能搭上几句。淇淇来电，梓博并未接听，淇淇随即传来短讯，要求梓博十二时前必须给她覆电话。靖姿上网留言问候M31，并再送上鼓励，由于靖姿以黑天使的网名购买梓博的二手电脑，彼此至今仍不知道对方的真实身分。梓博寄信申请做见习大律师，淑芬把信封逐一察看，也逐一评价，指智毅最好，更是她的至爱。靖姿拿信给梓博时，看见梓博阅读的书，知道他要考PCLL，且想转做大律师，替他放弃本行可惜，梓博以建造大楼作比喻，让靖姿明白结构工程师与大律师相同之处。
+
+提示梓博　考试窍门
+
+靖姿以过来人的身分提示梓博应考的窍门，并愿意借出她的私人笔记及录音，又提议代为打听师傅收徒弟的意愿。梓博知道靖姿的师父竟是智毅，意外又高兴。智毅表示想随他学习须在两年前申请，靖姿已是一个例外，但仍答应给梓博面试机会。可欣的伯父急让一个住宅单位，仲衡觉得两年后才结婚，不想太早买楼。靖姿把笔记拿给梓博，梓博知道靖姿要搬屋，答应帮忙。钟点工人Mary到范家试工，智毅儿子祖贤考她处理家务的常识，他觉得满意，更即时聘用Mary……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-20 00:03:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2683</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E05.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

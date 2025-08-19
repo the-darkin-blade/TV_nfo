@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 7 集</title>
+  <originaltitle>第 7 集</originaltitle>
+  <showtitle>孤岛飞鹰</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281701</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰召集猎鹰暗杀队成员开会，说自己搞到了日本人押运黄金的具体方案。得知日本人的押运计划是车队从江海关出发后，左转驶向其美路，进入军营路后再进入华德路，到达正金银行上海分行。明明两千多米就可以到达的路程，押运车辆却要绕道折返多次转弯才到，如此大费周章，燕双鹰分析，这些黄金是日本陆军和兴亚院通过假钞套购来的，匿藏在江海关内，政府支持自己的军队印制假钞，本身就是一件大丑闻，因此日本政府不但要瞒着中国人、瞒着国际舆论，连日本人自己他们也要瞒着。</plot>
+  <runtime>37</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1908</width>
+        <height>1080</height>
+        <durationinseconds>2255</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>07_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

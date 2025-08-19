@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 39 集</title>
+  <originaltitle>第 39 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>39</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281680</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>正当李延平颇为得意时，却发现吴玉霞率领部队将小屋重重包围。原来燕双鹰已经思考出真相并策划了“请君入瓮”的好戏。虽然真相已经大白，内奸已落入法网，却没有让燕双鹰欣慰，反而担忧起来。因为李延平的暴露说明林玉仙一直是老板严森的忠实走狗，她并未弃暗投明，自己尚且被她暗算，赵雅琴以及中村有生命危险。他更担心病毒在重庆一旦散播带来的不可估量的恶果。他和吴玉霞率兵火速赶到严森的老巢——位于重庆歌乐山下的防空洞。内外夹击将藏匿在此的特务一个不剩全部抓获。同时在这里，燕双鹰击毙了他的老仇人——杀害他的爱人冯小玲（弃暗投明的原中国国民革命军上校，国民党派往关东山收编土匪的特派员，他第一个爱人——理惠的孪生妹妹）及此次冒充自己行凶的原军统七处暗杀队队长黑狼和林玉仙这两条严森的忠实走狗并抓住了严森，炸掉了所有的霍乱病菌，成功地粉碎了灭绝人性的猎鹰计划。但不幸的是，由于他的失误和赵雅琴的心慈手软，赵雅琴被林玉仙杀害，中村也为保护赵雅琴而死。在最后的胜利到来前，赵雅琴在他的怀抱中，带着燕双鹰的深情的吻和挂在她脸上的幸福笑容闭上了双眼。</plot>
+  <runtime>39</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2379</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep39_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="39" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

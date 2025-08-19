@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 5 集 燕双鹰和叶琳娜产生意见分歧</title>
+  <originaltitle>第 5 集 燕双鹰和叶琳娜产生意见分歧</originaltitle>
+  <showtitle>津门飞鹰</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310921</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰发现这里的窗框都很奇怪，上面的断茬明显是被砍断的，不是炸毁和烧坏的，燕双鹰怀疑有人留在这里，而且用这些窗框取暖，很有可能是国民党的散兵游勇，燕双鹰立刻带队进行严密地搜索。冯文朗生起壁炉，叶琳娜让孙副官他们也留在这里取暖，再负责警戒，叶母很感激燕双鹰，可是叶琳娜很讨厌他的傲慢无礼，而且这里很安全，根本不像燕双鹰想的那样草木皆兵，冯文朗也随声附和。郭大路带队来房间取暖，燕双鹰突然发现房间里有被烧焦的门窗，还有散落的烟头，而且还是湿润的，燕双鹰断定国民党的残兵败将根本没有离开，就躲在附近，时刻在等待时机，高进觉得他是多虑了，燕双鹰让郭大路派兵严密警戒，对旅馆的大门和走廊出口安排守卫，燕双鹰带高进来见叶琳娜，希望他们搬到旅馆大堂，和大家一起住，可叶琳娜却不以为然，燕双鹰觉得这里的气氛不对，危险时刻会威胁大家的安全，叶琳娜觉得他是危言耸听，就是偏执狂，她拒不接受，燕双鹰坚信自己的判断，两个人又发生了激烈地争执，燕双鹰让叶琳娜给叶洪开发电报，解除燕双鹰等人的保护，叶琳娜赌气拟了一份电文，叶母提醒她不要意气用事，孙副官也劝她不能让燕双鹰他们走，冯文朗唯唯诺诺不敢回答，但是也觉得叶母的想法是对的，叶琳娜不想助长燕双鹰的骄傲，叶母主动提出和燕双鹰说清楚，她向燕双鹰赔礼道歉，她想继续留在这个房间，燕双鹰也只好作罢。
+
+燕双鹰预感到今晚会有事情发生，就和高进进行了严密的布置，他发现街上有一辆装甲车，试着点火，竟然启动了装甲车，就是轮胎爆了，高进曾经干过皮匠，补胎对他来说不是问题，燕双鹰让李忠实和王文学将装甲车开到指定地点埋伏，又让王四江，毛青华，吴通，葛振明分别埋伏在吉普车和卡车里，燕双鹰带神枪手孙二勇来到街上继续勘察。</plot>
+  <runtime>38</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1078</height>
+        <durationinseconds>2316</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>05_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

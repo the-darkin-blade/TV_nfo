@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 15 集</title>
+  <originaltitle>第 15 集</originaltitle>
+  <showtitle>英雄</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3278085</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>大莲偷袭沈七七失败，小玲将她救下，大莲说很羡慕燕双鹰对小玲的爱。高进的进攻计划被内奸报告给沈七七，高进一行随向导郝大刚进入山寨，遭到了伏击，燕双鹰听到枪响立刻赶过去将高进救下，来到解放军驻地。小玲通知所有寨主在群仙楼开会，要在十五号一起下山攻打共产党。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>2.0</aspect>
+        <width>1666</width>
+        <height>850</height>
+        <durationinseconds>2802</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E15.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 37 集</title>
+  <originaltitle>第 37 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>37</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281678</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>赵雅琴、林玉仙和中村被押至刑场，开枪令下后，枪中却没有子弹，原来这是老板为了惊吓他们而故意安排的。老板再次要求赵雅琴制造炸弹，雅琴竟然答应了。原来雅琴心中已经有了逃走的计划，炸弹是这个计划中的重要工具。莎莉开船抵达重庆的九号码头，燕双鹰赶她回家，莎莉欲留不得，一气之下离开了燕双鹰。莎莉与父亲久别重逢，一时间委屈辛酸涌上心头，伤心痛哭。吴玉霞见到莎莉后，询问了燕双鹰的情况，并告诉莎莉燕双鹰赶走她其实是为了保护她。考虑到燕双鹰的伤势和危险处境，吴玉霞决定尽快找到燕双鹰，莎莉坚持同去，并向家人表达了自己对于燕双鹰热烈的爱。赵雅琴三人使计逼迫守卫离开他们的房间，以便偷偷制造逃跑用的炸药。老板让雅琴制造的炸弹非常特殊，它的上部留出了一定空隙，中村解释说这是为了植入病毒而特意设计的，这种炸弹能使病毒在空气中迅速传播，致使人畜大面积感染。</plot>
+  <runtime>39</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2377</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep37_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="37" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

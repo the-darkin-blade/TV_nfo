@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>十二道锋味</title>
+  <originaltitle>十二道锋味</originaltitle>
+  <showtitle>十二道锋味</showtitle>
+  <sorttitle/>
+  <year>2014</year>
+  <top250>0</top250>
+  <ratings/>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>浙江卫视官方称2014年斥资35亿发力综艺，其中将于7月份播出的美食真人秀节目《十二道锋味》，每集制作费就不下100万人民币，可谓下足了血本，腾讯视频届时也将全网独播。《十二道锋味》是由浙江卫视与英皇娱乐联合出品，以谢霆锋为主的美食节目，它开创了结合真人秀、广告片、微电影于一体的新颖节目模式，堪称“电影级真人秀”，为了找寻明星大咖口中描述的美食，谢霆锋上天下海，破风阻浪。和房祖名一起坐直升机，在浪漫的巴黎享受甜蜜下午茶，午夜的钟声敲响了赵薇和谢霆锋的神秘之约，和文章的街头自拍诠释着男人的友谊。除了主角谢霆锋外，还有赵薇、文章、房祖名等14位顶级大咖加盟节目。</plot>
+  <tagline/>
+  <runtime>65</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"126152"}</episodeguide>
+  <id/>
+  <imdbid/>
+  <tmdbid>126152</tmdbid>
+  <uniqueid default="true" type="tmdb">126152</uniqueid>
+  <premiered>2014-07-12</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Reality TV</genre>
+  <studio>Zhejiang Television</studio>
+  <studio>Youku</studio>
+  <studio>Tencent Video</studio>
+  <country>中国</country>
+  <actor>
+    <name>谢霆锋</name>
+    <profile>https://www.themoviedb.org/person/70106</profile>
+    <tmdbid>70106</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-17 22:15:45</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

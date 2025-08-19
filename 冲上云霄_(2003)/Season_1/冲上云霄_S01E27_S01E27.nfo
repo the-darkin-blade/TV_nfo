@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦琛和苏怡被嘲「忘年恋」</title>
+  <originaltitle>Episode 27</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id>4328870</id>
+  <uniqueid default="false" type="tmdb">1982465</uniqueid>
+  <uniqueid default="false" type="trakt">1851341</uniqueid>
+  <uniqueid default="true" type="tvdb">4328870</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>云志陪以珊验孕，发现她并没怀孕，二人失望。嘉露和善波热恋，但处处隐瞒，恍若偷情。志宏一家以他能成为机师为荣，其母沈丽碧更鼓励他用心赚钱，以资助一家出外旅游，志宏大感压力。志宏受训表现失准，大失信心，众人为鼓励他，约他一同驾驶小型飞机打气。浩聪和希欣临时失约，志宏失落，更没信心，亦风误会浩聪只顾拍拖，置朋友不顾，力斥他没义气。
+
+后希欣向亦风解释，原来当时雁婷因急病入院，浩聪陪同希欣到医院打点，亦风原谅浩聪。亦风和浩聪约见丽碧，向她解释志宏因想达到她的要求而感压力，其母明白，和志宏互相谅解。
+
+苏怡感很多时不明亦琛的想法，亦风开解她。志宏的表姐误会亦琛是亦风之父，嘲笑他和苏怡是忘年恋，亦琛感尴尬，暗暗检讨自己是否过于老气。云志和以珊约亦琛和苏怡到海洋公园游玩，亦琛在亦风劝告下，一身新潮打扮出现，但苏怡却为了他改穿成熟装束，二人相映成趣，被云志夫妇嘲笑。亦琛和苏怡却因对方愿为自己改变而感动，双方感情大进。
+
+善波劝苏怡约亦琛到外地旅行，但亦琛反应冷淡，苏怡不敢勉强，亦风看不过眼，劝亦琛应让苏怡高兴，亦琛答应考虑。以珊目击车祸，仗义上前救人，因而被玻璃割伤，事后才知她所救的人是爱滋病带菌者。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1568</width>
+        <height>1080</height>
+        <durationinseconds>2676</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E27.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

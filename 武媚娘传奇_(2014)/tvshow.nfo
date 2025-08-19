@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>武媚娘传奇</title>
+  <originaltitle>武媚娘传奇</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <sorttitle/>
+  <year>2014</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>7.2</value>
+      <votes>12</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>贞观十一年，武如意参加大唐后宫选举，以一支舞《兰陵王入阵曲》震惊四座，吸引了唐太宗李世民的注意。然而，春风得意的如玉惨遭奸人所害，还未承宠便被打入了冷宫。一年后，如意被放出冷宫，在宫中的地位节节攀升，这为她带来了爱情与荣耀，却也将其置于了危险之中。李世民听信谗言离开了如意，心碎的如意削发为尼发誓断绝尘缘。然而，腹中的孩子令她决心重回宫中，没想到这一决定却断送了她尚未出世的孩子的性命。复仇心切的如意转而投向了唐高宗李治，却同其产生了一段真挚的感情，永微六年，如意终于在一条血路之中攀上了皇后的宝座。</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"61988","imdb":"tt4409784","wikidata":"Q15978227","tvdb":"289782"}</episodeguide>
+  <id>289782</id>
+  <imdbid>tt4409784</imdbid>
+  <tmdbid>61988</tmdbid>
+  <uniqueid default="false" type="tmdb">61988</uniqueid>
+  <uniqueid default="false" type="imdb">tt4409784</uniqueid>
+  <uniqueid default="false" type="wikidata">Q15978227</uniqueid>
+  <uniqueid default="true" type="tvdb">289782</uniqueid>
+  <premiered>2014-12-21</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <country>中国</country>
+  <tag>tang dynasty</tag>
+  <tag>empress</tag>
+  <tag>chinese emperor</tag>
+  <tag>7th century</tag>
+  <actor>
+    <name>范冰冰</name>
+    <role>Wu Meiniang</role>
+    <profile>https://www.themoviedb.org/person/64439</profile>
+    <tmdbid>64439</tmdbid>
+  </actor>
+  <actor>
+    <name>张丰毅</name>
+    <role>Li Shimin</role>
+    <profile>https://www.themoviedb.org/person/65277</profile>
+    <tmdbid>65277</tmdbid>
+  </actor>
+  <actor>
+    <name>李治廷</name>
+    <role>Li Zhi</role>
+    <profile>https://www.themoviedb.org/person/148881</profile>
+    <tmdbid>148881</tmdbid>
+  </actor>
+  <actor>
+    <name>张钧甯</name>
+    <role>Xu Hui</role>
+    <profile>https://www.themoviedb.org/person/564891</profile>
+    <tmdbid>564891</tmdbid>
+  </actor>
+  <actor>
+    <name>李晨</name>
+    <role>Li Mu</role>
+    <profile>https://www.themoviedb.org/person/130984</profile>
+    <tmdbid>130984</tmdbid>
+  </actor>
+  <actor>
+    <name>周海媚</name>
+    <role>Consort Yang</role>
+    <profile>https://www.themoviedb.org/person/130644</profile>
+    <tmdbid>130644</tmdbid>
+  </actor>
+  <actor>
+    <name>张庭</name>
+    <role>Consort Wei</role>
+    <profile>https://www.themoviedb.org/person/1779152</profile>
+    <tmdbid>1779152</tmdbid>
+  </actor>
+  <actor>
+    <name>马思纯</name>
+    <role>Helan Minyue</role>
+    <profile>https://www.themoviedb.org/person/1476994</profile>
+    <tmdbid>1476994</tmdbid>
+  </actor>
+  <actor>
+    <name>顾语涵</name>
+    <profile>https://www.themoviedb.org/person/2752868</profile>
+    <tmdbid>2752868</tmdbid>
+  </actor>
+  <actor>
+    <name>王建国</name>
+    <role>Hou Junji</role>
+    <profile>https://www.themoviedb.org/person/2916767</profile>
+    <tmdbid>2916767</tmdbid>
+  </actor>
+  <actor>
+    <name>李解</name>
+    <role>Li Ke</role>
+    <profile>https://www.themoviedb.org/person/1910065</profile>
+    <tmdbid>1910065</tmdbid>
+  </actor>
+  <actor>
+    <name>李李仁</name>
+    <role>Li Chengqian</role>
+    <profile>https://www.themoviedb.org/person/2155170</profile>
+    <tmdbid>2155170</tmdbid>
+  </actor>
+  <actor>
+    <name>李悦溪</name>
+    <role>Crown Princess Su Mei</role>
+    <profile>https://www.themoviedb.org/person/4946839</profile>
+    <tmdbid>4946839</tmdbid>
+  </actor>
+  <actor>
+    <name>任洛敏</name>
+    <role>Eunuch Zhang</role>
+    <profile>https://www.themoviedb.org/person/2762133</profile>
+    <tmdbid>2762133</tmdbid>
+  </actor>
+  <actor>
+    <name>李翠翠</name>
+    <role>Luo Yu Shan</role>
+    <profile>https://www.themoviedb.org/person/3067385</profile>
+    <tmdbid>3067385</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 23 集</title>
+  <originaltitle>第 23 集</originaltitle>
+  <showtitle>飞虎神鹰</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3168720</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在张华浜码头，燕双鹰被包围并解除武装。李康命令葛彤押着燕双鹰到舞厅取模板和花名册。杜马跟着余茹萍来到小都会歌舞厅，余茹萍亮出燕双鹰配枪，九头这才让余茹萍和杜马踏进了歌舞厅。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>LeTV</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2607</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E23.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

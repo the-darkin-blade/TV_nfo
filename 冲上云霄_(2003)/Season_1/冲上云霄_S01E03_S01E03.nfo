@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>以珊对亦琛念念不忘</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>4328846</id>
+  <uniqueid default="false" type="tmdb">1982438</uniqueid>
+  <uniqueid default="false" type="trakt">1851317</uniqueid>
+  <uniqueid default="true" type="tvdb">4328846</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>亦风摆出长辈款，令亦琛啼笑皆非，二人针锋相对，关系恶劣，佳美和唐璜见状欲向二人讲出真相，但开不了口。佳美送上十多年的生日礼物给亦琛，母子多年误解清除。
+
+亦琛向以珊道歉，表示应忘记二人的往事，以珊同意。云志向亦琛表示想同以珊结婚，亦琛内心酸溜溜。亦琛和以珊被选为飞扬之星，负责拍摄公司宣传片，二人均不愿。拍摄当日，发生意外，以珊差点受伤，幸得亦琛奋不顾身相救，以珊对亦琛产生微妙感觉。全公司的人对亦琛的英雄救美议论纷纷，以珊若有所思。亦琛在宣传片中分享其童年梦想，以珊感动，而云志亦在片中当众向以珊示爱，以珊却有所保留。嘉露见以珊周旋在两男之间，苦恼非常，劝她应同亦琛讲清楚。
+
+唐璜带亦风到厨房参观，希望他能找到未来路向，但他只顾玩乐，令唐璜失望不已。佳美和唐璜纵容亦风，亦琛看不过眼，决定搅对抗，令父母头痛。苏怡鼓起勇气同亦琛相认，感谢当日他的帮助，并把亦琛的缘份公仔交还，亦琛知该公仔已成为她的护身符，遂把公仔送给她，苏怡芳心暗喜。以珊欲约会亦琛，向他问个明白，但苦无机会，不小心遗失手炼，刚好被亦琛拾去，亦琛把手炼交给云志。云志把手炼和他所买的公仔交给以珊，以珊感动，认为与他真有缘份，接受他的求婚。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2700</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E03.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>刘司药上吊自尽</title>
+  <originaltitle>刘司药上吊自尽</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>5082184</id>
+  <uniqueid default="false" type="tmdb">1040326</uniqueid>
+  <uniqueid default="false" type="trakt">1395768</uniqueid>
+  <uniqueid default="true" type="tvdb">5082184</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>萧蔷锦上添花，为琉璃宴献舞，但李世民并不很在意，萧蔷失望至极。李世民询问如意为何能赢却不赢物部天守，如意点出和局方能赢得人心。太医为徐慧诊治，发现徐慧所用的珐琅扇上有毒，而珐琅扇正是如意赠送的。杨妃将矛头指向韦妃，并承诺一定会向韦妃讨回公道。刘司药被内侍监抓去审查。杨长史奉杨妃之命审问刘司药，韦妃对德妃恩威并施，希望德妃帮自己布局构陷杨妃。 如意从瑞安口中得知宫中有留言说如意向徐慧下毒。而下毒的元凶是杨妃，目标本来是如意，杨妃闭门不见如意，德妃急见杨妃，要密见刘司药，几经徘徊，下决心舍弃刘司药，并坚决支持杨妃，刘司药与德妃诀别时，劝德妃可以结交武如意。 杨妃暗自得意可以凭借证词证明韦妃是琉璃宴一系列事件的幕后黑手，德妃请如意带去了韦家并未失势的消息，让杨妃得以及时收手。杨妃把琉璃宴的事都归结为刘司药与琵琶乐师的私怨，李世民顺手推舟，将德妃禁足。 如意觉得德妃冷酷无情，感叹刘司药有情有义。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2663</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep15 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

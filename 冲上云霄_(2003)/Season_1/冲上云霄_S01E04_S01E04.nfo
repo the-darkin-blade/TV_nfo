@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>云志得知以珊和亦琛关系</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>4328847</id>
+  <uniqueid default="false" type="tmdb">1982439</uniqueid>
+  <uniqueid default="false" type="trakt">1851318</uniqueid>
+  <uniqueid default="true" type="tvdb">4328847</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>亦琛看不过亦风游手好闲，经常撩是斗非，迫佳美送走他，佳美才透露亦琛和亦风是亲兄弟。亦琛大惊，叫父母向亦风解释其身世，但佳美和唐璜开不了口，以再渡蜜月为名，拖得就拖。亦琛劝亦风应决定未来路向，亦风把心一横，决定投考机师，亦琛却认为他是故意同自己斗气。
+
+亦风与浩聪和立豪因误会而相识，双方对对方不存好感。希欣在浩聪父亲的公司工作，因公司收缩被裁员，代表员工向公司追讨，遇上浩聪，浩聪对她硬朗的性格大有好感。希欣失业，在母亲雁婷鼓励下，投考机师。浩聪和立豪为了挑战自我，也投考机师。苏怡的表哥善波对飞机着迷，与亦琛熟稔。亦琛试探亦风，带他乘坐他所驾驶的小型飞机，亦风感不适，大出洋相，但反而激起他的奋斗心。苏怡知亦风是亦琛的亲人，对他加以鼓励，二人成好友。
+
+云志在罗马时无意中见到亦琛和以珊的合照，对二人的关系感疑惑，患得患失。特技人小黑赴内地表演，其妻到机场送别，依依不舍。后其妻晕倒，以珊负责照顾，得知其怀有身孕，欲劝小黑停止表演，但飞机已准备起飞，机师亦琛拒绝让他下机，几经辛苦，小黑决定留下陪妻子，以珊替他们高兴。嘉露见以珊为情烦恼，劝她应对云志专一，以珊遂致电身在罗马的云志，但云志却心事重重，没听她的电话。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2698</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E04.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

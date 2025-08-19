@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:40 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 5 集</title>
+  <originaltitle>第 5 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281642</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>林玉仙对“程汤”的身份笃信不疑并将一行人引至她的老窝安顺寨进行休整。诡计多端的“老板”接 到林玉仙的电报后却还是将信将疑，决定继续试探。通过短暂的接触，林玉仙已经被燕双鹰的成熟机智吸引，她百般向燕双鹰示好却引得逐渐对燕双鹰心生爱意的赵雅琴醋意盎然。当然，这也使得一直钟情于林玉仙的特务头目孟海马妒火中烧。孟海马借为燕双鹰一行接风之机大摆鸿门宴，纠集了一伙喽啰想让燕双鹰出丑。关东大侠出身的燕双鹰不费吹灰之力连过“毒锅取钱”“过钉板”和“火刀山”三关，孟海马目瞪口呆。接风宴不欢而散，林玉仙重新准备了酒菜款待燕双鹰一行，试图接近燕双鹰，却被燕双鹰当面揭穿——她不过是喜欢男人为她相互争斗。在鸿门宴上丢尽颜面的孟海马却贼心不死，公仇私愤齐来，他开始怀疑燕双鹰的真实身份，并发誓要置燕双鹰于死地。</plot>
+  <runtime>42</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2539</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep05_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:53:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>宏彬佳麒获悉秘密</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>爱情食物链</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3215125</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>刘鏶与莲姐是相识三十年的老朋友，二人相遇后饮茶聚旧。莲姐从刘鏶口中得知他的儿子便是柏业，心中感诧异。贵芬回到公司找柏业，柏业责备贵芬掉下父亲；刘鏶向莲姐赞赏柏业的女朋友不贪慕虚荣又识煮食。柏业与贵芬到酒楼找刘鏶，贵芬见到莲姐感到诧异，更没有与莲姐相认。莲姐不满贵芬继续撒谎，向刘鏶和柏业称赞自己女儿长得漂亮但心头高。
+
+贵芬误会佳芳争功
+
+莲姐找佳芳诉苦，将贵芬不肯相认的事告知，担心以后没有机会再见贵芬。贵芬回家，责怪莲姐不告诉她认识刘鏶，更要莲姐以后勿再见刘鏶。佳芳看不过眼，追去公园跟贵芬理论。佳麒和宏彬公园里谈心，听到佳芳和贵芬吵架，佳芳劝贵芬向柏业讲出真相。贵芬以为佳芳妒忌她独领「女神厨房」功劳，欲公开Hestia是不懂煮食；宏彬听到恍然大悟「女神厨房」的女厨神是另有其人。赛花接到收数公司追数感到害怕，宏彬教她将资料放到地下网站，让收数公司向利高追数。
+
+宏彬踢爆Hestia秘密
+
+Albert到利高公司追讨捐款，利高尽力拖延付款，其后他收到收数公司追数电话，他也拒绝缴付。赛花带刘远找利高，利高坚决不为赛花还欠款，赛花说收数公司会对刘远不利。宏彬到赛花家，赛花穿着性感向宏彬挑逗时接到刘远电话，赛花请宏彬代她接刘远回家。刘远向利高透露是宏彬教唆赛花令收数公司转向他追债，利高恍然大悟。宏彬到利高的办公室陪刘远打机时，听到莎莲娜花钱找人调查Hestia，要利高付账，利高指不会在她身上花费，莎莲娜悻悻然离开。利高见到宏彬，正要挥拳打他，宏彬因害怕说出Hestia的秘密。
+
+柏业收到神秘电邮
+
+佳麒电脑坏了借佳麟桌上电脑做功课，佳麟输入密码时宏彬偷看；佳麒做功课时，让宏彬看到「女神厨房」的档案。佳麟将金枝倒竖葱的影片交由她处置，金枝要佳麟接受责任感的挑战，既不能删除影片，又不可给人观看，同样他要金枝保护他的倒立影片，金枝答允。宏彬突然肚子痛，借走入厕所时骇入佳麟的电脑，复制「女神厨房」的毛片。佳芳走上天台为「最好味」写新菜单，被洪鱻骚扰失去灵感。刘鏶催儿子早日结婚，柏业觉得贵芬很神秘，他需要更多时间了解她。柏业收到一封神秘电邮标题是「Hestia的秘密」，更因此得悉是佳芳做Hestia煮食的幕后替手，不禁大为震惊。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1303</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.爱情食物链.Ep16.2016.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj 爱情食物链 2016 2Audio Hdtou qsv av1</title>
+  <originaltitle/>
+  <showtitle>爱情食物链</showtitle>
+  <season>1</season>
+  <episode>2016</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1303</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.爱情食物链.Ep16.2016.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2016" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

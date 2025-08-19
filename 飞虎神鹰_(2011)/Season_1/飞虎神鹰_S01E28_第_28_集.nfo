@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 28 集</title>
+  <originaltitle>第 28 集</originaltitle>
+  <showtitle>飞虎神鹰</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3168725</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>杜马和李康决定将燕双鹰等人包围西塔内，一举歼灭。杜马和李康在东塔布置了大量狙击手，准备从东塔发动进攻。燕双鹰带着宋齐四处安放炸弹，做大战前准备。燕双鹰从西塔另一侧登上西塔塔顶，浇上了汽油。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>LeTV</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>768</width>
+        <height>434</height>
+        <durationinseconds>2614</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

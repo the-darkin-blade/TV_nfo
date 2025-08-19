@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 6 集</title>
+  <originaltitle>第 6 集</originaltitle>
+  <showtitle>英雄</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3278076</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>杀手赵一平企图杀死燕双鹰，燕双鹰用自己的性命和赵一平打赌一块大洋，赌他的枪里没有子弹，最终赵一平失败。有如此身手的燕双鹰在小玲眼里难以置信。夜里，小玲用枪指着熟睡的燕双鹰，后又慢慢松开了手收起了枪。小玲深夜走出客栈，密会一个中年人，中年人毕恭毕敬称她为特派员冯小姐，并告诉她自己会尽快查出今天是谁袭击她。当小玲回到客栈，燕双鹰已经醒来并知道她出去见的是土匪刘大麻子的人。临河集上，老刀把子手下老丁杀了黄五龙的人引起双方挑衅，燕双鹰在楼上看着这一幕，小玲收编刘大麻子的计划只能推迟了。夜里，小玲、刘大麻子、老刀把子、黄五龙会面，原来白天的一幕是这几个人为对付燕双鹰合起来演的一出好戏。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>2.0</aspect>
+        <width>1108</width>
+        <height>568</height>
+        <durationinseconds>2818</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E06.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>武媚娘为救李牧跪地一宿</title>
+  <originaltitle>武媚娘为救李牧跪地一宿</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>49</episode>
+  <id>5101032</id>
+  <uniqueid default="false" type="tmdb">1040360</uniqueid>
+  <uniqueid default="false" type="trakt">1707955</uniqueid>
+  <uniqueid default="true" type="tvdb">5101032</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李治告诉媚娘他将要大婚的消息。媚娘由衷地为李治感到高兴，李治却难过于始终无法走进媚娘的内心。李世民看着媚娘的画像，深感自己已经不再年轻，为了看上去配得上媚娘，李世民第一次服用了长春丹。李治大婚大赦天下，媚娘被放出掖庭狱。李世民在婚礼上颁布了立太子的旨意，李治李治成为太子，李治妃王氏成为了太子妃。与此同时，废太子李承乾和李泰的车驾也要离开长安，李治赶去为两位哥哥送行。 媚娘跪在甘露殿外等候李世民，大婚之夜，李治思念媚娘，不愿与王玉燕圆房，反倒走到甘露殿，陪伴依旧跪在那里的媚娘。李世民伏在北境的沙盘胖睡着了，梦里，他看到了自己的尸体，李世民惊醒，得知媚娘还没有离开。李世民决定去一趟天牢。媚娘跪在甘露殿前睡着，李治来看望媚娘，媚娘拒绝李治的体贴行为，并说出不再与他相见的话，李治心痛，提醒媚娘这样跪着求李世民只会加速李牧的死亡。李世民赐下两杯酒让李牧选，李牧为让李世民放媚娘自由喝了毒酒。李世民传见媚娘，媚娘请求放过李牧。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2672</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep49 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="49" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

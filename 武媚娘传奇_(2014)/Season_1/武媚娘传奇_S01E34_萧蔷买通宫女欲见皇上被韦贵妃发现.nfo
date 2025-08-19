@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>萧蔷买通宫女欲见皇上被韦贵妃发现</title>
+  <originaltitle>萧蔷买通宫女欲见皇上被韦贵妃发现</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id>5099019</id>
+  <uniqueid default="false" type="tmdb">1040345</uniqueid>
+  <uniqueid default="false" type="trakt">1704180</uniqueid>
+  <uniqueid default="true" type="tvdb">5099019</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>徐慧落井下石，自请谢罪，说出媚娘与东宫早有来往。李世民心痛，对媚娘产生怀疑。杨妃得知媚娘最终还是站在了东宫一边，派杨长史去调查媚娘。萧蔷试图摆脱韦妃，用金子买通宫女织兰，想让她放自己离开韦妃宫殿，制造机会和李世民相遇，韦妃派人除掉了织兰，来到萧蔷床边，警告她想见李世民只能由自己来安排，然而韦妃其实并不打算让萧蔷见李世民。魏王心中悲伤，暴饮暴食，杜楚客说起太子极有可能在一月内凭侯君集的军功翻身，魏王决定不给太子任何东山再起的机会，调转枪头对准了侯君集。太极殿上，魏王授意臣子上奏弹劾太子，魏征带病上朝，打乱了魏王的计划。媚娘听说魏征上朝，赶去见魏征，把太子要谋反的事告诉了魏征。魏征非但没有像媚娘期盼的那样阻止太子谋反，反倒请媚娘带话给太子，可以逼宫。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2657</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep34 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

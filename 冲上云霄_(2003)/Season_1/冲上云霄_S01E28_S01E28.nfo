@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>以珊回避云志</title>
+  <originaltitle>Episode 28</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id>4328871</id>
+  <uniqueid default="false" type="tmdb">1982466</uniqueid>
+  <uniqueid default="false" type="trakt">1851342</uniqueid>
+  <uniqueid default="true" type="tvdb">4328871</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>以珊怀疑感染爱滋病，担心不已，致电告知亦琛，亦琛安慰她，并劝她与云志商量。以珊难以向云志透露真相，并对他多番逃避，云志莫名其妙。亦琛挂心以珊，常陪伴她到医院检查，遂向苏怡推托外游之事，苏怡失望。希欣和浩聪热恋，亦风黯然，决定搬走，志宏和立豪知他是因希欣而走，二人对话被浩聪听到。浩聪带希欣回家见父母，世昌却不喜欢希欣，浩聪对父亲不满。
+
+云志荣升为机长，众人为他开庆祝派对，以珊挂心病情，无心替他庆祝，亦琛劝她应向云志坦白，以珊以不想扫兴为由而拒绝，实质她也不明白为何要对丈夫隐瞒。云志有感以珊有心事，细心向她查问，但以珊处处回避，云志失望。云志发现以珊服用药物，暗暗抄下药名向药剂师朋友查询，发现是抗爱滋病的药物，感震惊。
+
+亦琛陪以珊去医院看病理报告结果，证实以珊并未受感染，以珊如释重负，与亦琛相拥痛哭，二人拥抱状却被云志见到，云志一怒之下离去。以珊回家向云志坦承过去的日子因怕受爱滋病感染而逃避他，希望他能体谅，云志却反问她为何对他隐瞒，反跟亦琛坦白，是否对他余情未了？以珊无言以对。
+
+云志感烦恼，找咪咪诉苦，咪咪劝他一是要以珊选择，一是自动放弃，云志不知如何是好。此时，以珊心中所想的是亦琛多于云志，感困惑。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1574</width>
+        <height>1080</height>
+        <durationinseconds>2682</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

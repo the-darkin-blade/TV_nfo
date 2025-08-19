@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:01:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>夏晨向「PPP」学员讲学</title>
+  <originaltitle>夏晨向「PPP」学员讲学</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586979</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>志宏在回家时遇到芮嘉，并对之前利用出轨的事要胁芮嘉表示内疚，芮嘉不以为然，并邀请志宏入屋，当志宏安坐在大厅的时候，芮嘉突然在房中拿出一件性感睡衣，登时吓坏志宏。原来芮嘉拿出来的性感睡衣，就是当日她特别带往垦丁的那一件，但是却从未使用过，原因是芮嘉和日东的婚姻生活因太平淡而出现问题，两人已经与对方失去了感觉。志宏虽然给与了一些意见，但看来没有甚么帮助。
+
+夏晨主动　扮演苏怡
+
+亦风成功邀请夏晨为「PPP」进行讲学，并安排与亦琛见面。亦琛看见夏晨，虽然意识到和苏怡是两个是截然不同的两个人，但是也难掩心中的忐忑，之后夏晨到达训练中心，为「PPP」学员进行飞机维修的讲学，表现出维修员专业的一面。而年希第一次见到夏晨，令她又有了新的念头，认为亦琛和夏晨相遇是缘分的安排。
+
+讲学结束后，年希借故拉开亦风问及亦琛和苏怡的事，知道了亦琛原来对外宣称苏怡是死在她怀里的，此事令年希很困惑，因为当年在机场，苏怡死的时候身边明明一个人也没有。之后夏晨和亦琛独处，夏晨觉得亦琛心中有些说话想对苏怡说，便自愿扮演苏怡，让亦琛说出藏在心底的话……
+
+日东婚姻　亮起红灯
+
+日东和亦琛相约在酒吧，日东谈起了自己和前女友重遇并见面，同时向亦琛表示自己和芮嘉的婚姻生活出现问题。另一方面，志宏在台湾的女友丽安来了香港并想报考Skylette空中服务员，令志宏大为紧张，芮嘉为了让志宏心安，便建议他找算命师傅问一问姻缘，而芮嘉也陪同志宏一起前往。算命后，算命师傅认为芮嘉需要主动修补关系，否则夫妻缘分必然早尽，但是芮嘉却不以为然，感觉就像是对这份感情再没有所留恋。
+
+分组作业　问题产生
+
+亦琛为「PPP」的学员安排了一份报告作业，并将学员分为两组。但是，在报告进行到一半的时候，年希却遗失了一份重要的笔记，而与年希同组的少雄因为对航空充满热忱，得到学员们认同并推举为组长。之后少雄等人迟迟未见年希出现小组会议，子麟便外出找寻年希，才知道年希遗失了重要的报告笔记，之后子麟和少雄为了年希能补回笔记内容，三人再次冒险潜入飞机库……
+
+年希成为　众矢之的
+
+年希成功补回资料后回到课室，发现日梦的小组和自己的小组对骂，原来日梦组别在电脑中的报告档案被人偷偷删除，知道年希之前遗失了笔记，故怀疑是年希所为，为了拖慢小组的进度……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2650</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E14.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

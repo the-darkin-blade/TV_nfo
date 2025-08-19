@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>武媚娘被除去才人称号</title>
+  <originaltitle>武媚娘被除去才人称号</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>40</episode>
+  <id>5099025</id>
+  <uniqueid default="false" type="tmdb">1040351</uniqueid>
+  <uniqueid default="false" type="trakt">1704186</uniqueid>
+  <uniqueid default="true" type="tvdb">5099025</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李牧给媚娘描绘了离开宫廷后的美好生活，媚娘虽感动却并不向往，她向李牧坦诚已经爱上李世民，且她已不同于还是少女的如意。李牧也感到了媚娘的不同，心中苦涩。李治找到媚娘，媚娘为保全自己，劝说李治为李世民解忧，成为太子，李治不愿涉身权谋纷争，媚娘无法，恳请李治为她成为太子。 戴青调查太子谋逆一案，再次还媚娘一个清白，然而李世民却没有看卷宗，褫夺了媚娘的才人封号，罚她去清宁宫抄古籍悔过。 杨妃从李世民的举动中看出他对媚娘还有怜悯之情，杨长史想趁机推李恪上位，杨妃却说时机未到，应该不作为。 李世民与长孙无忌密议除掉韦氏的事情，伺候笔墨的徐慧走出御书房想要偷听却未能得逞。长孙无忌查出韦氏背后的黑手竟然是李泰，入掖庭狱刺杀媚娘的刺客也是韦妃派去的。李世民慨叹李泰的不知足。李世民与李绩、侯君集在凌烟阁大啖烤羊肉，侯君集自尽。徐慧送密信给萧蔷，告诉她时机已成熟，萧蔷服食五行草。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2675</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep40 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="40" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

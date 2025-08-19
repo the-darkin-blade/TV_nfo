@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>以珊与云志同飞</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>4328859</id>
+  <uniqueid default="false" type="tmdb">1982454</uniqueid>
+  <uniqueid default="false" type="trakt">1851330</uniqueid>
+  <uniqueid default="true" type="tvdb">4328859</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>苏怡借意到亦琛的房间偷看他的东西，欲多了解他，唐璜见状，劝亦琛应注意身边的好女孩，亦琛仍对以珊念念不忘，叫唐璜不要多事。亦琛见云志为以珊所布置的房间，自觉不应骚扰二人，决定打消念头。以珊申请做空姐，希望跟云志一同飞行，愿重新接受训练，云志知道后感动，情不自禁拥吻以珊，亦琛见状羡慕不已。
+
+怪人多次骚扰苏怡，亦琛保护她，事件闹大要报警备案，嘉露怒斥苏怡，苏怡内疚连累亦琛，亦琛反担心她的安全。后怪人竟绑架苏怡，更致电亦琛，亦琛到场救人，被怪人所伤，幸警方及时赶到，二人有惊无险。苏怡和亦琛虽受惊，但同情怪人，亦琛感苏怡心地善良，苏怡感激亦琛舍身相救。
+
+亦风知苏怡对兄长有意，劝她应主动出击，并告知亦琛将飞日本，应把握机会。苏怡到日本找亦琛，一身成熟打扮令亦琛眼前一亮，苏怡约会亦琛。苏怡向亦琛表示好感，亦琛表明只把她当妹妹，苏怡失望但仍没放弃，告知亦琛一个关于朱古力的日本故事。故事中的男女主角不顾世俗眼光和年龄的差距，相亲相爱，暗示亦琛应尝试接受年纪比他年少的她，亦琛拒绝。后亦琛得知当日原来是苏怡的生日，决定送她朱古力当生日礼物，并陪她四处游览，更答应每到一地也会买朱古力给她。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1080</height>
+        <durationinseconds>2679</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E16.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

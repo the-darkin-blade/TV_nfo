@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:53:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>柏业赏识金枝</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>爱情食物链</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3215102</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>洪鱻无法煮出佳芳的味道，感觉沮丧。高芬来到以为洪鱻欺负佳芳，强为她出头；高芬关心佳芳有否见到柏业，她打算去快餐店吃饭找机会与柏业相遇。刘鏶到快餐店巡视，看到柏业亲力亲为甚感满意；由于楼面忙得不可开交，无人清理台面，刘鏶出手收拾却扭伤腰骨。利高派人到「最好味」买苦瓜饭盒，但很多菜式均已售罄；利高气结，不小心撞着餐车弄伤腰部。刘鏶和利高两兄弟在医务所相遇，两兄弟水火不容针锋相对。
+
+金枝努力获得升职
+
+高芬到快餐店打算偶遇柏业，有女顾客妒忌她获双髀饭而大吵大闹，金枝调停亦不成功；柏业刚回来替顾客换过一碟饭平息事件，再没有理会高芬。有戴口罩顾客故意留下纸袋在台底，不久食环署因接到投诉，谓快餐店有蟑螂。柏业大为紧张，陪同两位督察巡视。而金枝和柏业同时发现蟑螂踪影，金枝已静静徒手捉蟑螂，但仍有一只爬上客人脚上；金枝因捉蟑螂令客人站不稳，将整盘饭菜倒落高芬身上，高芬发火闹金枝，不慎踏着菜汁而跣脚，柏业眼明手快拦腰抱着高芬免她跌倒。柏业召开员工大会，大家归咎欠缺店长照顾楼面，柏业以金枝为人正直和不畏强权为由，决定升她为店长。
+
+佳麟偷拍辣妹金枝
+
+为方便上班，金枝租了静乐的劏房。房间突然飞来昆虫，金枝徒手便捉昆虫，令静乐想起网络红爆的辣妹，以为她是有背景之人。刚巧洪鱻回来，静乐要他吓走金枝，金枝却以为洪鱻是色魔。佳芳跑上天台看看究竟，发现竟是金枝搬来同住。金枝发现房中有个苹果，不知就里把苹果吃掉，原来房中隐藏了相机更接驳到佳麟的电脑。佳麟从电脑看到金枝吃东西及倒竖葱的样子，觉得很有趣。佳芳知道佳麟偷拍金枝，要他取回相机以及毁灭证据。佳芳借意找金枝聊天，好让佳麟潜入房中取回相机。
+
+金枝佳麟互有好感
+
+入到房间，佳麟看到金枝的相片不禁对她产生好奇，连取回相机一事亦忘记得一干二净。佳芳和金枝无所不谈，金枝坦言喜欢大澳生活却苦无出路，才跑到市区找工作，更庆幸有佳芳帮忙。佳芳见佳麟尚未离开房，便跟金枝东拉西扯，但金枝要回房睡觉，佳芳立即通知佳麟，佳麟走避不及只能躲到床底，待金枝熟睡才离开房间。佳芳要佳麟删除电脑照片，佳麟庆幸相机仍保留金枝的照片。金枝换上店长新制服，水吧和楼面各同事给予鼓励，但头抽和一班厨师却对金枝单单打打，金枝忍气吞声……</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1310</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.爱情食物链.Ep05.2016.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj 爱情食物链 2016 2Audio Hdtou qsv av1</title>
+  <originaltitle/>
+  <showtitle>爱情食物链</showtitle>
+  <season>1</season>
+  <episode>2016</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1310</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.爱情食物链.Ep05.2016.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2016" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

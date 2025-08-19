@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>武媚娘欲上阵杀敌</title>
+  <originaltitle>武媚娘欲上阵杀敌</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id>5097934</id>
+  <uniqueid default="false" type="tmdb">1040340</uniqueid>
+  <uniqueid default="false" type="trakt">1698976</uniqueid>
+  <uniqueid default="true" type="tvdb">5097934</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>徐慧决定和李泰结盟，到浣衣局找到莫公公，莫公公代吴王与徐慧达成协议，徐慧在后宫竭尽所能帮他扳倒太子，吴王则一定会帮徐慧取代媚娘，独享恩宠。 李世民送神骏踏雪乌骓给太子，对太子这段时间的表现深感欣慰。李世民说出之前冷落太子是希望激起他的上进心，让他知耻而后勇，太子明白了李世民的苦心。李世民考察太子政见，太子对北境与大唐局势侃侃而谈，李世民告诉太子，为了不让北境日后成为大唐的威胁，他决心御驾亲征。李世民当着太子的面烧掉了朝臣送来指摘他和称心关系的奏折，提醒太子为稳固地位，务必除掉称心。 萧蔷在韦妃宫中过着名为养胎实被软禁的生活，行动处处受限制，韦妃对萧蔷腹中表现出的超乎寻常的关爱让萧蔷很不安。太子欲遵从李世民的话，在猎苑除掉称心，几经犹豫，却难以下手，称心却从太子射偏的箭看出太子的杀心。太子不愿牺牲知己，魏征却说太子登帝的最大敌人其实就是他自己。 媚娘在御书房找书遇见李治，李治为她找来孙子兵法。媚娘表示觉得李治已经长大了。 媚娘想陪李世民征讨北境，和他一起上战场，李世民不同意。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2666</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep29 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

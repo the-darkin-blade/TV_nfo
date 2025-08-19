@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 30 集</title>
+  <originaltitle>第 30 集</originaltitle>
+  <showtitle>大漠枪神</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310890</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>林雪被沈七七关着，燕双鹰、高进带着战士们夜袭沈七七山寨救人，却发现扑了个空，山寨空无一人。大莲计划让沈七七做二龙山的寨主，并告诉他老刀把子一年前已经死了，原来大莲趁老刀把子被人打伤的机会亲手杀死了他。老刀把子死后，大莲找自己的亲信模仿老刀把子的声音蒙混过关。现在正需要沈七七来稳固局势除掉起疑心的老丁。洞穴里，小玲正用地上的干草编织着一条长长的草绳，林雪被上面的人从洞口扔了下来。朱三愣告诉燕双鹰沈七七在临河集老刀把子山寨，燕双鹰留了张字条让朱三愣带给高进，再让高进他们去临河集。大莲告诉沈七七计划要提前，明天第一个目标杀老丁。小玲利用草绳带着林雪逃出洞穴。沈七七杀老丁行动失败，原来老丁身边还有一个神秘人在协助，而这个神秘人很有可能是当年打伤老刀把子的黑手。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1080</height>
+        <durationinseconds>2773</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>E30_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

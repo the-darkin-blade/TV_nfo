@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 9 集</title>
+  <originaltitle>第 9 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281647</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>林玉仙与赵雅琴为争得燕双鹰而产生一些摩擦，燕双鹰极力回避此事，并劝告二人将心思多用在工作上。赵雅琴心中不快却也只能听从。林玉仙却不依不饶，处处与赵雅琴为敌。并在研究具体刺杀方案时，林玉仙赌气提出冒险方案，燕双鹰当众怒斥林玉仙自私不负责任，林玉仙假意以死相逼却也被他揭穿。林玉仙气急败坏拂袖而去。燕双鹰与众人指定的刺杀计划大胆周全，老板十分满意，并责令林玉仙服从燕双鹰指挥。而此时燕双鹰却在苦苦思索“五号”暗中传递给他的那一支老刀牌香烟究竟有何玄机。老板批准了燕双鹰制定的刺杀计划，任命林玉仙为狙击手之一，并责令林玉仙向燕双鹰道歉。赵雅琴再次勇敢的向燕双鹰表达爱意，燕双鹰再也无法控制内心的情感，紧紧拥抱了赵雅琴。但是长期刻意回避情感的习惯让燕双鹰马上又回到了现实世界，这次感情的碰撞犹如昙花一现转瞬即逝，内心的纠结也让燕双鹰陷入莫名的痛苦之中。在交通站，高进将燕双鹰的刺杀计划递到了前来接头的李延平手中。</plot>
+  <runtime>41</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2518</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep09_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>辩机和尚险被李恪杀害</title>
+  <originaltitle>辩机和尚险被李恪杀害</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>57</episode>
+  <id>5106942</id>
+  <uniqueid default="false" type="tmdb">1040368</uniqueid>
+  <uniqueid default="false" type="trakt">1718925</uniqueid>
+  <uniqueid default="true" type="tvdb">5106942</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李治为媚娘的遭遇不平，媚娘却很淡然。高阳宴席上，吴王对辩机拔剑相向，媚娘出手救下辩机，并让其离开。长孙无忌依然想除媚娘而后快，房玄龄表示要遵守和李世民的约定。长孙无忌让儿子长孙冲通知萧瑀在朝堂上弹劾房玄龄，以此警告房玄龄。媚娘头疼高阳仍旧对辩机爱浓，高阳却说要轰轰烈烈的爱一场，高阳对爱情的执着打动了媚娘。媚娘与李义府秘密会面，查长孙无忌结党营私的证据。媚娘从酒肆出来，看到了李治。李义府召集寒门士子搜集了鸿胪寺营私舞弊的证据，希望可以借此牵连到长孙无忌。早朝时萧瑀参了房玄龄一本，结果是萧瑀告老还乡。李义府准备上奏，不料长孙无忌竟然自请降罪，说的就是鸿胪寺营私舞弊的事。长孙无忌迫不得已拿自己开刀，为免引起朋党慌乱，他让长孙冲去出面安抚。长孙无忌开始注意李义府此人，命长孙冲去调查李义府和他背后的人。高阳感恩于媚娘，筹划着让媚娘能和李世民见一面以解相思之苦，来找李治帮忙。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2650</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep57 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="57" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

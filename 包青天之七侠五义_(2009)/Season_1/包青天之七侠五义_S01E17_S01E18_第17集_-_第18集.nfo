@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第17集</title>
+  <originaltitle>第17集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187914</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>包拯确认艾政之死是冯浩为夺妻所设之计策，叶芳得知后痛不欲生，艾虎更难接受母亲改嫁冯浩，叶芳对自己委身事仇之举自责不已，更觉难以再面对两个女儿，终服毒而死，冯浩亦自戕身亡。包拯查明艾政冤死真相，只剩黑妖狐智化未曾到案，艾虎猜到风婆婆乃易容改扮，面对亦师亦仇之人，艾虎手中断刀却难以下手，终于艾虎将一具面孔陌生的尸体送至开封府，背着叶芳骨灰与玉蓉、田妈同返故乡安葬。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>1081-06-17</premiered>
+  <aired>1081-06-17</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep17-18.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第18集</title>
+  <originaltitle>第18集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187915</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>欧阳春与元贞两情相悦互许终身，孰料元贞被选为进贡宋国的特使，即为确保两国和而不战的人质，两人婚事难谐，欧阳春黯然离去。元贞带着汗血宝马进贡途中，突遭袭击被劫，包拯受命尽速破案，并暂时封锁消息。抓走元贞之人即靖边侯郭亮，当年与元昊交锋多次，两人亦敌亦友，但两国谈和之后，将军埋剑，徒留壮志，在得知元昊竟将跨下珍贵座骑都欲送给宋国之后，郭亮竟起心动念劫去贡马与特使，意欲重启两国战端，令将军重回战场。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>1081-06-17</premiered>
+  <aired>1081-06-17</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep17-18.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

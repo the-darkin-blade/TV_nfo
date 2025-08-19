@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>浩聪终得希欣芳心</title>
+  <originaltitle>Episode 25</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>4328868</id>
+  <uniqueid default="false" type="tmdb">1982463</uniqueid>
+  <uniqueid default="false" type="trakt">1851339</uniqueid>
+  <uniqueid default="true" type="tvdb">4328868</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>众机师再到澳洲受训，浩聪准备了情侣手镯送给希欣，但希欣却带亦风所送的音乐盒同行，亦风见状若有所思。立豪和志宏刻意为浩聪和希欣制造机会，浩聪乘酒醉向希欣示爱，更强吻她，希欣大怒离去。众人接受喷射机飞行训练，浩聪约希欣到沙滩见面，希欣欲避开他，而亦风亦避见希欣，希欣和亦风知彼此萌生爱意，但不想伤害浩聪，不知如何是好。希欣决定跟浩聪说清楚，途中遇上亦风，亦风用单车送她去，二人各怀心事。等待中的浩聪遇上交通意外受伤，但为了等希欣，宁愿先见她再求医。
+
+希欣到沙滩，见到受伤的浩聪，不禁被他的痴心感动，立即送他到医院求诊。浩聪伤势不重，但发现他准备送给希欣的情侣手镯遗留在沙滩，亦风自告奋勇代为找寻。亦风在沙滩上见到浩聪为希欣所砌的石堆，知道浩聪的情深，决定放弃希欣。希欣到来找亦风，亦风向她展示石堆，希欣感动，决定接受浩聪的爱。希欣戴上情侣手镯，浩聪大喜，立豪等替二人高兴，亦风黯然。
+
+云志和以珊感情佳，常有拍拖新点子，苏怡羡慕不已，云志建议四人一同去露营，苏怡兴奋。出发当日，苏怡发烧，但为免失约，硬撑着起行。亦琛知她不适，对她格外照顾。苏怡告诉亦琛渴望看到日出，亦琛背着她去看，令苏怡感动，二人感情大增。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1568</width>
+        <height>1080</height>
+        <durationinseconds>2673</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E25.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

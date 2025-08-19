@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 11 集</title>
+  <originaltitle>第 11 集</originaltitle>
+  <showtitle>孤岛飞鹰</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281706</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>调头要走的日军被炸弹袭击，他们紧接着又被重武器攻击，青木建议冲上去，李志群想先保护黄金，日军保护铁甲车返回江海关，李志群看出对方不想全力进攻，他率人留下来阻击。燕双鹰坐在咖啡馆里等待日军铁甲车的到来，严韵谣的到来让他很意外，燕双鹰这才知道咖啡馆是她的，他有些紧张，严韵谣看他有些奇怪，她支开了服务员萍萍，燕双鹰让她马上离开，已经来不及解释了。燕双鹰听到日军汽车声音后引爆藏在黄包车上的炸弹，炸弹响后朝青木的车飞过去，装有黄金的装甲车也被燕双鹰开走，青木受伤后从车里爬出来。</plot>
+  <runtime>37</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1908</width>
+        <height>1080</height>
+        <durationinseconds>2234</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

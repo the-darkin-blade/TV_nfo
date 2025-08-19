@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第20集</title>
+  <originaltitle>第20集</originaltitle>
+  <showtitle>金大花的华丽冒险</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>4565200</id>
+  <uniqueid default="false" type="tmdb">911317</uniqueid>
+  <uniqueid default="false" type="trakt">919460</uniqueid>
+  <uniqueid default="true" type="tvdb">4565200</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>大花答应了Terry的求婚，两人再度拍婚纱有着和之前截然不同的感受!看着大花深情凝望、露出甜甜的笑容，Terry也终于感受到幸福再次降临。这一次，两人真的能珍惜眼前的那个人，再也不分开。大花和Terry真的要结婚了，收到喜帖的冠军哥心中真是悲喜交加。虽然一切都照着他的发展，冠军心中却也不免心酸，他真的能坚持到最后，眼睁睁地看着大花和别人步入礼堂。就在婚礼当天，晓菲居然后悔帮助冠军，扬言要立刻揭发真相!就在冠军忙着安抚晓菲之时，居然被阿喜听到。这下子，事情越来越复杂，大花和Terry这对终于获得幸福的恋人，真的能走到红毯终点，许下对彼此的承诺，完成终身大事。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-08-19 23:55:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2680</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[壹高清]金大花的華麗冒險.King.Flower.Ep20.1080I.Hdtv.H264.2Audio-Onehd_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

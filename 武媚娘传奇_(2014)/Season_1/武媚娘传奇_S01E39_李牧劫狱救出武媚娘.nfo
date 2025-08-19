@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李牧劫狱救出武媚娘</title>
+  <originaltitle>李牧劫狱救出武媚娘</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>39</episode>
+  <id>5099024</id>
+  <uniqueid default="false" type="tmdb">1040350</uniqueid>
+  <uniqueid default="false" type="trakt">1704185</uniqueid>
+  <uniqueid default="true" type="tvdb">5099024</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李治晕在雨中，李世民得知是媚娘之策，于是到掖庭狱中见媚娘，媚娘说这么做是要找新的靠山。李牧遭人围杀，杨长史带人救出李牧，获得李牧信任。李世民下定决心废太子，却不公布天下。李世民摘掉《击鞠射菊图》，想从心里斩断对媚娘的情意。韦妃派人先入掖庭狱杀害媚娘。李治求杨妃救救媚娘，杨妃把贤灵宫令牌交给李治，让他陪着媚娘直到媚娘被提审。李世民脑子一直在媚娘的事情上打转，国事却听不进去，他决定亲自审问媚娘。狱丞为韦妃的人拖延时间不放李治李牧进去，媚娘梦到李世民扼住了她的喉咙，实际却是韦妃派来的人想用白绫勒死媚娘。李牧及时赶到，救下了媚娘，但因失血过多晕倒，李世民派太医全力救治两人。李治在昏迷的媚娘守候。杨长史为李牧送去新的身份背景资料，靠着对资料的熟记，李牧躲过了李世民的盘问。韦妃害怕狱丞会供出杀害媚娘的幕后主使是自己，春盈表忠心，二人对话被萧蔷听到。 徐慧假意自责，媚娘仍把徐慧当好姐妹，说出了李牧的身份。 李牧向媚娘说出杨妃的救命之恩，更说出此行目的是想带媚娘离开宫廷。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2668</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep39 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="39" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

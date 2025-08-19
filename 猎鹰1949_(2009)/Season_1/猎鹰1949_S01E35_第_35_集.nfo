@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 35 集</title>
+  <originaltitle>第 35 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281676</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>林玉仙终于找到了钥匙启动了快船，船并没有开得太远，因为他们还要等待燕双鹰。燕双鹰将敌人引至老屋，他吃惊地发现莎莉并没有按照他的嘱咐离开此地。燕双鹰与王主任一众敌特展开厮杀，王主任被他击中。阴险毒辣的黑狼突然出现，劫莎莉为人质。燕双鹰佯装莎莉对他毫无用处，给黑狼施加压力，黑狼只好提出两人各留一颗子弹进行决斗。黑狼使诈，却敌不过燕双鹰的神机妙算，被后者击中，然而燕双鹰也负了伤，偷袭他的是未死的王主任。燕双鹰追问王主任阴谋内幕，王主任告诉他另一个内奸是吴玉霞。正在此时，吴玉霞率部队赶到。当着吴玉霞的面，燕双鹰击毙了王主任，吴玉霞正欲枪毙燕双鹰，莎莉挺身而出保护了燕双鹰并告诉她内奸是王主任。吴玉霞最终放走了燕双鹰，并对别墅内的凶杀现场进行了详细的检查和分析，最终得出的结论：燕双鹰不是凶手。同时感觉到赵雅琴等也参与了进来。莎莉带着燕双鹰来到码头时，却发现船已开走，原来是黑狼将雅琴三人劫持。莎莉只得找到另一条船，身负重伤的燕双鹰命悬一线。莎莉找来医生到船上为燕双鹰疗伤，来者不是别人，正是红星医院的孙医生。</plot>
+  <runtime>40</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2403</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep35_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

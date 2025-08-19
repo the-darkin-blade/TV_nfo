@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦琛视力受损</title>
+  <originaltitle>Episode 21</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id>4328864</id>
+  <uniqueid default="false" type="tmdb">1982459</uniqueid>
+  <uniqueid default="false" type="trakt">1851335</uniqueid>
+  <uniqueid default="true" type="tvdb">4328864</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>以珊和亦琛想起往事，不禁感到尴尬，离开时亦琛为救以珊不慎被击伤头部。以珊和卓芝返港，云志早作准备，以珊答谢云志为她所做的一切，并表示对他的爱意。亦风告知众人决定辞职，众感愕然。亦琛荣升首位华人机长，成为传媒焦点，但亦琛却希望保持低调，专注做好飞行的工作。苏怡与亦琛讲了一个关于彩虹的故事，问他有否看过彩虹的尽头，但亦琛却对她解释是科学现象。云志告诉亦琛，他的彩虹正是以珊，亦琛若有所思。亦琛挂念苏怡，给她买朱古力。回程时，亦琛突然感视力模糊，幸无碍降落，但亦琛心知不妙。
+
+亦琛往医院检查，发现因上次在罗马受伤，令脑部积了瘀血，虽没生命危险，但会影响其飞行工作，亦琛痛心。亦风告知家人决定辞职，父母感可惜，但支持其决定，唯亦琛因自己被逼要中断机师生涯，而亦风却不懂珍惜，感心淡。
+
+亦琛向以珊透露病情，以珊难过，请云志安慰亦琛。亦风和云志知亦琛病情，深信亦琛会为乘客安全而放弃机师工作，但亦琛竟准备出发。云志四出找寻亦琛加以阻止却联络不上他。时亦琛正与苏怡谈天，苏怡谓她所以崇拜机师是因为机师常以乘客安全为首要任务，亦琛听后有所决定。亦风终于找到亦琛，劝他停飞，亦琛表明已决定停飞，亦风安心，但当亦琛向公司提出前，云志已把亦琛的情况向公司汇报，亦琛被指责。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1568</width>
+        <height>1074</height>
+        <durationinseconds>2686</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E21.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

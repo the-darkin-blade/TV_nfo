@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 2 集 燕双鹰缴获敌人重要文件</title>
+  <originaltitle>第 2 集 燕双鹰缴获敌人重要文件</originaltitle>
+  <showtitle>津门飞鹰</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310917</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰看敌人走近，立刻拉起绳索，绳索带动那两只机枪扳机，向敌人不停地扫射，他们被打得措手不及，吓得四处逃窜，又被燕双鹰事先埋好的炸药炸得血肉模糊，很快被全部歼灭，只有一个将官侥幸逃脱，燕双鹰凭借敏捷的身手，和娴熟的功夫，很快将他制服。燕双鹰打扫战场，发现地下室有一个公文包，他打开里面的文件，看到军官证，才知道被捆起来的是上校云建明，燕双鹰看到文件包里有几封电报，是国民党第九兵团司令廖耀湘写给天津警备区司令，301师师长叶洪开的电报，内容是：派云建明率部下前往丰城救援。还有一封是廖耀湘命令特勤处云建明照叶洪开来电办理，务必救出叶洪开的母亲和女儿叶琳娜。就在这时，高进带队循着爆炸声来和燕双鹰汇合，看他安然无恙，他们才放下心来，燕双鹰听总部首长说过，部队接下来要在平津和华北西部有大动作，如果这些文件和天津的战事有关，那就非同小可，高进很清楚，燕双鹰天天就想着打到自己的老家天津，燕双鹰自称就是为了打仗生的，如果不打仗，他真的不知道自己能干什么。
+
+燕双鹰赶忙让高进带上文件，押着俘虏云建明交给纵队司令和政委，还让高进把红笔标注的部分，让首长重点阅看，高进不知道他葫芦里卖的什么药，就觉得燕双鹰一个区区的小营长竟敢命令纵队首长，燕双鹰竟然调侃是为首长节省时间，高进也只好照办。其实，燕双鹰早就想好了一条妙计，他想冒充云建明去完成任务。丰城战事紧张，国民党守军和东北野战军展开激战，守军不敌，只能狼狈逃窜，眼看丰城就要失手，叶琳娜和冯文朗坐的车从营口出来，就被国民党的败军堵在丰城寸步难行，叶琳娜是叶洪开的女儿，二十二岁，毕业于斯坦福大学，冯文朗是天津战区副司令冯伟俦之子，毕业于西点军校，对叶琳娜爱慕已久，叶琳娜对国民党军队不战而退的行径很不齿，冯文朗急得一筹莫展，眼看炮弹在他们的车前乱飞，叶琳娜不想再听冯文朗怨天尤人，就直接跳下车来，冒着枪林弹雨向家里跑去</plot>
+  <runtime>38</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1078</height>
+        <durationinseconds>2300</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>02_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

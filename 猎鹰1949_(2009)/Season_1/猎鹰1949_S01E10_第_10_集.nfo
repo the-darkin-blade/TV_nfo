@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 10 集</title>
+  <originaltitle>第 10 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281648</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在李延平的帮助下，燕双鹰和赵雅琴潜入礼堂装上了爆破装置，同时，燕双鹰也加紧练兵，以便狙击手在爆炸的掩护下顺利完成狙杀。特务头目张保之从彭水带回消息，说共军攻占彭水时还歼灭了一个特工小分队，老板得知此消息断定燕双鹰一行是冒充的，他决定暂时中止刺杀行动。燕双鹰和赵雅琴回到公寓发现兄弟们都不在，很快他又接到老板的通知到江边废墟见面。江边废墟中，老板布下天罗地网，燕双鹰的说辞虽然天衣无缝，甚至让张保之也无言以对，但老板认定他不是程汤。燕双鹰身处重围，老板部署在废墟中的一众枪手拉响了枪栓。在赵雅琴的爆破和狙击的掩护下，燕双鹰杀开一条血路正准备全身而退的时候，却发现自己手下所有的兄弟都早已惨死在水池中。盛怒之下，燕双鹰大开杀戒。</plot>
+  <runtime>42</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2526</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep10_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

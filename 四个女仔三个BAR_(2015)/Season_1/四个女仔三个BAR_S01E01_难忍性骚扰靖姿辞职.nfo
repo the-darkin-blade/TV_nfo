@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:03:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>难忍性骚扰靖姿辞职</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>四个女仔三个BAR</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1949167</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>内庭聆讯开庭前数分钟，Roy才发现忘记带领事馆发出的信件，要求同是见习事务律师的唐靖姿赶往律师楼取信，且须在半小时内，即聆讯结束前赶回法庭。但Roy在上司Kelvin面前，却把忘记取信件的责任推到靖姿身上。
+
+从澳洲回流的靖姿与同事Roy是跨国律师楼JR &amp; Associates的见习事务律师，他们的师傅Kelvin是个好色之徒。
+
+大律师范智毅及事务律师林森木在法庭会议室内，为一宗家佣被虐案作出庭前最后准备，智毅两名徒弟霍紫凝及齐安居协助，案中被告金太表现异常，智毅与森木商量应对之策。
+
+隽烨引导　被告认罪
+
+金太在控方大律师任隽烨的引导下承认曾虐打家佣，隽烨徒儿姚翠花对师傅十分佩服，但往往用词失当，令隽烨哭笑不得。智毅考验安居与紫凝对虐佣案的处理方法，紫凝表现出色。智毅妻子、事务律师张慧芸是林森木律师楼的合夥人，对徒儿曾可欣颇为严格，但可欣非常尊敬她。
+
+可欣与紫凝是一对感情要好的中学兼大学同学，她们在一个律师团体举办的慈善接力赛上拍照时，可欣看见好友翠花及法律专业证书课程（PCLL）的同学靖姿，邀二人一同合照。
+
+最终目标　成大律师
+
+高等法院的委任仪式上，安居、紫凝在吕官的宣布下，正式成为大律师。
+
+Kelvin经常性骚扰靖姿，甚至暗示靖姿必须讨好他，实习后才有机会继续留在律师楼。法律系学生李丹在JR &amp; Associates做暑期工，她希望请Kelvin多给她工作，让她学习更多。
+
+李丹关心靖姿何时才正式成为事务律师，靖姿表示尚有一年实习期，但她的最终目标是大律师。可欣的男友危仲衡带可欣及她的三个好友到朋友的私房菜品尝美食，紫凝其实不太喜欢翠花及靖姿，但因可欣的关系，仍不时与她们见面。
+
+Kelvin借醉　强吻靖姿
+
+四个女孩讲理想及前途，更闻说行中不少人为了上位不惜出卖色相讨好上司，紫凝自觉不用靠甚么上位，翠花直肠直肚的说若她父亲是法官，她也不用靠甚么也大有前途，令身为退休法官女儿的紫凝感不悦。
+
+李丹请靖姿代她询问Kelvin，让她在律师楼多工作一个月，靖姿认为李丹亲自问Kelvin比较好，由于李丹的暑期工是靖姿介绍的，且她又是李丹的学姊，便答应再帮李丹一次……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-20 00:03:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2697</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E01.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

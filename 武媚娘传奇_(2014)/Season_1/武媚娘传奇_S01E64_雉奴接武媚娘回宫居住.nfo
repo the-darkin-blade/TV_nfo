@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>雉奴接武媚娘回宫居住</title>
+  <originaltitle>雉奴接武媚娘回宫居住</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>64</episode>
+  <id>5109839</id>
+  <uniqueid default="false" type="tmdb">1040375</uniqueid>
+  <uniqueid default="false" type="trakt">1724285</uniqueid>
+  <uniqueid default="true" type="tvdb">5109839</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>媚娘醒来发现自己在彭婆婆的小院，宫女绿芙被指派来服侍媚娘，高阳贴心的为媚娘送来假发，媚娘重新梳妆起来。媚娘与瑞安再度相见。李义府托人送来粗糙的金碗，媚娘了解了李义府的心意却拒绝接受。李治与李恪兄弟相见，暂时无法让李恪发挥才能，感觉对不住李恪。李恪自请离开，李治挽留李恪，让他先为皇子师，留在长安。 媚娘在御花园散步。从瑞安口中得知后宫状况，巧遇在此处舞剑散心的李恪。萧淑妃得知李治接回宫的太妃就是媚娘。萧淑妃谨慎相对，备上礼物准备亲自送给媚娘。 李恪和媚娘推心置腹，希望媚娘留在李治身边照拂李治，瑞安也将李治的处境说得孤单落寞。王皇后得知萧淑妃亲自去看望媚娘，决定也去看望媚娘，提醒她谁才是真正的后宫之主。王皇后与萧淑妃齐聚媚娘的竹林雅轩，媚娘温顺内敛，两人却针锋相对，暗藏汹涌。媚娘头疼时，王德突然到来，宣媚娘去见李治。媚娘来到甘露殿，看到李治为她排演的皮影，当年大朝会上媚娘名字的由来在眼前浮现，媚娘无声的哭泣。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2656</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep64 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="64" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

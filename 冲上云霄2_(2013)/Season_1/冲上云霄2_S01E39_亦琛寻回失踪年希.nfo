@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦琛寻回失踪年希</title>
+  <originaltitle>亦琛寻回失踪年希</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>39</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5587005</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>年希再与亦琛一起同飞，但年希的散漫性格又再次在飞行时出错，也被亦琛在机上以机长身分责骂，令年希顿感不快。下机后年希和亦琛相约共膳，但亦琛也只顾谈及关于工作的事，终气得年希独自离去。但其实年希只是希望亦琛会追出来挽留自己，但年希等了良久，却也未见亦琛，反而却遇上了刚好经过的夏阳。
+
+夏阳倾听　年希诉苦
+
+年希最后决定邀请夏阳去喝酒解闷，夏阳决定奉陪。年希因为亦琛对自己的不认同，心中有郁结而在外面喝得大醉，夏阳在一旁听着年希的酒后胡言，了解到亦琛对年希的要求令年希感到有压力。亦琛见年希并没有回到酒店，连芮嘉也不知其行踪，故在外面不断找寻年希。最后亦琛终于找到有夏阳照顾着的年希，并在夏阳手中接过年希，抱她回酒店。
+
+年希亦琛　再起争执
+
+年希翌日酒醒后，亦琛为年希预备好早餐之余，也帮年希向公司请了病假，甚至顺延民航处的面试准备照顾年希，但是在年希眼中，却觉得是亦琛又再责备自己心感不快。
+
+另一方面，夏阳回到香港，在家中独自回想起以前和年希一起时的快乐回忆，之后却收到Pansy的电话要求见面。夏阳应约，并在约会期间看见有新人在影婚照，夏阳竟突然向Pansy求婚。
+
+夏阳求婚成功后，马上便向夏晨宣布自己会与Pansy结婚，但夏晨却怀疑夏阳与Pansy结婚是否出于真心，还是因为年希的关系才有此决定，夏阳却不置可否。
+
+要求复合　许下承诺
+
+夏晨希望和亦风交往，但亦风未能原谅夏晨，故此夏晨承诺能为亦风做任何事，而亦风也开出条件，夏晨亦回应一定做得到。祖思也终于乘坐飞机回台湾，之前与她同屋共住的空中服务员们特地为她送上蛋糕，希望祖思能战胜病魔，令祖思顿觉自己并不孤独。
+
+亦琛知道了爱苹在三亚发生的事情后，便邀约爱苹及华特用膳，并且特地约会格志出席。亦琛认为爱苹的母亲抛弃她并和格志无关，既然其母已经过世，也应该原谅格志。最后爱苹终于想通，格志和爱苹终能兄妹相认。
+
+夏晨为爱　改变形象
+
+亦风为自己的机长试只剩下一次机会而耿耿于怀，也因此事和亦琛出现摩擦，突然夏晨登门造访，亦风发现她经过悉心打扮并且穿上了裙子，原因是之前与亦风承诺过能够每天给他惊喜。
+
+在亦琛等人的推动下，亦风惟有陪夏晨外出约会，但是亦风明知夏晨穿了裙子不方便运动，也要求与她进行单车比赛，而输的一方要听赢的一方命令……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2663</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E39.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="39" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

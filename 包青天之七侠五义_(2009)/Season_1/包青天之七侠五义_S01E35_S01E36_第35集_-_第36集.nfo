@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第35集</title>
+  <originaltitle>第35集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187932</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>展昭被关入大牢，月华和艾虎情急下竟请出黑妖狐智化易容为公孙策，将展昭劫至丁家密室。展昭晓以大义，月华则表示若展昭一死，她也不活。梧桐着急下才说出眼见真相，众人大惊急赴定国公府。南宫权怒责玉耀不该杀死同父异母的亲弟弟，玉耀则怨恨多年来被南宫权忽视，南宫权痛心疾首，说出一番令玉耀目瞪口呆的话来。展昭等人赶至，南宫权已死在鱼肠剑下，留下铁卷丹书给玉耀保命，玉耀却追随父亲在众人面前自尽身亡全案至此了结。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered>1083-01-04</premiered>
+  <aired>1083-01-04</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2582</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep35-36.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第36集</title>
+  <originaltitle>第36集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>36</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187933</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>艾虎接获朱瑛书信，却不懂信中文言，公孙策故意开玩笑表示朱瑛要她改换女装前去相见，但事涉盐帮，令处在公门中的艾虎为如何向包拯禀报大感为难。此际包拯突然表示要回芦州老家探望抚育他长大的嫂娘，无意间为艾虎解决难题。包拯虽已是朝中重臣，嫂娘依然布衣粗食，过着恬然的田园生活引以为乐，独子包勉又远在梓州任职富顺知监鲜少回家，见包拯返乡，嫂娘大喜，亲自下厨，与包拯共享天伦之乐。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered>1083-01-04</premiered>
+  <aired>1083-01-04</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2582</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep35-36.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="36" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

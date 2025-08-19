@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 38 集</title>
+  <originaltitle>第 38 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>38</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281679</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>吴玉霞找到锦玉，并询问她燕双鹰的下落，锦玉认为吴玉霞是来抓捕燕双鹰的，因此拒绝协助他们。负伤的燕双鹰东躲西藏，最后藏身于江边一间小屋中，他仔细回忆了风雷行动实施以来的重要细节，一个惊人的答案逐渐浮出水面。锦玉和如常在江边小屋找到了燕双鹰，三人见面分外高兴。如常童言无忌，透露出锦玉对双鹰的思念之情。锦玉协助燕双鹰来到高进所在的杂货店，在如常的指引下，燕双鹰与高进终于久别重逢。燕双鹰向高进交待了押送老板的天风号被袭以来的大概情况，指出吴玉霞就是奸细，并告诉他自己的藏身之处，请他送来武器和药品。告别时，燕双鹰暗中塞给高进一张纸条，高进看后惊诧万分。此时，赵雅琴三人已经做好炸药，准备趁夜一举逃出防空洞。傍晚，高进乘着小船如约来到被芦苇所围绕的江边小屋，燕双鹰将其迎进屋。搜索队驻扎在九号码头，锦玉突然出现并要求面见吴玉霞，这令吴玉霞和莎莉颇感意外。深夜时分，雷雨将至，几条小船缓缓靠近小屋。燕双鹰被突如其来的拜访惊醒，他发现来者竟是李延平！奸细不是别人，正是第二野战军驻重庆军联处处长、风雷行动策划者和组织者之一的李紧在几个月前，自己和王连顺两人就被老板擒获，老板用生死相逼、利益诱惑的方式成功收服两人，让他们与自己一起设计挖出情报员五号。同时告诉了燕双鹰为什么会被陷害的前因后果。李延平知道得到一个像燕双鹰这样的人才很不容易所以想用少将军衔金条五百根来收买燕双鹰为老板工作。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2581</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep38_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="38" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

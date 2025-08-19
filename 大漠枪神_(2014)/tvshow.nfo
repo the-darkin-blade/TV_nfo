@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>大漠枪神</title>
+  <originaltitle>大漠枪神</originaltitle>
+  <showtitle>大漠枪神</showtitle>
+  <sorttitle/>
+  <year>2014</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>4.0</value>
+      <votes>1</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>《大漠枪神》是燕双鹰系列剧第一部《英雄》的翻拍，讲述了身负血仇的青年燕双鹰孤身向盘踞在大漠的日伪余孽、土匪恶霸等恶势力挑战，身经百战，历尽凶险，终于成为大漠一号传奇英雄的故事。面对亲人朋友和无辜百姓一个个死去，燕双鹰毅然与解放军合作，最终走上革命道路，成为了真正的英雄。</plot>
+  <tagline/>
+  <runtime>40</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"137459"}</episodeguide>
+  <id/>
+  <imdbid/>
+  <tmdbid>137459</tmdbid>
+  <uniqueid default="true" type="tmdb">137459</uniqueid>
+  <premiered>2014-02-24</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <genre>Action</genre>
+  <genre>Mystery</genre>
+  <studio/>
+  <country>中国</country>
+  <actor>
+    <name>张子健</name>
+    <role>燕双鹰</role>
+    <profile>https://www.themoviedb.org/person/2286855</profile>
+    <tmdbid>2286855</tmdbid>
+  </actor>
+  <actor>
+    <name>钱雁秋</name>
+    <role>步鹰/老刀把子</role>
+    <profile>https://www.themoviedb.org/person/1256179</profile>
+    <tmdbid>1256179</tmdbid>
+  </actor>
+  <actor>
+    <name>曲栅栅</name>
+    <role>理惠/小玲</role>
+    <profile>https://www.themoviedb.org/person/2795038</profile>
+    <tmdbid>2795038</tmdbid>
+  </actor>
+  <actor>
+    <name>苑冉</name>
+    <role>大莲</role>
+    <profile>https://www.themoviedb.org/person/2275188</profile>
+    <tmdbid>2275188</tmdbid>
+  </actor>
+  <actor>
+    <name>淳于珊珊</name>
+    <role>沈七七</role>
+    <profile>https://www.themoviedb.org/person/1457880</profile>
+    <tmdbid>1457880</tmdbid>
+  </actor>
+  <actor>
+    <name>王心圣</name>
+    <role>老丁</role>
+    <profile>https://www.themoviedb.org/person/2796167</profile>
+    <tmdbid>2796167</tmdbid>
+  </actor>
+  <actor>
+    <name>Xiaoyu Huang</name>
+    <role>林雪</role>
+    <profile>https://www.themoviedb.org/person/4892290</profile>
+    <tmdbid>4892290</tmdbid>
+  </actor>
+  <actor>
+    <name>Liang Kai</name>
+    <role>高进</role>
+    <profile>https://www.themoviedb.org/person/2796176</profile>
+    <tmdbid>2796176</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Hongzhen</name>
+    <role>燕彪</role>
+    <profile>https://www.themoviedb.org/person/3288759</profile>
+    <tmdbid>3288759</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiming Han</name>
+    <role>小渊</role>
+    <profile>https://www.themoviedb.org/person/3288760</profile>
+    <tmdbid>3288760</tmdbid>
+  </actor>
+  <actor>
+    <name>Su Gang</name>
+    <role>李魁</role>
+    <profile>https://www.themoviedb.org/person/3288762</profile>
+    <tmdbid>3288762</tmdbid>
+  </actor>
+  <actor>
+    <name>杨增元</name>
+    <role>马大炮</role>
+    <profile>https://www.themoviedb.org/person/3595396</profile>
+    <tmdbid>3595396</tmdbid>
+  </actor>
+  <actor>
+    <name>Yu Lianwei</name>
+    <role>杜奇</role>
+    <profile>https://www.themoviedb.org/person/3288764</profile>
+    <tmdbid>3288764</tmdbid>
+  </actor>
+  <actor>
+    <name>Qiang Ying</name>
+    <role>团长</role>
+    <profile>https://www.themoviedb.org/person/1898151</profile>
+    <tmdbid>1898151</tmdbid>
+  </actor>
+  <actor>
+    <name>Yinghua Yang</name>
+    <role>政委</role>
+    <profile>https://www.themoviedb.org/person/3288765</profile>
+    <tmdbid>3288765</tmdbid>
+  </actor>
+  <actor>
+    <name>Han Han</name>
+    <role>赵一平</role>
+    <profile>https://www.themoviedb.org/person/3288767</profile>
+    <tmdbid>3288767</tmdbid>
+  </actor>
+  <actor>
+    <name>Kang Kai</name>
+    <role>王松</role>
+    <profile>https://www.themoviedb.org/person/1344905</profile>
+    <tmdbid>1344905</tmdbid>
+  </actor>
+  <actor>
+    <name>李俊琪</name>
+    <role>王英</role>
+    <profile>https://www.themoviedb.org/person/3288769</profile>
+    <tmdbid>3288769</tmdbid>
+  </actor>
+  <actor>
+    <name>Qiushan Gao</name>
+    <role>刘大麻子</role>
+    <profile>https://www.themoviedb.org/person/3288771</profile>
+    <tmdbid>3288771</tmdbid>
+  </actor>
+  <actor>
+    <name>Tao Bai</name>
+    <role>武功</role>
+    <profile>https://www.themoviedb.org/person/3260398</profile>
+    <tmdbid>3260398</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

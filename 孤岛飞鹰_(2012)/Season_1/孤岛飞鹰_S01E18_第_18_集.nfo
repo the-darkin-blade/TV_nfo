@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 18 集</title>
+  <originaltitle>第 18 集</originaltitle>
+  <showtitle>孤岛飞鹰</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281715</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>黎楚雄跟青木弘一交代，他是一年前与陆军情报部合作的，开设了一家叫东亚商行的商号，表面上做批货生意，实际上是奉了陆军司令部之命私下为其用法币假钞套购黄金。陆军司令部控制了一家假钞印制厂专门印制法币假钞。听说陆军打着日本政府的名义用假钞套购黄金，而且还用海军押送，假钞泛滥，海军手中的几十亿真法币就会成为一堆废纸，青木弘一简直要气死了。他用手枪指着黎楚雄问他假钞厂在哪里。黎楚雄告诉他在吴淞区松心路四十八号五峰冶炼厂内。这时有人来报告，看守黄金的警卫被杀，装载黄金的卡车也不见了，青木弘一马上派人去追。华家浜码头，马庆云的船靠岸后，马庆云提着箱子上了岸，李志群派人盯住他。郑雅姝押着黄金回到了驻地。</plot>
+  <runtime>37</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1908</width>
+        <height>1080</height>
+        <durationinseconds>2229</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>18_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

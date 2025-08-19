@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 34 集</title>
+  <originaltitle>第 34 集</originaltitle>
+  <showtitle>孤岛飞鹰</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281732</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>出于对自己病情的考虑，今井并不想立刻除掉对自己有利章月欣。章月欣与燕双鹰一起跟踪章啸天，不料章啸天却从警察局出来后换乘坐卡车将其他人甩掉，特工部主任李志群也在暗中跟着章啸天。章啸天来到软禁严韵遥的住处，举枪指向严韵遥威逼严母说出藏宝图。</plot>
+  <runtime>38</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1908</width>
+        <height>1080</height>
+        <durationinseconds>2291</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>34_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

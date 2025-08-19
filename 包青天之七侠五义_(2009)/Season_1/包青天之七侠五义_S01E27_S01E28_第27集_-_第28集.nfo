@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第27集</title>
+  <originaltitle>第27集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187924</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>众人推敲出幕后主使人极可能便是京东王赵怡。此时包拯在公孙金针过穴后已无恙，为引出真凶，决定诈死。赵怡生性多疑，竟欲以吊唁之名开棺验尸。岂料棺内躺着的是杨牧的尸体，此时包拯现身，韦东欲抵抗遭展昭击毙，赵怡则束手就擒。仁宗不敢相信堂叔赵怡会谋反，命包拯将赵怡押解回京，此时方烈前来报告海防军情，表示高丽与契丹趁机而动，何信等人亦准备劫囚，众人急思应对之策。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>1082-04-27</premiered>
+  <aired>1082-04-27</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep27-28.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第28集</title>
+  <originaltitle>第28集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187925</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>包拯与艾虎兵分两路，何信亦将手下分为两股跟进，最后仍是包拯等人计高一筹，何信、朱野等谋士尽遭诛灭，赵怡被顺利押解进京。仁宗下令将赵怡交由大理寺卿吴明亲自主审，誓要赵怡招出同谋，包拯眼见赵怡遭受严刑拷打逼供，心中颇不以为然却碍于权责所限无法介入大理寺的审讯，公孙、展昭与艾虎见包拯为难却爱莫能助。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>1082-04-27</premiered>
+  <aired>1082-04-27</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep27-28.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

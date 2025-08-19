@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>太子带兵逼宫造反</title>
+  <originaltitle>太子带兵逼宫造反</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>37</episode>
+  <id>5099022</id>
+  <uniqueid default="false" type="tmdb">1040348</uniqueid>
+  <uniqueid default="false" type="trakt">1704183</uniqueid>
+  <uniqueid default="true" type="tvdb">5099022</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李世民到狱中看望侯君集，君臣相知，原来李世民深知战士疾苦，李世民将侯君集调任为吏部尚书，让他好好帮忙拔擢一批能臣。侯君集告诉李世民听到的关于杨妃的消息，牵连出杨妃还是隋朝公主时与当时齐王的一段旧事。 李世民为了魏征夙愿，将是否废太子一事的结果告诉了魏征。太子在称心衣冠冢前向太子妃袒露心扉，说出了与称心交好的原因，言语间道尽对李世民复杂的感情。太子妃表示不管李世民如何决定，她都一定会和太子一起承担到底。魏征出殡，棺材上披了象征不会废太子的白纱，太子和侯君集同时看见，以为李世民是要废了自己。 媚娘与徐慧也看到了棺材上的白纱，李世民看到了她掩饰下的微微激动。侯君集与太子准备起事，徐慧把从文娘处得来的字条交给李世民，李世民准备静观其变。 媚娘以为大事已定，徐慧却赶来告诉她，太子要谋反。媚娘决定去东宫阻止太子。侯君集纠集了一万叛军，太子派剑术馆的刺客先入宫刺探，媚娘到东宫阻止太子父子相残，被绑关押起来。皇宫内咽喉要道都换上了太子和侯君集的人，太子一路所向披靡，终于在承庆殿看到了久候的李世民。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2671</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep37 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="37" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

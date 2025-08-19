@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:43 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>浩聪与希欣分手</title>
+  <originaltitle>Episode 36</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>36</episode>
+  <id>4328879</id>
+  <uniqueid default="false" type="tmdb">1982474</uniqueid>
+  <uniqueid default="false" type="trakt">1851350</uniqueid>
+  <uniqueid default="true" type="tvdb">4328879</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>世昌被送入院，需接受手术，而浩聪认为自己应回家助父亲一把打理生意。浩聪舍不得希欣，找立豪帮忙，故意告诉希欣是为了输赌才追求她，希欣一听伤心欲绝，夺门而去。众人对浩聪欺骗感情大为不满，与他绝交。希欣搬回家，亦风陪同并安慰她，后悔当日让爱才令希欣受伤害。金泽向雁婷求婚，雁婷习惯单身生活，拒绝了他，时希欣回家，金泽对她加以照顾，雁婷感动，决定接受金泽。
+
+浩聪挂念希欣，众好友又离他而去，感寂寞。苏怡不信浩聪会性格突变，向他追问，但浩聪避开她。苏怡病情恶化，医生劝她入院治疗，被她拒绝，亦琛对她多加照顾，但她不想连累他而处处躲避。
+
+亦琛复职当机长，并被委托负责筹备云志的纪念专辑。亦琛问以珊索取云志旧照，以珊看回云志所送的公仔，不禁悲从中来，嘉露见她情绪不稳，劝她搬往她的家暂住，以珊答应。以珊终于听到云志死前的电话留言，云志谓他俩才是真正有缘份，并求她重新开始，以珊听到丈夫情深的话，后悔当日没珍惜他。此时以珊幻觉见到云志出现，云志劝她应放开过去，好好重新开始，但以珊却倚赖幻觉生活。苏怡和亦琛发觉以珊行为举止古怪，又反口拒绝搬到嘉露的家，特意探望以珊，但以珊却回避他们。亦琛特别留意以珊，看见她经常自言自语，亦琛感不妙，觉以珊精神有异。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1574</width>
+        <height>1080</height>
+        <durationinseconds>2665</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E36.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="36" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

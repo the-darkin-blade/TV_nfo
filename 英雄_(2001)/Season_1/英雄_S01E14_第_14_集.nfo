@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 14 集</title>
+  <originaltitle>第 14 集</originaltitle>
+  <showtitle>英雄</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3278084</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰和沈七七对峙，由于朱三愣的疏忽燕双鹰将他的一队人全歼。赵一平假死，又想杀死燕双鹰，朱三愣得知了沈七七和赵一平的诡计，倒戈到燕双鹰一方，最后再次被燕双鹰放走。沈七七和莲姑、黄五虎见面商量对付共产党的事情。解放军进入关东山剿匪，警卫连长高进的剿匪计划被团部采纳，决定由高进组建小分队歼灭沈七七匪部。莲姑和小玲一起前往白罗山，路上遇到燕双鹰，燕双鹰终于接受小玲。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>2.0</aspect>
+        <width>1666</width>
+        <height>850</height>
+        <durationinseconds>2812</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E14.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

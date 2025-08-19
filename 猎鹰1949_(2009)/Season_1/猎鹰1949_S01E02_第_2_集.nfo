@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 2 集</title>
+  <originaltitle>第 2 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281638</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>这群神秘狙击手的头目是常年在国外受训，并被毛人凤秘密遣往重庆监督执行“猎鹰计划”的少将编练官程汤燕双鹰还俘获了一个与程汤同行的女人——麻省理工毕业的军械制造专家赵雅琴。据赵雅琴交代，由于她的家人被军统特务控制，在要挟之下她被迫与程汤一同前往重庆。燕双鹰在程汤的行李中发现了有关“猎鹰计划”的信息。“猎鹰计划”到底蕴含了怎样的阴谋呢，而眼前这个貌似清白的女人似乎又与“猎鹰计划”有着千丝万缕的联系，燕双鹰不禁陷入沉思。“老板”此时也获悉，由军统局长毛人凤派往重庆监督执行“猎鹰计划”的少将编练官程汤也已经到达彭水。此时，我解放军主力已进驻重庆。第二野战军情报处处长李延平获悉，潜伏在重庆的大批军统特务由一个化名为“老板”的特务头子率领，正在策划一场暗杀行动。李延平立刻展开部署，要求情报处查明暗杀行动的计划，并严格保护打入敌特内部的我军情报员“五号”。</plot>
+  <runtime>40</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2440</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep02_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

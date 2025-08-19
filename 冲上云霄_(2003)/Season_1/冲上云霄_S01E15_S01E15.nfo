@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>苏怡主动追求亦琛</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>4328858</id>
+  <uniqueid default="false" type="tmdb">1982452</uniqueid>
+  <uniqueid default="false" type="trakt">1851329</uniqueid>
+  <uniqueid default="true" type="tvdb">4328858</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>亦琛探望以珊和云志，把童话画册送回以珊，令她高兴不已。以珊和苏怡探望新生女婴，二人感投契结义姐妹。云志的车被偷走，连同童话画册也丢去，云志紧张，四出找寻不果，以珊感失望，但见云志着紧自己也感心甜。云志按童话画册所绘，为以珊布置房间，令以珊喜出望外。
+
+亦风和希欣首次飞行，与亦琛同飞日本，浩聪当乘客随行，亦风取笑他。浩聪和亦风送礼物给希欣贺她首航，希欣珍惜亦风所送的音乐盒，却不慎遗失浩聪所送的晶石。亦风劝亦琛应找寻恋爱对象，更帮他识女孩，令亦琛感啼笑皆非，遂独自在空余时间为以珊找寻所失去的童话画册。浩聪陪希欣探望金泽，金泽鼓励她继续努力，希欣邀请他到来港，欲安排他与母亲会面。
+
+亦琛和亦风返港，亦风送上手信给苏怡，苏怡却拒绝亦风好意。后来怪人出现骚扰苏怡，亦琛出手帮忙，认作苏怡男友，打发怪人离开，苏怡甜在心头，善波劝她应采取主动，追求亦琛。
+
+众新机师分享首航经验，最特别的是浩聪，因他要飞到阿拉伯。唐璜夫妇请苏怡回家试新菜式，席间亦风取笑亦琛在日本有艳遇，苏怡一听大为紧张，多加追问，亦风会意。翌日，苏怡知有女人约会亦琛，故意跟踪，发现亦琛约会一年长女士，上前追问，原来她是亦琛的师母，苏怡感尴尬。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E15.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

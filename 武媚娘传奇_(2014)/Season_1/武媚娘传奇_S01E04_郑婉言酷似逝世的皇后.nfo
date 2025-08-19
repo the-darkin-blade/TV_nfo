@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>郑婉言酷似逝世的皇后</title>
+  <originaltitle>郑婉言酷似逝世的皇后</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>5082173</id>
+  <uniqueid default="false" type="tmdb">1040303</uniqueid>
+  <uniqueid default="false" type="trakt">1395723</uniqueid>
+  <uniqueid default="true" type="tvdb">5082173</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>武如意认为自己没有能耐作诗，并说文德皇后实则可怜之人，李世民提醒武如意私盗面罩犯了死罪，但仅是关押武如意。杨淑妃私下替武如意感到欣慰。看管牢房的一个太监故意为难武如意，武如意勃然大怒痛骂太监。太监受德妃之命给如意带来好的饭菜，此时黄辇到来，皇帝要武如意侍寝。李世民问武如意为何说已故皇后可怜，武如意反问那天跳舞那人是否是陛下。两人聊得非常投机。武如意说皇帝对文德皇后的是悔恨而不是爱。李世民罚武如意去承庆殿打扫抄女则十卷。韦贵妃得知大为恼火，说这是赏而不是罚。 武如意大难不死，许多宫女向武如意道贺，当天晚上赵公公带着几个奴仆来后宫，径直敲响萧蔷居住的房间。萧蔷故意要求武如意递杯茶水给她，徐惠代替武如意，萧蔷接过茶水故意倒在地上，武如意面无表情没有跟萧蔷争吵。郑婉言准备入宫，郑父叮嘱郑婉言想方设法吸引皇帝注意，郑婉言与文德皇后生得非常相像，引起众人注意。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2663</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep04 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:01:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>低飞表演成功登上头条</title>
+  <originaltitle>低飞表演成功登上头条</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586968</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>夏阳在路上遇上了正在偷拍自己的杂志社的女编辑Pansy，在一轮倜侃后，Pansy祝贺夏阳的表演顺利。Pansy所说的就是Skylette将举办的A330维港低飞表演，这时夏阳将会驾驶A330客机低空飞越维港。
+
+Skylette总经理家骏对此相当重视，也有心将夏阳捧成Skylette的明星，他同时也向日东表示有意招揽身为第一华人机长的亦琛。另一方面，亦风志宏等人得知夏阳将负责维港低飞表演，并打算以模拟驾驶训练作为副机长的甄选测试，亦风自信一定入选，并在家努力温习。亦风偷偷穿上了亦琛的机长服，但却被刚好经过的卓芝碰见。
+
+好友一起　争夺位置
+
+甄选当日，卓芝特别做早餐支持亦风，但当亦风意气风发地到达模拟训练室的时候，却得悉世沛及志宏两人都想参加维港低飞活动的副机长甄选试，令亦风相当不满，感到被兄弟出卖。甄选的题目是模拟在八号风球下的香港降落，首先由世沛开始，但却很快便着陆失败。之后到志宏，志宏却选择不降落。最后亦风虽然勉强但是成功着陆，但最后夏阳认为志宏的选择决断而正确，给予正面评价。
+
+亦琛开解　失意亦风
+
+甄选结束后，卓芝气冲冲的质问世沛及志宏为甚么和亦风竞争，志宏反指卓芝为何只帮亦风说话但没有照顾男朋友的感受，令卓芝感愧疚。亦风在家中也在因为甄选失败的事情闷闷不乐，最后致电亦琛倾诉，最后亦风得亦琛开解，决定找志宏一起再找夏阳，进行多一次模拟驾驶，试验过后，夏阳让志宏亦风一起担任维港低飞活动的副手。
+
+活动顺利完成，家骏为此举行祝捷酒会。在酒会期间，卓芝追问夏阳如果只可以在志宏和亦风之间只可以选一个副手会选择谁？
+
+亦琛跟随　年希观星
+
+亦琛在伦敦的报纸上也知悉了维港低飞活动成功，也被Manna问起是否心痒想重回天空，但现在亦琛却只醉心于研究芝士蛋糕，之后Manna出门，并拜托亦琛看管年希，勿让她又再次离家出走一去不回，之后亦琛将刚做好的芝士蛋糕拿给在房间休息的年希，但却被年希赶走。
+
+亦琛在街上的朱古力店中，回想起以前和苏怡一起的往事，原来到现在为止，亦琛也未能放得下苏怡。亦琛回家正好碰见带着望远镜出门的年希，之后亦琛二话不说便跟踪年希上巴士……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2662</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E03.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

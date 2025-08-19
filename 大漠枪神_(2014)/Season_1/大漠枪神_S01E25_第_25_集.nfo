@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 25 集</title>
+  <originaltitle>第 25 集</originaltitle>
+  <showtitle>大漠枪神</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310885</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>两年后，八路军一大部队经过“老伙计之墓”，欲攻入沈七七的山寨，高进报告赵团长燕彪七年前就被土匪杀害了，步云飞不知道下落，并建议在当地找一些对地形熟悉的老乡，组成一个小分队。沈七七约二龙山二当家莲姑和黄五爷要求主动出击对付共产党。赵团长命高进负责组织一支小分队，进行必要的训练之后，进山剿匪，第一个目标就是沈七七。小玲、莲姑商量着三个山寨准备联合行动，莲姑用白布蒙着脸，因此小玲并没有认出这个女人就是大莲，莲姑称从老刀把子安插在共产党的卧底那收到消息，共产党正准备要对沈七七采取行动。燕双鹰跟踪小玲、莲姑到山上，向小玲取回项链并承认自己也爱着小玲，燕双鹰轻轻地抱着小玲，莲姑充满嫉妒的望着这一幕。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2798</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>E25_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

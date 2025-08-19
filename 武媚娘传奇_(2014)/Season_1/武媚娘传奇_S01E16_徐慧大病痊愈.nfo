@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>徐慧大病痊愈</title>
+  <originaltitle>徐慧大病痊愈</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>5082185</id>
+  <uniqueid default="false" type="tmdb">1040327</uniqueid>
+  <uniqueid default="false" type="trakt">1395773</uniqueid>
+  <uniqueid default="true" type="tvdb">5082185</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李佑在殷宏智策反下，准备带齐州兵马进京。长孙无忌安插在李佑身边的谋士权万纪苦苦劝说不成，反被斩杀。如意得知德妃在对待李世民的感情一事上是个可怜人，更加关怀德妃。如意照顾徐慧，为其诵念李世民的诗文，李世民来看望如意，疲惫的如意累得睡着了，李世民把奏折都搬到徐慧殿中批阅，和如意相守一夜。一直昏迷的徐慧终于清醒过来，看到李世民和如意在自己面前的亲密互动。 齐王起兵造反，秘密行军前往长安。 不愿再失去机会的徐慧强撑病体也要和如意出席马球赛。 马球场上，皇族的女眷们都好奇地打量在琉璃宴上大出风头的才人武如意。马球场上，皇家马球队与北漠马球队激烈厮杀，皇家马球队以一分领先。木图指使手下野蛮击伤吴王李恪。在最后时刻打进扳平进球。木图要太子代替李恪比赛。长孙无忌提出以“平局”作为比赛的最终结果，更指出北漠进球在比赛结束之后。木图的幕僚阿史那思云，以真正的勇者应该智勇双全为名，出了个题目，要大唐的智者在观赏用的菊花中找出最美的那一朵。如意火烧菊花，只留下一朵，机智的解开了难题，阿史那思云心服口服。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep16 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

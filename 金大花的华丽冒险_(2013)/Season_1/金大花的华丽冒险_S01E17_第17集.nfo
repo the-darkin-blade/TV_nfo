@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第17集</title>
+  <originaltitle>第17集</originaltitle>
+  <showtitle>金大花的华丽冒险</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>4565197</id>
+  <uniqueid default="false" type="tmdb">911323</uniqueid>
+  <uniqueid default="false" type="trakt">919457</uniqueid>
+  <uniqueid default="true" type="tvdb">4565197</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>大花和欧阳泰自从假扮任务结束之后，本应各自回到自己的生活轨道，但临别前的一吻却加深了两人间的羁绊。大花回家后，常被那些在脑海中萦绕的回忆搞得心神不宁，这样想见面又怕尴尬的心情，为了拿回灰熊厉害而不得不面对Terry。没想到，这一见面，又让两人间的情愫更加温。冠军看着大花回家后却总担心着Terry，早已不是滋味。大花恢复身份后，又不断听到旁人议论大花和欧阳泰日久生情，心中更是不免起疑。当他亲眼目睹欧阳泰对大花细心呵护，他会上前捍卫自己的爱情?还是选择成全退让。大花假扮亮妍之事曝光后，不少媒体想来一探大花的私事。冠军哥的养子身分敏感，自然也成追问焦点。没想到冠军哥竟当众说大花和自己只是兄妹之情。他是在气大花和欧阳泰暧昧?还是认清了自己对大花的感情。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-08-19 23:55:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2678</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[壹高清]金大花的華麗冒險.King.Flower.Ep17.1080I.Hdtv.H264.2Audio-Onehd_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

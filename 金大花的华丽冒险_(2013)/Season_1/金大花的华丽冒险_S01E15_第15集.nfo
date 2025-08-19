@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第15集</title>
+  <originaltitle>第15集</originaltitle>
+  <showtitle>金大花的华丽冒险</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>4565195</id>
+  <uniqueid default="false" type="tmdb">911325</uniqueid>
+  <uniqueid default="false" type="trakt">919455</uniqueid>
+  <uniqueid default="true" type="tvdb">4565195</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>仑庄地产有了林总经理的加入后热闹开幕，冠军新官上任，首要任务便是处理刚标下的E22土地。背负着金标的期许，冠军去盛大，回覆急需这块土地保住总经理大位的欧阳泰，没想到冠军竟开出远超过盛大预算的天价。冠军是趁火打劫。还是因为大花而对欧阳泰进行报复。Terry能顺利完成谈判，买回土地。冠军带大花去看E22土地，两人沉浸在幸福的约会时光中，勾勒着未来的家，和小夫妻般的甜蜜生活，却不幸被杜董撞见。本就对亮妍几次拖延婚事感到疑虑的杜董，看到女儿和冠军亲暱的举动更是吃惊。他会当场发现大花假扮的谎言。这个意外又将带给因土地桉内忧外患的Terry什么压力。看着找上门的杜董，欧阳泰再也无法面对内心对亮妍的愧歉，以及一直活在谎言中的良心谴责。这一次，他痛哭跪在杜董面前，决定承担这一切。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-08-19 23:55:38</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2704</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[壹高清]金大花的華麗冒險.King.Flower.Ep15.1080I.Hdtv.H264.2Audio-Onehd_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 26 集</title>
+  <originaltitle>第 26 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281666</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>内心几番争斗，林玉仙决定向老板告发燕双鹰的真实身份。锦玉三人与燕双鹰重聚后，对他感激涕零。燕双鹰告诉他们奸细是林玉仙，并告知货物藏在龙江村往北三里的老船坞，请他们三人前往取回。燕双鹰独自来到江滩进行交易，如约而至的却不是老板，而是副官李瑞山。李瑞山通知交易地点改在了太平旅馆，燕双鹰只得随车前往。会面后，老板话中有话，燕双鹰应付自如，岂料老板当面拿出被林玉仙截下的那封电报，燕双鹰的共产党身份彻底暴露！燕双鹰威武不屈，大声道出自己的真实身份。锦玉、景标和如常取完货物后在老船坞稍事休息，哪知刘天龙率手下趁夜突袭，抢走货物。对于自己行踪的暴露，锦玉百思不得其解，景标用行动告诉了她答案：原来景标才是他们之中的奸细，他背叛霍杰，成了刘天龙门下的走狗！景标大言不惭地讲了事情的前因后果，锦玉悲愤不已，大骂景标忘恩负义。结果，刘天龙轻松夺得货物。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2609</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep26_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>才人武如意入宫</title>
+  <originaltitle>才人武如意入宫</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>5081987</id>
+  <uniqueid default="false" type="tmdb">1040285</uniqueid>
+  <uniqueid default="false" type="trakt">1395719</uniqueid>
+  <uniqueid default="true" type="tvdb">5081987</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>贞观十一年，武如意奉旨入宫。见到空的皇辇武如意没有下跪，遭到张公公叱骂。李世民在宫中操练场观赏三个王子比试武艺，看得兴起提议跟三人比试，获胜者将会获得奖励，但三人齐力对付李世民依然没有赢。李世民语重心长指点教导三个王子。张公公负责调教新入宫的才人，所有新宫女来到一处府邸接受张公公教导，一个叫萧蔷的才人大大列列向张公公自报姓名，张公公知道萧易权是皇亲贵族身世显赫。武如意暗骂张公公。韦贵妃等人来到大殿视察新才人，韦贵妃在宫女们中注意到了武如意，韦贵妃知道武如意的父亲武士彟，并当众侮辱了武士彟是一名身份低微的木才商人。贤妃走下台阶立足不稳摔倒在地上，并一口咬定是杨淑妃所为。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2648</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep01 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

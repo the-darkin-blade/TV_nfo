@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:01:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>飞行学员计划展开</title>
+  <originaltitle>飞行学员计划展开</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586971</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>夏阳因被作弄，令邻居产生误会给警察拘捕，最后要夏晨亲自往警署保释他。在一轮争吵之间，夏阳道出了和夏晨的关系，但不知是甚么原因，夏晨对夏阳存有相当深的恨意，而夏晨更反指是夏阳怕孤独才会回来找自己。夏阳不堪打击，在码头外望海沉思，一脸颓丧的夏阳被杂志记者Pansy拍下，之后夏阳主动挑逗Pansy，结果整晚也没有回夏晨家。
+
+亦风阻止　两人相见
+
+亦风自从认识夏晨后，一直考虑是否让夏晨与亦琛见面，之后亦风听从志宏卓芝等人的意见，觉得现在并不是让亦琛见夏晨的时机。之后亦风用尽了一切手段，努力地阻止亦琛遇见夏晨，令亦琛觉得亦风有事情在隐瞒自己。
+
+亦琛早已有计划发掘一些对飞行有热诚的人，去教授他们飞行知识，并培训他们成为机师，这个计划也得到好友日东和Skylette总经理家骏的支持，而日东终于为亦琛的计划找到了赞助商注资，赞助商香先生因为亦琛乃是第一位华人机师的身分而对计划充满信心，而亦琛将计划命名为「PPP（Pre-Pilot Project）」，得到了众人认同。在闲谈之间，亦得悉了香先生将乘坐亦琛负责的航机往伦敦。
+
+香生不满　停止赞助
+
+翌日，香先生登上了往伦敦的Skylette客机，并摆出了一副有钱人的架子，让空服员觉得他难以应付。香先生发现护照不见了，要求空中服务员安排下机，并要全机等他寻回护照才能起飞。虽然素心和服务员已经尽力在机上搜寻但也遍寻不获，令香先生勃然大怒，并要求见机长亦琛，但是一向以飞行程序优先的亦琛完全不卖香先生的账。虽然最后知道是一场误会，但是却令香先生决定停止赞助「PPP计划」。
+
+夏阳出手　救回香生
+
+夏阳在小型飞机场遇到了认识的飞行教练Angus，碰巧Angus的学生正好是香先生，夏阳在香先生和Angus的谈话中得知香先生决定停止注资亦琛的计划。之后两人分别驾驶小型飞机飞行，夏阳精湛的飞行技术深深吸引了香先生，突然Angus在飞行途中休克，只学过基本理论的香生吓得惊惶失措，最后幸得夏阳利用无线电教导香先生，令香先生的飞机成功降落。之后香先生为了报答夏阳，便承诺可以帮助夏阳得到他想要的任何东西。
+
+亦琛和日东走进家骏的办公室，鼓起勇气向他报告香先生停止注资计划的消息，但却发现家骏完全没有理会亦琛的说话，自顾自的为计划的宣传发表意见……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2660</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E06.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:01:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>夏阳发表男女关系伟论</title>
+  <originaltitle>夏阳发表男女关系伟论</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586967</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>亦琛为Manna助养的孤儿Zoe举行生日派对。自从亦琛的妻子过身后感到生活变得空洞，事有凑巧，亦琛的妻子也是叫苏怡（Zoe），所以亦琛特别疼爱这个Manna助养的孤儿。
+
+派对过后，亦风和亦琛相约在酒吧互诉近况，在他们闲谈之间，一名机师忘形把玩自己的机师帽，一不小心将机师帽掷中亦琛，亦琛觉得他不尊重机师的工作而当场训斥了他几句，亦风看在眼里，觉得亦琛还未完全放下机师的身分，从而借势暗示亦琛应该回归。
+
+亦琛缅怀　昔日光辉
+
+亦琛回家后看着当年机师生涯的合照，过去的回忆如走马灯般浮现眼前，也回想起当年病重的妻子。突然亦琛听到有可疑人物入屋，追出后发现是偷偷回家取东西的年希。之后Manna和年希回家重聚，年希也不断向自己的母亲撒娇，也因为之前的球衣事件与亦琛之间互相留下不好的印象。
+
+年希变卖　男友遗物
+
+翌日年希出门，被亦琛质问是否又离家出走，却被年希反指亦琛一直寄住Manna家中不回自己原本的家，令亦琛无言。年希因为缺钱，终被迫要变卖其前度男友的外套。一直以来，年希也放不下这一段感情，而男友送她的手镯也一直不肯用钥匙解开。回想起昔日的甜蜜，年希终于按捺不住，决定回头打算向二手店买回那件外套，但事有凑巧，外套被刚闲逛到二手店的夏阳买走，年希追出，成功抱住夏阳阻止他离开，并不断恳求夏阳归还外套给她。虽然夏阳初时借故留难年希，但最后夏阳也表现男士风度归还外套，之后迳自离开。
+
+飞机飞行途中，因夏阳生病不能执行机长职务，便决定由日东代替，而芮嘉也因为Cindy的飞行里数超额而代替其登机。卓芝特地告知夏阳名模Kate也乘搭这班机，夏阳登时四处张望，并遮掩面容回避目光，相当紧张。
+
+为见夏阳　刁难芮嘉
+
+其后，Kate在机长室门外大闹，要求与夏阳见面，但被芮嘉婉拒，回到座位的Kate心有不甘，假称遗失戒指故意刁难芮嘉，之后芮嘉认真地搜索，却发现原来戒指一直在Kate手中。芮嘉思想成熟，并没有即场拆穿Kate，但却寄语Kate不要太执着拥有，但Kate完全地听不入耳。其后机上遇上气流，亦风和日东冷静地控制飞机，芮嘉与卓芝等人也劝乘客扣上安全带留在座位上，但是Kate为了见夏阳而站在机长室门外不愿回去座位，也终于迫使夏阳现身……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2657</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E02.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

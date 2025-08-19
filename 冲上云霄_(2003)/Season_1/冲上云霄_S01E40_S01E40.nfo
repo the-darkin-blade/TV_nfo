@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>苏怡喜获换心</title>
+  <originaltitle>Episode 40</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>40</episode>
+  <id>4328883</id>
+  <uniqueid default="false" type="tmdb">1982478</uniqueid>
+  <uniqueid default="false" type="trakt">1851354</uniqueid>
+  <uniqueid default="true" type="tvdb">4328883</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>医生找到合适的心脏，安排苏怡接受换心手术，手术相当成功，众高兴不已。亦琛感失而复得，更珍惜苏怡。后大雄探望苏怡，告知她叮当因交通意外去世，他把她的心脏捐出，遗爱人间，苏怡感自己心脏可能来自叮当，决定为叮当要好好生存。
+
+浩聪的家族生意有好转，与希欣等见面，众人久别重逢感高兴，亦风劝他应趁机和希欣重修旧好，但浩聪认为当日因亦风让爱，他才可以与希欣结为情侣，故亦风和希欣才是一对，二人均认为不应为爱情放弃友情。希欣亦为如何选择而烦恼，向雁婷求助，她也不置可否，希欣感气结，暗自苦恼。后亦风和浩聪约希欣出来，三人表明难以选择，决定以事业为重，暂放下爱情事，做回朋友。
+
+亦琛返回工作，担任教授新学员的工作。苏怡受细菌感染突然发高烧，亦琛跑往医院探望，心情忐忑，以珊安慰亦琛。经过多番生死变故，亦琛和以珊明白二人的爱情已消逝，取而代之的是一份如亲人般的友谊，以珊决定回澳洲陪伴云志的父母，亦琛祝福她。
+
+飞扬招募新人，亦风等荣升前辈，得意洋洋，浩聪感羡慕，众人谓会等他归队。亦琛鼓励众人要加倍努力，成为一个杰出机师。苏怡为大雄叮当安排的婚礼获准，但二人却不能共谐连理，亦琛暗中把计划留为己用。苏怡出院，亦琛带苏怡回机场的跑道，向她求婚……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1574</width>
+        <height>1072</height>
+        <durationinseconds>2671</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E40.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="40" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

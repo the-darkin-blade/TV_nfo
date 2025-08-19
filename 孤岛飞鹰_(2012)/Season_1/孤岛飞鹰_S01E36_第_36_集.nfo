@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 36 集</title>
+  <originaltitle>第 36 集</originaltitle>
+  <showtitle>孤岛飞鹰</showtitle>
+  <season>1</season>
+  <episode>36</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281734</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在确认燕双鹰为忠王后裔的身份后，穆馆长将一把短刀和暗语全部交给了燕双鹰，但是宝刀只有刀身却没有刀鞘，这时燕双鹰忽然想到了在那座破庙里叫花子傻八手中的刀鞘。傻八依旧装疯卖傻，但当燕双鹰说出“刀入鞘、鞘对刀”的密语时傻八瞬间呆住，递出了怀中的刀鞘。原来傻八及其师傅已经奉忠王之命苦等尽70年，等待着这把宝刀的到来。燕双鹰第一次带严韵遥参观了自己工作的地下军火库，两人拿着忠王留下的特殊镜片回到图书馆地下暗室，终于看清了石碑上刻下的聚义堂藏宝地图和最终密语。对父亲几近绝望的章月欣带领燕双鹰再次与朱大姐会面，朱大姐已经批准燕双鹰带领猎鹰暗杀队加入共产党，猎鹰暗杀队不再单枪匹马，不但有了正规组织还正是更名为——猎鹰行动小组。</plot>
+  <runtime>35</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1908</width>
+        <height>1080</height>
+        <durationinseconds>2100</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>36_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="36" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

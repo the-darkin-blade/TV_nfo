@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 19 集</title>
+  <originaltitle>第 19 集</originaltitle>
+  <showtitle>英雄</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3278089</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>大莲想借沈七七之手消灭老丁，得到沈七七的应允。林雪和小玲被关在同一个牢房，小玲编了一条绳子并带林雪一起跑了出去。朱三愣来给燕双鹰报信，告诉他沈七七在临河集的群仙酒楼，燕双鹰让他去把消息告诉高进。晚上，大莲再次梦见老刀把子，决定尽快消灭老丁，沈七七去杀老丁失败，回来找大莲告诉她自己看到一个黑影。林雪和小玲去找大莲正好碰到高进队伍的进攻，燕双鹰将沈七七杀掉，但是林雪和小玲却被老丁带走。步鹰再次出现，并告诉他们之前的一切都是自己一手策划好的，还决定杀掉她们。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>2.0</aspect>
+        <width>1666</width>
+        <height>850</height>
+        <durationinseconds>2817</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E19.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

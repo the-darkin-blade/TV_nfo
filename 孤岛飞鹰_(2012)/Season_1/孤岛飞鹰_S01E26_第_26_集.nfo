@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 26 集</title>
+  <originaltitle>第 26 集</originaltitle>
+  <showtitle>孤岛飞鹰</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281723</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰回到舞厅后独酌，为严韵遥的处境感到难过。郑雅姝对于严韵遥的仗义之举十分敬佩，提议尽快想出对策营救严韵遥。章月欣来76号特工部看望市君，市君受宠若惊，在章月欣的请求下，市君带领她参观了特工部。章月欣利用市君见到了被关押的严韵遥。</plot>
+  <runtime>37</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1908</width>
+        <height>1080</height>
+        <durationinseconds>2275</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>26_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

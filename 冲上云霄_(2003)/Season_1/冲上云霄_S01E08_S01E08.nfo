@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>以珊再次误会亦琛</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>4328851</id>
+  <uniqueid default="false" type="tmdb">1982444</uniqueid>
+  <uniqueid default="false" type="trakt">1851322</uniqueid>
+  <uniqueid default="true" type="tvdb">4328851</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>亦风和亦琛兄弟团聚，苏怡开派对庆祝，亦琛念诗助庆，苏怡大为欣赏。希欣探望金泽，金泽也是一名机师，鼓励她为梦想努力。亦琛劝亦风小心考虑应否做机师，亦风却充满自信。云志向以珊求婚，以珊考虑之际，突然收到亦琛的短讯，心情忐忑。嘉露劝以珊不要三心两意。云志心神恍惚，向嘉露求助，但嘉露却爱莫能助。
+
+亦风回港，向父母撤娇，要求唐璜补回失去的父爱，唐璜答应。亦琛劝亦风要好好计划未来，亦风坚决向机师之路进发。云志告知亦琛将与以珊结婚，亦琛无奈但仍祝福好友，云志无意中得知以珊曾以电邮联络亦琛见面，云志一时情急，竟把以珊的邮电删去。佳美感激亦琛带亦风回来，但亦琛却担心亦风能否成为一个称职的机师。
+
+善波投考机师失败，改为投考机场打雀员。浩聪之父拒绝让浩聪当机师，浩聪不满。苏怡劝亦风不应对亦琛有偏见，亦风表明内心是极之尊敬兄长，希望透过飞机去了解他，苏怡表示支持。苏怡与善波一同探望亦琛一家，唐璜夫妇对苏怡留有深刻印象。浩聪生日，希欣送上摺纸礼物，令他高兴非常。云志前女友Mimi回港找他，遇上亦琛，亦琛告知云志已有新女友，并准备结婚，劝她放手，Mimi表示经济有困难，亦琛伸出援手，这一切却被以珊和嘉露看见。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1568</width>
+        <height>1080</height>
+        <durationinseconds>2685</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E08.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

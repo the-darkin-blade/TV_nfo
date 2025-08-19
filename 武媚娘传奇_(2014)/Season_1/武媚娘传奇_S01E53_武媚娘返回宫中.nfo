@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>武媚娘返回宫中</title>
+  <originaltitle>武媚娘返回宫中</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>53</episode>
+  <id>5103008</id>
+  <uniqueid default="false" type="tmdb">1040364</uniqueid>
+  <uniqueid default="false" type="trakt">1712482</uniqueid>
+  <uniqueid default="true" type="tvdb">5103008</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李世民强撑病体接受朝拜，回宫后就陷入昏迷，李治和徐慧探望李世民，李世民很欣慰徐慧解读对了自己的心思。他摒退众人，留下徐慧，徐慧的一身衣服让他想起了当年琉璃宴上的武媚娘。瑞安看到武媚娘，喜极而泣，瑞安告诉媚娘，徐慧整治宫人手段狠厉，比当年韦妃有过之而无不及。李世民回宫当夜宣召徐慧，宫人纷纷奉承徐慧，徐慧来到甘露殿，竟然见到了媚娘。媚娘看到徐慧激动不已，徐慧只能拥抱媚娘来掩饰自己愤恨的表情。媚娘将自己去辽东战场找李世民的事告知徐慧，媚娘见到宫女战战兢兢的样子，李义府想巴结徐慧，送信给徐慧，徐慧当着媚娘的面把信烧掉，媚娘发现徐慧真的变了。李世民考核李治，告诫其需要严厉一点。此时李治得知媚娘回来，高兴不已。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2673</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep53 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="53" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

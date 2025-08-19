@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 20 集</title>
+  <originaltitle>第 20 集</originaltitle>
+  <showtitle>大漠枪神</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310877</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>土匪头子马彪看到漫无目在路上走的大莲，想娶回去做压寨夫人。因胡大少和马大炮有买卖交易，故胡大少强压下怒火，答应将大莲送给马彪。小玲听到沈七七不停的咳嗽知道沈七七大难不死是因为从小练习忍术，因此五脏可以做小小的挪移，正是这样才逃过一劫。小玲得知马彪要娶大莲，劝诫马彪不要娶她。老刀把子建议沈七七借燕双鹰之手除掉马大炮进而取代马大炮。洞房之夜，大莲用刀刺伤马彪，称是胡大少指使。大莲、王英被马彪的人抓到猛打，大喜忍无可忍终于再次出手，燕双鹰终于回来了。胡大少、马彪死在燕双鹰的抢下。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2762</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>E20_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>年希向夏阳提出分手</title>
+  <originaltitle>年希向夏阳提出分手</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586989</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>年希离开机场后，觉得自己把话说得太过分伤害了亦琛，便致电亦琛道歉，但途中年希所乘坐的计程车却出了车祸。因为与年希通话中却突然失去联络，令亦琛担心不已，于是只好踏出机场找寻年希。
+
+最后亦琛在垦丁的医院找到了年希，看见年希只是受到轻伤而放下心头大石。但是当亦琛看见了自己是站在垦丁医院的门口时，便记起了这处就是自己当年为客死异乡的苏怡认尸的地方。亦琛的精神瞬间崩溃，了无知觉的他竟变得如行尸走肉般游荡，年希见状担心不已，便一直尾随在后。
+
+亦琛说出　当年真相
+
+原来当年苏怡怕亦琛因为自己的死而伤心，决定离家出走独自等待死亡。亦琛寻遍英国每个角落也找不到苏怡，直至收到台湾医院方面的通知，才能找到苏怡，但当亦琛到达时苏怡已经处身在殓房之中。不能在苏怡死的最后一刻陪伴苏怡，成为了亦琛一直以来的遗憾。
+
+抛下包袱　重新出发
+
+年希知道真相后意识到自己一直以来都误会了亦琛，便将当年在台湾遇见苏怡的事全部告诉与亦琛，也将苏怡的遗言说了出来，希望亦琛不要因此事继续怪责自己。之后亦琛和年希一起乘顺风车回垦丁，在亦琛离开高雄机场时，他经过了苏怡逝世的候机座位，亦琛并向幻想中的苏怡告别，亦琛终于真正地把自责的包袱放下重新出发。
+
+年希无法　忘记旧爱
+
+年希回港后因为亦琛的事让她回想起Daniel，就算年希感觉到和夏阳有如上天注定般的缘分也好，当年希看那一张张天空的相片，令她感到自己尚未能放下Daniel。年希在雨下一边回想过去一边等待夏阳，之后向夏阳提出了分手，亦不管夏阳的追问与挽留。
+
+Cadet Program正式开始，一众「PPP」的学员也全部齐集，众人更一心以成为Skylette的机师为目标。当被提及到和夏阳的事，年希很自然地表明两人已经分手，这时亦正好被路过的亦琛听见。
+
+卓芝腹痛　子麟紧张
+
+子麟在Skylette重遇卓芝，也因为卓芝在电梯突然腹痛，紧张的子麟便送卓芝前往医院检查，故此让子麟知道了卓芝怀孕的事，但卓芝却要子麟在Skylette内为她保守秘密。
+
+夏晨知道了夏阳和年希分手后，便问及夏阳的感受，夏阳便向夏晨发表了一轮爱情和友情的伟论。夏阳表面上也对和年希分手一事情完全没有放在心上，夏晨听后便想起了自己所爱的人……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2653</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E23.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

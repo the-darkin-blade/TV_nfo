@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>皇上取称心首级</title>
+  <originaltitle>皇上取称心首级</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id>5097937</id>
+  <uniqueid default="false" type="tmdb">1040343</uniqueid>
+  <uniqueid default="false" type="trakt">1698981</uniqueid>
+  <uniqueid default="true" type="tvdb">5097937</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>媚娘给萧蔷送去了糕点和名贵的补品，萧蔷看到食盒中的香囊，碍于韦妃在场，萧蔷表面一派高傲，实际上偷偷把香囊拿回手中。萧蔷回到房间，看着香囊，想起徐慧曾说过韦妃想要的是她的孩子，如果没有孩子，她就能摆脱韦妃的控制。萧蔷打开香囊，发现里面放有五行草。 媚娘回到宫中，徐慧把太子没杀称心的事告诉媚娘，媚娘焦急，徐慧提醒媚娘可以先去政务堂阻拦李世民，给了媚娘错误的消息，同时把李世民引到太子妃和魏征会面的地方，李世民听到了称心未死的消息，面色铁青。徐慧计策奏效。 李泰与韦妃相见，太子这回在劫难逃，二人对未来充满期待。太子与称心相会，说出当年在众多奴隶中挑选称心的原因，原来称心神似太子儿时的玩伴承训，那些玩伴在玄武门之变中被斩杀殆尽。彼时太子没有能力保护自己的朋友，现在太子豁出全部也要保住称心，不能让历史重演。 太子在篝火边睡着，李世民突然出现，趁太子不备，杀了称心，并将邙山山谷中称心的藏身之处全部付之一炬。 李世民回宫后，把自己关起来，在密室内点起长明灯。媚娘心疼李世民，把李世民带离密室。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2655</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep32 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

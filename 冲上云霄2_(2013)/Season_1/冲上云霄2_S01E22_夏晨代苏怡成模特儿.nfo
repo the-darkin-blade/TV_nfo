@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>夏晨代苏怡成模特儿</title>
+  <originaltitle>夏晨代苏怡成模特儿</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586988</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>夏晨和亦风在书店过夜，但是亦风却在早上收到电话，得悉志宏因遇扒手遗失了所有证件，于是亦风便与夏晨分道扬镳往警局帮助志宏，并与夏晨相约在咖啡店集合。但是夏晨在咖啡店等了半天也未见亦风踪影，夏晨更发现自己的电话也被偷。亦风和志宏终于赶到咖啡店，但是夏晨却已经离开了。
+
+亦风心知夏晨害怕被人遗弃，便气急败坏地在法国找寻夏晨，经过了一个又一个的景点，亦风终于找到了夏晨，而夏晨也一直相信亦风会出现而等待着，两人也因此确定对对方的爱情，手挽手同游法国。
+
+夏晨亦风　关系改变
+
+之后夏晨和亦风在游览法国的途中，遇到了一名街头画家，画家一见到夏晨即时叫住了她，并取出了一张未完成的画，亦风一看，便知道画中人是苏怡。想不到夏晨竟不理会亦风的反对，指当是为了亦琛而做画家的模特儿，完成苏怡这张未完成的画。之后亦风也像想起甚么似的放开了夏晨的手，而独自走在一边沉思，甚至在回港的时候，两人也没有倾谈过一句。
+
+卓芝回港　转任地勤
+
+卓芝终于完成在美国接受人工受孕后回港，亦琛全力支持卓芝，更认真地照顾到她的起居饮食。卓芝提出打算调职，转在地面协助芮嘉培训新一代的空中服务员，也顺道安胎。亦风也在同日回来，当她一见卓芝便与她拥抱衷心地欢迎她。当大家闲聊近况之时，因怀孕而改变口味的卓芝突然提出想吃台湾的鸭舌，但当亦琛听到台湾两字面色随即大变，亦风也匆忙的转换话题，心中暗叹台湾对亦琛来说有着不好的回忆。
+
+亦风坦言　情倾夏晨
+
+亦风向卓芝透露了对夏晨有意，卓芝则认为夏晨的外貌太像苏怡，而亦琛也明显未能面对苏怡离世的悲痛，故此建议亦风不要现在和夏晨在一起，以免对亦琛有不良影响。而在卓芝和亦风对话的时候，亦琛在亦风的房间发现了那张在法国完成了的苏怡肖像画，亦风看见后，向亦琛说出了在法国和夏晨遇到了街头画家的事。
+
+年希不满　夏阳夜归
+
+年希和夏阳同居已经有一段时间，而夏阳在酒吧接送前女友回家至深夜被亦琛撞破。年希因为夏阳夜归而闹脾气，最后夏阳驾驶飞机带年希拍摄天空，年希才开怀。年希在Skylette遇到亦琛，亦琛因为之前看见夏阳曾和一个女人上车，以为夏阳令年希伤心于是上前安慰。亦琛回到派遣中心，得悉Skylette有两名机长因事而不能执行职务，最后亦琛迫于无奈，接受被编配至他不想再踏足的台湾……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2656</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E22.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

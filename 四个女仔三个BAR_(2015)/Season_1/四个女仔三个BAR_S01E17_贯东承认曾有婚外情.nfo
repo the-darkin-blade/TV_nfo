@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:03:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>贯东承认曾有婚外情</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>四个女仔三个BAR</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3188654</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>紫凝无意中听到志熊提及贯东的风流韵事，贯东表示曾与一名叫Sandra的女子发生婚外情，对方更怀了身孕。妁彤看到紫凝一家三口的相片时颇为羡慕，更指贯东夫妻恩爱，可是紫凝谓这不代表父亲没做出对母亲不忠的事。晶晶被揭发有私生女，紫凝看到有关报道后有所感触，她自言小时候很想有个姊姊或妹妹，但若现在知道自己真的有个同父异母的姊妹，却不知如何反应。紫凝送了一张感谢卡和手链答谢妁彤的帮忙。
+
+协助安居　约会翠花
+
+妁彤担心紫凝知道她的身分后会讨厌她，向隽烨倾诉，因为隽烨是唯一知道此秘密的人。翠花与安居到监狱探访，陈强介绍一位他视之为儿子的囚友冠仔给翠花认识。翠花希望陈强在探访者名单中加入她的名字，则她可经常探访陈强。翠花与安居买了汉堡包到海滩吃，突然一个沙滩球飞向翠花，安居替翠花把球挡住，结果他被击中致鼻孔流血。
+
+黑天使在短讯中表示在餐厅吃过水牛鸡翼后十分回味，梓博回覆谓此是其母的巧手菜式，黑天使请他代取食谱。
+
+安居买了电影戏票，要求梓博在翠花面前撒谎，让翠花与他一同往欣赏。戏院的冷气开得很大，翠花忘记带外套，安居便把她拥进怀中，互相取暖。
+
+家传秘方　给黑天使
+
+梓博把水牛鸡翼的家传秘方传给黑天使，还表示正宗水牛鸡翼是炸的，但他较喜欢焗的。
+
+Sandy在楼上书屋等耀力，看见慧芸立即离开，但耀力刚好来到，他邀慧芸同往吃晚饭。原来这天是耀力的生日，Sandy更订了生日蛋糕送给他。冠仔因肚痛如厕时，另一囚犯石海星冲进厕所呕吐，冠仔不慎跌了眼镜，便在地上摸索眼镜。
+
+呕吐物中　发现钮扣
+
+一名狱警把冠仔的眼镜踢走，然后殴打海星，却高声问冠仔为何打海星。陈强被安排清理厕所，他在海星的呕吐物中发现一粒钮扣。
+
+翠苑替Johnny仔温习功课，翠菊在旁边玩电脑游戏，Johnny仔趁翠苑肚痛到洗手间时，抢过翠菊的电脑玩。翠菊把一个变声器拿出来玩，Johnny仔打电话给母亲，谎称被绑架，再用变声器佯装绑匪要求赎金，然后躲起来。翠花接到母亲姚安心求助电话，立即赶回宾馆，安居同往。折腾一番后，Johnny仔父母责安心不懂教女，还说翠菊有爷生，没娘教。安心愤怒的掌掴翠菊，翠花亦表现得十分沉重……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-20 00:03:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2689</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E17.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

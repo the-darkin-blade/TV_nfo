@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:03:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李丹向校方投诉智毅</title>
+  <originaltitle>Episode 21</originaltitle>
+  <showtitle>四个女仔三个BAR</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3188658</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>祖贤趁父母旅行，带女同学巧茹回家玩，森木突然来到，祖贤要求森木不要告知智毅及慧芸。慧芸随耀力到了度假屋，她收到智毅的短讯，回覆说她平安，请智毅不用挂心。智毅请森木晚上到家中倾谈公事，森木追问他为何突然取消假期。原来李丹向学校投诉智毅性骚扰，校方遂展开调查。靖姿指子骏欲请梓博吃饭，以答谢梓博带他到离岛游玩，梓博婉拒，靖姿表示可欣会同行，刚好可欣来到，与梓博同往。四人在街上游览，梓博遇到他在楼宇署任职时曾帮忙过的街坊，对方多谢梓博之余，亦指后来接手的楼宇署职员做事马虎。
+
+隽烨投下　信任一票
+
+在酒吧消遣时，靖姿与子骏跳劲舞，二人十分合拍。靖姿再次留意到梓博与可欣有说有笑，十分投契。可欣弹钢琴时，梓博更坐下来双人合奏。耀力与慧芸在沙滩手拖手散步，慧芸觉得整个人松弛了不少。靖姿探望李丹，李丹就性骚扰事件自责太软弱，靖姿认同她不能哑忍。智毅状态欠佳，隽烨表示关心，并提醒他不应对学生太好，凡事应划清界线，智毅觉得隽烨的说法就像他真的曾性骚扰学生一样，但隽烨却以嘲讽的方式，给智毅投下信任的一票。律师楼的同事议论智毅性骚扰女学生的事，安居责他们乱说话，梓博亦谓事件未被证实，提醒各人不要胡乱猜测。
+
+感叹社会　未审先判
+
+梓博与靖姿即将取得大律师的资格，智毅替二人检讨之前学过的知识，他听了两徒的话后，感叹社会风气习惯未审先判，梓博问他有没有需要帮忙的地方，智毅说没有，且谓对自己有信心，亦相信世界有公义，真相早晚会水落石出。
+
+梓博知道靖姿怀疑智毅，靖姿亦明白自己未审先判，但她却相信李丹的话，且指他们只认识智毅在工作的一面。梓博有感而发的表示认同，指靖姿也不了解他，而他也不了解靖姿，他问靖姿想不想让他了解，靖姿却不回答。森木与智毅研究性骚扰事件，认为保安的口供对智毅很不利。
+
+提醒智毅　关心儿子
+
+智毅不怕与李丹当面对质，但程序上未能这样做。他自言没做过不怕李丹的一面之辞，且指李丹所说全是谎话，又提起隽烨嘲他不懂保护自己，但他自问一向都是这样对学生及徒弟，可以帮的都尽力去帮，从来不曾出事。森木谓时下的年轻人早熟，提醒智毅应多关心儿子。智毅传短讯给慧芸，慧芸没回音。那边厢耀力却在度假屋煮饭哄慧芸……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-20 00:03:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2686</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E21.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:01:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>年希发现苏怡赠物</title>
+  <originaltitle>年希发现苏怡赠物</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586973</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>年希住进亦琛家后，经常借故溜进亦琛的房间偷拿航空的相关书籍，被亦琛发现后却借故逃走，令亦琛感到年希的行为难以理解。亦风和夏阳同机，虽然亦风故意论及夏晨，但明显夏阳有心回避话题，甚至要亦风代理机长工作，自行离开和夏晨处理飞机维修问题，亦风也因这机会见识到夏晨优秀的办事能力。亦风在夏阳面前赞赏夏晨，夏阳闻言后感到了一点安慰，并以此机会指点亦风，让他为未来的机长试做好准备。
+
+志宏被迫　取消约会
+
+志宏再次来到台湾，预备将这一天的假期打算与菲菲在垦丁约会，但却在机场遇到了来台湾度假的日东和芮嘉，日东和芮嘉夫妻感情深厚，温馨甜蜜得连志宏也看不过眼。之后志宏预先到达了垦丁的度假屋打点，却赫然发现日东和芮嘉刚好租用了志宏隔壁的度假屋。为了不让芮嘉知道菲菲的存在后转告同为空中服务员的丽安，志宏惟有无奈地取消和菲菲的约会。
+
+志宏外出吃饭，在台湾街头看见了一果汁摊档，似是让志宏回想起一些不快往事。芮嘉出现向志宏搭话，才让志宏记起在加入Skylette之前，已经在其他航空公司曾和芮嘉合作过。
+
+芮嘉得知　志宏秘密
+
+志宏和芮嘉谈论往事期间，志宏因电话没电，向芮嘉借电话致电给女友菲菲报到。之后芮嘉回到度假屋照顾倦极入睡的日东后，便独自一人在阳台休息，却收到志宏女友的来电，芮嘉打算告知志宏，却发现特地过来垦丁找志宏的丽安，终明白志宏其实一脚踏两船。最后芮嘉承诺为志宏守秘密，但也好言相劝志宏这样与玩火自焚无异。
+
+苏怡遗愿　托付年希
+
+年希在执拾行李的时候，发现了一只缘分天使娃娃，并在亦琛的房间中找到了亦琛和苏怡的结婚照，才知道亦琛的太太就是苏怡。原来在两年前年希因为飞机客满，赶不及回伦敦见男朋友，幸得当时在机场病重的苏怡将自己的机票送赠给年希，才能回伦敦见男友。当时苏怡也向年希谈及过关于亦琛的事，并将缘分天使娃娃交给年希，着年希如果有缘遇到亦琛，便将自己的遗愿转告亦琛。
+
+年希报名　应征学员
+
+年希发现到有关「PPP」的宣传文件，决定报名应征，并顺道往机场看台拍摄飞机升降。同一时间，亦琛和养女爱苹相约在看台闲聊，两人手拖手状甚温馨，年希见状以为亦琛已心有所属，便将缘分天使娃娃遗留在看台，转交给下一个有缘人，却被路过的夏晨发现……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2654</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E08.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

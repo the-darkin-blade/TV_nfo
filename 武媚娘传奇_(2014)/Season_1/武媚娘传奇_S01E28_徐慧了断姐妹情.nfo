@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>徐慧了断姐妹情</title>
+  <originaltitle>徐慧了断姐妹情</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id>5097933</id>
+  <uniqueid default="false" type="tmdb">1040339</uniqueid>
+  <uniqueid default="false" type="trakt">1698975</uniqueid>
+  <uniqueid default="true" type="tvdb">5097933</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>媚娘心中积怨爆发，李世民终于面对内心，想要与媚娘倾心相爱。 魏征坦言太子处境艰难，提议为保太子，走一条不寻常的路。李世民同意魏征的计划，让韦源承的手下成为女主武氏，李君羡成了替死鬼。李世民将魏征的计划告诉长孙无忌，长孙无忌为保太子没有提出异议。 萧蔷不想喝苦涩的保胎药，却被韦妃强制喝下。韦妃得知媚娘和太子都因为找到了替死鬼而逃过一劫，此时却没有心力去对付媚娘，只专注于保住萧蔷的龙胎。 杨妃得知媚娘终于出手自保，十分欣慰，却又忧虑媚娘和东宫结盟，决心请媚娘和徐慧同来用膳，刺探虚实。太子噩梦中惊醒，大喊“承训”，却被太子妃误会他是在喊称心。称心担心会被这份情谊连累，向太子辞行。太子地位重又稳固，李泰决心除去媚娘。于是挑拨徐慧与媚娘的关系。 媚娘想让李世民收回旨意，李世民却觉得既然不喜欢徐慧就不要给她无谓的希望。 李世民宣徐慧进御书房，言语中对徐慧已有疏远，徐慧看出了李世民的用意。媚娘和徐慧应邀到杨妃宫中用膳，杨妃拉拢媚娘，媚娘没有表态，徐慧盛赞吴王。杨妃敏锐地察觉到徐慧和媚娘感情不复亲密。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2669</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep28 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

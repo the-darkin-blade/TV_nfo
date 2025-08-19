@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>以珊和亦琛重游旧地</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>4328863</id>
+  <uniqueid default="false" type="tmdb">1982458</uniqueid>
+  <uniqueid default="false" type="trakt">1851334</uniqueid>
+  <uniqueid default="true" type="tvdb">4328863</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>亦琛通知香港机场机上发生事故，请他们做好准备，机场众人即安排应急措施。亦风紧张得不得了，亦琛令他专心工作，兄弟合力令飞机安全降落，所有人松口气。亦琛表现出色，令公司、机场及传媒大为赞赏。苏怡替亦琛高兴，亦琛事后送上朱古力，令她芳心大悦。
+
+因亦风粗心而引起事故，亦风被停职，并接受心理转导，亦风感内疚，犹豫自己是否适合当机师。亦琛鼓励亦风，不应因挫折而灰心放弃，亦风仍耿耿于怀，并没按时去见心理医生。亦琛被擢升为机长，众人为他庆祝，苏怡更喜形于色，为他开庆祝会。会上众人喜气洋洋，但亦风却心事重重，希欣见状，加以安慰，亦风感动。云志升职无望，大为失落而醉酒，破坏了庆祝会，众感扫兴。
+
+以珊安慰云志，云志亦明白自己实力未及亦琛，为了以珊会继续为梦想努力。云志向亦琛道歉，亦琛鼓励他，并向他请教如何拒绝卓芝，云志教他以自己的专长拒绝卓芝。云志安排卓芝和亦琛约会，并教亦琛不断和卓芝讨论飞机性能和飞行理论，果然闷得卓芝急急走人。
+
+以珊、卓芝和亦琛同飞罗马，云志却被编往澳洲，卓芝告知云志会代为监视以珊和亦琛，云志一笑置之。卓芝一到罗马，只挂住玩乐丢下以珊，以珊找亦琛作伴，二人再度同游旧地，脑中不禁回忆往日甜蜜片段。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1568</width>
+        <height>1080</height>
+        <durationinseconds>2678</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E20.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

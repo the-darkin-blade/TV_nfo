@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 6 集  燕双鹰巧妙安排成功撤离阜宁城</title>
+  <originaltitle>第 6 集  燕双鹰巧妙安排成功撤离阜宁城</originaltitle>
+  <showtitle>津门飞鹰</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310922</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>郭大路还把冯文朗的怀疑告诉燕双鹰，燕双鹰提醒他让手下士兵打好背包，随时应付突如其来的变故，郭大路不相信有危险，可是看医生呀如此坚定，他命令士兵们打好背包。夜里，营副率国民党的残兵败将偷偷潜入阜宁城，想偷袭燕双鹰一行人，打劫钱财，立刻逃走。冯文朗想回到天津就向叶琳娜求婚，可她觉得两个人性格不合，冯文朗苦苦哀求，叶琳娜只好岔开话题。营副把残兵败将兵分三路，同时对旅馆展开进攻，他们的一举一动全部都被燕双鹰猜到了，营副发出信号弹，三路人马一起冲进旅馆，郭大路和叶琳娜都吓得大吃一惊，以为是共产党的部队来偷袭，埋伏在卡车和吉普车里的战士们对这些残兵败将展开激烈的还击，李三盖和孙二勇成功地狙击了袭击叶琳娜房间的敌人，冯文朗发现对方是国民党的残兵败将，郭大路带队突围，可是他们都是一群乌合之众，顿时乱了阵脚，燕双鹰立刻派高进守住大堂，和残兵败将展开激战，燕双鹰趁机去救出叶母和叶琳娜。
+
+营副发现李三盖和孙二勇，集中火力对他们俩展开扫射，营副带人趁机冲进旅馆，把叶琳娜和叶母挟持了，李三盖和孙二勇不敢再开枪，担心误伤叶母等人，叶琳娜拼命挣扎，反复说明是国军的家属，可是他们早已丧心病狂，只想夺回财物，冯文朗答应带他们去找，正在这时候，燕双鹰带人从天而降，将其他人都一一击毙，营副挟持了叶琳娜，让燕双鹰放下枪，冯文朗和叶母都苦苦哀求，燕双鹰毫不示弱，他故意声称不在乎叶琳娜的生死，让营副打死叶琳娜试一试，看自己能不能活命，孙二勇始终无法瞄准营副，不敢开枪，燕双鹰开枪打伤叶琳娜的胳膊，子弹被墙反弹回来直接命中营副，孙二勇同时开枪，将营副击毙。叶琳娜埋怨燕双鹰不顾自己的死活，燕双鹰解释是为了救她，叶母很清楚，如果燕双鹰显出对叶琳娜的关心，那营副就会肆无忌惮，后果将不堪设想，燕双鹰带他们立刻赶到大堂，和大家汇合。</plot>
+  <runtime>38</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2288</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>06_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

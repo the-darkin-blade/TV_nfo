@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 3 集</title>
+  <originaltitle>第 3 集</originaltitle>
+  <showtitle>英雄</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3278073</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰和沈七七缠斗，沈七七在理惠帮助下非但没能杀死燕双鹰反而让他跑了，因此没法向长官交代。燕双鹰在老伙计的墓前发现步鹰的怀表，为找出叛徒他独自来到地下党除奸队，得知联络人喜鹊是叛徒，地下党除奸队的人得知燕双鹰是燕彪的儿子大吃一惊，在相互知道对方身份和底细后他们商量着重建游击三组。夜晚燕双鹰被喜鹊抓住，喜鹊把他交给日军处置，还没来得及拷问就被他逃脱了，喜鹊见到燕双鹰没死大吃一惊。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>2.0</aspect>
+        <width>1666</width>
+        <height>850</height>
+        <durationinseconds>2790</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E03.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

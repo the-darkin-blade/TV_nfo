@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:03:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>翠花发现群莲遗书</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>四个女仔三个BAR</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3188645</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>紫凝被泼尿的过程给上载网络上，安居与妁彤约她午饭，安慰并鼓励她。翠花母亲姚安心经营一间叫丹妮斯的宾馆，翠花趁假期回宾馆减轻母亲的工作负担。
+
+一名叫秦建安的男子，与坐轮椅的妻子奕群莲要求入住望海的房间。慧芸的中学同学Tracy请慧芸替她办离婚手续，Tracy坦言有了外遇，丈夫知道后提出离婚。Tracy又谓，与丈夫结婚十多年，其间必然会出现令她心动的第三者，能否向前踏出一步，只看自己有没有这份勇气而已，她自言与丈夫已没有恋爱的感觉，离婚是早晚的事。
+
+靖姿发现　仲衡劈腿
+
+智毅夫妇在外晚饭时，慧芸不停用手机看耀力放上网的旅行照片。智毅发现慧芸听音乐的口味改变了，他试图探听太太是受了谁的影响，但慧芸只顾享受音乐，未有理会智毅。
+
+可欣发现一只猫咪被夹在冷气机顶，与仲衡到有关单位把猫咪救了。梓博提议可欣先带猫咪往打针，稍后再做绝育手术。建安借用地拖等清洁用具，翠花把用具拿到建安房间，建安忙于替妻子抹身换衫。建安推妻子到码头，周围的人突然发现建安与群莲都掉进海中，有人立即跳进水中救他们。
+
+李丹因压力太大住院，靖姿到医院探望她时，无意中发现仲衡与一名女护士表现亲密。
+
+建安一直　不发一言
+
+事务律师方天娜请智毅替建安辩护，但建安一直不发一言。可欣替猫咪取名大脚八，她视大脚八为她与仲衡的爱情结晶品，更挂了一个代表她与仲衡的字母牌在爱猫颈上。靖姿告知可欣她看见仲衡与一个女生在一起，可欣不大相信。梓博因被淇淇冷淡对待，向黑天使吐苦。可欣发现大脚八跌了下楼，冒雨到后巷救了它，随即送它到动物医院，兽医替大脚八检查后要它留医。翌日可欣在公司忙得不可开交，动物医院多次来电她也不知道，结果她赶到动物医院，大脚八已死了，护士把大脚八颈上的名牌交还给她。
+
+目睹淇淇　约会男生
+
+仲衡在可欣家门外等候，求可欣原谅他，可欣不听他的解释，住在隔壁的靖姿闻声开门察看，与仲衡不友善的对望。可欣向靖姿透露她去过医院，也见到仲衡劈腿的女友阿清，回家后大脚八便出事，她才相信世间真有祸不单行这回事。梓博指仲衡既已认定可欣，便不应一脚踏两船。仲衡谓与阿清相识得比可欣早，但他无法与阿清一刀两断，因阿清是个个性极端的人，若提出分手，担心阿清会做出甚么恐怖的事……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-20 00:03:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2682</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E08.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

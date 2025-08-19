@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>以珊和云志决定结婚</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>4328852</id>
+  <uniqueid default="false" type="tmdb">1982445</uniqueid>
+  <uniqueid default="false" type="trakt">1851323</uniqueid>
+  <uniqueid default="true" type="tvdb">4328852</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>以珊认定亦琛是个用情不专的坏人，决定接受云志的求婚，云志欣喜若狂。亦琛时常想起以珊，竟幻想与她一起，心感内疚。亦琛被指派到澳洲担任新机师的导师，而云志请假回澳洲与以珊举行婚礼。
+
+亦风等签约成为机师学员，亦风遇上气急败坏的苏怡，原来苏怡发现一封旅客的遗书，欲阻止他自杀，亦风见状帮忙，虽救回该自杀者，但已迟到签约仪式，亦琛不知原因，对亦风大为不满，亦风不屑解释。苏怡内疚亦风因帮自己而迟到，影响了前程，千方百计向亦琛解释亦风迟到的原因，亦琛答应再给他机会。
+
+善波被取录为打雀员，上班第一日被嘉露误会偷懒，善波百词莫辩。一醉汉在机场捣乱，嘉露等往支援，混乱中善波被嘉露撞伤，嘉露不好意思。嘉露见到苏怡的公仔，告诉她该公仔原本是属于以珊，公仔本是她父母的订情信物，故以珊相信公仔会为她带来美好姻缘。苏怡听后，认为自己当日一时任性把公仔收起，令亦琛不能把公仔交给以珊，以致二人不能发展下去，善波劝告她不应内疚，这是因为二人没缘份而已，但苏怡仍感不安。苏怡故意安排亦琛和以珊见面，让他们互相解释，但二人决定把前事忘记，开始新生活，并劝苏怡不要费心。亦风等人出发赴澳洲受训，亦琛一面严肃，警告他们不要放肆。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1576</width>
+        <height>1080</height>
+        <durationinseconds>2699</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E09.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

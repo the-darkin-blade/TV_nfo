@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:03:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>靖姿要求智毅收她为徒</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>四个女仔三个BAR</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3188639</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>紫凝新居甫入伙，便有便衣警员为其对面单位住客自杀案上门调查。可欣向对风水有研究的森木打听趋吉避凶的方法，得悉最好能找到命硬的人入住，可欣便提议紫凝分租给父亲已去世的翠花，紫凝虽不情愿，但看在可欣份上，最终仍以一百元租金分租床位给翠花。
+
+智毅律师楼的大律师郑妁彤因与智毅负责案件打对台，安居深怕妁彤与他聊天时打探军情，对灼彤充满戒心。
+
+罗家俊被控串谋勒索，智毅向家俊讲解串谋勒索的定义并了解案发经过。隽烨与妁彤是勒索案中首被告杜耀坤的代表大律师，二人到法院时在升降机遇上。
+
+不战而胜　隽烨佩服
+
+翠花发觉师傅与妁彤说话时态度异于平时，二人对话内容古怪，隽烨并主动约会妁彤，但她态度冷淡。
+
+勒索案开审，以旁听审讯过程为乐的忠祥夫妇及靖姿也到场旁听。妁彤及隽烨盘问证人蒋少薇后，智毅表示没有问题须盘问，法官宣布下午继续审讯。
+
+翠花与靖姿及可欣午膳时，靖姿指隽烨在案中的陈词精采，可欣闻得隽烨是个风流律师，与智毅是好朋友。
+
+下午再上庭时，智毅代表家俊申请无须答辩，并呈上两份案例资料，法官果然判家俊罪名不成立，当庭释放。
+
+来得最迟　走得最早
+
+靖姿尾随智毅到停车场，单刀直入问智毅能否收她为徒，智毅着她寄信到律师楼。森木、隽烨等在酒吧庆祝智毅赢了官司，隽烨指智毅在勒索案中不战而胜，令他心服口服。妁彤姗姗来迟，但却最早离开，隽烨失望之情尽写面上。
+
+慧芸斥档案文员Max练精学懒，又在工作时间做私人事，要给Max发警告信。森木认为公司规模小，劝慧芸对Max不要过分严格，否则对方辞职，公司人手会更不够。
+
+智毅夫妇假日在家打扫，慧芸促智毅尽快请钟点工人，智毅却指儿子要求高。
+
+内衣掉在　梓博肩上
+
+梓博再次上门视察，发现靖姿居住的单位漏水及石块剥落情况严重，他见马桶内有剥落的石块，亲手把石块拾起来。靖姿急忙把挂在浴室的衣服收下来，却不慎把内衣掉在梓博肩上，彼此都尴尬得很。梓博要求业主尽快维修单位，业主诸多推搪。慧芸带可欣到一书店，老板朱耀力向慧芸介绍一个好书分享会。仲衡送毛公仔哄可欣，二人经过一婚纱店时，可欣想进店内看婚纱，仲衡却谓彼此共识两年后才结婚，届时婚纱的款式都已转变，促可欣吃晚饭去……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-20 00:03:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2690</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E03.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

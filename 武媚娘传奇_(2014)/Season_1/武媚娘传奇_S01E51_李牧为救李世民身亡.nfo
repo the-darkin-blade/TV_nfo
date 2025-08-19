@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李牧为救李世民身亡</title>
+  <originaltitle>李牧为救李世民身亡</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>51</episode>
+  <id>5103006</id>
+  <uniqueid default="false" type="tmdb">1040362</uniqueid>
+  <uniqueid default="false" type="trakt">1712480</uniqueid>
+  <uniqueid default="true" type="tvdb">5103006</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>徐慧将当年杨妃赐予的银丝珐琅面扇送给冯才人和陈美人，二人都不敢要，徐慧借机敲打两人。李世民决意亲自刺探军情，却遭遇叛军的毒烟伏击，媚娘正与李牧告别，听说李世民遇险，不管不顾地冲入敌阵，想要带回李世民，紧随而来的李牧为救李世民和媚娘，战死沙场。最后关头，媚娘与李世民等到了李恪率领的大唐的援军。身中毒箭的李世民陷入昏迷，王德见到媚娘，惊讶，李恪为媚娘遮掩身份，对外宣称媚娘是他的副将。媚娘细心照顾李世民，为李世民吮吸毒血。李世民醒来，见到媚娘惊喜不已，媚娘偷偷祭拜李牧，被李世民发现，媚娘请求李世民宽恕李牧一家罪名。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2668</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep51 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="51" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

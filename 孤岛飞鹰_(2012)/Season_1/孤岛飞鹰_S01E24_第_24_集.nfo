@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 24 集</title>
+  <originaltitle>第 24 集</originaltitle>
+  <showtitle>孤岛飞鹰</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281721</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李志群率人直闯民宅，将严韵遥绑架到76号特工总部训话，穆先生和严母都担心严韵遥会性命难保。在审讯室里严韵遥遭受着李志群等人的一次次毒打，严韵遥咬紧牙关誓死不肯说出爆炸案当天在咖啡馆引爆炸弹的人。逼供不成日本人改为软攻，市君命大岛英枝找来市长章啸天，企图用怀柔之法去说服严韵遥。</plot>
+  <runtime>37</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1908</width>
+        <height>1080</height>
+        <durationinseconds>2248</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>24_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

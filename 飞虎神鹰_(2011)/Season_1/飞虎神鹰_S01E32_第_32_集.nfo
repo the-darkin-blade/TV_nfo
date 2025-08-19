@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 32 集</title>
+  <originaltitle>第 32 集</originaltitle>
+  <showtitle>飞虎神鹰</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3168729</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>陈恭鹏告诉了燕双鹰光复社的建制光复社是隶属保密局和民政二厅是陈恭鹏和杜马一手组建还有光复社的三个主要活动一个是银元黑市由一个代号老狐狸的人一手操纵这个老狐狸的身份非常神秘不在光复社中很少有人见过他的真面目就连杜马都没有。</plot>
+  <runtime>35</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>LeTV</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1278</width>
+        <height>720</height>
+        <durationinseconds>2126</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E32.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:43 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦琛和以珊忘记过往</title>
+  <originaltitle>Episode 35</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id>4328878</id>
+  <uniqueid default="false" type="tmdb">1982473</uniqueid>
+  <uniqueid default="false" type="trakt">1851349</uniqueid>
+  <uniqueid default="true" type="tvdb">4328878</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>亦琛等返港后转机回罗马，二人再游旧地，在浪漫气氛下，互相拥吻，但拥吻时二人脑中所想的却是云志和苏怡，二人终于明白过去真的过去，自己已各有所爱，和对方只是友谊。
+
+亦琛找苏怡表白，发现她也在罗马，但她却避而不见，亦琛惟有找善波。善波告知苏怡病重，嘱亦琛好好照顾她，亦琛才明白何以她坚持分手。苏怡一再拒绝亦琛，不想他因同情而与她复合，更不想连累他，并请以珊代她照顾亦琛，以珊告诉她亦琛爱的是她，苏怡笑而不语。
+
+苏怡坐着亦琛的航班返港，亦琛挂念她的病情，请求以珊对她多加留意。飞扬航空举办少年机师计划，亦琛和亦风负责带小朋友参观机场，时遇上苏怡。苏怡把亦琛之前所送的巧克力送给小朋友，表示想把快乐带给其他人，亦琛黯然。
+
+浩聪在机场重遇旧友，旧友之父为白糖糕师父，眼见这传统食物逐渐失传感可惜，苏怡答应联络机场方面，让他们在机场售卖白糖糕。亦琛为推广白糖糕，请唐璜把白糖糕加入飞机餐内，并介绍师父给他，唐璜答应。浩聪带白糖糕回家请世昌吃，世昌终于接受浩聪当机师的志愿，还请他多带希欣回来见他，浩聪喜出望外。希欣生日，浩聪为她准备礼物，更亲自为她作曲，时浩聪收到父亲世昌病倒入院的消息。浩聪在此时才知父亲生意陷于困境，更因工作繁重令健康变差。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2682</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E35.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

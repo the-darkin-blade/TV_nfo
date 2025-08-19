@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>包青天之七侠五义</title>
+  <originaltitle>包青天之七侠五义</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <sorttitle/>
+  <year>2009</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>9.0</value>
+      <votes>1</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>传媒公司海报本剧以清代章回小说「七侠五义」为蓝本，传统戏曲与民间传说为参考，叙述北宋清官包拯脍炙人口流传千古的传奇故事。 　　仁宗皇帝在位期间包拯升任开封府府尹执掌京畿，包拯刚直耿介铁面无私明察秋毫断案如神，百姓爱戴敬仰之余尊称为“包青天”。 　　落第秀才公孙策才高八斗学富五车，为报包拯知遇之恩追随在侧为之出谋划策。江湖义士南侠展昭有感于包拯为官清正爱民如子，舍却江湖生涯投效朝廷志在襄助包拯。得此一文一武两员大将包拯屡破奇案屡建奇功。 　　北侠欧阳春、小侠艾虎、丁氏三侠、黑妖狐智化与陷空岛五鼠本皆是令江湖宵小闻名丧胆的英雄豪杰，在展昭号召之下纷纷前来各效其力，当包拯揭贪去弊惩奸除恶之时，七侠五义的侠风义行也随之传颂于民间。</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"100430"}</episodeguide>
+  <id/>
+  <imdbid/>
+  <tmdbid>100430</tmdbid>
+  <uniqueid default="true" type="tmdb">100430</uniqueid>
+  <premiered>2009-07-22</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Science Fiction</genre>
+  <genre>Drama</genre>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <country>中国</country>
+  <actor>
+    <name>金超群</name>
+    <role>包拯 / Bao Zheng</role>
+    <profile>https://www.themoviedb.org/person/1260190</profile>
+    <tmdbid>1260190</tmdbid>
+  </actor>
+  <actor>
+    <name>何家劲</name>
+    <role>Zhan Zhao</role>
+    <profile>https://www.themoviedb.org/person/109506</profile>
+    <tmdbid>109506</tmdbid>
+  </actor>
+  <actor>
+    <name>唐国强</name>
+    <profile>https://www.themoviedb.org/person/560190</profile>
+    <tmdbid>560190</tmdbid>
+  </actor>
+  <actor>
+    <name>范鸿轩</name>
+    <role>Gongsun Ce</role>
+    <profile>https://www.themoviedb.org/person/3105961</profile>
+    <tmdbid>3105961</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>杨妃精心准备琉璃宴</title>
+  <originaltitle>杨妃精心准备琉璃宴</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>5082182</id>
+  <uniqueid default="false" type="tmdb">1040311</uniqueid>
+  <uniqueid default="false" type="trakt">1395760</uniqueid>
+  <uniqueid default="true" type="tvdb">5082182</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>如意飞身接住，晋王李治，并扶晋王去御花园。太子力挫魏王，吴王输给太子，太子不惜言语冒犯李恪母亲杨妃，李恪被激怒，危机时刻，李治持剑帮太子挡住了李恪的进攻，如意以身体护住李治，李恪削落如意的发簪。 目睹一切的李世民怒斥太子和李恪，言语中仍旧对太子寄予厚望。李恪比剑胜出，代表大唐对战北漠。称心提醒太子为大朝会做准备，必要时要去见长孙无忌，太子却说只能相信大将军侯君集。杨妃埋怨李恪不该赢得比赛，李恪问及武如意，被警告远离武如意。如意到藏书阁看书，碰上李世民，如意欲离开，李世民不舍如意，借口要她帮忙找书将其挽留下来。李世民说出琉璃宴对大唐的重要意义。 德妃派人问钦天监的李淳风发现飞星有何兆示，李淳风吓得惊慌失措，德妃密信殷宏智朝内一切准备得到。 各国使节纷纷入都，北漠王子意欲为难太子，却被李恪巧妙化解。倭国派出棋手献上冷暖玉棋子与千古残局，徐慧临危受命，备战倭国棋手。天竺女国师带来一枚无坚不摧的佛齿，杨妃让如意去钦天监向李淳风求破佛齿的办法。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2648</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep13 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

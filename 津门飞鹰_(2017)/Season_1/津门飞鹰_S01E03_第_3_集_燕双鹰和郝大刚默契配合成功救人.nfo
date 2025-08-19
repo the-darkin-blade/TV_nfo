@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 3 集 燕双鹰和郝大刚默契配合成功救人</title>
+  <originaltitle>第 3 集 燕双鹰和郝大刚默契配合成功救人</originaltitle>
+  <showtitle>津门飞鹰</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310919</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>纵队司令员和政委对燕双鹰大加赞赏，也明白了他红笔标注的特别用意，因为叶洪开和廖耀湘是黄埔军校同一期的同学，而且都是蒋介石的嫡系，根本不把天津守军陈长捷放在眼里，燕双鹰决定利用他们俩的关系，为平津一带做好战前侦查工作，军委决定在平津地区发动大规模的战役，彻底解放北平，天津，河北等地，东野一纵作为先头部队率先出发，任务就是分割敌人在京津两地的联系，协同华野部队包围天津。燕双鹰和高进主动请缨，挑选一支精明能干的队伍，假扮云建明的小分队，前往丰城救出叶琳娜和叶母，并护送她们回天津，趁机打入敌人内部，再见机行事，设法搞到敌人的兵力布防和碉堡工事图，这和司令员和政委的想法不谋而合。司令命令燕双鹰率队即刻出发赶往丰城，他已下令围攻丰城的郭大路的三十六团停止进攻，还让郝大刚率特务营去接管城北的包围任务，燕双鹰他们救出叶母和叶琳娜以后，就从城北突围出城，燕双鹰想让郝大刚配合自己在城北演一出好戏，取得叶琳娜等人的信任。
+
+东野分别从东、南、西三面对丰城展开猛攻，唯独北面按兵不动，郝大刚率特务营在十一点准时来接防，城北的三连战士顺利撤出战壕，郝大刚向燕双鹰和高进他们发出信号，燕双鹰率小分队换上国民党的军服，冒着枪林弹雨来到叶府，叶琳娜和冯文朗陪着奶奶在家里等待云建明的营救，冯文朗听到外面炮声震天，急得一筹莫展，他想化装成百姓逃出城，叶琳娜坚决反对，叶母心急如焚，也只能听天由命，叶琳娜只好对她好言相劝。十二点钟声响起，东野解放军展开总攻，顿时炮声隆隆，火光冲天，就在这千钧一发之际，燕双鹰率小分队冒着枪林弹雨冲进叶家，冒充云建明奉命来营救叶琳娜和叶母，他拿出电报和文件，冯文朗询问他们是如何进城的，燕双鹰自称是从城北翻城楼进来的，叶琳娜和叶母也必须攀城离开，否则会死无葬身之地，叶琳娜不放心，也不想听他的指挥，燕双鹰赌气想离开，他不会把自己兄弟的性命交给外行指挥，也不想和他们一起陪葬，叶琳娜只好听燕双鹰的指挥。</plot>
+  <runtime>38</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1078</height>
+        <durationinseconds>2304</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>03_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

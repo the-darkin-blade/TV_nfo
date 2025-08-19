@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 16 集</title>
+  <originaltitle>第 16 集</originaltitle>
+  <showtitle>孤岛飞鹰</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281713</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰来到霞飞路医院，章月欣对他哭诉父亲赶他出来的事。燕双鹰分析，章月欣的父亲章啸天是秘密宝藏的知情人，大岛英枝接近章啸天也是为了找到宝藏。燕双鹰告诉章月欣，章啸天是日本人的傀儡，他对日本人的目的很知情，只是无力与日本人对抗，身在矮檐下不得不低头。章月欣对燕双鹰很喜欢，他吩咐章月欣对大岛英枝要监视，有什么需要帮助就告诉他。</plot>
+  <runtime>37</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1908</width>
+        <height>1080</height>
+        <durationinseconds>2224</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>16_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

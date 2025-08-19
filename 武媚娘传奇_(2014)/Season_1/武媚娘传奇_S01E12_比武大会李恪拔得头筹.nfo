@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>比武大会李恪拔得头筹</title>
+  <originaltitle>比武大会李恪拔得头筹</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>5082181</id>
+  <uniqueid default="false" type="tmdb">1040323</uniqueid>
+  <uniqueid default="false" type="trakt">1395759</uniqueid>
+  <uniqueid default="true" type="tvdb">5082181</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>春盈诬陷罗将军偷盗浣衣局衣物，要杖毙罗将军。如意前往掖庭相救，却还是晚了一步。如意说服徐慧，投靠杨妃，与韦妃形成对抗。 德妃私信给齐王，要他装病留在齐州，齐王李佑和殷宏智却有自己的心思，并不打算遵从。 为主持琉璃宴事宜，杨妃宣召后宫。杨妃让诸妃嫔挑选自己喜欢的布匹，徐慧和萧蔷同时看上一匹蓝色云锦，如意为徐慧和萧蔷抢云锦，发生争执。韦妃出现，斥责萧蔷不分尊卑，指桑骂槐。如意和徐慧却当众人面公然表示一定会协助杨妃。萧蔷被罚跪，武如意主动道歉。 韦妃找魏王抱怨帮助她立后，两人分析形势，韦妃提醒魏王李治也是威胁。 李世民决定组织皇子们比试击剑，胜出者统领羽林马球队出赛大朝会的马球赛。太子找称心刻苦练剑，誓要拔得头筹。萧蔷心结难解，韦妃给她分析处境，把献舞争宠的重任交给萧蔷。德妃来向韦妃表忠心，同时，杨妃和徐慧如意正式结成同盟。如意巧遇挂在树上的晋王稚奴。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2674</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep12 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

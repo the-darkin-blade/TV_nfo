@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>高阳公主寿宴上媚娘痛失孩子</title>
+  <originaltitle>高阳公主寿宴上媚娘痛失孩子</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>68</episode>
+  <id>5109843</id>
+  <uniqueid default="false" type="tmdb">1040379</uniqueid>
+  <uniqueid default="false" type="trakt">1724289</uniqueid>
+  <uniqueid default="true" type="tvdb">5109843</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李恪把薛、柴二人推荐到兵部上任。李治对李恪失望。 怜芝密见王皇后，王皇后才知道怜芝是父亲安插在萧淑妃身边的人，更告知王皇后萧淑妃也对媚娘出手要媚娘落胎，提醒王皇后可将此事告知李治，一举扳倒萧淑妃。王皇后却自有打算。媚娘追问瑞安，瑞安说出宫中流传的谣言，媚娘被气得晕倒出血。太医为媚娘诊治，发现媚娘有滑胎之象，李恪推断出下毒的人就在媚娘身边，绿芙见事情败露，服毒自尽。绿芙正是萧淑妃的人，李治迁怒于萧淑妃。 秀珠建议王皇后可以奏请严惩萧淑妃，王皇后却决定留下萧淑妃。媚娘请求离开，李治无奈之下只得同意。李治为媚娘设宴送行，媚娘喝了皇后调制的茶，竟然流血不止。媚娘从噩梦中惊醒，却被告知流掉了孩子，媚娘内心悲痛，难以接受，高阳目睹媚娘惨状，为媚娘难过。萧淑妃本以为媚娘没了孩子应该很快就离开，仔细推敲后发现自己险些酿成大错，萧淑妃去求见王皇后。李治命戴青查导致媚娘流产的真凶，戴青什么也查不出，李治看先皇遗诏，感慨这是天命。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2666</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep68 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="68" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

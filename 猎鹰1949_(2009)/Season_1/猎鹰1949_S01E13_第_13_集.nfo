@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 13 集</title>
+  <originaltitle>第 13 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281652</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>最后一个杀手临死前告诉燕双鹰是张保之安排的暗杀，并告诉燕双鹰春意麻将馆是张保之的秘密联络点。老板刺杀燕双鹰不成却惊动了解放军城管部队，为安全起见，老板被迫下令关闭城中所有联络点,同时启动人马全城暗查“程汤”的下落。燕双鹰和赵雅琴来到春意麻将馆。虽然联络点都接收到老板的命令关闭了，但是麻将馆老板经不起燕双鹰的拷问，终于交待出张保之的联络人宋副官藏身于永记绸布庄。经过一番巡视和分析，燕双鹰和赵雅琴立即赶往永记绸布庄，准备一探究竟。其实燕双鹰早就料到麻将馆老板就是张保之的联络人宋副官，正当宋副官得意于他骗过燕双鹰顺利脱身的时候，燕双鹰却再次出现在他面前。得知张保之真正的藏身之处是牛角沱延明巷十号之后，燕双鹰击毙了麻将馆中一众特务，然后引爆手雷炸了麻将馆。登云旅社枪战和春意麻将馆爆炸引起了李延平和吴玉霞的注意，他们很快也意识到这是燕双鹰给他们留下的线索，于是他们顺藤摸瓜又打掉了几个敌特的秘密联络点。</plot>
+  <runtime>42</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2542</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep13_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

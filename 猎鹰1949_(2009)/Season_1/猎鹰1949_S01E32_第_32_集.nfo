@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 32 集</title>
+  <originaltitle>第 32 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281673</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>被囚禁的赵雅琴三人推测出事情有了变故，他们决定逃出军管会的控制，前往重庆帮助燕双鹰。逃跑计划的实施过程中，看守的战士竟然主动放行，原来负责人正是班长赵铁钢，他相信燕双鹰的清白。王主任发现了燕双鹰的踪迹，追捕立刻展开。燕双鹰不愧是一位老道的特工，他提前与斜对面的客人交换了房间，在宾馆与昔日的战友展开一番混战。军管会安排了大量人手和密集的封锁线，燕双鹰屡次遇险，然而凭借着智慧和身手，他逐一攻破，成功离开旅馆。吴玉霞在燕双鹰房间内发现了莎莉的名片，她意识到他的下一步计划一定与这个女人有关，吴玉霞联系不上莎莉，情急之下夺门而出。燕双鹰果然去了莎莉的住所，他再次请求莎莉为他提供一艘船，然而娇蛮天真的大小姐无法理解他的用意。与此同时，莎莉的佣人和男友庞子坤遭遇暴徒的袭击，为首的竟是黑狼！这伙杀手悄无声息地上了二楼，直奔莎莉房间。与燕双鹰陷入僵局的莎莉接到了吴玉霞的电话，她佯装对方是朋友，却骗不了燕双鹰的耳朵。燕双鹰举起手枪，莎莉吓得魂飞魄散，结果他瞄准的是房间外的杀手。</plot>
+  <runtime>39</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2396</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep32_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

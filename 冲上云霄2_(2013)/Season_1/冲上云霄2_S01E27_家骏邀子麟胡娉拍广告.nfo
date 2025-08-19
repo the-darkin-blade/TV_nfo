@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:02:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>家骏邀子麟胡娉拍广告</title>
+  <originaltitle>家骏邀子麟胡娉拍广告</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586993</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>子麟和胡娉突然被家骏召见，原来家骏想邀请两人一同前往三亚为Skylette的客户拍摄广告，初时胡娉表现不感兴趣，但当知道家骏也会前去探班，便答应前往。家骏亦提出可让两人带朋友家人一同前往三亚，本来子麟想邀请自己的兄长同行，但其兄却因为家事而无奈拒绝，最后子麟便找了Cadet Program的同学少雄同行，而胡娉也带同芮嘉一起前往三亚。
+
+卓芝误会　子麟泄密
+
+卓芝和空中服务员在休息时间来到了咖啡厅，并碰到了子麟和少雄，因为没法听清楚众人对话，令卓芝误会子麟向少雄透露自己怀孕的秘密。事有凑巧，原来受训中的空中服务员也透露自己知道卓芝怀孕一事，故此卓芝认定子麟就是泄露秘密的人。卓芝找子麟痛骂，说他不遵守承诺将自己的秘密公诸于世，无辜的子麟只感有口难言。
+
+家骏说出　有愧秘密
+
+在三亚的海滩上，胡娉和子麟正进行广告的拍摄工作，但胡娉在拍摄期间却一直心不在焉，也无视少雄好意的问候，直至家骏到场探望，胡娉才说话。但胡娉与家骏的对话，却是每句都带刺，让听的人都感到她奇怪。之后芮嘉独自找家骏，除了向家骏为胡娉的态度道歉外，也让家骏抒发自己以前离婚的往事。
+
+原来家骏曾经结婚，但因为前妻和其他男人有婚外情而离婚收场，甚至怀疑自己的女儿不是自己的骨肉而抛弃了她，一直以来，家骏也为此感到心中有愧。
+
+女儿现身　家骏紧张
+
+之后家骏回到酒店并收到了一个花篮，发现当中的心意咭署名竟然是女儿的名字，家骏来到心意咭所记载的地点并从远处眺望，却骇然发现等待他的人就是胡娉。但结果家骏却一直躲起来，并没有走出来和胡娉相认，胡娉终因为等不到家骏愤而离开，而家骏也只是默然望着。家骏质问芮嘉，问她胡娉是否自己的亲生女儿，而芮嘉亦坦然承认，这时拍摄广告的工作人员告知家骏与胡娉失踪，两人听后担心不已。
+
+家骏父女　冰释前嫌
+
+少雄得悉胡娉失踪便外出寻找，最后在海滩发现她，并知悉胡娉出走的原因，而胡娉也觉得羞愧而打算冲进海中意图自尽，但被少雄阻止拉回岸上加以安慰，之后芮嘉及家骏赶至，但只发现胡娉的鞋子，家骏怕胡娉出事而跳进海中不断找寻，胡娉看见后，终冰释了多年的误会和怨怼。
+
+子麟发奋　将勤补拙
+
+子麟及胡娉等人回港后，马上便投入训练……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2665</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E27.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

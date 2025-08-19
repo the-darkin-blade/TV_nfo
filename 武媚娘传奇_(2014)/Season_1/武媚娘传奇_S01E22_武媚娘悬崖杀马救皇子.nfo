@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>武媚娘悬崖杀马救皇子</title>
+  <originaltitle>武媚娘悬崖杀马救皇子</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>5097927</id>
+  <uniqueid default="false" type="tmdb">1040333</uniqueid>
+  <uniqueid default="false" type="trakt">1698969</uniqueid>
+  <uniqueid default="true" type="tvdb">5097927</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>韦妃陷害媚娘一计不成再生一计，得知李世民要带媚娘去骑狮子骢，指使春盈在狮子骢的饲料里下药。媚娘和皇帝一同做孔明灯。李治试骑狮子骢，狮子骢狂性大发，媚娘策马追去，为救李治，媚娘用匕首刺死了狮子骢。房玄龄等一干老臣从狮子骢事件上看出了媚娘处事手腕冷辣，奏请诛杀媚娘，魏征仗义执言不该将王朝覆灭归罪于一个女人，媚娘闻言感激不已。 长孙无忌坚持要杀媚娘平息流言，李世民愤怒，长孙无忌以杨广诛杀李氏的先例来提醒李世民，在对待国祚上，宁可错杀一千不可放过一人。 李世民与长孙无忌君臣谈心，两人忆及往昔，长孙无忌说出心中夙愿是守护大唐江山永固，李世民在天下与女人间权衡，最终应承长孙无忌，会在骊山狩猎时把这件事做个了断。李世民弃媚娘而宠徐慧，徐慧苦尽甘来。春盈查出青铜傀儡事件是玉玲走漏了风声，韦妃杀鸡儆猴。媚娘为见李世民，早早在净初池等候他的圣驾，李世民得知，改道探望韦妃，对媚娘避而不见。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2668</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep22 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

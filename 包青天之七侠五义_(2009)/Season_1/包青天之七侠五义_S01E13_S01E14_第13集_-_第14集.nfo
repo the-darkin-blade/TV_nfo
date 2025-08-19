@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第13集</title>
+  <originaltitle>第13集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187910</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>展昭看出艾虎其实为女扮男装，问其所以，艾虎说出一段凄然往事：原来艾虎本名艾玉荷，父亲艾政原为捕头，在母亲叶芳力劝下终辞去官职返回老家，谁知与艾政有宿怨的贼人童禄与黑妖狐智化在半路伏击，艾政当场惨死，母亲与姊玉蓉生死未卜，玉荷侥幸逃出，并得风婆婆教导武功，学成之后便当起赏金猎人，誓要追寻杀父仇人。展昭与艾虎合力抓住正欲犯案的铁骏，逼问出幕后主使人确为孔儒。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>1081-02-13</premiered>
+  <aired>1081-02-13</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep13-14.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第14集</title>
+  <originaltitle>第14集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187911</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>艾虎跟随包拯等人回开封府，实则是与师父风婆婆约好见面，风婆婆告知楚戈即吏部尚书冯浩的总管，当年艾政之死与冯浩有关，艾虎急欲找冯浩问个清楚。此时展昭已发现杀童禄之人并非艾虎，怀疑事有蹊跷。艾虎夜闯尚书府，逼问楚戈当年杀害父亲的真相，两人交手，艾虎不敌受伤，在风婆婆掩护下逃出尚书府，之后伤重昏倒，被彩锦坊的绣女田蓉所救。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>1081-02-13</premiered>
+  <aired>1081-02-13</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep13-14.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

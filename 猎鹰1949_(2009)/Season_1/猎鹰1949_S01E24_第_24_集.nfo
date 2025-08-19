@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 24 集</title>
+  <originaltitle>第 24 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281664</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>刘天龙老巢内，正当他与老板为报酬问题产生争执时，手下传来消息说并未在龙王祠堂找到货物，刘天龙不由得感叹“猎鹰”的可怕。老板心生疑惑，询问此人来历，最终惊觉“猎鹰”正是失踪的程汤！锦玉、景标和如常被幽禁在刘天龙的老巢里，他们意识到自己的行踪定是为内奸所泄漏。如常坚信师父会来救他，而沮丧之极的锦玉认定燕双鹰就是内奸。在龙王祠堂扑了个空的刘天龙质问锦玉货物下落未果，恼羞成怒之下拿如常的性命相逼。此时的燕双鹰带着雅琴、玉仙以及中村藏身于江边库房内。林玉仙欲与燕双鹰诉衷肠，燕双鹰却嘲讽她不会演戏，并指出林玉仙正是那个奸细！中村请雅琴唤来燕双鹰并告诉他们一个惊人的内幕，原来他撒了谎，许先生与佐藤并不是不知所踪，事实上，他们携带着另一批霍乱病毒奔赴重庆，而且参与病毒交易的日本人还有另外四人，他们均是731部队的研究员。中村还透露，此次交易与代号“黑鹰”的计划有密切联系。许先生和佐藤在老板的要求下放弃目的地重庆，转道宜宾，两人与老板秘密会面。老板也说出了让他们转道宜宾的二个原因第一个原因卧底在自己身边的五号情报员尚未挖出这个五号可以说是心腹大患老板几次设局都没有成功把五号挖岀来。第二个原因猎鹰一号计划就是沙平坝大礼堂的刺杀计划成功以后重庆的风声非常紧张共产党的盘查也非常严格老板担心把二号病毒运到重庆一旦被共产党发现那可就大事不妙了。可那四个日本人已经到了重庆要是无人接应被共产党抓住那也会出事，所以老板让许洪宾和佐藤第二天一早赶到重庆找到那四个日本人然后到沙平坝中街的祥和茶楼茶楼老板会安排他们的然后让他们等待老板的命令。</plot>
+  <runtime>40</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2431</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep24_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

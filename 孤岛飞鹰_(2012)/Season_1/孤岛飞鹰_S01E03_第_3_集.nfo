@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 3 集</title>
+  <originaltitle>第 3 集</originaltitle>
+  <showtitle>孤岛飞鹰</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281696</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>猎鹰暗杀队几个人决定潜入华中联络部，在为天皇特使举行欢迎晚宴上动手，宴会上，检查非常严格，为了防止投毒连戒指都不能戴进去。燕双鹰只得把手上的戒指丢到一旁。上海市长章啸天带着女儿章月欣也来了，章月欣对父亲的懦弱很有意见，她痛恨日本人，认为日本人是侵略者，章啸天表示小不忍则乱大谋，首先要保护好自己。他是寄存虎穴暂存身，身在曹营心在汉。青木弘一和燕双鹰也来了，章月欣对燕双鹰所在的忠社很感兴趣，不停地对燕双鹰问这问那。</plot>
+  <runtime>37</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1908</width>
+        <height>1080</height>
+        <durationinseconds>2257</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>03_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

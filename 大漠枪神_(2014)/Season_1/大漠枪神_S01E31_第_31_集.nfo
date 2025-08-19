@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 31 集</title>
+  <originaltitle>第 31 集</originaltitle>
+  <showtitle>大漠枪神</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3310891</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小玲带着林雪来到群仙酒楼，大莲和沈七七早在这里等着她。大莲命沈七七杀掉小玲，燕双鹰、高进、孙四海及时营救。沈七七再次输给燕双鹰，临死前告诉他大莲就是临河集二当家莲姑。大莲、小玲、林雪被老丁捆绑着，一神秘人从背后走了出来，是一个长相相似老刀把子的人，大莲认出他不是老刀把子，而是控制和杀死老刀把子的幕后黑手。燕双鹰此时也明白自己忽略了一个关键人物——老大，那只幕后黑手。燕双鹰找到朱三愣问他谁是老大，因为朱三愣一直是老大的联络人，而朱三愣也表示自己没见过老大，只是从石头下把情报取出交给老丁，燕双鹰命其联络老大。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1080</height>
+        <durationinseconds>2763</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>E31_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

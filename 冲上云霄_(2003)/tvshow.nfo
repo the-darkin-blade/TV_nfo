@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>冲上云霄</title>
+  <originaltitle>衝上雲霄</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <sorttitle/>
+  <year>2003</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>7.3</value>
+      <votes>3</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>剧集以航空业为题材。这是一个极具难度的题材，为香港电视剧史上的首次。在这套剧拍摄中，得到了国泰航空公司和香港机场管理局的支持。从开始大量的资料搜集，创作剧本以至拍摄，到最后完成后期剪接，再到播映，整部剧集的制作历时三年。摄制组远赴多个海外城市取景，包括远赴澳洲、意大利和日本进行实景拍摄，当中于澳洲阿德莱德飞行训练学校取景拍摄时，得到当地训练导师提供专业指导和协助。</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"6154","imdb":"tt0441052","wikidata":"Q6686449","tvdb":"259141"}</episodeguide>
+  <id>259141</id>
+  <imdbid>tt0441052</imdbid>
+  <tmdbid>6154</tmdbid>
+  <uniqueid default="false" type="tmdb">6154</uniqueid>
+  <uniqueid default="false" type="imdb">tt0441052</uniqueid>
+  <uniqueid default="false" type="wikidata">Q6686449</uniqueid>
+  <uniqueid default="true" type="tvdb">259141</uniqueid>
+  <premiered>2003-10-27</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <tag>inspirational</tag>
+  <tag>modern drama</tag>
+  <actor>
+    <name>吴镇宇</name>
+    <profile>https://www.themoviedb.org/person/63584</profile>
+    <tmdbid>63584</tmdbid>
+  </actor>
+  <actor>
+    <name>张智霖</name>
+    <profile>https://www.themoviedb.org/person/144860</profile>
+    <tmdbid>144860</tmdbid>
+  </actor>
+  <actor>
+    <name>胡杏儿</name>
+    <profile>https://www.themoviedb.org/person/938251</profile>
+    <tmdbid>938251</tmdbid>
+  </actor>
+  <actor>
+    <name>陈法拉</name>
+    <profile>https://www.themoviedb.org/person/123701</profile>
+    <tmdbid>123701</tmdbid>
+  </actor>
+  <actor>
+    <name>吴卓羲</name>
+    <profile>https://www.themoviedb.org/person/1222249</profile>
+    <tmdbid>1222249</tmdbid>
+  </actor>
+  <actor>
+    <name>马国明</name>
+    <profile>https://www.themoviedb.org/person/1232198</profile>
+    <tmdbid>1232198</tmdbid>
+  </actor>
+  <actor>
+    <name>胡定欣</name>
+    <profile>https://www.themoviedb.org/person/1234856</profile>
+    <tmdbid>1234856</tmdbid>
+  </actor>
+  <actor>
+    <name>江美仪</name>
+    <profile>https://www.themoviedb.org/person/236195</profile>
+    <tmdbid>236195</tmdbid>
+  </actor>
+  <actor>
+    <name>罗子溢</name>
+    <profile>https://www.themoviedb.org/person/237032</profile>
+    <tmdbid>237032</tmdbid>
+  </actor>
+  <actor>
+    <name>周志文</name>
+    <profile>https://www.themoviedb.org/person/3847111</profile>
+    <tmdbid>3847111</tmdbid>
+  </actor>
+  <actor>
+    <name>傅嘉莉</name>
+    <profile>https://www.themoviedb.org/person/583066</profile>
+    <tmdbid>583066</tmdbid>
+  </actor>
+  <actor>
+    <name>单立文</name>
+    <profile>https://www.themoviedb.org/person/142644</profile>
+    <tmdbid>142644</tmdbid>
+  </actor>
+  <actor>
+    <name>邓梓峰</name>
+    <profile>https://www.themoviedb.org/person/1627420</profile>
+    <tmdbid>1627420</tmdbid>
+  </actor>
+  <actor>
+    <name>何君诚</name>
+    <profile>https://www.themoviedb.org/person/3214793</profile>
+    <tmdbid>3214793</tmdbid>
+  </actor>
+  <actor>
+    <name>梁靖琪</name>
+    <profile>https://www.themoviedb.org/person/1232672</profile>
+    <tmdbid>1232672</tmdbid>
+  </actor>
+  <actor>
+    <name>朱晨丽</name>
+    <profile>https://www.themoviedb.org/person/985095</profile>
+    <tmdbid>985095</tmdbid>
+  </actor>
+  <actor>
+    <name>岑丽香</name>
+    <profile>https://www.themoviedb.org/person/1688880</profile>
+    <tmdbid>1688880</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

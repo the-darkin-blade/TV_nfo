@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦琛梦想成真</title>
+  <originaltitle>Episode 2</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id>4328845</id>
+  <uniqueid default="false" type="tmdb">1982436</uniqueid>
+  <uniqueid default="false" type="trakt">1851316</uniqueid>
+  <uniqueid default="true" type="tvdb">4328845</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>亦琛再遇以珊，在浪漫气氛下，二人拥吻，结为情侣。云志女友找亦琛，以珊误以为亦琛是个花心的人，而亦琛又误会以珊另有男友，二人分手。后以珊遇上云志，云志对她一见钟情，二人发展成情侣。一年后，云志带以珊见亦琛，二人见面不敢相认感尴尬。以珊误会一年前亦琛借用云志之名向旧女友提出分手，对他的误解更深。
+
+苏怡因年前盲肠炎而被机组人员照顾，对航空业产生兴趣，加入机场工作，但表现欠佳，被上司嘉露斥责。苏怡为帮一对乘客夫妇和好令飞机延误，差点过不了试用期，但她却感值得。苏怡再遇亦琛，但不敢相认，只拿着公仔暗暗思念他。其表哥善波劝她应追求真爱。云志对以珊情深一往，对她的往事不欲追究，更为她一改风流的个性，只愿与她长相厮守，更送上不同的公仔给她，但可惜不是以珊想要的。
+
+唐璜性格浪漫，但对工作一丝不苟，为求美食灵感，到罗马旅行，再遇前妻佳美，二人爱火重燃，决定复合。佳美告知当年离家时，已有身孕，产下一子亦风，但长久以来以姐弟相称。唐璜告知亦琛会再婚，亦琛大感不满。唐璜暗中安排亦琛载佳美母子回港，令他梦想成真，一家团聚，本应开心，但唐璜和佳美却不知如何向亦风解释身世。亦琛对亦风散漫的个性没好感，亦风对亦琛反感。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>2674</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E02.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 30 集</title>
+  <originaltitle>第 30 集</originaltitle>
+  <showtitle>飞虎神鹰</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3168727</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>先施百货门口等待杜马被宋齐领到了鱼鳞里联络点，却扑了空。只找到燕双鹰留下一张字条，约杜马再回先施百货见面。杜马知道自己已经由主动转为被动了，现燕双鹰正在暗处等着了，杜马如约和燕双鹰见面，并被燕双鹰制住。杜马转达了陈恭鹏邀请，答应委以重任为副社长，但燕双鹰表现得非常平静，要三天时间考虑。</plot>
+  <runtime>42</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>LeTV</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2548</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E30.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

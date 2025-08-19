@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 13 集</title>
+  <originaltitle>第 13 集</originaltitle>
+  <showtitle>孤岛飞鹰</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281708</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>郑雅姝不好意思向燕双鹰表白，严韵遥对燕双鹰有些崇敬，她想把天国宝藏的事情告诉他，严韵遥答应替他继续调查，燕双鹰答应以后还会来看望她。林小江开车来到燕双鹰跟着，燕双鹰上车后被郑雅姝盘问，他们这才知道严韵遥是清雅咖啡馆的老板，郑雅姝醋意大发，燕双鹰不明白她为何那样自作多情，对他们警告后燕双鹰下车离开。郑雅姝在车里哭泣，林小江来到后座安慰她。燕双鹰回到歌舞厅时林小江向他汇报说市和李志群来了，林小江已安排他们在贵宾室，还在暗室中设好埋伏，燕双鹰让他们不要轻举妄动。</plot>
+  <runtime>37</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1908</width>
+        <height>1080</height>
+        <durationinseconds>2245</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>13_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>武媚娘欲逃离长安城</title>
+  <originaltitle>武媚娘欲逃离长安城</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>62</episode>
+  <id>5109837</id>
+  <uniqueid default="false" type="tmdb">1040373</uniqueid>
+  <uniqueid default="false" type="trakt">1724283</uniqueid>
+  <uniqueid default="true" type="tvdb">5109837</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>长孙无忌决定再对李恪出手。李治得知媚娘有了身孕，强颜欢笑。高阳与李治分析现在朝堂的状况，建议李治尽快培植自己的势力，把李恪调回长安。李治被说动。高阳提醒李治媚娘一直对大朝会看过的烟花念念不忘。李治决心为媚娘放一场烟花。秀珠告知王皇后李治既没来立政殿，也没去萧淑妃宫中，而是被高阳拦住了。李治提笔写信给李恪，召他回长安。望着李世民的皇帝宝座，说出自己从长孙无忌手中夺权的决心。李恪接到李治的信，心中对未来感到担忧，杨长史劝说李恪回长安，施展抱负。李恭在密信中写明李恪并无不臣之心，倒是杨长史值得提防。许敬宗在李治授意下上折奏请由李恪出任副统领一职，却反被早有准备的长孙无忌抓住痛脚参了一本，贬出了长安。秀珠来请李治去看《兰陵王入阵曲》，李治拒绝，想到王皇后背后的力量，软言安慰。 媚娘正在大殿修行，突然寺外烟花升空，媚娘起身追着烟花跑到寺外。李治坚定了要把媚娘留下来并保护她的心。 王皇后为自己的政治婚姻感到可悲。素节在净初池畔舞剑，王皇后心中喜爱素节，欲亲近素节。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep62 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="62" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

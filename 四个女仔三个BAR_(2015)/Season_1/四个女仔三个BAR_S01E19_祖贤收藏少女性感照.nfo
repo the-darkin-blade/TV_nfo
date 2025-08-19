@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:03:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>祖贤收藏少女性感照</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>四个女仔三个BAR</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3188656</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>靖姿不承认收到梓博的讯息，但晚上二人却依然以黑天使及M31的身分不断通短讯。梓博放了一个加了翅膀的啤啤熊公仔在靖姿的办公桌上，称啤啤熊作黑天使。
+
+妁彤替韵诗求情，法官同意妁彤的求情理据，判韵诗进儿童及青少年院一年，接受感化。韵诗虽获轻判，但未知悔改，更说出一堆难听的说话。隽烨认为妁彤应饮酒庆祝，但妁彤却喝茶，她表示过去酗酒都因为隽烨，但现在她不想再饮，且她认为没甚么值得庆祝，因韵诗嫌判刑太轻，觉得没坐过牢没面子，她替韵诗母亲可怜，辛苦养大女儿，女儿却不自爱。
+
+妁彤打算　休息一年
+
+隽烨考虑是否把办事处迁到十七楼，那儿比现时公司的面积大一半，若妁彤有兴趣他可让出一个办公室，妁彤无须交租，经济便会较宽裕。妁彤拒绝，且指隽烨毋须总觉得欠了她，她透露稍后或会放一个长假期，到外国休息一年左右。
+
+慧芸欲与智毅吃饭，到律师楼后才知丈夫往医院探学生。李丹不肯服药，觉得服了药也没用，因她做不完功课，不能毕业。智毅提醒她只要有医生证明，学校会接受她延期毕业，但李丹谓她不能延期毕业，因为这样她会失去奖学金，她的家人也没钱让她继续学业。
+
+央求智毅　向校求情
+
+李丹哭诉她的父母在大地震时死了，双亲临死前嘱她努力读书，将来出人头地。李丹央智毅代她向校方求情，智毅答应。智毅把纸巾递给她时，她捉紧智毅的手，来探望李丹的靖姿刚好看到这个画面。
+
+慧芸发现祖贤的平板电脑内有一些少女性感相片，提醒智毅向儿子了解一下。智毅把自己成长期学习性知识的经验与儿子分享，祖贤受落。
+
+梓博再次把黑天使啤啤熊公仔放到靖姿的工作桌上，靖姿竟静悄悄把啤啤熊送进紫凝的办公室，令紫凝误会是追求者偷偷送她的礼物。
+
+以为梓博　暗恋紫凝
+
+梓博到紫凝办公室把公仔取回被发现，各人以为梓博暗恋紫凝，梓博只好撒谎把众人注意力转移。
+
+慧芸半夜听到智毅讲电话，对方要求与智毅见面，智毅则劝对方学习自己不在身边都能做事。靖姿探李丹时，李丹因智毅没出现而不满。有教授指李丹经常迟交功课，过了期限又会苦缠要求通融，认为不能姑息。智毅代李丹求情，指李丹身世可怜，希望校方给她一次机会。
+
+重遇子骏　靖姿兴奋
+
+可欣向靖姿打听梓博追求紫凝的事，言谈间流露出对梓博的好感……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-20 00:03:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2689</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E19.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

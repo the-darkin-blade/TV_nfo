@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李泰为争皇位欲杀子</title>
+  <originaltitle>李泰为争皇位欲杀子</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>46</episode>
+  <id>5101027</id>
+  <uniqueid default="false" type="tmdb">1040357</uniqueid>
+  <uniqueid default="false" type="trakt">1707952</uniqueid>
+  <uniqueid default="true" type="tvdb">5101027</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李牧翻看了媚娘的包括中的木盒，却在木盒中看到了一朵干枯的菊花。 李泰中了杨妃的计，向李世民毛遂自荐，并为得太子之位说出了可以“杀子传弟”的话，让李世民心惊不已。李世民下旨，封李治为太子，李泰失望至极。杨长史向李治贺喜的同时告诉李治，李泰将有性命之忧，杨长史教李治去李泰府劝解李泰。 媚娘要离开皇宫的前夜，去看望卧病的杨妃，感谢杨妃对她的帮助。李牧将神秘木匣放入行囊，又向甘露殿的方向眺望，似乎要做些什么，而甘露殿中的李世民对着王德呈上的妃嫔绢册思念媚娘。媚娘小心翼翼捧着娟帕包裹的菊花，生怕它碎掉。月光下，李牧正在拭剑，三个小太监来找李牧。这个夜晚看似平静如常，却隐隐有股山雨欲来之势。 李泰为太子之位陷入疯狂，为了表明自己能履行将来“杀子传弟”的承诺，竟然提剑要去杀子，两个孩子奔逃无路，李治出现，制止了李泰疯狂的行为。李治劝说李泰自动退出储位之争，却更加刺激了李泰。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2660</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep46 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="46" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

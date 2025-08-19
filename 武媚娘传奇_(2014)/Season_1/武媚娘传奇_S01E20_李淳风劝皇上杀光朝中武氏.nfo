@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李淳风劝皇上杀光朝中武氏</title>
+  <originaltitle>李淳风劝皇上杀光朝中武氏</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>5097925</id>
+  <uniqueid default="false" type="tmdb">1040331</uniqueid>
+  <uniqueid default="false" type="trakt">1698967</uniqueid>
+  <uniqueid default="true" type="tvdb">5097925</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>媚娘想起德妃临终所托，夜不能寐，求见李世民，恳请他保住李佑的性命，却得知，齐州军被剿灭时，殷宏智见大势已去，弑杀李佑后自尽。李世民向媚娘讲述旧事，当年殷家成为李唐王朝的罪人。李世民却坚持纳了德妃，为保李佑性命，把他外放去封地，不料竟然亲手推儿子入了死地。媚娘看出眼前帝王的伤心，对他产生怜惜之情。 李淳风夜见李世民，说出唐三代而亡，女主武氏代之的卦象，请求杀掉媚娘。李世民叮嘱李淳风不要把卦象外泄。媚娘听到李淳风的话，梦到李世民举剑杀了自己。韦妃从李淳风的侍从清风处得到卦象上的预言，将这个消息传给了魏王。 高昌国勾结西北漠犯边，李世民同意让侯君集出征。 魏王决心引导流言，拉太子下位，韦妃却意在媚娘，二人没有达成共识。蒙面小太监夜探观天台，李淳风发现媚娘生辰八字被人动过。这时，韦妃的说客来访，意图说服李淳风合作，李淳风却说不想冤枉人。说客走后，蒙面太监露面，竟然是媚娘。媚娘愤恨李淳风要害自己，想要杀了李淳风，却终下不了手。媚娘向李淳风表明她不会是那个女主武氏。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2668</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep20 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

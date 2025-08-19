@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 8 集</title>
+  <originaltitle>第 8 集</originaltitle>
+  <showtitle>英雄</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3278078</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰知道了杀手的身份，答应老刀把子尝试去抓捕他，神秘人要求老刀把子杀死燕双鹰。燕双鹰去探望小玲，两人因为爱情走到一起。晚上，蒙面人突袭，燕双鹰发现是效仿步鹰的双重性格的小玲。燕双鹰离开小玲独自上路，半路上被偷袭身受数枪坠入山崖。燕双鹰失去记忆走到大莲家，被收留并取名为李大喜，但是他总是为自己的身世困惑不已。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>2.0</aspect>
+        <width>1666</width>
+        <height>850</height>
+        <durationinseconds>2816</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E08.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

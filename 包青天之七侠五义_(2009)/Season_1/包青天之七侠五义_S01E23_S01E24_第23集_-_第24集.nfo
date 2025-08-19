@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-16 23:54:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第23集</title>
+  <originaltitle>第23集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187920</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>欧阳春发现马帮兄弟多日未送货至，觉有蹊跷，要雷莎暂时照顾元贞，自己前往马帮一探究竟。谁知欧阳春一到马帮，才知三日前长老被郭亮用刑逼问元贞下落，急忙赶回却惊见雷莎已为保护元贞而不幸殒命，欧阳春怒战郭亮将之击败，谁知郭亮竟以元贞性命为要挟，危急之际，展昭赶至相助，郭亮终于伏法。元贞亦照约定前往京城，临行前与欧阳春订下婚盟。西夏特使元贞终于踏入宫中面见仁宗，完成两国和平使命。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>1081-12-23</premiered>
+  <aired>1081-12-23</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep23-24.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第24集</title>
+  <originaltitle>第24集</originaltitle>
+  <showtitle>包青天之七侠五义</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2187921</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>为查真相，包拯另派艾虎暗中护卫方烈回登州。包拯至青州面见京东王赵怡，始知当年皇室内斗，赵怡被逐往青州不能回京之往事，又得知杨牧原为赵怡女婿，深感事态更为复杂。艾虎保护方烈回到登州，发现渔民出海失踪之事，急向熟识的渔女小翠询问，艾虎发现小翠与方烈之间并不单纯。包拯获报后，表面不动声色，继续视察海防，与霍刚、杨牧等人周旋，暗中则派展昭协助追查。</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>1081-12-23</premiered>
+  <aired>1081-12-23</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Anhui Television</studio>
+  <studio>Shanghai Television</studio>
+  <dateadded>2025-08-16 23:53:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Bao.Qing.Tian.Zhi.Qi.Xia.Wu.Yi.Ep23-24.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

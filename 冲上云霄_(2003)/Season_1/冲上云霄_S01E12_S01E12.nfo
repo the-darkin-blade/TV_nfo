@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亦风考获佳绩</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>4328855</id>
+  <uniqueid default="false" type="tmdb">1982449</uniqueid>
+  <uniqueid default="false" type="trakt">1851326</uniqueid>
+  <uniqueid default="true" type="tvdb">4328855</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>嘉露对善波多加照顾，二人关系大有进展，善波为近水楼台，跟苏怡搬住嘉露的单位。苏怡挂念在澳洲受训的亦琛和亦风，以电邮送上鼓励和祝福。亦风平日懒散，考试渐近，感追不上，向希欣和浩聪请教功课，亦琛对他临急抱佛脚，不以为然。亦风苦读，终于找到读书要诀，对考试充满信心，但众人均不信他会用功。
+
+考试结果公布，亦风考获全班第一，亦琛和众人难以置相，亦琛想起考试前亦风曾到他的房间，怀疑他可能偷看试题。亦琛向亦风查问，亦风大怒，亦琛私下向校方争取让亦风重考。亦风在重考中考取满分，以实力证明自己是清白，亦风对亦琛恶言相向，亦琛认为自己公正，双方争持不下。亦琛在亦风所还的飞行笔记中找到他所送心意咭，明白自己误会了他，亦风想清楚自己也有不对，兄弟终于和解。
+
+亦琛回港述职，佳美告知将到航空公司工作。云志度蜜月后回港，相约亦琛到新居吃晚饭，亦琛欲推辞，被云志拒绝，以珊知云志请亦琛回家，大感不安。云志遇上Mimi，Mimi叫他代向亦琛致谢。以珊约嘉露吃饭，实质怕见亦琛，苏怡便乘机参加他们的饭局，亦琛见以珊，二人感尴尬，幸得苏怡打圆场，云志叫亦琛考虑苏怡，苏怡芳心大悦，但亦琛表明只当她是妹妹。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1574</width>
+        <height>1080</height>
+        <durationinseconds>2677</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E12.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

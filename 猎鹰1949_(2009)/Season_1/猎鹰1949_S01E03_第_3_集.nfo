@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 3 集</title>
+  <originaltitle>第 3 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281639</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李延平在得知程汤被击毙的消息后立即驱车齐前往彭水。赵雅琴的证件被找到，身份获得证实。她告诉燕双鹰自己是受到了程汤的挟持，因为“猎鹰计划”需要她这样的军械专家。根据赵雅琴的口供一个偷梁换柱打入敌人内部的大胆冒险计划已经在他胸中逐渐酝酿成形，他从特务营挑选了一批精英，让他们在赵雅琴的指导下熟悉狙击步枪的性能，他自己也换上了程汤的行头 ——皮风衣大墨镜。“老板”得知彭水已经被我军占领的消息后略显惶恐，他试图用电台与程汤取得联系。殊不知程汤藏在留声机里的电台早已被心思缜密的燕双鹰起获。燕双鹰冒程汤之名与“老板”联系，“老板”老奸巨滑在电文里连使诈术先是让“程汤”报上密电代码，然后再报上程汤的年龄和身高最后问及货物安全吗。前面几个问题燕双鹰都回答自如可货物安全吗燕双鹰想了半天终于猜出去了货物指的是赵雅琴“程汤”回电安全思亲心切情绪不稳我会注意。经过几番电文往来，燕双鹰断定“老板”与程汤尚未谋面，于是制造出程汤一行已安全逃离彭水的假象。燕双鹰乔装卧底的计划与李延平的想法不谋而合。经过讨论决定，首先要搭救赵雅琴在贵阳的家人，以便让她能放心的参加此次卧底行动。其次是让燕双鹰到达重庆后尽快与五号情报员取得联系，以确保粉碎“猎鹰计划”并将敌特一网打尽。</plot>
+  <runtime>41</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2519</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep03_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

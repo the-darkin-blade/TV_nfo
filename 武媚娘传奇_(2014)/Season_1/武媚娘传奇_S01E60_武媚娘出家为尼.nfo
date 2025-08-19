@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>武媚娘出家为尼</title>
+  <originaltitle>武媚娘出家为尼</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>60</episode>
+  <id>5109835</id>
+  <uniqueid default="false" type="tmdb">1040371</uniqueid>
+  <uniqueid default="false" type="trakt">1724281</uniqueid>
+  <uniqueid default="true" type="tvdb">5109835</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>媚娘来到甘露殿，看到痛哭的朝臣们。甘露殿上回荡着媚娘撕心裂肺的呐喊。徐慧在锦乐宫中自尽，留下遗言，求媚娘把她葬在李世民身旁。媚娘入感业寺，李治把瑞安调到自己身边，高阳祭拜辩机，说出最后关头锁住媚娘的原因，原来她心中仍在记恨李世民杀了辩机，于是要让李世民至死也见不到媚娘，并承诺一定会为辩机讨回公道。李治盘桓在感业寺外想见媚娘，然而寺门打开，他见到的却不再是曾经神采飞扬的媚娘，而是一个失去了灵魂的女尼明空。李恪离开长安到了安州，终日无心政事，过上闲散王爷的生活，杨长史怒其不争，与前朝杨瞻后人杨沫设下计谋，先是斩杀长孙无忌的耳目嫁祸给李恪，又假意刺杀李恪嫁祸给李治，意欲挑拨李恪和李治的兄弟关系，李恪却选择相信李治。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2670</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep60 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="60" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

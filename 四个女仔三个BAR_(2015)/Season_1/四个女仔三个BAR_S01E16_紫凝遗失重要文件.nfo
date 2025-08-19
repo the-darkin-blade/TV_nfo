@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:03:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>紫凝遗失重要文件</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>四个女仔三个BAR</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3188653</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>梓博、靖姿、安居、翠花及紫凝一同参加法律课，靖姿抄笔记的速度无法追上讲师，梓博表示回公司后给她一份副本。制作公司完成了可欣婚礼的光碟，要求靖姿转交可欣，众人课后在楼下遇到可欣，可欣因送错文件，必须赶在十分钟内把文件送到正确的律师楼，梓博主动提出帮忙，以飞奔的速度完成任务。
+
+安居等在紫凝家看可欣的婚礼光碟，梓博买了寿司，大家边吃边看，梓博觉得碟中有很多翠花的镜头，安居趁梓博与靖姿的画面出现，把话题转移。
+
+可欣被缠　梓博解围
+
+梓博接可欣来电，多谢他代送文件，梓博知道可欣须工作至很晚，没时间吃晚饭，提议靖姿带一些寿司回家给可欣。
+
+紫凝等人陪可欣参加单身派对，安居受到一位女参加者的青睐，但他的双眼却一直没离开过翠花。翠花与一名运动型的男生谈得颇为投契，安居看得更是肉紧。
+
+派对结束后，梓博看见可欣被派对中的男生纠缠，上前替可欣解围，可欣遂挽梓博的手离开，在另边同样被男生苦缠的靖姿看见，心下一沉；翠花亦打发了该位运动型男生，在面店用餐，谁知竟遇上安居……
+
+哭诉父亲　只顾面子
+
+妁彤收到隽烨送来的鲜花，把花转送予同事。紫凝遗失了志熊案的档案夹，当中包括蓝晶晶写给志熊的信，足以证明晶晶的寓所是志熊购买来作二人同居之用。
+
+紫凝遍寻整个律师楼都无所获，被贯东大骂，贯东更谓若志熊向大律师公会投诉紫凝，他也帮不了忙。贯东离开后，在餐厅外的妁彤上前，紫凝哭诉贯东只顾自己的面子，没关心她的感受，且外人总拿她与父亲作比较，令她的压力更大。妁彤劝她想办法把文件夹找回来，胜于花时间伤心痛哭。
+
+建议安装　闭路电视
+
+可欣、靖姿及翠花根据紫凝最近的购物单据，逐一店铺打电话，查询有否拾获紫凝的档案夹，紫凝感动。
+
+紫凝向志熊坦白遗失了晶晶给他的信，被志熊斥责一番，幸最终有的士司机把文件夹送回，可惜案件开审，形势对志熊不利，紫凝压力倍增。
+
+翠花妹妹翠苑涉嫌偷窃被带到警署，翠花赶往陪她录口供，紫凝同往。其间警署接到报案人通知已寻回失物，向警署销案。紫凝随翠花等回到宾馆，她参观宾馆时提议在走廊安装闭路电视，则翠花家人及租客都可有所保障。
+
+形势逆转　心情大好
+
+紫凝眼看翠花与翠苑亲密的姊妹关系，颇为羡慕……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-20 00:03:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2697</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E16.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

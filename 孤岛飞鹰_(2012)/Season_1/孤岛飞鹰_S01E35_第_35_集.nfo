@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:00:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 35 集</title>
+  <originaltitle>第 35 集</originaltitle>
+  <showtitle>孤岛飞鹰</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281733</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>开纳路图书馆密室中，正在寻找密语的章啸天找到的却是穆馆长的兵力。当严韵遥举起枪朝向章啸天时，章啸天坦然“永王之印”在自己的手中。出于对家族宝藏的保护，穆馆长与严母都觉得应当拿到此印后再杀掉罪人章啸天。但章啸天还未走出开纳路图书馆就被李志群等人包围，章啸天立刻投奔李志群一方，仗着李志群的势力要当场剿灭穆馆长的手下。</plot>
+  <runtime>37</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:41</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1908</width>
+        <height>1080</height>
+        <durationinseconds>2242</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>35_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

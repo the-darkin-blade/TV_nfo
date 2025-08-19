@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:59:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 7 集</title>
+  <originaltitle>第 7 集</originaltitle>
+  <showtitle>飞虎神鹰</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3168704</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>九头把骰子摇到只剩一个六，燕双鹰把骰子掷到了墙上合成七点，九头服输，九头等人要离去，燕双鹰不让九头走叫其余的人先离去,燕双鹰和九头对切口，九头这才知道原来这个大哥是悟字辈的青帮大哥，九头和燕双鹰说自己的赌场经常被马志成捣乱，燕双鹰说他也看上了马志成的歌舞厅，燕双鹰要小锦娣不要再跟着曾阿四，原来曾阿四是小锦娣的师傅，小锦娣说燕双鹰救过她要燕双鹰收留他，燕双鹰甩掉了小锦娣。</plot>
+  <runtime>37</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>LeTV</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2276</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E07.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 00:00:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>苏怡病情恶化</title>
+  <originaltitle>Episode 38</originaltitle>
+  <showtitle>冲上云霄</showtitle>
+  <season>1</season>
+  <episode>38</episode>
+  <id>4328881</id>
+  <uniqueid default="false" type="tmdb">1982476</uniqueid>
+  <uniqueid default="false" type="trakt">1851352</uniqueid>
+  <uniqueid default="true" type="tvdb">4328881</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>苏怡怀疑大雄因未能上机而虚报有炸弹，召警员拘捕他，但大雄否认，并担心叮当安危，苏怡亦为机上的亦琛挂心。亦琛劝叮当下机，叮当认为是大雄逼她的技俩，拒绝下机，时大雄不顾一切冲上机救走叮当，并向她表明爱意，二人和解。事后证实是一场虚惊，苏怡开心得拥抱亦琛，并哭了出来。
+
+亦琛细心照顾苏怡，并抽空相伴，偶然一同看到流星，二人许愿希望可以一生一世幸福在一起。苏怡病情恶化，医生建议她入院接受治疗，苏怡本想拒绝，但经不起亦琛恳求，入院留医。亦琛把苏怡的病情告知家人，众人为她忧心。
+
+亦琛驾驶航班中，一名乘客余先生必须赶赴新加坡，预备动手术把肝脏移植给其五岁病危的儿子，途中他接到儿子病情恶化的消息，情急下哭求机长直飞新加坡，不停中转站，好能赶及动手术。亦琛等机组人员因事件牵涉数百名乘客和技术问题，感为难，亦琛念及他的决定关乎一条人命，向公司请求义助余先生，更举行全机投票，征询乘客意见，结果大部份乘客均答应帮忙，余先生得偿所愿。余先生的儿子手术成功，全公司感兴奋，亦琛的表现备受赞赏。苏怡自觉时间无多，决定出院重返工作岗位，于是公司安排她拍宣传片，亦琛陪伴在则照顾。嘉露找亦琛，告诉他以珊行为神秘，请他多加留意。亦琛发现以珊常返回旧居，跟踪她。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-16 23:56:27</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1574</width>
+        <height>1080</height>
+        <durationinseconds>2666</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E38.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="38" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

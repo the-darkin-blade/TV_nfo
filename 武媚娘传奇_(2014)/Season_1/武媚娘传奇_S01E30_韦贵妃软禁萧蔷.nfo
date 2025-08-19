@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-17 22:20:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>韦贵妃软禁萧蔷</title>
+  <originaltitle>韦贵妃软禁萧蔷</originaltitle>
+  <showtitle>武媚娘传奇</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id>5097935</id>
+  <uniqueid default="false" type="tmdb">1040341</uniqueid>
+  <uniqueid default="false" type="trakt">1698977</uniqueid>
+  <uniqueid default="true" type="tvdb">5097935</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李世民带媚娘进入自己的密室祭台，向她诉说征战和杀人的痛苦。 媚娘若有所思。深夜，媚娘亲自点了一盏宫灯到密室，来祭奠那个被自己当替死鬼的李君羡。 太子终于下决心杀称心，承诺会照顾称心的母亲，称心毫无怨言，为知己平静赴死。李世民与朝臣、皇子们在甘露殿议政，太子缺席引来李泰的诟病，这时，太子带着称心的首级走进甘露殿，堵住了悠悠之口。太子妃得知称心的死讯，感叹东宫终于太平了。 看守萧蔷的宫人打瞌睡，萧蔷寻得独自行动的时机，偷跑出宫室，却听到了韦妃欲夺去她的孩子再置她于死地的阴谋。萧蔷深感惊恐。萧蔷受邀参加阙楼夜宴，终于有机会暂时脱离韦妃的监控，她欲向刚入宫时结交的好友冯才人和陈美人求助，却得知二人表面与自己姐妹情深，实际都对她恨之入骨。萧蔷走投无路时，看到徐慧和媚娘，计上心头。 萧蔷表面上仍装作若无其事与其他妃嫔寒暄，当着韦妃的面要请徐慧一聚，获得韦妃首肯。萧蔷以想吃徐慧的糕点为由请徐慧到韦妃宫中。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Fan Bingbing Studio</studio>
+  <dateadded>2025-08-17 22:15:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2669</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj The Empress Of China Ep30 Hdtv 1080I H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

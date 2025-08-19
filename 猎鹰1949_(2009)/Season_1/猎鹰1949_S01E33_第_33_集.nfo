@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 33 集</title>
+  <originaltitle>第 33 集</originaltitle>
+  <showtitle>猎鹰1949</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3281674</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕双鹰带着莎莉来到大厅，遭遇了黑狼的伏击，幸而燕双鹰早有准备，上演一出狸猫换太子的好戏，占了上风。原来给打恐吓电话给莎莉的正是黑狼，莎莉的父亲是重庆有头有脸的人物，而且与共产党的关系不同寻常。敌特正是看中了这一点，派黑狼杀死莎莉而后嫁祸给燕双鹰，让共产党更加决绝地追捕他。黑狼万万没有想到，燕双鹰正是为了引蛇出洞，才亲自来找莎莉并定下狸猫换太子之计，他终于见识到了燕双鹰的可怕之处。为了尽快到达重庆，也为了保护莎莉，燕双鹰带着她迅速撤退。吴玉霞一行人赶到，发现公馆的惨状后大惊失色。死亡的杀手身上的美式装备、庞子坤指证的黑衣人留下的烟头并不是燕双鹰常抽的泰山牌、以及莎莉接到的两个奇怪电话让吴玉霞感到事有蹊跷，她意识到在燕双鹰之外还存在神秘的第三人。娇生惯养的莎莉几近崩溃，燕双鹰承诺只要她能提供一条船，就不再缠着她。莎莉同意将凰山老屋的船给他，两人于是朝凰山而去。吴玉霞也从庞子坤处打探到了凰山有船的消息，率部队急行跟进。赵雅琴三人正欲上重庆，却从赵铁钢那里得到吴玉霞将在凰山追捕燕双鹰的消息，三人立刻放弃登船，奔赴凰山。</plot>
+  <runtime>40</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-19 23:55:40</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2424</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep33_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="33" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

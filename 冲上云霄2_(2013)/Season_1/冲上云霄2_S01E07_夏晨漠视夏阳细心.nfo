@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-20 00:01:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>夏晨漠视夏阳细心</title>
+  <originaltitle>夏晨漠视夏阳细心</originaltitle>
+  <showtitle>冲上云霄2</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">5586972</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>亦风知道亦琛和夏晨碰面后，非常担心亦琛心理状况，但亦琛却表示自己相当清晰，知道夏晨和苏怡是两个截然不同的女孩，着亦风不用担心。之后亦风和卓芝回到Skylette遇见志宏，知悉志宏会飞台湾短线，志宏也会借此机会和身在台湾的女朋友见面。
+
+志宏和女伴菲菲一起在垦丁的海滩玩乐，状甚甜蜜温馨，突然志宏接到另一女伴丽安的电话，丽安是空中服务员，为了给志宏惊喜特别调了航班来到台湾垦丁找志宏，吓得志宏要狼狈地安顿好菲菲，再赶到海生馆和丽安见面。
+
+协助子麟　免受滋扰
+
+子麟等人在世锦赛胜出后，乘坐Skylette的航班回港，其他乘客见到子麟都争相上前和他合照攀谈，令性格内向又不懂得拒绝别人的子麟相当不胜其烦。卓芝见状上前协助他，并安排子麟转往头等机舱让他能好好休息，也安排特别的路线让子麟能顺利离开机场，令子麟对卓芝留下了深刻印象。
+
+夏阳安排　惊喜派对
+
+夏阳在亦风口中得知了「PPP计划」的截止报名日期，想起了正好和夏晨的生日为同一日，细心的夏阳为夏晨写了一张心意咭，打算偷偷放进夏晨的随身工具箱内，让夏阳发现夏晨经常将一只已经停顿了的古董手表带在身边。原来这只手表是以前夏阳未进入空军时送给夏晨的，夏阳意识到这是一个和好的机会，便偷走了手表，并交给亦风迫他代为修理。
+
+亦风将夏晨的手表带回家，赫然发现亦琛也有一只款式一模一样的手表，而这只手表更是苏怡的遗物，亦风开始对苏怡和夏晨的相似程度感到惊讶。亦风顺利地将夏晨的表修理好并交给夏阳，但夏阳却觉得需要安排一个机会将手表交给夏晨，遂命令亦风为夏晨筹备一个生日派对给夏晨惊喜。
+
+亦风得悉　两人关系
+
+亦风和夏阳联合同屋的空姐，在夏晨家中布置了生日派对等候夏晨归来，但当夏晨她们回来的时候，才知道夏阳错记了夏晨的生日。夏阳将手表送还给夏晨，但是夏晨当见到手表修理好后，却表现沉默，并将手表丢进汽水中转身离开。
+
+夏阳怒气冲冲追出去质问夏晨为何如此过分，才知道夏阳当年为了投身澳洲空军，抛弃并推跌当时年纪尚轻的夏晨离家出走，而那只手表也从此停住，夏晨把表留在身边，就是让自己记住这段痛苦的回忆，并决定一生一世都不会原谅夏阳……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-20 00:01:46</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2667</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E07.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

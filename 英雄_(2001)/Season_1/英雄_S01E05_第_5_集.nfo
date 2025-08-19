@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-19 23:58:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 5 集</title>
+  <originaltitle>第 5 集</originaltitle>
+  <showtitle>英雄</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3278075</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>大刀步鹰想利用理惠杀死燕双鹰，燕双鹰不顾自己受伤连夜救出理惠。在燕双鹰和大刀步鹰决斗中，理惠替燕双鹰挡了一枪中弹而亡。5年后，一群土匪和小玲等人枪战，被燕双鹰所救，两人一起前往临河集。刚到此地的两人便被土匪盯上，原来土匪们早已预谋要杀死燕双鹰。燕双鹰用钢钉出其不意的杀死了他们，这让一旁的小玲很是惊讶。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <dateadded>2025-08-19 23:57:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>2.0</aspect>
+        <width>1108</width>
+        <height>568</height>
+        <durationinseconds>2809</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E05.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
