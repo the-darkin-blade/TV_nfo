@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>天宝领受康熙遗诏</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>食为奴</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>4808193</id>
+  <uniqueid default="false" type="tmdb">2302248</uniqueid>
+  <uniqueid default="false" type="trakt">1265686</uniqueid>
+  <uniqueid default="true" type="tvdb">4808193</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>康熙被胤禩软禁后便暗中立下遗诏，希望他日离世后朝中大臣能够履行自己的遗愿。为了不被胤禩发现遗诏，康熙亦小心地将遗诏封在蜡丸内。
+
+突然胤禩前来探望，但康熙一见胤禩便心感不快。康熙除了直指其行为大逆不道外，更认为胤禩争位只为把持权力，而非为天下百姓谋福，假使他日由胤禩登上帝位必定遗害大清。胤禩被父皇斥责感气结，亦因此加强了自己软禁康熙夺位的决心。
+
+另一方面，胤禛得知康熙被软禁后担心不已，便与思道及羹尧一起商讨如何拯救康熙。思道认为康熙已经时日无多，现在被八王党软禁更表示康熙的确有传位给胤禛的意思，便开始着手部署营救计划。
+
+天宝入宫　被委重任
+
+十四阿哥是八王党的要员并在宫中统领御林军，胤禛与母亲为了让康熙得以释放，便一起劝告十四阿哥将守在康熙居所的御林军撤走。但是十四阿哥一心支持胤禩登位，便没有理会胤禛的要求。
+
+天宝知道康熙被软禁后，便借故以制作咸鱼包为名入宫见康熙，康熙亦借此机会将遗诏交给天宝，着他将遗诏带出宫外。
+
+胤禛出手　营救康熙
+
+但胤禩突然出现，吓得天宝将收在蜡丸中的遗诏吞进肚内，胤禩见天宝神色慌张心感不妥，便以谨慎起见将天宝一同软禁在宫中。
+
+思道得知天宝被软禁后，便决定采取最后的手段，就是利用慕雪将胤禩引出宫外。慕雪不知就里，并为了让胤禛及胤禩兄弟和好而听从思道的意见。
+
+胤禩收到慕雪的邀请后，亦二话不说出宫应约，最后却因此中了胤禛及小鱼安排的诡计，从而失手被擒。
+
+欲救无从　康熙驾崩
+
+胤禛挟持胤禩入宫，迫使八王党将御林军撤走释放康熙。八王党为了胤禩的安危，亦只好答应胤禛将御林军撤出。
+
+另一方面，九阿哥为保地位，决定亲手谋杀康熙。康熙身边的太监不敢得罪胤禩，竟然不加以阻止九阿哥的恶行。最后虽然胤禛赶到康熙身边，但却为时已晚，只能白白目送康熙驾崩。
+
+天宝出现　说出真相
+
+九阿哥在康熙驾崩后假传圣旨推举胤禩为帝，令胤禛感到不满，但因为康熙死前并没有立下遗诏，而朝中上下亦普遍支持胤禩登位，甚至康熙的近身太监更宣称康熙一直属意由胤禩继位。
+
+胤禛见胤禩胜券在握本想放弃，突然天宝在康熙的灵堂出现，并直指九阿哥谋杀康熙。九阿哥当然即时否认，并想降罪于天宝。最后天宝突然记起康熙生前曾经将遗诏交给自己，并被自己吞进肚中。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2653</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep13_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

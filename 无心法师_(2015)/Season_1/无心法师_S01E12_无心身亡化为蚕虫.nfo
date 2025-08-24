@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>无心身亡化为蚕虫</title>
+  <originaltitle>无心身亡化为蚕虫</originaltitle>
+  <showtitle>无心法师</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>5285499</id>
+  <uniqueid default="false" type="tmdb">1141067</uniqueid>
+  <uniqueid default="false" type="trakt">1939804</uniqueid>
+  <uniqueid default="true" type="tvdb">5285499</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>岳绮罗关押无心，要无心考虑和她在一起。无心一开始不愿意，并且让岳绮罗气得跺脚。无心在井里想起月牙，决定还是先逃出去，于是向岳绮罗假意投降。岳绮罗以为无心真的改变主意了，于是开心地照顾他。
+
+　　无心在与岳绮罗进行拍照时，暗中割自己的手，放出自己的血，趁岳绮罗不备，流满血的手朝岳绮罗的脸拍去。岳绮罗受了刺激后，立刻躲避，而脸已毁容。岳绮罗交待张显宗追他，生要见人，死要见尸。
+
+　　张显宗带着人马追捕无心，被发现了的无心慌不择路逃进一处院落。张显宗举枪对准无心开了一枪，子弹从枪膛射出径直飞向无心，无心避闪不及被子弹射中，子弹穿透他的身体消失不见；无心自知难逃一劫，于是将自己的元神集中到自己的手部。士兵们对准无心开枪射击，数不胜数的子弹击中无心的身体，导致他的身体四分五裂。岳绮罗要把无心的身体装在木桶里，而无心的手想办法、没日没夜地跑到青云观。但因为过于荒诞神奇，无心能活动的手吓晕了出尘子，也吓到了月牙和顾玄武。当月牙和顾玄武接受手是无心的事实后，便照顾起无心的手直到慢慢恢复成完整的无心。
+
+　　无心从手到类似卵的形状再到蛆时，顾玄武看到出尘子为难的样子，于是与月牙决定前往天津，在天津继续照顾无心。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sohu Video</studio>
+  <studio>iQiyi</studio>
+  <studio>Tencent Video</studio>
+  <studio>Tangren Media</studio>
+  <studio>MAX DREAM</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj無心法師ep12_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>野裘看上雪鸢，漪房将计就计</title>
+  <originaltitle>野裘看上雪鸢，漪房将计就计</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>4216500</id>
+  <uniqueid default="false" type="tmdb">1901632</uniqueid>
+  <uniqueid default="false" type="trakt">7355811</uniqueid>
+  <uniqueid default="true" type="tvdb">4216500</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>子冉因催生之法失血过多，孩子提早生下了，自己却生命垂危，薄姬得知事情的原委，下令将碧君和墨玉处死，碧君看到了漪房，忙扑上去求救，墨玉趁机将责任推到漪房身上。漪房不承认认识碧君，薄姬要她亲手杀死碧君证明自己的清白。雪鸢悄悄告诉漪房刺向肋下三寸的地方可以保命，漪房一剑刺了下去……亚夫去宫里看望子冉，却看到雪鸢鬼鬼祟祟地出去，悄悄地尾随而去。雪鸢来到乱葬岗救下碧君，亚夫质问雪鸢，怀疑漪房和碧君事先串通害子冉，雪鸢无法解释清楚，只有一刀一刀地刺向自己，亚夫心软放走了雪鸢，两个人的心中却因此产生了一层无法逾越的隔膜……刘恒为如何训练兵马发愁，漪房要他假借修建陵墓，暗中训练兵马。大臣们不知漪房的良苦用心，听到刘恒要建陵墓以追求长生不老之术，一致上表要求严惩漪房，更有重臣霍昕以辞官做要挟。薄姬要刘恒处死漪房，刘恒不允，薄姬一气之下搬离了孔雀台。吕雉收到刘恒建陵墓的消息十分开心，她命刘恭每天跑步磨炼自己的意志，刘恭年纪太小不肯听话，吕雉便将他关进黑屋子以示惩罚。漪房去佛堂找碧君，碧君让漪房给她一笔钱远走高飞……宫人们私底下纷纷议论，说来到代国的家人子不是死就是疯，太后也被赶走了，下一个不知道会轮到谁，姜姒听到此话，心中十分害怕。漪房生下了一个女儿取名馆陶，满月这天刘恒忙于修建陵墓无暇顾及，宫中也无人前来，只有姜姒醉醺醺地过来，和漪房一起喝酒畅谈。天亮了，漪房醒来，却发现姜姒已经上吊死了。子冉听说了这件事，将世子刘尊托付给漪房，要她好好照顾。漪房要刘恒去看子冉，子冉带着满足和遗憾离开了人间……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2686</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep12 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

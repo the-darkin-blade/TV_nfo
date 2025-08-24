@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>慎儿生子刘武，刘启馆陶反应惊人</title>
+  <originaltitle>慎儿生子刘武，刘启馆陶反应惊人</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id>4216512</id>
+  <uniqueid default="false" type="tmdb">1901644</uniqueid>
+  <uniqueid default="false" type="trakt">7355823</uniqueid>
+  <uniqueid default="true" type="tvdb">4216512</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>王远想要赊酒，掌柜不肯，这时碧君进来，要掌柜帮她找一个小女孩配冥婚，有一万贯的赏钱，王远贪心顿起，上前说自己的女儿王娡刚刚去世。王远将王娡骗到野外摔晕，抱回家换好衣服准备拿去换钱，刘启看到王娡的手动了一下，告诉莫离人并没有死，莫离赶紧追了上去。王远找到碧君，将王娡放进棺材里，莫离赶来说王娡没有死，王远不肯让她上前，莫离拿起锄头打死了王远，将王娡救了出来。莫离被押赴刑场，王娡赶来，莫离告诉王娡她亲生的母亲是慎儿，并将一块手帕给了她，作为相认的证据。碧君人财两空，准备将王娡卖到妓院，王娡装病，刘启也进来捣乱，千岁红将他们赶了出去。碧君身无分文，抢过刘启的玉佩拿到当铺去当，朝奉认出玉佩是皇家之物，将碧君扭送到县衙。县令认出是太子的玉佩，来接刘启，刘启将王娡和碧君一起带走。回到宫中，刘启将王娡介绍给漪房，并将碧君押了上来，漪房看到碧君大吃一惊，偷偷地送给她一些财物，让她赶紧离开。慎儿沐浴后离开，项链落在了水池边。刘启和王娡过来玩，看到了项链，刘启将项链送给了她。慎儿想起项链，命玉儿回去寻找，玉儿看到王娡脖子上戴着的项链。刘启睡着了，慎儿派宫人将王娡叫走，慎儿要她说项链是刘启偷的，王娡不肯，被打得晕了过去。一只小狗来到王娡关押的地方，王娡将自己的衣服撕成布条，将血印在上面，系在小狗的腿上，小狗跑了出去。雪鸢拿着布条报告漪房，说起了项链的事情。漪房将自己一模一样的项链拿给慎儿，要慎儿放过王娡，慎儿无奈，只好同意。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep24 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

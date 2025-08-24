@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>ATF发现恐怖袭击目的地</title>
+  <originaltitle>Episode 25</originaltitle>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>4858531</id>
+  <uniqueid default="false" type="tmdb">1984095</uniqueid>
+  <uniqueid default="false" type="trakt">1275983</uniqueid>
+  <uniqueid default="true" type="tvdb">4858531</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>礼谦绑架少女的目的，就是要威胁其父病毒学的权威教授帮自己研究新药，以让自己在香港进行生化袭击时能牟取暴利。教授为了保护女儿的性命，决定帮助礼谦完成他的生化武器。
+
+另一方面，有正及叶婷假借照顾人质，亦成功在人质口中估计出礼谦的真正目的。
+
+礼谦得到教授帮助，终成功完成生化武器及其解药，看到一切的准备完成，礼谦决定即时进行散布生化武器的计划。礼谦亲自安排人手及进行指挥，而有正及叶婷亦被礼谦选中参与行动。
+
+日嘉劝告　礼谦回头
+
+另一方面，日嘉成功以自己的电子技术逃出了房间，并在礼谦的个人电脑中发现生化武器的数据资料。
+
+礼谦回到办公室，并将放置在保险箱中，载满了生化武器的计时炸弹交给手下进行任务，日嘉亦顺利赶及在礼谦进入办公室前回到牢房中。
+
+日嘉把握最后的机会劝礼谦回头，但是利欲薰心的礼谦已经拿定主意，并决心在香港散布病毒，以完成其成为救世主的野心。
+
+叶婷拒绝　放置炸弹
+
+志敖见时机已经成熟，便重新回到ATF，重掌指挥权带领部下对付惊鸟。ATF凭着有正身上的发讯器，成功找到恐怖分子的行动路线，志敖便即时派员支援有正。
+
+恐怖分子与有正及叶婷潜入商场，并且安排叶婷及有正分开行动，并要两人分别拿着一个计时炸弹放到商场的通风系统中，以图将病毒经由通风系统散布开去。
+
+叶婷拒绝并打算逃走，但最后却被恐怖分子挟持带走，当有正得知袭击计划后亦拒绝了恐怖分子的要求。
+
+炸弹爆炸　病毒四散
+
+有正逃出后，便指示商场的保安疏散人群，同时志敖派来的援军亦全副武装来到商场，并协助商场疏散人群。
+
+叶婷被恐怖分子带到商场天台，并与计时炸弹绑在一起被吊起来。有正及有杰赶到天台，见到叶婷被胁持便挺身与恐怖分子进行枪战。
+
+有正及有杰最后虽然合作将恐怖分子全数击杀并救回了叶婷，但是却阻止不到炸弹爆炸，而病毒气体亦随通风系统散布于整个商场，有正及叶婷亦担心自己受到病毒感染。
+
+礼谦发现　逃亡日嘉
+
+有正等人及商场的市民被ATF安排到医院接受检查，竟然发现身体一切正常，并没有受到生化武器感染。
+
+礼谦亦在新闻报道中得知事件无人受到病毒感染，便赶回药厂调查，发现日嘉及人质已经在礼谦不在时逃走，而电脑上的重要数据亦被人全数删除……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2631</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj叛逃ep25_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

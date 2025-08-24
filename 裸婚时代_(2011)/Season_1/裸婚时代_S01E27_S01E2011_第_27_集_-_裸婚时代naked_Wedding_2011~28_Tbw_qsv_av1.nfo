@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:40:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 27 集</title>
+  <originaltitle>第 27 集</originaltitle>
+  <showtitle>裸婚时代</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2169981</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>公司里，有人给童佳倩送来一束花，童佳倩一猜就是杜毅，可她嘴上却跟同事说杜毅是在追她表姐，送花也不过是买一送一顺便送给她的。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2603</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>裸婚时代naked Wedding 2011.Hdtv.1080I.H264.Ac3.Ep27~28-Tbw_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>裸婚时代naked Wedding 2011~28 Tbw qsv av1</title>
+  <originaltitle/>
+  <showtitle>裸婚时代</showtitle>
+  <season>1</season>
+  <episode>2011</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2603</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>裸婚时代naked Wedding 2011.Hdtv.1080I.H264.Ac3.Ep27~28-Tbw_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2011" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

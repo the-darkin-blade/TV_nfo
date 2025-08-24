@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>天宝胤禩设计毒害胤禛</title>
+  <originaltitle>Episode 25</originaltitle>
+  <showtitle>食为奴</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>4824800</id>
+  <uniqueid default="false" type="tmdb">2302270</uniqueid>
+  <uniqueid default="false" type="trakt">1267461</uniqueid>
+  <uniqueid default="true" type="tvdb">4824800</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>俄国突然派厨师到大清国挑战御茶膳房，胤禛便决定指派鹤亭迎战，鹤亭为挽回以前招待俄国使节的失败，决定全力以赴接受挑战。但原来这次厨艺比赛是胤禩所安排的计划，目的是借比赛的名义安排天宝入宫，并且在胤禛的食物中下毒以此杀害胤禛。
+
+小鱼听见　暗杀计划
+
+但此计划同时被偷偷跟踪天宝的小鱼听见，胤禛的手下见状便即场将小鱼捉住。胤禩为了测试天宝的忠诚心，竟要求天宝亲手杀死小鱼灭口。天宝无法拒绝胤禩，只好向小鱼痛下杀手。在千钧一发之间，胤禩阻止了天宝杀死小鱼，并且将小鱼收监以威胁天宝。
+
+小鱼被胤禩囚禁在柴房之中，因此遇到了同被胤禩囚禁的慕雪。原来当年慕雪失救致死是思道一手安排，目的是让胤禛能够专心朝政，及让慕雪能躲避宫中的明争暗斗。
+
+慕雪解释　留京原因
+
+但因为慕雪对胤禩心存恋慕之心，便现身打算阻止胤禩的计划，并且劝胤禩与自己一起逃离京城过与世无争的日子，但最后却被胤禩囚禁在此。
+
+比赛当日，天宝以俄国代表身分与鹤亭比试，在场的人亦感意外，而胤禩则乔装成天宝的助手混入会场中。比赛一开始，天宝竟然因为分心而被鹤亭有机可乘，让鹤亭在比赛中先拔头筹稍占上风。
+
+胤禩指示　天宝下毒
+
+但是到第二场比试，鹤亭亦因为太急于求胜而败在天宝手上，最后一回合以甜品决胜负，并且由胤禛亲自品尝评分。
+
+胤禩见时机已到，便指示天宝下毒，而天宝亦将早以预备好的药粉加入甜品中，而胤禛不虞有诈吃下天宝的甜品，最后更判天宝取得胜利。
+
+隆科多在比赛进行期间，便带兵包围紫禁城密谋迫宫，而胤禛亦在此时中毒身亡。胤禩见状便穿起龙袍出现表露身分，隆科多亦入宫表示自己支持胤禩。
+
+胤禩计划　终告破灭
+
+胤禩眼见胜利在望，却突然发现本应死亡的胤禛竟然站了起来！隆科多即场被冯鹰拿下，而胤禩竟然反抗并挟持天宝逃走。
+
+无处可逃的胤禩最后被侍卫重重包围，心知劫数难逃的胤禩欲自杀，而慕雪突然在人群中出现，打算阻止爱人轻生。
+
+胤禛在慕雪口中得知一切的来龙去脉后，便打算挽留慕雪在宫中生活，但是慕雪不想再留在宫中……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2660</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep25_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

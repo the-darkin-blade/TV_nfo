@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:40:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 13 集</title>
+  <originaltitle>第 13 集</originaltitle>
+  <showtitle>裸婚时代</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2169965</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>谁知孙晓娆自打驾校毕业，就没再开过手动挡的车。刘易阳临时教给她窍门，孙晓娆的车开得很慢，却最终离刘易阳非常近。由于对方只说比离谁近，没说开多快。刘易阳赢了，得到了四万八千块钱。</plot>
+  <runtime>63</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>3826</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>裸婚时代naked Wedding 2011.Hdtv.1080I.H264.Ac3.Ep13~15-Tbw_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>裸婚时代naked Wedding 2011~15 Tbw qsv av1</title>
+  <originaltitle/>
+  <showtitle>裸婚时代</showtitle>
+  <season>1</season>
+  <episode>2011</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>63</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>3826</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>裸婚时代naked Wedding 2011.Hdtv.1080I.H264.Ac3.Ep13~15-Tbw_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2011" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

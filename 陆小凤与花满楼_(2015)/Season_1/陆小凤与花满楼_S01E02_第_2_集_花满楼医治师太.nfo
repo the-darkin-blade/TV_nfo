@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:41:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 2 集 花满楼医治师太</title>
+  <originaltitle>第 2 集 花满楼医治师太</originaltitle>
+  <showtitle>陆小凤与花满楼</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2060802</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>花满楼在路上遇袭，陆小凤及时出现协助花满楼杀害许多杀手，杀手回宫向女王复命，女王气急败坏杀害任务失败的手下。
+
+　　陆小凤带着花满楼回到师太居住的客栈外面，阿信喜出望外迎接花满楼，而花满楼一脸客气称呼阿信为嫂夫人。阿信欢天喜地扶着花满楼来到师太养病的房间。经过一番医治并为师太推出血，花满楼发现血中有蛊虫。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>台灣漢梁公司</studio>
+  <studio>西岸傳媒股份有限公司</studio>
+  <studio>上海劇蕊有限公司</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2672</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Detectives.And.Doctors.Ep02.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

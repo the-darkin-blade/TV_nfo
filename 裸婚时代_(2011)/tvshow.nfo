@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:40:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>裸婚时代</title>
+  <originaltitle>裸婚时代</originaltitle>
+  <showtitle>裸婚时代</showtitle>
+  <sorttitle/>
+  <year>2011</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>5.5</value>
+      <votes>2</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>刘易阳（文章 饰）和童佳倩（姚笛 饰）是一对相知相恋将近十个年头的情侣，与佳倩殷实小康的家境不同，易阳出生在一个工人家庭，不仅无法为未婚妻奉上香车钻戒，连两个人的爱情小栈也没有着落，他至今还和父母、奶奶住在一起，这也成为了佳倩父母反对他们恋爱的最主要原因。不过，这对儿小情侣打着爱情至上的旗帜，堂而皇之地加入了裸婚的时尚大潮之中。但是爱情终究不能当饭吃，尤其结婚更是两个家庭的事。婚后的生活变得越来越现实起来，而各种各样的不适与冲突也相继出现，易阳和佳倩该如何面对这些纷至沓来的烦恼呢？
+
+　　本片根据唐欣恬（网名小鬼儿儿儿）的当红网络小说《裸婚——80后的新结婚时代》改编。</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"43758"}</episodeguide>
+  <id/>
+  <imdbid/>
+  <tmdbid>43758</tmdbid>
+  <uniqueid default="true" type="tmdb">43758</uniqueid>
+  <premiered>2011-05-25</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Family</genre>
+  <studio/>
+  <country>中国</country>
+  <tag>romance</tag>
+  <actor>
+    <name>韩童生</name>
+    <role>Tong Jianye</role>
+    <profile>https://www.themoviedb.org/person/1268918</profile>
+    <tmdbid>1268918</tmdbid>
+  </actor>
+  <actor>
+    <name>文章</name>
+    <role>Liu Yiyang</role>
+    <profile>https://www.themoviedb.org/person/572084</profile>
+    <tmdbid>572084</tmdbid>
+  </actor>
+  <actor>
+    <name>姚笛</name>
+    <role>Tong Jiaqian</role>
+    <profile>https://www.themoviedb.org/person/1123522</profile>
+    <tmdbid>1123522</tmdbid>
+  </actor>
+  <actor>
+    <name>曹卫宇</name>
+    <role>Peter Wang</role>
+    <profile>https://www.themoviedb.org/person/1924494</profile>
+    <tmdbid>1924494</tmdbid>
+  </actor>
+  <actor>
+    <name>丁嘉丽</name>
+    <role>Wu Hongxia</role>
+    <profile>https://www.themoviedb.org/person/1293226</profile>
+    <tmdbid>1293226</tmdbid>
+  </actor>
+  <actor>
+    <name>王一楠</name>
+    <profile>https://www.themoviedb.org/person/2745033</profile>
+    <tmdbid>2745033</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

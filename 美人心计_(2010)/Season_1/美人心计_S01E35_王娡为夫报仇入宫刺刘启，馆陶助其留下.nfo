@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>王娡为夫报仇入宫刺刘启，馆陶助其留下</title>
+  <originaltitle>王娡为夫报仇入宫刺刘启，馆陶助其留下</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id>4216523</id>
+  <uniqueid default="false" type="tmdb">1901655</uniqueid>
+  <uniqueid default="false" type="trakt">7355834</uniqueid>
+  <uniqueid default="true" type="tvdb">4216523</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>漪房将宫中事务交给妙人打理，暗中让王娡协助。妙人不肯放手，王娡想出一个让她放权的主意，故意将刘荣抱走，妙人急忙来找，刘启要她做出选择，儿子和后宫事务只能任选其一，妙人忍痛将后宫大权交给了王娡。大臣上表要为漪房修建宫殿，刘恒虽然知道国库空虚，但碍于漪房的面子只好同意。王娡知道之后下令停工，随后将紫霞宫布置成代国时的模样，既节省了开支又赢得了漪房的信任。王娡见刘启对自己一片情深，心里犹豫不决，不知道是否应该继续报仇，她向刘启提出将碧君接进宫来。碧君仗着王娡的身份，想要回自己的祖屋，误将住在里面的农夫打死了，农妇告到县衙，县衙将碧君送到王娡处，王娡要她待在漪兰殿不许再出去。妙人将这件事告诉了薄姬，薄姬大怒，找王娡对质。王娡亲自将碧君带了过去，一刀砍下了她的小手指以示惩戒，漪房命人将碧君关她暴室。王娡来到暴室看碧君，碧君将漪房的事情告诉了王娡，王娡以漪房的身份作为要挟，将碧君接了出去，漪房感到事态严重，留下宫人小梅监视王娡的一举一动。王娡找到亚夫，要将碧君藏在他的府上，小梅将看到的情况告诉了漪房，漪房派人将张嫣接到宫中，要亚夫好好处理王娡的事情。王娡发现自己近来总是呕吐，找来吴太医诊治，吴太医告诉她怀孕了，王娡要太医将孩子打掉，太医无奈，只好将一包藏红花给了王娡。王娡犹豫不决，不知道该不该喝药打掉这个孩子，碧君进来，药掉到了地上。王娡带着碧君找到亚夫，安排她出宫，恰巧碰到吴太医，吴太医告诉她已经将这件事情告诉了刘启。王娡找到刘启，告诉他自己准备留下这个孩子。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2697</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep35 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

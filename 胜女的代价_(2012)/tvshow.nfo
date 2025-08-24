@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>胜女的代价</title>
+  <originaltitle>胜女的代价</originaltitle>
+  <showtitle>胜女的代价</showtitle>
+  <sorttitle/>
+  <year>2012</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>7.5</value>
+      <votes>2</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>平凡而美丽的百货公司打杂小妹林晓洁（陈乔恩 饰），无意中获得上司高子齐（高以翔 饰）的表白。两人逐开始谈婚论嫁，然而，在婚礼前夕，女星白季晴（蒋怡 饰）却突然出现，晓洁这才明白自己并不是子齐的真爱。伤心之下晓洁离开台湾，来到上海遇上汤骏（张翰 饰）。汤骏是晓洁在网络上结识的知心朋友-----汤姆，无论在情路还是事业上一路都在支持跌跌撞撞的晓洁。然而，晓洁并不知道汤骏就是汤氏企业公子。此时，汤家企业受到威胁，晓洁决定帮助他们。凭着过人的工作能力，晓洁不仅让汤家走出困境，也成就了自己的事业。而直到此时，晓洁才看清自己对汤骏的感情，成为胜女的她决定要在关键的时候替心爱的人挽回事业和尊严……</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"48232","imdb":"tt2640464","wikidata":"Q5354203","tvdb":"262060"}</episodeguide>
+  <id>262060</id>
+  <imdbid>tt2640464</imdbid>
+  <tmdbid>48232</tmdbid>
+  <uniqueid default="false" type="tmdb">48232</uniqueid>
+  <uniqueid default="false" type="imdb">tt2640464</uniqueid>
+  <uniqueid default="false" type="wikidata">Q5354203</uniqueid>
+  <uniqueid default="true" type="tvdb">262060</uniqueid>
+  <premiered>2012-07-15</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <studio>GTV</studio>
+  <studio>Hunan Television</studio>
+  <studio>H&amp;R Century Pictures</studio>
+  <studio>上海剧酷文化传播有限公司</studio>
+  <country>台湾</country>
+  <country>中国</country>
+  <actor>
+    <name>陈乔恩</name>
+    <role>Lin Xiao Jie</role>
+    <profile>https://www.themoviedb.org/person/1239952</profile>
+    <tmdbid>1239952</tmdbid>
+  </actor>
+  <actor>
+    <name>张翰</name>
+    <role>Tang Jun / Tom</role>
+    <profile>https://www.themoviedb.org/person/1539662</profile>
+    <tmdbid>1539662</tmdbid>
+  </actor>
+  <actor>
+    <name>高以翔</name>
+    <role>Gao Zi Qi</role>
+    <profile>https://www.themoviedb.org/person/1192915</profile>
+    <tmdbid>1192915</tmdbid>
+  </actor>
+  <actor>
+    <name>夏于乔</name>
+    <role>Li Jia Yi</role>
+    <profile>https://www.themoviedb.org/person/1200923</profile>
+    <tmdbid>1200923</tmdbid>
+  </actor>
+  <actor>
+    <name>张檬</name>
+    <role>Zeng Chu Chu</role>
+    <profile>https://www.themoviedb.org/person/1351540</profile>
+    <tmdbid>1351540</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

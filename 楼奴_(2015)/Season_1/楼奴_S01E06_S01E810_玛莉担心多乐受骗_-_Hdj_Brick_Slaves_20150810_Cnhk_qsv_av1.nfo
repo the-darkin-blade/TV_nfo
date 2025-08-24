@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:41:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>玛莉担心多乐受骗</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>楼奴</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195877</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>耀明陶醉于坚菁的琴音，一曲之后，坚菁站起来却没看耀明一眼，便直接走进他的房间睡觉，耀明只好睡在客厅。耀明向美男诉苦，Ivy亦到来，美男告诉Ivy她只是样貌跟昏迷的初恋情人相似，自己要等她醒来再续前缘，Ivy接受劝告主动与美男分手。必达向耀明报告土瓜湾「香叶大厦」有数个单位退租，仁爱听闻该大厦9D单位有人离世，接着即有闹鬼传闻，所以大厦不断有租客退租，耀明和必达不信鬼魂传说。
+
+多乐贱卖波鞋套现
+
+多乐将碧姬宣传保护文物学会的照片放上网，吸引不少网民激赞。多乐约碧姬谈宣传事宜，玛莉好奇儿子跟谁通短讯。玛莉跟必达商量，未来数月他每月都要省三千元应付管理费和父亲所居大厦维修费，必达叫苦。另一边厢，多乐清洁相机镜头时，不小心把它弄毁。
+
+坚菁被耀明做的饭菜吸引，耀明邀她一起享用，坚菁则付出二十元饭钱。坚菁发觉耀明的刀章、煮法与社区中心的客席厨师相同，耀明对坚菁的超强味觉佩服得五体投地。
+
+多乐不停讨好玛莉，身为母亲的玛莉知道儿子向她要零用钱，当准备给他钱时，必达查问儿子要钱的原因，多乐无法说出理由，必达拒绝付钞。玛莉与客人交收货品，看到多乐将他的名牌波鞋半价出让。此时新闻报道一名青年为讨好女朋友贱卖心爱物品，还被女朋友诈骗，玛莉联想到多乐变卖心爱物品可能涉及骗案。
+
+坚菁自愿搬出让出房间
+
+耀明到雪梅摊档买豆腐，折返时看见坚菁给雪梅金钱和龙凤金镯，并表示工作关系未能出席弟弟的婚宴。雪梅因为儿子结婚而要女儿搬走，心感过意不去，耀明亦对她的身世感到好奇。坚菁来到一条小巷，一位婆婆向她兜售茶粿，坚菁尝了第一口已觉十分滋味，转身却已不见婆婆身影。
+
+耀明留下饭菜给坚菁，坚菁认出是母亲摊档的出品，想起家中往事。当时坚菁眼见怀孕三个月的准弟妇施雅进逼母亲，坚菁遂自愿搬走让出房间给弟弟作结婚之用。坚菁留下零钱及茶粿作饭钱，耀明尝过茶粿也觉得味道超水准。坚菁带耀明到巷子找茶粿婆婆，可惜遍寻不获，但耀明赶着查探碧姬的文武庙约会，跟坚菁道别。
+
+耀明必达看见鬼影
+
+多乐为碧姬在文武庙拍照，同时讲解文武庙历史，岂料在附近碰到耀明，碧姬邀耀明一起游览，多乐无奈接受。玛莉也尾随多乐，并不忿耀明抢去多乐风头，期间却不小心弄破地摊一块玉石，档主要她赔二千元，玛莉心痛不已……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1336</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Brick.Slaves.Ep06.20150810.Hdtv.1080I.H264-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Brick Slaves 20150810 Cnhk qsv av1</title>
+  <originaltitle/>
+  <showtitle>楼奴</showtitle>
+  <season>1</season>
+  <episode>810</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1336</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Brick.Slaves.Ep06.20150810.Hdtv.1080I.H264-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="810" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

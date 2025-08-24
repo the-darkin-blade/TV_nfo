@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>妙人鼓动诸侯抓刘武，刘盈代换刘武</title>
+  <originaltitle>妙人鼓动诸侯抓刘武，刘盈代换刘武</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>39</episode>
+  <id>4216527</id>
+  <uniqueid default="false" type="tmdb">1901659</uniqueid>
+  <uniqueid default="false" type="trakt">7355838</uniqueid>
+  <uniqueid default="true" type="tvdb">4216527</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>漪房来到宣室殿看望刘启，准许他立刘荣为太子，但要他答应不管发生什么事，都要饶刘武一命。刘荣被立为太子，妙人也搬到了椒房殿，她开始变得骄横跋扈，动不动就杀人。漪房十分担忧，亚夫告诉漪房王娡还生有一子一女，漪房要他多多留意。亚夫来看望王娡，看到王娡的儿子刘彘和女儿平阳都十分乖巧聪慧，十分欣慰。他设计让刘荣和阿娇起了冲突，妙人不肯将阿娇娶进门，馆陶怀恨在心。这时，刘彘适时地出现，馆陶要漪房将阿娇赐给刘彘。刘启不停地咳嗽却不肯吃药，王娡听说这件事，跟两个孩子一起将枣泥和到药里，刘启终于肯吃药了。他偶然发现这一切都是王娡做的，将她召回了漪兰殿。妙人发现自己和刘荣的地位受到威胁，欲将刘彘推到河里，没想到自己反倒掉了进去。刘启得知此事大怒，将她和刘荣废掉，贬到属国。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2694</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep39 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="39" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

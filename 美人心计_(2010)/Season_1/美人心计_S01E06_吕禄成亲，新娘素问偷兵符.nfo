@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>吕禄成亲，新娘素问偷兵符</title>
+  <originaltitle>吕禄成亲，新娘素问偷兵符</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>4216494</id>
+  <uniqueid default="false" type="tmdb">1901626</uniqueid>
+  <uniqueid default="false" type="trakt">7355805</uniqueid>
+  <uniqueid default="true" type="tvdb">4216494</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>吕雉将五位家人子——姜姒、墨玉、子冉、漪房、锦瑟赏赐给刘恒，并让雪鸢恢复了原本美丽的容颜同去代国。她告诉雪鸢五位家人子中有一个是细作，要雪鸢协助她完成任务，雪鸢猛然发现其中一个家人子跟云汐长得一模一样……云汐陷入回忆中，原来吕雉给她喝的并不是毒药，她要慎儿留在汉宫做人质，命云汐改名为窦漪房，到代国监视刘恒和薄姬的一举一动，并且告诉她代国的青宁王后也是细作，会协助她完成任务。马车离汉宫越来越远，云汐也将开始她一段全新而传奇的人生。亚夫护送着五位家人子来到行馆门口，几个人各怀心思，锦瑟告诉漪房自己并不想到代国，而是想回家乡赵国，漪房劝她要安于现状。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2657</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep06 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

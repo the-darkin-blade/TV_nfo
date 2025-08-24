@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>叶婷被间谍挟持</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>4843981</id>
+  <uniqueid default="false" type="tmdb">1984082</uniqueid>
+  <uniqueid default="false" type="trakt">1274387</uniqueid>
+  <uniqueid default="true" type="tvdb">4843981</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>叶婷自从与王教授见面后，便肯定王教授知道其亲生父亲的死亡真相，再次拜访王教授被拒诸，却遇见前来找王教授协助调查的有正。
+
+淑芬验出　身中铊毒
+
+淑芬自从被野鸟袭击后身体情况便一直变差，甚至被医院要求留院观察。原来早前因接触雀鸟而患病的人被验出中了铊毒，因为毒是经过调配，故令一众医生感到束手无策。
+
+志敖得知有正的母亲中了铊毒，便让有正离队探望淑芬，而有正为免淑芬恐慌，便向其隐瞒铊毒的事。有正将母亲验出铊毒一事告知有杰，有杰便决定留在医院照顾母亲。
+
+叶婷有正　交换情报
+
+叶婷因为对剑亨还有怀疑，决定搬到朋友的家暂住，并且继续调查有关铊毒的案件。叶婷到医院调查时遇见淑芬，亦确定淑芬感染了铊毒。有正出现并打断了叶婷的查问，叶婷只好邀请有正与自己合作。
+
+另一方面，王教授与其助手打算暗地离开香港逃避惊鸟，结果逃亡失败反被惊鸟擒获。他们更挟持了王教授的助手，威胁他交出毒气弹材料。
+
+叶婷协助　教授逃亡
+
+叶婷得知ATF正调查王教授，便再次与王教授见面，并向王教授公开自己与惊鸟的关系。
+
+王教授为了与惊鸟脱离关系便接受叶婷的提议，并在她的掩护下逃走。惊鸟失去了王教授的踪影，只好改为要胁王教授的助手交出铊毒。
+
+虽然助手打算拖延惊鸟以争取向警方求救，但志敖却因为收到假情报而错失拯救王教授助手的机会。另一方面，叶婷到王教授的酒店取回有关制作铊毒的犯罪证据。
+
+有正舍命　拯救叶婷
+
+有正和宏亮在酒店等候犯人出现，终在停车场与惊鸟碰面，惊鸟的间谍取得铊毒后便与有正等人展开枪战。叶婷无辜被卷入枪战中，之后惊鸟为了逃走，而挟持叶婷做人质驾车逃走。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj叛逃ep12_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

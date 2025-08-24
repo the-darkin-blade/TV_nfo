@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>胤禛天宝促膝对饮</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>食为奴</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>4817201</id>
+  <uniqueid default="false" type="tmdb">2302261</uniqueid>
+  <uniqueid default="false" type="trakt">1266527</uniqueid>
+  <uniqueid default="true" type="tvdb">4817201</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>胤禛思前想后，为了大清政局稳定，最终决定迎娶隆科多的孙女及若碧为妃。在新婚燕尔之夜，胤禛决定先到访若碧的新房，但因为胤禛知道若碧是被迫入宫，故此决定不会占有若碧，以让自己日后能够有颜面与天宝相处。
+
+胤禛到御茶膳房寻找天宝，发现天宝独个儿在厨房借酒浇愁，胤禛见状不忍，便留下来陪天宝对饮。两人也慨叹自己不能和真正喜欢的人成婚，而令到众人也感到痛苦。
+
+小鱼天宝　关系变差
+
+若碧自从入宫为妃后，天宝便变得无心工作，就算小鱼出面天宝还是屡劝不听。之后天宝在手下口中得知，小鱼曾在自己私奔时曾经在年府出现，便怀疑小鱼向羹尧出卖自己的逃走路线。小鱼得知天宝怀疑自己后便感到非常失望，两人之间亦因此出现磨擦，鹤亭见两人交恶亦感喜上心头。
+
+天宝一直对若碧念念不忘，便利用为胤禛一家制作御膳的机会，以菜式向若碧表达爱意，但天宝此举在宫中犹如玩火自焚，故此引起若碧的不满，并警告天宝不要再故意接近自己。
+
+太后刻意　留难慕雪
+
+慕雪到太后的居所请安，却被太后一直拒诸门外。之后太后更送赠慕雪一对绣花鞋，示意要慕雪尽快离开宫中。虽明白太后不满，但胤禛仍然极力想将慕雪留在自己身边，而慕雪见胤禛如此坚持，便继续留在宫中生活。
+
+李卫自从私奔当日被推下海中后一直生死不明，令天宝及小桃一直担心不已，而一直协助天宝寻人的冯鹰亦终于找到李卫的下落。
+
+众人施计　找出内奸
+
+但当天宝等人得知李卫的下落后，却刻意在御茶膳房设灵拜祭，天宝告诉众人李卫已经在海中淹死，其冤魂一定会回来找害死他的人报仇。
+
+鹤亭听到李卫死去大感不安，并且一直疑神疑鬼，之后鹤亭在晚上更与李卫的鬼魂相遇，吓得鹤亭要偷偷到海边拜祭李卫。当鹤亭打算燃烧祭品的时候，李卫竟突然在鹤亭面前出现，并且迫他将身上的银票烧毁。鹤亭饱受惊吓，竟真的照李卫所说将羹尧所赠的银票烧毁。事后天宝出现嘲笑鹤亭，鹤亭才知道自己中了天宝的计。
+
+天宝道歉　小鱼接受
+
+天宝知道出卖自己的人是鹤亭而非小鱼后，便即时向小鱼道歉，而小鱼知道天宝是因为失去了若碧才会胡思乱想便不再追究。
+
+天宝拜访在宫中暂住的慕雪，并恳求慕雪帮自己进入后宫送信给若碧，慕雪闻后便一口答应了天宝，并到后宫与若碧见面。但当若碧知道慕雪是来为天宝送信后，拒绝接收天宝的信。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2665</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep19_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

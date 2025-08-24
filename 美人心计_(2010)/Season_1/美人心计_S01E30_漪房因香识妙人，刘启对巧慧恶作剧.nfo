@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>漪房因香识妙人，刘启对巧慧恶作剧</title>
+  <originaltitle>漪房因香识妙人，刘启对巧慧恶作剧</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id>4216518</id>
+  <uniqueid default="false" type="tmdb">1901650</uniqueid>
+  <uniqueid default="false" type="trakt">7355829</uniqueid>
+  <uniqueid default="true" type="tvdb">4216518</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>刘启赶去救妙人，巧慧一同前往替妙人求情，妙人气急败坏，说是有人设计害她，巧慧表现出自己的无私和大度，让刘启的心向着自己靠拢，漪房看出端倪，暗暗地劝巧慧不要靠手段留住男人的心。刘启扔下妙人跟巧慧一同回宫，外面突然下起了大雨，妙人跪在雨里不肯离开，刘启虽然生气，但心中始终牵挂着妙人，撇下巧慧去找她，妙人在雨中晕了过去，太医告诉刘启妙人怀孕了。漪房问起妙人有什么需要，妙人借口自己身边的宫人不够，要巧慧身边的宫人过来伺候，巧慧请求亲自去照料妙人。巧慧千方百计地想除掉妙人的孩子，这一切都被漪房看在眼里，她不懂巧慧为什么突然变得这么残忍，容儿将巧慧和亚夫在一起畅谈的事情告诉了漪房。妙人找到李嬷嬷，向她询问如何自保的方法，李嬷嬷告诉她吕太后当年将自己的孩子杀死，嫁祸给戚夫人的故事。妙人约巧慧来到明渠，纵身跳了下去，诬陷给巧慧。刘启欲杀巧慧，薄姬找来宫人作证是妙人自己摘荷花掉进去的，刘启无奈，只好悻悻离去。妙人见巧慧有薄姬撑腰，计划不能得逞，要刘启培养自己的势力，刘启答应她在大考的时候物色几个人笼络在自己身边。王娡在河边抓鱼，金王孙过来抚琴，王娡怪他弹得难听，将鱼都吓跑了，自己坐下来弹了一曲，听着美妙的琴音，金王孙陶醉了。金王孙举行相手大会，要娶一个合适的姑娘进门，碧君听说他是大考中举的热门人选，很多姑娘都托媒人去提亲，便拉着王娡去和金王孙见面。金王孙认出了王娡，决定娶她为妻。王娡要他拿出诚意，金王孙向她做了三个承诺，王娡被感动，答应嫁给金王孙。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2676</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep30 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

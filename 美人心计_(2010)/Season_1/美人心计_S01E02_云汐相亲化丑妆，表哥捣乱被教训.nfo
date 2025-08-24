@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>云汐相亲化丑妆，表哥捣乱被教训</title>
+  <originaltitle>云汐相亲化丑妆，表哥捣乱被教训</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id>4216490</id>
+  <uniqueid default="false" type="tmdb">1901622</uniqueid>
+  <uniqueid default="false" type="trakt">7355801</uniqueid>
+  <uniqueid default="true" type="tvdb">4216490</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>刘公子在与云汐相亲前夜在妓院看上了慎儿，和慎儿约定今生。次日，云汐为了考验刘公子，故意化了浓妆，把自己装扮的很丑。而云汐表哥也来捣乱，反被刘公子教训了一顿。刘公子想把自己的心事和云汐说清楚，突遇大雨，冲淡了云汐的浓妆，露出了云汐的清丽容颜。刘公子一见心猿意马，马上改了主意，要取云汐为妻。慎儿听闻刘公子娶妻的消息，找到刘公子，一怒下杀了他。云汐未嫁夫死，更遭舅母白眼。恰逢新皇登基选秀女，少陵原还差一个名额，如果不够，舅舅家要满门抄斩，云汐为救舅舅，选择去当家人子。云汐在去宫中路中，在自己房间里发现了逃命的慎儿，帮慎儿逃过了官府的追捕。刚好入选的家人子有一个投河自尽，慎儿被代替了上来。慎儿告诉云汐杀刘公子的真相，激动下，晕了过去被太医查出来得了瘟疫。詹士大人要杀了慎儿，云汐过来求情，在自己悉心照顾下，慎儿好了起来。在宫中遇见皇后娘娘(皇帝的外甥女)，云汐猜得皇后娘娘的心事，得到娘娘的赞赏。夜晚，云汐遇见宫中一个家人子的惨事，心里感叹自己的命运。某日，云汐、慎儿在宫中遇见皇上赶羊车经过。听见皇上说羊走到哪里，就到那里就寝。慎儿想早日得到皇上的宠幸，云汐为了帮助慎儿，想到了在竹叶上洒盐水吸引羊的办法。吕后听说皇上的荒唐事，感到奇怪，就坐着上了羊车。反被羊牵着吸引着到了云汐、慎儿的房间。太后询问羊车的事，云汐为了慎儿，承担了所有的罪责。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2682</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep02 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

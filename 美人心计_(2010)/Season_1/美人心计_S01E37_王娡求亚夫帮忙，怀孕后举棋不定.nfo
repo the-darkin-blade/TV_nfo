@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>王娡求亚夫帮忙，怀孕后举棋不定</title>
+  <originaltitle>王娡求亚夫帮忙，怀孕后举棋不定</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>37</episode>
+  <id>4216525</id>
+  <uniqueid default="false" type="tmdb">1901657</uniqueid>
+  <uniqueid default="false" type="trakt">7355836</uniqueid>
+  <uniqueid default="true" type="tvdb">4216525</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>王娡找到刘启，将自己假装失去记忆，实际上是为了替夫报仇的事情说了出来，刘启深受打击，将王娡贬到了永巷。妙人安慰刘启，刘启心烦意乱，要她赶紧离开。宫人拿着王娡的衣服准备送去，妙人故意告诉刘启这件衣服是薄姬的，上面染有瘟疫，刘启得知是巧慧将衣服送给王娡的，下令将巧慧抓起来，巧慧见事情败露，上吊自尽。妙人想讨好刘启，刘启却始终不肯理她，妙人十分烦恼。侍卫阿旺和宫人小梅在一起亲热，被妙人撞见，下令将他们处死，李嬷嬷阻止了她，向她献上一计。妙人要小梅帮助自己做一件事，做完之后就要死，但是可以换回阿旺的一条命，小梅答应了。漪房要小梅将一个女孩的画像拿给刘启，小梅上前，突然从袖卷里抽出一把匕首刺向刘启，妙人正好进来，见状扑到刘启的身上，被刺了一刀，小梅自尽而死。刘启十分感激妙人，重新宠爱起她来。李嬷嬷带着御林军来到暴室，准备处死阿旺，阿旺拼命挣扎，李嬷嬷告诉他小梅和他只能活一个，阿旺放弃抵抗，被活活勒死。刘启为各国诸侯招兵买马的事情担忧，妙人替刘启出主意，要他以漪房过寿辰为由召他们进宫，然后再软禁起来。各诸侯们纷纷前来，刘启将刘武单独留下叙旧，无意中说起将来可能把皇位传给刘武，妙人听到此话十分震惊。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2771</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep37 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="37" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

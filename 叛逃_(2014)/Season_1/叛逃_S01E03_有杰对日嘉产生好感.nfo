@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>有杰对日嘉产生好感</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>4831474</id>
+  <uniqueid default="false" type="tmdb">1984073</uniqueid>
+  <uniqueid default="false" type="trakt">1273318</uniqueid>
+  <uniqueid default="true" type="tvdb">4831474</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>有杰自从在ATF的行动中遇上日嘉后，便对她一见钟情。有杰一直找机会与日嘉加深认识却苦无机会。其后有杰得知ATF正招募生力军，亦得到ATF长官高威的支持，参加ATF的选拔试。
+
+有正支持　有杰应考
+
+有正回家与弟弟有杰及母亲淑芬一起生活，有正亦告知淑芬自己即将接受ATF的训练。有正发现有杰有意报考ATF，亦从旁支持。有杰成功取得加入ATF的资格 ，并且与有正一起入营接受ATF的训练。
+
+淑芬得知有正及有杰决心加入ATF感到不高兴，但是淑芬亦明白难以阻止两人的决定，便只好留下纸条及护身符，以此祝福两人能够平安完成训练回家。
+
+为追日嘉　使用病毒
+
+ATF的训练营齐集了警界各部门的年轻精锐，身为ATF成员的日嘉亦因教授电脑骇客技术一科而进入营地。有杰因为对日嘉抱有好感，故此在课堂及平日见面时显得格外紧张。
+
+另一方面有正虽然同样对日嘉有意，但却比有杰更为主动，有正甚至利用病毒木马程式邀请日嘉约会，令日嘉感气结。
+
+日嘉撞破　兄弟犯规
+
+在训练营的生活既辛苦又刻板，有正便决定带同有杰一起偷偷离开营地到外面用膳消遣。然而二人却在餐厅与啤酒女郎搭讪时被日嘉发现，有杰担心会影响日嘉对自己的印象，亦担心日嘉会向志敖告密。事后兄弟两人得知日嘉没有向志敖告密，令有正对日嘉更感兴趣。
+
+日嘉即将离开训练营，故此有正及有杰均想把握机会，希望在夜晚到日嘉的房间向其表达谢意，但最后却被志敖发现阻止。
+
+有正有杰　营内喝酒
+
+有正为了亲自送别日嘉，便决定在课堂完结后赶到营地门前，但最后亦是慢了一步。有正观察日嘉的座驾，知道日嘉出身于富贵人家。有正虽然明白自己的对象与自己有所距离， 但并没有令他放弃追求日嘉的念头。
+
+在日嘉离开后，有正和有杰亦继续在训练期间违反纪律，并偷偷在营地饮酒，终于被志敖发现 ，两人亦得知自己将会受到处分而感到忧心……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2670</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj叛逃ep03_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

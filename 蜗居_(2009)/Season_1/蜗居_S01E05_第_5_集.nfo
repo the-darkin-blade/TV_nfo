@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 5 集</title>
+  <originaltitle>第 5 集</originaltitle>
+  <showtitle>蜗居</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>1507791</id>
+  <uniqueid default="false" type="tmdb">1463834</uniqueid>
+  <uniqueid default="false" type="trakt">1276810</uniqueid>
+  <uniqueid default="true" type="tvdb">1507791</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>王太太家里宴请朋友，徐阿姨辛苦工作到很晚。她跟王太太商量，每日的剩菜倒掉也是浪费，可否自己带回家吃。王太太同意了，还不忘刻薄得说道，这也算是变相加薪了。徐阿姨把剩菜带回家，丈夫以为她乱花钱买吃的，十分不满，徐阿姨心里更不舒服。她从此以后只看新房子，海萍又催苏淳问他爸妈要钱。登记拆迁人口的领导来到了李奶奶家，李奶奶表明她坚决不搬，让来访者哑口无言。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>SMG Pictures</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2690</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>蜗居.Dwelling.Narrowness.E05.1080P.Hdtv.X264-Dhtclub_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

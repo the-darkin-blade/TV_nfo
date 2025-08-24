@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>西汉初吕后回宫，刘恒奶娘遭算计</title>
+  <originaltitle>西汉初吕后回宫，刘恒奶娘遭算计</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>4216489</id>
+  <uniqueid default="false" type="tmdb">1901621</uniqueid>
+  <uniqueid default="false" type="trakt">7355800</uniqueid>
+  <uniqueid default="true" type="tvdb">4216489</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>西汉初年，天下刚刚平定，吕后和皇长子被迎回了后宫，在皇宫中遇到了薄姬娘娘之子刘恒及其奶娘（杜云汐之母）。吕后见刘恒渐渐长大，怕其威胁自己儿子的皇位，便召刘恒奶娘入椒房殿问话，后送一凃毒女粉送与奶娘，想毒死太子。奶娘转手送给薄姬娘娘，谁知宫中闹鼠，误服女粉而亡，奶娘大惊，薄姬娘娘命奶娘带着自己的幼女赶紧逃离宫中，谁知途中遭遇吕后派人追杀，被一打猎壮士巧妙搭救，暂居猎户家中。谁知追杀之蒙面人又至，紧急时刻，猎户夫妇阻挡蒙面人被杀。奶娘将云汐和猎户家的独女聂慎儿藏于水缸中，并嘱托云汐，如果见不到她，就去少陵原找舅舅。奶娘为引开蒙面人，跑到悬崖，跳崖自尽。薄姬怕吕后加害刘恒，入椒房殿面见吕后，以自毁容貌为代价，求得吕后答应自己带着刘恒去封地代国避祸。云汐带着慎儿去少陵原找当亭长的舅舅田大业收留，谁知田家也很贫穷，田妻不愿收留。在田大业的据理力争下，田妻答应只收留云汐一个孩子，田大业无奈答应。次日，田大业骗着慎儿躲猫猫，中途丢下慎儿离去，慎儿遇见妓院老鸨红姨，因见其长的漂亮，诱骗慎儿去了妓院。云汐和慎儿都长大了，云汐在舅舅家一直受着舅母的虐待，但云汐很聪明好学。某日，云汐表哥想调戏云汐，被云汐使计捉弄。而慎儿在妓院中也成了红姑娘。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2783</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep01 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

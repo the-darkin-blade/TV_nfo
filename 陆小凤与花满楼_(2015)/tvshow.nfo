@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:41:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>陆小凤与花满楼</title>
+  <originaltitle>陆小凤与花满楼</originaltitle>
+  <showtitle>陆小凤与花满楼</showtitle>
+  <sorttitle/>
+  <year>2015</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>7.0</value>
+      <votes>1</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>皇帝身患怪病，陆小凤（林峯 饰）奉旨追查，因此使得被人们遗忘多年的古国金鹏王朝浮出水面，更牵扯到了遗族公主上官凤丹（斓曦 饰），原来皇帝实则受人陷害身中毒蛊，而能够解毒之人就藏身于金鹏王朝之中，查出谁才是幕后黑手成为了陆小凤的当务之急。
+
+　　朝廷之中人心惶惶，暗流涌动，陆小凤的调查已陷入了瓶颈，举步维艰。在最困难的时候，陆小凤结识了名医花满楼（张晓龙 饰）和剑圣西门吹雪，三人之间结下了深厚的友谊。与此同时，一位名为阿信（张檬 饰）的少女一直默默的支持和帮助着花满楼，即便知道花满楼爱着的是凤丹公主，但她依然义无反顾地奉献出了自己的全部。 ©豆瓣</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"63668","wikidata":"Q15910861","tvdb":"293553"}</episodeguide>
+  <id>293553</id>
+  <imdbid/>
+  <tmdbid>63668</tmdbid>
+  <uniqueid default="false" type="tmdb">63668</uniqueid>
+  <uniqueid default="false" type="wikidata">Q15910861</uniqueid>
+  <uniqueid default="true" type="tvdb">293553</uniqueid>
+  <premiered>2015-01-10</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <studio>台灣漢梁公司</studio>
+  <studio>西岸傳媒股份有限公司</studio>
+  <studio>上海劇蕊有限公司</studio>
+  <country>中国</country>
+  <actor>
+    <name>张晓龙</name>
+    <role>花滿樓</role>
+    <profile>https://www.themoviedb.org/person/2519300</profile>
+    <tmdbid>2519300</tmdbid>
+  </actor>
+  <actor>
+    <name>林峯</name>
+    <role>陸小鳳</role>
+    <profile>https://www.themoviedb.org/person/89409</profile>
+    <tmdbid>89409</tmdbid>
+  </actor>
+  <actor>
+    <name>斓曦</name>
+    <role>上官丹鳳/上官丹圖</role>
+    <profile>https://www.themoviedb.org/person/1259770</profile>
+    <tmdbid>1259770</tmdbid>
+  </actor>
+  <actor>
+    <name>张檬</name>
+    <role>阿信</role>
+    <profile>https://www.themoviedb.org/person/1351540</profile>
+    <tmdbid>1351540</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

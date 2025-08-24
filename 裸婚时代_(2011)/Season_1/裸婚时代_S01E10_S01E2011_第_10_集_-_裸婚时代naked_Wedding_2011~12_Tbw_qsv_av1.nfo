@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:40:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 10 集</title>
+  <originaltitle>第 10 集</originaltitle>
+  <showtitle>裸婚时代</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2169961</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>童佳倩上个月因为频繁送饭频繁请假，考勤表现非常不好，被扣了工资，去找特蕾西算账。特蕾西面对年轻气盛的童佳倩，不但没生气，反倒对她的孕期加以指导，从使用的化妆品到防辐射衣服，还有DHA、卵磷脂，维生素、钙片。再后来干脆给了一个母婴产品的单子。</plot>
+  <runtime>63</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>3819</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>裸婚时代naked Wedding 2011.Hdtv.1080I.H264.Ac3.Ep10~12-Tbw_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>裸婚时代naked Wedding 2011~12 Tbw qsv av1</title>
+  <originaltitle/>
+  <showtitle>裸婚时代</showtitle>
+  <season>1</season>
+  <episode>2011</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>63</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>3819</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>裸婚时代naked Wedding 2011.Hdtv.1080I.H264.Ac3.Ep10~12-Tbw_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2011" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

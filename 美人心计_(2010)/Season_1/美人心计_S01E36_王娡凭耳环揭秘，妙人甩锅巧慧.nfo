@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>王娡凭耳环揭秘，妙人甩锅巧慧</title>
+  <originaltitle>王娡凭耳环揭秘，妙人甩锅巧慧</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>36</episode>
+  <id>4216524</id>
+  <uniqueid default="false" type="tmdb">1901656</uniqueid>
+  <uniqueid default="false" type="trakt">7355835</uniqueid>
+  <uniqueid default="true" type="tvdb">4216524</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>薄姬被噩梦惊醒，想要漪房答应放出巧慧，住进了有瘟疫的房子里。薄姬染上了瘟疫，漪房赶过去看她，细心地照料，薄姬被感动了。深夜，漪房睡着了，薄姬穿上盛装出去。漪房醒来，发现薄姬不见了，赶忙四处寻找，终于在莲花台找到了正在跳舞的薄姬，薄姬要漪房上台和她一起跳舞，自己却倒在台上，死去了。佩心拿着薄姬的衣物准备去焚化，妙人命宫人拿走一件衣服。她找到被放出来的巧慧，将薄姬的衣物给了她，告诉她这件衣服是染了瘟疫的。巧慧对王娡恨之入骨，故意将衣服送给了王娡，王娡被传染上了瘟疫，刘启寸步不离地留在身边照顾她。亚夫去查探金王孙的死因，发现锄头上有血腥味，认定人一定不是刘启杀的，他想到了碧君，便故意设局引碧君上当，让她以为金王孙的鬼魂正在找人报仇。王娡悠悠地醒了过来，听到外面有讨论的声音，舍人告诉她刘启因为要照顾她，把朝中事务都挪到漪兰殿处理了。王娡走到外面看刘启，刘启正和大臣们激烈地讨论着，忽然累得晕了过去，王娡赶紧跑过去，刘启醒了过来，要她赶紧回去休息，自己继续和大臣们讨论起来。王娡发觉自己爱上了刘启，可又不能不为金王孙报仇，陷入两难的她想选择自杀，被亚夫拦住了。亚夫将王娡带到周府，碧君正在给金王孙烧纸，亚夫扮成鬼魂吓碧君，碧君将事情的真相都说了出来。</plot>
+  <runtime>42</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2577</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep36 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="36" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

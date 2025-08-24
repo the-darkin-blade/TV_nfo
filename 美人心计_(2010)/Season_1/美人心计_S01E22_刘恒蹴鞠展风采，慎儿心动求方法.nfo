@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>刘恒蹴鞠展风采，慎儿心动求方法</title>
+  <originaltitle>刘恒蹴鞠展风采，慎儿心动求方法</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>4216510</id>
+  <uniqueid default="false" type="tmdb">1901642</uniqueid>
+  <uniqueid default="false" type="trakt">7355821</uniqueid>
+  <uniqueid default="true" type="tvdb">4216510</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>慎儿要求和漪房平起平坐，刘恒没有答应，慎儿决定找出证据证明漪房是汉宫的细作。她来到詹事房察看却一无所获，回宫时看到陈平和女儿抱头痛哭的场面，计上心来。慎儿帮助陈平放回了久在宫中的女儿，要求陈平帮助漪房寻找失散多年的弟弟长君，陈平一口答应，他回到府中，让刘盈冒充长君进宫见漪房。长君与漪房相认，慎儿要揭穿他们的身份，刘盈以慎儿的过去做要挟，求得彼此相安无事。刘兴居以漪房维护张嫣为由起兵造反，刘恒与众大臣商议，周勃离席，放火去烧北苑。张嫣坐在屋里一动不动，亚夫赶来欲冲进去，却被大火挡在了外面……周勃回来说起火烧北苑的事情，大臣质疑，他一剑将大臣刺死，慎儿受到惊吓，肚子痛了起来，漪房看出慎儿要生产，忙命人去找太医。慎儿产下一子取名刘武，漪房带着刘启和馆陶去看望，刘启和馆陶表现出厌恶的样子，慎儿和漪房都十分吃惊。被救出来的张嫣心灰意冷，认为自己是个不祥之人，决定终生不再出北苑。匈奴冒顿送礼给陈平，请求他帮助自己的国家割让一块土地，刘盈劝陈平不要应允，谁知陈平却早有野心，将刘盈抓了起来，作为威胁漪房和慎儿的筹码。陈平上表要求割地，慎儿表示反对，但也没有想出解决的办法。漪房建议以地换地，两人正谋划间，突然接到陈平送来的面具。漪房拉着假装刘盈的慎儿从门口经过，陈平吓得匆忙离开，亚夫悄悄地跟在他身后。陈平来到密室，亚夫要抓他，陈平逃跑，亚夫将刘盈救了出来。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2759</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep22 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>淑芬用心安慰日嘉</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>4848260</id>
+  <uniqueid default="false" type="tmdb">1984086</uniqueid>
+  <uniqueid default="false" type="trakt">1274811</uniqueid>
+  <uniqueid default="true" type="tvdb">4848260</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>有杰持枪与惊鸟的恐怖分子对峙，但恐怖分子却胁持市民做人质。为了优先保护市民的安全，ATF行动组不敢轻举妄动，双方陷入僵局。但是性格保守的有杰一反常态，竟然不顾情况冒险向恐怖分子开枪。
+
+欲代兄职　却遭拒绝
+
+ATF将受伤恐怖分子送院治理，经医生诊断，该恐怖分子已变成植物人。有杰回家后亦将为兄报仇的事情转告淑芬，但却换来了淑芬的担心，原来她害怕有杰也会像有正一样离开自己。
+
+ATF调查组自从有正死后未有填补空缺，有杰亦因为有正的死更想转到调查组，但高威却认为有杰存有私心而一口拒绝。
+
+离港疗伤　众人劝阻
+
+有杰发现日嘉一直休假未有回ATF工作，便与淑芬及仁美到日嘉的家探望，众人到达后才得知日嘉打算离开香港，以免勾起对有正的回忆。
+
+有杰担心日嘉从此一去不返，出言加以挽留，有杰更提议日嘉暂时与淑芬同住，淑芬亦以过来人身分鼓励日嘉。日嘉搬到淑芬的家暂住，看到有正的遗物便悲从中来，有杰不忍日嘉伤心出言安慰。
+
+剑亨坦言　房间秘密
+
+叶婷冒险在剑亨的办公室安装闭路电视，因此发现了剑亨办公室的秘密房间，但却未能成功窃听到剑亨与组织高层的对话内容。叶婷决定在剑亨面前，直斥他对自己隐瞒组织的事，剑亨思量过后决定告知叶婷房间秘密。想不到剑亨此举惹起了乐敏的妒忌及不满。
+
+受伤的惊鸟恐怖分子在医院接受治疗，ATF担心惊鸟会前来灭口，便安排警察进驻医院严密看守。
+
+日嘉发现　有杰心意
+
+有杰担心惊鸟扮作医护人员行刺，便拜托仁美帮忙调查医院的医护人员资料，有杰更成功将可疑人物拘捕。有杰的能力被高威认同，终于接受有杰的要求让其加入调查组。
+
+日嘉因心情好转而返回总部工作，有杰得偿所愿与日嘉在调查组共事。日嘉在淑芬执拾有杰的房间时，发现了有杰以前打算送给自己的示爱短片。日嘉约有杰见面，而有杰亦将有正生前打算送给日嘉的礼物送予她。有杰暗自决定，要代替有正支持日嘉。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2652</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj叛逃ep16_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

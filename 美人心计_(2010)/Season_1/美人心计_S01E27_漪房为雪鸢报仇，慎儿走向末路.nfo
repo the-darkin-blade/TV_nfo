@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>漪房为雪鸢报仇，慎儿走向末路</title>
+  <originaltitle>漪房为雪鸢报仇，慎儿走向末路</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id>4216515</id>
+  <uniqueid default="false" type="tmdb">1901647</uniqueid>
+  <uniqueid default="false" type="trakt">7355826</uniqueid>
+  <uniqueid default="true" type="tvdb">4216515</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>刘贤奚落着刘启，刘启气得将刘贤赶走，漪房赶了过来，刘启不理她，漪房将鞋放在房门口离开，刘启开门将鞋扔了出去。漪房下旨将紫菱郡主许配给刘盈，刘贤拉着刘启偷看紫菱郡主洗澡，紫菱郡主羞愤难当，拔出凤钗自杀。刘恒得知后怒不可遏，责问是谁的主意，刘贤将责任都推到了刘启的身上，刘恒对刘启大打出手，将他关到了暴室。刘贤拿着棋盘来到暴室，要刘启跟他下棋，刘启假装顺从，猛地拿起棋盘砸在他的头上，刘贤倒地身亡。刘恒和漪房得到消息大惊，漪房忙去暴室找刘启，刘启却已经被薄姬接走了。漪房找到薄姬要她交出刘启，薄姬不肯，漪房苦口婆心地劝说着，刘启终于同意跟漪房一同面对。漪房带着刘启来到朝堂，刘濞不肯善罢甘休，要刘启偿命，漪房软硬兼施，让刘濞自己决定。刘启见漪房不顾自己的性命将自己推给刘濞，心彻底凉了。时光如梭，刘启渐渐地长成了大人，薄姬打算让刘启成亲，将自己的侄孙女巧慧介绍给漪房。宫中发生了传染疾病，漪房忙去察看，谁知巧慧早已安排得井井有条，漪房和她交谈，发现她是一个温柔贤淑的女孩子，心中十分满意。刘启常常去偷看宫人妙人，一心想当太子妃的妙人却将他当成了小太监。她要刘启帮助自己考乐馆接近太子，刘启给妙人吹埙伴奏，妙人偏偏起舞，两个人配合得十分默契，相约第二天在乐馆见面。宫人们告诉妙人太子并不去乐馆，而是经常跟亚夫在一起，要她去北苑碰碰运气。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2669</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep27 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

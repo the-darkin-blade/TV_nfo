@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>巧慧崭露头角，刘启与妙人初相遇</title>
+  <originaltitle>巧慧崭露头角，刘启与妙人初相遇</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id>4216517</id>
+  <uniqueid default="false" type="tmdb">1901649</uniqueid>
+  <uniqueid default="false" type="trakt">7355828</uniqueid>
+  <uniqueid default="true" type="tvdb">4216517</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>漪房来看张嫣，查问是谁值夜，妙人战战兢兢地过来，漪房闻到了她身上的香味和刘启书房里的味道一模一样。巧慧来到书房找刘启，刘启仍不肯跟她回去，漪房过来，拿妙人威胁刘启，刘启只好就范。他假装跟巧慧玩游戏，将巧慧绑起来吊到了横梁上……巧慧找到薄姬哭诉，薄姬训斥漪房，漪房将妙人抓起来棒打，刘启拿起棒子朝自己身上打去，威胁漪房如果杀了妙人自己也不活了。刘启将自己的苦恼告诉了刘恒，刘恒答应帮助他。刘恒特意安排漪房跟自己在宫外相会，重温两个人新婚之夜的快乐时光，借着自己的例子劝漪房答应刘启和妙人在一起。漪房终于想通了，将妙人许给了刘启，却在暗中帮助巧慧，教她如何抓住男人的心。巧慧亲自打扫宫廷，为刘启做饭、刺绣、纳鞋，刘启被感动。妙人见刘启的心在慢慢向巧慧靠拢，使计让刘启误会巧慧。巧慧心灰意冷，决定跳河自尽，亚夫将她救起，劝她要坚强面对，这一幕被容儿看到了。又到了一年一度的蚕花节，巧慧主持请蚕王仪式，妙人奚落巧慧，被薄姬赶了出去。妙人生气地出来，听到两个宫人议论将蚕王的丝和桑叶压在枕头底下可以生子。 深夜，妙人来到蚕室欲偷蚕丝，忽然发现蚕王不动了，刚要离开，漪房恰巧进来，见蚕王死掉，下令将她抓了起来。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2780</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep29 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:35:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 31 集</title>
+  <originaltitle>第 31 集</originaltitle>
+  <showtitle>蜗居</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id>2301601</id>
+  <uniqueid default="false" type="tmdb">1463860</uniqueid>
+  <uniqueid default="false" type="trakt">1277221</uniqueid>
+  <uniqueid default="true" type="tvdb">2301601</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>海藻的母亲到了海萍家，得知海藻怀了别人的孩子后大发雷霆。打海藻时却打到了海萍。晚上，海藻的母亲分析了宋思明爱海藻的原因并自责没有教育好孩子。到了宋思明的小公馆，海藻的母亲还是宽容了海藻。宋太太送孩子上学时，被组织上叫过去谈话，宋太太在是否交代问题上迟疑不决。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>SMG Pictures</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>蜗居.Dwelling.Narrowness.E31.1080P.Hdtv.X264-Dhtclub_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>胤禛天宝合力寻找七色菇</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>食为奴</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>4801928</id>
+  <uniqueid default="false" type="tmdb">2302239</uniqueid>
+  <uniqueid default="false" type="trakt">1265024</uniqueid>
+  <uniqueid default="true" type="tvdb">4801928</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>若碧是京城中数一数二的美女，其兄羹尧一直为若碧安排对象，但全都被若碧加以拒绝。原来若碧一直对小鱼念念不忘，当若碧得知小鱼跟随天宝入宫掌厨的消息后，便特意请求羹尧帮忙，替自己送信给小鱼。
+
+羹尧虽然不愿妹妹继续与小鱼来往，但是身为兄长的他亦不忍若碧伤心，最后只好勉强答应若碧请求替她送信。
+
+天宝为友　保守秘密
+
+御茶膳房中天宝等人被鹤亭故意安排担任杂务，一直没有机会为宫中掌厨，当天宝得知小鱼收到若碧的情书后更感伤心不已。小鱼为了摆脱若碧，便决定帮忙撮合天宝及若碧两人，令天宝因此对小鱼充满感激之情。
+
+羹尧为将功补过而率领兵马消灭边境悍匪，胤禛亦亲自赠送家传宝刀为羹尧送行，令羹尧深受感动。
+
+胤禛回府时却巧遇慕雪，并借故上前与慕雪相处，但此情此景却被十阿哥发现。天宝到访胤禛府，并在闲谈间得知胤禛对慕雪有意。天宝为了朋友之情，决定继续为胤禛在慕雪面前保守他是满人的秘密。
+
+慕雪得知　胤禛真身
+
+慕雪为与胤禩见面而经常拜访孤儿院，但是却在和孤儿嬉戏时不小心触动旧伤，令慕雪因此感到不适。胤禩在与慕雪闲谈间，告知胤禛的真正身分是康熙的四阿哥，而非天宝口中所说的罗公公。
+
+慕雪闻言后即时与秋菊返回医馆，并且对天宝严刑迫供，最后天宝在恐惧之下供出了胤禛的真正身分。正好到医馆拜访的胤禛闻言后大怒，并怨恨天宝不讲信用。
+
+无论胤禛如何努力，但还是改变不了慕雪讨厌他的事实，胤禛终为此事与天宝口角，两人也因此绝交。
+
+天宝替仆　查出真相
+
+天宝回到御茶膳房后，发现李卫被侍卫拘捕，原来是鹤亭怀疑李卫偷取宫中的贵重茶叶，故此要拘捕李卫加以审问。天宝得知后决定为李卫查出真相，最后凭着天宝灵敏的嗅觉，成功找到茶叶的所在地。德胜本想为鹤亭的手下开脱，但却被老冯暗中施计阻止。
+
+李卫沉冤得雪，但老冯的行动却被从旁观察的小鱼发现，并因此令小鱼怀疑老冯就是自己一直在寻找的五味大师。
+
+为救天宝　胤禛犯险
+
+慕雪因为早前触动旧患，加上因胤禛一事而大动肝火，令身体的状况变得相当恶劣，经思道诊断后，虽要得到稀有药材「七色菇」才能救活，故此思道便拜托胤禛入宫寻找。
+
+胤禛发现宫中的七色菇亦刚缺货，之后思道告诉胤禛七色菇生长于泥土下，必须要有灵敏嗅觉的人才能找到。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2666</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep08_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

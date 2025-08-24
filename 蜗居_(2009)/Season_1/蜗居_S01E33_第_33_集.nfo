@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:35:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 33 集</title>
+  <originaltitle>第 33 集</originaltitle>
+  <showtitle>蜗居</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <id>2301621</id>
+  <uniqueid default="false" type="tmdb">1463862</uniqueid>
+  <uniqueid default="false" type="trakt">1277253</uniqueid>
+  <uniqueid default="true" type="tvdb">2301621</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>陈寺福潜进老李家，想把老李家拿的包工头的写名字的水壶和安全帽偷走，不料被早在等候的警察抓了个正着。宋思明晚上和宋太太交代“后事”，并希望宋太太能够照顾已经怀有身孕的海藻。宋太太听后十分冷淡。一早，当宋太太发现宋思明收的钱少了一半，就立马想找到海藻。在宋太太软磨硬泡威逼利诱之下，沈醒国交代了海藻住的地址……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>SMG Pictures</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2690</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>蜗居.Dwelling.Narrowness.E33.1080P.Hdtv.X264-Dhtclub_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="33" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

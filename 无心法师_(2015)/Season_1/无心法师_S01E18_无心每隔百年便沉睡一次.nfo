@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>无心每隔百年便沉睡一次</title>
+  <originaltitle>无心每隔百年便沉睡一次</originaltitle>
+  <showtitle>无心法师</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id>5285505</id>
+  <uniqueid default="false" type="tmdb">1141074</uniqueid>
+  <uniqueid default="false" type="trakt">1939810</uniqueid>
+  <uniqueid default="true" type="tvdb">5285505</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>山中忽现夺人性命的神秘黑影，顾玄武请来出尘子以及无心捉妖，两大法术高手在顾玄武的陪同下离开营地，漫山遍野寻找神秘黑影。山中的夜来得很早，一行三人没有返回营地，而是留在野外守侯神秘黑影。到了下半夜，月牙一路寻来，找到露宿野外的无心，一行四人忽然发现空中出现神秘黑影，说明迟那明快，出尘子掏出几张符咒，念完几句咒语照准空中的神秘黑影掷去，神秘黑影修为极高不惧符咒，出尘子一时之间没了主意。无心向神秘黑影洒出手指上的血液，百试百灵的血液竟然失了效，神秘黑影似是被激怒，迅速向四人直飞下来。无心一行人已是无计可施，怆惶间转身逃跑，四人一刻不停顺着山路奔逃，待到天色大亮，转身一看，神秘莫测的黑影已然消失不见。
+
+　　有士兵在营地周围发现两根铁钎，挖掘泥土少不了铁钎，顾玄武猜到岳绮罗曾经来过山中，其目的极有可能是挖掘金矿。令人费解的是，地洞周围摆放着许多桶人类大便，无心苦思无果，向已过而立之年依然保留着童子之身的出尘子借了尿液，作为避邪之用进入地洞探险。地洞内聚居着许多喜食人肉的甲虫，无心活捉几只甲虫返回地面，发现甲虫遇阳光则化为血水。经过一番推敲，无心猜到摆在山洞外的人类大便用处，甲虫一旦嗅到洞外的活人气息便蜂涌而出，大便的气息可掩盖活人气息。因地洞中出现大量甲虫，不宜入洞挖掘金矿，顾玄武带兵下山回城。在大帅的允许下，带兵攻打张显宗，一举拿下文县。
+
+　　月牙与无心返回阔别多日的家园，惊见一只白色母鸡开口说话，白色母鸡被一个精灵附体，精灵叫白琉璃是无心的好友，此番现身是为了照顾即将沉睡的无心。每隔一百年，无心就沉睡一次，醒转过来如同重生失去所有记忆。一个月后便是无心沉睡之时，月牙痛恨无心隐瞒真相，惶惶不可终日，担心无心日后苏醒将她忘记。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sohu Video</studio>
+  <studio>iQiyi</studio>
+  <studio>Tencent Video</studio>
+  <studio>Tangren Media</studio>
+  <studio>MAX DREAM</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj無心法師ep18_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

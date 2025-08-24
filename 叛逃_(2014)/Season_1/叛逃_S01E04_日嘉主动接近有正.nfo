@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>日嘉主动接近有正</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>4832471</id>
+  <uniqueid default="false" type="tmdb">1984074</uniqueid>
+  <uniqueid default="false" type="trakt">1273439</uniqueid>
+  <uniqueid default="true" type="tvdb">4832471</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>有杰及有正为了追求日嘉，便利用网络搜索有关日嘉的资料。当有杰得知日嘉有喝咖啡的习惯后，独自在ATF的餐厅等待日嘉出现。
+
+另一方面，有正凭着日嘉的车牌资料，及警署当中的相关的文件纪录，成功查出了日嘉的住所，并且在其大门前守候。日嘉看见有正出现在自己家门前，不禁对有正提起了兴趣。
+
+志敖轻判　有正兄弟
+
+有正及有杰因为屡次违反命令，有机会被志敖赶出训练营。高威得知后不禁出言劝戒。高威指有正虽然充满才干但难以控制，并非是ATF理想的人选。
+
+有正及有杰准备接受处分却获得轻判，有正明白应有人私下为二人求情。
+
+为讨欢心　制作短片
+
+叶婷是杂志记者，并在公共关系组的安排下进入ATF的训练营进行采访，叶婷在访问过程中认识了有正，有正亦乐意告诉叶婷有关ATF训练的事。
+
+有杰为了夺得日嘉的欢心，决定在网络上收集日嘉的照片，并制作成短片以表达爱意。另一方面，日嘉因为对有正产生了兴趣，便利用ATF的电脑搜索有正的位置，并亲自出门寻找有正。
+
+为救队友　考试失败
+
+叶婷关于ATF训练营的报道面世后，志敖觉得有正将ATF的机密外传加以责骂，令有正感到不满。
+
+有正及一众训练生进行野外训练，大岳在训练时不小心失足堕崖，有正及有杰见状便下山救援，有正却因此训练不合格。大岳见有正为自己负起了所有责任，从而对有正改观。有正亦得到全部ATF训练生的尊敬。
+
+训练生正男成绩包尾，却突然出言请求有正教他如何偷走出营，有正及一众训练生担心正男，便决定与正男一起偷走。
+
+有正叶婷　成为朋友
+
+有正等人到酒吧消遣散心，酒吧却发生殴斗事件。有杰见义勇为与流氓大打出手，终被警察拘捕带回警署。
+
+有正及有杰在警署重遇叶婷，有正因为自己偷走犯事，担心叶婷会借机大肆报道，想不到叶婷答应不会出卖他们，有正与她也因此成为了朋友。
+
+众人回到训练营即被志敖处罚，正男更因此被逐出ATF。有正及有杰感志敖处罚过严，便决定为正男出头，找志敖理论。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2646</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj叛逃ep04_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

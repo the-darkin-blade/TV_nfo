@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>有正冲动身陷险境</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>4833104</id>
+  <uniqueid default="false" type="tmdb">1984075</uniqueid>
+  <uniqueid default="false" type="trakt">1273524</uniqueid>
+  <uniqueid default="true" type="tvdb">4833104</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>众训练生得知正男被志敖逐出ATF的真正原因，有正及有杰得知自己错怪了志敖。
+
+志敖刻意挑选有正及有杰进行特训，兄弟两人除被囚禁在冷冻库内，有正更被安排清理狗场，令有正感到自己被志敖针对。高威见有正气愤难平好言相劝，亦难以改变有正对志敖的偏见。
+
+有杰不知　自己失恋
+
+有杰在偶然的机会下发现日嘉的铃声与短片的音乐相同，便以为日嘉对自己有意，殊不知根本没有收到短片的日嘉，其实已经心系有正。
+
+有正与日嘉已经发展至情侣关系，但是两人却没有对外公开恋情，故令有杰仍然继续单恋着日嘉。
+
+有正出言　挑战志敖
+
+有正因为在课堂上迟到被志敖责骂，有正终于向志敖表示不满。志敖见自己的权威被挑战，决定带一众训练生外出受训。众人看见训练的危险度甚高而感惊讶，志敖以身作则的向众人作示范。
+
+看见志敖的英勇表现，登时令一众训练生对志敖生出尊敬之意。有正见状不忿，在好胜心的驱使下，紧随志敖之后冒险完成危险训练 。
+
+收拾心情　专心训练
+
+正男自从被逐出ATF后便变得颓然若失，有正看不下去便亲自找高威求情，希望高威能让正男完成ATF的训练课程。高威事后便向志敖建议此事，终令志敖接受正男回训练营完成ATF的训练。
+
+因正男一事，有正兄弟终对志敖稍为改观，两人更决定在训练期间服从志敖的教导，并用心完成ATF的训练。十星期快将过去，有正一行人亦终于完成ATF的最后测试，并等待正式成为ATF的一分子。
+
+紧急出动　拯救人质
+
+有正及有杰等人突然接到上级的命令出动，原来有恐怖分子入侵了别墅，并且胁持了屋内的住客作为人质，有正及有杰被编入同一队，并且经由通风口潜入别墅内。
+
+有正在潜入期间发现人质，并发现人质即将被匪徒枪决，志敖指示要求有正待机。有正见人质危在旦夕，便决定无视命令现身将匪徒击倒，但结果反令自己身陷险境。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2668</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj叛逃ep05_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

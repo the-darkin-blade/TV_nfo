@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>子冉托孤漪房，刘恒请薄姬主持大局</title>
+  <originaltitle>子冉托孤漪房，刘恒请薄姬主持大局</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>4216502</id>
+  <uniqueid default="false" type="tmdb">1901634</uniqueid>
+  <uniqueid default="false" type="trakt">7355813</uniqueid>
+  <uniqueid default="true" type="tvdb">4216502</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>即将当上王后的漪房不断收到众大臣送来的礼物，霍昕的夫人也来到漪房处送礼，替霍昕求情。漪房不计前嫌，不仅没有收礼物，还亲自到霍昕府拜访，晓以利弊。朝堂上，刘恒更是亲自迎接，令霍昕十分惭愧。漪房近来总是不断地干呕，薄姬派太医给漪房号脉，告之只是普通的肚痛，漪房心存疑惑，将刘恒约到外面找了一家医馆号脉，结果却是喜脉……漪房生下一子，取名刘启。薄姬怕刘尊的地位受到威胁，将刘尊抱走，自己亲自教养。一日，漪房带着馆陶和刘启玩耍，刘尊过来，十分羡慕，薄姬却不准他接近漪房。宫人紫苏因家人病重想出宫探望，漪房见后宫宫人庞杂，准备放她和一些宫人出宫和家人团聚，紫苏十分感激。漪房亲自为刘恒做了点心，紫苏替她送去，薄姬误以为刘恒对紫苏有情，便以漪房的孩子做要挟，要漪房同意刘恒纳妃。薄姬要刘恒陪紫苏，刘恒以清点国库为由拒绝。薄姬因为紫苏接近不了刘恒十分震怒，命人将她重打三十大板，紫苏的心里渐渐燃起了对薄姬的仇恨……吕雉为了巩固吕家的地位，要吕刘两家联姻，实则是监视刘家人的一举一动，吕家人为此十分跋扈。吕馨闯入刘友的别苑，将他怀有身孕的小妾一剑刺死，并威胁刘友如果再让她不痛快，会让整个王府陪葬，刘友觉得生无可恋，拔剑自尽。刘家人不肯罢休，要杀吕馨为刘友报仇，吕馨求吕雉替自己解围，吕雉为难，吕禄让吕雉设宴款待刘吕两家，化解两家人的仇恨。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2699</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep14 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

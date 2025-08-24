@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:35:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 32 集</title>
+  <originaltitle>第 32 集</originaltitle>
+  <showtitle>蜗居</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id>2301611</id>
+  <uniqueid default="false" type="tmdb">1463861</uniqueid>
+  <uniqueid default="false" type="trakt">1277238</uniqueid>
+  <uniqueid default="true" type="tvdb">2301611</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>现在的情势对宋思明很不利了。市长要宋思明去探探书记的口风，结果书记表示做官要代表人民的利益，如果这点没做到，就算再怎么陈述，都是完全错误的。海藻并不知道宋思明的情况，一直打宋思明的电话，可是一直被宋思明以种种理由回避，海藻认为是宋思明始乱终弃，并开始怀疑自己是否做对了选择，自己是否应该生下那个孩子。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>SMG Pictures</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2693</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>蜗居.Dwelling.Narrowness.E32.1080P.Hdtv.X264-Dhtclub_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

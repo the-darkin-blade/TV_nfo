@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>无心休养数日恢复人形</title>
+  <originaltitle>无心休养数日恢复人形</originaltitle>
+  <showtitle>无心法师</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>5285500</id>
+  <uniqueid default="false" type="tmdb">1141069</uniqueid>
+  <uniqueid default="false" type="trakt">1939805</uniqueid>
+  <uniqueid default="true" type="tvdb">5285500</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>天津大帅府，大帅因十二姨太与人偷情，一怒之下对其施予严刑，刑毕将其活埋。
+
+　　顾玄武与月牙风尘仆仆抵达天津，两人获苏先生隆重接待，一行三人入席享用美食，其间苏先生问起无心下落，月牙吞吞吐吐称其云游四方，苏先生表面佯装漫不经心，实则对月牙所说的话产生了怀疑。顾玄武转移话题求见大帅，苏先生不便立即带其前往大帅府，大帅因刚处死十二姨太心情欠佳，顾玄武欲与之相见还需耐心等侯数日。
+
+　　无心未恢复人形，顾玄武担心吓坏苏先生，谢其好意挽留，执意与月牙离开苏府，在外找了一家客栈落脚。无心处于蚕虫形态，外观看起来有几分渗人，月牙在顾玄武的建议下负责送食端水，不进房与无心打照面，免得被无心丑陋的蚕虫形态吓坏。
+
+　　数日过后，无心由一条蚕虫长为孩童形状，月牙打消心中惧意，进房与无心相见，往后的日子，两人形影不离如同母与子。
+
+　　小春子是顾玄武的旧爱，多年以前，顾玄武被国民党强行抓走入伍当兵，后来顾玄武成了军官衣锦还乡，小春子早已搬家音讯全无。
+
+　　事隔多年，顾玄武偶然在街上遇到被混混调戏的小春子，小春子领着顾玄武返回住处，道出多年以来的经历。当年顾玄武被国军党抓走之后，小春子被逼无奈嫁人成家，后来丈夫患病身亡，她被大太太赶走，从此以后孤身一人在外漂泊。
+
+　　顾玄武多年与小春子未见，难免有些把持不住自己，搂住小春子欲行男欢女爱之事，小春子一反常态将其推走，似有难言之隐，已经恢复原形的无心闯入房中，出手将小春子打回原形，原来小春子早已丧命，被岳绮罗布下纸人术，身不由已谋害顾玄武。真相大白，小春子与纸人一起灰飞烟灭，留下一地的唏嘘，令顾玄武一时痛不欲生。大帅处死红杏出墙的十二姨太不久，府上发生怪事，年幼的儿子患上怪症，似是被鬼魂附体。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sohu Video</studio>
+  <studio>iQiyi</studio>
+  <studio>Tencent Video</studio>
+  <studio>Tangren Media</studio>
+  <studio>MAX DREAM</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj無心法師ep13_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

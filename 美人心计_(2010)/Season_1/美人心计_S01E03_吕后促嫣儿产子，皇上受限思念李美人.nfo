@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>吕后促嫣儿产子，皇上受限思念李美人</title>
+  <originaltitle>吕后促嫣儿产子，皇上受限思念李美人</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>4216491</id>
+  <uniqueid default="false" type="tmdb">1901623</uniqueid>
+  <uniqueid default="false" type="trakt">7355802</uniqueid>
+  <uniqueid default="true" type="tvdb">4216491</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李美人很受皇上宠爱，遭人妒忌，某日误丢掉了刺绣被吕后捡到，吕后发现图案特别，认为李美人是敌人奸细，更加想让嫣儿早日怀上龙种好安心。吕后要求皇上留在椒房殿，直到嫣儿诞下龙嗣为止。皇上感觉自己失去了自由。嫣儿要求云汐玩捉迷藏，云汐不小心碰到皇上。嫣儿很怕皇上，皇上给嫣儿讲自己的故事，安慰嫣儿。夜晚，皇上思念李美人，想去李美人处，云汐帮助皇上逃离椒房殿。某日，李美人来请安，吕后不喜，用言语责怪他。李美人言自己怀上了龙种，吕后说没有宫廷记录，皇上来求情，证实李美人怀上的是自己的骨肉，皇后以没有宫廷记录为由推责。关键时候，云汐说是自己放走了皇上，吕后大怒，想杀了云汐，嫣儿（平时不说话）开口求情，吕后饶过了杜云汐死罪，杖责一百。吕后告诫云汐：在宫里不要强出头。让云汐多教教皇后，好让皇后早怀龙种。夜里，嫣儿回忆当年小时候看见的惨剧，母亲告诫嫣儿不能乱说话，乱说话的下场就是死，恐惧一直占据了嫣儿小小的心灵，使嫣儿恐惧说话。李美人被吕后派人推下了水，淹死了。云汐听到消息后马上找到皇上，好语安慰。皇上开解之余大赏云汐，遭到慎儿误会。云汐不想成为众矢之的，夜里找到皇上宽衣解带向皇帝诉说自己的想法。皇上开解，不再专宠一人，后宫众女争宠，顿时变得热闹起来。吕后看到后，大为烦心，用往事来告诫皇帝。皇上责问吕后为什么要加害李美人，吕后拿出李美人的刺绣，告诉皇上自己的推测：李美人私通敌国。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2667</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep03 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:41:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>耀明追贼反与必达结怨</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>楼奴</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2426218</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>香港楼价高世界闻名，三十二岁打工仔楼耀明，用了十年时间储够首期上车。这天，他带拍拖十四年的女朋友唐安妮来到新屋参观，顺势向她求婚，安妮感动得流下眼泪。
+
+耀明与好友区美男前往一间楼上酒吧参加极速约会，当一众女士闻得耀明拥有一间四百多尺的私楼，随即为他争风呷醋起来。耀明息事宁人，将电话放在群组，才停止她们吵闹。美男坦言主办极速约会是不忿耀明被安妮甩掉，希望他走出失恋痛苦，勿再躲在屋内。朱玛莉与三名旧同学聚餐，各人不忘炫耀居，此时玛莉的丈夫劳必达（麦长青饰）致电催她回家。
+
+回到新居，耀明收到他为安妮婚礼订制的人形公仔，百般滋味在心头。求婚当日，安妮带他来到高尚住宅区，耀明甫进屋便看到安妮与一名男子亲密合照。安妮指房子是新男友Billy所有，并预计下月与Billy结婚。她又埋怨与耀明拍拖多年，因为准备买楼而变得生活刻苦，耀明无言以对。
+
+耀明追贼必达受害
+
+耀明与海老板准备离开公司，突然有劫匪抢去海老板的公事包，耀明奋力追截劫匪。此时必达将车驶出停车场，看到耀明追贼并心知不妙，耀明却将劫匪摔倒在必达车头，令车头玻璃爆裂。必达和耀明同在医院验伤之时，再三向耀明追讨汽车维修费，耀明答应必达全数赔偿。
+
+必达看到上司标叔提花篮打算探望大老板利爱华，本想同往探病，此时却收到神秘短讯劝他切勿跟随。爱华在病房刚开完视像会议，丈夫邹君年也来到探望，期间爱华见标叔携花篮冲进来，即指责他此举会把入院消息传出，并因犯下大忌而即时将他开除。
+
+耀明失业欠债累累
+
+耀明上班时见大批人聚集大厦大堂，询问后得知海老板涉嫌洗黑钱被捕，公司亦随之倒闭。耀明失业后心情沉重，同时又收到银行要求供款的来电，旋即找美男借钱应急，美男拿出招聘广告杂志鼓励他寻找工作。
+
+必达得知公司招聘新物业主任，因而联想到自己将晋升为经理。耀明前往见工时得罪了爱华，及后必达为应征者进行面试，竟发现耀明正是其中一人，必达故意出题留难耀明，耀明愤然离开。耀明来到码头散心，适时遇见一名少女跌进海中，耀明二话不说跳海救人。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1336</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Brick.Slaves.Ep01.20150803.Hdtv.1080I.H264-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Brick Slaves 20150803 Cnhk qsv av1</title>
+  <originaltitle/>
+  <showtitle>楼奴</showtitle>
+  <season>1</season>
+  <episode>803</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1336</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Brick.Slaves.Ep01.20150803.Hdtv.1080I.H264-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="803" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 25 集</title>
+  <originaltitle>第 25 集</originaltitle>
+  <showtitle>蜗居</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>2301541</id>
+  <uniqueid default="false" type="tmdb">1463854</uniqueid>
+  <uniqueid default="false" type="trakt">1277120</uniqueid>
+  <uniqueid default="true" type="tvdb">2301541</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在焦急和等待中，苏淳终于收到了法院的撤销刑事诉讼书，蒙在鼓里的苏淳不仅没有像老婆和他预想到的那样会遭到原单位的开除，反而还得到了奖励。原来，是宋思明牵线搭桥让两家企业联营，使得原本的矛盾化解。开心的海萍打电话把这件喜事告诉了海藻。海藻提议小贝请苏淳和海萍吃饭。当小贝要了海藻的手机给苏淳发信息时，发现了宋思明发来的短信……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>SMG Pictures</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>蜗居.Dwelling.Narrowness.E25.1080P.Hdtv.X264-Dhtclub_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 10 集</title>
+  <originaltitle>第 10 集</originaltitle>
+  <showtitle>蜗居</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>1513721</id>
+  <uniqueid default="false" type="tmdb">1463839</uniqueid>
+  <uniqueid default="false" type="trakt">1276882</uniqueid>
+  <uniqueid default="true" type="tvdb">1513721</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>海萍记下梦中灵光一现出来的一串数字，想去买彩票碰碰运气，结果数字猜对位置一个没猜对，陈寺福去找宋思明，宋思明要求陈寺福要快刀斩乱麻，要争取把那块地做好。海萍最终付了款买了房，当交完款后苏淳坦白自己的钱是问高利贷借的，海萍当时就气哭了。海萍决定和苏淳离婚，她到海藻和小贝那里诉苦，海藻则让小贝劝苏淳。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>SMG Pictures</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2694</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>蜗居.Dwelling.Narrowness.E10.1080P.Hdtv.X264-Dhtclub_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

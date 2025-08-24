@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>天宝店被羹尧查封</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>食为奴</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>4797546</id>
+  <uniqueid default="false" type="tmdb">2302232</uniqueid>
+  <uniqueid default="false" type="trakt">1264483</uniqueid>
+  <uniqueid default="true" type="tvdb">4797546</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>若碧突然以吃为题举行招亲大会，天宝亦感到这是和若碧结合的大好机会，便到小鱼的家中向其拜师学艺，却因此惊见小鱼能够做出传奇厨师「五味大师」的失传名菜，便一口咬定小鱼是「五味大师」的传人。小鱼极力否认自己是「五味大师」的传人，更在言谈之间透露出了对「五味大师」的恨意。天宝看见小鱼还是无意收自己为徒，只有先行离开以免再触怒她。
+
+鹤亭利诱　天宝不从
+
+鹤亭与一众手下带同名贵礼物拜访天宝，并希望他交出咸鱼包的秘方，但却被天宝拒绝，鹤亭最后恼羞成怒拂袖而去。
+
+有客人买下天宝的咸鱼包后，竟发现当中混有蛆虫等异物，刚好出现的羹尧发现此事，立即决定查封天宝的小店。
+
+胤禛出现并决定以宫中太监的身分要求羹尧网开一面，但却被羹尧断言拒绝。看到羹尧不向权贵屈服的态度，令胤禛心中对羹尧留下了深刻印象。天宝事后亦终于得知，原来出手陷害自己的人就是鹤亭。
+
+招揽羹尧　同往山西
+
+羹尧回到衙门后，便因查封天宝小店一事而被上司施压，但性格刚直的羹尧因此自行辞去千总一职愤而离开。羹尧离开衙门时遇上了早在门前等候自己的冯鹰，并被冯鹰带往胤禛所在之处。原来胤禛为了试探羹尧的能力，才故意要羹尧的上司演戏压迫羹尧。看到羹尧为守正义而宁愿挂官辞职，胤禛终确定羹尧是一名可以信任的下属，便决定带羹尧一起到山西调查赈灾白银失窃一案。
+
+小鱼胜出　招亲比试
+
+天宝再次到小鱼的家中拜师，不胜其烦的小鱼最终亦收天宝为徒，并且要天宝陪自己一起喝酒。天宝因不断被灌酒而大醉不醒，日上三竿仍躺于床上，结果错过了若碧的招亲大会。
+
+另一方面，小鱼在外出工作时路过招亲会场，因一时技痒便参与比试。实力强劲的小鱼轻松完成所有试题，令若碧留下深刻印象，但小鱼并无意与若碧交往，便决定假冒天宝的名字并藉词离开。事后天宝在活动结束后才赶到现场，得知若碧还未决定夫君后即时感到松一口气。
+
+胤禛遇上　刺客袭击
+
+胤禛和羹尧一起前往山西调查白银失窃案，山西知县亦亲自招待两人。虽然胤禛和羹尧表面接纳了山西知县的说词，但是两人回府休息后，亦有感案件别有内情，决定暗中前往义庄再次对有关案件的尸体进行调查。这时突然有刺客现身，并且向胤禛施击，羹尧见状便出手将刺客击退，而胤禛亦因此拾得刺客遗留在现场的玉佩。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep04_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

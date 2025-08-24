@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>馆陶质问漪房，刘启信假消息</title>
+  <originaltitle>馆陶质问漪房，刘启信假消息</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id>4216522</id>
+  <uniqueid default="false" type="tmdb">1901654</uniqueid>
+  <uniqueid default="false" type="trakt">7355833</uniqueid>
+  <uniqueid default="true" type="tvdb">4216522</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>漪房看到刘启处理的奏折感到很欣慰，刘启想着王娡，显得心不在焉，临走时将包伤口的手帕掉在了地上。刘启来到暴室看王娡，王娡向他冲去，刘启本能地一躲，王娡撞在了墙上，醒过来之后，突然什么都不记得了。漪房来看刘启，询问他血手帕的事情，刘启告诉他受伤的是王娡，漪房看到王娡和慎儿一模一样的脸，十分震惊。妙人和巧慧看到刘启独宠王娡，暗自较劲，妙人极力挑拨巧慧和王娡的关系，后宫的争斗又开始了。漪房带着巧慧、妙人和王娡来到莲花台，漪房上台跳舞，妙人边拍手边后退，忽然发现河边的栏杆有些颤动，她故意告诉巧慧要多加小心。深夜，一个黑衣人来到莲花台，用力地扯动栏杆，亚夫带着御林军过来，发现栏杆松动了，而在地上发现了一个耳环……亚夫找到王娡，告诉她有人要害她，要她多加小心。薄姬得知漪房她们在莲花台跳舞，也执意要去。薄姬看着莲花台，舞瘾大发，上台跳舞。巧慧推着王娡上台和薄姬共舞，经过妙人身边时被她绊倒，重重地摔出栏杆。亚夫正好经过，将她搂在手中，众人松了一口气，台上的薄姬受到惊吓，突然晕倒了。薄姬一直昏迷不醒。王娡将耳环要了过来，进屋向漪房报告是耳环的主人故意将栏杆松动，才酿成今天的后果，妙人见事情败露，将所有的责任都推到了巧慧的身上，巧慧被打入冷宫。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2675</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep34 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

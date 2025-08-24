@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 14 集</title>
+  <originaltitle>第 14 集</originaltitle>
+  <showtitle>蜗居</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>2301411</id>
+  <uniqueid default="false" type="tmdb">1463843</uniqueid>
+  <uniqueid default="false" type="trakt">1276943</uniqueid>
+  <uniqueid default="true" type="tvdb">2301411</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>海藻来到无锡，约好了与客户会面的时间。一个人孤寂的吃了饭后，海藻百无聊赖地走回了下榻的酒店，接到了宋思明的电话，两人甜蜜的说笑。这时有人敲海藻房门，她开了门，一个人冲进来上来就搂住她，吓得她放声大叫，还引来了保安，结果这人竟是宋思明。因为陈寺福口头协议更改了一个项目的施工方案。对方公司拒不承认。在僵持中，陈派海藻来调节。宋思明放心不下，决定陪海藻去会见客户。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>SMG Pictures</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2671</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>蜗居.Dwelling.Narrowness.E14.1080P.Hdtv.X264-Dhtclub_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

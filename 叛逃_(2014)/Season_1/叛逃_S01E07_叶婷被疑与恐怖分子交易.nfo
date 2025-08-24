@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>叶婷被疑与恐怖分子交易</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>4837292</id>
+  <uniqueid default="false" type="tmdb">1984077</uniqueid>
+  <uniqueid default="false" type="trakt">1273717</uniqueid>
+  <uniqueid default="true" type="tvdb">4837292</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>南韩恐怖分子一案的重要证人被杀害，令ATF的调查陷入困难。ATF以电脑调查南韩的出入境纪录，发现南韩知名的恐怖分子已经潜藏在香港，令志敖肯定其来港目的就是在韩农示威期间趁机刺杀南韩政要，因此便派遣有正及宏亮对恐怖分子进行跟踪。
+
+有正进行任务期间，却发现为了前来商场与恐怖分子进行交易的叶婷。虽然叶婷成功掩人耳目进行交易，但是有正却凭直觉怀疑叶婷，于是借故拦截叶婷，叶婷虽成功蒙混，却担心自己已经成为ATF的调查目标。
+
+叶婷查知　Edmond罪证
+
+叶婷在与南韩恐怖分子进行交易时，发现Edmond与军火商暗中联络，怀疑Edmond借任务谋取私利。她暗地里将Edmond的手机资料复制一份，并交给骇客作出分析，终成功发现Edmond出卖组织的证据。叶婷将此事告知剑亨，但剑亨闻言后表露出闪缩的表情。
+
+另一方面，有正自从上一次的跟踪行动后，怀疑叶婷与恐怖分子有所关连。而南韩恐怖分子亦已取得Edmond所安排的军火。
+
+未能示爱　有杰失望
+
+有杰一直想表现自己的调查能力，务求能尽快加入情报组工作，因此死心不息地继续在枪击现场进行调查。
+
+有杰与日嘉倾谈后，有感日嘉对自己制作的示爱短片毫无印象，回总部大堂查看，才发现短片原来从未交付到日嘉手上，大失所望。
+
+为避嫌疑　提供情报  南韩政要到港参与高峰会议，叶婷为阻止Edmond和南韩恐怖分子的血腥计划，便假借组织的身分向恐怖分子提供假情报以拖延时间，更借机跟踪恐怖分子，发现他们收藏军火的巢穴。
+
+叶婷打算离开，却被一直跟踪自己的有正抓个正着。叶婷见形势危急，便向有正告知恐怖分子的藏身处，并要求有正放走自己。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj叛逃ep07_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

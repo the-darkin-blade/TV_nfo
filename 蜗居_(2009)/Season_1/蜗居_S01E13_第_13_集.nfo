@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 13 集</title>
+  <originaltitle>第 13 集</originaltitle>
+  <showtitle>蜗居</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>2301401</id>
+  <uniqueid default="false" type="tmdb">1463842</uniqueid>
+  <uniqueid default="false" type="trakt">1276926</uniqueid>
+  <uniqueid default="true" type="tvdb">2301401</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宋思明的家庭生活平静美满可是乏味之极，老婆上厕所都没有关门的概念了，曾几何时的恋爱感觉早就烟消云散了。晚上宋思明要跟太太求欢，半途宋太太想起女儿的卷子不知落到哪里，起身去找，宋思明不禁暗自感叹。第二天到了办公室，宋思明约海藻周六打高尔夫，海藻说周六要去姐姐家，因为两人的衣服要换着穿。宋思明很心疼海藻这么苛刻自己，下班后便带她去吃饭，还给她一些钱让她去买衣服，以后不要和姐姐换着穿。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>SMG Pictures</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>蜗居.Dwelling.Narrowness.E13.1080P.Hdtv.X264-Dhtclub_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

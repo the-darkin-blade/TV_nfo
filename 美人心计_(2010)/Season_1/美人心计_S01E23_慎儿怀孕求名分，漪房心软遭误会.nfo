@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>慎儿怀孕求名分，漪房心软遭误会</title>
+  <originaltitle>慎儿怀孕求名分，漪房心软遭误会</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>4216511</id>
+  <uniqueid default="false" type="tmdb">1901643</uniqueid>
+  <uniqueid default="false" type="trakt">7355822</uniqueid>
+  <uniqueid default="true" type="tvdb">4216511</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>陈平拿着刘恒曾经给过他的圣旨闯进大殿，将刘盈、漪房和慎儿的身份说了出来，要众大臣指认。漪房悄悄地将大臣们的家眷召集起来给刘武过生日，并找来刘盈跳舞助兴，将每个家眷身上的一个物件挂到了刘盈的身上。刘盈上殿，众大臣看到刘盈身上挂着的物件，以为家眷都被漪房控制起来，不敢说真话，纷纷表示刘盈并不是先帝，只是长得像而已，陈平有口难辩，被发配到边疆。漪房和慎儿说着陈平的事情，突然传来刘武落水的消息，宫人们都说是刘启将刘武推到河中。漪房回到宫中打刘启，刘启申辩不是自己做的，伤心地离开。刘恒也来找刘启兴师问罪，漪房向他袒露了积累多年的肺腑之言，两个人终于和好如初。慎儿担心自己的地位不稳，玉儿劝他找亚夫做依靠。慎儿找到亚夫，向他提起了死去的刘尊，要他保护刘武的安全。雪鸢调查了合欢殿的人，原来是玉儿没有绑好襁褓，刘武才掉进河里的，漪房听说后十分后悔。整个皇宫都没有刘启的影子，雪鸢怀疑刘启跟着水车出宫去了。宫外的刘启想要买包子却没有钱，准备拿玉佩交换，一个骗子看到了，要拿包子换他的玉，被小王娡阻止，告诉他这个人是骗子，刘启对她产生了好感。刘启没有地方可去，跟着王娡回到家中，王娡安排他到厨房暂时住下。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep23 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

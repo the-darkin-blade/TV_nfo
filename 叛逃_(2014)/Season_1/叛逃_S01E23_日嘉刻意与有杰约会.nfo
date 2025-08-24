@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>日嘉刻意与有杰约会</title>
+  <originaltitle>Episode 23</originaltitle>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>4858482</id>
+  <uniqueid default="false" type="tmdb">1984093</uniqueid>
+  <uniqueid default="false" type="trakt">1275684</uniqueid>
+  <uniqueid default="true" type="tvdb">4858482</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>剑亨被惊鸟的杀手枪杀后，叶婷想起剑亨临死前仍要求自己回家取回重要物件。回家后却发现家中被人洗劫，当叶婷打算离开的时候，乐敏却突然出现，乐敏欲抢走惊鸟成员名单用以自保，二人因而发生冲突。
+
+有正找到　叶婷行踪  叶婷因为杀死了乐敏而感到惊慌，有正找到叶婷并所安抚，更将她带回日嘉的住处暂避。看到有正对患病的叶婷加以照顾，令日嘉感妒忌，但有正却直指是日嘉多心杞人忧天。
+
+有杰在调查中发现剑亨和礼谦有所关连，便再次向礼谦展开调查，因此发现日嘉并没有上班，便决定登门拜访。
+
+日嘉主动　约见礼谦
+
+日嘉见有杰突然来访，便主动邀请有杰外出约会，以掩护在日嘉家中寄住的叶婷和有正。两人约会时，有杰却在对话间感到日嘉有事隐瞒自己，更不禁勾起了一丝怀疑心。
+
+叶婷留下了字条离开，更出现在礼谦面前，并将惊鸟的名单交出以换取自由，看见已取回名单并没有后顾之忧的礼谦，本想对叶婷不利，但是日嘉亦在此时赶到。
+
+叶婷结束　大智周刊
+
+日嘉出面力保叶婷的性命，礼谦见日嘉态度强硬，亦为了保持自己与日嘉之间的父女情，便决定放过叶婷一命。
+
+叶婷到警局自首，而警方亦因为证据不足而放走叶婷，叶婷为了不让大智周刊的同事卷入斗争之中，便决定将大智周刊结业。
+
+有正及叶婷终接到惊鸟所指派的第一个工作，就是要跟踪一名普通少女，令有正感到大惑不解。日嘉得知有正接受了惊鸟的任务后，不禁担心有正日后会不能在惊鸟中抽身，但有正却不以为然。
+
+调查药厂　发现宏亮
+
+日嘉在礼谦的公司巧遇父亲的心腹DR.KING，感到礼谦将要实行重大计划，便决定暗中进行调查。
+
+日嘉将得知礼谦将有大计划实行之事告知有正，有正知道后便决定独自潜入药厂调查，因此在实验室中发现被礼谦当成试药工具的宏亮。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2666</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj叛逃ep23_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

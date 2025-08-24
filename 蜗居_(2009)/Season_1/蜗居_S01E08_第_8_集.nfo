@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 8 集</title>
+  <originaltitle>第 8 集</originaltitle>
+  <showtitle>蜗居</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>1513691</id>
+  <uniqueid default="false" type="tmdb">1463837</uniqueid>
+  <uniqueid default="false" type="trakt">1276856</uniqueid>
+  <uniqueid default="true" type="tvdb">1513691</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>海藻收到上个月的工资条，不敢置信的给海萍打电话，如今工作清闲、没有应酬，工资却涨到了五千块。海藻不知道老板葫芦里卖的是什么药，海萍让她不要瞎操心。陈寺福是坚信宋思明与海藻有一腿，既然老大不喜欢自己的女人出去应酬，那他也不介意给宋思明养着情人，只有他高兴就好。宋思明与陈寺福的关系渐缓，但屡次应酬中都见不到海藻，难免有丝丝的失望。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>SMG Pictures</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2693</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>蜗居.Dwelling.Narrowness.E08.1080P.Hdtv.X264-Dhtclub_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

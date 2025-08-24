@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>天宝获赠免死金牌</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>食为奴</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>4800931</id>
+  <uniqueid default="false" type="tmdb">2302237</uniqueid>
+  <uniqueid default="false" type="trakt">1264902</uniqueid>
+  <uniqueid default="true" type="tvdb">4800931</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>太子因为发动政变失败，而被康熙废除其继承人之位，而为太子求情的胤禛亦因此被康熙斥责。至于羹尧由于私自斩杀御林军统领，因而犯了军纪需要受罚，结果康熙决定要把他打入大牢听候处决。看到忠心的羹尧竟落得如此下场，胤禛为此感到惶恐不安。
+
+胤禩得知太子已经失去继承人的资格后，便亲自入宫探望太子，原来胤禩手中的告密信早已被烧毁一半，根本不能成为太子的罪证。胤禩为了打动太子的承继权而逼他发动政变，才故意用此信要胁太子，太子得知真相后更感悲愤。
+
+为救羹尧　游说康熙
+
+若碧为兄长羹尧被康熙囚禁一事感到十分担心，便带同西瓜作贺礼亲自到胤禛的府上拜访。胤禛为了说服康熙放过羹尧，便将西瓜带入宫中作为伴手礼，却被康熙误会胤禛为太子求情。胤禛大惊，但为了不负若碧所托，仍努力以理说服康熙放羹尧一条生路。康熙虽觉得胤禛的说话有理，但是羹尧始终是违反军纪，不能随便赦免。
+
+康熙结果决定命令羹尧负责到边境消灭悍匪，以期将功补过。胤禛听后大喜，更代羹尧接受此重任。
+
+天宝赴宴　惨被赶走
+
+若碧的母亲在家中设宴，派人邀请「天宝」参加寿宴，而不知就里的天宝以为若碧是邀请自己，于是感到兴奋不已。
+
+天宝亲自下厨作为寿宴的礼物，小鱼虽然打算阻止天宝参加寿宴但最后却不成功，结果天宝在宴会中被若碧及羹尧赶出大宅，大受打击。事后小鱼向天宝坦白一切，承认自己一时贪玩冒充天宝参加比赛，但却因此令天宝意志消沉，小鱼亦因而深感歉疚。
+
+重遇小鱼　得知真相
+
+若碧和羹尧在市集闲逛时遇见小鱼，羹尧得知小鱼就是若碧的心上人后便独自带走小鱼问话，才得知小鱼是因为贪玩才冒认天宝参加比赛，亦对若碧并无半点爱意。羹尧闻言后大怒，便命令小鱼不可以在若碧面前再次出现，小鱼即时应允。
+
+羹尧回家后特意与妹妹谈论有关小鱼之事，亦直言希望她能够忘记小鱼，但若碧却拒绝了兄长的请求，指自己对小鱼念念不忘。
+
+康熙力邀　天宝入宫
+
+康熙欣赏天宝厨艺，有意邀请天宝进入御茶膳房工作。因康熙从胤禛口中得知，天宝因怕入宫为奴死于非命而拒绝邀请，便决定亲自微服出巡到天宝的小店拜访。康熙与天宝详谈，并特意赐与天宝一面免死金牌。天宝为了能与若碧的身分看齐，最终答允了康熙的邀请。
+
+天宝将入宫一事告知思道及小鱼，思道虽然为此感到担忧，但却知道已经不能改变天宝入宫的决定。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2659</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep07_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

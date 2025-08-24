@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 16 集</title>
+  <originaltitle>第 16 集</originaltitle>
+  <showtitle>蜗居</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>2301431</id>
+  <uniqueid default="false" type="tmdb">1463845</uniqueid>
+  <uniqueid default="false" type="trakt">1276971</uniqueid>
+  <uniqueid default="true" type="tvdb">2301431</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>海萍的单位给海萍穿小鞋，不发年终奖金，海藻听了就想帮姐姐一把。打电话给小贝，没有后台的小贝根本无力解决，只能让海藻劝海萍继续加班，不要顶撞领导。此时宋思明打来电话，神通广大的宋思明给了海藻一个电话，果然，开了许多的假病假条让海萍过了关。海藻则答应了宋思明的要求。不久，通过宋思明的手腕，海萍公司发给了海萍足额的年终奖，海萍也就势辞了职，专心干起了家教。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>SMG Pictures</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2693</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>蜗居.Dwelling.Narrowness.E16.1080P.Hdtv.X264-Dhtclub_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

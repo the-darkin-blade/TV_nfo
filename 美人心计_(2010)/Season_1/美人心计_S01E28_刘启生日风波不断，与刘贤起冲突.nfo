@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>刘启生日风波不断，与刘贤起冲突</title>
+  <originaltitle>刘启生日风波不断，与刘贤起冲突</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id>4216516</id>
+  <uniqueid default="false" type="tmdb">1901648</uniqueid>
+  <uniqueid default="false" type="trakt">7355827</uniqueid>
+  <uniqueid default="true" type="tvdb">4216516</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>舞姬们一个接一个地跳着，却始终不见妙人，刘启急忙去寻找，妙人告诉他自己不去乐馆了，准备去北苑等太子，刘启见她爱的只是权力，心情渐渐地黯淡下来。漪房来看刘启，向他提起巧慧，刘启要漪房自行安排。宫人们议论着太子要娶良娣的事情，妙人听到很着急，恰巧一个宫人要去椒房殿送衣服，妙人便替她送去。刘启正和亚夫交谈，远远地看到了妙人，急忙躲了起来，妙人没有见到太子，离开，亚夫劝刘启不要错过。李嬷嬷正在斥骂着宫人们，宣布谁做错事就罚去太子殿打扫，妙人一听故意将水泼在李嬷嬷的身上，李嬷嬷看穿了她的心思，对她大打出手。刘启喃喃自语地过来，妙人终于知道他就是太子殿下，假装跳水，刘启将她救了上来。妙人告诉刘启爱上了他这个太监，刘启不知是计，高兴得手舞足蹈起来。洞房之夜，刘启以看兵书为由抛下巧慧离开。次日，漪房问起巧慧新婚之夜如何，巧慧替刘启隐瞒，漪房发现巧慧身上的麝香，告诉她刘启是闻不了这个味道的，否则全身会起红疹，巧慧只好将刘启到书房看兵书的事情说了出来。刘启拿着妙人送给自己的鲜花香包闻着，漪房来到书房，刘启慌忙将香包藏起，漪房要他好好对待巧慧，离开之际闻到刘启的房里有香味，不禁起了疑心。妙人在北苑值夜，刘启偷偷地来看她，将她带到太子宫。张嫣半夜醒来，发现窗子没关，急忙下地关窗，风很大，窗子怎么也关不上，张嫣叫了半天也没有人答应，晕了过去。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2670</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep28 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

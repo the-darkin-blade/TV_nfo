@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:41:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>大威向耀明寻仇</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>楼奴</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195875</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>居于涉案劏房的纹身大汉高大威走上All in One，又揪起耀明胸口，责骂职员入屋后弄坏他的电脑。原来有人在离开单位时未有关妥窗户，令他的电脑被雨水弄湿。大威又指电脑储存了十分重要的照片，耀明承诺为他维修。耀明相信照片对大威很重要，于是尝试用风筒吹干电脑，却被坚菁嫌嘈吵。
+
+碧姬寻找电脑神童
+
+翌日，大威再到公司找晦气，并要求取回照片。盛怒之下向办公室泼红油，却刚好泼着必达。耀明最终未能抢救电脑，在碧姬请求下，必达向她介绍一位隐世电脑神童，碧姬决定跟随必达上门拜访。
+
+多乐成功抢救照片
+
+碧姬跟必达回家，穿上背心短裤的多乐，看到女神碧姬到来立即换上一身「潮look」。原来多乐正是电视神童，多乐答允通宵抢救电脑，碧姬亦答应事成后担任文物学会宣传大使。
+
+坚菁摆放一个折翼的陶瓷天使在钢琴上，耀明对此感到好奇。安妮突然打电话请耀明帮忙到迷你仓取回摺合单车，耀明抵步后发现坚菁正呆呆地看五年前Love &amp; Romance海报。耀明将单车交给安妮，欲送她回家时，Billy驾名贵房车前来接载，耀明自惭形秽。经过一晚抢救，多乐终于成功取得电脑资料，并指要亲手将资料交给碧姬，必达无奈让他跟随上班。
+
+大威七婶母子重聚
+
+正当大威欲打耀明之际，必达和多乐及时来到，并展示出大威和母亲七婶的合照。大威忽然思念失散十多年的母亲，大家提议将大威母亲照片放上网络，让网友一同帮忙寻找。
+
+有女网友提供七婶消息，耀明立即通知大威一同到社区中心找七婶，事后发现通报消息的人正是坚菁。七婶与儿子相认，碧姬感动落泪，坚菁偷偷拍下耀明向她递纸巾的情景。
+
+耀明为多谢坚菁帮忙，遂亲自为她炮制丰富晚餐，以慰劳她的帮忙。另外，耀明悉心复修好天使的一对翼，并且放在坚菁眼前，坚菁却脸色一变，含泪把天使翼拆下并离家。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1335</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Brick.Slaves.Ep04.20150806.Hdtv.1080I.H264-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Brick Slaves 20150806 Cnhk qsv av1</title>
+  <originaltitle/>
+  <showtitle>楼奴</showtitle>
+  <season>1</season>
+  <episode>806</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1335</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Brick.Slaves.Ep04.20150806.Hdtv.1080I.H264-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="806" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

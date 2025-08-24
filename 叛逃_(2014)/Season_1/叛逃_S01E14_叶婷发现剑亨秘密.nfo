@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>叶婷发现剑亨秘密</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>4846408</id>
+  <uniqueid default="false" type="tmdb">1984084</uniqueid>
+  <uniqueid default="false" type="trakt">1274612</uniqueid>
+  <uniqueid default="true" type="tvdb">4846408</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>有杰成功带王教授逃出安全屋带到ATF的基地，高威才得知志敖的秘密行动。高威得知有正孤军作战，即时派遣行动组赶到安全屋，却找寻不到有正。
+
+因为王教授遇袭及有正失踪之事，全因志敖的错误决定而起，故令ATF上下都对志敖失去了信心而士气低落。因兄长失踪而心中不满的有杰更出言斥责志敖，志敖无言。
+
+众人落力　搜索有正
+
+虽然有正在被囚禁期间，一度找到逃走的机会，但最后亦被截获再次受到毒打，有正的财物更因此被惊鸟的手下抢走据为己有。有杰不甘志敖放弃找寻有正，便利用自己在警界的人脉进行搜索。
+
+而日嘉亦决定向ATF提出休假独自进行搜查，仁美暗中为日嘉提供情报。叶婷利用偷听器调查剑亨的计划，并暗中跟踪剑亨和乐敏，终寻得惊鸟成员的藏身点。
+
+日嘉刻意　独自调查
+
+叶婷虽能发现惊鸟藏身点，但却无法找出被囚禁的有正，叶婷离开藏身点寻找骇客，要求骇客帮自己破解藏身点的密码锁，但却因此错过了拯救有正的机会。
+
+惊鸟的手下使用有正的全路通购物，终令ATF找到有正行踪的线索，而仁美亦即时暗中通知日嘉。
+
+日嘉及有杰前往西贡进行调查，而在日嘉调查期间却遇上了前来调查惊鸟藏身点的高威，日嘉表现出对有正的执着故决定独自调查。
+
+叶婷告密　阻止惨剧
+
+叶婷找到密码锁的破解方法后，便回到惊鸟的藏身点搜查，即见惊鸟的间谍正对有正拳打脚踢。
+
+叶婷看见此场面大感到错愕，更决定尽快逃走，想不到离开时，叶婷却因此与返回到藏身点的剑亨碰个正着。
+
+剑亨见叶婷在藏身点出现，第一时间只担心叶婷会被惊鸟的间谍发现，便即时将叶婷赶走。但叶婷却偷偷地折返，并将剑亨的计划告知ATF，令ATF成功阻止惊鸟偷运毒气弹回中国的计划。
+
+有正惨死　日嘉崩溃
+
+叶婷决定重新潜入藏身点并打算救出有正，但是这次却被惊鸟的间谍发现。叶婷被人挟持至剑亨面前，但剑亨却没有打算处决叶婷，反而将叶婷与有正一起带走。剑亨指示惊鸟的间谍以视像通讯与ATF联络，在视像期间用手枪击毙有正。
+
+看到有正被人处决的画面，在ATF的日嘉因此精神崩溃，而ATF的所有成员亦即时赶到现场搜索，但是最后却连有正的尸体也找不到。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2660</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj叛逃ep14_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

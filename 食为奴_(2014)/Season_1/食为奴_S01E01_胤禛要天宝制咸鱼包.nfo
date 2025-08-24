@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:43 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>胤禛要天宝制咸鱼包</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>食为奴</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>4794630</id>
+  <uniqueid default="false" type="tmdb">1756901</uniqueid>
+  <uniqueid default="false" type="trakt">1264057</uniqueid>
+  <uniqueid default="true" type="tvdb">4794630</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>康熙皇帝因感自己年事已高，于是以立大阿哥为太子，但太子性格横蛮无理并经常推卸责任，故此惹来一众兄弟反感。反对太子的势力中，则以八阿哥胤禩为首的「八王党」势力最大，而他们的存在就犹如太子的眼中钉。
+
+适逢康熙寿辰，各阿哥都努力预备山珍海错以博取康熙好感，四阿哥胤禛更用了甚多时间筹备，在台湾种植西瓜为康熙贺寿。但西瓜却在运送途中发生意外，令胤禛因此在宴会中迟到。
+
+太子强夺　胤禛寿礼
+
+在寿宴中，一众阿哥都预备了上好佳肴献给康熙，令康熙龙颜大悦，而太子本来亦预备了佛跳墙给康熙享用，但是太子却在宴会中途得知康熙因身体不适未能进食油腻食物，便即时将胤禛预备的西瓜抢过来送赠康熙。
+
+胤禛不敢得罪太子只有将礼物出让，而康熙亦因此将佛跳墙分给宫中的阿哥及下人享用。宴会结束后，一众阿哥都看不起胤禛的懦弱而出言嘲笑，独胤禩同情胤禛的遭遇而加以安慰。胤禛的近身侍卫冯鹰在宫中巡逻时，发现有太监因为偷食太子所预备的佛跳墙而中毒身亡，而负责此菜的厨师亦早已逃离宫中。
+
+天宝小鱼　欢喜冤家
+
+胤禛得知佛跳墙有毒后便即时通知太子，太子听后大为紧张，并一口咬定是「八王党」所安排的计划，以动摇自己的皇位继承权，太子于是命胤禛将逃亡的厨师缉私拿归案。另一方面，「八王党」亦收到佛跳墙有毒的消息，而胤禩为了掌握太子的把柄，亦决定插手追查下毒事件。
+
+在京城的贫民窟有一间小店以「咸鱼包」闻名于市，小店经营者高天宝对于食物的味康熙皇帝因感自己年事已高，于是以立大阿哥为太子，但太子性格横蛮无理并经常推卸责任，故此惹来一众兄弟反感。反对太子的势力中，则以八阿哥胤禩为首的「八王党」势力最大，而他们的存在就犹如太子的眼中钉。
+
+适逢康熙寿辰，各阿哥都努力预备山珍海错以博取康熙好感，四阿哥胤禛更用了甚多时间筹备，在台湾种植西瓜为康熙贺寿。但西瓜却在运送途中发生意外，令胤禛因此在宴会中迟到。
+
+太子强夺　胤禛寿礼
+
+在寿宴中，一众阿哥都预备了上好佳肴献给康熙，令康熙龙颜大悦，而太子本来亦预备了佛跳墙给康熙享用，但是太子却在宴会中途得知康熙因身体不适未能进食油腻食物，便即时将胤禛预备的西瓜抢过来送赠康熙。
+
+胤禛不敢得罪太子只有将礼物出让，而康熙亦因此将佛跳墙分给宫中的阿哥及下人享用。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2666</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep01_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

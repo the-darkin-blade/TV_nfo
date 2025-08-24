@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 18 集</title>
+  <originaltitle>第 18 集</originaltitle>
+  <showtitle>蜗居</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id>2301451</id>
+  <uniqueid default="false" type="tmdb">1463847</uniqueid>
+  <uniqueid default="false" type="trakt">1277014</uniqueid>
+  <uniqueid default="true" type="tvdb">2301451</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>海藻与宋思明同学吃饭，岂知他的那些女同学出言不逊，尤其是有个叫张莉的女同学对海藻的态度很轻蔑，让她有些不开心。言语间，这些同学聊起了一个已去世的同学，好像年轻时跟宋思明有过一些故事，海藻竟然有些吃醋。宋思明走后，他设局的同学给专案组打电话汇报，说是找到了宋的突破口，那便是海藻。海藻去火车站接小贝，一如既往的兴高采烈，没有意识到小贝的冷淡。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>SMG Pictures</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>蜗居.Dwelling.Narrowness.E18.1080P.Hdtv.X264-Dhtclub_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

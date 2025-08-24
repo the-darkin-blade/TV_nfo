@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>思道若碧施计试探天宝</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>食为奴</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>4814924</id>
+  <uniqueid default="false" type="tmdb">2302257</uniqueid>
+  <uniqueid default="false" type="trakt">1266248</uniqueid>
+  <uniqueid default="true" type="tvdb">4814924</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>天宝为了取悦仍然被眼疾所苦的若碧，便打算亲手制作甜品慰问，但却未能成功。天宝为了让若碧开怀而向小鱼请教。小鱼本欲拒绝，但想到自己要向天宝隐瞒其女儿之身，便决定自动放弃对天宝的感情，并助天宝制作甜品给若碧。
+
+天宝将小鱼制作的甜品送给若碧品尝，而若碧却凭着甜品的味道发现小鱼似有心事，便叫天宝关心小鱼。同时间，小鱼亦正偷偷地在御茶膳房拜祭其亡母，并借此抒发心事，因此被路过的老冯得知小鱼的秘密。
+
+天宝决定　为爱捐眼
+
+天宝经过深思熟虑后，决定将自己双眼移植给若碧，思道闻言后大为感动，决定协助天宝进行手术。天宝在换眼前为了能记住若碧的容貌，便相约若碧一起到城楼上观星。
+
+天宝更特意修书给胤禛，希望他能原谅自己换眼的决定。到手术当日，思道亦预备好为天宝换眼，天宝亦因为思道对手术的讲解太恐怖而受吓当场昏倒。
+
+胤禛收到天宝的信后便找来小鱼等人询问天宝的行踪，众人才因而得知天宝打算牺牲双眼医治若碧，便慌忙赶到思道的医馆加以制止。
+
+羹尧凯旋　气焰大增
+
+当众人赶到后，才知道一切也是思道的把戏，用以试探天宝对若碧是否真心，若碧亦因此大受感动，并决定接受天宝的爱意。
+
+羹尧终于将边疆的叛军一举消灭并凯旋回京，而羹尧亦因为被胜利冲昏头脑，竟然无视宫廷规矩强行策马入京面圣。羹尧在宴会中向胤禛要求大笔封赏，在旁的隆科多看不过眼，便向羹尧微言几句，结果导致羹尧与隆科多两人日后势不两立，胤禛为此感到头痛不已。
+
+老冯施计　陷害小鱼
+
+胤禩收到了羹尧凯旋的消息后，便决定从此出家为僧不问世事，胤禛也为胤禩的决定感到突然。但思道得知后，却提醒胤禛不应因此放松防备，便安排「粘竿处」暗中在寺庙监视胤禩。
+
+太后寿辰将至，御茶膳房被要求设计菜式在寿辰当日送给太后作为寿礼，最终设计菜式的任务决定交由小鱼负责。老冯见小鱼将担大任后，竟然在寿辰当日暗中将小鱼预备好的菜式偷偷调包，幸好天宝撞破老冯的奸计才能化险为夷。
+
+天宝要胁　老冯屈服
+
+天宝质问老冯为何要陷害小鱼，原来老冯的确就是小鱼一直在寻找的五味大师。天宝知道老冯的真正身分后，便要胁老冯收他为徒，老冯最后无奈地答应了天宝的请求。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2651</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep17_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

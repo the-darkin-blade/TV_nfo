@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>刘章替吕鱼还债，将其领回家中</title>
+  <originaltitle>刘章替吕鱼还债，将其领回家中</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>4216504</id>
+  <uniqueid default="false" type="tmdb">1901636</uniqueid>
+  <uniqueid default="false" type="trakt">7355815</uniqueid>
+  <uniqueid default="true" type="tvdb">4216504</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>刘章与吕禄决定联手解救刘恭，吕禄包围了皇宫，将慎儿救了出来。慎儿为了夺权，骗刘章说吕雉和刘恭已经和好，要他退兵。暗中却将吕雉软禁起来，逼她改立吕家的人为新皇……刘章和吕鱼来拜见吕雉，吕雉要吕鱼陪她下棋，将自己的玉龙头戒指送给了她，要她回去好好地摆摆棋局。吕鱼回到府中摆棋局，突然明白了吕雉的含义，赶紧告诉了刘章。慎儿让吕禄绞杀刘章，夺他的兵权，谁知却被躲在角落的金枝听到了，赶紧跑出去告诉了吕鱼。吕鱼为保住刘章的性命，故意找到他大吵起来，用玉龙头戒指下令，将他赶出了长安城。吕雉亲自给刘恭缝制着衣服，准备送他出宫，却突然传来刘恭驾崩的消息。刘章到代国请求刘恒出兵，刘恒左右为难，漪房决定牺牲自己成全刘恒，向太医要了几包老鼠药……薄姬睡着了，刘尊偷偷地溜了出去，紫苏正在花园里等他。刘尊要紫苏陪他荡秋千，紫苏偷偷地割断绳子，刘尊摔了出去，临死前抓住了她胸前的穗子……漪房正准备喝药自尽，突然听到刘尊死亡的消息，慌忙去禀报刘恒，亚夫怀疑是漪房害死了刘尊。漪房替刘尊擦拭身体，发现了他手上抓着的穗子。漪房拿着穗子去找紫苏，紫苏说出是为了报答漪房后喝毒酒而亡，恰巧薄姬和刘恒来找紫苏对质。薄姬怀疑是漪房杀死了刘尊，又杀紫苏灭口，便绝食威胁刘恒废后。刘章在代宫门口等待回复，霍昕告诉他刘恒正承受丧子之痛无暇顾及，劝他去齐国借兵，刘章无奈，只好离开。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2689</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep16 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

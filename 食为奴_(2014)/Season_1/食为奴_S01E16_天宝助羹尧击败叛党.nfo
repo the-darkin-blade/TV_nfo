@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>天宝助羹尧击败叛党</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>食为奴</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>4812037</id>
+  <uniqueid default="false" type="tmdb">2302254</uniqueid>
+  <uniqueid default="false" type="trakt">1266101</uniqueid>
+  <uniqueid default="true" type="tvdb">4812037</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>原来天宝等人护送粮草会遇上失败，早已在思道的计算之中，而思道亦成功地将真正的军粮送到羹尧的手上。天宝为了安抚长期在外打仗的将士，便与小鱼一起亲自下厨举行宴会，此举亦逗得羹尧等将士相当高兴。
+
+翌日，天宝及小鱼趁羹尧不为意的时候，偷偷地离开阵营并潜入附近的村落打探「天山雪莲」的下落。
+
+为觅雪莲　天宝犯险
+
+天宝及小鱼四出查探，终于让天宝得知「天山雪莲」原来是村落的圣物，亦得知村长将会为「天山雪莲」举行仪式，因此令天宝等人难以接近。最后天宝及小鱼决定趁村民醉酒时出手偷取「天山雪莲」，但天宝此举最终却被村民发现，天宝失手被擒而小鱼则成功逃之夭夭。
+
+天宝小鱼　误堕古井
+
+天宝因为偷取「天山雪莲」而被村民囚禁，幸好小鱼在村民的食物中下药才能将天宝救出，并且成功取得「天山雪莲」。天宝及小鱼为了逃避村民的追捕，不慎误堕一口古井之中，小鱼亦因此受伤，而天宝也没法爬出古井。
+
+一晚过后，小鱼的情况恶化并开始感到饥饿，天宝见状大感担忧，不惜将「天山雪莲」分予小鱼进食，又为她歌唱细数繁星舒缓她的情绪，令小鱼大为感动。突然，天宝闻得古井中传出人声，便在好奇心驱使下掘开土石一看，赫然让天宝发现了叛军的秘密基地。
+
+消灭叛军　天宝荣归
+
+羹尧见天宝迟迟未归，便派军队四出寻找天宝及小鱼的下落，最后羹尧亦在古井中发现天宝并将其救出。天宝获救后便将发现叛军巢穴一事告知羹尧，羹尧闻言大喜并即时派兵攻击叛军，终成功将敌人消灭，天宝因此可以立功回京。
+
+另一方面，胤禛自从被九阿哥袭击后，便感到背后正有一股势力想推翻大清政权，冯鹰因而向胤禛提议成立「粘竿处」监视宫中的可疑人物务求先发制人，最后得到了思道及胤禛同意。
+
+天宝回京后便将「天山雪莲」交给思道制药，胤禛得知天宝立功后亦加以赏赐，天宝因此在宫中的名声愈来愈响亮。
+
+小鱼主动　约见若碧
+
+小鱼自回京后，便发现自己对当日和天宝唱歌观星一事念念不忘，因此令小鱼产生出要尽快撮合天宝和若碧的念头。
+
+小鱼约见若碧，在对话中得知若碧是担心自己的眼疾会拖累天宝，才不敢接受天宝的爱意。小鱼之后便将此事告知天宝，而天宝亦再次探访若碧，最后终令若碧接受他。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2659</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep16_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

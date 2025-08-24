@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:41:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>耀明坚菁同屋共住</title>
+  <originaltitle>Episode 2</originaltitle>
+  <showtitle>楼奴</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195873</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>耀明从海中救回祝碧姬上岸，碧姬道谢后便急忙离开，却无意中与耀明错换了电话。一身湿漉漉的耀明回家洗澡，却惊见陌生女子蔡坚菁在浴室洗马桶，耀明未及反应已受袭。坚菁表示是好友安妮给她租住半间屋，耀明无奈接受。耀明想念安妮难以入睡，坚菁同样不能入寐，不断回想到底谁破坏她在迷你仓度宿的事。原来早前坚菁在迷你仓洗手间冲凉洗头之际，突然听到脚步声，她连忙收拾东西竟留下沐浴露，结果被人投诉，坚菁被逼搬离迷你仓。
+
+必达耀明又再相遇
+
+天亮起，耀明被传来一阵阵敲打声音吵醒，走出客厅看到满地垃圾，已吓了一跳，后又有嘈吵声音来自坚菁房间，坚菁打开房门，耀明看到一部自动吸尘机正在吸尘，欲借它吸走厅中垃圾，却遭拿铁锤安装房门锁的坚菁恐吓。碧姬来电表示拿错了电话，并相约耀明在码头取回自己的电话，彼此一见如故交谈起来，期间耀明好言相劝安慰碧姬，及后方知碧姬坠海纯属意外。
+
+必达得知有新同事在经理室等待爱华，入房后发现此人正是耀明，二人四目交投互有敌意。耀明向爱华自我介绍后，爱华满意耀明表现，并决定将耀明职位由物业主任跳升至经理。及后，爱华与碧姬一起购物，知道碧姬仍未找到居所，答应为她物色房子。
+
+升职落空继续苦干
+
+坚菁与安妮见面，期间还将耀明跟碧姬调换电话一事告诉安妮，安妮闻言后心有戚戚然。坚菁到街市瞄向远处一个豆腐档，只见其母亲雪梅搬货时差点滑倒，不禁替妈妈忧心。期间，雪梅趁空闲致电坚菁，并因儿子永青结婚连累坚菁搬出而感到内疚。必达为升职落空而发愁，岂料一踏进屋内，爸爸万步、妈妈金喜扬起红布条祝贺他升职，必达有口难言。在玛莉细问下，必达坦承经理职位被耀明取代了，并打算因此辞职，玛莉痛陈利害，必达闻言决定只好继续苦干。
+
+与坚菁住耀明叫苦
+
+耀明回家发觉地板和餐桌都贴了黄色胶条，原来坚菁在家划分了区域，并在墙上贴了一张「共同生活守则」。耀明将煮好的饭随意放在枱上，回头却发现炒饭只剩下半碟，气得耀明咬牙切齿。君年来到美芝茶餐厅安慰必达，耀明的薪金不会被他多，爱华仍然倚重的人是必达。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1337</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Brick.Slaves.Ep02.20150804.Hdtv.1080I.H264-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Brick Slaves 20150804 Cnhk qsv av1</title>
+  <originaltitle/>
+  <showtitle>楼奴</showtitle>
+  <season>1</season>
+  <episode>804</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1337</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Brick.Slaves.Ep02.20150804.Hdtv.1080I.H264-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="804" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

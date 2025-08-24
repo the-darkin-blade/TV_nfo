@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 4 集</title>
+  <originaltitle>第 4 集</originaltitle>
+  <showtitle>蜗居</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>1507781</id>
+  <uniqueid default="false" type="tmdb">1463832</uniqueid>
+  <uniqueid default="false" type="trakt">1276799</uniqueid>
+  <uniqueid default="true" type="tvdb">1507781</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>海萍家，苏淳被老婆赶去单位要钱，一筹莫展。海藻和小贝却窝在家里照顾植物，打打闹闹、亲亲我我。一如往常，海藻还是要抛下小贝去姐姐家，小贝见海藻要走不禁撒起娇来，惹得海藻娇笑不已。海萍见到妹妹，提起要借两万块钱买房的事情，海藻一口答应。海藻存款不够，回到家问起小贝的存款情况，得知小贝同意借钱，心里的石头才落了地。海萍居住的老房子，邻居们因为得知了将要拆迁的消息都心绪沸腾起来。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>SMG Pictures</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2697</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>蜗居.Dwelling.Narrowness.E04.1080P.Hdtv.X264-Dhtclub_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

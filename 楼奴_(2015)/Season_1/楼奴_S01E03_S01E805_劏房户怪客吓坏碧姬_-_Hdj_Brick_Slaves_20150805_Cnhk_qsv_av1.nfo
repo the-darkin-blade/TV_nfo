@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:41:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>劏房户怪客吓坏碧姬</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>楼奴</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195874</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>必达打算以早餐讨好新上司耀明，耀明却不领情。耀明请必达带他到各区巡楼，必达遂带他来到一幢旧唐楼，并介绍耀明认识居于劏房的陈伯和陈婆。二人声称对必达的服务表示满意，惜耀明从中看到必达别有用心。耀明和必达带碧姬和她的同学参观单位，二人表示受不住屋内的装修油漆味，耀明称有解决办法。
+
+必达表明上下一心
+
+耀明不喜欢必达浮夸的工作态度，希望必达实事求是，安份守己。必达亦表示他与All in One上下一心跟耀明合作。多乐和同学阿光在学校推广保护香港文物活动，并游说颖琪参加。颖琪推说要替碧姬搬屋，两个男生闻言立即答应帮忙碧姬。
+
+住客投诉劏房恶臭
+
+翌日耀明在公司重遇碧姬，原来她在All in One担任实习生。阿邦接到住客投诉指财物被盗，耀明与必达和碧姬一同前往查看，期间却发现劏房传出阵阵恶臭。同层住户齐齐声讨恶行，同时还爆出必达日常的马虎工作态度，耀明听后向必达怒目而视。
+
+坚菁批评饭菜难吃
+
+美男和耀明逛街时路经法式餐厅，步入餐厅之际却看到安妮和男朋友在品尝蛋糕。耀明来到社区中心义务帮忙煮饭，负责替长者弹琴伴奏的坚菁亦获邀留下吃晚饭，坚菁却发现饭菜难吃得不能下咽，耀明终发现极速约会出言批评的人正是坚菁。
+
+耀明、必达和碧姬再到劏房单位视察，三人开门后发现臭气熏天，而且堆满杂物，碧姬一转身，以为将人头推倒地上，因而受惊跳进耀明怀中……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1332</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Brick.Slaves.Ep03.20150805.Hdtv.1080I.H264-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Brick Slaves 20150805 Cnhk qsv av1</title>
+  <originaltitle/>
+  <showtitle>楼奴</showtitle>
+  <season>1</season>
+  <episode>805</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1332</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Brick.Slaves.Ep03.20150805.Hdtv.1080I.H264-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="805" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

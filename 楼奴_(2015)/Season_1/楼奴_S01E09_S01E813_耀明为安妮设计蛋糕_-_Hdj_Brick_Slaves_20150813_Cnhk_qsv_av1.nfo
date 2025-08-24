@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:41:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>耀明为安妮设计蛋糕</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>楼奴</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195880</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在All in One办公室内，各人正为五十万赔偿而发愁，必达认为向爱华上报最为妥善。最后经过各人投票决定暂时不宜上报，必达给耀明三日找出法子，必达心中却另有盘算。碧姬约爱华见面欲向她借五十万，爱华早已知碧姬来意，她提点碧姬仔细调查。
+
+耀明等人讨论Nana为何要他们五十万元，碧姬指出Nana最近买了一间豪宅需要大量金钱。虽有疑点和动机，但欠证人证实他们的推论，碧姬知道有人可以帮忙。
+
+识破Nana戴贗品真相
+
+在电视台录影厂内，名人、影星云集，他们都是应邀参加慈善拍卖会而来。Nana、爱华亦有份出席，Nana跟爱华说起掉失戒指的事，爱华只说职员懂得处理。Calvin来跟Nana谈及律师楼要她付钱一事，Nana制止他说下去，君年与Raymond的太太Tracy到来现场，Nana看到立即低头回避。爱华见Tracy到来后上前攀谈，向她提议在拍卖会上拿出全场瞩目，卖了又不可惜的首饰，Tracy似有领悟，朝Nana方向望去。
+
+碧姬和坚菁决定向Calvin套取戒指资料，二人在Calvin面前搔首弄姿，希望引起他注意，可惜Calvin未有上当。美男为二人说好话，Calvin反问美男是否愿意陪他喝酒。Calvin透露Nana贪慕虚荣，爱戴贗品充真货，以及五十万钻戒的故事，美男知道真相，立即报告消息。众人知道真相，为如何揭穿Nana戴假钻戒而苦恼，爱华打电话来找碧姬。
+
+爱华出手帮助耀明
+
+君年误会爱华喜欢Tracy的钻戒，求她割爱，爱华感激君年。Nana在摄影房拍摄，耀明、坚菁和碧姬来找Nana，表示要交还戒指，Nana看见不禁一惊，并称戒指是贗品。此时Tracy赏了Nana一耳光，骂她要懂得收歛，否则无法在模特儿这行立足⋯⋯
+
+多乐认为Nana为楼搞出大麻烦，做楼奴真不容易，但耀明认同有楼在手才有安全感。耀明拿出钻戒交还给爱华，感谢她出手帮忙才使事件圆满解决。Tracy来电感谢爱华给她机会教训Nana，并好奇戒指何以落在碧姬手上⋯⋯
+
+由于金喜与万步喜爱煎炸食物，弄至厨房布满油渍，令玛莉不满，金喜为息事宁人，主动清洁窗户，但不慎令它松脱下坠，而窗门刚跌正在回家的必达和玛莉面前，必达见事态严重报警处理……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Brick.Slaves.Ep09.20150813.Hdtv.1080I.H264-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Brick Slaves 20150813 Cnhk qsv av1</title>
+  <originaltitle/>
+  <showtitle>楼奴</showtitle>
+  <season>1</season>
+  <episode>813</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Brick.Slaves.Ep09.20150813.Hdtv.1080I.H264-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="813" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

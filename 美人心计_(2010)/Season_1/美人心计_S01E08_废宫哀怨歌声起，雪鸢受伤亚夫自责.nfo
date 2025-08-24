@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>废宫哀怨歌声起，雪鸢受伤亚夫自责</title>
+  <originaltitle>废宫哀怨歌声起，雪鸢受伤亚夫自责</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>4216496</id>
+  <uniqueid default="false" type="tmdb">1901628</uniqueid>
+  <uniqueid default="false" type="trakt">7355807</uniqueid>
+  <uniqueid default="true" type="tvdb">4216496</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>漪房为吸引刘恒注意，自饮大寒汤装病并放纸鸢。锦瑟攻击漪房，雪鸢为保护她受罚。雪鸢试图探听废宫哀怨歌声，却被亚夫误会为细作。后亚夫知误会，自责。雪鸢暗中传递废宫有细作消息给漪房。子冉送药给薄姬，发现珠宝被宫人偷换，薄姬大怒，后发现红叶藏有文字信息，刘恒决定查细作。废宫失火，雪鸢趁机探知废宫里囚禁的是青宁王后，并将情报传给漪房。中秋夜，漪房独往废宫见青宁，青宁告知漪房代王真实品质。薄姬和刘恒接报有人闯废宫，青宁为保护漪房牺牲。漪房因误食吕雉赐给刘恒的饼饵而被关入杂役房，但刘恒理解她的苦心。刘盈病重，慎儿用回龙散救活他，得吕雉赏识留在刘盈身边。慎儿以祈福为由请来百戏班，让刘盈扮作戏班成员悄然出宫。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2677</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep08 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

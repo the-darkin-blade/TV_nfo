@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:41:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 35 集 上官飞燕逝世</title>
+  <originaltitle>第 35 集 上官飞燕逝世</originaltitle>
+  <showtitle>陆小凤与花满楼</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2060838</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>飞燕伤重不治离开人世，花满楼在陆小凤等人的帮助下埋葬飞燕，飞燕永远离开了花满楼，花满楼蹲在坟前焚烧纸钱跟死去的飞燕说话，陆小凤与阿信站在一边看着花满楼泪洒坟前，两人神色庄重非常同情花满楼。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>台灣漢梁公司</studio>
+  <studio>西岸傳媒股份有限公司</studio>
+  <studio>上海劇蕊有限公司</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2702</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Detectives.And.Doctors.Ep35.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

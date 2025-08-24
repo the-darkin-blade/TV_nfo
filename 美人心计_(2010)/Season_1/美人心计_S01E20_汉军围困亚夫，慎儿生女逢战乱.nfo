@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>汉军围困亚夫，慎儿生女逢战乱</title>
+  <originaltitle>汉军围困亚夫，慎儿生女逢战乱</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>4216508</id>
+  <uniqueid default="false" type="tmdb">1901640</uniqueid>
+  <uniqueid default="false" type="trakt">7355819</uniqueid>
+  <uniqueid default="true" type="tvdb">4216508</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>漪房豪无察觉，将慎儿带回了汉宫，决定召集王公贵族子弟，替慎儿说一门好亲事。漪房和慎儿偷偷在屏风后面观察，谁知几个皇家子弟纷纷说起慎儿以前跟过吕禄的事情，慎儿生气地离开。刘恒和舍人们在甬道里蹴鞠，慎儿看到刘恒神采飞扬的样子，不禁心生向往。亚夫在广场上练兵，张嫣将绣好的鞋送给他。雪鸢看到亚夫穿的鞋，想起张嫣曾经绣过这个花色，便询问起亚夫。亚夫怕她误会，推说是自己在街上买的，雪鸢十分失落。慎儿贿赂宫人佩心，向她请教如何讨皇上喜欢的方法，佩心让她去北苑问那些被废的嫔妃。慎儿来到北苑给嫔妃们送礼物，林昭仪告诉慎儿自己有方法，但是事成之后必须要送自己回家。漪房要过生日了，张嫣决定将绣好的寿礼送给她，却意外看到林昭仪鬼鬼祟祟地出去。她跟了过去，看到林昭仪将一瓶药给了慎儿，慎儿一刀将她刺死，尸体抛入了荷花池。众人替漪房祝寿，张嫣偷偷地观察慎儿，看到她将指甲伸进了漪房和刘恒的酒杯里。张嫣假装喝醉，要漪房带着自己去椒房殿取东西。张嫣将慎儿下药杀人的事情说了出来，漪房十分震惊，她回到座位，假装喝酒，偷偷地将酒吐到袖子里。慎儿毫不知情，又借敬酒之机，将大臣们一一迷倒。慎儿扶着刘恒回到寝殿，正在宽衣之际，张嫣和漪房闯了进来，漪房厉声责问慎儿，将她赶了出去。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2682</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep20 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

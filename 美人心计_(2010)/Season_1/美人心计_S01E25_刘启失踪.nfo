@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>刘启失踪</title>
+  <originaltitle>刘启失踪</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>4216513</id>
+  <uniqueid default="false" type="tmdb">1901645</uniqueid>
+  <uniqueid default="false" type="trakt">7355824</uniqueid>
+  <uniqueid default="true" type="tvdb">4216513</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>碧君因为好奇出宫溜达，被亚夫抓了起来，漪房以雪鸢做要挟，强行将碧君带走。深夜，漪房用计支开亚夫，亲自将碧君和王娡送出宫去。玉儿将王娡掉落的手帕拿给慎儿，慎儿认出是自己当初放在女儿身边的，忙去找王娡，得知王娡已经离开，偷偷地哭了起来。刘恒一直为刘兴居造反的事情烦恼，不知由谁去镇压比较合适，慎儿建议让亚夫前往，并且提议在出发前将雪鸢嫁给亚夫。雪鸢要出嫁了，慎儿也来送行，临行前向雪鸢敬了一杯酒。雪鸢坐在轿子里，发现自己浑身无力，轿子被抬到了荒郊野外，一个大汉出现，向雪鸢扑了上去……亚夫醉醺醺地来到椒房殿寻找雪鸢，漪房问他雪鸢的去向，两个人争执起来，外面下起了大雨，雪鸢湿淋淋从外面进来，要求取消婚礼。漪房询问雪鸢发生了什么事，雪鸢将自己被侮辱的事情说了出来。刘盈查出这一切都是慎儿所为，劝漪房马上采取行动，不要因为自己的善良害了别人。慎儿挑拨漪房和亚夫的关系，让亚夫平反之后再拥兵造反，逼刘恒废后。她将亚夫要造反的事情告诉雪鸢，要她证明漪房当年并不是完璧之身，一边是爱情，一边是友情，雪鸢左右为难，最终选择了吞金自尽。刘恒和漪房送亚夫出征，容儿将雪鸢的死讯告诉漪房，漪房悲痛欲绝，命令封闭消息。漪房和刘盈将雪鸢的尸体偷偷埋了，发誓要为雪鸢报仇。馆陶要出嫁了，漪房为了保证她的安全，要她暂时住到刘盈处。椒房殿突然失火，原来是漪房派容儿假借火情去搜查，容儿将在椒房殿找到的两个木偶给漪房，上面分别写着刘恒和刘武的名字，漪房看出是慎儿的针线，决定不再心软。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2672</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep25 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>乐敏揭发叶婷救有正</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id>4851240</id>
+  <uniqueid default="false" type="tmdb">1984088</uniqueid>
+  <uniqueid default="false" type="trakt">1275034</uniqueid>
+  <uniqueid default="true" type="tvdb">4851240</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>有正被志敖召回ATF的医疗部进行检查，其目的是要在有正身上调查有关惊鸟的情报。有正在总部与志敖见面，第一时间便向志敖质问有关安全屋位置被惊鸟识破一事。
+
+有正在整理家中的信件时，赫然发现有杰送给日嘉的礼物保养书，令有正得知有杰在自己不在的期间曾对日嘉送礼示好。
+
+有正怀疑　志敖忠诚
+
+有杰和众探员就有正突然生还一事展开调查，有杰因而发现有正一直向ATF呈报假口供，有杰向高威汇报，令高威决定对有正展开调查。
+
+有正为了调查ATF的内奸，更要求日嘉协助以潜入总部的电脑资料库偷取情报。经过一番调查，终让有正发现与王教授见面当日，志敖在有正的公事包中动手脚的片段，令有正加深了对志敖的怀疑。
+
+有杰主动　盘问兄长
+
+志敖得知有正的口供有可疑之处后便决定作出调查，有杰为了在志敖面前表现自己的大公无私，便决定主动承担盘问有正的工作。有正感到有杰为了工作竟不顾兄弟之情。
+
+有杰没有因为被有正的斥责而退缩，甚至带来测谎机对有正进行调查，但有杰此举却引起日嘉的不满。
+
+有正受刑　不肯招供
+
+志敖见有杰的盘问一直未有结果，便决定以酷刑迫有正招供。有杰见状便出言劝告有正交代真相，却被有正斥责有杰对日嘉有爱意，才会联同志敖对自己加以折磨，有杰闻言后对有正大感失望，便没有再阻止志敖施刑，差点令有正命丧当场。
+
+日嘉得知有正被志敖严刑迫供后大为愤怒，并且扬言会一直信任有正，令有杰感到不快。淑芬到总部探望有正，有正趁机暗中以字条指示淑芬与叶婷联络。
+
+叶婷险被　剑亨处决
+
+淑芬独自与叶婷见面，叶婷因而知道有正在总部身陷险境。但是叶婷这一次的会面却被乐敏发现，叶婷救助有正一事亦因此被剑亨与乐敏揭发，剑亨打算下手杀害叶婷。
+
+淑芬因为担心有正的安危，便将有正安排的行动及将手上纸条的内容告知日嘉，以让日嘉能帮助有正解困。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2666</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj叛逃ep18_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

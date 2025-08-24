@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>刘启对金王孙王娡的安排，妙人探知刘恒秘密</title>
+  <originaltitle>刘启对金王孙王娡的安排，妙人探知刘恒秘密</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <id>4216521</id>
+  <uniqueid default="false" type="tmdb">1901653</uniqueid>
+  <uniqueid default="false" type="trakt">7355832</uniqueid>
+  <uniqueid default="true" type="tvdb">4216521</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>妙人假装发现了一个木偶，上面写着刘恒的名字，以查巫蛊之术为由到各宫察看，将这件事诬陷给容儿，威胁容儿在朝堂上揭穿假皇上的事情，不然就治她的罪。馆陶派人将张嫣偷偷地抓了起来，以威胁亚夫。巧慧找到亚夫为他们作证。三个人分头行动，准备助刘启登上皇位。刘恒突然醒了过来，将虎符交给了漪房，决定再为漪房做一些事情。漪房带着假扮皇上的舍人来到堂上，馆陶和刘启扶着薄姬从外面进来，揭穿了假皇上的事情，馆陶将斗笠揭开，没想到里面的人居然是刘恒，只是已经没气了。馆陶见一计不成，连忙召来容儿和亚夫，两个人都证明刘恒让太子监国。正在危急之际，亚夫突然话锋一转，说起漪房的功劳来，薄姬离开，让漪房自己处理。刘武带兵包围了宫殿，打算救漪房出去，馆陶要漪房治刘武的忤逆之罪。漪房要刘启答应饶过刘武一命，将虎符交给了他。漪房要亚夫官复原职，并且给他说了一门亲事，亚夫问起张嫣，漪房告诉他张嫣已经死了。亚夫回到家中，家丁告诉亚夫新娘子已经来了，张嫣回头微笑地看着他……王娡认为是刘启杀了金王孙，守孝期满，打算进宫替丈夫报仇。又到了选家人子的时间，王娡嚷嚷着认识刘启，詹事不让王娡进去，馆陶正巧经过，看到王娡国色天香的样子，将她留了下来。馆陶带着王娡去见刘启，刘启大喜，王娡却突然一刀扎在了他的肩膀上，刘启晕了过去。刘启要亚夫保护好王娡，手下告诉亚夫王娡自杀的消息。亚夫赶到暴室，劝王娡不要白白牺牲，应该慢慢接近皇上，从而掌握整个国家的命运。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2697</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep33 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="33" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

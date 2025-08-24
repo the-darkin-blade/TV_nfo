@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:41:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 3 集 师太狂性大发连杀数人</title>
+  <originaltitle>第 3 集 师太狂性大发连杀数人</originaltitle>
+  <showtitle>陆小凤与花满楼</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2060803</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>陆小凤带着丹凤来到密室盗取八音盒，密室机关重重出现许多蝙蝠，陆小凤与丹凤在逃窜过程中失散，丹凤落入到密室主人阎铁山手中，陆小凤来到密室 大厅会见阎铁山，阎铁山笑容满面迎接陆小凤，丹凤平安无事来到陆小凤身边，阎铁山拿出八音盒大方送给丹凤，陆小凤喜出望外想带着丹凤离开密室，阎铁山拿出 一壶毒酒叫住了陆小凤，陆小凤心知必须喝下毒酒才能离开密室，丹凤眼睁睁看着陆小凤喝了一口毒酒转身就走。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>台灣漢梁公司</studio>
+  <studio>西岸傳媒股份有限公司</studio>
+  <studio>上海劇蕊有限公司</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2746</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Detectives.And.Doctors.Ep03.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

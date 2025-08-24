@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>吕鱼刘章面临困境，漪房解围促其归隐</title>
+  <originaltitle>吕鱼刘章面临困境，漪房解围促其归隐</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id>4216509</id>
+  <uniqueid default="false" type="tmdb">1901641</uniqueid>
+  <uniqueid default="false" type="trakt">7355820</uniqueid>
+  <uniqueid default="true" type="tvdb">4216509</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>亚夫从远处过来，张嫣看到他忙迎上去，结果踩到刘启和馆陶事先布置好的绳子，水洒了下来，将两个人都淋成了落汤鸡。亚夫替张嫣找了一套干净衣服，张嫣将自己对亚夫的感情说了出来，求亚夫抱一抱自己，正好被推门进来的雪鸢看到。雪鸢醉醺醺地喝着酒，宫人们纷纷过来劝她。雪鸢无意中将张嫣和亚夫的事情说了出来，站在回廊上的慎儿正好听到。慎儿使计将张嫣和亚夫骗到宫门口相会，然后报告给薄姬，将两个人抓了起来。薄姬要处置张嫣，漪房拼命维护她，并且证明她仍是完璧之身，漪房的行为引起了刘恒的怀疑。刘恒询问漪房以前是否认识张嫣，漪房否认，刘恒失望地离开。刘恒在回宫的路上碰到了慎儿，将她扛进了房里……慎儿怀孕了，却始终没有名分，玉儿替慎儿去求漪房，漪房来到慎儿住处，看到她正拿着一卷白绫往身上裹，鲜血顺着她的小腿流下来。漪房心软了，求刘恒给慎儿一个名分，加深了刘恒对自己的误会。为了缓和与刘恒的关系，漪房盛装出席了上元节，刘恒仍然话里带刺。刘盈戴着面具在下面跳舞，眼睛却始终注视着漪房。漪房离开，一个人在外面伤心落泪，刘盈悄悄地跟了过来。漪房的手帕掉到了河里，漪房跳水去捡，刘盈跟着跳了下去，漪房摘下了他的面具，惊呆了。宫人、舍人听到动静赶了过来，刘盈迅速离开。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2697</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep21 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

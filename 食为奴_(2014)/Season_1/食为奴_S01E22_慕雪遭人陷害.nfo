@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>慕雪遭人陷害</title>
+  <originaltitle>Episode 22</originaltitle>
+  <showtitle>食为奴</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>4822332</id>
+  <uniqueid default="false" type="tmdb">2302266</uniqueid>
+  <uniqueid default="false" type="trakt">1267007</uniqueid>
+  <uniqueid default="true" type="tvdb">4822332</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>羹尧虽然成功捡回一命，但却被胤禛贬为守城小兵，羹尧气结便故意穿起胤禛所赠之黄马褂，以示胤禛忘恩负义。天宝受若碧所托，特意前来为羹尧送饭，但此举却只有令羹尧更感不忿。
+
+自从羹尧被除去大将军之位后，隆科多便成功掌握宫中大部分兵权。胤禩大喜之余，亦决定趁此机会亲手刺杀胤禛，以夺其皇位。
+
+小鱼偷情　竟被撞破
+
+胤禛因要离宫拜祭祖先，故此要让慕雪独留宫中。佟妃见慕雪得宠，一直都妒火中烧，这次趁胤禛离宫，竟然设计陷害慕雪。太后受佟妃告发指慕雪以妖术谋害胤禛，慕雪因此被太后处罚，被安排囚禁在寺庙中静思己过。
+
+另一方面，小鱼和天宝在宫中偷情的时候竟被李卫撞破，李卫误会天宝有断袖分桃之癖，要天宝将小鱼的秘密告知李卫才能令他明白原委。
+
+慕雪阻止　杀害胤禛
+
+胤禛虽然为慕雪被太后逐离宫中一事感到不满，但却未能成功说服太后收回成命，只好安排天宝帮忙到寺庙照顾慕雪的起居饮食。在闲谈之间，胤禛开始怀疑慕雪有不可告人的秘密，加上早前思道曾经表示慕雪可能是胤禩派来的内奸，令胤禛决定施计试探慕雪。
+
+胤禛成功令慕雪露出马脚，但得知慕雪是内奸后令他感悲痛不已。胤禛独自离开寺庙，却令胤禩有机可乘出手刺杀他。慕雪见状便上前阻止胤禩以保护胤禛，令胤禩的计划败露而仓皇逃走。
+
+为避当官　思道自残
+
+胤禛回宫后，得知慕雪和胤禩勾结的太后感到怒不可遏，便决定对慕雪加以处分。隆科多见状，便趁机将当年慕雪行刺康熙的事也一并告诉太后，令胤禛难以为慕雪求情。
+
+而在京城的思道有感胤禛会邀请自己入宫为官，故此思道便决定自废一腿，令胤禛难以出言相邀。胤禛见未能提拔思道，便只好向思道请教拯救慕雪的方法。
+
+太后下令　处死慕雪
+
+慕雪被太后下令处死，而天宝亦为慕雪制作料理以送她最后一程。另一方面，胤禛亦按照思道吩咐，打算在子时出门以拯救慕雪。
+
+胤禛出发途中，却被太后以晚饭为由所阻，而胤禛亦不知甚么原因而昏迷，胤禛醒来后才发现自己已经误了时辰。
+
+原来思道利用药物令慕雪进入假死状态，只要在子时将慕雪由墓穴掘出便能拯救慕雪，但是因为胤禛误了时辰，终令慕雪返魂乏术，胤禛亦因为慕雪的死而感到悲愤不已。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep22_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

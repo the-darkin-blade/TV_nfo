@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>无心欲降岳绮罗反被囚禁</title>
+  <originaltitle>无心欲降岳绮罗反被囚禁</originaltitle>
+  <showtitle>无心法师</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>5285498</id>
+  <uniqueid default="false" type="tmdb">1141066</uniqueid>
+  <uniqueid default="false" type="trakt">1939803</uniqueid>
+  <uniqueid default="true" type="tvdb">5285498</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>无心、月牙和顾玄武一同前往青云观准备向掌门人求助，不料在路途中被一辆驰过的车子溅了泥。上了火的顾玄武对车子进行了泥巴攻击，此时，车子停下来，并且走出一位白衣道长。白衣道长与顾玄武口舌之利几回合后便离开，旁人好心提醒无心等人，那位是青云观掌门出尘子。无心表示感谢后，便有了主意。
+
+　　无心等人来到青云观，见到了方才见过的白衣道长出尘子。出尘子从无心口中获知岳绮罗所作所为，吐露出一个惊天秘密，即岳绮罗也是青云观的弟子，百年之前因痴迷邪术而被封于棺中。算起来，出尘子还得尊称岳绮罗为师叔祖，两人辈份差距极大，要想制服岳绮罗难于登天。如今只有一计，便是去井底下抄录困住岳绮罗的福禄法阵，出尘子可依样画葫芦来尝试困住岳绮罗。
+
+　　同时，岳绮罗通过幻境监视无心，发现无心等人去了青云观，由于纸人无法进入青云观，于是幻境只显示无心等人进入青云观，但他们去那做什么岳绮罗甚为不解。
+
+　　入夜后，无心潜入顾府老宅，由于纸人的攻击，无心以自己的血消灭了纸人，不料却惊动了沉睡中的岳绮罗。无心自知岳绮罗已提防，但不得不下井抄录法阵。正当无心出井时，岳绮罗却盖上井盖，不让无心逃出。
+
+　　第二天白天，岳绮罗吩咐张显宗取铁罩将井口盖住。张显宗看到井下是无心，逼问顾玄武的下落。然而无心没有说，只说要见岳绮罗。张显宗将无心的话带到岳绮罗处，岳绮罗很是得意，忽略张显宗在意的顾玄武下落，目标只是无心，而这让张显宗略有吃味。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sohu Video</studio>
+  <studio>iQiyi</studio>
+  <studio>Tencent Video</studio>
+  <studio>Tangren Media</studio>
+  <studio>MAX DREAM</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj無心法師ep11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:41:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 17 集 上官飞燕为救花满楼牺牲贞操</title>
+  <originaltitle>第 17 集 上官飞燕为救花满楼牺牲贞操</originaltitle>
+  <showtitle>陆小凤与花满楼</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2060820</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>陆小凤来到皇宫，他当太后的面指责霍休有欺君之罪，这时卫王扶着皇上来到殿内，假皇上立刻跪在地上请求饶恕，霍休出手将假皇上掐死。陆小凤与卫王请求太后治霍休的罪，可太后现在最相信的人正是霍休，她以为陆小凤只是看不惯霍休而已。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>台灣漢梁公司</studio>
+  <studio>西岸傳媒股份有限公司</studio>
+  <studio>上海劇蕊有限公司</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2684</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Detectives.And.Doctors.Ep17.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

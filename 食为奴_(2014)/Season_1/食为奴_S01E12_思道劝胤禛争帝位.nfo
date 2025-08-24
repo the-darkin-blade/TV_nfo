@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>思道劝胤禛争帝位</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>食为奴</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>4807234</id>
+  <uniqueid default="false" type="tmdb">2302246</uniqueid>
+  <uniqueid default="false" type="trakt">1265548</uniqueid>
+  <uniqueid default="true" type="tvdb">4807234</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>原来慕雪的家人因为康熙年间发生的「南山案」而落得满门抄斩的下场，年幼的慕雪亦在当年暗中转交秋菊抚养，才让慕雪幸免于难。当慕雪成年后，从亲生父亲的书函中知道自己的身世后，便决定入宫刺杀康熙为家族报仇。
+
+胤禛得知一切的原委后，还是决定阻止慕雪，却反被慕雪在逃走时用刀刺伤。胤禛担心康熙安危，便指挥侍卫追捕慕雪，而慕雪之后虽成功来到了康熙的身前，却最终失手被胤禛的侍卫擒获。
+
+康熙承认　当年犯错
+
+康熙得知慕雪是「南山案」的遗孤后，便使开所有侍卫，并只带胤禛及慕雪进殿内的佛堂，之后慕雪发现佛堂之中竟然安放着「南山案」所有受害者的灵位。原来康熙执政多年，一直为错判「南山案」而感到自责，现在终于能与其遗孤见面，便决定让慕雪刺杀自己来赎罪，但慕雪最后竟然决定放康熙一条生路。
+
+老冯怀疑　小鱼身分
+
+小鱼一直怀疑老冯就是五味大师，便决定潜入澡堂调查，可惜却一无所获，反而因此被老冯怀疑其身分，更暗示天宝要对小鱼多加提防。
+
+小鱼到若碧家作客，亦终于将自己与五味大师的恩怨告诉若碧。原来五味大师就是小鱼的亲生父亲，当年五味大师突然抛妻弃女一去不返，小鱼长大后便因此决心离家追寻五味大师。
+
+天宝因为担心小鱼就是宫中盛传的刺客，便对小鱼出言试探。小鱼为了应付天宝，便假称是因为要帮助天宝学会制作五味大师的名菜「火焰奶酪」取悦若碧，才一直苦心追寻五味大师。天宝信以为真，便故意在老冯面前制作火焰奶酪，可惜老冯却不为所动，令天宝的计划失败收场。
+
+胤禛被撤　宫中要职
+
+胤禛因为未能解决满汉不公的问题而找思道求教，而思道认为要解决大清的问题，只有胤禛登基为皇才能成事，令胤禛心中因此有了夺位的念头。
+
+另一方面，消息灵通的胤禩得知慕雪曾经入宫打算行刺康熙，便责怪慕雪隐瞒自己，同时又指示太监德胜向康熙进言，终令胤禛被康熙撤去尚书房要职，终生不能干涉大清政务。
+
+胤禛发现自己令康熙大感失望，更丧失父皇对自己的信任，登时感到气馁。而胤禛的失势，也令一直侍奉在旁的冯鹰被八王党在京城大街当众欺侮。
+
+思道猜测　康熙心意
+
+思道得知康熙排挤胤禛后，便意识到康熙有意继位给胤禛。而思道更估计高调撤去胤禛的要职，其实亦只为保护胤禛免被八王党暗中攻击。听罢思道的分析后，胤禛亦相信思道的见解，决定静观其变。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2666</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep12_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

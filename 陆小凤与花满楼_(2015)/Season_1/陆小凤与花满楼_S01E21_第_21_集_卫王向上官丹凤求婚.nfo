@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:41:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 21 集 卫王向上官丹凤求婚</title>
+  <originaltitle>第 21 集 卫王向上官丹凤求婚</originaltitle>
+  <showtitle>陆小凤与花满楼</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2060824</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>卫王的能力最强，可太后多来年一直干预朝政已经让众臣们看不惯，如果她将卫王扶上位，很可能会有人造反，性格纯良的卫王表示自己会帮助太后尽心地辅佐德王上位。上官丹凤来到卫王府，她告诉卫王是陆小凤杀了她爹，抢走了金钥，害得她家破人亡颠沛流离，爱慕于上官丹凤的卫王将她留在府中。江湖传言陆小凤从不杀人，上官丹凤表示自己亲眼见到陆小凤杀了她爹，她怕陆小凤会来到卫王府将她也杀害。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>台灣漢梁公司</studio>
+  <studio>西岸傳媒股份有限公司</studio>
+  <studio>上海劇蕊有限公司</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2728</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Detectives.And.Doctors.Ep21.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

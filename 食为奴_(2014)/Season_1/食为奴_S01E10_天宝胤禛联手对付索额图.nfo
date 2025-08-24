@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>天宝胤禛联手对付索额图</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>食为奴</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>4803723</id>
+  <uniqueid default="false" type="tmdb">2302243</uniqueid>
+  <uniqueid default="false" type="trakt">1265263</uniqueid>
+  <uniqueid default="true" type="tvdb">4803723</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>胤禛虽然平息了满族子弟在京城制造的混乱，但是康熙却突然搁置胤禛的新政策，令胤禛感大惑不解。
+
+胤禛为寻求答案，于是亲自出宫找思道请教，原来思道在事件发生当日，一直也有在暗处目击胤禛平乱的经过，于是他直指是因为胤禛当日没有对满族子弟痛下杀手，才会令新政不能确实执行。胤禛闻言后如当头棒喝，开始反省自己的懦弱为社稷所带来的伤害。
+
+为救慕雪　胤禩受伤
+
+索额图因为康熙对满族子弟施行苛政，便出兵围堵京城，康熙满朝文武百官以至平民百姓皆感人心惶惶。为了平息内乱，康熙决定派出众王子声望最高的胤禩出面与索额图谈判。胤禩为了成为太子的继任人选，便接受了康熙的命令。
+
+但是当胤禩回到孤儿院与慕雪见面之时，胤禩却被索额图派出的刺客所暗算，而胤禩为了保护慕雪，力拼下虽赶走刺客但受了重伤。慕雪在照顾胤禩的时候，终于知道早前医治自己的「七色菇」并非由胤禩所赠，但是胤禩为救自己而被刺客所伤，故此慕雪认为胤禩才是自己的恩人。
+
+胤禛请求　天宝合作
+
+胤禩受伤后，康熙便需要另找人选与索额图谈判，胤禛为了将功补过，决定自告奋勇代替受伤的胤禩进行谈判，而康熙亦接受了胤禛的请求。
+
+胤禛心感索额图不会接受自己提出的条件，但为了尽快平乱，决定在谈判中设计刺杀索额图，并向天宝提出，希望他能与自己一起参与暗杀计划。
+
+天宝得知自己将要以身犯险后，便紧张得彻夜不能入眠。想不到天宝最后更临阵退缩，并叫李卫将自己拒绝参与行动的事告知胤禛。胤禛明白天宝的想法，故此并没有怪责天宝而决定独自出发，但最后胤禛在半途中重遇天宝，天宝为了报答胤禛的恩情，最终也没有离弃他。
+
+天宝出手　保护老冯
+
+胤禛在天宝的帮助下，终成功刺杀索额图，康熙闻讯大喜，更赏赐平乱有功的天宝一只金酌子。
+
+得到康熙器重的天宝，见老冯在宫中偷取鸡肉被鹤亭发现，竟然不顾自己资历尚浅便出面包庇老冯。事后天宝发现老冯偷偷地为一名老宫女精心制作鸡汤，令天宝因此对老冯的往事感到好奇。
+
+康熙准备　再立太子
+
+康熙在平定索额图事件后，决定重新册立太子，其中以胤禩的呼声最高，但是胤禩明白出手平定索额图之乱的胤禛就是太子之位的唯一对手，而康熙亦决定容后才决定人选。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2654</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep10_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

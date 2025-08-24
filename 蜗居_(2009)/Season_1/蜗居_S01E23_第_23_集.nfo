@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 23 集</title>
+  <originaltitle>第 23 集</originaltitle>
+  <showtitle>蜗居</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>2301511</id>
+  <uniqueid default="false" type="tmdb">1463852</uniqueid>
+  <uniqueid default="false" type="trakt">1277085</uniqueid>
+  <uniqueid default="true" type="tvdb">2301511</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>海萍到了公安局，警察通知她苏淳已被刑事拘留，现在不能会客，还让她赶紧请律师，海萍便开始四处打电话询问。海藻赶来陪姐姐，小贝托朋友找到一个律师，姐妹二人前去咨询，不过这个人事务缠身，海萍对他有些质疑。老李在断水断电的房子里快撑不住了，李奶奶数罗儿子没有出息，为了孙子的将来也要撑下去。律师调查情况回来会，说是不乐观，而且公安这两天会传唤海萍，海萍有点六神无主。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>SMG Pictures</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>蜗居.Dwelling.Narrowness.E23.1080P.Hdtv.X264-Dhtclub_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

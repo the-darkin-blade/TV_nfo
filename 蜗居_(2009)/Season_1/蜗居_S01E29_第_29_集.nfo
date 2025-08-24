@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 29 集</title>
+  <originaltitle>第 29 集</originaltitle>
+  <showtitle>蜗居</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id>2301581</id>
+  <uniqueid default="false" type="tmdb">1463858</uniqueid>
+  <uniqueid default="false" type="trakt">1277197</uniqueid>
+  <uniqueid default="true" type="tvdb">2301581</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>陈寺福听从手下的“草船借箭”或者“暗度陈仓”的建议，开始砸老李家，不料把李老太太埋在了废墟中死了。宋思明得知陈寺福的事后大为光火，让陈寺福割点肉给老李家。正当宋思明一筹莫展之时，却得知海藻怀孕了。书记接到调查组的密保后，觉得证据不足，还要继续深入下去。书记和老朋友喝茶下棋时，谈到了现在的人没有把心态摆正，走火入魔于物质生活而难以自拔。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>SMG Pictures</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>蜗居.Dwelling.Narrowness.E29.1080P.Hdtv.X264-Dhtclub_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

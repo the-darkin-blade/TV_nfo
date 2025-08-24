@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>漪房刺碧君，亚夫尾随雪鸢</title>
+  <originaltitle>漪房刺碧君，亚夫尾随雪鸢</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>4216501</id>
+  <uniqueid default="false" type="tmdb">1901633</uniqueid>
+  <uniqueid default="false" type="trakt">7355812</uniqueid>
+  <uniqueid default="true" type="tvdb">4216501</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>刘恒请薄姬回孔雀台主持大局，薄姬却不为所动，漪房抱着刘尊挽留薄姬，薄姬单独和漪房交谈，原来她早已洞察先机，知道修建陵墓所为何故，只是为了不引起吕雉的怀疑才如此。薄姬以王后之位交换，要漪房好好地协助刘恒成就一番事业。刘恒为修建陵墓向城中富户征集钱财却收效甚微，漪房建议他找匈奴假扮劫匪抢劫两家富户的钱财，大家一害怕，自然就会将钱财存在国库。慎儿看出代国修建陵墓有些蹊跷，要吕禄禀报给吕雉，以求得到她的赏识。吕雉派在代国的细作给漪房传达任务，要她盗取陵墓的地图。漪房见吕雉耳目众多，为免怀疑假借给刘恒送药之机去陵墓察看。刘恒怀疑漪房，派亚夫悄悄监视。雪鸢将情报绑在鹦鹉的脚上放飞，结果被亚夫发现……亚夫当着刘恒的面拆开情报，结果只是一封家书，刘恒命人将亚夫重打二十大板。雪鸢去看望亚夫，感谢他帮助自己将陵墓地图换成了家书。亚夫拿这件事做要挟，要漪房好好照顾刘尊。吕雉收到了漪房传来的地图，下旨赏赐吕禄，莫离突然跑进来说刘恭不见了，吕雉赶忙去寻找。吕禄从宫中出来，发现刘恭竟藏在自己的轿子里。刘恭威胁吕禄带自己出宫去玩，吕禄只好将他带回自己家中，慎儿看到刘恭心生一计，要吕禄做刘恭的师傅，以便更好地控制刘恭。薄姬为了兑现当初的承诺，与众大臣商量立漪房为王后的事情，本以为亚夫会反对，没想到亚夫和大臣们一致同意，薄姬心中十分不悦。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2684</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep13 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

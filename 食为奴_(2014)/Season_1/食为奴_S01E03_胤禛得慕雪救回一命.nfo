@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>胤禛得慕雪救回一命</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>食为奴</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>4796789</id>
+  <uniqueid default="false" type="tmdb">2302230</uniqueid>
+  <uniqueid default="false" type="trakt">1264337</uniqueid>
+  <uniqueid default="true" type="tvdb">4796789</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小鱼突然出现挑战东瀛厨神，并且在比试中施展一手凌厉刀工，令全场观众惊叹不已，亦令东瀛厨神感到心服口服，更将康熙所赠之金腰玉带转赠小鱼后仓皇离开。
+
+天宝见识到小鱼的刀法后，更加强了拜师的决心，但小鱼根本无意收天宝为徒，而天宝更为了在小鱼面前展示实力而身受重伤。翌日天宝带伤入宫制作咸鱼包，而康熙却能从咸鱼包味道之中，判断出天宝身上有伤。
+
+胤禛向康熙提及天宝害怕入宫一事，康熙听后不忍为满足自己的口腹之欲而伤害百姓，便指示胤禛不要再强迫天宝进宫。
+
+胤禛天宝　同告遇险
+
+胤禛亦亲自以马车送天宝回家，但马车竟在途中突然失控，胤禛及天宝更因此堕崖生死未卜。九阿哥在府中被其他兄弟斥责，胤禩见状便上前了解事件，原来胤禛的马车突然失控堕崖，是九阿哥派人暗中破坏胤禛的马车而造成，因此气得一众阿哥群起骂之。
+
+慕雪误会　胤禛身分
+
+胤禛醒来后，发现自己身处思道的医馆之中，并且秋菊及慕雪为其细心治疗伤势。原来天宝及胤禛堕崖后，被当地的樵夫救起，并将两人带到医馆疗伤。天宝随后出现，更向慕雪介绍胤禛是宫中的太监，胤禛为了在天宝面前隐瞒自己是皇族的身分，便没有出言否认，慕雪知道胤禛是太监后更因此可怜其身世。
+
+太子在早前的御前比试中处决了御茶膳房的总厨后，便提升了鹤亭为新一任总厨，更命令鹤亭为康熙制作咸鱼包，而味道更要和天宝所做的咸鱼包一模一样，但鹤亭经过多番尝试后亦未能成功。
+
+鹤亭调查　天宝秘方
+
+太监德胜见鹤亭一直未能完成任务，便建议鹤亭亲自到天宝的小店中偷师。为了完成太子的命令，鹤亭唯有放下身段，乔装潜入天宝的店中调查咸鱼包的秘方，但最后却一无所获。
+
+慕雪因为得罪了满人恶霸而被袭击，胤禛见状便出手相助，无奈却因为脚伤反要慕雪出手为其解围。事后胤禛更因此得知慕雪对满人充满怨恨，担心慕雪会因此讨厌自己，便只好继续向慕雪隐瞒自己是四阿哥的身分。
+
+胤禛被派　山西查案
+
+胤禛回宫后，便得知用于山西赈灾的白银不翼而飞，康熙怀疑山西知县，便指派太子及一众阿哥调查此事，山西知县是「八王党」的旧部，故太子认为事件一定与胤禩有关，便决定派胤禛亲自到山西调查此事，而「八王党」方面亦决定暗中跟随胤禛进行调查。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2654</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep03_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

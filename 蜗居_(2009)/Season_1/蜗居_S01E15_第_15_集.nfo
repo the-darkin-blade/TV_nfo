@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 15 集</title>
+  <originaltitle>第 15 集</originaltitle>
+  <showtitle>蜗居</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>2301421</id>
+  <uniqueid default="false" type="tmdb">1463844</uniqueid>
+  <uniqueid default="false" type="trakt">1276956</uniqueid>
+  <uniqueid default="true" type="tvdb">2301421</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>居委会主任苦口婆心地劝李老太太搬迁，可是李老太太软硬不吃，坚决要求要换到大房子。海萍经过马克的介绍，又收了一个学生——正雄。尽管正雄的基础很差，尽管在上课时海萍也不是很有底气，海萍为了买房，依然坚持上课。不过，这也因此拒绝了经理的加班要求，最后，经理在和海萍大吵了一架后，给海萍穿小鞋挤兑她，海萍萌生辞职念头。还好，苏淳通过画图赚来了1万元，这也算是一个不大不小的喜讯。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>SMG Pictures</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>蜗居.Dwelling.Narrowness.E15.1080P.Hdtv.X264-Dhtclub_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

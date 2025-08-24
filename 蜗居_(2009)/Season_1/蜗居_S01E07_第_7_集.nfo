@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 7 集</title>
+  <originaltitle>第 7 集</originaltitle>
+  <showtitle>蜗居</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>1513681</id>
+  <uniqueid default="false" type="tmdb">1463836</uniqueid>
+  <uniqueid default="false" type="trakt">1276844</uniqueid>
+  <uniqueid default="true" type="tvdb">1513681</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宋思明一路沉默的将海藻送回了家，一种深深的苦涩浸透了海藻的心。回到家，看到小贝一个人睡在床上，海藻觉得既寂寥又窝心。海萍在办公室里看着房地产广告就来气，跟同事抱怨着地产业的不合理。公司八杆子打不着的同事要结婚，大家都在想办法躲闪，为的就是省下礼钱。眼看着政府一个大项目就要开始竞标了，陈寺福急得像热锅上的蚂蚁。宋思明最近突然消失，没了局内人的指导，陈寺福心里没了方向。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>SMG Pictures</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2697</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>蜗居.Dwelling.Narrowness.E07.1080P.Hdtv.X264-Dhtclub_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>小鱼得悉老冯身分</title>
+  <originaltitle>Episode 24</originaltitle>
+  <showtitle>食为奴</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id>4824137</id>
+  <uniqueid default="false" type="tmdb">2302269</uniqueid>
+  <uniqueid default="false" type="trakt">1267283</uniqueid>
+  <uniqueid default="true" type="tvdb">4824137</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>天宝及若碧被人以迷烟弄晕，醒来后两人更发现自己衣衫不整躺在床上。这时胤禛又正好到访避暑山庄，见天宝及若碧似有奸情即龙颜大怒，并叫人即场将天宝押下。
+
+胤禛本想直接在避暑山庄处死天宝，但因天宝有康熙御赐免死金牌才能幸免于难，但胤禛亦没因此放过天宝，便决定将天宝收押天牢听候发落。
+
+小鱼得知天宝因淫乱宫闱之罪被收监，便即时到天牢探望天宝。天宝为安慰小鱼，向她发誓一定会活着离开天牢。
+
+鹤亭出手　挑战老冯
+
+老冯的意中人年老力迈时日无多，老冯便决定在她临死前为其烹调五味大师的独门料理，却因此被路过的鹤亭得悉其五味大师的身分。鹤亭的师傅六艺大师是因败给五味大师而死，故鹤亭便即时向老冯提出挑战，但老冯早打算退隐故拒绝了鹤亭，但鹤亭却不打算就此收手。
+
+羹尧被囚　惨遭毒手
+
+羹尧收到若碧和天宝被诬蔑一事感怒不可遏，便冲入紫禁城质问胤禛及为若碧辩护。但胤禛认为事实放在眼前故无视羹尧的见解，结果更因此将羹尧与天宝一起收监。
+
+羹尧被收监后与天宝对话，有感一切就像是命运安排，之后德胜及隆科多借胤禛之名将羹尧带出天牢，并且合力将羹尧杀死。而若碧因得知兄长的死讯后大受打击，故打算逃出避暑山庄欲确定羹尧生死，但离开时却跌倒在地，身怀六甲的若碧因而流产。
+
+天宝被罚　逐出宫外
+
+胤禛到天牢审问天宝，而天宝则以免死金牌保护自己性命。胤禛见不能将天宝处死，便决定将天宝送入监事房净身。天宝听后即感惶恐不安并且拚命求饶，但是却无阻冯鹰手起刀落，天宝从监事房出来后要众人出手搀扶才能出宫。
+
+天宝在出宫途中遇上若碧，发现她因为受到流产的打击而变得神智不清，并因此忘记了天宝。天宝看到众人下场感到万念俱灰，而胤禛并未因此放过天宝，更迫他在京城免费制作咸鱼包被世人耻笑。
+
+绑架小鱼　要胁老冯
+
+因为天宝被逐出宫，终令鹤亭能成功重掌御茶膳房。但因为鹤亭口没遮拦，而被李卫等人带出宿舍毒打，但因此让鹤亭偷听到小鱼就是五味大师女儿的秘密。鹤亭大喜，便将小鱼打晕加以绑架，并以此要胁老冯接受自己挑战，老冯救女心切，竟然自断一指换取鹤亭的原谅。
+
+鹤亭看见再没法为师傅报仇不禁十分失望，于是放走了小鱼独自离开。小鱼看见老冯为自己的牺牲，亦因此原谅了老冯。
+
+天宝在京城遇上了正在潜逃的胤禩，并被胤禩游说，加入推翻胤禛的计划。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2659</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep24_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

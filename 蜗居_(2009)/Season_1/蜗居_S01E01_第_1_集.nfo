@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 1 集</title>
+  <originaltitle>第 1 集</originaltitle>
+  <showtitle>蜗居</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>1500011</id>
+  <uniqueid default="false" type="tmdb">1463826</uniqueid>
+  <uniqueid default="false" type="trakt">1276752</uniqueid>
+  <uniqueid default="true" type="tvdb">1500011</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>1998年，刚刚大学毕业的郭海萍和苏淳拖着简单的行李来到了属于他们的新家。他们的屋子只是一间10平米左右、老式住房后加的阁楼，卫生间和厨房都是跟邻里共用的。苏淳不禁在斗室中开始畅想拥有一套属于自己的房子……海萍取笑苏淳异想天开，嬉笑着与他滚作一团。晚上，屋里的电话响了，海萍连忙跳起来接，是她妈妈打来的。郭妈妈催问海萍与苏淳的婚事，也聊起了海萍正在准备高考的妹妹——海藻。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>SMG Pictures</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2695</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>蜗居.Dwelling.Narrowness.E01.1080P.Hdtv.X264-Dhtclub_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

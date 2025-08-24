@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 30 集</title>
+  <originaltitle>第 30 集</originaltitle>
+  <showtitle>蜗居</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id>2301591</id>
+  <uniqueid default="false" type="tmdb">1463859</uniqueid>
+  <uniqueid default="false" type="trakt">1277210</uniqueid>
+  <uniqueid default="true" type="tvdb">2301591</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>海藻怀孕后把这个消息告诉了海萍，海萍听后坚决要求海藻把孩子打掉。海萍搬进了自己装饰一新的大房子里，正当他们收拾屋子时，邻居却告知他们开发商给少算了面积，还告诉他们老李一家不肯在业主联名投诉开发商少算面积的联名书上签字。宋思明这几天的郁闷终于在家中爆发，在和妻子争吵之后，宋思明说了组织上正在调查他的事情，并且这一次他很难过得了这一关。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>SMG Pictures</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2697</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>蜗居.Dwelling.Narrowness.E30.1080P.Hdtv.X264-Dhtclub_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

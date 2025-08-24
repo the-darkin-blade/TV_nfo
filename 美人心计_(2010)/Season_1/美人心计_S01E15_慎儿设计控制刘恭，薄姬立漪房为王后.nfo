@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>慎儿设计控制刘恭，薄姬立漪房为王后</title>
+  <originaltitle>慎儿设计控制刘恭，薄姬立漪房为王后</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>4216503</id>
+  <uniqueid default="false" type="tmdb">1901635</uniqueid>
+  <uniqueid default="false" type="trakt">7355814</uniqueid>
+  <uniqueid default="true" type="tvdb">4216503</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宴会上的气氛十分僵硬，吕雉建议行酒令，刘章以对不上酒令军法处置为由将吕馨杀死，吕雉很佩服刘章的胆识，不但没有责备，反而赏赐于他。吕禄不服，吕雉命他想出使刘吕两家和睦，稳固江山的办法。吕禄回去跟慎儿商议，慎儿要他找出吕家未嫁的女子和刘章联姻，吕禄想起了被自己赶出去的庶出妹妹吕鱼。吕鱼和母亲金枝流落于市井以卖鱼为生，吕鱼钟情于占奎，而占奎只不过是贪图她的钱财。占奎听说揽月阁的喜鹊姑娘抛绣球选夫，支走吕鱼准备和喜鹊成亲，闻讯赶来的吕鱼和占奎大吵起来，冲突中，刘章现身替吕鱼教训了占奎。吕鱼回到家中，发现母亲金枝被吕禄接走了，忙去寻找。吕禄以帮金枝还赌债做交换，要吕鱼嫁给刘章，吕鱼为了母亲只好应允。吕鱼离开，占奎和喜鹊现身，原来一切都是慎儿事先安排的。刘章来到揽月阁，意外发现吕鱼竟然在这里做了舞姬，决定替吕鱼还债，让她到自己的府上做丫鬟，渐渐地对吕鱼产生了感情。吕禄向刘章提亲，刘章以自己有心上人为由拒绝，他将吕鱼领上朝，没想到吕鱼竟然就是吕禄提亲的那个人。新婚之夜，刘章告诉吕鱼永远不会原谅她。吕雉去看刘恭，发现刘恭并不在寝殿，而是留在了吕禄府上，忙去察看，意外发现慎儿竟然还活着，命人将她抓了起来。刘恭去暴室看望慎儿，慎儿将周采女才是他亲生母亲的事情告诉了他。得知真相的刘恭在朝堂上宣布封慎儿为一品夫人，废去吕雉太皇太后之位，众大臣被他的话吓呆了。吕雉推说刘恭发烧说胡话，将他关进了黑屋子。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2651</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep15 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

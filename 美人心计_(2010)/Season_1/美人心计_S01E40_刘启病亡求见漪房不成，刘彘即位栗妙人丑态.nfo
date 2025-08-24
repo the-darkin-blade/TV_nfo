@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>刘启病亡求见漪房不成，刘彘即位栗妙人丑态</title>
+  <originaltitle>刘启病亡求见漪房不成，刘彘即位栗妙人丑态</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>40</episode>
+  <id>4216528</id>
+  <uniqueid default="false" type="tmdb">1901660</uniqueid>
+  <uniqueid default="false" type="trakt">7355839</uniqueid>
+  <uniqueid default="true" type="tvdb">4216528</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>匈奴屡犯大汉边境，刘启派亚夫前去平乱。谁知匈奴使诈，汉军兵马不足，被围困起来，刘启下旨要刘武派兵赶去增援，匈奴溃不成军，亚夫不日搬师回朝，张嫣的病却越来越重，终没有等到亚夫回来，带着遗憾死去。大臣上表说刘刘武越来越嚣张跋扈，而且还私自做了龙袍，漪房要刘启饶过刘武一命……刘武正抱着美人坐在地上看星星，忽然一群黑衣人从天而降，见人就杀，刘武躲避不及，被一直箭贯穿身体，钉在了大树上。漪房得知刘武死讯，不肯原谅刘启。刘启病重，希望临死之前见一见漪房，漪房却始终没有再见他。刘启驾崩，刘彘继位，改名刘彻。一日，漪房来到上林苑，听到刘彘和阿娇在吵架，才知道是馆陶派人杀了刘武，自己冤枉了刘启，整个人栽倒在地。漪房的病逐渐加重，刘彘请求带兵攻打匈奴，漪房将虎符交给了他，要他养精蓄锐、等待时机。亚夫和漪房面对面地坐着谈心，王娡过来请漪房一起去看新进宫的家人子。漪房看到卫子夫，像极了自己年轻时的模样，往事一幕幕地浮现在她的眼前……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2680</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep40 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="40" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

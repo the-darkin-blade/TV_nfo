@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>神秘黑影</title>
+  <originaltitle>神秘黑影</originaltitle>
+  <showtitle>无心法师</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>5285504</id>
+  <uniqueid default="false" type="tmdb">1141073</uniqueid>
+  <uniqueid default="false" type="trakt">1939809</uniqueid>
+  <uniqueid default="true" type="tvdb">5285504</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>年代久远的山洞极易滋养邪灵，一伙士兵在已达百年岁月的山洞挖矿，被忽然出现的神秘黑影夺取性命。张显宗护送岳绮罗返回百年洞穴，岳绮罗在两个士兵的陪同下进入洞中，百年之前，她在洞中修成邪术布下锁魂阵，困住许多精气，每次遇到不测，她就回到洞中吸食精气恢复元气，如今，赖以生存的山洞已被无心破坏，岳绮罗看着塌陷的洞壁，无比心疼。
+
+　　山洞塌陷引来一团神秘黑影，岳绮罗在洞中与黑影遭遇，法力高强的她在黑影面前亦惊慌失措乱了方寸，两个陪她进洞的士兵奔逃不及，不幸成为神秘黑影猎杀的目标。岳绮罗带伤返回地面，在张显宗的护送下回到文县，张显宗无微不至照顾她，亲自治疗她腿上的伤口。两人虽是夫妻关系但无夫妻之实，岳绮罗只把张显宗当成合作伙伴，对其无一丝爱意，张显宗对此不以为然，义无反顾真心实意爱着岳绮罗。
+
+　　洞内潜伏着神秘黑影，岳绮罗决定利用黑影除掉顾玄武，只要顾玄武入洞挖金矿，定然难逃一死。张显宗在岳绮罗的指使下对外放出准备挖金矿的假消息，顾玄武信以为真，征得大帅允许，迅速带兵上山抢占挖矿先机。
+
+　　经过挖矿技工先期堪探，确认洞中埋有大量金矿，顾玄武没有立即入洞挖金矿，而是派出一支先遣小分队一探虚实，小分队入洞之后遭遇神秘黑影，只有两人从洞中逃了出来，两人安然无恙，精神受到刺激，在顾玄武面前描述遇到神秘黑影的过程，神秘黑影拥有强大的力量，顷刻间便能取人性命。
+
+　　顾玄武唯恐士兵们产生恐慌，命令副官对外散布熊瞎子伤人的假消息，一些士兵信以为真，晚上洗脸打水谈起小分队员遇害一事，深信是熊瞎子所为。一夜过去，又有两名士兵离奇遇害，顾玄武赶到事发现场堪查，发现两名士兵只剩骨架。潜伏在暗处的邪祟连伤数人性命，顾玄武赶忙派人将无心请到山上。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sohu Video</studio>
+  <studio>iQiyi</studio>
+  <studio>Tencent Video</studio>
+  <studio>Tangren Media</studio>
+  <studio>MAX DREAM</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj無心法師ep17_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

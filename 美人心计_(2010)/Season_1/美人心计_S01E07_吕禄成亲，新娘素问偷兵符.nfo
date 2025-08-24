@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>吕禄成亲，新娘素问偷兵符</title>
+  <originaltitle>吕禄成亲，新娘素问偷兵符</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>4216495</id>
+  <uniqueid default="false" type="tmdb">1901627</uniqueid>
+  <uniqueid default="false" type="trakt">7355806</uniqueid>
+  <uniqueid default="true" type="tvdb">4216495</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>亚夫为试探五个家人子哪个是细作，故意放火，漪房早已洞察先机，没有上当，锦瑟不知是计，跑了出去，漪房暗暗为她担心。锦瑟找漪房谈心，将亚夫送给她的玫瑰露转送给漪房，漪房发现玫瑰露里有毒。马车到了代赵两国的边境，漪房劝锦瑟趁机逃跑，锦瑟以拉肚子的借口逃跑了，亚夫见她许久不回忙去追赶，锦瑟误以为是漪房出卖了她。亚夫护送着五位家人子到达了代国，偷偷地带着子冉去见薄姬，原来子冉是薄姬派在吕雉身边的细作，亦是亚夫的妹妹。五位家人子沐浴更衣打扮，去朝见代王刘恒，刘恒一脸好色的样子，漪房却从他的眼神中看出他并不是一个荒淫无道的人。雪鸢提醒漪房去拜访青宁王后，漪房为免招摇，约了其他几个家人子一同前往，青宁却以身体不好为由拒绝了。漪房找机会试探青宁，青宁却仿佛置身事外一样，毫不理睬。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2683</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep07 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

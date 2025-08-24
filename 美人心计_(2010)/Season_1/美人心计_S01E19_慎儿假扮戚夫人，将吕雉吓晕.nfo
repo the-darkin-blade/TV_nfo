@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>慎儿假扮戚夫人，将吕雉吓晕</title>
+  <originaltitle>慎儿假扮戚夫人，将吕雉吓晕</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>4216507</id>
+  <uniqueid default="false" type="tmdb">1901639</uniqueid>
+  <uniqueid default="false" type="trakt">7355818</uniqueid>
+  <uniqueid default="true" type="tvdb">4216507</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>进了宫的代兵将吕家人都抓了起来，张嫣准备自尽，亚夫进来救下了她，答应她不会伤害宫里的人。薄姬等人来到陈平府上，两人表面客气，实际上暗藏锋芒，陈平请求薄姬放了吕鱼和金枝，漪房来到暴室，将吕鱼和金枝带了出去。刘章没有找到吕鱼，听说吕家人都被押往菜市口处死，急忙去寻找。大臣们来找刘章，得知他为了女人失约，十分失望。薄姬备了酒菜招待众大臣，刘恒的谦和孝顺打动了大家，只有陈平略有微辞，漪房让刘恒将一个盖了皇印的圣旨送给陈平，允诺两个人携手共建太平盛世，陈平终于被打动了。刘章与刘恒争抢皇位，漪房拿吕鱼做交换，刘章将吕鱼和金枝接走。士兵们纷纷要求处死吕鱼，正在为难之际，漪房替刘章解围，使得他最终决定放下权力，离开汉宫，与吕鱼做一对神仙眷侣。流落民间的吕禄一无所长，工作十分不如意，千岁红见慎儿生活得窘迫，劝她重回揽月阁。慎儿回到揽月阁跳舞，没想到为她伴奏的人居然是吕禄，客人们不断地骚扰慎儿，吕禄气得和客人大打出手。慎儿和吕禄在街上吵了起来，皇后的步辇经过，慎儿发现坐在步辇上的竟然是云汐，大喜。可是看到身旁的吕禄，心情又沉了下去。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2693</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep19 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

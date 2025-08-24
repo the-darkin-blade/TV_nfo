@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>吕雉赐饼饵，漪房勇试毒</title>
+  <originaltitle>吕雉赐饼饵，漪房勇试毒</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>4216497</id>
+  <uniqueid default="false" type="tmdb">1901629</uniqueid>
+  <uniqueid default="false" type="trakt">7355808</uniqueid>
+  <uniqueid default="true" type="tvdb">4216497</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>漪房和雪鸢在杂役房忙碌，雪鸢提醒漪房应该给汉宫传递消息了。总管过来，告诉大家有批绸缎是进贡给吕雉的，漪房灵机一动，故意将绸缎撕破，把要传递的信息绣在了绸缎上。墨玉来到杂役房故意刁难漪房，发现绸缎上有奇怪的花纹，报告给薄姬……漪房巧手如飞，将花纹绣成了百鸟朝凤图，薄姬释疑，将绸缎送给子冉，宣布封她为代国王后。亚夫劝子冉不要当王后，子冉说出了自己从小对刘恒的情愫，亚夫只好应允。郁闷的亚夫找雪鸢出来喝酒，雪鸢不断地安慰他……刘恒和子冉举行了成亲大礼，刘恒却在洞房之夜去找漪房，与她在宫外举行了一场两个人的婚礼，漪房被感动了。雪鸢看出漪房动了真情，劝她不要忘了吕雉交待的任务，漪房决定学习青宁，用假消息瞒过吕雉。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2686</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep09 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

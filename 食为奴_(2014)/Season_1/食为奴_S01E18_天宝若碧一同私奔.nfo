@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>天宝若碧一同私奔</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>食为奴</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id>4815852</id>
+  <uniqueid default="false" type="tmdb">2302259</uniqueid>
+  <uniqueid default="false" type="trakt">1266385</uniqueid>
+  <uniqueid default="true" type="tvdb">4815852</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>天宝正式拜入五味大师门下，而五味大师亦觉天宝有学厨的天分，便亲自传授其控制火候的技术。天宝将苦练的成果与小鱼分享，而小鱼亦一眼看穿天宝的训练方法，应是五味大师的独门技巧。小鱼忍不住即时追问天宝，但天宝为了帮五味大师保守秘密，便决定继续对小鱼隐瞒老冯就是五味大师的真相。
+
+送妹入宫　稳固权力
+
+慕雪入宫后，胤禛便安排了宫中最好的太医为慕雪诊治脚伤，又安排天宝为其打点饮食，宫中上下也知道胤禛对慕雪情有独钟，故此慕雪便能轻易地安排母亲秋菊入宫，帮她购买宫外的甜品带入宫中。
+
+另一方面，天宝终于找到机会向羹尧提及想迎娶若碧一事，但羹尧得知后并没有即时答应天宝。
+
+原来是因为羹尧想在宫中进一步取得实权，便决定将若碧送入宫中成为胤禛的妃子。若碧虽然对此感万般不愿，但却无能力改变羹尧的心意。若碧将兄长的决定告知天宝，天宝知道后决定找胤禛帮忙为此事作主。
+
+胤禛无法　说服羹尧
+
+胤禛相约羹尧到野外练习射术，并借故向羹尧提出想与若碧结拜为兄妹，亦打算将若碧许配给天宝。羹尧听后便极力反对，并强烈希望胤禛能纳若碧为妃。胤禛虽费尽唇舌，最终仍未能改变羹尧的想法。
+
+太后因为得知胤禛将慕雪留在宫中一事，一直感到郁结难抒，此事虽然令胤禛感到为难，但亦无阻胤禛想立慕雪为妃的想法。
+
+羹尧得知天宝仍然未对若碧死心，便打算以钱收买天宝令其主动放弃若碧，最后却被天宝当面拒绝。天宝返回御茶膳房后与小鱼等人商讨此事，最终天宝决定与若碧私奔。
+
+天宝若碧　一起私奔
+
+天宝在出发前，便以回乡修坟为由与胤禛告别，胤禛不知道天宝打算与若碧私奔，便准许天宝放下手上工作离宫。
+
+天宝私奔前，亦将自己的目的地告诉小鱼。小鱼虽然不舍得天宝离开自己身边，但为了成全天宝的幸福，小鱼便决定放手让天宝离开。想不到两人的对话，却被在门外的鹤亭偷听得一清二楚。
+
+为救天宝　若碧入宫
+
+天宝及若碧带同李卫及小桃一起私奔，羹尧见若碧失踪，便派人入宫将小鱼捉拿回年府，并以武力威胁小鱼供出天宝的行踪。但小鱼态度强硬，最后羹尧惟有放走小鱼，但从后跟踪的鹤亭亦趁机进入年府向羹尧告密。最后天宝亦因此在私奔途中被擒获，李卫更被推下海中生死未卜。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep18_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

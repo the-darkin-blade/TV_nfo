@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>天宝叹难圆若碧心愿</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>食为奴</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>4809670</id>
+  <uniqueid default="false" type="tmdb">2302252</uniqueid>
+  <uniqueid default="false" type="trakt">1265936</uniqueid>
+  <uniqueid default="true" type="tvdb">4809670</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>若碧失明后，羹尧便马上找思道为若碧诊治其眼疾，但是连思道也对此症感到束手无策。天宝得知若碧失明，便亲自到年府探望，但却被羹尧拒诸门外，令天宝心中充满纠结。
+
+羹尧入宫面圣，得知边疆有逆贼作乱，朝中大臣皆认为应向敌人招安劝降，但羹尧却力排众议出言反对，故此胤禛便决定派羹尧出兵抗敌。但原来这一切，其实也是思道为胤禛建立名声的计划。
+
+若碧拒绝　天宝好意
+
+若碧的眼疾一直未见好转，令羹尧未能安心离开京城出征，于是便入宫向胤禛求助。胤禛听后，决定指示天宝在羹尧出兵期间代为照顾若碧，天宝二话不说便答应了胤禛的命令，并与小鱼一起研究能医疗眼疾的食物。
+
+但天宝的好意最后却被若碧拒绝，失望的天宝回到御茶膳房便不断唉声叹气，老冯见状便上前问个究竟，天宝便告诉老冯想制作「火焰奶酪」一圆若碧的心愿但却一直失败。老冯听后感到自己与天宝同病相怜，便出手教天宝制作火焰奶酪的秘诀，也因此令天宝认为老冯就是五味大师，但老冯否认。
+
+胤禩不满　胤禛决定
+
+羹尧在边疆的战况并不乐观，一众大臣亦不断要求胤禛将羹尧召回京城，但此战事关乎胤禛日后施政的威信，故令胤禛一直不能召羹尧回京。
+
+胤禩知道胤禛的情况后，也对胤禛的决策表示不满。但胤禩自从失势后也没有再沾手政事，并经常独自在京城借酒浇愁，看到胤禩如斯自暴自弃，不禁令慕雪为他感到心痛。
+
+天宝受命　运送军粮
+
+羹尧在战事上一直没有进展，其中重要的理由是因为粮草不断有所延误。胤禛为了成功将粮草送到羹尧手中，便指派天宝跟随大军护送粮草。
+
+天宝本来想拒绝胤禛的命令，但是思道却告知天宝，原来在边疆有一种稀有草药能够医治若碧的眼疾。天宝听后便鼓起勇气，决定答应胤禛命令出发护送粮草。而小鱼担心天宝安危，亦决定跟随天宝一起前往战场。
+
+天宝失职　被判处死
+
+在旅途上，小鱼难以忍受身上的臭味，便要求大军在雾中停留休息，让自己能在河流洗澡。但小鱼却在回程时迷失方向，最后幸得天宝相救才幸免于难。大军因为两人失踪而在雾中山道滞留，令敌人有机可乘攻击大军，并将粮草全部烧毁。
+
+任务失败的天宝及小鱼最后逃到羹尧的营地，并告知粮草已经被敌军烧毁。羹尧气极决定处死天宝，小鱼见状便挺身而出承担责任，但也未能成功改变羹尧的心意。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2657</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep15_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

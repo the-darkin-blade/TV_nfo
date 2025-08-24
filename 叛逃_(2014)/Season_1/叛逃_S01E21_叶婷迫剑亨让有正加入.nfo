@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>叶婷迫剑亨让有正加入</title>
+  <originaltitle>Episode 21</originaltitle>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id>4853551</id>
+  <uniqueid default="false" type="tmdb">1984091</uniqueid>
+  <uniqueid default="false" type="trakt">1275425</uniqueid>
+  <uniqueid default="true" type="tvdb">4853551</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>有正在ATF总部放置炸弹逃走时被有杰持枪阻止，有正在情急之下向有杰开枪趁机逃走，叶婷亦驾车到ATF总部接应有正。
+
+ATF众人回到岗位后，才得知志敖被爆炸波及受到重伤，ATF的指挥权转交警务处长，再加上有正的背叛，ATF的士气跌至新低点。
+
+日嘉出言　质问叶婷
+
+但原来公布志敖受了重伤也是志敖所计划的一步，目的就是为了调查ATF的内奸。
+
+叶婷因为曾被有杰撞破她曾与有正亲热，便被ATF带回总部调查，但是警方高层知道有正的卧底身分，便故意将叶婷放走。
+
+日嘉见叶婷并没有被扣查顺利离开总部，忍不住独自截停叶婷质问有正的下落，但是叶婷并没有回答日嘉并迳自离开，令日嘉感气结。
+
+得知真相　淑芬失望
+
+叶婷回到报社后便与剑亨对话，并且要求剑亨尽快安排有正加入惊鸟，虽明白叶婷的心意，但剑亨却故意拖延，更私下在心中盘算如何藉故将有正除去。
+
+叶婷外出欲与有正见面却遇到淑芬，并且被淑芬要胁要见有正一面，叶婷拗不过淑芬最后无奈答应。
+
+淑芬与有正见面后，便问儿子是否真的对弟弟开枪，有正坦白承认此事，因此令淑芬感到失望，母子间亦因此决裂，看到母亲对自己的反应，令有正有苦难言。
+
+众人搜查　宏亮下落
+
+ATF在总部被引爆后进行调查，终发现有正是利用宏亮的身分进入总部，于是便决定派人寻找宏亮的下落，但却一无所获无功而回。
+
+一向与父亲礼谦闹不和的日嘉突然出席礼谦的记者会，原来是为了与礼谦单独对话。
+
+有正得知　礼谦身分
+
+日嘉与礼谦决裂，就是因为礼谦曾经向剑亨下达杀死有正的命令。礼谦见日嘉因为有正失踪一事而不快，便决定与有正见面，有正得知礼谦的真正身分后亦感愕然。
+
+知道了礼谦身分及有关真相的有正独自到日嘉的家对质，日嘉将自己所知的事情告诉有正，令有正大感愤怒。
+
+日嘉害怕有正会因此离开自己，便哭求有正的原谅，但是有正想起一直以来所发生的事情，令有他难以原谅日嘉。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2663</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj叛逃ep21_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>胤禛发现天宝若碧偷情</title>
+  <originaltitle>Episode 23</originaltitle>
+  <showtitle>食为奴</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>4823206</id>
+  <uniqueid default="false" type="tmdb">2302268</uniqueid>
+  <uniqueid default="false" type="trakt">1267150</uniqueid>
+  <uniqueid default="true" type="tvdb">4823206</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>胤禛因为误了时辰而未能成功拯救慕雪，令胤禛感到慕雪是因为自己而死，情绪低落而借酒浇愁。若碧见胤禛大醉，便将他带回居所休息并加以照顾。胤禛因为醉酒而误会了若碧就是慕雪，竟然因此占有了若碧。
+
+翌晨胤禛醒来大感内疚，更承诺会对此事负责，替若碧加以封赏。胤禛与若碧相好的消息亦传遍了紫禁城，但天宝因为心中已经有了小鱼，故此对若碧被胤禛占有一事亦感不以为然。
+
+胤禛振作　性情大变
+
+胤禛自从慕雪死后，便收起了往日的优柔寡断，并且出手处死在宫中造谣的八王党余党，令宫中上下皆感胆战心惊。
+
+虽然胤禛在施政上已经变得愈来愈强硬，但是内心还是在挂念死去了的慕雪；胤禛希望能够再见慕雪一面，为爱煎熬的胤禛最终竟向思道请教通灵之术。
+
+思道见胤禛对慕雪死心不息，只好答应施以妖术帮助胤禛与慕雪见面。当胤禛成功与慕雪见面后，慕雪的鬼魂寄语胤禛要做一个勤政爱民的好皇帝，胤禛亦表示应允。
+
+若碧被封　招来妒忌
+
+若碧被胤禛封为贵妃，并且收到金银珍宝作为礼物，天宝见状亦替若碧感到高兴，但是此举却因此招惹到佟妃的妒意，令其决定要出手对付若碧。
+
+若碧在被册封为贵妃后不久便怀有龙种，令胤禛大为高兴，故安排若碧到避暑山庄安胎。胤禛为让若碧得到更好照顾，特意派遣天宝出宫，并且要他在若碧怀孕期间照顾其起居饮食。天宝虽然不想与小鱼分别，但是看在若碧的份上，天宝决定接受胤禛的命令。
+
+思道出言　劝谏胤禛
+
+胤禛自从消灭八王党的党羽后，感到朝中上下仍是充满反对势力，深感施政困难，故此便指示冯鹰，可在宫廷中暗地捉拿可疑份子并加以严刑拷问，以确保朝岗稳定。
+
+思道见状便向胤禛出言相谏，却被胤禛所拒，令思道感到胤禛已经不是从前那个宅心仁厚的四贝勒。
+
+苟且流言　传遍宫中
+
+天宝和若碧在避暑山庄共同生活，惹起了宫中的流言蜚语。胤禛更在妃嫔口中，听到了天宝与若碧在避暑山庄偷情的谣言，心中甚感不快。小鱼亦因为宫中的负面言论，担心是有人蓄意散布谣言陷害天宝，故修书希望天宝赶回京城，但天宝自问清者自清故没有理会。
+
+太后传召胤禛欲指控若碧与天宝有染，原来太后派人调查天宝和若碧的房间时发现了他们当年的定情信物，令胤禛心中不禁起了怀疑。为了确认谣言是否属实，胤禛决定半夜到避暑山庄视察，竟然发现天宝和若碧衣衫不整睡在床上……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2668</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep23_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:41:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>必达为子堕楼受伤</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>楼奴</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195886</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>玛莉与必达赶到多乐租住的套房，玛莉向警员作供指一万元是她放在橱柜，给儿子生活费，警方发现橱柜确有一万元真钞原封不动，但多乐指一万元伪钞则是从衣柜拿的。必达怀疑是前租客戴文武，因为他欠了两个月租金，公司才引用租约条款当他退租，将单位再租予他人，警方闻言表示会通缉戴文武协助调查。
+
+碧姬向爱华求助，律师综观各方证据，认为警方未能起诉多乐，碧姬闻言稍为放心，爱华认为碧姬对必达一家有太大压力，提议她到新加坡实习。必达收到做警察的朋友通知，谓文武两个月前在内地醉酒打架伤人，被公安拘留，如无意外过几天便会释放，而当他一踏入香港，将会被警察拘捕。
+
+耀明乐意拯救坚菁
+
+坚菁在街上先遇上耀明，再看到手腕包上纱布的雪梅，坚菁知道母亲跌倒大为紧张，两人陪雪梅返回豆腐档收拾货物。雪梅看到坚菁和耀明互相顶撞，气氛却融洽，认为二人关系殊不简单，雪梅对耀明坦言坚菁较以前开朗，希望他可以帮助开解女儿，二人还交换了电话号码。
+
+必达碧姬血型不对
+
+必达和多乐返回套房，多乐收拾衣物准备回家，必达发觉冷气机不妥，打开风口位，发现有一个内藏钻石的小布袋。此时有人闯进来，必达认得他是文武，文武看到必达手上小袋子，二话不说，扑上前抢去钻石，再欲打开衣柜取回伪钞，给必达识穿。文武知道事败夺门而逃，多乐拼命拦截，文武欲取灭火筒向多乐打过去，必达救子情切，与文武双双翻过栏杆堕楼。
+
+必达需要输血抢救，但现存的AB血型不够，需要血库急送血液过来，碧姬听到大为紧张，指自己是O型血，适合输血给必达，耀明闻言心中充满疑惑。必达经过治疗后康复出院，大家与他吃饭祝贺。碧姬此时挽果篮送给必达，并透露稍后会到新加坡继续实习，大家都觉得突然，只有玛莉一人赞成。
+
+颖琪将加拿大寄来的包裹交予碧姬，内有她儿时照片，和母亲合照，还有爱华给她的生日咭，碧姬回味童年的快乐回忆。坚菁打电话找碧姬到社区中心做义工，碧姬答应，并传短讯给多乐邀他参加义工行列。星期日，多乐一家三口响应社区中心的念亲恩报亲恩活动，由出席的年轻子女为他们的父母洗脚，回馈长辈。必达帮万步洗脚，玛莉又帮金喜洗，多乐亦主动提出要替必达洗脚，碧姬看在眼内，暗暗羡慕。碧姬感谢多乐一家出席活动，在她心中多乐永远是弟弟，无人可取代……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1331</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Brick.Slaves.Ep15.20150821.Hdtv.1080I.H264-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Brick Slaves 20150821 Cnhk qsv av1</title>
+  <originaltitle/>
+  <showtitle>楼奴</showtitle>
+  <season>1</season>
+  <episode>821</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1331</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Brick.Slaves.Ep15.20150821.Hdtv.1080I.H264-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="821" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

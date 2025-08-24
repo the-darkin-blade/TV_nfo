@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>无心入苏府驱邪</title>
+  <originaltitle>无心入苏府驱邪</originaltitle>
+  <showtitle>无心法师</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>5284415</id>
+  <uniqueid default="false" type="tmdb">1141055</uniqueid>
+  <uniqueid default="false" type="trakt">1939243</uniqueid>
+  <uniqueid default="true" type="tvdb">5284415</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>军官张显宗迎娶姨太太，顾玄武为证明在文县的地位帮忙大肆操办，而张显宗内心十分反感。阔气老爷苏先生参加喜宴时，带来不少珍禽走兽作为贺礼。
+
+　　由于苏老爷为满足口腹于是滥杀动物，导致其惹怒山中生灵，看到吃的都会产生菜中有蛆等幻象。苏老爷因此无法吃东西，害怕自己会活活饿死，于是求助顾大人请无心法师帮忙驱邪。
+
+　　无心因为顾玄武冒犯月牙，但也不得不看在他解决二人的温饱住宿的面子上，不情愿地帮苏家看问题。无心利用天眼，察觉到问题所在，建议苏家放走所有动物，但苏夫人不愿意放弃杀戮动物坚持要除去妖精，为苏先生报仇。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sohu Video</studio>
+  <studio>iQiyi</studio>
+  <studio>Tencent Video</studio>
+  <studio>Tangren Media</studio>
+  <studio>MAX DREAM</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj無心法師ep03_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

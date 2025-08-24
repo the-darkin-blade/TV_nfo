@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:41:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 16 集 花满楼被青衣楼的杀手抓走</title>
+  <originaltitle>第 16 集 花满楼被青衣楼的杀手抓走</originaltitle>
+  <showtitle>陆小凤与花满楼</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2060819</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>为了查出霍休与青衣楼的关系，陆小凤决定送钱给青衣楼请他们帮忙做事。陆小凤与天青在月明楼见面，一上来陆小凤就拿出两箱金条给天青，青衣楼是收钱杀人的组织，天青问他让青衣楼帮忙做些什么，陆小凤让天青把上官丹凤放了，天青不肯，陆小凤拿十倍价钱给他，天青甚至眼睛都不眨一下地把他拒绝了。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>台灣漢梁公司</studio>
+  <studio>西岸傳媒股份有限公司</studio>
+  <studio>上海劇蕊有限公司</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2734</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Detectives.And.Doctors.Ep16.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>吕后的细作阿丑，皇上的新宠慎儿</title>
+  <originaltitle>吕后的细作阿丑，皇上的新宠慎儿</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>4216492</id>
+  <uniqueid default="false" type="tmdb">1901624</uniqueid>
+  <uniqueid default="false" type="trakt">7355803</uniqueid>
+  <uniqueid default="true" type="tvdb">4216492</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>皇上崩溃中，向吕后诉说了事情的真正经过。只是一个偶然事件，但吕后草木皆兵，导致皇帝和吕后的之间感情的裂痕更加明显，吕后反思自己所做之事。为了消除潜在的隐患，吕后派杀手阿丑(雪鸢)杀了贩卖兵器的人。吕后派阿丑常驻皇宫，做自己的细作，监视皇上。慎儿洒了特殊香料，用小伎俩吸引了皇上的注意。被皇上抱进了寝宫，云汐听闻大惊，闯进大殿。劝谏皇上放过慎儿。皇上听从了云汐的意见。云汐拉着慎儿跑进椒房殿中，慎儿怪云汐破坏自己的好事，恰逢嫣儿（皇后娘娘）经过，告诉云汐，近来被皇上临幸的家人子，除了有名分的，全部失踪。慎儿听后很惊奇，向云汐道歉。阿丑施展苦肉计骗得了云汐的好感，吕后暗示皇上，必须要让正宫嫣儿出生第一个皇子。夜里，皇上请求云汐为皇帝跳支舞，好留下美好的回忆。周采女怀了身孕，吕后听闻大怒，召来云汐斥责，责怪云汐没有办好事（教导皇后怀孕），吕后要棒杀周采女，云汐建议让嫣儿假装怀孕，然后把周采女的孩子交给嫣儿抚养。云汐去开解阿丑，阿丑不相信后宫里的女人会有感情，云汐让阿丑试着走出去。怕被人看穿假怀孕，吕后不让嫣儿出宫，嫣儿生气，皇上为了逗嫣儿开心，强带着嫣儿出去放烟火，云汐带着阿丑加入玩耍队伍，阿丑颇为感动。吕后找阿丑问话，阿丑隐瞒皇后放烟火的事，吕后惩罚自己的贴身宫女莫离（阿丑的姑姑）来警告阿丑，阿丑只好屈服，道出放烟火经过。吕后大怒，找来云汐杖罚。吕后怕泄露嫣儿假怀孕的真相，让云汐带着阿丑把看见他们放烟火游玩的人通通灭口，并令嫣儿禁足。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep04 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:41:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>碧姬知道启民非亲父</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>楼奴</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195876</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>坚菁伤心离家并跑到演奏厅，期间回想起五年前在台上演奏钢琴情景，陶瓷天使原来正是当年所收。坚菁参加一间面店的活动，在限时五分钟内吃掉辣椒拉面，以赢取三千元奖金。坚菁成功挑战却辣至晕倒，耀明接到电话赶往医院探望。
+
+「投诉王」租客程启民每个月都有不同投诉，并以此为由拒绝交租。他再次向必达提出投诉，并报称窗台出现渗水。耀明觉得租客古怪，于是带师傅往了解，并把问题一一记下。启民的女朋友Nancy适时来到，耀明故意在Nancy面前指启民欠租，启民在极不情愿下付了三个月欠租。
+
+恶租客恶人先告状
+
+耀明带来汤水来探望坚菁，坚菁拒绝饮汤。安妮对耀明说出坚菁可怜身世。有报道指启民单位因为窗台渗水，令豪宅变成水塘。不料启民却恶人先告状，带同大批记者来到All in One向耀明施压，唯启民看到碧姬在场后即迅速离开。爱华看到新闻报道后非常不满，要求私家侦探调查启民。
+
+爱华碧姬关系神秘
+
+All in On职员担心被公司开除，人人自危。耀明表示承担责任，碧姬则向爱华道出事件真相，爱华表示知道并没有开除耀明的打算。碧姬离开不久君年刚巧来到，爱华以为二人相遇因而略感不安。君年专程回来与爱华庆祝生日，翌日返回德国开会。君年还向爱华送上钻石颈链，爱华收到礼物却没有惊喜之情，并把礼物藏在夹万。期间爱华翻开夹万内的旧相簿，内藏着同一小女孩的照片。
+
+碧姬与启民用膳，启民向碧姬保证不会再投诉房子。碧姬反问启民有否找她和母亲，启民似有难言之隐，说当年那场大火烧了超级市场，也烧了他的雄心壮志。启民指出，碧姬妈咪与他结婚时已有了身孕，启民没有计较，碧姬妈咪却不体谅他，致令他离开她们。碧姬现在才知道启民不是亲生父亲。离开碧姬后，爱华来找启民，她递上一张写上三百万银码的支票，启民想敲诈更多钱，爱华将启民非法勾当资料给他看，启民自讨没趣，只好拿支票离开。
+
+坚菁弹琴迷倒耀明
+
+耀明向爱华保证不会再次发生同类事件，爱华则表示有一项重要任务交给耀明处理。公司上下感谢碧姬帮忙让启民主动退租，碧姬却显得耿耿于怀。耀明主动送她回家，碧姬却在途中向耀明透露心事。耀明教碧姬如何抒发情绪，此时耀明却同被心事缠绕。耀明回家看到坚菁神情呆滞，我见犹怜，遂主动为她煮粥……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1336</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Brick.Slaves.Ep05.20150807.Hdtv.1080I.H264-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Brick Slaves 20150807 Cnhk qsv av1</title>
+  <originaltitle/>
+  <showtitle>楼奴</showtitle>
+  <season>1</season>
+  <episode>807</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1336</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Brick.Slaves.Ep05.20150807.Hdtv.1080I.H264-Cnhk_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="807" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>康熙不满胤禛退缩</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>食为奴</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>4804168</id>
+  <uniqueid default="false" type="tmdb">2302245</uniqueid>
+  <uniqueid default="false" type="trakt">1265430</uniqueid>
+  <uniqueid default="true" type="tvdb">4804168</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小鱼与若碧在河边散步时不小心跌进河中，令若碧发现原来小鱼是女儿身的秘密。小鱼明白没办法再隐瞒下去，于是坦言希望若碧能协助自己继续隐瞒真正身分，更说出女扮男装的原因，是为了能继续留在御茶膳房中调查五味大师的行踪。虽然若碧对小鱼与五味大师的关系相当感兴趣，但见小鱼不想多谈便没有加以追问，亦承诺会为小鱼保守秘密。
+
+为揽功劳　反而失势
+
+康熙设宴款待各国使者，并由鹤亭负责制作御膳，而鹤亭为了独揽功劳，便将天宝等人投闲置散，岂料鹤亭所制的御膳令各国使者感到不满，令康熙及胤禛慌忙更改菜单，并且命令天宝负责掌厨。
+
+天宝与小鱼收到命令后便到御茶膳房预备食物，但是宫中的食材已经被鹤亭用至所余无几，天宝只好使用厨房中的厨余制作菜式。鹤亭为求自保，亦不断在天宝工作时从中制造麻烦，但最后天宝的菜式也令一众使者感到满意。康熙大喜，并下旨晋升天宝及小鱼，两人在宫中的地位瞬间提升。
+
+慕雪得知　身世秘密
+
+秋菊在收拾家居时，记起要将一封信函转交慕雪，并告知信函是其亲生父亲所写。原来当年秋菊收养慕雪时，慕雪的父亲临行前曾吩咐秋菊要在慕雪长大成人后，才能将信函交给慕雪看。
+
+慕雪独自将信看完后，终得知自己身世的秘密，而慕雪的心中也不由得感到震惊。翌日慕雪相约胤禩见面，慕雪亦似若有所思地与胤禩相拥告别。胤禩虽然感到慕雪似有事隐瞒自己，但是慕雪却没有正面回应他。
+
+慕雪要求　入宫造访
+
+慕雪在食庐遇上出宫办事的天宝，而慕雪亦告知天宝自己将与秋菊一起离开京城回故乡生活，天宝听后大感愕然。慕雪更表示，希望能在离开京城前能够到宫中参观，但是天宝自知职位低微，便提议慕雪找胤禛帮忙。
+
+另一方面，康熙近日为自己的继任人选而烦恼，胤禩虽然受到朝中大臣的支持，但是康熙认为胤禩即位后，为了讨好官员稳固权力，其施政一定受阻滞。康熙反而认为胤禛一心为民，如他能继承皇位必然是大清之福，故此康熙便特意与胤禛见面，并且试探胤禛继位的意向。但康熙却发现胤禛竟然处处退缩，并建议康熙传位给胤禩，此举令康熙大感失望。
+
+慕雪入宫　行刺康熙
+
+慕雪约胤禛见面，并求胤禛带自己入宫游玩，胤禛眼见慕雪即将离开京城，为了让慕雪与自己能留下美好回忆，故一口答应了慕雪的请求。
+
+慕雪在入宫游玩前为母亲秋菊煮饭，并含泪与秋菊道别。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2656</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

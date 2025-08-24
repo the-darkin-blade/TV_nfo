@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:41:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 25 集 陆小凤与丹凤月下赏星</title>
+  <originaltitle>第 25 集 陆小凤与丹凤月下赏星</originaltitle>
+  <showtitle>陆小凤与花满楼</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2060828</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>丹凤从昏迷中苏醒过来认出了陆小凤，陆小凤盘问丹凤是否记得起之前发生了什么事情，丹凤只记得当初跟陆小凤到峨眉山的经过，后来丹凤被人偷袭失去意识被霍休控制，对于自己被控制以后的事情丹凤已经记不清楚，不过父亲被杀害的情景非常清楚出现在丹凤的脑海中，丹凤记起当时杀害父亲的人长得跟陆小凤一模一样，凶手易容冒充陆小凤杀害了丹凤的父亲，丹凤悲痛欲绝失声痛哭，陆小凤非常理解丹凤的心情，当场保证一定会帮助丹凤找到凶手。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>台灣漢梁公司</studio>
+  <studio>西岸傳媒股份有限公司</studio>
+  <studio>上海劇蕊有限公司</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2728</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Detectives.And.Doctors.Ep25.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

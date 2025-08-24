@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>天宝小鱼掌管御茶膳房</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>食为奴</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>4808818</id>
+  <uniqueid default="false" type="tmdb">2302250</uniqueid>
+  <uniqueid default="false" type="trakt">1265792</uniqueid>
+  <uniqueid default="true" type="tvdb">4808818</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>胤禩与八王党回府后，便即时质问九阿哥有关谋杀康熙一事，九阿哥亦承认自己使计杀害康熙。胤禩听后怒不可遏，并出手毒打九阿哥，但九阿哥明白自己如果不出手杀死康熙，胤禛便能登上帝位，八王党一直以来的苦心经营便会前功尽废。
+
+天宝方面，虽然已经服食了由思道所制作的强力泻药，但还是未能将遗诏排出体外。
+
+一直在八王党身边监视的羹尧，当得知八王党竟然决定派出御林军刺杀胤禛以绝后患后，便即时以烟花通风报信。
+
+胤禛再次　陷入险境
+
+冯鹰见到羹尧的讯号，加上八王党突然调动御林军，便估计到胤禩正派人到四贝勒府刺杀胤禛。御林军在胤禩的安排下袭击四贝勒府，冯鹰及胤禛奋力抗敌，而天宝等人则努力地逃跑，但却未能成功逃出府中。
+
+众人努力抗敌，亦得羹尧带来京城的旧部下前来支援胤禛。但因御林军人数众多实力强横，终令胤禛等人也得节节败退并逃至柴房。羹尧为了保护胤禛，竟然与部下一起守在柴房门外对抗敌军，但最后亦被击败。
+
+胤禛登基　成雍正帝
+
+御林军见未能攻陷柴房，便决定在贝勒府中放火打算杀死胤禛等人。正当胤禛抵受不住浓烟晕倒之际，早前听从康熙指示入京城保护胤禛的援兵终于到达，成功保住了胤禛等人的性命。
+
+翌日，众大臣、胤禛及八王党成员齐聚康熙的灵堂上，但是天宝还是未能交出康熙遗诏，之后天宝决定牺牲自己以刀剖腹拿出遗诏，并且出言侮辱九阿哥不孝。九阿哥气极便一脚伸向天宝腹部，却因此令天宝将遗诏呕吐出来，而众大臣最后亦遵照康熙遗诏立胤禛为雍正帝。
+
+思道入宫　主动献计
+
+胤禛登位后，便即时收到康熙近身太监决定以死谢罪的消息，令胤禛有感宫中明争暗斗的可怕。
+
+胤禛认为胤禩是一个人才，本想加以重用，但奈何两人的关系已势成水火各不相让。慕雪亦认为胤禛的帝位是以卑鄙手段换取，故此与胤禛断绝了来往。
+
+胤禛甫即位，便受到了由各方而来的压力。思道入宫向胤禛献计，并提议胤禛能够放过八王党的性命以树立仁德威望，胤禛表示同意。但因为九阿哥犯下谋杀康熙的大罪，故此胤禛决定将九阿哥一生囚禁在宗人府内。
+
+若碧不满　兄长专横
+
+天宝与小鱼因为协助胤禛即位有功，故被胤禛赐予厚职掌管御茶膳房，并且将鹤亭降职。因为成为宫中红人，天宝及小鱼自此也能在宫中自由出入，而若碧也因此与天宝愈来愈熟络。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2667</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep14_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

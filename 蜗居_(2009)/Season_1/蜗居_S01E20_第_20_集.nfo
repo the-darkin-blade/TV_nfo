@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 20 集</title>
+  <originaltitle>第 20 集</originaltitle>
+  <showtitle>蜗居</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>2301471</id>
+  <uniqueid default="false" type="tmdb">1463849</uniqueid>
+  <uniqueid default="false" type="trakt">1277041</uniqueid>
+  <uniqueid default="true" type="tvdb">2301471</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小贝看着与海藻的合照，回想着二人过去的点点滴滴，不禁痛苦出声。他对着海藻说他还是很爱她，放不下她。这么多天，海藻第一次能痛痛快快的哭出声，可是她除了点头，竟不能回答，因为与小贝的爱比起来，自己的“我爱你”真的太轻太轻了。张莉和宋太太相约聊天，在调侃现在的男女关系，对于婚姻的状态和世道也都充满的无奈。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>SMG Pictures</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2695</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>蜗居.Dwelling.Narrowness.E20.1080P.Hdtv.X264-Dhtclub_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

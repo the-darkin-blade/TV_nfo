@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 22 集</title>
+  <originaltitle>第 22 集</originaltitle>
+  <showtitle>蜗居</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>2301491</id>
+  <uniqueid default="false" type="tmdb">1463851</uniqueid>
+  <uniqueid default="false" type="trakt">1277065</uniqueid>
+  <uniqueid default="true" type="tvdb">2301491</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宋思明跟太太说自己早就跟海藻分开了，自己心里只有这个家，宋太太失声痛哭。宋思明躲进卫生间，打开水龙头作为掩饰，默默流泪。小贝为自己的粗暴向海藻道歉，试图挽回二人过去的感觉，建议一起出去吃饭、散步。海藻提出长痛不如短痛，二人还是分手吧，小贝哭着求海藻原谅自己。海萍来给正雄上课，正雄妈妈十分热情地准备了丰盛的食品，海萍用鼓励的方式教导正雄收获很成功，他这次弱项语文竟然考了98分。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>SMG Pictures</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>蜗居.Dwelling.Narrowness.E22.1080P.Hdtv.X264-Dhtclub_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 2 集</title>
+  <originaltitle>第 2 集</originaltitle>
+  <showtitle>蜗居</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id>1500021</id>
+  <uniqueid default="false" type="tmdb">1463829</uniqueid>
+  <uniqueid default="false" type="trakt">1276764</uniqueid>
+  <uniqueid default="true" type="tvdb">1500021</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>一套二手房中人头攒动，海萍俩人跟好几对夫妇在一套房子里审视着。海萍看着自己日渐增大的肚子，她更加感到要在小宝宝来临前给他准备一个家。又是一套二手房，这下竞价时，海萍夫妇一下子在底价上加了四万块，以为搞定了房子，苏淳突然接到房主的电话，说是房子不卖了，订金退给他们，除非他们加五万。这价钱远不是夫妇二人能承受的，眼看到手的房子没了，海萍生气至极，海藻只好想法安慰。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>SMG Pictures</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2697</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>蜗居.Dwelling.Narrowness.E02.1080P.Hdtv.X264-Dhtclub_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

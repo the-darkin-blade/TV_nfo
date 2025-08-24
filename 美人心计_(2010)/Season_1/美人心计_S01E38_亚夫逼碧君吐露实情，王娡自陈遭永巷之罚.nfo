@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>亚夫逼碧君吐露实情，王娡自陈遭永巷之罚</title>
+  <originaltitle>亚夫逼碧君吐露实情，王娡自陈遭永巷之罚</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>38</episode>
+  <id>4216526</id>
+  <uniqueid default="false" type="tmdb">1901658</uniqueid>
+  <uniqueid default="false" type="trakt">7355837</uniqueid>
+  <uniqueid default="true" type="tvdb">4216526</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>深夜，妙人找到刘武，告诉他刘启要杀害于他，要他赶紧逃跑。刘武跑到宫门口，恰巧碰到了漪房和刘盈，便将刘启要杀自己的事情告诉了他们。漪房设家宴探听虚实，要刘启下诏书立刘武为皇太弟，刘启左右为难，妙人故意将酒泼在刘启的身上，又让他装病，将此事躲了过去。妙人找到各诸侯，告诉他们漪房假借拜寿之名实际上是要杀他们灭口，要他们抓住刘武作为人质保自己的安全。妙人又找到刘武，要他赶紧回封地，刘武不忍看到漪房为自己的事情忧心，决定离开。走到宫门口的时候，被诸侯抓了起来。漪房赶到宫门口营救刘武被阻拦，刘盈驾着马车将她带了出去。刘盈拿自己做交换保诸侯们的安全，刘武被安全地换回，刘盈自尽，漪房悲痛欲绝。刘武回封地了，漪房不肯再见刘启。刘启准备拟旨立刘武为皇太弟，以求得漪房的谅解，妙人赶紧阻止，说她有办法让漪房来宣室殿。刘启准备上朝，突然吐了一口鲜血，晕倒在地。妙人拿着刘启的血手帕上了朝，要众大臣保举刘荣做太子。大臣们纷纷向漪房建议早立太子，妙人带着刘荣上朝，将刘启的血手帕给漪房看，表示自己的儿子不会争太子之位，要漪房去宣室殿看望刘启，漪房答应了。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2656</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep38 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="38" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

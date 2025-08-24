@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:41:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 23 集</title>
+  <originaltitle>第 23 集</originaltitle>
+  <showtitle>陆贞传奇</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>4702355</id>
+  <uniqueid default="false" type="tmdb">1252307</uniqueid>
+  <uniqueid default="false" type="trakt">1232069</uniqueid>
+  <uniqueid default="true" type="tvdb">4702355</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>1550</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <studio>Perfect World Pictures</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>Hope Century Motion Pictures</studio>
+  <studio>Hunan Broadcasting System</studio>
+  <studio>Huanyu Film and Television</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>93046</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj陸貞傳奇ep23_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

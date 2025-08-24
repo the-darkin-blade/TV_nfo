@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>Edmond暴毙调查线索中断</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>4839442</id>
+  <uniqueid default="false" type="tmdb">1984079</uniqueid>
+  <uniqueid default="false" type="trakt">1273918</uniqueid>
+  <uniqueid default="true" type="tvdb">4839442</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>叶婷发现Edmond在家中突然死亡，便跟随警方一起到医院协助调查，经医生检验后，证实Edmond是服食过量毒品死亡，乐敏闻言后即泣不成声。
+
+由于Edmond突然死亡，令ATF调查「惊鸟」的唯一线索被切断，有正惟有向在案发现场出现的叶婷加以盘问。剑亨从叶婷口中得知Edmond死讯感到相当吃惊，便提议叶婷先到外国留学，自己则暂停退休计划为组织善后。
+
+有正承认　匿名告密
+
+根据Edmond的犯罪纪录，ATF成功破获与Edmond有合作关系的军火商人，并以测谎机加以盘问，但是军火商人却显然对「惊鸟」的事情一无所知。
+
+志敖有见及此，便认为所有线索已经中断，终决定结束对Edmond的调查，事后有正决定向志敖承认自己就是寄出匿名信的告密者。
+
+有正日嘉　相约旅行
+
+乐敏终于回到出版社工作。而叶婷决定出国留学，在离开前特地与有正见面告别。有正见Edmond一案已经完结，便打算与日嘉一起出外旅行散心，更拜托有杰帮自己预备船票。  为免为难　取消行程
+
+有正到日嘉的住处作客，遇见了日嘉的父亲钟礼谦。礼谦是经营制药公司的富商，对日嘉与有正拍拖一事，表面上没有意见，但实际上却是极之反对，并认为有正根本配不上自己的女儿，特地约见有正并劝他放弃追求日嘉。有正不想让日嘉感到为难，惟有自行取消预定行程，并且向有杰为此事诉苦。
+
+日嘉得知礼谦所为，便出言反抗礼谦，并斥责有正竟然选择放弃自己，有正闻言后道歉，并承诺与日嘉共同进退。  叶婷发现　乐敏滥药
+
+叶婷从外国回港处理移居的文件，与有正见面互诉近况。叶婷见乐敏还未恢复过来，便听从剑亨的意见搬到乐敏的家暂住，以陪伴乐敏一起生活。
+
+就在叶婷独自到酒吧探望朋友时，竟然查出乐敏与Edmond一样也有服食毒品的习惯。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2667</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj叛逃ep09_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

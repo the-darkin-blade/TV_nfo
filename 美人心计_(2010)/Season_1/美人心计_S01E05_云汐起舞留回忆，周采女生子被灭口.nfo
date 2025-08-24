@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>云汐起舞留回忆，周采女生子被灭口</title>
+  <originaltitle>云汐起舞留回忆，周采女生子被灭口</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>4216493</id>
+  <uniqueid default="false" type="tmdb">1901625</uniqueid>
+  <uniqueid default="false" type="trakt">7355804</uniqueid>
+  <uniqueid default="true" type="tvdb">4216493</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>云汐以为慎儿已死，晕死了过去。夜晚，皇上召唤云汐，好语安慰。某日，云汐把太医送到的安胎药倒是花盆中发现异样，怀疑有人对嫣儿不利。于是去试探各位娘娘，最终检测出周采女是下毒之人。云汐讲了一个故事告诫周采女，周采女惊恐万分，再也不敢对嫣儿有异动了。嫣儿戴着假肚子和云汐完闹着，宫人报告说周采女要生产。周采女终于生下了皇子，但却马上被莫离（奉吕后命令）用白绫绞死。嫣儿在房里焦急等待着，云汐抱着装着孩子的食盒进来，孩子哭了起来，产婆忙去吕后那里报喜。皇上知道周采女死讯，昏死过去。匈奴屡犯大汉边境。吕后大怒，准备召集兵马攻击匈奴。但军队不好聚集，吕后想到古书有言：兵符可以快速召集军队。遂命吕禄制作兵符并派他去代国查看薄姬母子的近况。在代国吕禄看见代王刘恒白日荒淫无度，夜晚，刘恒又带着吕禄来到春风楼找妓女玉莲。吕禄看着刘恒浪荡的样子。不禁放下心来。吕禄走后，刘恒和玉莲进入地道，薄姬在等待着刘恒，刘恒一扫轻浮的样子，告诉薄姬自己已经部署妥当，派周亚夫和细作配合，一定会拿到兵符。吕禄的新婚妻子素问是代国的奸细，新婚之时她和周亚夫联系，利用血液把兵符印在手中，然后自杀，周亚夫骗过阿丑（雪鸢），取得了虎符的摹印。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2767</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep05 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

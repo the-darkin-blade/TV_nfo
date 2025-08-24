@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:40:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 1 集</title>
+  <originaltitle>第 1 集</originaltitle>
+  <showtitle>裸婚时代</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1630454</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>刘易阳要去上海出差，临行前和女朋友童佳倩告别，两人虽然从上高中时就谈恋爱，爱情长跑拉了近十年，但感情依旧非常好。刘易阳的妈妈吴红霞带回来一个消息，刘家的一处老房子即将拆迁，将有一笔不菲的拆迁款。刘家一家四口多年来一直住在五六十年代的宿舍楼里，空间狭小局促。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2585</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>裸婚时代naked Wedding 2011.Hdtv.1080I.H264.Ac3.Ep01~02-Tbw_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>裸婚时代naked Wedding 2011~02 Tbw qsv av1</title>
+  <originaltitle/>
+  <showtitle>裸婚时代</showtitle>
+  <season>1</season>
+  <episode>2011</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2585</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>裸婚时代naked Wedding 2011.Hdtv.1080I.H264.Ac3.Ep01~02-Tbw_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2011" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

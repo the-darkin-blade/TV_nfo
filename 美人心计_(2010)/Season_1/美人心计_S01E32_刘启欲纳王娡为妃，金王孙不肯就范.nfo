@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>刘启欲纳王娡为妃，金王孙不肯就范</title>
+  <originaltitle>刘启欲纳王娡为妃，金王孙不肯就范</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id>4216520</id>
+  <uniqueid default="false" type="tmdb">1901652</uniqueid>
+  <uniqueid default="false" type="trakt">7355831</uniqueid>
+  <uniqueid default="true" type="tvdb">4216520</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>刘恒又咳血了，他偷偷地将手帕塞到枕头底下，漪房其实早已知道，将一块干净的手帕换给刘恒。两个人回忆着美好的过去，刘恒晕了过去。漪房请来太医，太医说刘恒的病恐怕支撑不了多久，而且不知何时才能醒来，漪房安排人去属国找刘盈和刘武回来，以防朝廷生变，又找来一个舍人代替刘恒上朝。刘濞对皇上的身份产生怀疑，质问漪房，漪房要他上去察看，如果皇上是真的就要满门抄斩，刘濞最终没敢上前。舍人们偷偷议论着近来的怪事，认为刘恒已经驾崩，现在的皇上是别人冒充的。妙人恰巧听到了，前去试探，发觉皇上确实是假的。妙人苦于无法将消息传递给刘启，突然看到馆陶带着女儿阿娇进宫，心生一计，她找来巧慧一起商量，承诺馆陶如果将这个消息带给刘启，将来的阿娇必做皇后。刘启带着舍人们策马狂奔，他突然想起了什么，将项链交给一个舍人，要他还给王娡。碧君收到项链十分开心，认为刘启对王娡还有情，决定逼金王孙和王娡分开。碧君大骂金王孙，要他离开王娡，金王孙气愤地上前掐住她的脖子，碧君一脚踢在他的下身，金王孙倒地，头正好撞在了铁犁上，死去了。碧君吓得转身就跑，项链却掉在了地上……馆陶派人将刘启劫持到府上，告诉他漪房将刘盈和刘武召进宫，要立刘武为太子的消息。馆陶来到宫中质问漪房，漪房将自己的良苦用心告诉了她，馆陶气愤地去找妙人算帐。妙人不但不知悔改，继续煽风点火，馆陶又一次被说服了。刘启要进宫见漪房，在街上看到刘盈和刘武的队伍，不由信以为真。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2685</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep32 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>小鱼说出真心意</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>食为奴</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>4818243</id>
+  <uniqueid default="false" type="tmdb">2302263</uniqueid>
+  <uniqueid default="false" type="trakt">1266673</uniqueid>
+  <uniqueid default="true" type="tvdb">4818243</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>天宝一直对若碧念念不忘，李卫见状便联同小桃，一起为天宝制造机会与若碧在宫中独处。若碧怕会在宫中引起谣言，便在天宝面前狠狠地说出伤害他的话，终令天宝对若碧完全死心。
+
+天宝独自到河边喝酒，却不慎失足堕进河中遇溺；幸好小鱼经过，将天宝救起才不致发生悲剧。小鱼见天宝昏迷不醒，便为他进行急救，因此令天宝清醒后吓得不知所措，亦为此误会小鱼有断袖分桃之癖。自此之后，天宝便刻意避开小鱼。
+
+得知羹尧　贪赃枉法
+
+胤禛指示粘竿处调查羹尧的犯罪证据，因而得知羹尧一直隐瞒自己买卖官位贪赃枉法，令胤禛已经不能再容忍羹尧的专横。
+
+另一方面，胤禛的妃嫔佟妃因为妒忌慕雪得到胤禛的宠爱，便故意找慕雪麻烦，结果事件更令慕雪被太后处罚。胤禛得知慕雪被欺负后，感到心痛不已。
+
+若碧开解　情困小鱼
+
+小鱼有感自己对天宝的感情已经难以自控，便入后宫向若碧倾诉心事。若碧知道小鱼爱上了天宝后便为她感到高兴，并建议小鱼向天宝表白自己是女孩子的事。
+
+之后若碧得知慕雪被太后处罚，心地善良的若碧便为慕雪制作糕点以表慰问，但是慕雪在吃过甜品后竟然因此中毒昏迷。胤禛知道慕雪中毒后气愤难平便到后宫斥责若碧，令若碧感到百辞莫辩。胤禛猜测慕雪中毒一事，其实是羹尧为了夺权而暗中安排，令胤禛决心除去羹尧这个祸患。
+
+思道派员　调查慕雪
+
+思道为慕雪亲自诊治，发现慕雪所中的毒恰到好处，加上慕雪近日的行为有异，因此思道决定暗中派粘竿处调查，终查出慕雪对外泄露宫中秘密的证据。
+
+思道向胤禛公开一切，但胤禛并不相信慕雪会背叛自己。两人争论，结果竟令思道与胤禛决裂，并离开京城告老归田。事实上慕雪一直为在寺庙中的胤禩收集情报，而胤禩亦认为时机成熟，决定展开夺权大计。
+
+鹤亭发现　天宝弱点
+
+天宝及小鱼照常在御茶膳房工作，却被鹤亭无意中发现天宝原来害怕田鸡，便趁天宝在货仓工作时将田鸡倒入货仓并将其反锁，登时吓得天宝当场昏迷。
+
+天宝醒后，才发现自己又被小鱼所救，但两人却因此一起被困在货仓之中。之后货仓上空突然雷鸣大响，令小鱼惊慌不已，天宝见状便抱紧小鱼加以安慰，小鱼本想趁机公开自己是女儿身的秘密，但李卫却在此时出现将两人救出。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2657</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep20_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

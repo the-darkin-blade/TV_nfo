@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>志敖说服有正当卧底</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>4852009</id>
+  <uniqueid default="false" type="tmdb">1984089</uniqueid>
+  <uniqueid default="false" type="trakt">1275174</uniqueid>
+  <uniqueid default="true" type="tvdb">4852009</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>当淑芬与日嘉正在商量关于有正的事情时，有杰竟突然回家，两人都认为不适合对有杰提到有正的事，只得尽力蒙混过去。
+
+日嘉按照有正的指示，利用总部的保安系统帮助他逃出ATF的监视，日嘉与有正在会合地点见面，并且出手支开看守的警察，让有正独自进入资料库偷取志敖的犯罪证据。想不到志敖突然在资料库出现，并且以手枪指吓有正，结果两人在资料库中大打出手。
+
+志敖说出　内奸作乱
+
+当日嘉再次回到资料库时，已经失去了有正的踪影。志敖将有正带到办公室，原来是要将警务处长的秘密命令告知，就是将有正送入惊鸟做卧底。
+
+由于警方对志敖作内部调查时发现ATF内部存有内奸，早前有正得到有关志敖的罪证，亦是该名内奸的杰作。志敖便决定将计就计，故意与有正发生磨擦。
+
+有正闻言后本来不相信志敖的片面之词，志敖只好将自己年轻时犯下的秘密告知有正，以消除有正对自己的疑虑。
+
+有正答应　再当卧底
+
+有正终于答应志敖的要求，想方法加入惊鸟，为自己及警方调查真相。日嘉因为帮助有正逃走而被志敖停职，加深有杰对志敖的不满，同时亦迁怒于一直隐瞒真相的有正。
+
+淑芬担心有杰和有正两兄弟终有一日会反目成仇，而有杰亦没有否定淑芬的担忧。
+
+叶婷的骇客好友因为担心自己会被卷入惊鸟的战斗中，便决定改名换姓潜逃外国，而叶婷亦只能默默地送别好友。
+
+叶婷被袭　剑亨抢救
+
+叶婷驾车离开，但却突然在车上昏厥，幸好剑亨在附近出现，叶婷才没有在车祸中丧命。剑亨发现叶婷是被人下毒陷害，便决定质问乐敏。
+
+有正偷偷回家与淑芬告别，并且要求淑芬要对有杰保密，淑芬便使计拖延有杰回家，但有杰机警识破了淑芬的谎言，赶回家中查看时在楼下街道发现了有正的身影。
+
+有杰发现　兄长出轨
+
+有杰从后尾随有正，赫然发现有正与叶婷在街上亲热。有杰以为有正一脚踏两船，主动将自己看到的情况告知日嘉，日嘉感到相当失望，而她亦因未能与有正联络而感到不安。
+
+志敖得知早前被有杰击伤昏迷的惊鸟成员有苏醒迹象，便决定派员到医院加以保护，并安排转移到其他医院治理。ATF的内奸亦将这重要情报告知乐敏，乐敏就灭口行动进行部署。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2666</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj叛逃ep19_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

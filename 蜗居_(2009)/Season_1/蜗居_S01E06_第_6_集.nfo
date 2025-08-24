@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 6 集</title>
+  <originaltitle>第 6 集</originaltitle>
+  <showtitle>蜗居</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>1507801</id>
+  <uniqueid default="false" type="tmdb">1463835</uniqueid>
+  <uniqueid default="false" type="trakt">1276828</uniqueid>
+  <uniqueid default="true" type="tvdb">1507801</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>又是一个周末，宋思明被女儿和妻子吵醒，女儿学校活动结束后要他陪同参加S.H.E.的演唱会，他却不知道谁是S.H.E.,女儿嘲笑他老了。对镜洗漱，想到女儿戏谑的话，他竟然有很强的冲动想见到海藻，自从相识他一直都在思念这个女孩，不知道究竟是哪个特质让他那么魂牵梦萦。王太太觉得最近家中的菜量越来越少，怀疑徐阿姨克扣菜金，所以决定今后自己去买菜。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>SMG Pictures</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2695</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>蜗居.Dwelling.Narrowness.E06.1080P.Hdtv.X264-Dhtclub_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>太子发动政变</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>食为奴</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>4799700</id>
+  <uniqueid default="false" type="tmdb">2302235</uniqueid>
+  <uniqueid default="false" type="trakt">1264772</uniqueid>
+  <uniqueid default="true" type="tvdb">4799700</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>天宝潜入宫中刺探山西赈灾白银失窃案的情报，结果被太子的侍卫追捕，幸得胤禛出手帮忙天宝才能成功逃脱。天宝回到胤禛的住处后，便将太子的罪行告知。胤禛知道案件与太子有关，心中不禁忐忑不安，并为应否揭发太子的罪行而感到犹豫不决。
+
+翌日，胤禛决定找寻思道询问意见，胤禛因为不想公开自己的身分，便以猫作比喻。思道一听胤禛的说话便知是和太子有关，便借此比喻劝胤禛揭发太子的罪行，但是胤禛念在兄弟之情，最后亦没有向康熙揭发此事。
+
+慕雪查访　孤儿行踪
+
+京城的贫民区出现孤儿失踪案件，慕雪担心孤儿院的小孩便赶到贫民区，却遇上胤禩的手下，慕雪误会胤禩等人就是孤儿失踪案的主谋，便即场与胤禩的手下大打出手。
+
+慕雪落败被擒，但胤禩却带慕雪到新建的孤儿院，原来胤禩为了安置京城的孤儿，便出钱兴建新的孤儿院，并且派人将城中的孤儿全部带回来加以照顾。慕雪知道自己误会胤禩后连忙道歉，亦因此机会与胤禩加深认识，并且对他的贤能感到崇拜。
+
+为避追究　太子作乱
+
+胤禩派人秘密调查山西一案终有所收获，并在山西知县的家人手上得到了揭发太子罪行的告密信。胤禩以此信要胁太子，迫使他亲自向康熙自首。想不到东窗事发的太子担心山西一案被揭发，康熙一定会追究到底，于是暗中找手握宫中军权的索额图商议，而索额图竟然提议太子发动政变，以提早接掌皇位摆平此事。
+
+太子虽然对发动政变一事感到害怕，但为了保住继承人之位，便决定跟随索额图的计划，并调动御林军包围紫禁城。
+
+羹尧出手　斩杀统领
+
+冯鹰见御林军出现异动，便即时向胤禛汇报，胤禛听后大约猜测到太子知道事败，欲趁罪状公开前向康熙迫宫登位。
+
+为了保护康熙，胤禛便带同冯鹰及羹尧一起阻止御林军入宫，但御林军为了完成太子所交付的任务，竟然漠视胤禛的劝阻。羹尧见形势危急，竟然私自出手斩杀御林军统领，终令胤禛成功镇压叛乱。
+
+另一方面，索额图亦为入宫发动政变整装待发，却收到康熙送来的家乡水饺，索额图因此明白一切行动已在康熙掌握之中，最后决定放弃迫宫大计。
+
+康熙激动　欲杀太子
+
+太子发动的政变最后以失败告终，而胤禛亦与太子一起入宫面见康熙，康熙为太子发动政变一事感到相当气愤，打算亲手即场处决太子。胤禛见状便向康熙求情，却反被康熙责备。… ...</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2630</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep06_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

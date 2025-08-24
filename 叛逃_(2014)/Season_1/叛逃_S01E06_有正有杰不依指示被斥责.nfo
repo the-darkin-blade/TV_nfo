@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>有正有杰不依指示被斥责</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>4833866</id>
+  <uniqueid default="false" type="tmdb">1984076</uniqueid>
+  <uniqueid default="false" type="trakt">1273624</uniqueid>
+  <uniqueid default="true" type="tvdb">4833866</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>ATF突然要求训练生出动进行反恐任务，原来是志敖的安排，目的就是为ATF的选拔进行最后的测验，有正及有杰因为急于拯救人质而罔顾上级命令。
+
+当得知事件是志敖安排的测验后，感到不忿的有正便出言与高威及志敖理论，但两人皆表现得不以为然，令有正及有杰感到入选机会渺茫。
+
+日嘉得知有正在测试时与志敖争执，便藉故慰问有正，并且暗中帮有正试探志敖心意，但却毫无收获。
+
+有正有杰　齐被取录
+
+ATF的一众训练生齐集总部，并等候选拔结果，有正及有杰竟然成功入选，有正及有杰振奋不已，而有杰亦因为有机会与日嘉共事而感到高兴。
+
+ATF情报组的仁美心知有杰对日嘉有意，便出言支持有杰，但此情此景却被路过的高威撞破。
+
+有正及有杰入职当日，有正被安排加入情报组与日嘉仁美等人一起共事，有杰则被安排进入行动组并直属高威指挥，有杰对此安排感到不满，却未能让高威改变决定。另一方面，有正在情报组中与日嘉朝夕相对。
+
+叶婷借机　套取情报
+
+南韩政要将来港参与会议，叶婷靠其人际关系打听到重要情报。在返回出版社的途中，叶婷遇上有正，知道他已经成功入选ATF，借机加深认识，希望日后能从他身上获得ATF不可多得的情报。
+
+叶婷是乔剑亨的养女，剑亨表面为出版社总编辑，实质却是恐怖组织「惊鸟」成员，为世界各地的恐怖分子进行情报买卖。叶婷所探得南韩政要的情报，将落入南韩恐怖分子手中。叶婷在出版社有一名好友杨乐敏，而乐敏的男朋友Edmond也是经由叶婷所介绍。
+
+目标人物　被杀灭口
+
+ATF得知南韩政要来港，同时激进的韩农组织亦会来港示威，令ATF决定加强搜查。
+
+宏亮和有正被指示前往货柜场检查货物，却因为大意错过重要线索，令南韩恐怖分子成功将偷运的货物带走。志敖成功锁定一名可疑人物，并指挥有杰及其他行动组成员加以追捕。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2666</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj叛逃ep06_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

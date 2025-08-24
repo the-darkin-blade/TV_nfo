@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>天宝若碧关系大进</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>食为奴</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>4798218</id>
+  <uniqueid default="false" type="tmdb">2302234</uniqueid>
+  <uniqueid default="false" type="trakt">1264636</uniqueid>
+  <uniqueid default="true" type="tvdb">4798218</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>康熙为山西知县在狱中被毒杀一事大为紧张，便召来一众阿哥查问因由。太子这时将胤禛在山西遇刺时发现的玉佩交给康熙查看，康熙看见眼熟，细看后发现此玉佩竟然是九阿哥的私人物品。看到证据确凿九阿哥欲辩无从，而康熙更因此气愤得昏倒在床，幸有太医及早治疗才能令康熙苏醒过来。
+
+太子为了让康熙回复精神，便命令胤禛再请天宝入宫做包，而胤禛为了父王的身体健康亦无奈答应。
+
+天宝拒绝　再次入宫
+
+天宝得知胤禛要自己再次入宫，便即时出言相拒，胤禛便劝天宝不应轻信江湖术士之说，天宝见胤禛不了解思道的能力，便带胤禛前往医馆探访思道，并要思道为胤禛占卜。
+
+思道见状便藉词使开天宝，并一眼看出胤禛并非太监。思道利用占卜，更说出胤禛是人中龙凤绝非泛泛之辈，令胤禛对思道甚感佩服。
+
+胤禛回到宫中巧遇胤禩，而胤禩亦提醒胤禛不要轻易相信太子的话，暗指山西一案与太子有关。
+
+忠直李卫　拾得白银
+
+天宝的店终于重开，而天宝却留下李卫看店并独自外出购物，之后李卫招待一名自称是太子的近身侍卫，并在他离开后拾获一锭白银。性格忠直的李卫决定收起来，直至那人到小店取回才交还。
+
+若碧的佣人到小店寻找天宝，并以若碧之名相约天宝深夜到画舫约会，天宝闻言后便马上答应，并且穿戴整齐赴约。天宝到达画舫后突然一阵怪风吹熄了所有烛光，令若碧未能看清天宝的样貌，而天宝亦凭着他对食物的丰富知识，与若碧在约会中言谈甚欢。
+
+天宝冒死　为仆求情
+
+天宝与李卫一起到街上闲逛时遇上小偷，李卫在早前拾获的白银亦因此不翼而飞，之后小偷被羹尧逮住，但李卫却同时被羹尧捉拿回衙门问话。
+
+天宝赶到衙门，并冒死在牢中为李卫求情，但是羹尧却不为所动。在医馆中，慕雪自从被胤禩所救后，便对胤禩的英伟不凡感到倾心，思道看见慕雪心神不定，忍不住向她说教。
+
+这时天宝亦突然出现，并且告诉思道有关李卫被羹尧找到狱中严刑迫供一事。思道闻言后便建议天宝找胤禛帮忙，而天宝才因此知道了胤禛的真正身分。
+
+天宝得知　胤禛身分
+
+胤禛向天宝公开了真正身分后，便命令天宝要为其保守秘密。当胤禛听罢天宝的供词后，便发现山西赈灾白银一案与太子有密切关系。看见主子大感烦恼，冯鹰主动向胤禛献计，教他可将天宝派入宫中当厨，并借此机会潜入太子府中调查太子。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2662</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep05_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

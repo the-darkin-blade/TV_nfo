@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 11 集</title>
+  <originaltitle>第 11 集</originaltitle>
+  <showtitle>蜗居</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>1677411</id>
+  <uniqueid default="false" type="tmdb">1463840</uniqueid>
+  <uniqueid default="false" type="trakt">1276895</uniqueid>
+  <uniqueid default="true" type="tvdb">1677411</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宋思明抑制不住自己对海藻的思念，去了海藻那里。宋思明把海藻带到郊外别墅，和海藻发生了关系。此时，宋太太和小贝都在焦急的等待着自己的另一半可是他们谁都不会知道自己爱的人会背叛自己。过后，无论是海藻还是宋思明都显得手足无措，都觉得自己晚上发生的事不太冷静，海藻更是觉得自己肮脏的身体是不配再让小贝爱了。过了不久，宋思明把海藻需要的6万元送了过来。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>SMG Pictures</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2696</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>蜗居.Dwelling.Narrowness.E11.1080P.Hdtv.X264-Dhtclub_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

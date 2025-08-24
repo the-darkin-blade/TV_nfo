@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>蚕花节风波：妙人偷蚕王丝</title>
+  <originaltitle>蚕花节风波：妙人偷蚕王丝</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id>4216519</id>
+  <uniqueid default="false" type="tmdb">1901651</uniqueid>
+  <uniqueid default="false" type="trakt">7355830</uniqueid>
+  <uniqueid default="true" type="tvdb">4216519</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>刘启来到考场，询问主考官谁最有希望得状元，考官将金王孙推荐给刘启，刘启要主考官将他定成榜眼，把人情让给自己。发榜了，金王孙果然只中了榜眼，刘启要金王孙替自己效力，答应帮助他成为状元，金王孙不肯就范，只得到了一个候补官员的名额。华丰的父亲给妙人送来了丰厚的礼品，想让他的儿子进户部，妙人将华丰推荐给刘启做户部的主管。朝堂上，刘恒试探华丰的文采，谁知华丰只是一个不学无术之徒，不仅什么见解都没有，还将送礼的事情说了出来，刘恒大怒，气得晕了过去。刘恒醒了过来，让太医不要将自己的病情告诉漪房。他叮嘱漪房将刘启送到少陵原磨炼一下，漪房送走刘启，两个人的隔阂更深了。金王孙从县衙回来，大骂世道黑暗，要送礼才能当官，自己空有一身才华却无用武之地，碧君奚落金王孙，要王娡离开他。王娡来到县衙门口准备替金王孙讨个公道，正好碰到刘启从里面出来。王娡故意制造和刘启接近的机会，刘启对她产生了好感，王娡将一个装着沉香的香包送给了他，刘启浑身都起了红疹，却不舍得将香包扔掉。刘启相约在街上等王娡，王娡将金王孙的遭遇告诉了刘启，听到王娡已经成亲，刘启十分失落，要她将金王孙带到少陵府。刘启认出了金王孙，答应帮他谋一个官位，但是却要王娡留下来。两个人到花园，王娡将自己的身份告诉了刘启，并且把刘启送给自己的项链还给了他。王娡和金王孙回到家中，金王孙怀疑王娡和刘启有染，两个人吵了起来。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2686</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep31 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

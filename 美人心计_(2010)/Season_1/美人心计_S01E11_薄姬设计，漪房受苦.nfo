@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>薄姬设计，漪房受苦</title>
+  <originaltitle>薄姬设计，漪房受苦</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>4216499</id>
+  <uniqueid default="false" type="tmdb">1901631</uniqueid>
+  <uniqueid default="false" type="trakt">7355810</uniqueid>
+  <uniqueid default="true" type="tvdb">4216499</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雪鸢看到了吕雉用来传递消息的鹦鹉，劝漪房尽快向吕雉传递消息，以免遭人怀疑，漪房担心雪鸢瞒着自己将消息传递给吕雉，心里十分矛盾。刘恒带着众人去马场主人野裘处买马，野裘看上了雪鸢，提出用她作为马的酬金。漪房将计就计，偷偷地给她的酒里下了蒙汗药。野裘要带走雪鸢，临行前，雪鸢悄悄告诉亚夫自己喜欢他。深夜，亚夫不顾一切地赶去救雪鸢，看到两个人如此情深，刘恒决定让雪鸢嫁给亚夫，却被雪鸢拒绝了。雪鸢知道一切都是漪房安排的，向她表明自己的心迹，并说出自己就是当初汉宫的阿丑，愿意一生追随漪房。刘恒一行人回到代国，漪房去朝见薄姬，薄姬对她十分不满，让她跪在宫门口不准进来，漪房晕倒，刘恒忙叫太医替漪房诊治，太医告诉刘恒漪房怀孕了……碧君走投无路之时，恰逢代宫贴榜召医女，碧君认为这是个生财之道，便揭下了黄榜。测试前，碧君偷偷地将一把胡椒粉投入药材中，告诉太医自己医术高明，一闻就知道药材里有什么，太医信以为真。墨玉挑拨子冉和漪房的关系，劝子冉一定要先产下龙子，她找到太医求催生之术，太医没有应允，躲在书房里的碧君听到了，从书架上找到了写有《催生法》的竹简。碧君借着送药之机，告诉墨玉自己会催生的方法，墨玉大喜，将碧君留了下来。京城太尉一职出现空缺，慎儿劝吕禄努力争取，她一边命人开仓放粮争取百姓的支持，一边又约来四个将军特许了特赦令，赢得了禁卫军的爱戴，这一切使得吕雉对吕禄另眼相看。慎儿并不满足于吕禄做太尉，要他将收到的礼物全部送给禁卫军收买人心。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2678</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep11 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

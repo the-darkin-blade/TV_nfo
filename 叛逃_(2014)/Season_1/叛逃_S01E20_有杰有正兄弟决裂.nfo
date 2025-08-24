@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>有杰有正兄弟决裂</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>4852737</id>
+  <uniqueid default="false" type="tmdb">1984090</uniqueid>
+  <uniqueid default="false" type="trakt">1275308</uniqueid>
+  <uniqueid default="true" type="tvdb">4852737</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>志敖与众ATF探员到医院押运刚苏醒惊鸟的成员，以免他被惊鸟灭口。志敖按计划分配人手到各个岗位工作，有杰因为在总部开会时发现宏亮在会议期间偷发讯息，担心宏亮就是内奸便独自进行追踪。
+
+有杰发现宏亮及他的拍档正带疑犯离开志敖指示的地点进入了一间病房之内，有杰见状便立刻进入病房，赫然发现宏亮被人击倒在地。
+
+乐敏主动　接近宏亮
+
+志敖盘问宏亮，他指自己被拍档误导，才会不依循志敖的指示将疑犯带到病房，而他亦在进入病房后被拍档从后击晕。
+
+志敖虽然没有再对宏亮加以盘问，但却暗中抽调有杰及仁美等人成立调查小组，专门调查惊鸟的事件，有杰见志敖原来一直忍辱负重，便对志敖改观并听从他的命令。
+
+剑亨考核　有正忠诚
+
+有正在叶婷的穿针引线下与剑亨见面，并向剑亨提出想加入惊鸟，以对抗警方对自己的追捕，但是剑亨未能信任有正，便要有正潜入ATF总部放置炸弹以表忠诚。
+
+有正闻言后一口答应了剑亨的要求，并与志敖密会并告知他此事，志敖闻言后便决定为有正安排计划。
+
+另一方面，日嘉在街上巧遇叶婷，便上前质问叶婷有关有正的事情。叶婷为了保守有正是卧底的秘密，便与日嘉口角，令日嘉确信叶婷与有正有私情。
+
+潜入总部　安装炸弹
+
+乐敏为了帮助有正潜入ATF总部，便到宏亮的家作客。有正假扮送水工人，并凭乐敏带来的用具，成功潜入ATF的资料库放置计时炸弹。
+
+有杰却发现有正身影，感到事态并不寻常便即时通知警察进行搜索，最后有杰在梯间发现逃走中的有正，二人纠缠起来。
+
+有正冒险　救出日嘉
+
+志敖见有正展开行动，便施计安排一众探员离开总部，以避免遭炸弹波及，日嘉却不知就里，竟然打算趁机潜入资料库盗取志敖的秘密资料。有正发现日嘉并没有离开总部，于是独自回到资料室欲拯救日嘉，终在炸弹爆发前将日嘉救出。
+
+日嘉打算与有正一起逃走，但是有正为了隐瞒志敖的计划而未有将事实告知日嘉，这时有杰追出欲阻止有正离开，两兄弟以手枪互相对峙。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2668</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj叛逃ep20_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

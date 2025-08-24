@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>黑发女鬼</title>
+  <originaltitle>黑发女鬼</originaltitle>
+  <showtitle>无心法师</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>5284413</id>
+  <uniqueid default="false" type="tmdb">1141039</uniqueid>
+  <uniqueid default="false" type="trakt">1939241</uniqueid>
+  <uniqueid default="true" type="tvdb">5284413</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>文县城外的山路，顾大人骑马，不慎将让路的法师无心撞下山。雨过风止，无心苏醒过来，看到月牙在吃包子。无心饥肠辘辘向月牙索要食物，月牙将仅剩的半个包子送给无心。  无心吃完包子发现月牙脚部受伤，心地善良的他背起月牙回到文县。月牙谎称回家欲摆脱无心，其实她无家可归只是做腔作势吓唬人。无心计上心来跟随月牙一起回家，月牙在他的跟随下只得硬起头皮敲响一家住户。开门的是一个老阿婆，老阿婆没好气地骂了月牙几句关上房门。  月牙一脸委屈将怨气发泄到无心身上，无心决定带着月牙挣钱吃香的喝辣的，他开了天眼发现顾府有妖气，守护顾府的一个老大爷见无心一眼识破府内有妖怪，赶忙通知已经搬到别处的顾大人。  顾府外下起飘扬的大雪，无心领着月牙进府避寒，潜伏在一口水井中的女妖企图伤害月牙，无心及时出手带领月牙逃到府外。  二人坐在顾府外面直到天黑，看门的大爷返了回来带领二人前往顾大人吃饭地点，顾大人正是不久之前骑马误撞无心坠山的军官，无心坠山毫发无伤，顾大人暗自惊叹意识到无心果然有几分能耐，当天晚上，无心和月牙在顾大人的安排下住进旅馆，二人回房之前饱餐一顿。隔天，无心在顾大人的陪同下前往顾府，府内一共死了三个人，无心施展法术准确找出三名死者的遇害位置，顾大人一脸敬佩已被高深莫测的无心折服。  入夜，无心配备法器进入顾府捉妖，女妖忽然现身袭击顾大人，无心临危不乱袭击女妖，女妖遇袭逃回水井，月牙难以理解无心没有全力应付收降女妖，无心之所以放走女妖其实是为了吓唬顾大人，顾大人越害怕他才有机会赚更多的钱。  顾大人已被女妖吓得够呛，无心上前为他扯出钻入嘴中的女妖头发。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Sohu Video</studio>
+  <studio>iQiyi</studio>
+  <studio>Tencent Video</studio>
+  <studio>Tangren Media</studio>
+  <studio>MAX DREAM</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj無心法師ep01_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

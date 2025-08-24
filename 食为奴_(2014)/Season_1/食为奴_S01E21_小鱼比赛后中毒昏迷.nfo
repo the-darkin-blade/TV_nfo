@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>小鱼比赛后中毒昏迷</title>
+  <originaltitle>Episode 21</originaltitle>
+  <showtitle>食为奴</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id>4819495</id>
+  <uniqueid default="false" type="tmdb">2302265</uniqueid>
+  <uniqueid default="false" type="trakt">1266853</uniqueid>
+  <uniqueid default="true" type="tvdb">4819495</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>天宝在澡堂救起了意外晕倒的小鱼，终发现小鱼是女儿身的秘密。天宝指出小鱼隐瞒自己的性别入宫工作，就是犯了欺君之罪，而小鱼是由天宝引荐入宫，故此天宝担心小鱼的秘密会被揭发。
+
+小鱼醒来后，天宝二话不说要求小鱼离宫，但小鱼不答允天宝的要求，除了是因为小鱼未能找到五味大师外，也坦言说出因为自己已经爱上了天宝。天宝闻言后大惊亦因此逃避小鱼，小鱼见天宝不接受自己，只有强忍自己的爱意，接受与天宝维持朋友般一起生活。
+
+羹尧胤禛　势成水火
+
+若碧因为慕雪中毒一事而被胤禛处罚，天宝看不过眼，便决定陪若碧一起受罚，但此举却被太监德胜所阻。天宝不忍让事件情况恶化，只好直接找胤禛求情。胤禛心知若碧无辜，而他处罚若碧亦只为了向羹尧施压，故此胤禛一听天宝为若碧出面求情，便对若碧网开一面。
+
+另一方面，胤禩眼见胤禛已经与羹尧决裂，便安排羹尧的手下袭击慕雪。胤禛得知她被袭之事后大怒，更向羹尧大兴问罪之师。羹尧见胤禛气焰嚣张，便认为是胤禛忘恩负义，两人的关系终成水火。两人争执后胤禛决定免去羹尧的官位，并且把他收押在天牢。
+
+天宝再战　东瀛厨神
+
+天宝见若碧为羹尧入狱一事茶饭不思，便向胤禛进言，但胤禛认为这次事件差点令慕雪受伤，故执意严厉处分羹尧。天宝见皇上心意已决，亦不敢再为羹尧出口求情。
+
+天宝回御茶膳房后，从手下口中得知东瀛厨神再次踏足京城，并不断挑战大清的名厨，目的就是要打败小鱼一雪前耻。想不到此时的小鱼并无半点斗争心，故拒绝了东瀛厨神的挑战。东瀛厨神感到无法挽回面子，便转移向胤禛下战书。胤禛为保大清威信，决定下旨命令天宝应战。
+
+幪眼对赛　料理河豚
+
+东瀛厨神与天宝以料理河豚来比试刀工，天宝深知河豚含有剧毒难以料理，但皇命难违便决定努力练习，天宝亦因练习而误中河豚毒。
+
+小鱼看不过眼，便独自向老冯请教，而老冯亦教小鱼致胜之法。比赛当日，小鱼将正预备前往比试的天宝打晕，并且代替天宝出赛，而小鱼为了拉近和东瀛厨神的实力，便提出双方都要幪起双眼来料理河豚的条件。
+
+担心小鱼　真情告白
+
+双方皆幪起双眼进行生死对决，但突然天空雷鸣大作，令害怕打雷的小鱼受惊，幸好天宝及时赶至，并且唱歌为小鱼定惊，终令小鱼能够完成料理，最终成功打败东瀛厨神。
+
+小鱼与天宝回到御茶膳房后，天宝却发现小鱼因中了河豚毒而昏迷。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2663</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep21_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

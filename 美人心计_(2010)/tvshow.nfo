@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>美人心计</title>
+  <originaltitle>美人心计</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <sorttitle/>
+  <year>2010</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>8</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>西汉王朝，天下初定，一派祥和的表象下暗潮涌动，皇宫深处更是刀光剑影，杀机四伏。一场夺嗣之争，竟意外改变了一个女孩乃至整个西汉王朝的命运。少女云汐九死一生，随奶娘逃出皇宫，早年颠沛流离，爱恋无缘。命运的安排让她再次进宫，可是改名窦漪房的她不得不周旋在狠毒多疑的吕后面前，小心谨慎，朝不保夕。幸亏她的机敏智慧，使得吕后心生欢喜，更秘密派遣她前往代国监视薄姬娘娘之子刘恒，阴谋夺嗣。在汹涌澎湃的历史长河中，美丽多情而又坚忍聪慧的漪房注定要书写下极不平凡的一笔……</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"31162","imdb":"tt9636906","wikidata":"Q717197","tvdb":"184591"}</episodeguide>
+  <id>184591</id>
+  <imdbid>tt9636906</imdbid>
+  <tmdbid>31162</tmdbid>
+  <uniqueid default="false" type="tmdb">31162</uniqueid>
+  <uniqueid default="false" type="imdb">tt9636906</uniqueid>
+  <uniqueid default="false" type="wikidata">Q717197</uniqueid>
+  <uniqueid default="true" type="tvdb">184591</uniqueid>
+  <premiered>2010-03-15</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <country>中国</country>
+  <tag>historical romance</tag>
+  <actor>
+    <name>林心如</name>
+    <role>Dou Yifang / Xiang Lian</role>
+    <profile>https://www.themoviedb.org/person/113311</profile>
+    <tmdbid>113311</tmdbid>
+  </actor>
+  <actor>
+    <name>杨幂</name>
+    <role>Mo Xueyuan</role>
+    <profile>https://www.themoviedb.org/person/572043</profile>
+    <tmdbid>572043</tmdbid>
+  </actor>
+  <actor>
+    <name>王丽坤</name>
+    <role>Nie Shener / Wang Zhi / Ping Hua</role>
+    <profile>https://www.themoviedb.org/person/1251113</profile>
+    <tmdbid>1251113</tmdbid>
+  </actor>
+  <actor>
+    <name>陈键锋</name>
+    <role>Liu Heng</role>
+    <profile>https://www.themoviedb.org/person/1222624</profile>
+    <tmdbid>1222624</tmdbid>
+  </actor>
+  <actor>
+    <name>冯绍峰</name>
+    <role>Liu Zhang</role>
+    <profile>https://www.themoviedb.org/person/936431</profile>
+    <tmdbid>936431</tmdbid>
+  </actor>
+  <actor>
+    <name>胡杏儿</name>
+    <role>Lu Yu</role>
+    <profile>https://www.themoviedb.org/person/938251</profile>
+    <tmdbid>938251</tmdbid>
+  </actor>
+  <actor>
+    <name>何晟铭</name>
+    <role>Zhou Yafu</role>
+    <profile>https://www.themoviedb.org/person/1102361</profile>
+    <tmdbid>1102361</tmdbid>
+  </actor>
+  <actor>
+    <name>严屹宽</name>
+    <role>Liu Shaokang</role>
+    <profile>https://www.themoviedb.org/person/1407599</profile>
+    <tmdbid>1407599</tmdbid>
+  </actor>
+  <actor>
+    <name>孙菲菲</name>
+    <role>Qing Ning</role>
+    <profile>https://www.themoviedb.org/person/2390490</profile>
+    <tmdbid>2390490</tmdbid>
+  </actor>
+  <actor>
+    <name>戚薇</name>
+    <role>Princess Guantao</role>
+    <profile>https://www.themoviedb.org/person/1276002</profile>
+    <tmdbid>1276002</tmdbid>
+  </actor>
+  <actor>
+    <name>罗晋</name>
+    <role>Liu Ying</role>
+    <profile>https://www.themoviedb.org/person/1115666</profile>
+    <tmdbid>1115666</tmdbid>
+  </actor>
+  <actor>
+    <name>吕佳容</name>
+    <role>Princess Lu Yuan</role>
+    <profile>https://www.themoviedb.org/person/2513397</profile>
+    <tmdbid>2513397</tmdbid>
+  </actor>
+  <actor>
+    <name>戴春荣</name>
+    <role>Empress Dowager Lu</role>
+    <profile>https://www.themoviedb.org/person/1236265</profile>
+    <tmdbid>1236265</tmdbid>
+  </actor>
+  <actor>
+    <name>白珊</name>
+    <role>Bo Ji</role>
+    <profile>https://www.themoviedb.org/person/1251115</profile>
+    <tmdbid>1251115</tmdbid>
+  </actor>
+  <actor>
+    <name>苏青</name>
+    <role>Zhang Yan</role>
+    <profile>https://www.themoviedb.org/person/2250335</profile>
+    <tmdbid>2250335</tmdbid>
+  </actor>
+  <actor>
+    <name>高昊</name>
+    <role>Liu Qi</role>
+    <profile>https://www.themoviedb.org/person/1251118</profile>
+    <tmdbid>1251118</tmdbid>
+  </actor>
+  <actor>
+    <name>高洋</name>
+    <role>Bo Qiaohui</role>
+    <profile>https://www.themoviedb.org/person/1138126</profile>
+    <tmdbid>1138126</tmdbid>
+  </actor>
+  <actor>
+    <name>张彤</name>
+    <role>Shen Bijun</role>
+    <profile>https://www.themoviedb.org/person/2314450</profile>
+    <tmdbid>2314450</tmdbid>
+  </actor>
+  <actor>
+    <name>杜俊泽</name>
+    <role>Lu Lu</role>
+    <profile>https://www.themoviedb.org/person/2184052</profile>
+    <tmdbid>2184052</tmdbid>
+  </actor>
+  <actor>
+    <name>王语嫚</name>
+    <role>Su Wen</role>
+    <profile>https://www.themoviedb.org/person/2696501</profile>
+    <tmdbid>2696501</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

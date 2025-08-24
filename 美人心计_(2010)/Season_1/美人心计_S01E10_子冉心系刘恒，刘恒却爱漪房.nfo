@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>子冉心系刘恒，刘恒却爱漪房</title>
+  <originaltitle>子冉心系刘恒，刘恒却爱漪房</originaltitle>
+  <showtitle>美人心计</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>4216498</id>
+  <uniqueid default="false" type="tmdb">1901630</uniqueid>
+  <uniqueid default="false" type="trakt">7355809</uniqueid>
+  <uniqueid default="true" type="tvdb">4216498</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>吕雉找人模仿慎儿的笔迹以稳住漪房，表面上封慎儿为夫人，实际上是要她殉葬。慎儿得知事情的真相，借机接近排演哀乐的吕禄，想躲过一劫。御林军们拿着白绫勒紧嫔妃们的脖子，嫔妃们纷纷死去，吕禄拿着白绫勒住慎儿，慎儿软软地倒在了地上……吕禄带着仵作给殉葬的嫔妃化妆，仵作发现慎儿并没有死，吕禄将仵作杀死，将化妆成仵作的慎儿救了出去。吕雉命令莫离将慎儿的家人全部偷偷处死，莫离找到詹事察看慎儿的家人宗卷，詹事想起慎儿当初是顶替的，根本没有宗卷，便将云汐的宗卷拿给莫离。碧君带着国春出门，突然发现大业被杀。一群杀手冲过来杀死国春，又将碧君砍倒在地，一把火烧了房子。碧君醒了过来，发现自己并没有死，原来是背上的银子救了自己，她挣扎着仓皇逃走。子冉怀孕了，薄姬让刘恒以后多陪子冉，刘恒却借着出巡边关的机会，带着漪房、雪鸢和亚夫一同前往。一行人来到大汉和匈奴的边界。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Shanghai Television</studio>
+  <studio>Yu Zheng Studio</studio>
+  <studio>紫骏影视</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stratagems Of Beauty Ep10 Hdtv 1080I H264 Ac3 Hdj-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

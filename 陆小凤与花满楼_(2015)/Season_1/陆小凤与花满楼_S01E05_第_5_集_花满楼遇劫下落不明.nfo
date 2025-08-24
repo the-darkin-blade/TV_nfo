@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:41:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 5 集 花满楼遇劫下落不明</title>
+  <originaltitle>第 5 集 花满楼遇劫下落不明</originaltitle>
+  <showtitle>陆小凤与花满楼</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2060807</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>飞燕左右为难依然不愿意杀害花满楼，女主人驱使一条蟒蛇缠绕飞燕，飞燕的男伴吓得面色大变保证一定会跟飞燕完成任务，女主人驱使蟒蛇放过飞燕，同时提醒飞燕如果没有杀害花满楼将会丢掉性命。飞燕被蟒蛇缠绕只剩半条性命，花满楼在野外发现被遗弃的飞燕，飞燕被花满楼带回住处，花满楼为飞燕更换了一身衣服，飞燕苏醒过来身体虚弱无力。花满楼为飞燕治病，虽然飞燕是女杀手杀害许多无辜生命，但花满楼还是宽宏大胆医治飞燕，飞燕被花满楼抱到房间里面治病，一伙黑衣男子闯入房间袭击花满楼，花满楼将飞燕推到浴池里面反攻黑衣人，黑衣人施放毒雾迷晕了花满楼与飞燕。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>台灣漢梁公司</studio>
+  <studio>西岸傳媒股份有限公司</studio>
+  <studio>上海劇蕊有限公司</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2623</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Detectives.And.Doctors.Ep05.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

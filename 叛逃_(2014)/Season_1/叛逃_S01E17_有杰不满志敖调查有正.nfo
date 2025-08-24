@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:29:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>有杰不满志敖调查有正</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>叛逃</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>4850203</id>
+  <uniqueid default="false" type="tmdb">1984087</uniqueid>
+  <uniqueid default="false" type="trakt">1274915</uniqueid>
+  <uniqueid default="true" type="tvdb">4850203</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>有正醒来后发现自己身处内地的医疗设施中，并有医护人员照顾自己，打算强行离开病房返回香港。
+
+叶婷收到了王教授的秘密来信，王教授已在ATF的安排下潜逃至国外生活，信中亦给与叶婷调查生父秘密的线索。叶婷根据王教授的线索调查，赫然发现志敖竟与惊鸟的相关人仕暗中会面，令叶婷对志敖起疑。
+
+叶婷发现　伤重有正
+
+叶婷到内地探望有正，原来在有正被杀当晚，叶婷独自折返现场找寻有正的尸体，发现有正中枪后竟然还有气息，通知骇客朋友帮忙偷运有正到内地秘密接受治疗。
+
+日嘉应有杰邀请与淑芬一起外出用膳，这时却适逢礼谦到日嘉的住处拜访。日嘉因为早前礼谦嫌弃有正出身一事余怒未消，一口拒绝了礼谦的邀请，而有杰亦支持日嘉的决定。
+
+有杰坦白　心中爱意
+
+淑芬因家中有事未有出席，因此有杰便与日嘉两人共晋晚餐，日嘉因为遇上礼谦，不禁勾起了不快回忆而不断喝酒宣泄。有杰为了让她回复精神便邀请她到舞池共舞，更在浪漫气氛的带动下与日嘉表白。
+
+有正得知志敖与惊鸟有关系后，便决心回港调查事件的真相。叶婷虽然担心但亦安排有正返回香港。骇客得知叶婷打算送有正回港后，一直担心会惹祸上身。
+
+有正生还　众人激动
+
+有正在叶婷的安排下偷渡回港后，便扮作在郊野昏倒，让行山人士发现报警。ATF收到有正未死的消息便即时赶到医院探望，有杰得知兄长死而复生，感到日嘉将再次离开自己。
+
+乐敏在ATF的内奸口中得知有正尚在人世的情报，令得知此事的剑亨大为震惊，乐敏直指出叶婷出卖组织，但剑亨却不相信。
+
+有杰不满　志敖决定
+
+有正出院后，便马上回到ATF重返岗位，高威对有正的事感到相当好奇，但有正为了帮叶婷保守秘密，便决定编故事以隐瞒自己得救的真相。
+
+志敖经过内部调查后，亦成功回到ATF继续担任指挥。志敖得知有正未死，便要求有正转到总部的医疗中心进行治疗并加以详细调查，想不到因此引起了有杰的不满，自此志敖与有杰之间的关系开始恶化。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj叛逃ep17_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

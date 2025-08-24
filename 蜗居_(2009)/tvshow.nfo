@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 21:34:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>蜗居</title>
+  <originaltitle>蜗居</originaltitle>
+  <showtitle>蜗居</showtitle>
+  <sorttitle/>
+  <year>2009</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>6.3</value>
+      <votes>6</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>苏淳与郭海萍（海清 饰）夫妻感情甚笃，但因钱少难以在江州买房，只得暂住弄堂。海萍极力想改变困境，但苦于房价压力，即使产下一女，也只得送回家乡由父母代为抚养。海萍的妹妹海藻（李念 饰）大学毕业后，与公司职员小贝（文章 饰）相恋，两人也感受到攒钱买房的辛酸。因为工作关系，海藻结识了市长秘书宋思明（张嘉译 饰），后者对她一见倾心，并多次帮助海藻及其姐脱离困境。海藻为了报答，跟他有染，一发而不可收拾。期间，海萍曾多次劝说海藻，不要辜负小贝的一片痴情，但是海藻为了帮助姐姐达成心愿，还是委身于宋思明，做了他的小3。后来，东窗事发后，宋思明的妻子（邬君梅 饰）前来跟海藻示威，咄咄逼人，海藻倍感屈辱。当晚，宋思明前来安慰海藻，然而二人亲密的情景却偏偏被小贝逮了正着……
+
+本片根据女作家六六的同名小说《蜗居》改编。</plot>
+  <tagline/>
+  <runtime>40</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"78510","imdb":"tt1557776","wikidata":"Q704180","tvdb":"133071"}</episodeguide>
+  <id>133071</id>
+  <imdbid>tt1557776</imdbid>
+  <tmdbid>78510</tmdbid>
+  <uniqueid default="false" type="tmdb">78510</uniqueid>
+  <uniqueid default="false" type="imdb">tt1557776</uniqueid>
+  <uniqueid default="false" type="wikidata">Q704180</uniqueid>
+  <uniqueid default="true" type="tvdb">133071</uniqueid>
+  <premiered>2009-05-11</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Family</genre>
+  <genre>Drama</genre>
+  <studio>SMG Pictures</studio>
+  <country>中国</country>
+  <actor>
+    <name>海清</name>
+    <role>Guo Haiping</role>
+    <profile>https://www.themoviedb.org/person/1018563</profile>
+    <tmdbid>1018563</tmdbid>
+  </actor>
+  <actor>
+    <name>张嘉益</name>
+    <role>Song Siming</role>
+    <profile>https://www.themoviedb.org/person/107775</profile>
+    <tmdbid>107775</tmdbid>
+  </actor>
+  <actor>
+    <name>李念</name>
+    <role>Guo Haizao</role>
+    <profile>https://www.themoviedb.org/person/2166987</profile>
+    <tmdbid>2166987</tmdbid>
+  </actor>
+  <actor>
+    <name>文章</name>
+    <role>Xiao Bei</role>
+    <profile>https://www.themoviedb.org/person/572084</profile>
+    <tmdbid>572084</tmdbid>
+  </actor>
+  <actor>
+    <name>邬君梅</name>
+    <role>Mrs. Song</role>
+    <profile>https://www.themoviedb.org/person/69033</profile>
+    <tmdbid>69033</tmdbid>
+  </actor>
+  <actor>
+    <name>郝平</name>
+    <role>Su Chun</role>
+    <profile>https://www.themoviedb.org/person/1079120</profile>
+    <tmdbid>1079120</tmdbid>
+  </actor>
+  <actor>
+    <name>曹翠芬</name>
+    <role>Haizao's Mother</role>
+    <profile>https://www.themoviedb.org/person/64988</profile>
+    <tmdbid>64988</tmdbid>
+  </actor>
+  <actor>
+    <name>储旭</name>
+    <role>Song Tingting</role>
+    <profile>https://www.themoviedb.org/person/4939846</profile>
+    <tmdbid>4939846</tmdbid>
+  </actor>
+  <actor>
+    <name>冯嘉怡</name>
+    <role>Chen Sifu</role>
+    <profile>https://www.themoviedb.org/person/1613707</profile>
+    <tmdbid>1613707</tmdbid>
+  </actor>
+  <actor>
+    <name>朱亚英</name>
+    <role>Auntie Xu</role>
+    <profile>https://www.themoviedb.org/person/2194265</profile>
+    <tmdbid>2194265</tmdbid>
+  </actor>
+  <actor>
+    <name>吴玉芳</name>
+    <role>Xu Li</role>
+    <profile>https://www.themoviedb.org/person/1416513</profile>
+    <tmdbid>1416513</tmdbid>
+  </actor>
+  <actor>
+    <name>陈奇</name>
+    <role>Old Lady Li</role>
+    <profile>https://www.themoviedb.org/person/3507723</profile>
+    <tmdbid>3507723</tmdbid>
+  </actor>
+  <actor>
+    <name>曹毅</name>
+    <role>Lao Chen</role>
+    <profile>https://www.themoviedb.org/person/3796131</profile>
+    <tmdbid>3796131</tmdbid>
+  </actor>
+  <actor>
+    <name>郑铮</name>
+    <role>Sun Li</role>
+    <profile>https://www.themoviedb.org/person/3893262</profile>
+    <tmdbid>3893262</tmdbid>
+  </actor>
+  <actor>
+    <name>史龙天</name>
+    <role>Mark</role>
+    <profile>https://www.themoviedb.org/person/4939860</profile>
+    <tmdbid>4939860</tmdbid>
+  </actor>
+  <actor>
+    <name>铃木美妃</name>
+    <role>Zhengxiong's Mother</role>
+    <profile>https://www.themoviedb.org/person/3234572</profile>
+    <tmdbid>3234572</tmdbid>
+  </actor>
+  <actor>
+    <name>韩姝妹</name>
+    <role>Mrs. Wang</role>
+    <profile>https://www.themoviedb.org/person/2961542</profile>
+    <tmdbid>2961542</tmdbid>
+  </actor>
+  <actor>
+    <name>胡荣华</name>
+    <role>Secretary Sun</role>
+    <profile>https://www.themoviedb.org/person/3843550</profile>
+    <tmdbid>3843550</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-08-22 22:28:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>天宝被鹤亭陷害</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>食为奴</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>4802732</id>
+  <uniqueid default="false" type="tmdb">2302241</uniqueid>
+  <uniqueid default="false" type="trakt">1265133</uniqueid>
+  <uniqueid default="true" type="tvdb">4802732</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>天宝成功将中毒昏迷的胤禛带回贝勒府，经此大难后，两人之间的友谊亦因此加深。慕雪因吃下了「七色菇」煮成的药而药到病除回复健康，但是慕雪却误会了「七色菇」是由胤禩所赠，更因此对胤禩更为倾心。
+
+天宝回宫后为了报答胤禛的救命之恩，便亲自为胤禛的母亲德妃制作御膳，令德妃再不用为膳食的问题而要贿赂鹤亭。
+
+胤禛出手　救助天宝
+
+鹤亭知道天宝断自己财路后大怒，便在天宝所煮的菜中做手脚令德妃食物中毒。为了德妃食物中毒一事，德胜特意到御茶膳房向天宝追究责任，天宝心知自己被人陷害，但为了不让其他人因自己与鹤亭的恩怨而受罚，便毅然决定独自承担所有罪名。
+
+胤禛刚办好公事回宫，便得知天宝因为犯事而被重打五十大板，胤禛登时大怒并且决定追究责任。终查出是御茶膳房的两名小厨被鹤亭强迫在天宝的菜式中做手脚。
+
+为助天宝　答应约会
+
+胤禛本想处罚该两名小厨但却被天宝阻止，两名小厨因此相当感激天宝，自此与天宝站在同一阵线。
+
+若碧派下人到宫中邀请小鱼外出约会，小鱼为了撮合天宝和若碧，便带天宝一同出席。天宝和若碧因为均对食物的知识都相当渊博，故此两人谈得相当投契。天宝等人却遇到有满族子弟骚扰，原来他们因不满康熙施政而在京城闹事。幸好最后小鱼出手相助，才能令若碧等人成功逃走。
+
+城中混乱　康熙烦恼
+
+满族子弟在城中捣乱一事传到康熙耳中，故此康熙便派遣胤禩与一众满族子弟谈判。但想不到满族子弟竟然完全不将胤禩放在眼内，并安排人马穿着丧服向胤禩施压，令胤禩无功而还，康熙知道胤禩失败后龙颜大怒。
+
+看见皇上心情恶劣，鹤亭为了避重就轻，决定将康熙的御膳交给天宝负责，而天宝及小鱼合力烹调的御膳甚得康熙喜爱，两人也因此受到礼遇。
+
+胤禛眼见满族子弟目中无人，为了完成满汉归心的大业，胤禛向康熙提议施行新政，以强硬手段对付一众满族子弟，康熙听后便将此任务交给胤禛。
+
+铁腕镇暴　上阵决斗
+
+当胤禛的新政策推出后，却即时惹起满族子弟不满，胤禩也担心胤禛此举会引起京城混乱，但原来此事早已在康熙的掌握之中，指示胤禛施行新政的目的，只为将胤禛当成满汉政治的牺牲品。
+
+满族子弟在京城生事并打算冲击紫禁城，胤禛闻言后便与冯鹰等手下阻止满族子弟闹事，而胤禛为了平息事件更提出与满族子弟的首领决斗。… ...</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-08-22 21:33:42</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2655</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Ep09_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
