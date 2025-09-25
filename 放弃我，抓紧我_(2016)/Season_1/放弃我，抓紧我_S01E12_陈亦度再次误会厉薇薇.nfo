@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>陈亦度再次误会厉薇薇</title>
+  <originaltitle>陈亦度再次误会厉薇薇</originaltitle>
+  <showtitle>放弃我，抓紧我</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>5877046</id>
+  <uniqueid default="false" type="tmdb">1247038</uniqueid>
+  <uniqueid default="false" type="trakt">2432527</uniqueid>
+  <uniqueid default="true" type="tvdb">5877046</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>这日，向陈亦度公司订过一批婚纱的精品店老板借口被毒婚纱事件所累导致销售困难，要求陈亦度赔偿损失，陈亦度以自己的名誉担保货品质量绝无问题，但精品店老板不依不饶。莫凡突然出现，他一针见血指出对方的精品店资金出了问题即将面临破产，所以正在四处找钱，莫凡又以启智投资的CEO及陈亦度的哥哥的双重身份告诉精品店老板，他提出的高级礼服租赁的融资计划已经被彻底否决。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2719</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>J2.Stay.With.Me.Ep12.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 16 集</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>宠物情缘</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>7480284</id>
+  <uniqueid default="false" type="tmdb">2001436</uniqueid>
+  <uniqueid default="false" type="trakt">3823861</uniqueid>
+  <uniqueid default="true" type="tvdb">7480284</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>珊对硕仍感不舍，遂与Ken分手。另一边于影楼内，朗与硕边看照片边致电珊，惜一直没有回应。Ken为寻求分手真相找朗，朗始知二人分手，担心珊。另一方面，硕在街上偶遇珊，见珊失落，买雪糕逗之，珊却无意中跌下与硕之婚纱合照。男和敏继续网上传情，敏见铁面王子对自己忽冷忽热，忐忑不安，男亦希望与敏再作发展，再约敏见面。当敏知道男就是铁面王子时，当堂晴天霹雳，不能接受。珊回公司向Ken辞职，被Ken挽留，Ken庆幸得回好拍档。朗见珊心情好转，送上已预备之结婚礼物，珊看着硕之婚纱照和朗送的相架，不禁思潮起伏。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1080</height>
+        <durationinseconds>1368</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 宠物情缘 Ep16 2016 05 25_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj 宠物情缘 2016 05 25 qsv av1</title>
+  <originaltitle/>
+  <showtitle>宠物情缘</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1080</height>
+        <durationinseconds>1368</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 宠物情缘 Ep16 2016 05 25_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

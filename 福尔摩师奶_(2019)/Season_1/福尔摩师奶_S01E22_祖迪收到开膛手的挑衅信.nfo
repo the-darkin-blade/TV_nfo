@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>祖迪收到开膛手的挑衅信</title>
+  <originaltitle>Episode 22</originaltitle>
+  <showtitle>福尔摩师奶</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1727805</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>百川掳走素嘉，众人连夜寻找，发现素嘉昏倒在沙滩，百川失踪。祖迪着晓尧跟随一同过新生活，二人终于重新接纳对方。妹娣与众街坊欢送祖迪，独与一夫缘悭一面。菲腊重创王烈、熊财两帮势力，王烈往找一夫算帐。一日，祖迪收到开膛手的挑衅信，街坊人心惶惶。菲腊到油麻地主持供电仪式，突然有人挟持街坊，幸得「燕子侠」救回人质，德英怀疑一夫出手相救。谷琪看穿妹娣着紧德英，鼓励德英提亲。德英联想起百川失踪的重要线索……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2646</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>TVBOXNOW 福爾摩師奶 EP22_H265.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>老鸨来李家讨债，阿四为李玉庵解围</title>
+  <originaltitle>老鸨来李家讨债，阿四为李玉庵解围</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>38</episode>
+  <id>4938216</id>
+  <uniqueid default="false" type="tmdb">2728581</uniqueid>
+  <uniqueid default="false" type="trakt">1306652</uniqueid>
+  <uniqueid default="true" type="tvdb">4938216</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>妓院老鸨找进李家，说三老爷这一向都把嫖账都记到制造局，已经有两万块了，她来要账，不给钱就不走。老丁把状告到了阿四面前。阿四让老丁把钱给了老鸨。阿四当众拿出妓院的账单，给了李玉庵难堪。李重甲隐隐感到李玉庵与“李重光”矛盾激化，准备坐收渔利。八月节，李家一家吃饭前，李玉庵借着家里公帐上一笔钱的下落，忽然向阿四发难。阿四不肯解释账目。曹氏替阿四出头，被李玉庵喝开－－你没少往娘家倒腾钱。许氏站到了李玉庵一边。李玉庵继续发飙，之所以不明不白转走钱，是因为眼前这个大少爷干脆是假的！并又当众拿出阿四香港车夫身份证明。区舒云发话，重光是假的，不光是车夫，还是革命党，连我也是，我爹也是，三叔缺钱就说缺钱，故事别编得跟铁山一样……一番话把李玉庵说成讹钱老纨绔，全家觉得李玉庵瞎搅事。李玉庵对巡抚千金还是有点怵，说大少奶奶也是被人蒙的。区舒云说那我肚子里的孩子也是被人蒙的？！－－大少奶奶竟然怀孕了，李家要有第四代了！老太太终于出来弹压李玉庵，说公中那笔钱是重光和我商量过的，做投资留后路，不想跟你们说；大少奶奶有了喜就好好保胎。曹三德偷偷回到李家与曹氏和私下议论重光到底是真是假，结论是不管真假，区巡抚都要认，总督也要认，铁山也要认，李家也要认，所以要力挺阿四。李老太太给了李玉庵一笔私房钱，要他别听信谗言被人利用。区巡抚听说女儿怀孕，大喜，来到李家道喜。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep38_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="38" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

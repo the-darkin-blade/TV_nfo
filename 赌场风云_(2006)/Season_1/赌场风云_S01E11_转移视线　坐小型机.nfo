@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>转移视线　坐小型机</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>1623541</id>
+  <uniqueid default="false" type="tmdb">1992287</uniqueid>
+  <uniqueid default="false" type="trakt">1576532</uniqueid>
+  <uniqueid default="true" type="tvdb">1623541</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>欢畅终赶及将青云带离赌场，青云自责赌性难改，欢畅安慰她说自己也需一年才成功戒赌。欢畅更提议青云尝试做别样事情来忘记赌博，青云竟说出想坐小型飞机，但因欢畅畏高而拒绝。欢畅带青云到游乐场玩，又陪她看星星至深夜，可惜在青云眼中只变轮盘等赌具，欢畅只好要求正初陪青云坐小型飞机。赌场又出现老千党，更发现有荷官合谋串通。正初托欢畅帮忙时，却又有另一帮老千出现，其幕后主使人高名更要求与正初见面。高名欲与正初进行赌局，遭正初拒绝。欢畅、青云与正初前往小型飞机场途中，众人始知青云变成病态赌徒的原因。青云担心正初出意外，激动得拥着正初，更情不自禁的吻他。珠美参选百家乐小姐当天看不见父亲到场支持，感失望之余，被其他佳丽弄跌上衣，以至裸露人前。珠美羞愧得无地自容，躲在一旁痛哭，幸父亲一木前来开解才令她破涕为笑。青云不想离开菲律宾，欢畅明白她心思劝她不要有期望。青云终鼓起勇气约会正初，更说出全因正初鼓励，自己才有勇气面对父母之死，而正初亦发觉眼前的女子也有可爱真诚的一面。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2691</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep11.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

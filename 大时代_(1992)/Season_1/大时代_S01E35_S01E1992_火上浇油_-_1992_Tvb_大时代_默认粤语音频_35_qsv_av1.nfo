@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>火上浇油</title>
+  <originaltitle>Episode 35</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id>2399181</id>
+  <uniqueid default="false" type="tmdb">1460723</uniqueid>
+  <uniqueid default="false" type="trakt">1435932</uniqueid>
+  <uniqueid default="true" type="tvdb">2399181</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>展博想要回香港，阮梅和纪文都不希望他回去，展博只好骗她们出门买东西，穿上阮梅和纪文各一只拖鞋，然后自己偷偷上飞机回香港。 丁蟹在期货上赢了四亿。他跑去找陈万贤吃饭，感谢他帮了自己，但陈万贤在股灾中也亏掉了近1亿。陈万贤再教丁蟹“火上加油”。星期一股市重新开盘，陈滔滔此时的财产已经全部压在五蟹集团，丁蟹要打击陈滔滔打压五蟹集团的股价，把股价压到1毛钱，陈滔滔破产。当天恒生指数又跌一千多点，丁蟹在一天之内赚了二十亿。展博把玲姐从医院带走。陈滔滔不停的讲着笑话……</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1078</height>
+        <durationinseconds>1405</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.35_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 35 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1078</height>
+        <durationinseconds>1405</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.35_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

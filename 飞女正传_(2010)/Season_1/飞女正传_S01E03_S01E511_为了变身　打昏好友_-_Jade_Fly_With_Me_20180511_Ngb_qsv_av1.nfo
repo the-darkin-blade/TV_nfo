@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>为了变身　打昏好友</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>2135441</id>
+  <uniqueid default="false" type="tmdb">569222</uniqueid>
+  <uniqueid default="false" type="trakt">577891</uniqueid>
+  <uniqueid default="true" type="tvdb">2135441</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>巧芝与众家人齐齐坐在警署中，听探员向他们报告整件案件来龙去脉；原来自振强失踪后，警方一直守护巧芝，而浩然亦是其中的一分子；当巧芝听到浩然除了是位总督察，更是警队中的精英后，便对他的好感大增，更希望想取得浩然的联络，可惜却事与愿违。当众人离开警署时，巧芝收到昆叔的来电，说容氏集团主席容伯驹的儿子文礼已回港，众人更在今天替他开欢迎会……  飞天美人　闯进宴会  巧芝不想文礼落入晓琳的「美色」魔掌，决定要变身赴宴；为了能与男性亲吻变身，她竟不惜打将永晖打晕。想不到巧芝赶往宴会途中，竟在半空发现能力减退，最后更跌在马路中心，差点便被明轩撞倒；身为医生的明轩要求带巧芝到医院检查，当有富到医院接巧芝时，他向巧芝说出明轩就是他们的邻居，而巧芝亦回忆起她与家人吃饭时，曾有印象他们想介绍这位医生给自己认识……巧芝为表歉意与永晖一齐按摩，更发现原来他的肾脏功能不太好；巧芝与网上专家讨论，发现她所亲吻男性的精壮程度，可能直接影响她变身的能量及时间。巧芝收到消息文礼的宴会改期举行，于是再次打昏永晖……在飞往宴会途中，巧芝的衣服竟被打劫珠宝行的歹徒射穿；愤怒不已的她独力对抗珠宝劫匪，将他们收拾后便赶往重购新衣服。巧芝以超级美女的外表直闯入文礼的派对中，而众经理看到她的美貌后不但没有阻止她，更纷纷向她美言，但巧芝却借机将他们斥责一番；当巧芝发觉文礼与晓琳已一起离开后，急得立即起飞追赶。飞行途中能量耗尽的巧芝跌进了地盘，更发出轰然巨响；正在驾车中的明轩受到影响，更把车子直撞入地盘内……巧芝伤愈回总公司上班，竟发现一众女同事的服饰竟变得沉实老套，原来这是晓琳的指令……  巧芝得悉　明轩往事  巧芝在公司内悄悄变身教训晓琳，但却因此影响到大楼电梯，最后更令文礼被困电梯中；巧芝欲帮助文礼离开时却把他弄伤。翌日巧芝回公司时，发现晓琳竟被调职离开投资部，而昆叔向巧芝解释，容氏是分为伯驹的妻子赵凤卿与干儿子颜俊邦两派；巧芝探望文礼时遇上忠良，他指警方从闭路电视看到令文礼受伤的应是一位身材出众的女子。当巧芝终与文礼独处时，晓琳却突然出现……巧芝呆在医院小卖部沉思时，却从护士口中听到明轩的过去，更在晚上发现明轩一脸落寞地坐在医院大堂……</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1319</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E03.20180511.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Fly With Me 20180511 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>511</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1319</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E03.20180511.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="511" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

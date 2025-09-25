@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:31:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>攻入果栏</title>
+  <originaltitle>攻入果欄</originaltitle>
+  <showtitle>飞虎</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>4364382</id>
+  <uniqueid default="false" type="tmdb">865995</uniqueid>
+  <uniqueid default="false" type="trakt">869775</uniqueid>
+  <uniqueid default="true" type="tvdb">4364382</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>飞虎队员耀祖介绍功夫迷陈力恒给瀚韬认识，原来二人早已相识。黑帮秉驹欲霸占果栏地盘，在果栏与力恒父陈兴争执，瀚韬赶至化解危机。慧慧失恋醉倒街头，瀚韬带她回家，惹母亲不满。瀚韬与卓嬅见有女子危站天台欲寻死，但卓嬅营救该女子时，竟指要跟她一起了结生命。芷晴到果栏找力恒，遭秉驹调戏及非礼，力恒赶至打败秉驹手下耀威，但耀威不久伤重身亡，警方追捕力恒。力恒接着发现芷晴被杀悲痛莫名，追杀秉驹，被瀚韬制止。</plot>
+  <runtime>33</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2008</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Tiger.Cubs.Ep.06.20120721.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Tiger Cubs Ep 06 20120721 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>飞虎</showtitle>
+  <season>1</season>
+  <episode>721</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>33</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2008</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Tiger.Cubs.Ep.06.20120721.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="721" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

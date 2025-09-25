@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>永晖提出　追求飞女</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>2309571</id>
+  <uniqueid default="false" type="tmdb">569240</uniqueid>
+  <uniqueid default="false" type="trakt">577908</uniqueid>
+  <uniqueid default="true" type="tvdb">2309571</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>永晖与Janet Bin见面，更送出大量首饰给Janet Bin；看到这些价值不菲的厚礼，Janet Bin竟然全数收下，而永晖更向她说出，不再对巧芝有兴趣，替她还赌债只是尽朋友之义，而他更认为Janet Bin更适合自己。巧芝回到家中，指责镜中的Janet Bin为何丢下明轩在布吉不顾而去；而当两人争执之际，电视竟播放特别新闻，指在布吉发现了没有出入境证明的明轩……
+
+巧芝教路　讨好飞女
+
+晓琳成为永晖的助理，亦一直与他维持肉体关系；晓琳欲向永晖抹黑巧芝，但反被他指责。当永晖与晓琳出外吃饭时，却看到巧芝与明轩一起……巧芝约明轩吃饭，是向明轩分析Janet Bin不满他的理由，而明轩亦答允尽力补救；当巧芝在有富的小卖部与他倾谈时，刚好看到明轩在电视上公开向Janet Bin道歉。巧芝到了明轩约会Janet Bin的地点，只见他拿着一个名店蛋糕……巧芝看见后直斥明轩不够诚意，更指如要向Janet Bin道歉便要多花心思，更要他亲手制作蛋糕，及将约会地点布置得浪漫。当巧芝变身为Janet Bin，准备与明轩约会时，永晖突然致电给她，指自己正于家中举行晚会，欲邀请她参加；想不到Janet Bin竟然放弃与明轩见面，直飞往永晖的家。Janet Bin与容氏众人在永晖的大宅中喝至通宵达旦，而当剩下永晖与Janet Bin独对时，永晖向她说出自己的心底话。巧芝变回原形后，得知昨天晚上气温极寒冷，因此担心明轩一直在约会的天台没有离开；赶到天台的巧芝，发现明轩已冻至昏迷……而昏迷中的明轩，却隐约发现是Janet Bin抱他飞往医院，不禁露出高兴的笑容。巧芝忍无可忍与Janet Bin争执，而巧芝更欲提点永晖，但晓琳却借意挑衅她，更指她已用尽方法不让其他女性接近永晖，即使是巧芝与Janet Bin亦不可能胜过她……
+
+美诗绰雅　成立联盟
+
+晓琳发觉自己已没法控制永晖，于是把永晖胡乱花钱的证据托人转交凤卿。凤卿突然出现在会议上，指责永晖公器私用，用集团金钱追求Janet Bin……永晖顺利把问题解决，更把出卖自己的晓琳辞退；落泊不已的晓琳眼前，突然看到美诗出现。巧芝探望明轩，更发觉他宁愿说谎也替Janet Bin说尽好话，令巧芝内疚不已……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1326</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E20.20180606.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Fly With Me 20180606 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>606</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1326</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E20.20180606.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="606" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

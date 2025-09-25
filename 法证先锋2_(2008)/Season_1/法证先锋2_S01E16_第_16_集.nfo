@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 16 集</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>法证先锋2</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>1318401</id>
+  <uniqueid default="false" type="tmdb">1830838</uniqueid>
+  <uniqueid default="false" type="trakt">1633114</uniqueid>
+  <uniqueid default="true" type="tvdb">1318401</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>琛知升欲追求英。码头发现尸体，死者何广福被人从后割喉致死，皮屑DNA是与杀琪凶手相同，英从推测到凶手可能是诊所职员，怀疑怀疑忠可能是变态杀手。雄得悉忠在短时间内丧失妻女，更成功找出令他开口作供的方法。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1868</width>
+        <height>1080</height>
+        <durationinseconds>2679</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.Ii.E16.Hdtv.1080I.H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

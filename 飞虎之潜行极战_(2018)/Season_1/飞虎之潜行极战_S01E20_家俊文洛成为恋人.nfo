@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:09:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>家俊文洛成为恋人</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>飞虎之潜行极战</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>6639159</id>
+  <uniqueid default="false" type="tmdb">1485196</uniqueid>
+  <uniqueid default="false" type="trakt">2996141</uniqueid>
+  <uniqueid default="true" type="tvdb">6639159</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>聂宇航提醒高家俊小心被利用，师徒矛盾愈加激烈。凌文洛终于向高家俊吐露心声，双方关系更进一步。高逸泰表示只要保证妻子安全，会全力协助警方。聂宇航要高家朗勿忘自己警察身分，高家朗想起往事，百般滋味。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shaw Brothers</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2631</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Flying.Tiger.2018.E20.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

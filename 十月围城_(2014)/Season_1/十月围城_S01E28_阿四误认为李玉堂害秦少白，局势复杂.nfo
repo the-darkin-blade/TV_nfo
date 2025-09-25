@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿四误认为李玉堂害秦少白，局势复杂</title>
+  <originaltitle>阿四误认为李玉堂害秦少白，局势复杂</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id>4938206</id>
+  <uniqueid default="false" type="tmdb">2728571</uniqueid>
+  <uniqueid default="false" type="trakt">1306421</uniqueid>
+  <uniqueid default="true" type="tvdb">4938206</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>阿四真以为是李玉堂害了秦少白。阿四觉得李玉堂太残忍，阿四问李玉堂有没有办法可想救救秦少白，他毕竟是李重光最好的朋友，我要是李重光，一定会救秦少白！李玉堂彻底沉默，因为他的确救不了秦少白，他痛感自己的软弱，他对不起死去的儿子！铁山和区巡抚连夜审讯秦少白，铁山想让秦少白咬出李玉堂，秦少白破口大骂，说李玉堂耍奸暗害自己。又问到李重光，秦少白把阿四的身份掩饰得好好的。铁山虽然疑心区巡抚事先与秦少白串了供，但毕竟已经动了酷刑，仍然问不出自己想要的口供。区舒云潜入区府，逼赵总管偷了父亲的印信，入大牢见到秦少白，正准备救走秦少白时，区巡抚来了－－三人六目相对，区舒云看着遍体鳞伤的少白，伤心欲绝。区巡抚态度坦然，自己当官， 跟革命党原本得过且过， 之所以要抓要杀秦少白，只因为女儿喜欢他，为了他不要命，也不要老爹的命，女儿越喜欢他自己就越得杀他，希望二人都能理解。区舒云知道爹决心已下，哭求无用，正是自己害死了秦少白。秦少白心里五味杂陈，区舒云虽害了自己，可又让他感动。区巡抚让人端上酒来，敬秦少白是条好汉，敬女儿一片痴情，你们俩也喝个交杯酒，就此别过吧。区舒云哭倒在地。第二天一大早，丫鬟桃红跑回区府，说小姐被姑爷给捆了关起来了！这时阿四来了，黑着脸甩出一份休书，说区舒云和秦少白婚前就有私情，李区两门都被她累死，坚持退婚。区巡抚只得劝阿四，并派赵总管亲自把阿四送回李家。区舒云与阿四打架的事在李家传开了，徐氏幸灾乐祸，曹氏很恼怒 。李重甲怀疑阿四和区舒云的双簧，疑心他们要救秦少白。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2655</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep28_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

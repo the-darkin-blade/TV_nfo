@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>生无可恋　贵人相扶</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>1623441</id>
+  <uniqueid default="false" type="tmdb">1992250</uniqueid>
+  <uniqueid default="false" type="trakt">1576504</uniqueid>
+  <uniqueid default="true" type="tvdb">1623441</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在一九九六年的菲律宾，香港人齐欢畅潦倒在这异地，每天过着亳无意义的流浪日子。自暴自弃的他却在偶然下救了同是孤身在此的周福荣，天性热心助人的福荣收留了欢畅，更替他不断偿还赌债，欲令他回服自信。半年过去了，欢畅仍是依然故我，更输掉了福荣的一万美金。福荣与欢畅理论要他振作，可惜欢畅仍执迷不悔。欢畅欲逃离福荣追问之际，却发现福荣被人捉去，欢畅死命追踪，竟遇上十年前「世界扑克王大赛」的对手乔正初，原来他就是一万美金的债主。为避免正初将福荣右手废掉，欢畅自愿交出护照，直至将债务还清。原来，这一切都是福荣与正初这对好朋友的计划。时光飞逝，又十年过去了，到了今天，正初已成为了赌场的CEO、福荣则是渡假村的经理，至于欢畅，成为了一个与世无争的园丁。这天福荣来机场接一批客人到赌场耍乐，客人中有一位李青云，她除了特意带来大批「水货」卖给本地人外，原来此次赴菲，也是为了一个「赌」字。另一边厢，欢畅除了园丁的身分外，他亦兼任了「赌场黑气石」，以霉运对付客人。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2684</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep01.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

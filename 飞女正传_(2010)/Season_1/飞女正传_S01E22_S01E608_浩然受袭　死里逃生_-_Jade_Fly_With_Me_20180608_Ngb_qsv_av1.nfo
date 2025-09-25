@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>浩然受袭　死里逃生</title>
+  <originaltitle>Episode 22</originaltitle>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>2309591</id>
+  <uniqueid default="false" type="tmdb">569243</uniqueid>
+  <uniqueid default="false" type="trakt">577910</uniqueid>
+  <uniqueid default="true" type="tvdb">2309591</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>巧芝因得到明轩做人工呼吸而变身的Janet Bin，特意假扮巧芝约浩然见面，原来她不希望自己的缺点泄露，于是欲把浩然置诸死地……福大命大的浩然逃过大难，而他竟不顾自己安危，特意找前下属帮忙希望能约见警队高层将Janet Bin的弱点公开，但却发现旧下属全被投闲置散，没有办法帮助他……永晖代伯驹接凤卿出院，但想不到回到家中，却看到Janet Bin与伯驹言谈甚欢。
+
+巧芝远走　家人担心
+
+永晖发现Janet Bin高调地在伯驹前提及两人的情侣关系，而伯驹更指已经替四处飞行居无定所的Janet Bin在家中预留了房间，希望能增加她与永晖相处的时间。Janet Bin正式入住容家，看到快可达到嫁入豪门的心愿，兴奋不已的Janet Bin向不能动弹的凤卿说出，自己欲侵占容家的计划另一方面，梁家众人发现巧芝留书离开香港，更叫众人不要寻找她，令身为父亲的国昌伤心不已。为了能让自己不会变回巧芝，Janet Bin只有不断在永晖身旁出现，更不时当众与他亲吻；而为了能长时间变身，更要永晖吃下鸡子等食物补身……伯驹再次找永晖晨运，他更向永晖说出，发现Janet Bin原来很了解容氏集团的运作，于是决定让她加入，要她协助永晖。当Janet Bin成为投资部的高层后，三位「咸湿经理」决定收敛装回好人，但Janet Bin却已为他们准备了最大的惩罚……三位经理得知Janet Bin的决定，不禁向永晖打小报告要求他的协助；永晖决定把Janet Bin调任成为德国汉堡的CEO，但Janet Bin却成功借伯驹的帮助将此事化解。坊间突现出现一位「巴西预言大师」，他更预言香港将会遇到劫难；想不到香港真的在一天之内遇上银行挤提、熊猫袭人、明星丑闻等事，而预言大师更指这一切均因为「凶星」Janet Bin而引起的。
+
+明轩变身　搵钱专家
+
+原来对付Janet Bin的一切都是美诗与晓琳的「反Janet Bin联盟」精心策划的成果。伯驹主动与永晖见面，更要求他早日与Janet Bin结婚。为了洗脱自己的负面形象，Janet Bin竟与明轩合作，成为「相学美容」的代言人，明轩更强调Janet Bin是如何成功及完美，令在场的永晖与浩然均感到不满……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E22.20180608.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Fly With Me 20180608 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>608</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E22.20180608.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="608" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

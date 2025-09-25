@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>成皇败寇　正初消沈</title>
+  <originaltitle>Episode 28</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id>1623711</id>
+  <uniqueid default="false" type="tmdb">1992307</uniqueid>
+  <uniqueid default="false" type="trakt">1576569</uniqueid>
+  <uniqueid default="true" type="tvdb">1623711</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>欢畅沉着应战终胜出成为新赌场的荣誉CEO，正初却独自一人借酒愁发泄。欢畅赶到医院探望来富，要小茵代出席庆功，但最后却发觉来富已出院找正初。欢畅以正初名义留言约来富见面，来富欣喜赶至，却发现竟是欢畅不禁失望。欢畅失望向青云倾诉自己虽胜出比赛，但却输掉弟弟之事。正初失踪了两星期，福荣觉留在赌场工作也没意思，决定辞职回港。欢畅到菲律宾找来富，希望他能转到小茵赌场工作，来富拒绝更不明欢畅何以这么快便原谅自己，欢畅表示因是亲兄弟，最后福荣与欢畅一同离开菲律宾。正初原来一直躲在国权的私人俱乐部赌钱，更欠下二千万赌债。青云在小食店外遇上正初，发现潦倒的他连十多元也没有。正初终按奈不住，说出当初不是为救青云，也不会出千，亦不会沦落至此。青云终明白正初仍深爱自己，不知应否向欢畅坦白。青云忍不住向欢畅说出正初之事，令欢畅明白一切皆因正初要保护青云。欢畅与福荣往找正初，正初误以为欢畅向自己示威，最后迫得欢畅以激将法令正初回复信心。正初无力还钱，却因知国权欲打入上流社会成为名人，主动与国权合作将地下赌场变成正式赌场。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2687</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep28.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

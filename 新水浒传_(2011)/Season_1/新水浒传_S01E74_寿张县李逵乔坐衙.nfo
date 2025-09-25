@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>寿张县李逵乔坐衙</title>
+  <originaltitle>寿张县李逵乔坐衙</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>74</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026691</uniqueid>
+  <uniqueid default="false" type="trakt">7308177</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>摆下擂台的任原仗着当地官府的帮衬，三番五次地侮辱梁山威名，势要跟梁山好汉决一雌雄，然而燕青却迟迟不现身。李逵气不过，多次想要教训那嚣张的任原，却屡屡被燕青以顾全大局而阻止了。这更是助涨了任原和当地官府的气焰，面对越来越不可一世的任原等人，燕青先是借逛庙会将做事鲁莽的李逵灌醉，后自行一人前去打擂，谙熟摔跤的燕青战胜了任原，李逵也酒醒前来，两人虽立了大功，却暴露了梁山的身份，招来了官兵的追捕。激战中，两人走散，燕青安全回了梁山，李逵逃到寿张县。在寿张县，李逵吃酒逍遥没了盘缠，恰此时竟遇到了光天化日之下欺负商贩的寿张县令，好打抱不平的李逵自报家门，并为商贩出了恶气，随后决定好人做到底，前往县衙做起官儿来。敬畏梁山黑旋风的乡绅、员外们惹不起李逵，纷纷倾囊招待。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2668</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E74 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="74" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

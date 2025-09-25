@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>对峙</title>
+  <originaltitle>Episode 37</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>37</episode>
+  <id>2399201</id>
+  <uniqueid default="false" type="tmdb">1460725</uniqueid>
+  <uniqueid default="false" type="trakt">1435937</uniqueid>
+  <uniqueid default="true" type="tvdb">2399201</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>丁氏兄弟下了格杀令，只要方展博走出警察局，就一定要杀了他。展博只能住在警察局里。警察去和丁孝蟹谈判，但抓不到他们的把柄，对他们也是无可奈何。龙纪文求父亲去找周济生帮展博，龙成邦要文发誓永远不和展博在一起，留在台湾陪他，如违背誓言就要孤独终生。但周济生听信圣姑的话，怕救展博会折寿，所以始终不答应。阮梅不死心，从周济生写的菜单中看出周济生喜欢吃苏杭菜，于是做了苏杭的点心给周济生送去。周的妻子华姐是杭州人，周济生爱吃苏杭小点也是怀念亡妻。周终被阮梅的诚意感动，并收她当契女。龙成邦摆下宴席，请以前的手下及丁氏兄弟。丁氏兄弟到来，嘲笑龙成邦，说他的时代已经过去。此时，周济生赶到，表明帮展博的立场。而龙成邦请的警局高层人物也到来，丁氏兄弟处于下风。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1564</width>
+        <height>1078</height>
+        <durationinseconds>1415</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.37_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="37" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 37 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1564</width>
+        <height>1078</height>
+        <durationinseconds>1415</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.37_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

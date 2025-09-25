@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 39 集</title>
+  <originaltitle>第 39 集</originaltitle>
+  <showtitle>忽必烈传奇</showtitle>
+  <season>1</season>
+  <episode>39</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2821441</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>忽必烈向刘秉忠等人说起准备建立自己的军队，散而练之、聚而攻之的思想被众人理解。脱列格那离开金莲川后赶往和林，她给忽必烈留下书信，除去海迷失她是有私心的，脱列格那知道此事可能是有去无回，她希望能替忽必烈除去一个敌人。忽必烈看完信后想去和林接回太妃，众人劝说不下……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2644</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Legend.Of.Kublai.Khan.Ep39.720P.Hdtv.X264.2Audio-Hdwtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="39" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

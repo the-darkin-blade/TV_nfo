@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:08:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>景山指責宏宇不是</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>机场特警</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>7654121</id>
+  <uniqueid default="false" type="tmdb">2228902</uniqueid>
+  <uniqueid default="false" type="trakt">4078306</uniqueid>
+  <uniqueid default="true" type="tvdb">7654121</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>凱晴的父母到警署報案，藉機為凱晴物色對象。外籍旅客因闖入禁區被捕，眾特警同情其遭遇。冠聰父親鄔有為因記憶模糊被送往警署，重遇舊部永強，冠聰指有為患上腦退化症。冠聰自責有負於父親，得昊正鼓勵。美茵考獲車牌，打開振赫送贈的禮物卻另有所思。景山赴約與邱博士、宏宇共膳，及後卻指責宏宇不是。景山為超越振赫而衝紅燈，醜事傳回警署。瑞德勸服企跳少女，凱晴對他改觀。容義、昊正發現可疑車輛，車上放滿走私的電子零件。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1308</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Airport.Strikers.E10.2020.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Airport Strikers 2020 Hdctv qsv av1</title>
+  <originaltitle/>
+  <showtitle>机场特警</showtitle>
+  <season>1</season>
+  <episode>2020</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1308</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Airport.Strikers.E10.2020.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2020" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>巧芝偶然　发现异状</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>2251781</id>
+  <uniqueid default="false" type="tmdb">569228</uniqueid>
+  <uniqueid default="false" type="trakt">577895</uniqueid>
+  <uniqueid default="true" type="tvdb">2251781</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>巧芝回到公司后再出外买早餐，竟在电梯中听到有同事在说俊邦的小道消息，指他私下炒卖孖展更欠下巨债；当巧芝买早餐时，更发现有形迹可疑的人士在公司附近出现，令她不自觉地留意他们的对话……公司开会完毕，当俊邦与文礼一起离开时，两人谈到安排在翌日到机场迎接伯驹之事，想不到整天与文礼竞争的俊邦，竟高调说自己明天要到广州开会，更出言拜托文礼负责接机之事；而巧芝把一切看在眼中……  伯驹永晖　同被绑架  晚上巧芝与永晖吃饭时，将自己的发现与永晖分享，她更推断因为俊邦在股票上输了大钱，因此设计欲绑架明天回港的伯驹，亦特意高调在公司说出自己将到广州。永晖听后却不以为然，更取笑她将太多巧合加在一起，巧芝从永晖处听完分析后，却又觉得自己是有点小题大做；同一时间，俊邦与助理私下商量，原来他真的是计划绑架义父，希望得到赎金来偿还欠下的巨债……翌日永晖到机场迎接出外旅游回港的姊姊与姊夫，但因为航班延误而只得在大堂苦候；这时永晖遇上伯驹，伯驹提出一起茶聚而永晖欣然答应，但却想不到已有绑匪跟踪在他们之后……伯驹的助理被打晕，伯驹遭到绑架，凤卿等人决定报警，浩然带着大队人马赶到容家；俊邦回家时后发现有警察守候在家中，心中暗叫不妙；绑匪致电容家勒索一亿元，文礼竟提出由自己负责交赎款。永晖不幸与伯驹同被绑架，但他竟不顾自身安全努力保护伯驹，更惹得绑匪对他动粗；绑匪认为永晖没有利用价值决定把他灭口，这时伯驹竟出言阻止……在公司的巧芝因没法联络到永晖变得心烦不已；这时晓琳突然要求众人留下加班，大家更看到有护卫员把箱子带进会议室，职员们不禁窃窃私语，更推测是否有人遭绑架因此要大家留下加班点钞票，巧芝听后心中一凛……  巧芝出手　弄巧反拙  在浩然的周详安排下，绑匪终于现身；但文礼这时竟不慎把赎金撒得满街都是，更令绑匪与警方枪战。巧芝化身Janet Bin欲协助浩然，结果令犯人受伤昏迷。只受了轻伤的永晖欲探望伯驹，却被文礼等人指责……复职后的永晖发现巧芝不在座位上，更有同事把巧芝所写的信交给他……当巧芝悄悄到美容中心时，竟发觉永晖早已在等候自己；这时咏嘉出现，巧芝只得将一切说出。永晖与姊姊吵翻后竟寄住在巧芝客厅，令她大感不便；浩然到公司向巧芝说出有人闯入她的家，令永晖在同事前公开在她家留宿一事。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1320</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E07.20180517.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Fly With Me 20180517 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>517</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1320</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E07.20180517.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="517" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

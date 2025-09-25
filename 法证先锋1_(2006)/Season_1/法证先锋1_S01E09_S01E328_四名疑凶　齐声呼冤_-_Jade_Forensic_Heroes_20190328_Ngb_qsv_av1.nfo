@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>四名疑凶　齐声呼冤</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>4155076</id>
+  <uniqueid default="false" type="tmdb">1828877</uniqueid>
+  <uniqueid default="false" type="trakt">1489377</uniqueid>
+  <uniqueid default="true" type="tvdb">4155076</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>原来 Sue 的好友 Fanny 暗中与杜少威拍拖。而经检验之后，亦确认案发当日 Fanny 亦曾过案发现场，可是，直至现时为止，仍没有任何证据证明四个疑犯是杀害杜少威的真正凶手……
+
+正当彦博与泽琛为寻找真正凶器而苦恼之际，却在使用扶手电梯之时得到启发，想到杜少威的真正死因，加上 Fanny 的口供，二人更加可以确定杜少威只是死于意外，因失救致死。
+
+小刚一直被小柔保护，所以胆小怕事，所以泽琛打算带他到酒吧消遣，怎料泽琛因事迟到，而小刚则被一妙龄少女兜搭，泽琛到达时，他已被迷晕在后巷中……
+
+小刚在酒吧遇事，被永章误打误撞揭穿，小柔更因此事而迁怒泽琛，与他闹翻。
+
+通渠工人发现骸骨，泽琛以面容重整技术将死者的面容复元；一名自称死者母亲，名叫容婶的人前来报案，声称自己的女儿容慧已失踪两年，可是，彦博等人找到的骸骨，推断已死去四年之久……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E09.20190328.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Forensic Heroes 20190328 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>328</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E09.20190328.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="328" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

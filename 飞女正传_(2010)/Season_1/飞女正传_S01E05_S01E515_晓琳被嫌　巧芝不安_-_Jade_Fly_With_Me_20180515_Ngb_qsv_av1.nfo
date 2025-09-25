@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>晓琳被嫌　巧芝不安</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>2135461</id>
+  <uniqueid default="false" type="tmdb">569225</uniqueid>
+  <uniqueid default="false" type="trakt">577893</uniqueid>
+  <uniqueid default="true" type="tvdb">2135461</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>巧芝与永晖做美容时竟遇上火警，电视采访队更将巧芝被消防员救出的画面播出；看到未施脂粉的样子被全港市民看到，巧芝心中大感羞怯。这时电视突然播出晓琳被警方带离容氏的片段，令巧芝得知晓琳被视作文礼受伤的嫌疑犯。巧芝于心不忍下找浩然欲向他解释，当得知浩然在医院时，巧芝提出去见他。两人见面后，巧芝欲言又止，最后更突然说要到洗手间，不禁令浩然及埋伏一旁的探员感到无奈……  巧芝变身　拯救浩然  巧芝与晓琳在医院洗手间相遇，晓琳看见巧芝后竟胡乱地指责她，令欲向浩然解释晓琳是无辜的巧芝心中有气。当巧芝回到大堂时向浩然打招呼，却令到一班欲到医院拯救同党的歹徒发现警方在场；看见对方人多势众火力强大，浩然只得带着巧芝逃亡。在越过数次枪林弹雨后，浩然要巧芝躲起来，自己引开歹徒；看到浩然将身陷险境，巧芝四出寻找可亲吻的男性……克服心中恐惧的巧芝，变身打倒众歹徒外，更成功救回堕楼的浩然；把一向勇猛无匹的浩然抱在怀中。当巧芝飞远后，只剩下浩然被传媒包围着；「女飞人」之事成为全城热话，新闻记者更向曾受巧芝「帮助」的人访问，但那些人却对巧芝的「义举」毫不欣赏，更指她帮倒忙，亦有老太太直指她是「精甩边」。但想不到「精甩边」这指责，最后竟成为了女飞人称号，成为谐音的「Janet Bin」。浩然出席朋友的婚礼，而因他那俊俏豪迈的样子，令到不少女性都主动上前结识他，不禁令他的女友绰雅大费周章，用尽方法将一众「狂蜂浪蝶」赶走。浩然与绰雅回家时，两人正为少了相处时间而争吵，但这时偏偏有下属向浩然报告有关于巧芝的最新消息。因被姊姊反对到容氏工作的永晖，喝到醉熏熏到了巧芝家，而当永晖到了厕所呕吐时，浩然竟然突然到访，更向巧芝直言，要她解释与女飞人之间的关系……  伯驹永晖　一见如故  永晖第一天到容氏上班，机缘巧合地与伯驹遇上，更替大老板拾回零钱；当伯驹到医院探望文礼时，却因为想以电脑上网，于是任职电脑部的永晖便出差到医院，两人更因此一起吃饭。想不到吃饭时伯驹被不小心的清洁工人撞穿了头，最终幸得永晖输血给他。伯驹正询问永晖的身分时，却遇上文礼苏醒过来。巧芝看到明轩在隔邻被美诗指责他没有认真工作，特借交回垃圾袋而前来慰问他……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E05.20180515.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Fly With Me 20180515 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>515</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E05.20180515.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="515" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

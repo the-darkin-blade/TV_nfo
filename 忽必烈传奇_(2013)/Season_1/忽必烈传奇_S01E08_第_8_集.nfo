@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 8 集</title>
+  <originaltitle>第 8 集</originaltitle>
+  <showtitle>忽必烈传奇</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2821410</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>忽必烈和贴尼在返回途中被汗大妃安排假扮金兵的蒙古人掳走，受伤的特木尔回营后向贵由说出忽必烈和贴尼被金人抓走。忽必烈闯入汗宫质问汗大妃，汗大妃要他杀知道他很多秘密的宝迪后可以见到贴尼，忽必烈同意她的条件。汗大妃设计的阴谋被忽必烈化解，忽必烈求见窝阔台。耶律楚材的计划使忽必烈和贴尼化险为夷。汗大妃建议忽必烈去外面历练，窝阔台同意贴尼留下。贴尼送忽必烈离开，她相信和林最安全。忽必烈此去刑州路过南堂寺，贴尼让他找海云大师见面。忽必烈在南堂寺见到海云大师，忽必烈想请他出山相助，海云大师以年世已高为由，举荐刘秉忠。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2654</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Legend.Of.Kublai.Khan.Ep08.720P.Hdtv.X264.2Audio-Hdwtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

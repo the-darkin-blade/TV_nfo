@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>被骗回港　大发雷霆</title>
+  <originaltitle>Episode 21</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id>1623641</id>
+  <uniqueid default="false" type="tmdb">1992299</uniqueid>
+  <uniqueid default="false" type="trakt">1576554</uniqueid>
+  <uniqueid default="true" type="tvdb">1623641</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>原来青云交给欢畅的不是晕浪丸而是安眠药，最终欢畅发现自己被送回香港。青云往接欢畅，被欢畅责骂后不禁情绪爆发，说出自己孤身在内地突然遇上这么多事情，要冒这么多险实在极辛苦，欢畅听后衷心反省。欢畅匿藏在青云家，终被青云家人发现，尚幸青云家人同心合力照顾欢畅，令欢畅感激不已。欢畅托青云回菲律宾寻回写有小茵电话的杯垫，亦要求青云阻止来富参加大赛。在欢畅的多番哀求下，青云唯有再到菲律宾。珠美送回晚装及推掉约会，成功令维要求主动成为情侣，珠美大喜过望，但仍要求来富陪伴以防遭人戏弄。来富见二人快乐约会，心中不满。青云到达菲律宾后直接到欢畅家，遇上来富阻止不成，但却成功寻获杯垫。欢畅约见茵要她向来富说出一切，茵爽快答应更说可替欢畅脱罪。青云到机场接茵不果，令欢畅心急如焚。在正初的鼓励下来富顺利胜出首回合，青云替来富打气，正初主动接近青云却令她不知所措。高名派妻子一路监视正初，终发觉正初私下派出徒弟参赛。正初向高名解释一切只为赢取外围赌金，要将变成大热门的来富大热倒灶从中获利。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2683</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep21.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

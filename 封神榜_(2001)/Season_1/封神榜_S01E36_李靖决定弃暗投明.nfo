@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李靖决定弃暗投明</title>
+  <originaltitle>Episode 36</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>36</episode>
+  <id>4418962</id>
+  <uniqueid default="false" type="tmdb">2025557</uniqueid>
+  <uniqueid default="false" type="trakt">1484743</uniqueid>
+  <uniqueid default="true" type="tvdb">4418962</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>姬昌安全重返冀州，子牙准备向朝歌进军，整支军队士气高昂，而琵琶则继续以严刑烤问自认为有嫌疑之人士，令朝歌成为大炼狱，更为表忠心，竟把天香裳押至妲己面前逼供，以趸盆威吓她们供出造反之名单、令天香、霓裳伤心欲绝，李靖见琵琶丧心病狂、决投靠子牙大军、共同灭纣。十娘收到李靖之飞鸽传书，开心不已，众人亦为李靖一家要到西歧而高兴万分，子牙即与众人从详计议，誓必要将李请所列名单中人救出，一个也不能漏掉。子牙安排各人兵分多路，而李靖则里应外合，先到牢房救出被扣押之百姓，琵琶知悉，大发雷霆，李靖去意已决，因此不理琵琶反对，双方大打出手，琵琶不敌，以妖术才得以脱身。
+
+哪吒到朝歌上空盘旋，纣王、妲己派哼哈二将对付，惟全部不是哪吒对手，哪吒顺利完成任务，更从琵琶之手救出天香，令十娘众人大为高兴，可惜，哪吒未能于望月亭找到李靖护助李靖离开朝歌，众人担心之际，十娘突想到李靖身在何处，原来李靖自感过去一错再错，误信妖孽，罪无可赦，有愧于列祖列宗，决定一死以赎已罪，十娘、哪吒竭力劝慰。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1048</width>
+        <height>720</height>
+        <durationinseconds>1417</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>36_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="36" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

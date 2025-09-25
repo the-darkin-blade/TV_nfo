@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 35 集</title>
+  <originaltitle>Episode 35</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486689</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>卢杞带朱泚上朝，汾阳王认为朱泚另有野心要拿下，卢杞与汾阳王刚吵几句皇上便要不行了。皇上病重要不行还想着让独孤贵妃，宁国公主没敢告诉皇上独孤贵妃也病重之事。靖澜回到了家里，卢杞命人将靖澜带回房中没有自己的命令不许再私自离府。李益回到上都不过也被卢杞监视起来不准离开府内。纳兰东回到上都后宁国公主告诉了纳兰东皇上是他的生父。纳兰东被突然来的消息震惊的不知如何是好，也不愿相信这个事实。宁国公主告诉纳兰东皇上病重，但他与皇上不能相认否则必遭杀祸。皇上知道了独孤贵妃也不行了终封了贵妃为皇后。皇上不但叫来了纳兰东也叫来了小玉。皇上以要看纳兰东跳舞为由纳兰东才进入到内殿。纳兰东将淑妃的香囊拿给了皇上，皇上也告诉了纳兰东他的生母就是纳兰慈瑞，小玉是他同母异父的妹妹，让纳兰东日后替自己照顾好她们。说完皇上便撒手人寰。纳兰东和小玉回到紫檀殿跪在慈瑞面前和慈瑞相认，小玉被这一幕所震惊。母子二人抱头痛哭，而小玉完全不愿相信这一切，像疯了一样。小玉疯了一样跑回屋子，小玉终于知道了为什么纳兰东没有和自己在一起。小玉哭着说恨纳兰东。两个人相爱的人却发现是兄妹这种痛又有几人能欣然接受。小玉与鲍妈妈聊天时才得知杜意浓已于韦博文分开，小玉去见了意浓。意浓表示虽然自己喜欢韦博文却无法给自己更多。两人说话时见李鸿雁哭着进来，原来李鸿雁是因为皇上的死而伤心。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1336</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep35.20131022.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20131022 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>1022</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1336</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep35.20131022.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1022" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

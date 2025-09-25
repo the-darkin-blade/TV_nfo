@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:32 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>为求暴利　打劫金库</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id>1623611</id>
+  <uniqueid default="false" type="tmdb">1992296</uniqueid>
+  <uniqueid default="false" type="trakt">1576549</uniqueid>
+  <uniqueid default="true" type="tvdb">1623611</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>欢畅从闭路电视发现某些客人与荷官有不寻常举动，向正初指出有老千集团出现。正初想不出解决办法只好要求高名等暂时收手。高名因投机失利，要求正初助他打劫赌场金库。畅回忆起出事前的保安系统是由忠负责，欲向正初说出忠是内鬼时，却发现二人同是一伙。欢畅反覆思量要否追查下去，怕自己不能与正初再做好友。欢畅下了决定，用新科技搜集了忠与正初出卖赌场的证据，令正初大感惊讶。欢畅特意问正初有否隐情，正初反说欢畅这次可报二十年之仇，欢畅说二人仍是好友希望正初能自首。正初向欢畅坦言不想失去一切，欢畅说给正初一天时间考虑。青云到菲律宾向众人说出自己将四处流浪，欢畅不想青云担心没说出正初之事。时限已到，正初欲以金钱收卖欢畅，欢畅痛心正初未有悔改之心，欲举报时，正初亦叫高名可按安排行事。欢畅被打昏弃于郊外，赌场同时间被打劫，警方从闭路电视看到欢畅击晕正初，正式通缉欢畅。欢畅醒来得知自己成了通缉犯大感愕然，更赶至福荣家说出真相。福荣不信正初会害欢畅，要他离去时却被来富听到。欢畅百词莫辩唯有以己之力替自己清脱嫌疑。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1078</height>
+        <durationinseconds>2681</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep18.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

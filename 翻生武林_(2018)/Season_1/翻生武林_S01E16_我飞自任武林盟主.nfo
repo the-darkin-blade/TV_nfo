@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:17:32 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>我飞自任武林盟主</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>翻生武林</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1993658</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>云龙怪在心不信任他和冰冰，令娇凤被掳走。不群来到城楼下，我飞催逼他上城楼自揭秘密。我飞限娇凤三日内找出秘道，否则血洗客栈。娇凤找到的秘道入口被封闭，命素素和苏虾静静通知皇帝我飞意图弑君。云龙找在心到破庙练真经第十式，岂料是冰冰应约。在心代替不群主持东厂，强逼五大派服食恩赐丹，又找到他们的镇派之宝，可是全部宝物都有破损。云龙带我飞到大殿宣布成立「真盟主同盟」，由我飞担任武林盟主，向五大派清算旧账……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2618</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Birth.Of.A.Hero.Complete.Hdtv.1080I.H264-Chdhktv.Ep16_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

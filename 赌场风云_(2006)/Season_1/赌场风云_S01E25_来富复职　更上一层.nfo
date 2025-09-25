@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>来富复职　更上一层</title>
+  <originaltitle>Episode 25</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>1623681</id>
+  <uniqueid default="false" type="tmdb">1992303</uniqueid>
+  <uniqueid default="false" type="trakt">1576563</uniqueid>
+  <uniqueid default="true" type="tvdb">1623681</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>经青云开解，欢畅终接受来富到菲赌场工作之事。来富回菲后探珠美，发觉珠美像没有失恋一样，珠美更归纳出失败原因是自己不够「坏」，来富为之气结。来富正式成为站台，见珠美遇麻烦客人替她换工作岗位，却因而令国权结识了珠美。青云细心打扮与欢畅拍施，欢畅竟带青云到旅游景点拍照，更在高级餐厅出丑。小茵原来是赌场的老板娘，她找欢畅担任与GC Group合作计划的顾问，原来欢畅的赌坛偶像正是小茵的老爷卓一夫。正初将来富改头换脸，送车送华衣将来富包装成公子哥儿般。福荣找欢畅饭聚，欢畅带小茵出现，更发现福荣与小茵如欢喜冤家般斗咀。正初与欢畅分别到GC Group洽谈，正初始知小茵是对手，小茵更借机揶揄正初。原来汉昌想借机要正初放手赌场事务，但却被正初简单化解。小茵因一夫的身体不宜应付国际赌王大赛而担心，欢畅能坦然面对来富而愿代一夫出战。一夫虽在测试中胜过欢畅，但觉他诚意可嘉，更因此收他为徒让他出赛。在国际赌王大赛发布会上，欢畅再次与正初相遇。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2688</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep25.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

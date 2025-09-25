@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 9 集</title>
+  <originaltitle>최종화 Part 2</originaltitle>
+  <showtitle>特殊案件专案组TEN</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>4430688</id>
+  <uniqueid default="false" type="tmdb">1003482</uniqueid>
+  <uniqueid default="false" type="trakt">960255</uniqueid>
+  <uniqueid default="true" type="tvdb">4430688</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>여지훈의 비밀 사건 파일을 쫓아 수사를 진행하던 TEN팀은 테이프 살인사건에 얽힌 여지훈의 충격적 과거와 만나게 된다. 한편, 팀장의 잠적으로 해체된 TEN팀은 여지훈의 자리를 정리하던 중 그가 남긴 메세지를 발견하고 계속 수사를 진행하는데....</plot>
+  <runtime>70</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>OCN</studio>
+  <studio>Studio Dragon</studio>
+  <dateadded>2025-09-15 20:28:51</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>856</width>
+        <height>480</height>
+        <durationinseconds>4226</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E09.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

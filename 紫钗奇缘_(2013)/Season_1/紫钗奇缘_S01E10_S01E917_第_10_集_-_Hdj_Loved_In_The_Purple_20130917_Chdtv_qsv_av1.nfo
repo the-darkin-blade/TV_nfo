@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 10 集</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486664</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>朱泚上船后众人一起喝酒，小玉假装喝醉不小心失足落水。朱泚第一个跳入水中，靖澜让纳兰东赶紧救人，纳兰东称自己不识水性，这时李益也跳了下去但他根本不识水性。靖澜赶紧让监视的三人下去救人，救上小玉和李益后朱泚已经不见。杨炎知道朱泚逃走很是生气要拿下李益和纳兰东，卢杞相劝并指出朱泚的弟弟朱涛已经有所动作朱泚回去正好让他们兄弟相残。靖澜竟然早已发现朱泚要逃走之事，上船后也是配合纳兰东等人的行动，原来在朱泚和莫玥在船头依依惜别时聪明的靖澜就看出来了。纳兰东十分感激靖澜如此帮忙。纳兰东和李益兄弟二人喝酒时，原来李益也发现了朱泚要逃走的事。李益的水性是很好的，当天也是为了配合故意演了一出。小玉感染风寒李益和纳兰东上门看望，慈瑞问李益和小玉的事有没有和父亲提及。这时小玉知道李益来了便让浣纱将李益带进房间。慈瑞看着纳兰东闷闷不乐的样子问纳兰东为何，纳兰东对慈瑞说自己已经知道一切，就此拜别姑姑。说完纳兰东便走了出去，这时慈瑞才反应过来让樱桃将纳兰东叫回来。探花大典如期举行，规则便是所有中榜之人走完街道谁蓝子的花最多便是探花郎。李益用布将蓝子蒙住不接受其它女子的献花只等到紫檀殿接受小玉的花，可旁边人告诉李益获得探花郎是可以邀请一名心仪女子共同巡游的，这李益才大呼一时大意忘了。小玉让李益赶紧奋起直追。探花郎还是被李益获得，这让韦博文和杜意浓都很失望。李益成功约得小玉乘车共游。高中的仕子前来拜见杨炎，杨炎本不想见被杜意浓劝住，杨炎认为李益此人恃才傲物不能为自己有所又有何用。杜意浓劝说机会就在眼前也许李益已经改变。杨炎让其它仕子离开只留下了李益和韦博文。进屋后杨炎让韦博文和李益品评自己的一幅画，画中的一抹夕阳就是当日杨炎用杜意浓的口红所作，杜意浓提醒了韦博文。韦博文因为看到杜意浓和杨炎在一起吃醋生气。韦博文被杨炎任命为九品教书郎而李益不懂为官之道，不喜欢刻意迎合到现在还没有官位。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1334</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep10.20130917.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20130917 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>917</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1334</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep10.20130917.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="917" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>放弃我，抓紧我</title>
+  <originaltitle>放弃我，抓紧我</originaltitle>
+  <showtitle>放弃我，抓紧我</showtitle>
+  <sorttitle/>
+  <year>2016</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>4.7</value>
+      <votes>19</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>一次意外溺水，长时间脑部缺氧让著名服装设计师厉薇薇失去了部分记忆，她的记忆停留在23岁。记忆中热恋的同为设计师的男友竟成了竞争对手，而一个陌生人却成了她的未婚夫。薇薇不相信自己会和前男友陈亦度分手，她努力调查前因。未婚夫霍骁为了保护薇薇，追回自己的未婚妻，千方百计阻挠薇薇调查，守在她周围。
+
+　　厉薇薇回溯过去，发现自己和身边的人在忙碌中逐渐忘记了最初的梦想。薇薇和陈亦度分手的原因，也是因为两人在追逐事业的过程中，忽视了爱与沟通，在斗气和误会的道路上越走越远，陈亦度误会薇薇和霍骁的关系，最终和她分手。30岁的厉薇薇决定改变现状，她逐步解开过去的误会，和对手冰释前嫌，不但找回了爱情，也重拾了初心和梦想。</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"68045","imdb":"tt5590990","wikidata":"Q22077826","tvdb":"317732"}</episodeguide>
+  <id>317732</id>
+  <imdbid>tt5590990</imdbid>
+  <tmdbid>68045</tmdbid>
+  <uniqueid default="false" type="tmdb">68045</uniqueid>
+  <uniqueid default="false" type="imdb">tt5590990</uniqueid>
+  <uniqueid default="false" type="wikidata">Q22077826</uniqueid>
+  <uniqueid default="true" type="tvdb">317732</uniqueid>
+  <premiered>2016-12-11</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <studio>Hunan Television</studio>
+  <country>中国</country>
+  <tag>china</tag>
+  <tag>romance</tag>
+  <tag>fashion</tag>
+  <actor>
+    <name>陈乔恩</name>
+    <role>Li Wei Wei</role>
+    <profile>https://www.themoviedb.org/person/1239952</profile>
+    <tmdbid>1239952</tmdbid>
+  </actor>
+  <actor>
+    <name>王凯</name>
+    <role>Chen Yi Du</role>
+    <profile>https://www.themoviedb.org/person/1559226</profile>
+    <tmdbid>1559226</tmdbid>
+  </actor>
+  <actor>
+    <name>乔任梁</name>
+    <role>Huo Xiao</role>
+    <profile>https://www.themoviedb.org/person/1088255</profile>
+    <tmdbid>1088255</tmdbid>
+  </actor>
+  <actor>
+    <name>张轩睿</name>
+    <role>Leo</role>
+    <profile>https://www.themoviedb.org/person/1671345</profile>
+    <tmdbid>1671345</tmdbid>
+  </actor>
+  <actor>
+    <name>陈燃</name>
+    <role>Tiffany</role>
+    <profile>https://www.themoviedb.org/person/520911</profile>
+    <tmdbid>520911</tmdbid>
+  </actor>
+  <actor>
+    <name>苗皓钧</name>
+    <role>Huo Ruiyun</role>
+    <profile>https://www.themoviedb.org/person/2448081</profile>
+    <tmdbid>2448081</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

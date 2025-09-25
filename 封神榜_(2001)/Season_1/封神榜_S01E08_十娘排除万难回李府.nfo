@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>十娘排除万难回李府</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>4418925</id>
+  <uniqueid default="false" type="tmdb">2025521</uniqueid>
+  <uniqueid default="false" type="trakt">1484583</uniqueid>
+  <uniqueid default="true" type="tvdb">4418925</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>戬从告示中得知皇上召集天下勇士到朝歌攻打巨人，胜者可加官进爵，哪吒、雷震子有信心可战胜巨人，故决定亲到朝歌一趟，哪吒表示怕莲花在他走后遭龙王三太子骚扰，故建议带莲花同往，惟莲花觉哪吒毫无诚意，兼且不解温柔，内心挣扎不已……
+
+李靖一心到仙洞取下三支神箭以对付犬戎巨人，可惜节节败退，伤兵一堆。十娘不明所以，向琵琶追问之下，才知他们为求取得神箭，特意引开看守三神箭之两神兽，但却只引开雄鸟以致雌鸟雌威大发。李靖大军大败，十娘心知不妙，故假扮成军人混入李靖军队之中，趁机向靖献计，可惜遭琵琶处处阻止，靖亦对十娘倍加反感，令十娘束手无策。琵琶建议靖不如尝试引开雌鸟，然后再全力攻打雄鸟，靖表示赞同，可惜李军两败神鸟之手，此际，十娘终不顾一切，向靖讲出必胜之法，就是万万不能引开任何一鸟，必须在他们鸾凤和鸣之际才可进攻，靖恍然大悟更对十娘重燃爱意，决留十娘于营中，一起出征，琵琶心生不忿。十娘助靖顺利取得三神箭，靖母及妹即态度大变，琵琶亦被十娘恨恨教训一顿。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1048</width>
+        <height>720</height>
+        <durationinseconds>1397</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>08_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

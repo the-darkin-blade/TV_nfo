@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 2 集</title>
+  <originaltitle>Episode 2</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486656</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>纳兰东和李益巧遇崔长空和韦博文，四人一同前去酒家喝酒。四人喝酒聊天时谈到了歌姬，韦博文吹嘘自己曾见过杜意浓。纳兰东问李益为什么非要应考呢，本来他爹爹已经为官啦，李益表示要用自己的努力。喝完酒后纳兰东回了公主府。韦博文和崔长空要拉着李益去紫檀殿碰碰运气，两人知道小玉可是最钟情李益的诗文。李益三人到了紫檀殿可没想到遇到的是乎塞拉根本不识李益何人将三人赶走了。长安三名花聚在一起团年。杜意浓来时看着小玉身边跟着的乎塞拉，听到名字时杜意浓听错了以为叫浣纱，乎塞拉一听浣纱是美女的名字便要改名叫浣纱。杜意浓，莫玥和小玉打赌，初七前如果小玉得不到李益的新诗就算输了。初七人日登高的那一天，莫玥没拿出诗来，杜意浓拿出了新诗，小玉聪明说自己拿到的也是这首，两人不信，小玉当场唱了起来说自己曲子都已经谱好了。登高后莫玥告诉两人自己得周衍推荐十五那天会到御前表演，让小玉帮自己想想办法自己该怎么表演。纳兰东在邀月居外听到里面传来的琴声，这一曲让纳兰东听的陶醉了，不过她并不知道是小玉所奏。纳兰东听完一曲后突然见到街上一匹受惊的马，纳兰东出手相助，这马正是新任上京御前大夫卢杞和马，卢靖澜也因此结识了纳兰东。卢杞上京乃杨炎所使，杨炎此时在朝中一手遮天，无人敢惹。十五当天纳兰东陪宁国公主入宫，没想到被杨炎拦下，杨炎指出受邀名单中并没有纳兰东的名字。纳兰东被拦下杨炎自己却带杜意浓进去。莫玥特意来感谢小玉，小玉出的点子让莫玥在御前表演的很成功。慈瑞让莫玥留下来陪小玉，结果第二天早上起来时莫玥肚子疼的厉害，前一天晚上慈瑞特意给莫玥做了元宵吃，慈瑞提出由小玉代莫玥进宫表演。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1333</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep02.20130905.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20130905 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>905</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1333</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep02.20130905.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="905" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

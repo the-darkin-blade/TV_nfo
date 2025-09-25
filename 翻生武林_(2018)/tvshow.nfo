@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:17:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>翻生武林</title>
+  <originaltitle>翻生武林</originaltitle>
+  <showtitle>翻生武林</showtitle>
+  <sorttitle/>
+  <year>2018</year>
+  <top250>0</top250>
+  <ratings/>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>为免涉足江湖恩怨情仇，玉云龙 (萧正楠饰) 与姐玉娇凤 (简慕华饰) 安份守己经营客栈生意，谁料云龙为重夺旧爱艾冰冰 (汤洛雯饰) 芳心毅然参加新晋英雄大赛，因而牵涉揭发东厂黑幕，被东厂的仇不群 (黄智贤饰) 收入监牢，娇凤救弟心切，暗中放风指客栈有隐世宝物，不群不单立即释放云龙，更派出左右手仇在心 (陈凯琳饰) 跟随云龙到客栈收取情报，此事亦引来各路隐世英雄一一涌现，各施奇谋，期间令一直寻找杀害双亲的在心发现真相，倒戈相向对付不群之馀，更与云龙产生感情，决心一同改革武林，令本已奄奄一息的武林再现生气，但二人却陷入本是慈悲老人任我飞 (姜大卫饰) 筹谋已久的复仇大计</plot>
+  <tagline/>
+  <runtime>43</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"80409","tvdb":"345298"}</episodeguide>
+  <id>345298</id>
+  <imdbid/>
+  <tmdbid>80409</tmdbid>
+  <uniqueid default="false" type="tmdb">80409</uniqueid>
+  <uniqueid default="true" type="tvdb">345298</uniqueid>
+  <premiered>2018-03-05</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Comedy</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <tag>brother sister relationship</tag>
+  <actor>
+    <name>萧正楠</name>
+    <role>Yuk Wan-lung</role>
+    <profile>https://www.themoviedb.org/person/1059226</profile>
+    <tmdbid>1059226</tmdbid>
+  </actor>
+  <actor>
+    <name>陈凯琳</name>
+    <role>Sau Joi-sum</role>
+    <profile>https://www.themoviedb.org/person/2167972</profile>
+    <tmdbid>2167972</tmdbid>
+  </actor>
+  <actor>
+    <name>简慕华</name>
+    <role>Yuk Kiu-fung</role>
+    <profile>https://www.themoviedb.org/person/2062684</profile>
+    <tmdbid>2062684</tmdbid>
+  </actor>
+  <actor>
+    <name>黄智贤</name>
+    <role>Sau Bak-kwan</role>
+    <profile>https://www.themoviedb.org/person/1192984</profile>
+    <tmdbid>1192984</tmdbid>
+  </actor>
+  <actor>
+    <name>姜大卫</name>
+    <role>Yam Ngoh-fei</role>
+    <profile>https://www.themoviedb.org/person/65986</profile>
+    <tmdbid>65986</tmdbid>
+  </actor>
+  <actor>
+    <name>泰臣</name>
+    <role>Tse Gwoh</role>
+    <profile>https://www.themoviedb.org/person/1353945</profile>
+    <tmdbid>1353945</tmdbid>
+  </actor>
+  <actor>
+    <name>杨诗敏</name>
+    <role>Siu Lung-goo</role>
+    <profile>https://www.themoviedb.org/person/1549891</profile>
+    <tmdbid>1549891</tmdbid>
+  </actor>
+  <actor>
+    <name>汤洛雯</name>
+    <role>Ngai Bing-bing</role>
+    <profile>https://www.themoviedb.org/person/1967121</profile>
+    <tmdbid>1967121</tmdbid>
+  </actor>
+  <actor>
+    <name>阮政峰</name>
+    <profile>https://www.themoviedb.org/person/3626790</profile>
+    <tmdbid>3626790</tmdbid>
+  </actor>
+  <actor>
+    <name>冯素波</name>
+    <profile>https://www.themoviedb.org/person/1640606</profile>
+    <tmdbid>1640606</tmdbid>
+  </actor>
+  <actor>
+    <name>赵永洪</name>
+    <profile>https://www.themoviedb.org/person/1809912</profile>
+    <tmdbid>1809912</tmdbid>
+  </actor>
+  <actor>
+    <name>雪妮</name>
+    <profile>https://www.themoviedb.org/person/63586</profile>
+    <tmdbid>63586</tmdbid>
+  </actor>
+  <actor>
+    <name>吴沚默</name>
+    <profile>https://www.themoviedb.org/person/2063812</profile>
+    <tmdbid>2063812</tmdbid>
+  </actor>
+  <actor>
+    <name>张国强</name>
+    <profile>https://www.themoviedb.org/person/1266162</profile>
+    <tmdbid>1266162</tmdbid>
+  </actor>
+  <actor>
+    <name>张彦博</name>
+    <profile>https://www.themoviedb.org/person/1651602</profile>
+    <tmdbid>1651602</tmdbid>
+  </actor>
+  <actor>
+    <name>陈荣峻</name>
+    <profile>https://www.themoviedb.org/person/2818160</profile>
+    <tmdbid>2818160</tmdbid>
+  </actor>
+  <actor>
+    <name>冼灏英</name>
+    <profile>https://www.themoviedb.org/person/1417177</profile>
+    <tmdbid>1417177</tmdbid>
+  </actor>
+  <actor>
+    <name>戴耀明</name>
+    <profile>https://www.themoviedb.org/person/1629651</profile>
+    <tmdbid>1629651</tmdbid>
+  </actor>
+  <actor>
+    <name>欧瑞伟</name>
+    <profile>https://www.themoviedb.org/person/1365933</profile>
+    <tmdbid>1365933</tmdbid>
+  </actor>
+  <actor>
+    <name>郑耀轩</name>
+    <profile>https://www.themoviedb.org/person/3853471</profile>
+    <tmdbid>3853471</tmdbid>
+  </actor>
+  <actor>
+    <name>郑子诚</name>
+    <profile>https://www.themoviedb.org/person/2040668</profile>
+    <tmdbid>2040668</tmdbid>
+  </actor>
+  <actor>
+    <name>李冈</name>
+    <profile>https://www.themoviedb.org/person/3444284</profile>
+    <tmdbid>3444284</tmdbid>
+  </actor>
+  <actor>
+    <name>张韡腾</name>
+    <profile>https://www.themoviedb.org/person/3834565</profile>
+    <tmdbid>3834565</tmdbid>
+  </actor>
+  <actor>
+    <name>杨证桦</name>
+    <profile>https://www.themoviedb.org/person/2064594</profile>
+    <tmdbid>2064594</tmdbid>
+  </actor>
+  <actor>
+    <name>马蹄露</name>
+    <profile>https://www.themoviedb.org/person/1403101</profile>
+    <tmdbid>1403101</tmdbid>
+  </actor>
+  <actor>
+    <name>刘桂芳</name>
+    <profile>https://www.themoviedb.org/person/2611122</profile>
+    <tmdbid>2611122</tmdbid>
+  </actor>
+  <actor>
+    <name>李丽丽</name>
+    <profile>https://www.themoviedb.org/person/240169</profile>
+    <tmdbid>240169</tmdbid>
+  </actor>
+  <actor>
+    <name>蔡国庆</name>
+    <profile>https://www.themoviedb.org/person/1539924</profile>
+    <tmdbid>1539924</tmdbid>
+  </actor>
+  <actor>
+    <name>于洋</name>
+    <profile>https://www.themoviedb.org/person/119438</profile>
+    <tmdbid>119438</tmdbid>
+  </actor>
+  <actor>
+    <name>乔宝宝</name>
+    <profile>https://www.themoviedb.org/person/1384854</profile>
+    <tmdbid>1384854</tmdbid>
+  </actor>
+  <actor>
+    <name>袁洁仪</name>
+    <profile>https://www.themoviedb.org/person/3853573</profile>
+    <tmdbid>3853573</tmdbid>
+  </actor>
+  <actor>
+    <name>卫志豪</name>
+    <profile>https://www.themoviedb.org/person/1614089</profile>
+    <tmdbid>1614089</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

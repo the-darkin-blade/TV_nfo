@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>红河谷</title>
+  <originaltitle>Episode 26</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id>2399091</id>
+  <uniqueid default="false" type="tmdb">1460713</uniqueid>
+  <uniqueid default="false" type="trakt">1435911</uniqueid>
+  <uniqueid default="true" type="tvdb">2399091</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>丁家人为了丁蟹的案子费尽心计，想要展博做牢，并想办法让方家人神智不清，不能出庭作证。丁蟹在拘留所继续练习上庭时要说的话。周济生看龙纪文不走，对她冷嘲热讽。龙纪文对周济生迷信神婆很气愤，砸烂了神像后离去。回到家，又看到龙成邦出了事，昏倒在家，她照顾完龙成邦，匆匆赶去香港看展博案子的审判结果。丁蟹的案子终于开庭了，丁蟹在庭上表现十分紧张，他怕没有给法官留下好印象，担心之极。展博的案子也开庭审理，展博不愿坐牢，情急之下在庭上向法官求情。最后法官加判展博藐视法庭罚款1千，蓄意伤害他人身体罪14个月，但考虑展博家的情况缓刑两年。丁家人威胁方家不会放过他们。龙纪文赶到法庭，展博的案子已经结束。展博想起那天是阮梅离开香港的日子，赶去给她送行。阮梅送给展博录音带，里面有她唱的红河谷。龙纪文去找展博，两人一同返家，却发现警察来方家调查，原来丁益蟹诬告小敏偷他东西，龙纪文目睹方家被欺负，破口大骂警察。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1397</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.26_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 26 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1397</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.26_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

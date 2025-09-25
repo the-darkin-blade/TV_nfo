@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:17:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>云龙扮神雕衬托谢过</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>翻生武林</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1993646</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>云龙被打致重伤昏迷，模糊间听到不群教训在心，他苏醒后便故意扮傻。不群得知娇凤送美食给云龙，令不群回想当年娇凤曾为他炮制菜肴的往事。谢过偷偷上思过崖探望云龙，表示愿意帮他对付在心。小龙姑认定与背山的姻缘是天注定，背山坦言谢过才是他的心上人。云龙未知在心已识破他假扮疯癫，害人终害己。在心故意挑选谢过为本届新晋英雄，并指定由云龙扮演神雕。小龙珠派小龙姑用毒针对付谢过，让玉女派弟子有机会补上位置……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2621</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Birth.Of.A.Hero.Complete.Hdtv.1080I.H264-Chdhktv.Ep04_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

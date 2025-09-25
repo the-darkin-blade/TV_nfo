@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>雅媛替妹妹介绍男友</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>初五启市录</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3225404</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>警察于市集肆意破坏，当飞看见母亲大青竟被逮捕时，情急之下向治安厅的徐队长说出自己是市集负责人，如有任何问题将由他独力承担责任。礼和自货仓赶往市集，发现飞已被带走，芬更说出是唐家人带警察来查封，要求礼和出手相助。
+
+在审问室中，徐队长指万花市集没有登记领牌，飞听后只觉是小事一宗，指无牌经营需罚款了事，为何要出动警察查封。徐队长一脸正色地说出，唐家指飞盗用了「万花」的名字影响商誉，将要控告飞直至他入狱。
+
+众人等候礼和将电话说完，一脸失望的礼和说雅媛尚在湛江，因此授权让百年父子处理此事。礼和更指是百年向市政府告发苏飞盗用「万花」的名字，众人听后感六神无主。
+
+苏飞被指　贩卖假货
+
+礼和到治安厅欲保释飞，飞故作轻松问礼和情况，怎知礼和竟说出百年不但控告飞损害万花百货声誉，更指他售卖假货，飞听后不禁大惊。
+
+礼和回家质问百年为何要控告飞，但却被百年反客为主，直斥礼和误交损友。雅文在旁看不过眼，遂出言相助。这时雅媛与永齐自湛江赶回家，雅媛要求了解事件，绍业乘机说出发现有假冒万花的货品出现，直接影响了百货公司生意。另外他亦指礼和被飞利用，盗用「万花」之名在码头办市集。
+
+看见百年与绍业嚣张的态度，雅媛突然将两件睡衣样本取出，要求大家分辨两者之间的分别。在玉卿与礼和的检查后，发现睡衣竟然是……
+
+十天限期　惨被迫迁
+
+事件顺利平息，永齐偕飞与雅媛见面，飞误以为对方要向自己道歉，于是欲向责骂雅媛，想不到雅媛竟要求永昌盛在十天后离开花地码头。苏飞欲求情，但雅媛直指他经营不善，倒不如趁这机会解散永昌盛，之后更将一张五千元支票交给飞，让他遣散帮众。
+
+飞回到家后向大青等人说出被雅媛驱逐一事，当大家正不满雅媛的横蛮时，却被飞取出的支票银码吓了一跳。飞与礼和见面报平安，亦拜托礼和出面相助让永昌盛留在花地，但礼和却面有难色指雅媛铁石心肠，飞听后不禁心下一沉。
+
+龙哥提出　接管花地
+
+雅媛收到龙哥的拜帖约见，龙哥指收到消息永昌盛将离开花地码头，于是提出欲接下该地工作，雅媛听后不置可否。
+
+永齐突然出现在永昌盛，当众人担心他是否提早迫迁之际，原来永齐只是转达雅媛意思，指永昌盛不用离开花地码头，众人听后放下心头大石……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>960</width>
+        <height>544</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>The.Day.Of.Days.Ep05_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

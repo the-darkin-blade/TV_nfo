@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿四耐心照顾疯父亲，革命党内外质疑加重</title>
+  <originaltitle>阿四耐心照顾疯父亲，革命党内外质疑加重</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>51</episode>
+  <id>4938230</id>
+  <uniqueid default="false" type="tmdb">2728595</uniqueid>
+  <uniqueid default="false" type="trakt">1307384</uniqueid>
+  <uniqueid default="true" type="tvdb">4938230</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>大牢里，铁山告诉区肇新，皇帝施恩你可以回家，区肇新不肯回家，铁山疑惑不知他是否真疯。区巡抚被放回家了。区舒云本以为父亲是装疯，可到了家里，区巡抚依然疯疯傻傻，只有阿四有办法有耐心对付老疯子，想着法的陪他玩，喂他吃，哄着他洗澡，换上干净的衣服……就是亲儿子也做不到的事，阿四每天在做。区舒云心里又温暖又难受。李重甲并不相信区巡抚真疯，用各种方法试探区巡抚，请来一个中医给区巡抚扎针。满脸满身的银针，任何正常人都不可能受得了，区巡抚居然安之若素。李重甲终于相信他是真疯，对他没了兴趣。阿四接区巡抚回家引发了革命党对阿四更深的质疑。区舒云终于找到了秘密机关，指责秦少白狠心，刺杀阿四并不是秦少白下的命令，可他也不能说丝毫不怀疑阿四，面对情绪激动的区舒云，他只有沉默。要洗脱阿四嫌疑，必须找到失踪的小丁。区舒云想起几天前有人说在花厅看见小丁。阿四连忙追问。区舒云回忆，赶到花厅不见小丁。铁山与铁刚分析形势，还是觉得李重甲不能完全信任，留着阿四还是有用。阿四找李重甲商量如何洗脱罪名，李重甲劝阿四还是尽快离开广州。小丁出现在阿纯的教会医院。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2654</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep51_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="51" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>笑傲江湖</title>
+  <originaltitle>笑傲江湖</originaltitle>
+  <showtitle>笑傲江湖</showtitle>
+  <sorttitle/>
+  <year>2014</year>
+  <top250>0</top250>
+  <ratings/>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>《笑傲江湖》是中国的大型喜剧选秀节目，天分独具的喜剧表演者聚集于此，一起来创造中国最顶级的喜剧盛宴。《笑傲江湖》找寻的是没有很多喜剧表演经历的非专业选手，他们来自祖国的天南海北，身份和经历各异，但都热爱喜剧类表演。</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"118740"}</episodeguide>
+  <id/>
+  <imdbid/>
+  <tmdbid>118740</tmdbid>
+  <uniqueid default="true" type="tmdb">118740</uniqueid>
+  <premiered>2014-03-16</premiered>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Reality TV</genre>
+  <studio>Youku</studio>
+  <studio>Dragon Television</studio>
+  <country>中国</country>
+  <actor>
+    <name>冯小刚</name>
+    <role>评委</role>
+    <profile>https://www.themoviedb.org/person/1287732</profile>
+    <tmdbid>1287732</tmdbid>
+  </actor>
+  <actor>
+    <name>宋丹丹</name>
+    <role>评委</role>
+    <profile>https://www.themoviedb.org/person/57912</profile>
+    <tmdbid>57912</tmdbid>
+  </actor>
+  <actor>
+    <name>郭德纲</name>
+    <role>评委</role>
+    <profile>https://www.themoviedb.org/person/557427</profile>
+    <tmdbid>557427</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

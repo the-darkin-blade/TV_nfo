@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>雅媛拒绝礼和爱意</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>初五启市录</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3225417</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>继尧进医院前曾答应外国传媒的电台访问，但由于礼和刚上任不久，访问又是直播节目，耀祖建议延迟访问，但振邦称一推再推只会令洋人认为市政府言而无信，而且访问亦有助对外国人大开通商之门，于是礼和只好同意如期受访。
+
+继尧伤势好转，获医生允许回家休养，礼和发现父亲体魄大不如前，短期内不能重新执政。继尧亦认为电台访问是个好机会，让全世界认识这位新上任的代市长。
+
+礼和重温昔日继尧的电台访问节目，从中学习继尧从政之道，在电台访问直播当天，表现充满自信，更顾及种种直接影响民生问题，表示已加强控制市场，并答允会推出新的管理政策。透过电台直播，市民得知代市长管理广州尽心尽力，继尧听到种种内政，亦对儿子成材感欣慰。
+
+洋人记者最后问及礼和的感情生活，想知道他在元宵节与女友的安排。礼和虽不防有此一问，也如实回答并无女友，只有心仪对象，但绝口不提对象是谁。
+
+苏飞误爆　礼和秘密
+
+自从电台访问后，代市长暗恋唐家二小姐唐雅文的传言甚嚣尘上，连市政府内的要员也在茶余饭后以此为话题。飞对此感不满，追问消息从何而来，发现礼和恋上雅文传言是来自他的母亲大青，便回家兴师问罪。大青坚称自己无辜，更指消息是飞本人从梦话中道出的。飞不忍雅文被人说闲话，情急之下说出礼和暗恋的对象不是唐家二小姐，而是大小姐雅媛。
+
+代市长暗恋雅媛一事瞬即传遍全广州的大街小巷，唐家众人也没想到礼和的真命天子是雅媛，都游说雅媛接受礼和。当礼和发现秘密被传开，已知始作俑者是飞，向他问及该如何平息谣传。
+
+飞见谣言没法止息，建议礼和借此机会向雅媛表白，认为礼和已今非昔比事业有成，能配得上雅媛，鼓励他尽快表白。原本雅媛亦有意接受礼和，可是事前美玲以礼和的姑母身分施压，雅媛亦明白当中含意。
+
+当礼和告白时，雅媛直称自己以往曾看不起礼和，现在更难以与他相恋，拒绝了礼和的表白。
+
+汪家暗藏　巨量黄金
+
+礼和又遇上施政困难，在电台直播时向市民应允的种种新政都急需推行，军备配给耗资惊人，以目前广州市的资金并不足以应付各种需要。礼和向继尧提及此事因资金不足难以处理时，继尧却称汪家有秘密金库，储备能应付各项新政推行。
+
+众官员随礼和到汪家墓园，竟发现棺木内藏巨量黄金条，而礼和笑言只属汪家收藏的一部分而已……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>960</width>
+        <height>544</height>
+        <durationinseconds>2663</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>The.Day.Of.Days.Ep18_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

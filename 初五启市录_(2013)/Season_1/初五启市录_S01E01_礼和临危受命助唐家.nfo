@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>礼和临危受命助唐家</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>初五启市录</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2426227</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>二十世纪三十年代的中国虽进入民国时期，但局势仍是动荡不稳，但广州城却仍是一片歌舞升平，上下九路一带仍是人来人往，繁华昌盛。经营「协和行」的西关唐家是四大商会之一，长袖善舞的唐家大小姐兼大当家雅媛，刚视察完业务风尘仆仆回到家中，却立即发现工人竟将送赠贺礼的记录弄错，即教导他们该注意的地方。
+
+雅媛偕襄理永齐前往家族经营的尚品楼酒楼巡视业务，更仔细检查各种食材。雅媛看见负责管理的姑姐玉卿竟差不多中午才施施然回酒楼，之后又看到细叔百年与堂弟绍业没精打采地现身，不禁对众人那得过且过的管理不满，忍不住出言指责。
+
+雅媛与祥泰帮会的当家龙哥见面，龙哥指与协和行的维持治安合同快约满，于是提出新的合约，但有关的平安金竟然增加一倍，雅媛得知后当机立断，即时提出未来将不再与龙哥合作，令龙哥大感不悦。
+
+苏飞努力　接近雅媛
+
+经营车仔及咕哩馆的小帮会永昌盛首领飞正为账目烦恼不已，因为需要缴交给市政府的多项税款完全未有着落，担心将无法维持下去，苏飞母亲大青却安慰儿子「船到桥头自然直」。飞的妹妹芬领着一班咕哩回来，飞问妹妹有关运货及收数是否顺利完成，结果……
+
+听到负责伙食的虎说厨房已没有米，不禁苦恼非常的飞，看见师爷一钊回来。一钊向飞报告有关龙哥将撤离上下九路之事，于是飞便打算与雅媛见面接下大生意，但却没法成功。一钊偕飞与百年见面，欲托他约见雅媛，结果因礼物不够丰厚而惨被侮辱。
+
+分红会议　惨被针对
+
+雅媛在公司开会时，仔细追寻为何龙哥会突然大幅提升平安金。另一方面，一直寄居于唐家，生性戆直的礼和，唯一嗜好是流连在电影院内看戏，欣赏世界各地的作品。
+
+雅媛为发放花红一事与唐家各成员开会，当提到分派红利，百年等人提出要求多分一倍红利时，雅媛忍不住与众人理论。见众董事同意百年提议，礼和突然出言支持雅媛。
+
+雅媛乘车在大街上几乎遇上危险，竟得飞与众人出力相救，飞欲趁机讨好雅媛推销永昌盛，却被她看穿了一切是飞安排。
+
+慈善首映　被人破坏
+
+协和行为一百周年纪念开办慈善首映礼，城中商贾名人纷纷到会，市政府工务局长处长孝勇也代表市长继尧送来花牌道贺……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>960</width>
+        <height>544</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>The.Day.Of.Days.Ep01_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

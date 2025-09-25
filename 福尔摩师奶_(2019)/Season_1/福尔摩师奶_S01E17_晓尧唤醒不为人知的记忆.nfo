@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>晓尧唤醒不为人知的记忆</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>福尔摩师奶</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1727800</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>祖迪道破凶手模仿开膛手犯案，真凶现形……祖迪带领管家学员到百川大宅宴会帮忙，伺机调查素嘉下落。晓尧行经半山之路，忆起当日曾送回寄给祖迪的信件，祖迪拆开竟是告密信，晓尧认出是素嘉字迹。祖迪对一夫成见日深，一夫迁出「香庐」。晓尧向一夫透露想返回半山寻找零碎记忆，一夫闻言面有异色。妺娣倒夜香时发现晓尧及一夫踪影，感事有蹊跷；晓尧终唤醒儿时之记忆……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2638</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>TVBOXNOW 福爾摩師奶 EP17_H265.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

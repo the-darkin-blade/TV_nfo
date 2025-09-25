@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿四识破铁山诈供，坚称自己是李重光</title>
+  <originaltitle>阿四识破铁山诈供，坚称自己是李重光</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>4938194</id>
+  <uniqueid default="false" type="tmdb">2728557</uniqueid>
+  <uniqueid default="false" type="trakt">1306111</uniqueid>
+  <uniqueid default="true" type="tvdb">4938194</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>区巡抚认为如果李重光不是替身便能活下来，决定静观其变再出手。一个革命党临死前讲的一番骄傲而感人的话，让阿四想起了李重光临死时的笑容，隐隐约约，他开始明白李重光为什么笑了，那是一个革命党人无怨无悔的笑。轮到处决阿四了！阿四还是害怕得大哭，几乎承认。铁山最后问阿四一次，你是谁？！阿四忽然意识到，铁山就是要自己承认替身，是诈！阿四坚称我是李重光，你杀吧！铁山无奈，阿四又被押回死牢。区巡抚与区舒云听说李重光被押到刑场走了一圈，被吓得不轻，内心震惊。区舒云暗自佩服阿四，更决心救阿四。区巡抚又心疼女儿，女儿似乎爱上了这个李重光，不想秦少白了，这让他喜出望外，再加上他也心疼机械厂呀，当然想救李重光。区巡抚决定重贿总督，以人证已死、疑罪从无，要铁山尽快释放李玉堂。区舒云重回李家，认为李重甲出卖重光。区巡抚去见李玉堂， 李玉堂得知阿四坚持李重光的身份， 内心感动，也升起一分希望。区巡抚和李玉堂都明白铁山抓李家的把柄，背后的目的就是霸占机械厂。区巡抚趁机把自己对机械厂的官商合办的方案提出来，李玉堂心里明白，为了救阿四，什么方案他都得认。他只求区巡抚安排他和阿四见一面。阿四与李玉堂相见了。李玉堂问阿四为什么要这样做，阿四避而不答。李玉堂老泪纵横，保证照顾好阿纯。铁山隔墙听到一个“纯”字。区舒云获得特许，探阿四的监，暗示阿四翻供。次日，总督，巡抚，铁山三堂会审李重光。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2656</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep16_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 5 集</title>
+  <originaltitle>第 5 集</originaltitle>
+  <showtitle>忽必烈传奇</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2821407</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>汗大妃将税收问题讲给窝阔台，喝多的窝阔台没看清文书的内容就签了字。察比送忽比烈一串手链，他将刀送给察比。忽比烈收到托雷的信函后急忙赶回去，宝音意外从高处摔死。汗大妃听说宝音死后准备嫁祸给忽必烈，宝音哥哥宝迪掌握着蒙古国的经济命脉，忽必烈在汗大妃面前被指责。忽比烈被看押起来，忽必烈的兄弟来到关押之地探望他。汗大妃一心想弄死忽必烈，宝迪找汗大妃商量对策，他们想除去拖雷。窝阔台召集众人商量宝迪之事，忽必烈坚持认为宝音的死属于意外。忽比烈在大账中拨刀证明了自己的清白，忽必烈被无罪释放。汗大妃准备对付托雷，有人提议在托雷的饮水里下毒。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2656</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Legend.Of.Kublai.Khan.Ep05.720P.Hdtv.X264.2Audio-Hdwtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>丁蟹报仇，点到即止</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>2398971</id>
+  <uniqueid default="false" type="tmdb">1460700</uniqueid>
+  <uniqueid default="false" type="trakt">1435887</uniqueid>
+  <uniqueid default="true" type="tvdb">2398971</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>婷婷到大屿山，孝蟹闭而不见。 婷跟踪孝手下找到孝蟹，看到了他在大屿山照顾的当年被他杀了的仇家的妻儿。孝蟹在听到婷婷给他BB机留的一堆call，深受感动，狠狠的搂住婷送给婷自己戴的项链，并承诺如果活着回来，就拿戒指来换。孝蟹是得知丁蟹绑架了龙成邦，而周济生下了格杀令，于是赶去台湾想办法救丁蟹。丁蟹时时折磨邦，自己到处玩耍。丁蟹去看望自己刚来台湾时被自己打瘫痪的的大头，大头的母亲知道了他是丁蟹，愤怒的把他赶走。丁蟹要把邦扔下山，邦求饶，丁蟹又戏弄了他一番，把他放走。孝蟹找到丁蟹，但同时周济生的人也打伤了丁蟹，孝蟹为丁蟹求情，周济生给了他们一艘垃圾船，要他们永远离开台湾。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1562</width>
+        <height>1078</height>
+        <durationinseconds>1356</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.14_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 14 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1562</width>
+        <height>1078</height>
+        <durationinseconds>1356</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.14_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

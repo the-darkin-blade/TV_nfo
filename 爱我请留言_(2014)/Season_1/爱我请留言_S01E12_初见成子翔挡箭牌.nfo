@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:58:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>初见成子翔挡箭牌</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>爱我请留言</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2299932</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>皎妃等女同事在咖啡店等候子翔，发现子翔买了两杯咖啡，推测他的心仪对象在公司内。她们看见子翔把咖啡放在初见的桌上，均以敌视眼神望向初见，初见却表示自己并非子翔的新欢。  初见走进子翔办公室，责子翔利用她制造烟幕，摆脱女同事们的纠缠。子翔澄清他只想收买初见，免初见把他酒后唱歌失礼的事件公开，但认为制造烟幕的做法可行，故邀初见与他同往比利时参观朱古力展览会。  表里不一　失魂落魄  初见在超市看见家好对架上的橙发呆，她问家好最近为何没带住家午餐盒回公司，家好透露妻子因第三期胃癌入院，他每天做了汤水及饭菜送往医院时，一定带同妻子最爱吃的日本橙。初见眼看家好表面上乐观面对妻子的重病，实质心里却是很痛，就如同天送一样，表里不一。
+
+天送在公司失魂落魄，遗失了职员证亦不自知，志安指他完全不在状态，问他发生了甚么事，天送却没透露半句。
+
+金贵检查银行户口，总希望存款被提取一空，但结果款项仍是原封不动。他买了一个有卡通公仔的生日蛋糕，经过Paul及Mary的档口要求点唱。他烹调冬菇时，想起妻子给小女儿煮冬菇的情况。皎妃被Paul所唱的＜陪着你走＞吸引，驻足观看，不禁泪流。金贵对着蛋糕为女儿许愿后，送了一碗冬菇面及蛋糕给皎妃，并表示这天是他女儿的生日。  天送送悠悠到初见家楼下，初见表示翌日是星期天，着天送晚上无须急于接女儿回家，让天送好好休息一天。
+
+要求天送　唱行雷歌
+
+悠悠睡醒嗅到一阵烧焦味，便把爱林唤醒，原来是初见在焗曲奇。天气报告预测加拿大有雷暴，悠悠担心蔡妍会受雷暴惊吓，便致电父亲，要求天送唱行雷歌，免母亲害怕。天送唱歌时，悠悠却往逗「009」玩，初见听到天送唱着唱着忍不住哭了，便一直陪天送聊天。
+
+爱林责初见因做马卡龙把厨房弄得一团糟，又制造了一大袋垃圾，初见便往扔垃圾，她边行边鼓励天送把情绪发泄出来，天送对着天空狂叫，慨叹每天努力过着跟以前没两样的生活。但实质随着妻子的离开，生活上所有事情都已不同，家里到处是妻子的物件，却只有他与女儿在。他感叹没有人可以永远陪着另一个人，又透露自己与蔡妍已离婚，更道出了悠悠的身世。初见却指天送做得很好，令悠悠成为一个快乐可爱的孩子，因为天送把所有快乐都送了给她。… ...</plot>
+  <runtime>56</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>3392</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>12_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

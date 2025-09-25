@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>为查奇案　浩然投入</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>2135451</id>
+  <uniqueid default="false" type="tmdb">569226</uniqueid>
+  <uniqueid default="false" type="trakt">577892</uniqueid>
+  <uniqueid default="true" type="tvdb">2135451</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>晚上浩然带同整队人马到达医院，而他们更到有富的小卖店中装上各种偷听器材；另一方面，浩然往明轩失事的现场调查，更从现场的蛛丝马迹，推断出女飞人可能留下指纹的地方。原来浩然认为每次女飞人出现的地方，巧芝亦会现身之事不是巧合，所以决定全力调查她。翌日巧芝亦到了医院，但这次她并没有进入小卖部，原来她想探望明轩；巧芝从护士口中发现明轩不见了踪影，暗自替他担心……  巧芝主动　接近浩然  变身后的巧芝细耳倾听，竟发现有人欲自杀；当巧芝救回自杀的忠良后，却中途打回原形，令忠良认出巧芝的真正身分。自身难保的巧芝没法捉紧忠良令他堕楼，而当她支持不住将要堕下时，正被四出寻找巧芝行踪的浩然发现，浩然便立即上演一场「英雄救美」；看到浩然奋不顾身救回自己，巧芝对他更添好感。浩然与手下正开会讨论巧芝与女飞人之间的关系时，却接到巧芝的电话……原来巧芝藉答谢浩然救命之恩，提出请浩然吃午饭，浩然为了套取有用的消息，欣然赴会；在席上巧芝遇上浩然的外籍友人，而她更被该外国男性吻了一下；为了不被浩然看到自己变身，巧芝只得躲在女厕中，但浩然与一众警察却以为巧芝与他们斗智……在女厕中的巧芝与网上专家联络上，他提出为了要将变身的能量散发，巧芝应努力运用这些能量；巧芝只得施计离开，更四出助人解决困难。当巧芝重回饭桌之际，竟再遇上旧男友，而他为了在浩然前示威，竟对巧芝……没法忍受继续保密「特异功能」的巧芝，终向心理医生说出一切，竟不获相信；巧芝向各宗教、玄学大师倾吐真相，也换来不被相信的结果……无人了解自己痛苦的巧芝，飞到澳门散心，而她竟发现明轩亦在澳门；原来明轩受诊所大老板美诗所托，前来担任选美会的评判；变回常人身分的巧芝，更看到明轩拯救心脏病发者的一幕……  巧芝明轩　认识加深  明轩与巧芝一起喝酒，明轩更向巧芝谈及自己的种种；巧芝协助饮醉的明轩回他的房间，更通宵留下照顾他。伯驹回港，第一时间便偕妻子与俊邦探望文礼……永晖到诊所检查被打伤的部位，医生指他头部的伤口接连受伤，永晖连忙指是自己不小心。永晖到巧芝家，向她报告自己辞去了保险的工作，将加入容氏与她成为同事，但巧芝提醒他，这事应与他的姊姊咏嘉商量；当永晖向咏嘉提出此事，想不到她竟大力反对，最后两姊弟不欢而散……</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1319</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E04.20180514.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Fly With Me 20180514 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>514</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1319</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E04.20180514.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="514" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

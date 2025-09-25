@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>祝家庄时迁偷鸡</title>
+  <originaltitle>祝家庄时迁偷鸡</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>45</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026662</uniqueid>
+  <uniqueid default="false" type="trakt">7308148</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>杨雄借口还愿，骗潘巧云进山，与石秀、时迁会面。当石秀拿出裴云海的衣物时，潘巧云对自己的行为不再隐瞒，还痛哭大骂，毫无悔改之意。杨雄一刀将她杀了。三人都没什么好去处，商定直接投奔梁山。路过祝家庄时，他们想买些酒肉吃。可酒店里有酒没肉，加之店小二态度十分蛮横，时迁就偷了一只报晓鸡煮着吃了。店小二发现后，叫来一些庄丁来抓他们。时迁便冒充梁山好汉来吓阻，哪知庄丁们不吃这一套，倚仗道路机关复杂，把时迁给抓住了。杨雄对李家庄管家杜兴有救命之恩，他们便去李家庄找李应、杜兴帮忙。祝家庄、李家庄、扈家庄结成联盟，一有风吹草动，三庄就会相互接应。李应觉得自己还有些面子，修书一封让杜兴带着到祝家庄要人。没曾想祝彪一点面子也不给，一口拒绝。当李应亲率庄丁去要时，还被祝彪的箭射伤了。没办法，杨雄、石秀只得先上梁山。晁盖听了二人的述说，对他们偷鸡、冒名的行为很是不满，喝令要斩了他们。宋江及时劝阻，众好汉随声附和，保住了二人性命。宋江主动请命，亲自率兵去攻打祝家庄。大队人马来到独龙岗，宋江看到情况复杂，谨慎地派出杨雄、石秀摸进庄里打听消息，而李逵很不以为然。由于李应的受伤，三庄联盟基本上已经解体了。祝家庄严密部署应对，祝太公亲自到扈家庄求助。扈太公不敢与梁山为敌，连姻亲关系都不顾了，只想坐山观虎斗。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2650</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E45 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="45" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

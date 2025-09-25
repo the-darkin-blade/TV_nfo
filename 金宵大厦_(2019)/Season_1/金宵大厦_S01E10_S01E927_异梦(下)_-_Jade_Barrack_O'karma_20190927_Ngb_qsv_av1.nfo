@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:08:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>异梦(下)</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>金宵大厦</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>7358428</id>
+  <uniqueid default="false" type="tmdb">1942172</uniqueid>
+  <uniqueid default="false" type="trakt">3709314</uniqueid>
+  <uniqueid default="true" type="tvdb">7358428</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>旭辉借拜祭莎莎之名，与CoCo再到莎莎婆婆家中，引芳芳与莎莎现身。莎莎和盘托出制造死亡假象的来龙去脉，CoCo同情二女，请求旭辉放过她们；然而旭辉找莎莎却另有目的……莎莎以黑道大哥雄哥所送的佛牌答谢CoCo，旭辉发现佛牌内有干坤。二人在储物柜找到巨额赃款，惊喜万分，并在赌场大有斩获，二人情愫渐生。另一边厢，莎莎、芳芳被雄哥手下狗强逼问赃款下落。黑猫引领旭辉到天台，看见狗强胁持着CoCo……</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1306</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Barrack.O'karma.E10.20190927.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Barrack O'karma 20190927 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>金宵大厦</showtitle>
+  <season>1</season>
+  <episode>927</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1306</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Barrack.O'karma.E10.20190927.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="927" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

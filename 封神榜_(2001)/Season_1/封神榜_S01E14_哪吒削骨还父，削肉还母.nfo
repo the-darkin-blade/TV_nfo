@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>哪吒削骨还父，削肉还母</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>4418933</id>
+  <uniqueid default="false" type="tmdb">2025528</uniqueid>
+  <uniqueid default="false" type="trakt">1484608</uniqueid>
+  <uniqueid default="true" type="tvdb">4418933</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>朝歌豪雨成灾，纣王不理民间疾苦，当知道哪吒闯出大祸，内心更加生气不已。
+
+杨戬、黄颜终于明白水鬼就是哪吒，众人在西岐拜祭哪吒，十娘、莲花伤心地道出哪吒被审判之经过，十娘为免哪吒一死，四出请求四大天王口下留情，苏护、飞虎、姬昌均答应惟李靖在琵琶的软硬兼施下，决大义灭亲，哪吒接受审讯之日，李靖向纣王表示可依法处理，纣王对哪吒没半点怜惜之情，下令龙母诞之日处斩哪吒，并在九公教唆下，要李靖锁哪吒琵琶骨，令其武功尽失，十娘痛心疾首，欲阻李靖对付哪吒，更道出千错万错，错在两人没尽父母管教之责，令李靖心感内疚！
+
+黄颜终日与杨戬一起，令颜母误会杨戬想带黄颜私奔，十娘为杨戬解围，并向颜母哭诉哪吒之前尘往事，原来，当日十娘强抢宝塔令旗带走哪吒，一路上风雨交加，十娘爱之切，责之深，将哪吒狠狠打了一顿，因为哪吒心高气傲，弄至如此下场，十娘悔不当初，莲花追至，可惜哪吒在莲花睡着时削骨还父，削肉还母，并请求莲花带自己魂魄回西岐，莲花伤心欲绝！</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.56</aspect>
+        <width>1152</width>
+        <height>720</height>
+        <durationinseconds>1433</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>14_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

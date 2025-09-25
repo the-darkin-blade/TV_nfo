@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>雅媛发现礼和恋上自己</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>初五启市录</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3225407</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>飞认定美凤隐瞒身分，以佟宝宝假名示人，欲以美凤儿时的弱点证明。不料宝宝未见影响，对美凤最害怕之物不为所动。飞心有不忿，始终认为宝宝就是美凤，遂回家寻求其他人的和议。只有大青因为打麻将的恩怨而记得美凤一家，带飞回到他幼年时长大的芳村，找寻昔日的生活痕迹。
+
+按大青记忆所知，村中的教堂内藏美凤身分的证明，飞便以此项强力证据再次向宝宝逼供。宝宝见无法隐瞒，只好承认自己是美凤，同时向飞一一道出幼年离开芳村后，辗转流浪的可怜遭遇，并要求飞保守秘密，让她能过安稳生活。飞在同情下，答应了请求。
+
+宝宝独自回到芳村找寻留有证据的教堂，经神父求证，发现飞口中的证据竟然……
+
+恋情曝光　掀起争拗
+
+宝宝继续随百年出席各种活动，以百年红颜知己的身分结交上流社会名仕，却暗地里被讥笑她和百年之间年纪差距过大。雅媛在同一场合重遇前男友敏豪，淑贤认为雅媛大可与敏豪再续前缘，无奈敏豪此刻已成家立室。
+
+宝宝与百年的恋情被报纸刊登，瞬即成为城中热谈。百年得悉宝宝为此而被亲族指点，不忍知己受辱，决定迎娶宝宝。然而续弦一事得不到家人支持，尤其是绍业更怒言相向，声称不会出席参与父亲的喜酒。
+
+大青撮合　礼和苏芬
+
+看到宝宝与百年间情事的报道，大青灵机一触，想到若然高攀唐家，即可如宝宝一样飞黄腾达，有意撮合女儿芬和礼和。大青强行带芬到影楼，打算为芬拍摄一辑沙龙，为了让芬展现出与平日不同的形象，吩咐影楼的师傅为她特别化妆。另一方面，大青又约礼和到影楼，欲让礼和见到芬最漂亮的一面。
+
+礼和到达影楼后，与大青看到正上好妆的芬，莫不被那妆扮吓倒。芬在影楼的妆扮传到街头巷尾，被街坊嘲笑，又知道母亲暗地里欲撮合她和礼和，令她怒不可遏。
+
+礼和承认　有心上人
+
+飞未料到母亲有此举动，赶忙向礼和致歉。礼和笑称并没在意，更向飞坦言，其实自己早有心上人。飞追问他心仪的对象，礼和便改口说是电影明星蒙混过去，心中却暗自叹息。
+
+礼和饲养的小龟不知所终，雅文在杂物房找回小龟，同时发现到一个被上锁的小宝盒。因不知小宝盒内藏何物，雅文便交予雅媛处理。雅媛整理小木盒的物品，内里放有礼和儿时的玩具，当中有一个礼和写的童话剧本《乌龟王子》，故事的公主和王子，分别写上自己和礼和的名字，才惊觉礼和对自己的心意……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>960</width>
+        <height>544</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>The.Day.Of.Days.Ep08_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

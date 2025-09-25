@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 15 集</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486669</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小玉在院子里想着和纳兰东间发生的一切又以为纳兰东喜欢的是靖澜。这时李益前来拿出一首诗请小玉观看明白自己心中所想，求小玉再给自己一次机会两人重头来过。小玉答应让一切过去。李益带着小玉前来向纳兰东道歉，纳兰东对李益说当日是故意说那些气话来气他让他对小玉更上心。小玉拿出两个香囊赠于纳兰东及没在的靖澜，纳兰东表示带靖澜一并谢过。小玉问靖澜和纳兰东还好吗？靖澜说自己和纳兰东没有什么。小玉还劝靖澜要好好把握幸福。靖澜幽怨的说如果幸福在自己手中还能把握，可如果幸福不在自己手中呢。崔长空喜欢上一名教司在酒馆内李益当着小玉和韦博文的面指责他是一个喜新厌旧的人。这时小玉在酒馆内看到一对唱曲的夫妇甚是可怜便要听曲，结果小玉为此与一流氓在酒馆内吵了起来，流氓指责小玉被梦王戏耍连做歌姬的资格都没有。小玉回说自己随时可以续籍，流氓又讥笑小玉如果续籍怎么配得上李益。小玉续了籍却不接待客人，慈瑞明白小玉这么做是为了和李益相配但紫檀殿这么大的花销又怎么办。慈瑞告诉小玉现在有一句珠宝商人很希望能汇集长安三名花，意浓和莫玥都已经答应下来。纳兰东责怪小玉不该续牌这怎么能让李家夫人和老爷不怪罪呢。小玉生气的指责纳兰东介意的还有他吧。小玉伤心的哭起来。小玉告诉纳兰东不论自己续不续自己都出身寒门，如果李夫人不同意根本不用找这样的借口。纳兰东告诉小玉不论发生什么事自己都会站在她的身边支持。钱公子觉得自己在紫檀殿三名花没有陪好又被浣纱赶出来扬言要放火烧了紫檀殿正好被在外的靖澜碰到将之骂走。靖澜和纳兰东一起来到紫檀殿话没说一会钱鲍彩凤跑进来连呼不好了，那个钱有财真是杨炎的门生扬言要去告状。意浓表示最近杨炎对自己有些冷淡，如果是自己一人之事还好但要兼顾三人自己也没有把握，还好现在杨炎不在。靖澜发现纳兰东一个人要出门，靖澜知道纳兰东要是自教训钱有才，靖澜问纳兰东这么默默的对小玉好值得吗？纳兰东请靖澜保守这个秘密。纳兰东找到正在寻观作乐的钱有财将其殴打。杨炎将钱有财的案子交给了韦博文。众人一起商量是为难却没有什么好的办法。小玉为了不让纳兰东受罪被抓主动到韦博文处认罪请求抓了自己，这时小的进来汇报纳兰东也前来认罪。靖澜求卢杞帮忙，卢杞告诉靖澜救纳兰东只有他自己。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep15.20130924.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20130924 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>924</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep15.20130924.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="924" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

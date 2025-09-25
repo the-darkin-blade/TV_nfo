@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 2 集</title>
+  <originaltitle>낯선 자들의 방문</originaltitle>
+  <showtitle>特殊案件专案组TEN</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id>4430681</id>
+  <uniqueid default="false" type="tmdb">1003475</uniqueid>
+  <uniqueid default="false" type="trakt">960248</uniqueid>
+  <uniqueid default="true" type="tvdb">4430681</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>고급 전원 주택에서 일가족 4명이 처참하게 살해되는 사건이 발생한다. 피해자들은 각자의 방에서 처참한 시신으로 발견되고, 사건 현장에서 유일하게 살아남은 사람은 70대 할머니. 하지만 치매 환자인 할머니는 사건이 발생하던 당시의 기억이 전혀 없다. 범인은 왜 사건의 유일한 목격자인 할머니를 살려두었을까? 수사가 진행될수록 할머니와 죽은 가족들에 대한 비밀이 드러나기 시작하는데…</plot>
+  <runtime>83</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>OCN</studio>
+  <studio>Studio Dragon</studio>
+  <dateadded>2025-09-15 20:28:51</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>856</width>
+        <height>480</height>
+        <durationinseconds>4989</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E02.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>宇森夺得行动指挥权</title>
+  <originaltitle>Episode 22</originaltitle>
+  <showtitle>铁探</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>7110003</id>
+  <uniqueid default="false" type="tmdb">1751195</uniqueid>
+  <uniqueid default="false" type="trakt">3453059</uniqueid>
+  <uniqueid default="true" type="tvdb">7110003</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>励杰主动替尚垶等人承担下来偷听的罪责，曦华将这件事交给宇森处理，故意给他出一个两难的难题。宇森估到了曦华的想法，所以没有追责尚垶等人，倒是展开对警察内鬼的调查，他们推断出国曙极有可能是营长的内鬼。励杰本想将此事告知曦华，但却得知自己其实只是权斗的牺牲品，犹豫之下，决定帮助宇森。
+
+曦华准备会见展亮，却见到助理处长(刑事)尹天昱也随行而来。原来，展亮此行的目的是让曦华将案件移交给天昱。曦华眼看就要失势，便暗中询问励杰偷听的录音是否有帮助自己的情报。
+
+就在这时，尚垶收到秉高的信息，得知了交易地点。宇森当即想到办法，可以迅速扭转局势。于是宇森便私底下要求曦华让权，但她并不接受。宇森便单刀直入，杀入处长和曦华的会谈之中。在压力下，曦华表面维持着和宇森的和气，不得已接受了宇森提出的要求，将他确立为行动的指挥官。
+
+永正安排释放蔚乔和正龙，在蔚乔身上装了偷听器，并秘密跟踪，期望获得更多的线索。秉高来到了营长的秘密军火库，见到了已准备好的军火。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <studio>TVB Jade</studio>
+  <studio>Tencent Penguin Pictures</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:25</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1315</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Defected.E22.2019.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade The Defected 2019 Hdctv qsv av1</title>
+  <originaltitle/>
+  <showtitle>铁探</showtitle>
+  <season>1</season>
+  <episode>2019</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <studio>TVB Jade</studio>
+  <studio>Tencent Penguin Pictures</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:25</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1315</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Defected.E22.2019.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2019" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

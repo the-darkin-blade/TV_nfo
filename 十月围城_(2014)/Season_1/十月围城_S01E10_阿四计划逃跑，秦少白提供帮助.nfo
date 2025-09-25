@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿四计划逃跑，秦少白提供帮助</title>
+  <originaltitle>阿四计划逃跑，秦少白提供帮助</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>4938188</id>
+  <uniqueid default="false" type="tmdb">2728550</uniqueid>
+  <uniqueid default="false" type="trakt">1305959</uniqueid>
+  <uniqueid default="true" type="tvdb">4938188</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>阿四堵了区舒云的嘴，从窗户溜出去，在房檐藏到天黑，伺机打晕一个守卫清兵，换上清兵衣服溜出去，穿青云巷直奔后花园角门。眼看出门，被一个人叫住，摘下帽子，却是秦少白。阿四只道秦少白要阻拦自己，没想到秦少白说后花园角门根本出不去，给他另外指了条路。阿四抬脚就走，又顿住，问陈先生，你能想想办法救救李老爷吗？秦少白摇头，眼下能救他的人只有你！阿四摸摸良心，一咬牙说那我就留一阵子看看情况！秦少白感激，鼓励。阿四说可那区小姐不好对付，秦少白说她听我的，说着掏出写好的信，让阿四带给区舒云。回到洞房，阿四对区舒云说秦少白不让我们走，正说着区巡抚赶回李家洞房来要来接真正的区舒云。阿四、区巡抚翁婿俩见面了。区巡抚客气地说落下了一个陪房丫头，要带回去。阿四说这丫头是刺客，秦少白同党，身上还带着枪，证据确凿。那我现在就去找铁大人，把证据全都交出！ 这就是摊牌了，拿区舒云当人质，逼区巡抚救李家。区巡抚脑子疾转，忽然说这陪房丫头我不要了，李公子看着办吧，说罢出门！区巡抚走后，区舒云得到秦少白的消息，彻底踏实了。对阿四和秦少白的师生、朋友关系深信不疑，对阿四也有了几分好脸。区巡抚来到贵宾室，说女儿既已抬走，自己无需避嫌，不敢逃避职责，要和铁山一起办案。天亮后，官兵撤出李家，将抓获的革命党与李玉堂一起带走。李玉堂被带走前对阿四说：“重光”，李家儿女都是从大风大浪中走过，你一定要照顾好李家。阿四一面稳住区舒云，一面在李老太太面前扮演“李重光”并配合老丁撒谎说李玉堂生意上有事情出门去了。重犯花青由两个衙门共同转移看押，铁刚代表将军府，李重甲代表抚衙。李重甲借此机会与铁山接近。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep10_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

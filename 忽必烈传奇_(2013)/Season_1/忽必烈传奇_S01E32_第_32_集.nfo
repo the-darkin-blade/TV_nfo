@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 32 集</title>
+  <originaltitle>第 32 集</originaltitle>
+  <showtitle>忽必烈传奇</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2821434</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>郝沁很担心失烈门，两人都爱着对方，失烈门答应她不会再离开。大妃父亲阿兰达尔担心忽必烈得势后会对蒙哥不力，众臣表示不满，蒙哥让他们不用操心。贴尼身体日渐衰弱，忽必烈前去看望后准备赶往金莲川。忽必烈听从了郝经的劝说，金莲川是开府的好地方，郝经担忧蒙哥一时兴起会让人嫉妒。阿兰达尔以邢州税库有问题向蒙哥请求前去查明，蒙哥知道不像忽必烈干的，他让阿兰达尔先去邢州查一下……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2648</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Legend.Of.Kublai.Khan.Ep32.720P.Hdtv.X264.2Audio-Hdwtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

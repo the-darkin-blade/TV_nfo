@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:32 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>青云振作　欢畅回菲</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>1623601</id>
+  <uniqueid default="false" type="tmdb">1992295</uniqueid>
+  <uniqueid default="false" type="trakt">1576546</uniqueid>
+  <uniqueid default="true" type="tvdb">1623601</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>因旅游的照片，青云觉摄影也有兴趣，问欢畅借钱报读摄影，欢畅觉青云终于从失恋中清醒过来，安心回菲律宾工作。珠美找来富一同上班，看见来富与欢畅同用情侣杯，又穿错对方拖鞋，认定二人是情侣，来富百词莫辩。来富正式当上荷官工作，欢畅为意头给来富利是，珠美又取笑来富，令来富更想逃避欢畅。兄弟二人巧合地在超级市场相遇，欢畅回家时教来富偷摘芒果，因被发现而牵手狂奔，来富却勾起亲切的感觉。来富以为日久相处真的喜欢上欢畅而感到迷茫，于是打电话与青云讨教，青云不知就里支持来富。来富在洗牌时因记得牌序，却发现其他荷官派牌给客人时点数却有分别。来富狐疑向站台主任说出有人换牌，却反遭责骂。欢畅在监控室发现有客人有可疑，回看录影带时被正初发现，来富向欢畅说出前事，令欢畅更相信有人出千。欢畅向正初举报，正初只炒了荷官Peter了事。高名找人对付欢畅，幸正初及时出手相救。欢畅到昌家作客，向昌说出赌场保安不够先进，昌之后要求正初更换系统，令正初感不是味儿。福荣向欢畅直言不满他在正初背后放冷箭，欢畅坚持自己没有做失义之事。来富因换牌之事被调去洗牌房工作，正初说澳门有监控经理一职悬空，想他调任但欢畅反对，正初唯有另谋对策。新保安系统完成却突然停顿，正初更藉此要欢畅离职，欢畅坚持完成手头工作会请辞。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2681</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep17.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

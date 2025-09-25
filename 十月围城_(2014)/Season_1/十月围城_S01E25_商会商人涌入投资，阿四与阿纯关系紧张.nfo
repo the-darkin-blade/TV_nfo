@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>商会商人涌入投资，阿四与阿纯关系紧张</title>
+  <originaltitle>商会商人涌入投资，阿四与阿纯关系紧张</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>4938203</id>
+  <uniqueid default="false" type="tmdb">2728567</uniqueid>
+  <uniqueid default="false" type="trakt">1306335</uniqueid>
+  <uniqueid default="true" type="tvdb">4938203</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>商会的商人们纷至沓来，都要入股，李玉堂来者不拒。区巡抚心花怒放，送给女儿女婿一辆洋汽车。李公子夫妇如今是广州城最拉风的人物。区舒云一向认为爱一个人就该痛痛快快，阿四和自己共处一室，阿纯在一边看着，三个人这种状况实在别扭，居然向老太太提出，让阿四收阿纯做姨奶奶。阿四跟着李玉堂进出制造局，学着“扮演”总办，难免露馅，李重甲主动为阿四补台，他对阿四的态度明显变了，真诚而善意，处处为阿四着想，阿四觉得很意外，天性善良的阿四处事标准是谁对我好，我对谁好，对李重甲也越来越信任。区舒云把阿四和阿纯的房间布置好了，摆了一桌酒，请阿四、阿纯、李玉堂和老太太，提出让阿四和阿纯“圆房”。本来希望看到阿四阿纯喜出望外，却深深伤害了阿四和阿纯。阿纯当场绷不住，离席而去。阿纯明白自己再呆下去，这个家不会安静，李念慈在一旁都看得明白，把阿纯送到教会办的慈善护士学校学习。阿纯十分愿意跟李念慈去，离开了李家。整天闲着无事的区舒云跟着李念慈到慈善医院帮忙。教堂里，区舒云默默祈祷早日见到秦少白。一抬眼，看见一个酷似秦少白的人离开教堂。华南制造局的军火工厂建立起来了，第一批弹药样品出来了。铁山、区巡抚在李玉堂的陪同下参观样品和生产线，三方对制造局的未来都有自己的想法。区巡抚忙着联络英国武器商，和李玉堂商量在数量上做手脚，这样有一部分产品最终可以中饱私囊；李玉堂当然有自己的主意。铁山见李重甲，原来李重甲向李玉堂“投诚”是和铁山商量好的，铁山高度提防李玉堂会把制造局的弹药供应革命党，他需要“卧底”。李重甲向铁山保证，只要抓到李玉堂与革命党联系的任何证据，会第一时间提供给他。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1080</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep25_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

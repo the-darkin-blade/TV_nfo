@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第35集 PK大赛进入白热化状态</title>
+  <originaltitle>第35集 PK大赛进入白热化状态</originaltitle>
+  <showtitle>放弃我，抓紧我</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id>5901203</id>
+  <uniqueid default="false" type="tmdb">1250902</uniqueid>
+  <uniqueid default="false" type="trakt">2450165</uniqueid>
+  <uniqueid default="true" type="tvdb">5901203</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>霍骁一再向厉薇薇确认是否真的把往事全都想起来了？厉薇薇告诉他现在站在他面前的不再是二十三岁的傻白甜，而是三十岁的女魔头，和他的婚约也是会履行的，决不赖账。她已经叫里奥办了出院手续，她要赶快回到玲珑开始工作，全力以赴投入入驻枫丹百货的PK大赛中，这不光光是为了公司，也是为了她的个人品牌，这一次她不会失败。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2745</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>J2.Stay.With.Me.Ep35.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

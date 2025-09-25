@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>启蒙老师</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>2398911</id>
+  <uniqueid default="false" type="tmdb">1460693</uniqueid>
+  <uniqueid default="false" type="trakt">1435878</uniqueid>
+  <uniqueid default="true" type="tvdb">2398911</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>阮梅十分节俭，每天只吃剩菜。玲姐去向那些被展博戏弄的人去道歉，展博不想玲姐伤心，骗她说自己和阮梅一起做工，实则是去赌马。他赢了钱，去找阮梅，问她借钱继续赌马，但却全部输了。阮梅很伤心，却拿展博没办法。展博被丁益蟹劫走，阮梅担心他尾随前去，但却跟丢了，只好打电话找玲姐。丁益蟹说要还欠方家的，向展博闹事。玲姐和婷婷赶到时亦不知展博下落，婷婷打电话到斋堂找贱婆婆求助。丁孝蟹赶到救下被打的展博，孝蟹并向玲姐保证以后不会骚扰方家。展博一言不发跑了，叶天找到他，激励他，并要教他怎样赚钱。展博决定振作，要争气，要发财。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1352</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.08_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 08 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1352</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.08_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

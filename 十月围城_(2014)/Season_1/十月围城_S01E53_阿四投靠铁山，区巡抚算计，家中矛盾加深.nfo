@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿四投靠铁山，区巡抚算计，家中矛盾加深</title>
+  <originaltitle>阿四投靠铁山，区巡抚算计，家中矛盾加深</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>53</episode>
+  <id>4938232</id>
+  <uniqueid default="false" type="tmdb">2728597</uniqueid>
+  <uniqueid default="false" type="trakt">1307756</uniqueid>
+  <uniqueid default="true" type="tvdb">4938232</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>夜半，翁婿独对。区巡抚算计，阿四说真有办法翻盘？区巡抚说有，投靠铁山。制造局，铁山当众表彰阿四一举肃清潜伏革命党，然后等着看阿四的反应。阿四站出来，大庭广众之下，阿四给铁山磕了三个头。在外面忙了一天的阿四，竟不敢回家。他不知道该怎么面对区舒云。经过李府大门，他犹豫了一下，说回制造局，我要连夜办公事。按区巡抚的指点，阿四真的替铁山办了实事，他将几个暗中把从制造局买到的军火转卖给革命党武器的外国洋行名单献给了铁山。铁山大喜！李重甲大惑！秦少白大悲！革命党大怒！区舒云气疯了！区舒云问阿四是不是打算卧底？阿四心里刀割般难受，可还得把戏演到底，继续瞒着区舒云。隔墙有耳，李重甲就在院子里听着壁脚。他判断不清阿四到底是真的投降了，还是另有所图？区舒云心灰意冷，要带区巡抚离开李家！区巡抚装疯卖傻百般捣乱跳入池塘，让区舒云走不成。阿纯时常来给区巡抚配药打针。区舒云和阿四的矛盾她都看在眼里，送阿纯回去的路上，阿四问你相信我吗？阿纯说相信。阿四感动，握住她手；阿纯说舒云不相信你，因为她真的爱你。阿四心里一震，却无言以对。李重甲终于拿到起义计划！铁山运筹帷幄，口袋张开，只等革命党来钻。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2652</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep53_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="53" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

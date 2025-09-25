@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>扑天雕双修生死书</title>
+  <originaltitle>扑天雕双修生死书</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>46</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026663</uniqueid>
+  <uniqueid default="false" type="trakt">7308149</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>祝家庄防犯森严，到处搜查细作。石秀蹲在村里路旁卖柴，好半天没有一个人敢理他，因为庄主严令接触生人。杨雄扮着解魇的法师，在村里乱转，早被几个庄丁盯住了。石秀好不好容易跟一个老人家拉上话，老人家把一些机关秘密都告诉了他。石秀还想继续探听一些情况，却看到杨雄被庄丁们抓住了，他悄悄寻找解救的机会。宋江见石秀、杨雄许久不回，情知不妙，急切调兵，趁夜强攻。这正犯了兵家大忌，三路人马全部被围困在林间盘陀路上，祝彪指挥队伍前后左右不断袭击，箭矢齐发，路障重重，令梁山队伍伤亡严重。石秀听到杀声震天，来不及解救杨雄，一头钻进树林，找到宋江等人，告诉他们遇到白杨树就转弯，队伍这才显得有所秩序。祝彪怀疑有人透露了秘密，马上改变策略，用夜灯指示进攻，使宋江又一阵忙乱，直到花荣用箭将灯射灭，队伍才摆脱困境。负责探察地形的黄信遇到庄丁阻击，他令手下喽罗将地图送与宋江，自己拼命抵抗，不幸被俘。眼看久攻不下，宋江只得下令撤退。祝彪为了得到扈家庄的援助，暗中派人杀害了扈太公。扈三娘猜测是祝家庄所为，前来责问祝彪。祝彪诬陷是梁山人马所为，力邀扈三娘共同抗敌。祝太公感到力有不逮，密令心腹祝二携书信向州衙求援。一打祝家庄以失败告终，宋江十分自责，立誓“若踏不平祝家庄，绝不回梁山”。他派人去李家庄联络，可是李应不想与梁山有什么瓜葛，没有出面，但暗示了破庄的进攻之策。宋江大喜，策划二打祝家庄，准备水陆双攻、四面夹击。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2675</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E46 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="46" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

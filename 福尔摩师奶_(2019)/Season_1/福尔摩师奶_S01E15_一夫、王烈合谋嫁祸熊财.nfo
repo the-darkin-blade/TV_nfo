@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>一夫、王烈合谋嫁祸熊财</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>福尔摩师奶</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1727798</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>一夫冲入火场救人，有街坊葬身火海，众指责更练擅离职守，百川声望受损。街坊指控熊财盗取陪葬品，百川借势命罗拔搜查熊财店铺，果然发现大批赃物。妹娣不甘被一夫利用，向祖迪倾诉，察觉一夫有异。祖迪怀疑嫁祸熊财的另有其人，吩咐德英调查一夫。王烈威胁牡丹离间罗拔与熊财。祖迪在菲腊旧照发现别墅屋契的异样，往找素嘉时惊悉她被人掳走。牡丹偷听到王烈与一夫的对话，提醒祖迪小心提防。深夜，祖迪寻访一夫，瞥见尸体大惊……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2653</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>TVBOXNOW 福爾摩師奶 EP15_H265.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

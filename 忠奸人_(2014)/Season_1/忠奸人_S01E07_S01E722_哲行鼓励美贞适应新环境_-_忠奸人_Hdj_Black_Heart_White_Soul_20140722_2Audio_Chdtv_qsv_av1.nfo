@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>哲行鼓励美贞适应新环境</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>4938907</id>
+  <uniqueid default="false" type="tmdb">1984047</uniqueid>
+  <uniqueid default="false" type="trakt">1304253</uniqueid>
+  <uniqueid default="true" type="tvdb">4938907</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>绰姿的父亲杜以铿是香港最大的地产商，启源亦是他的下属。以铿对女儿相当溺爱，但绰姿却一直想独立生活，故努力用心完成犯罪心理学的课程。以铿为表支持女儿，亦特意抽空到大学支持绰姿完成演讲，看见父亲的出现令她甚感高兴。
+
+立勋及慧英因为调查而来到了以铿经营的酒店，亦刚好遇上以铿和绰姿，以铿见状便主动邀请立勋及慧英一起吃晚饭，慧英见以铿盛情难却不便拒绝，便与立勋一起接受了以铿的邀请。在席间以铿竟然对立勋一家的事瞭如指掌，明显以铿是暗中调查过绰姿身边的朋友。
+
+嘉莉出手　平息纠纷
+
+承义一直对绰姿有意，而当承义得知立勋曾与绰姿的父亲共膳后，即显得既紧张又羡慕。承义更要求立勋如有机会再与绰姿见面，一定要通知自己，令立勋大感烦扰。
+
+另一方面，绰姿知道以铿派人调查自己的朋友后显得十分不满，出言顶撞父亲后一走了之。以铿对如何令女儿息怒无计可施，便与嘉莉商量，嘉莉对绰姿的脾气相当了解，故即安排饭局让两父女见面，终成功说服绰姿与以铿和好。
+
+哲行聘请　美贞入职
+
+美贞决心重新做人，于是在停车场洗车以赚取生活费，哲行发现美贞的情况后主动替她安排职位，并邀请美贞到自己的办公室工作。
+
+但美贞在上班第一日，即发现自己并不适合从事文职工作，因此留下便条向哲行提出辞职。哲行得知美贞离开后自到美贞的居所找她见面，并帮美贞缴交拖欠已久的房租。
+
+美贞起初拒绝回到哲行的公司工作，但是经哲行苦口婆心的鼓励后，美贞亦回心转意。美贞为求能胜任哲行所安排的工作，并努力在公余时间进修。
+
+泽川启源　互不相让
+
+泽川是以铿的老朋友，但亦同时是启源的竞争对手。泽川及启源之间亦因手下地产经纪互相争夺客户而闹不和，结果更在以铿面前展开争辩。以铿一气之下决定将独家代理权交给泽川，因而令启源大感气结。
+
+启源便与敏晖一起策划行动，敏晖认为启源要取代泽川殊不简单，必须要进一步取得以铿信任才能成事，而启源心中看来亦已有全盘计划。  立勋出手　协助绰姿
+
+绰姿与立勋一起回校，却在学校遇上了绰姿的疯狂追求者，令绰姿尴尬万分。立勋见状则抱着轻松态度，更假扮绰姿的男朋友，成功将让疯狂追求者离开。看见立勋的行动，不禁令绰姿对他更充满了好感……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep07.20140722.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>忠奸人 Hdj Black Heart White Soul 20140722 2Audio Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>722</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep07.20140722.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="722" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

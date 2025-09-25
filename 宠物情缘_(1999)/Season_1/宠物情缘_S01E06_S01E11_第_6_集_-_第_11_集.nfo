@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 6 集</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>宠物情缘</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>7480265</id>
+  <uniqueid default="false" type="tmdb">2001426</uniqueid>
+  <uniqueid default="false" type="trakt">3823850</uniqueid>
+  <uniqueid default="true" type="tvdb">7480265</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>朗介绍仁给珊做男友，惜珊已和硕在一起。敏发现送花人竟是男而非硕，当面拒绝男，康Sir鼓励敏要对硕采取主动。Rocky被硕领养，两狗重逢，开心不已，但却常受朗的牵制。珊向朗说出已和硕拍拖。珊内部转职为助导，第一天上班便被人忽略，于是主动出击，老板Ken给与草稿叫珊打字，珊花了一个通宵才完成，Ken看后却给同事再打，珊感无地自容。仁发现自己爱上朗，遂向她表白，朗惊惶失措。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1080</height>
+        <durationinseconds>1372</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 宠物情缘 Ep06 2016 05 11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第 11 集</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>宠物情缘</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>7480274</id>
+  <uniqueid default="false" type="tmdb">2001431</uniqueid>
+  <uniqueid default="false" type="trakt">3823855</uniqueid>
+  <uniqueid default="true" type="tvdb">7480274</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>敏一拳拒绝男爱意，男对敏锲而不舍。方终于被男和忠哄骗入局，忠奸计得逞，后来却被方感动，良心发现。朗被王姓男子经常骚扰，于是在电话内表白自己已心有所属，岂料对方竟是硕，朗的说话全被硕听进耳里去。硕询问朗在电话内的表白，朗虽否认，Rocky与豆豆却令硕发现朗买给硕之罗盘，硕看着失神。朗为失宠之家发动筹款，男与忠对她的举动嗤之以鼻，硕不敢苟同，决帮助朗。八号风球挂起，横风横雨，朗仍到沙滩替硕整理风帆。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1080</height>
+        <durationinseconds>1372</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 宠物情缘 Ep06 2016 05 11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

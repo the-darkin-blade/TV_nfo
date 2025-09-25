@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>劫法场石秀拼命</title>
+  <originaltitle>劫法场石秀拼命</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>61</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026678</uniqueid>
+  <uniqueid default="false" type="trakt">7308164</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>柴进找到蔡福，要求蔡福想办法解救卢俊义。蔡福索性用李固给他的金子打点梁中书与张孔目。一番贿赂之后，梁中书与张孔目下令免去卢俊义死罪，杖打四十，刺配三千里外沙门岛。董超、薛霸负责押送卢俊义前往沙门岛。路途中，李固再次贿赂董超、薛霸二人，让两人在路途中结果了卢俊义的性命。董超、薛霸在路上对卢俊义万般刁难，用滚烫开水给卢俊义洗脚。卢俊义双脚被烫起燎泡，行动不便，痛苦难当。再次上路，脚被烫伤卢俊义已经无法逃脱，借这个机会，董超薛霸打算杀掉卢俊义。卢俊义此时才知道李固从中作梗，当初燕青调戏贾氏完全是李固和贾氏串通。危难时刻，燕青放冷箭杀死了董超、薛霸，救出了卢俊义。两人背了命案，杀了公差，只有上梁山一条道路可选。为了躲避官兵的追查，燕青将卢俊义交给唐家父子照看，自己去大名府内取给卢俊义治疗烫伤的金创药。燕青路遇杨雄、石秀，二人奉宋江的命令来接应卢俊义、燕青。三人拿了金创药回去找卢俊义时，发现唐家三口已经被官府杀害，卢俊义被抓回了官府。梁中书试探卢俊义是否肯给蔡太师蔡京卖命，卢俊义言辞回绝。梁中书大怒，命令处斩卢俊义。法场上，燕青、杨雄、石秀等人前来劫法场，寡不敌众，卢俊义和石秀被官兵捉拿。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2650</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E61 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="61" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:17:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>我飞向云龙灌输内功</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>翻生武林</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1993654</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>我飞提议孔杂自断手筋，诬蔑是东厂所为。皇上因不群替百姓解毒有功，册封为大将军，赠四爪蠎袍，以及能医百病的「金龙之子」。孔杂闯进，指自己双手被东厂人废掉，以及不群种种恶行，呼吁群众推翻东厂。我飞乘云龙不为意打他落山崖。云龙被救起时筋骨断裂，经脉尽毁；素素、在心等将内功输给云龙，令他起死回生；其后我飞再灌入真经内功，令云龙三日内已达十年功力。不群在在心房间，发现一男一女无头布娃，知道在心已爱上云龙……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2620</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Birth.Of.A.Hero.Complete.Hdtv.1080I.H264-Chdhktv.Ep12_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

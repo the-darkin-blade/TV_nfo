@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:10:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>家朗终被雅璇感动</title>
+  <originaltitle>Episode 29</originaltitle>
+  <showtitle>飞虎之潜行极战</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id>6639168</id>
+  <uniqueid default="false" type="tmdb">1489598</uniqueid>
+  <uniqueid default="false" type="trakt">2996150</uniqueid>
+  <uniqueid default="true" type="tvdb">6639168</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>高家俊要庄雅璇离开自己，却反被对方打动，俊向璇求婚，璇答应。红狼意图在香港多处发动袭击，为制止红狼，聂宇航和雷焯锋严密部署行动。另一方面，红狼藉狙击股市来搞垮香港经济，为稳住股市，航找来卢曼娜协助…</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shaw Brothers</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2626</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Flying.Tiger.2018.E29.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

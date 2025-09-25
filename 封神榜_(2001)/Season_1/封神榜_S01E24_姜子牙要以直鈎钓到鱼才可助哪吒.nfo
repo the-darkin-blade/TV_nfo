@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>姜子牙要以直鈎钓到鱼才可助哪吒</title>
+  <originaltitle>Episode 24</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id>4418948</id>
+  <uniqueid default="false" type="tmdb">2025542</uniqueid>
+  <uniqueid default="false" type="trakt">1484654</uniqueid>
+  <uniqueid default="true" type="tvdb">4418948</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>妲己深得纣王宠爱，在皇宫中几乎可呼风唤雨，令皇后及其他众嫔妃看不过眼，妲己处变不惊，更设法对付身边种种敌人，包括自己妹妹凝香亦不放过，姬昌因为敢言敢谏，以一句「牝鸡司晨」而开罪妲己，被逼当众受烙刑之苦，李靖、凝香看在眼内，甚感无奈！而琵琶自持是妲己身边红人，对李家上下更为不敬，只要一言不合，即对金吒、木吒又骂又掴，李靖心感难过，姬昌接受酷刑后被收监，凝香偷偷探望，姬昌托凝香忠告吧考不要入宫代己求情，可惜邑考待父至孝，决定带同三件西岐宝物向纣王求情，纣王眼见三宝物乃稀世奇珍，怒气亦暂且消除，可惜九尾狐在当中搅局，令纣王当众大出洋相，因而下令处斩邑考，幸得妲己代为求情从此，邑考便要教妲己弹琴，心中大感不安！
+
+十娘与子牙互相欣赏，子牙答应只要钓到鱼便可令哪吒回复真身，令十娘充满信心，反而是哪吒不信子牙以直鈎可钓到鱼，所以惟有诚心祈求女娲娘娘相助，而女娲娘娘居然显灵，赐下四不像给哪吒，令哪吒开心不已，但十娘总觉四不像满身妖气，因而不准哪吒接近，可惜哪吒深信四不像能助自己！</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1046</width>
+        <height>720</height>
+        <durationinseconds>1367</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>24_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

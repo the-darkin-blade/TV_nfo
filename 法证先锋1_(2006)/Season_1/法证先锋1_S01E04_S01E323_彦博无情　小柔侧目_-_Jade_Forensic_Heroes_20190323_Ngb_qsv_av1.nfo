@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>彦博无情　小柔侧目</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>4155071</id>
+  <uniqueid default="false" type="tmdb">1828872</uniqueid>
+  <uniqueid default="false" type="trakt">1489362</uniqueid>
+  <uniqueid default="true" type="tvdb">4155071</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小柔将彦博对待老父的情况看在眼内，对彦博的人品重新估计。警方经过调查后，发现在工厂大厦旁找到的砖块与从高空掷下的属同一批，而且更在砖块之中找到一张写有「正」字的纸张，当中似乎隐藏着一些重要的线索……
+
+泽瑶开始接受化疗，彦博前往探望，在医院中，他重遇旧同学沛沛，当她知道泽瑶遭逢惨变，心中黯然。
+
+小柔对掷物案仍无头绪，泽琛见状出手相助，为小柔分析犯人的心态，怎料反而差点令小柔被砖块击中，小柔为之气结；但当她仔细查看从砖块中找到的纸张，小柔发现此乃马夫带私钟跑钟的记录，开始认同泽琛的分析。
+
+淑媛表现失准，彦博追问之下，方知淑媛儿时亲眼见到妹妹被虐致死的真相……
+
+泽琛在街上见到马夫耀光拿着砖块状的物品，于是立即通知小柔，自己则独自跟踪，怎料在后巷受到袭击……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1327</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E04.20190323.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Forensic Heroes 20190323 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>323</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1327</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E04.20190323.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="323" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 1 集</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>老友狗狗</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2426242</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>黑道人士非法集会，警方派出警犬队维持秩序，黑帮首领颜大强和手下因藏有毒品而被吓得慌张走避，警犬队队员何天佑联同警犬拍档Bingo到处搜寻两人下落。天佑成功在茶餐厅找到大强，他却以餐叉胁持路人黎俊升，以迫使天佑和Bingo让路，俊升和天佑与Bingo交换了一个眼神后，轻易将大强制伏。
+
+原来俊升是警犬队的教官，亦是天佑的师傅，两人情同父子，俊升薄责天佑和Bingo的默契不足，慨叹天佑未有机会向他和警犬拍档Lulu学习。  俊升助查　金牌失窃  俊升的兽医女儿羡如为了拯救被车撞伤的小狗，不惜开罪阔太客人，而被她责难，俊升护女心切将阔太气走。羡如担心小狗的情况，决定留在宠物医院过夜，着俊升先行离去。俊升决定租用天佑表哥周用恭在长胜村的土地开设狗场，巧遇村内长辈七叔公的大寿，邀请俊升列席贺寿。
+
+村中兄弟周用发的太太陈美莲发现，七叔公准备回礼予村内众男丁的金牌被盗，众人到处搜寻金牌的下落。村中传来狗只被杀的消息，矛头直指用恭，俊升示意天佑带Bingo协助找出真相，又派人拖延七叔公分派金牌的时间。  真相大白　全赖Bingo  Bingo带领众人来到用恭的住所，并找出遗失的金牌，使用恭的嫌疑更大，在他百词莫辩之际，Bingo找到新线索证明失窃与他无关，用恭却不满俊升的态度而暗气。天佑和俊升向村民教授饲养狗只的正确方法，两人大受欢迎，使用恭感不屑；用恭把签妥的租约交予俊升，着他日后装修狗场时，要光顾他开设的水电公司。  富家女蒋天娥带同爱犬Woody到羡如工作的宠物医院就医，患有洁癖的她目中无人，惹来其他狗主的不满，Woody擅自离开狗袋，不慎遇上失禁的狗只，俊升善意地把Woody抱予天娥，让她替爱犬抹脚，却吓得她失足跌在地上。  天娥被掳　家人担心  天娥的哥哥天雄欲讨父亲应钧欢心，却在会议上出丑，应钧失望；天娥则着天雄不要再插手公司的事务，建议他把时间投放在买车买楼和追求女明星上。天娥带Woody往进行宠物美容，又提醒天雄接送父亲到会所一起晚膳，随后Woody却被人用食物引到后巷，当天娥赶至时，却突然被人掳走。晚上，应钧收到一个视像短讯，恍然女儿遭绑架，并勒索他一千万赎金。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1914</width>
+        <height>1080</height>
+        <durationinseconds>2648</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

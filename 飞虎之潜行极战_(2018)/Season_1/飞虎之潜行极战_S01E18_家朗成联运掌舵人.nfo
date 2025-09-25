@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:09:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>家朗成联运掌舵人</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>飞虎之潜行极战</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id>6639157</id>
+  <uniqueid default="false" type="tmdb">1485194</uniqueid>
+  <uniqueid default="false" type="trakt">2996139</uniqueid>
+  <uniqueid default="true" type="tvdb">6639157</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>戴以菲从雷焯锋口中得知高家朗是擅自决定离开警队的，她四出寻找朗的下落，但朗为了任务只能忍痛不见她。卢曼娜锐意重振联运，并安排朗为下一任主事人，朗为了取得信任亦四出抢地盘，却在此时偶遇菲。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shaw Brothers</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2635</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Flying.Tiger.2018.E18.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

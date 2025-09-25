@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李家老太身体好转</title>
+  <originaltitle>李家老太身体好转</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>4938182</id>
+  <uniqueid default="false" type="tmdb">2728543</uniqueid>
+  <uniqueid default="false" type="trakt">1305826</uniqueid>
+  <uniqueid default="true" type="tvdb">4938182</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李重甲上门拜访区肇新，区肇新正因为手枪被铁山得到的事情愁眉不展，手枪之前落到乱党秦少白手中，铁山怀疑区肇新与秦少白认识，实际上手枪是被区肇新之女舒云悄悄偷走，最后才落到了秦少白手中，区肇新根本不知道这件事情。直到女儿承认偷了手枪，区肇新才如临大敌思忖如何洗清自己的嫌疑，李重甲非常想娶舒云为妻，趁机提议区肇新编一个女儿会见情郎，然后把手枪赠与情郎的谎言，虽然谎言有些蹩脚，但也足以替区肇新洗清嫌疑。区肇新认为李重甲的主意非常妙，不过如果真的要找一个男人来扮成舒云的情郎，显然是一件非常麻烦的事情，如果不把真相告诉给男人知道，男人很有可能会露出马脚，如果把真相告告给男人，男人也有可能会泄密。老谋深算的区肇新经过深熟思虑，决定让李重甲扮成情郎与舒云结婚。李家大院，阿四深夜无法入眼来到寺堂拜拂，李重光的堂姐李念慈起夜经过寺堂，猛然看到阿四，李念慈以为阿四就是李重光，心中升起激动来到阿四身边，伸手不停地抚摸阿四的脸庞，阿四之前已经从小丁嘴中知道李重光还有一个堂姐，因此并没有露出过多的惊恐，而是提心吊胆任凭李念慈抚摸。李老太重病苏醒过来，开口要找李重光，阿四正在房中接过李玉堂赠送的银票，一听李老太苏醒过来，阿四赶紧放好银票来到李老太床边，故意做出一副哭天抹泪的模样欺骗李老太。李老太将阿四唤到身边仔细端祥，感叹阿四的相貌又改变了许多，当年李重光九岁的时候离开李家，算起来祖孙二人已有十几年没有见面。李老太没有识出阿四的真实身份，要求阿四吟唱儿时的歌曲，阿四先是不知道李老太想听干什么歌曲，最后逼得无奈胡乱哼唱一首乡村民歌。李老太欣慰的听着阿四唱歌，胸口忽然一痛吐出一口淤血，淤血吐出来之后，李老太奇迹般好转，郎中来李家检查完李老太的身体，认为李老太已经恢复健康。虽是如此，李玉堂依然希望阿四继续留下来陪伴李老太，阿四见李玉堂延长日期，只得透露还要赶回老家替阿纯治眼疾。铁山四处查找有关李重光的线索，为了进一步调查李玉堂的儿子李重光是否已经死去，铁山派出官员来李府，要求李玉堂带着李重光前往广东校场见面。李玉堂心知铁山是在探他的底细，接到军令不日即带着阿四前往广东校场。阿四已经知道此行凶多吉少，奈何已是骑虎难下只得跟随李玉堂一路前行。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2645</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep04_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

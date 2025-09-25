@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>哪吒终于成为莲藕人</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>4418937</id>
+  <uniqueid default="false" type="tmdb">2025532</uniqueid>
+  <uniqueid default="false" type="trakt">1484616</uniqueid>
+  <uniqueid default="true" type="tvdb">4418937</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>哪吒被琵琶打破金身，烟消魂散后，一直身处一片白茫茫境界，万籁俱寂，他只闻到一片清新泥土味，原来是云中子将哪吒魂魄放入千年莲子中、十娘、杨戬、黄颜日盼夜盼，终于盼到千年莲子发芽与哪吒再次相见，十娘告之哪吒要待莲藕长成，云中子便会将他造成莲藕人，哪吒开心不已，哪吒发现不见莲花，云中子支吾以对。
+
+杨戬、黄颜在十娘相助之下，终结成夫妇，颜母眼见女儿一心嫁杨戬亦只好慢慢接受，惟飞虎仍倔强地不认亲女。春去冬来，十娘等人悉心照顾千年莲子，而哪吒亦顺利经过开花结果阶段，云中子终助哪吒成为莲藕人，但哪吒觉手硬脚硬，不甚开心，云中子安慰哪吒他日行善积福，积满功德便可回复血肉之躯并还哪吒火尖枪，干坤圈，哪吒感激不已。惟哪吒向云中子追问莲花身在何处，云中子居然隐瞒真相，令众莲藕仔生气不已。
+
+颜母眼见女儿生活困苦，故鼓励杨戬到冀州从军，希望有所成就，杨戬夫妇二人本来不想分开，但为了日后生活及不想黄颜受苦，杨戬毅然决定从军，黄颜依依不舍。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1048</width>
+        <height>714</height>
+        <durationinseconds>1460</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>17_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

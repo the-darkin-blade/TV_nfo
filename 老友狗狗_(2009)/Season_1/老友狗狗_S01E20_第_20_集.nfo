@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 20 集</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>老友狗狗</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195990</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>解开心结　接纳用恭
+
+用恭使计摆脱众人，将保龄球交到大强等人手上，才得悉保龄球内的是毒品而非炸弹。用恭乘大强等人不为意，带同羡如逃走，一时情急竟失足堕崖，大强眼看两人生存机会渺茫，遂安心地离开。
+
+大强的座驾在路上抛锚，并遇上天佑等人，Bingo成功将大强制伏，他亦道出用恭和羡如堕崖失踪。用恭和羡如跌进防空洞内，他为逗羡如开心，随手拿来东西载歌载舞，羡如细看后惊叫是战时的炸弹，吓得用恭急将它扔掉并昏倒地上，羡如为把用恭唤醒，不断说出已原谅他的说话，使半醒的用恭窃笑。
+
+天娥灰心　离开俊升  俊升凭村长提供的地图，终于寻获用恭和羡如，并看出两人已和好如初。村长正式将职位传予用发，伟威亦为带来的麻烦向众村民道歉，答应会改过自新，并将酒吧改装为书店。
+
+天娥把发展长胜村的计画交由别的公司打理，使俊升感到不满，两人不欢而散。羡如明白俊升为扩展狗场花了大量心血，遂不停把计画书寄到不同的财团，终于得到回覆，使俊升答应和对方合作。  爱狗乐园　顺利开幕  村民各自为长胜村努力，全村上下均成为爱狗之人，羡如和天佑则成为村内的狗只顾问，羡如则答应和用恭结婚。
+
+三年后，狗场被俊升打理得井然有序，因为天佑即将和嘉汶结婚，俊升遂邀请合作的财团出席婚礼。婚礼当日，天娥带同外籍男友和应钧一起到贺，俊升才恍然一直和他以电邮联系的财团主人翁竟是她。
+
+俊升看见天娥对男友关怀备至，感到不屑，加上应钧的挑衅，更感不是味儿，决定调查该人的身分。俊升怀疑天娥的男友是骗子，更查出其身家全是其他富翁女朋友的遗产，赶往通知天娥却遭冷待，并发现她正准备签下保险文件……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2649</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>20_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

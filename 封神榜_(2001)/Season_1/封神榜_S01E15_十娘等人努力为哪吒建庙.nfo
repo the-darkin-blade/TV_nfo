@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>十娘等人努力为哪吒建庙</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>4418934</id>
+  <uniqueid default="false" type="tmdb">2025529</uniqueid>
+  <uniqueid default="false" type="trakt">1484612</uniqueid>
+  <uniqueid default="true" type="tvdb">4418934</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>颜母听罢十娘一席话，亦不禁心酸，为了哪吒不至成为游魂野鬼，故教十娘、莲花请求云中子之帮助，十娘、莲花在康伯之带路下到达终南山，路上遇见莲人之云中子，但云中子算得哪吒灾星托世，害人害物，应早死早着，故一手将十娘扔至老远，令十娘身受重伤，但十娘并不气馁，负责去向云中子作出请求，爱子之情亦会令云中子动容，终于教十娘在七七四十九日内，为哪吒建庙及造金身，并要哪吒诚心悔改，入庙归位，接受万家香火三年，这样才能再世为人，十娘，杨戬等努力建成哪吒庙，而哪吒亦肯诚心悔改，在颜母之大肆宣俴下，哪吒庙果然香火鼎盛，令十娘欣慰不已。
+
+飞虎决将黄颜许配东伯侯之姜大公子，杨戬知悉，顿感失落不已，为了黄颜终身幸福，杨戬不理飞虎权威，拒绝点收聘礼，飞虎怒不可竭，指杨戬没有自知之明，更戏弄他若要阻止黄颜这头亲事，就必须与十人斗快食饭，杨戬以一敌十，杨戬拼死食饭，黄颜得悉，更感杨戬之诚意。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1048</width>
+        <height>714</height>
+        <durationinseconds>1459</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>15_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

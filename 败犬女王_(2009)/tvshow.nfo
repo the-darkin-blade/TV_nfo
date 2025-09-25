@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:10:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>败犬女王</title>
+  <originaltitle>敗犬女王</originaltitle>
+  <showtitle>败犬女王</showtitle>
+  <sorttitle/>
+  <year>2009</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.3</value>
+      <votes>6</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>单无双，33岁，一个生活塞满工作的女性上班族。也许经过多年的努力，工作有一点成就，可是她却单身，孤单一个人。不只对象越来越难寻获，可恶的是随着年龄的增加，身价更是越来越下跌!!在台湾，年过三十三，对象难寻的单身贵族遍布成河!!</plot>
+  <tagline/>
+  <runtime>90</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"18842","imdb":"tt4344826","wikidata":"Q5975239","tvdb":"143001"}</episodeguide>
+  <id>143001</id>
+  <imdbid>tt4344826</imdbid>
+  <tmdbid>18842</tmdbid>
+  <uniqueid default="false" type="tmdb">18842</uniqueid>
+  <uniqueid default="false" type="imdb">tt4344826</uniqueid>
+  <uniqueid default="false" type="wikidata">Q5975239</uniqueid>
+  <uniqueid default="true" type="tvdb">143001</uniqueid>
+  <premiered>2009-01-04</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <genre>Comedy</genre>
+  <studio>TTV Main Channel</studio>
+  <studio>Sanlih E-Television</studio>
+  <country>台湾</country>
+  <tag>love triangle</tag>
+  <tag>age difference</tag>
+  <tag>obsession</tag>
+  <tag>romance</tag>
+  <tag>older woman younger man relationship</tag>
+  <tag>time skip</tag>
+  <actor>
+    <name>杨谨华</name>
+    <role>Shan Wu-shuang</role>
+    <profile>https://www.themoviedb.org/person/1247111</profile>
+    <tmdbid>1247111</tmdbid>
+  </actor>
+  <actor>
+    <name>阮经天</name>
+    <role>Lucas</role>
+    <profile>https://www.themoviedb.org/person/1063128</profile>
+    <tmdbid>1063128</tmdbid>
+  </actor>
+  <actor>
+    <name>温升豪</name>
+    <role>Sung Yün-hao</role>
+    <profile>https://www.themoviedb.org/person/1247109</profile>
+    <tmdbid>1247109</tmdbid>
+  </actor>
+  <actor>
+    <name>杨雅筑</name>
+    <role>Han Chia-chia</role>
+    <profile>https://www.themoviedb.org/person/2189419</profile>
+    <tmdbid>2189419</tmdbid>
+  </actor>
+  <actor>
+    <name>张怀秋</name>
+    <role>JJ</role>
+    <profile>https://www.themoviedb.org/person/160822</profile>
+    <tmdbid>160822</tmdbid>
+  </actor>
+  <actor>
+    <name>李沛旭</name>
+    <role>Wei Er-kang</role>
+    <profile>https://www.themoviedb.org/person/1247112</profile>
+    <tmdbid>1247112</tmdbid>
+  </actor>
+  <actor>
+    <name>陈博正</name>
+    <role>Hsü Tzu-mo</role>
+    <profile>https://www.themoviedb.org/person/1081519</profile>
+    <tmdbid>1081519</tmdbid>
+  </actor>
+  <actor>
+    <name>朱芯仪</name>
+    <role>Yeh Chih-chi</role>
+    <profile>https://www.themoviedb.org/person/1255151</profile>
+    <tmdbid>1255151</tmdbid>
+  </actor>
+  <actor>
+    <name>宋新妮</name>
+    <role>陆广琳</role>
+    <profile>https://www.themoviedb.org/person/1985738</profile>
+    <tmdbid>1985738</tmdbid>
+  </actor>
+  <actor>
+    <name>应蔚民</name>
+    <role>张若基</role>
+    <profile>https://www.themoviedb.org/person/127684</profile>
+    <tmdbid>127684</tmdbid>
+  </actor>
+  <actor>
+    <name>赵自强</name>
+    <role>曾大方</role>
+    <profile>https://www.themoviedb.org/person/2093327</profile>
+    <tmdbid>2093327</tmdbid>
+  </actor>
+  <actor>
+    <name>陈为民</name>
+    <role>柯梦寒</role>
+    <profile>https://www.themoviedb.org/person/232780</profile>
+    <tmdbid>232780</tmdbid>
+  </actor>
+  <actor>
+    <name>林美秀</name>
+    <role>单林春枝</role>
+    <profile>https://www.themoviedb.org/person/1200922</profile>
+    <tmdbid>1200922</tmdbid>
+  </actor>
+  <actor>
+    <name>王道</name>
+    <role>卢天成</role>
+    <profile>https://www.themoviedb.org/person/116353</profile>
+    <tmdbid>116353</tmdbid>
+  </actor>
+  <actor>
+    <name>柯佳嬿</name>
+    <role>Han Hsiang-yün</role>
+    <profile>https://www.themoviedb.org/person/1356718</profile>
+    <tmdbid>1356718</tmdbid>
+  </actor>
+  <actor>
+    <name>屈中恒</name>
+    <role>Ko Yu-cheng</role>
+    <profile>https://www.themoviedb.org/person/581374</profile>
+    <tmdbid>581374</tmdbid>
+  </actor>
+  <actor>
+    <name>杜诗梅</name>
+    <role>修女</role>
+    <profile>https://www.themoviedb.org/person/581913</profile>
+    <tmdbid>581913</tmdbid>
+  </actor>
+  <actor>
+    <name>马力欧</name>
+    <role>干杯主持人</role>
+    <profile>https://www.themoviedb.org/person/1240438</profile>
+    <tmdbid>1240438</tmdbid>
+  </actor>
+  <actor>
+    <name>钟欣凌</name>
+    <role>大肚怡</role>
+    <profile>https://www.themoviedb.org/person/2238411</profile>
+    <tmdbid>2238411</tmdbid>
+  </actor>
+  <actor>
+    <name>黄玉荣</name>
+    <role>岳非</role>
+    <profile>https://www.themoviedb.org/person/1260958</profile>
+    <tmdbid>1260958</tmdbid>
+  </actor>
+  <actor>
+    <name>黄靖伦</name>
+    <role>小沈</role>
+    <profile>https://www.themoviedb.org/person/4296635</profile>
+    <tmdbid>4296635</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-15 18:24:25</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

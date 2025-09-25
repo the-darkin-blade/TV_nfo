@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>妒火中烧　汀汀受伤</title>
+  <originaltitle>Episode 23</originaltitle>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>4155090</id>
+  <uniqueid default="false" type="tmdb">1828891</uniqueid>
+  <uniqueid default="false" type="trakt">1489408</uniqueid>
+  <uniqueid default="true" type="tvdb">4155090</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>神秘少女又再被拍到在凶案现场出现，可是由于她戴着帽，未能认出她的容貌。
+
+汀汀到骄阳社找泽琛， Mon 因妒忌泽琛只爱汀汀，所以故意将她撞倒，竟因此令她滚下梯级受伤，而泽琛目睹事情的发生，对 Mon 的行为感到不满。
+
+彦博认为网友判官极有可能是连环杀手，所以诱他出现，好让小柔等能将他绳之于法，怎料打草惊蛇之余，更导致商场大混乱，更令小柔被上司责骂。
+
+经商场一事后，众人得知网友判官并非真凶，彦博开始怀疑另一网友路人甲的身分……另一方面，小柔与彦博翻香闭路电视影带，发觉疑凶的帽上挂有骄阳社的徽章，所以便到骄阳社调查，发现 Mon 突然离职，而 Tracy 的徽章竟不翼而飞……
+
+正当小柔等人开始怀疑 Mon 是连环杀人犯之时，泽琛收到 Mon 发给自己的短讯，令他联想到自己另一本小说的内容……果然， Mon 的尸体在西页店假屋中被发现，一切的现场证据也显示她便是杀人真凶，并畏罪自杀……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E23.20190411.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Forensic Heroes 20190411 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>411</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E23.20190411.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="411" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

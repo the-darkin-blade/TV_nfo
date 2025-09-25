@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 11 集</title>
+  <originaltitle>第 11 集</originaltitle>
+  <showtitle>忽必烈传奇</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2821413</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>海密失拨刀要自杀时汗大妃出现，贵由无奈离开，海密失的表现让汗大妃很满意，汗大妃让她送信回来后跟随自己。忽必烈一夜未睡查看账目，他相信没问题就存在问题，阿兰达尔连夜带东西逃回和林，邢州商人被忽必烈的举措震慑。董文用和董文忠所抢粮食和物品已归还老百姓，各商贾开仓放粮，牲畜已到达邢州，忽必略建议刘秉忠还俗。察比一家人来到邢州，云林随她前来，忽必烈的举措赢得老百姓的赞许……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2646</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Legend.Of.Kublai.Khan.Ep11.720P.Hdtv.X264.2Audio-Hdwtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

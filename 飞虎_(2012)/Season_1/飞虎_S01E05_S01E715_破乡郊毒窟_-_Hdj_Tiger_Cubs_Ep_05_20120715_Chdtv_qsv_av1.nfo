@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:31:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>破乡郊毒窟</title>
+  <originaltitle>破鄉郊毒窟</originaltitle>
+  <showtitle>飞虎</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>4361041</id>
+  <uniqueid default="false" type="tmdb">865998</uniqueid>
+  <uniqueid default="false" type="trakt">869774</uniqueid>
+  <uniqueid default="true" type="tvdb">4361041</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>飞虎队野外训练期间无意中砸烂老妇张婆菜田，骏轩留下联络电话。慧慧表示无家可归，求卓源收留，之后被众人发现二人「同居」。树辉趁假期与妻女乘张婆孙儿佳仔所驾的士游玩，树辉接总部来电先下车，佳仔因吸毒影响神志撞车。卓嬅欲从佳仔口中得知贩卖K仔拆家情报，不得要领。骏轩替张婆将错寄的电费单送回酱油厂，发现该处有古怪；卓嬅与瀚韬相信酱油厂有秘道。骏轩前往接替卓源，突接张婆求助来电，不理瀚韬命令赶往张婆家救人。</plot>
+  <runtime>33</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>1999</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Tiger.Cubs.Ep.05.20120715.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Tiger Cubs Ep 05 20120715 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>飞虎</showtitle>
+  <season>1</season>
+  <episode>715</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>33</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>1999</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Tiger.Cubs.Ep.05.20120715.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="715" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

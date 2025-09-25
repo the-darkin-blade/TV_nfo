@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>哲行与以铿见面</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>4941517</id>
+  <uniqueid default="false" type="tmdb">1984051</uniqueid>
+  <uniqueid default="false" type="trakt">1304960</uniqueid>
+  <uniqueid default="true" type="tvdb">4941517</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>歹徒在安全屋将立勋击倒，并将污点证人正华掳去。虽然立勋最后平安无事，却令慧英怀疑警队中有人将安全屋的位置泄露。
+
+立勋听到慧英的推断后，便将自己得知承义与永光暗中来往的事告知慧英。慧英指示立勋将永光带回警署问话，虽然永光愿意到警署作供，但却一直对正华被绑架之事保持缄默。
+
+无法获得足够证据的慧英感到烦恼，其后永光的老板景昌出现，景昌虽是城中知名人士却性格暴躁，得知永光被带返警署协助调查后，即连同律师到警署接回永光，慧英只得无奈放人。
+
+为保爱女　辞退承义
+
+立勋为了早日找出真相，便严言威迫承义坦白，但承义怕惹祸上身，故决定逃避立勋的迫问。
+
+承义打算在以铿的公司任职，以求与绰姿保持来往，但是绰姿只将承义当成朋友，故一直对承义的示好表现抗拒。承义不知道自己已被拒绝，更继续对绰姿苦苦相缠。
+
+此事终传到以铿处，爱女心切的以铿便即下令将承义革职，令承义因此失业，绰姿知道后亦替承义的未来感到担心。
+
+协助启源　获得重用
+
+警方终于成功寻回正华，但遍体鳞伤的他入院后，却拒绝成为警方的污点证人，因而令启源成功在洗黑钱案中脱身。
+
+因为正华拒绝出庭，景昌亦因此与启源及哲行见面庆祝。景昌知道是哲行查出正华藏身位置后，亦对哲行表示赞赏，启源亦因此更加重用哲行。
+
+哲行为了回馈社会，决定参与支持残障运动会的计划，之后哲行为了找寻赞助商便向立勋求助，而立勋便将绰姿介绍给哲行认识。绰姿心地善良，故对哲行的计划相当感兴趣，甚至安排哲行与以铿见面。最后以铿因为欣赏哲行坚毅的性格，决定出钱资助残障运动会，令哲行感到振奋。
+
+承义寻求　永光援手
+
+承义失去工作后，因无力偿还债项而被财务困难迫至走投无路。承义因为害怕面对立勋，便决定独自找永光帮忙，并希望永光能念在正华一案的恩情，对自己伸出援手。
+
+永光一直存心利用承义，故将承义的事转告景昌。景昌认为承义碍事，便指示永光除去承义。但承义在外面偷听到两人的说话后便即独自逃走，结果承义除需要担心真相会被警方揭发外，同时亦要担心景昌的追杀，过着每日提心吊胆的生活。
+
+立勋发现　重要线索
+
+立勋因为调查案件而无意中得知承义曾经遗失佩枪，即感到洪国栋议员枪击案可能与此有关，便联同漫冰一起进行调查……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1322</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep11.20140728.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>忠奸人 Hdj Black Heart White Soul 20140728 2Audio Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>728</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1322</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep11.20140728.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="728" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

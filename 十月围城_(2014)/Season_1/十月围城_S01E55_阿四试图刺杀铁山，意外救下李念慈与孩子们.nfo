@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿四试图刺杀铁山，意外救下李念慈与孩子们</title>
+  <originaltitle>阿四试图刺杀铁山，意外救下李念慈与孩子们</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>55</episode>
+  <id>4938234</id>
+  <uniqueid default="false" type="tmdb">2728599</uniqueid>
+  <uniqueid default="false" type="trakt">1308017</uniqueid>
+  <uniqueid default="true" type="tvdb">4938234</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李重甲故意卖个破绽给侦伺自己的人。手下来报秦少白，区舒云正好在一旁。区陈皆惊。李重甲成了革命志士，阿四成了朝廷鹰犬。区舒云怎么都想不通，找茬和阿四闹。阿四看区舒云蒙在鼓里实在可怜，终于说出真相：自己不是鹰犬是卧底。区舒云又惊又喜又不敢信，激动地说你要真是卧底，就去刺杀铁山，赶在李重甲前！阿四闻言一惊。区舒云话出口害怕了，万一阿四不是卧底只是骗我？阿四侦查到李重甲的计划是把炸药装在汽车里，他请教制造局的炸药专家，断定李重甲在炸弹上做了手脚。戏的主角是那颗特殊的炸弹。阿四直觉李重甲和铁山是在玩苦肉计，他一定要把这个戏假戏真做，借李重甲的手除掉铁山，想想都觉得痛快！不管革命党认为最后是不是李重甲干的，只要铁山死了，阿四才算真正替革命出了大力！李重甲把炸药藏在夏荷的梳妆柜内。几层侍卫守护，要进入夏荷卧室偷炸弹几乎不可能。阿四想到阿纯。夏荷有小疾，阿纯常到卧房诊视。卧室，阿纯偷开梳妆匣取炸弹，被夏荷发现。阿纯索性摊开来，指出李重甲巨奸大恶，劝夏荷勿同流合污。夏荷不敢承认将终身误托给这样的男人，极力替李重甲辩白。夏荷说出小丁一事，直指夏荷了解李重甲的恶行。夏荷崩溃，决定支持阿四，只求不要伤了李重甲。阿纯用医药箱带出炸弹，更换炸药后送回原处。次日，铁山要携家眷去看航空演示，汽车停在府外，阿四随行。铁山刚要踏上汽车。忽然管家来报，摄政王电话，铁山不得不又回府接电话。铁山的一对小儿女按捺不住，跑到了铁山车上玩儿，李念慈紧随其后。千钧一发，阿四顾不上多想，扑上去推李念慈，抱出两个孩子。刚转身跑了几步，炸弹炸了。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2650</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep55_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="55" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

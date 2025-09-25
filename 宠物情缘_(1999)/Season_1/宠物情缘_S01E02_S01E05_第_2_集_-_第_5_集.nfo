@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 2 集</title>
+  <originaltitle>Episode 2</originaltitle>
+  <showtitle>宠物情缘</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id>7480255</id>
+  <uniqueid default="false" type="tmdb">2001422</uniqueid>
+  <uniqueid default="false" type="trakt">3823845</uniqueid>
+  <uniqueid default="true" type="tvdb">7480255</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>朗怀疑硕和忠令东东失踪，到差馆报案。硕成功调组，所带之狗只竟是Rocky，Rocky不合作的态度使硕烦恼非常。朗关照珊搬到围村与华同居。硕考试当日，Rocky考虑硕可带它寻找杀主人之真凶，遂采取合作态度使硕顺利过关。巡逻途中，Rocky遇狗女豆豆，惊为天人。珊与华搬进硕楼下，两人成为邻居。华与珊死对头Ivy搭上，珊被蒙在鼓里。街上，Rocky发威把一众古惑仔吓退，但却连累硕被投诉。珊因留下文件，发现华与Ivy偷食，珊怒不可遏。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1574</width>
+        <height>1080</height>
+        <durationinseconds>1378</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 宠物情缘 Ep02 2016 05 05_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第 5 集</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>宠物情缘</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>7480264</id>
+  <uniqueid default="false" type="tmdb">2001425</uniqueid>
+  <uniqueid default="false" type="trakt">3823849</uniqueid>
+  <uniqueid default="true" type="tvdb">7480264</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>华找珊其实只为借钱，硕以为与珊无望，后经珊鼓励，终说出心底期待已久的说话。男决定向敏展开追求。一天早上，敏收到一束红玫瑰，认为是硕所送，而硕又以为敏知道花是男所送，遂向男报喜讯。Rocky与一恶犬打架，伤及旧患，被宣布不可再当警犬，硕与Rocky均感失落。另外，仁建议将一重伤的狗人道毁灭，朗骂仁冷血，仁唯有尽力抢救，惜手术后，狗只加倍痛苦，朗看着它在痛苦中死亡，才明白仁的苦心，以及自己的愚昧，后来朗知道仁其实对动物非常有爱心。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1574</width>
+        <height>1080</height>
+        <durationinseconds>1378</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 宠物情缘 Ep02 2016 05 05_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

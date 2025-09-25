@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>杀人藏尸　雪敏昏迷</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>4155075</id>
+  <uniqueid default="false" type="tmdb">1828876</uniqueid>
+  <uniqueid default="false" type="trakt">1489376</uniqueid>
+  <uniqueid default="true" type="tvdb">4155075</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>赵雪敏被发现在山坡下昏迷，被送往医院救治。彦博在案发现场找到的众多物件之中，以垒球棒与杜少威的头部伤痕最吻合，加上棒上只有杜少威及赵雪敏的指纹，所以昏迷中的赵雪敏便成为杀人的疑犯……
+
+心怡收到消息，神憎鬼厌的何永章将会调入小队工作，众人忙向小柔痛陈利害，小柔本来答应拒绝他入组，怎料小柔看过永章的资料之后，竟批准他入队……
+
+赵雪敏苏醒过来，她向小柔供出事实的经过，但坚称没有杀害杜少威，她只是见到杜少威的尸体，一时情急才将他收藏于胶袋之中；法证完成化验之后，竟发现在杜少威指甲找到的皮肤组织 DNA 竟与赵雪敏的非常接近，所以小柔怀疑赵雪敏的母亲卿姨才是凶手。
+
+小柔与泽琛再次检验杜少威的尸体，发现头上另一处伤痕，更是真正令杜少威致死的伤口，所以小柔又要再重新搜集证据。小柔调查与杜少威有联络的户外推销员 Sue ，发现她拥有现场找到同一颜色的指甲油；法证更发现在凶案现场找到的是一种只有户外工作的人才会用的唇膏……</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1315</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E08.20190327.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Forensic Heroes 20190327 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>327</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1315</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E08.20190327.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="327" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

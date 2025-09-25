@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>琵琶逼李靖重披战衣，上阵杀哪吒</title>
+  <originaltitle>Episode 33</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <id>4418959</id>
+  <uniqueid default="false" type="tmdb">2025554</uniqueid>
+  <uniqueid default="false" type="trakt">1484724</uniqueid>
+  <uniqueid default="true" type="tvdb">4418959</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>十娘在云中子处多日，令莲花众人无法再隐瞒，惟有向哪吒说出十娘已私出军营多日，音讯全无，哪吒得知，震惊不已，命杨戬、士行孙、婵玉等带兵四处找寻，而自己与雷震子则回西冀，幸好半路遇着因诚意打动云中子而可以获准离开的十娘，哪吒见十娘神情憔悴，满身泥泞，亦不忍再加责骂，两母子开开心心回军营。
+
+比干被妲己害死，令朝歌百姓无不怨声载道，而比干妻更伤心至抱琴投湖自尽，子牙知道比干为国捐躯，全国震动，而东伯候、南伯候亦争相投靠子牙大军，认为时机成熟，决定即日出兵，直捣朝歌。
+
+琵琶为了助自己取得九节昌蒲，竟推举李靖再披战衣，出征对付哪吒、李靖大加反对，令琵琶大发脾气，纣王终下旨李靖出兵，两父子被逼战场对峙，哪吒为免伤及父子情，向李靖使用免战牌，要求免战三日，希望李靖退军，而期间，杨戬、哮天犬、雷震子、土行孙、婵玉及十娘等更大闹李靖军菅，希望他知难而退，李靖深明哪吒用意，决定顺从四魔将及金吒、木吒之意见，暂不开战，十娘见李靖落得如斯下场暗见伤心！</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1052</width>
+        <height>720</height>
+        <durationinseconds>1406</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>33_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="33" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

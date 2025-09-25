@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>林冲棒打洪教头</title>
+  <originaltitle>林冲棒打洪教头</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026626</uniqueid>
+  <uniqueid default="false" type="trakt">7308113</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>鲁智深坚持要将林冲送到沧州，一路上监视着董超薛霸，令二人充当仆役伺候林冲，端茶倒水，给林冲洗脚。路上，在林冲再三坚持下，鲁智深才依依惜别，临行前给他留下钱做盘缠，并威吓叮嘱董超薛霸好好对待林冲。到了沧州，林冲将身上的大部分银两都给了董超薛霸，看着二人远去。来到牢城营，老充军给林冲讲怎样才能免去挨打的办法。但林冲身上只剩下五两银子，不够打点所有的营管和差拨，要被押进黑牢挨一百杀威棒。黑牢门外，柴进打猎路过，林冲故意冲到柴进面前，引起他的注意。柴进也素闻林冲的威名，高兴的请他吃饭。林冲向柴进借钱来打点牢城营的官吏，柴进欣然应允。柴进的教师洪教头到来，洪教头自恃武功在沧州一带无人能敌，待人傲慢，林冲起身向他施礼，他不但不还礼，还占了林冲的座位。柴进不快，把自己座位让给林冲，还给林冲把盏，洪教头妒火中烧，非要与林冲比武，林冲推托，但洪教头不依不饶，抢了柴进拿给林冲救命的十两银子，逼他动手。林冲无奈，只好答应比试。柴进拿出更多的银子来做赌注，胜者可得。洪教头让人摘掉林冲的枷锁，以显示自己不肯趁人之危，林冲骄傲的脾气也撞上来，不肯摘掉枷锁，只用一招便打赢了洪教头，并表示不需要那么多银两，只取救命用的十两。洪教头恼羞成怒，冲上来要杀林冲。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E10 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

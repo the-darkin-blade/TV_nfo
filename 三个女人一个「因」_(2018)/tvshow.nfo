@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>三个女人一个「因」</title>
+  <originaltitle>三個女人一個「因」</originaltitle>
+  <showtitle>三个女人一个「因」</showtitle>
+  <sorttitle/>
+  <year>2018</year>
+  <top250>0</top250>
+  <ratings/>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>生于司法界世家的方以因（黄智雯饰），拜律政界红人欧阳一波（李国麟饰） 为师，成绩出众，但学满师后却倒戈相向转做执业大律师，经常与师傅在庭上针锋相对。以因一直隐瞒自己有多重人格问题，次人格是狂野玩家菠萝椰奶（黄智雯饰），好勇斗狠、另一个则是愁擘擘（黄智雯饰），为人怕事悲观，愁眉苦脸，而得知此秘密的利东佳（袁伟豪饰） 趁势要胁以因聘他为实习生，以因为保自己能顺利下嫁城中钻石王老五纪骁勇（陈智燊饰)，无奈答应，两人遂展开一段别开生面的经历，因为人格会突然转换，经常令以因在庭上丑态百出，闹出不少笑料；而惟一知道以因病源只有母亲方华绮思（黄淑仪饰），可惜，绮思对往事绝口不提，期间东佳更与椰奶和擘擘渐成好友，以因为除后患，决心令她们一同消失……</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"108458"}</episodeguide>
+  <id/>
+  <imdbid/>
+  <tmdbid>108458</tmdbid>
+  <uniqueid default="true" type="tmdb">108458</uniqueid>
+  <premiered>2018-02-19</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <genre>Comedy</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <tag>strange</tag>
+  <tag>modern drama</tag>
+  <actor>
+    <name>袁伟豪</name>
+    <role>Lee Tung-kai</role>
+    <profile>https://www.themoviedb.org/person/1615007</profile>
+    <tmdbid>1615007</tmdbid>
+  </actor>
+  <actor>
+    <name>黄智雯</name>
+    <role>Fong Yee-yan(Evie)/Piña Colada/Sau Mak Mak</role>
+    <profile>https://www.themoviedb.org/person/1255464</profile>
+    <tmdbid>1255464</tmdbid>
+  </actor>
+  <actor>
+    <name>李国麟</name>
+    <role>Au-yeung Yat-bor</role>
+    <profile>https://www.themoviedb.org/person/224027</profile>
+    <tmdbid>224027</tmdbid>
+  </actor>
+  <actor>
+    <name>陈智燊</name>
+    <role>Kei Hiu-yung(Theo)</role>
+    <profile>https://www.themoviedb.org/person/1163184</profile>
+    <tmdbid>1163184</tmdbid>
+  </actor>
+  <actor>
+    <name>林秀怡</name>
+    <role>Lee Tung-ling</role>
+    <profile>https://www.themoviedb.org/person/3007594</profile>
+    <tmdbid>3007594</tmdbid>
+  </actor>
+  <actor>
+    <name>黄淑仪</name>
+    <role>Wah Yee-sze (Easy)</role>
+    <profile>https://www.themoviedb.org/person/1140989</profile>
+    <tmdbid>1140989</tmdbid>
+  </actor>
+  <actor>
+    <name>彭萨克·普拉贾克维特</name>
+    <profile>https://www.themoviedb.org/person/3238456</profile>
+    <tmdbid>3238456</tmdbid>
+  </actor>
+  <actor>
+    <name>郭子豪</name>
+    <role>Tong Mai-nei (Dominic)</role>
+    <profile>https://www.themoviedb.org/person/2587186</profile>
+    <tmdbid>2587186</tmdbid>
+  </actor>
+  <actor>
+    <name>孙慧雪</name>
+    <role>Dr. Bean Siu-dou</role>
+    <profile>https://www.themoviedb.org/person/1310286</profile>
+    <tmdbid>1310286</tmdbid>
+  </actor>
+  <actor>
+    <name>林景程</name>
+    <profile>https://www.themoviedb.org/person/3626789</profile>
+    <tmdbid>3626789</tmdbid>
+  </actor>
+  <actor>
+    <name>苏恩磁</name>
+    <profile>https://www.themoviedb.org/person/3390465</profile>
+    <tmdbid>3390465</tmdbid>
+  </actor>
+  <actor>
+    <name>周麗欣</name>
+    <profile>https://www.themoviedb.org/person/130502</profile>
+    <tmdbid>130502</tmdbid>
+  </actor>
+  <actor>
+    <name>许家杰</name>
+    <profile>https://www.themoviedb.org/person/2407904</profile>
+    <tmdbid>2407904</tmdbid>
+  </actor>
+  <actor>
+    <name>曾伟权</name>
+    <profile>https://www.themoviedb.org/person/2064581</profile>
+    <tmdbid>2064581</tmdbid>
+  </actor>
+  <actor>
+    <name>温裕红</name>
+    <profile>https://www.themoviedb.org/person/1641148</profile>
+    <tmdbid>1641148</tmdbid>
+  </actor>
+  <actor>
+    <name>李璧琦</name>
+    <profile>https://www.themoviedb.org/person/3197912</profile>
+    <tmdbid>3197912</tmdbid>
+  </actor>
+  <actor>
+    <name>赵永洪</name>
+    <profile>https://www.themoviedb.org/person/1809912</profile>
+    <tmdbid>1809912</tmdbid>
+  </actor>
+  <actor>
+    <name>沈可欣</name>
+    <profile>https://www.themoviedb.org/person/3185985</profile>
+    <tmdbid>3185985</tmdbid>
+  </actor>
+  <actor>
+    <name>刘嘉琪</name>
+    <profile>https://www.themoviedb.org/person/4379763</profile>
+    <tmdbid>4379763</tmdbid>
+  </actor>
+  <actor>
+    <name>邓永健</name>
+    <profile>https://www.themoviedb.org/person/3370379</profile>
+    <tmdbid>3370379</tmdbid>
+  </actor>
+  <actor>
+    <name>陳家良</name>
+    <profile>https://www.themoviedb.org/person/5102848</profile>
+    <tmdbid>5102848</tmdbid>
+  </actor>
+  <actor>
+    <name>徐玟晴</name>
+    <profile>https://www.themoviedb.org/person/5408245</profile>
+    <tmdbid>5408245</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

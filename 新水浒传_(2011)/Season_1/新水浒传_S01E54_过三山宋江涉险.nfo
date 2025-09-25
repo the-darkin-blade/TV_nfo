@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>过三山宋江涉险</title>
+  <originaltitle>过三山宋江涉险</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>54</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026671</uniqueid>
+  <uniqueid default="false" type="trakt">7308157</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>呼延灼被宋江追兵逼至青州，途径一旅店投宿，桃花山小霸王周通看中了呼延灼的踢雪乌骓马，便趁呼延灼熟睡之际将马盗走。呼延灼得知宝马被桃花山贼寇所掳，便报信于青州知府慕容助其剿匪，慕容出兵相助其实自有打算。呼延灼本要向周通讨回宝马，谁知几番交手，英雄相惜，两人一见如故。另一方面，宋江一行人马为不扰百姓，在野外扎营，不料却被人下毒，一时之间寨中人心惶惶，还好有人及时送来解药，暂时稳住了军心。呼延灼回绝了周通请其坐镇桃花山之请后，来到知府慕容府中，慕容明则答应呼延灼待其平定匪患后出兵围剿宋江等人，暗则待呼延灼剿匪之后将其拿下，押解京城，呼延灼不知是计一口答应。两人商议后决定先围攻与之作对的白虎山。与此同时，宋江截获了慕容上书蔡京的信函，洞悉了慕容的阴谋，在军师吴用的建议下将计就计，兵分三路，准备逐步击破慕容的诡计。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2676</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E54 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="54" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 19 集</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>老友狗狗</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195989</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>羡如目睹亚萍带来大袋物品，交托他人照顾阿黄，遂把所见一切告知用恭，俊升亦斥责他未有理解亚萍的苦心，众人决定使计令亚萍道出心底话。
+
+用恭等人往拜祭养父时，突然传来用恭堕崖的消息，蕙娟急往寻找高科技仪器协助，亚萍则二话不说向俊升借来麻绳便爬下去……蕙娟慨叹亚萍和用恭的母子情深，决定放弃带他回美国生活，用恭松一口气。
+
+天娥和天雄考虑把长胜村发展成为旅游度假村，把其家族食品生意变成度假村的主要食品来源，而狗场亦是重点宣传之一，村民表示支持。  天佑嘉汶　成为情侣  卓玲到伟威的酒吧应征当拳手，两人畅饮之际巧遇天雄，卓玲急把激动的天雄拉走，并警告他勿再妨碍她的工作。天佑得悉嘉汶到离岛工作，竟整天守候在码头等她回来，嘉汶感窝心。天佑向嘉汶扬言希望可以在身边保护她，两人终发展成情侣。
+
+羡如看到用恭的变化，没料到俊升等人亦看出他有明显的改变，众人看出羡如对用恭的感情，纷纷劝说她重新接纳用恭。  长胜村内　藏有炸弹  伟威被大强等人痛打，却对嘉汶辩称是跌伤，天佑看出端倪，迫伟威和他合作，伟威不允。天娥再次向俊升示爱，他把不慎失足的天娥拥入怀时，产生微妙的感觉，决定与她发展。二人街头漫步时遇上用发和美莲，俊升竟紧张地松开天娥的手，天娥伤心。
+
+天佑等人接报指长胜村中有一保龄球内藏炸弹，使众村民大惊；大强的手下误以为羡如是嘉汶被捉走，用恭为救羡如，不惜把藏有炸弹的保龄球抢走。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2663</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>19_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

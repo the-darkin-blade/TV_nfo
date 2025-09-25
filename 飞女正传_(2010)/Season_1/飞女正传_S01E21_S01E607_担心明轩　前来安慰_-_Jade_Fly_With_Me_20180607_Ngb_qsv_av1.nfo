@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>担心明轩　前来安慰</title>
+  <originaltitle>Episode 21</originaltitle>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id>2309581</id>
+  <uniqueid default="false" type="tmdb">569244</uniqueid>
+  <uniqueid default="false" type="trakt">577909</uniqueid>
+  <uniqueid default="true" type="tvdb">2309581</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>得知明轩被Janet Bin抛弃，巧芝特意安排梁家众人到简家打麻将；蓉蓉感谢梁家的关心，但却说明轩已不在家中。此时的明轩原来已踏上了伤心之旅，到了与Janet Bin约会的布吉……巧芝决定将不让Janet Bin出现，更将所有Janet Bin的衣物捐出。当巧芝一个人在街上时，却突然有车出现在她跟前，原来永晖想找巧芝，他更向巧芝说出早前对付了浩然之事……
+
+永晖成功　掌握权力
+
+不获巧芝认同的永晖满心愤怒回到家中，却发现凤卿正等候自己；原来凤卿一直密谋对付永晖，而她更向永晖说出，趁他早前没有出席临时股东大会之利，而成功与其他老臣子取得共识，将准备罢免永晖。虽然看见凤卿来势汹汹，但永晖却没有退缩反而大方离开；凤卿不满继续挑衅永晖，终于说出早已知道他是伯驹私生子一事。
+
+凤卿欲掌掴永晖，却不慎失足堕下楼梯，这时伯驹刚好回到家……因为凤卿受了重伤需长期卧床，永晖终正式受命代替凤卿，成为容氏集团的代主席；永晖在公布会上向众员工说出，长期的党派之争终于结束……永晖与伯驹探望凤卿，伯驹见永晖对凤卿受伤一事自责流泪，反过来安慰他；待伯驹离开后，永晖与不能言语的凤卿说出他的复仇计划，更向她揶揄一番。正往梁家的巧芝收到工作命令，被迫回到已不再居住的旧居；但不想一个人回去的巧芝，竟请的士司机陪她上楼……事情最终变得一发不可收拾，司机与巧芝结果同往警署；家人不明白为何巧芝不想回自己家，原来是Janet Bin曾主动找振强，更向他讹称巧芝仍然很喜欢他，鼓励振强再次追求巧芝……巧芝最终回到住所与Janet Bin对质，Janet Bin指要振强追求巧芝，是为使巧芝不能放弃Janet Bin的身分，因她需要变身来保护自己；Janet Bin失去踪影好一段时间，香港的治安与人心又开始变坏……
+
+浩然除暴　结果被捕
+
+坊间突然有疑似Janet Bin的人出现，美诗组成的反Janet Bin联盟却认为不是她本人；Janet Bin出现捕捉歹徒时，却遇上警方布下的天罗地网，终将他擒获。原来冒认Janet Bin的人是浩然，上司宝荣看到浩然竟然为了对付Janet Bin而变得这样，不禁大为心痛；他更向浩然说出他已被警队革职……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1327</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E21.20180607.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Fly With Me 20180607 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>607</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1327</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E21.20180607.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="607" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

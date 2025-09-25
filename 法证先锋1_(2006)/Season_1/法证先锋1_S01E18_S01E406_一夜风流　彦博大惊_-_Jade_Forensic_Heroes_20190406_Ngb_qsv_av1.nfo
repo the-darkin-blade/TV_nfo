@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>一夜风流　彦博大惊</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id>4155085</id>
+  <uniqueid default="false" type="tmdb">1828886</uniqueid>
+  <uniqueid default="false" type="trakt">1489398</uniqueid>
+  <uniqueid default="true" type="tvdb">4155085</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>彦博一觉醒来，发觉小柔竟成枕边人，彦博大惊，不过小柔则神态自若……
+
+泽琛一见彦博的情况，便觉得他似是服食过软性毒品，彦博为了不想事情曝光，一方面向泽琛说谎，另一方面则拜托他人代为化验。
+
+化验结果证实彦博尿液样本中含有迷幻药成份，彦博即想到当晚在酒吧发生的事，所以再到酒吧，发现卓浩与友人 Paul 又在服食软性毒品，于是立即报警将二人拘捕，卓浩对彦博更是恨之入骨。
+
+彦博向小柔表明当晚只是意外，他无意开始另一段感情，令小柔非常失望……
+
+汀汀接获白泥婆婆电话，与泽琛到她家中调查古怪事件，怎料原来一切也是白泥公公与女儿善的所为，目的只为白泥婆婆可以出市区，易于照顾。
+
+心怡表妹 Ella 怀疑被迷奸，报警后由小柔负责调查，疑凶卓浩竟称一酒店行政总经理，他指称是 Ella 服药，将所有责任推到她身上……
+
+小柔处处回避彦博，淑媛看在眼里，询问彦博之时，他亦无言以对……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E18.20190406.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Forensic Heroes 20190406 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>406</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E18.20190406.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="406" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

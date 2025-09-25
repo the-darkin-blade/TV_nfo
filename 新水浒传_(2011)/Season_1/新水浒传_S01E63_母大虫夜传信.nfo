@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>母大虫夜传信</title>
+  <originaltitle>母大虫夜传信</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>63</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026680</uniqueid>
+  <uniqueid default="false" type="trakt">7308166</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>官军兵分两路，一路攻打梁山泊山寨，一路阻截宋江等返援。梁山人马被切分三处，一为山寨，二为水寨，三为回援的大队兵马。消息不通，三路人马首尾不能呼应。宋江认为当务之急是差人寻密道传递消息，让梁山人马三处动作合一，叫官军顾左失右。孙新、顾大嫂二人主动请缨，要求担任送信的任务。二人连夜启程，出去送信。此时，得不到宋江命令的张横独闯官军大营，被关胜擒住。张顺联合阮氏三雄去救张横，也被关胜大败。梁山众军各自为战，关胜武艺高强，一时形势危急。危难之时，孙新、顾大嫂二人抵达水军营帐，两军终于有了联系。关胜武功高强，力战林冲、秦明二人而不败。宋江见以二敌一胜之不武，遂撤下秦明，林冲一人抵挡不住，梁山兵马败下阵来。关胜回营梳理战事，不解为何宋江战时撤将。得知宋江以忠义闻天下，并令梁山众英雄信服与他，关胜敬佩宋江是个忠义之人。宋江见大刀关胜是义勇之将，忠义武圣之后，认为若是关胜能投奔梁山，必使梁山如虎添翼。关胜战梁山二将，连破战车十五辆，勇猛异常。本可乘势却不来追，是有礼之人。又用计诱水寨兵将，谋略非比寻常。陷张横、阮小七而不辱，忠义之士。宋江爱此良将天才，想招为梁山泊所用。吴用使一计，先在营内造成内讧假象让敌营看见，又使呼延灼单枪匹马夜走官军营地，假装投奔，秘见关胜。呼延灼向关胜坦言，今日一战撤下秦明是宋江向关胜示好的举动，宋江早有归顺朝廷之意。呼延灼邀关胜第二日夜间，轻弓短箭，骑着快马，与他一起从小路直取贼寨，生擒林冲等贼寇。关胜见宋江亦有示好，又见宋江营内内讧，打算信呼延灼一次。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2676</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E63 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="63" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

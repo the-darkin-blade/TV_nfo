@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>纣王竟将妲己打入冷宫</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>4418943</id>
+  <uniqueid default="false" type="tmdb">2025536</uniqueid>
+  <uniqueid default="false" type="trakt">1484631</uniqueid>
+  <uniqueid default="true" type="tvdb">4418943</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>杨戬身在冀州，心在西歧，而哪吒则终日见蝴蝶陪伴在侧，大感疑惑，十娘惟有鼓励各人努力从军，祈望早日衣锦还乡，土行孙叫众人上山打山贼，谁知遇见哮天犬，众人害怕不已，幸好亦能一一逃脱。
+
+妲己、凝香顺利入宫，纣王高兴不已，由于宫中规定新入宫贵妃要斋戒沐浴三日才能与帝王相见，令纣王心痒难当，姬昌曾测到妲己美色必祸害商朝，故无惧向纣王进谏，求纣王除掉妲王，纣王不信姬昌所言，姬昌再占卦，预言轩辕殿当晚必有火灾以证明自己卦象之灵验，纣王当然不信，故下令全宫晚上不淮点灯，令宫中绝无可能发生火灾，到了入夜时份，皇宫漆黑一片，九公教唆纣王扮成太监到妲己、凝香之寝宫一睹两人之美貌，纣王高兴不已，纣王一见两大美人，目定口呆，自叹从未见过如此绝色佳人，妲己、凝香不知就里，害怕不已。幸九公解困，向两人表明纣王身份，而轩辕殿当晚果然发生火灾、令宫中上下更信姬昌所信，在纣王宠幸妲己之时，姬昌等忠臣在门外呼求纣王社稷为重除掉妲己，令纣王心烦不已，纵有美色在前，亦无心欣赏，妲己亦因而被打入冷宫。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1048</width>
+        <height>720</height>
+        <durationinseconds>1390</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>20_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

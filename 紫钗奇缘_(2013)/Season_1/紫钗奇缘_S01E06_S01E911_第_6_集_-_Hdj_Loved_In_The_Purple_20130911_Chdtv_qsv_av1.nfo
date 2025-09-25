@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 6 集</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486660</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>浣纱兴奋的跑进来告诉小玉夫人没有为难李益，一口就答应了婚事。樱桃也进来告诉小玉夫人答应了要小玉插上紫钗出去与李益见面。樱桃又小玉这是上鬟钗。小玉一听是上鬟钗便找慈瑞相问。慈瑞告诉了小玉她曾有婚约，这是夫家所赠之物，如果到20岁夫家没有表示便会自动解除婚约。小玉听到这便为难了，一面自己有婚约还要等一年半载，一面李益就在外面等候。慈瑞还告诉小玉自己不是不同意，只是早一点晚一点的事情罢了。小玉向李益解释怕影响他考取功名，两人约定金榜题名时再登门造访。玉萧之事为了感谢杜意浓纳兰东买了礼物让小玉帮忙去送。路上纳兰东问小玉为何要拒绝李益，纳兰东问小玉真正的原因是什么。小玉没有告诉纳兰东真正原因只是说再过一年半载便可以。小玉把礼物送给杜意浓，杜意浓和莫玥也问小玉拒绝李益的真正原因。
+
+小玉把自己有婚约之事告诉了两人。纳兰东与友人朱泚饮酒，朱泚看出纳兰东有心事，纳兰东告诉朱泚自己喜欢上了一名歌姬。纳兰东带着朱泚向小玉学习七德舞，朱泚为了出任卢龙节度使但在见皇上时必须要跳这七德舞。朱泚偷偷的纳兰东他说那个歌姬便是小玉姑娘吧。正在这时楚王来了。楚王进门便表示自己是来查询籍册，前几日杜意浓帮小玉办的籍册正是楚王做的手脚，把小玉的名字小写一点便成了霍小王。本来借机拿下小玉但没想到小玉这摆的是茶席。楚王恨恨而走。小玉教导朱泚七德舞期间小玉与宁国公主聊天，宁国公主告诉小玉与慈瑞曾是故人未曾提及何种故人及小玉与纳兰东的婚约。小玉也知道宁国公主说的是假话怀疑宁国公主和母亲间有不同寻常的过往。小玉在离开公主府时正被崔长空及韦博文所见，看到两人有说有话的样子两人把此事告诉了李益。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1335</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep06.20130911.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20130911 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>911</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1335</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep06.20130911.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="911" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

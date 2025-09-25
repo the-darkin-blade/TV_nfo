@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>哪吒一时之气把三太子龙根抽掉</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>4418930</id>
+  <uniqueid default="false" type="tmdb">2025526</uniqueid>
+  <uniqueid default="false" type="trakt">1484600</uniqueid>
+  <uniqueid default="true" type="tvdb">4418930</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>哪吒打败犬戎巨人，纣王特赏他在自己的乐园——酒池肉林狂欢作乐，哪吒、雷震子眼见美女如云亦不禁为之一惊，一时不知所措，李靖等忠臣见纣王将议政之地弄得乌烟障气，冒死进谏，令纣王大怒，将众人赶走，而哪吒、雷震子很快亦沉醉于一片淫乱欢声中。
+
+杨戬继续相信飞虎所言，能把石卵煮成鸡蛋，终煮至煲裂水漏，飞虎知悉，当众讲出以此试验杨戬为人，终证明他是老实人，决收留他作下人，令杨戬、黄颜开心不已，另边厢，哪吒在纣王的酒池肉林一觉醒来，突对眼前景物感到呕心，所以不理纣王之多番请求，决带雷震子离开这淫邪之地，而莲花则通宵在家等候哪吒回来，可惜等至倦极入睡亦未见其影，哪吒回家途中与琵琶、裳二人夹路相逢，二人指莲花水性杨花，曾在哪吒出征期间，私出营与三太子拜堂成亲，哪吒听罢怒不可挡，回家质问莲花整件事之始末，可借莲花被吓至无言以对，令哪吒更相信琵琶所言非假，一怒之下，四出找三太子算帐，终在一酒家找到三太子，两人大打出手，哪吒更将三太子打至奄奄一息，十娘莲花赶至，伤心不已……</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1048</width>
+        <height>714</height>
+        <durationinseconds>1275</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>12_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

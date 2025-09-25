@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>Day08 跪下 道歉 对不起</title>
+  <originaltitle>Day08 跪下 道歉 对不起</originaltitle>
+  <showtitle>小资女孩向前冲</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>4202996</id>
+  <uniqueid default="false" type="tmdb">873158</uniqueid>
+  <uniqueid default="false" type="trakt">878074</uniqueid>
+  <uniqueid default="true" type="tvdb">4202996</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>沈杏仁按照地址找到董事长家里，却在董事长家门口遇见了秦子奇和公司的副总。副总问沈杏仁来这里做什么，沈杏仁说出自己是为了给董事长看一份企划案，副总告诉沈杏仁她这种行为是越级汇报，不符合公司的规定，所以要她把企划案拿回去交给她的上司史经理，一旁的秦子奇利用董事长家司机亲戚的身份替沈杏仁向副总说情，副总终于答应带沈杏仁去见董事长。董事长问沈杏仁为什么要越级汇报，沈杏仁说出她只是想把最好的企划案提交给公司，她认为有必要把她认为对公司有利的事情告诉给付她薪水的老板。这时秦子奇跑来报告董事长车子已经刷好，请董事长去校阅。董事长跟着秦子奇出来后，秦子奇替沈杏仁说情让董事长考虑看一下沈杏仁的企划案。副总看了沈杏仁的企划案觉得她写的不错，董事长回来后在门外听到杏仁来公司上班的原因就是佩服董事长白手起家的精神，她希望在董事长手下做事，向董事长学习。副总问起杏仁怕不怕被开除，杏仁回答说不怕，至少她为公司尽力了。董事长听到杏仁的话，十分感动，他决定让杏仁把企划案留下亲自过目。杏仁千恩万谢的把企划案留下后离开了董事长的家，秦子奇趁机搭杏仁的摩托车一起回了公司。董事长看了杏仁的企划案后觉得十分不错，他决定同意余乘风的PB公司品牌进驻京师百货。秦子奇拿了脏衣服给杏仁要她洗，杏仁生气的接过衣服，秦子奇特别嘱咐她要分开洗，并且要风干。晚上秦子奇来杏仁家里拉她去逛夜市，杏仁因为要省钱不愿和子奇一起出去，子奇提出他请客，剧情吧原创剧情，子奇拉着杏仁向外走，孰料余乘风带着他的助手麦克来到杏仁家里。子奇见到余乘风非常不爽，余乘风告诉杏仁他们董事长亲自打电话给他，同意他在京师设柜。几人兴奋的击掌庆祝，余乘风提出他请客吃饭，子奇反对，最后大家商定明天晚上余乘风请客。第二天史经理得到余乘风被同意设柜的好消息，子奇说出这都是杏仁去董事长家里亲手将企划案交给董事长的原因，史经理当即宣布沈杏仁升职为组长。晚上子奇加班，恰好余乘风的柜台装修，整个营销部就剩子奇一个人在吃泡面，凯尔见到余乘风专柜装修，故意打电话给其他厂商挑拨厂商对余乘风专柜的敌对情绪。凯尔走到子奇面前故意说起杏仁和余乘风的关系暧昧，子奇表示出对杏仁的担心，凯尔却强调杏仁已经成年，应该很清楚自己在做什么。恰巧杏仁和余乘风乐乐几人吃饭回来，到商场看装修的情况，子奇见到他们心情不爽，凯尔故意约子奇一起下班，杏仁见到和凯尔走在一起的子奇心里也不免难过。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TTV Main Channel</studio>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2674</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj Office Girls Ep08 Hdtv 1080I H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

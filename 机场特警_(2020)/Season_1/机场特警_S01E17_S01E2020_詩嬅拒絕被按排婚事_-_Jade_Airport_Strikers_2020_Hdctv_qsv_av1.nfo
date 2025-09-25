@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:08:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>詩嬅拒絕被按排婚事</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>机场特警</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>7654169</id>
+  <uniqueid default="false" type="tmdb">2236499</uniqueid>
+  <uniqueid default="false" type="trakt">4078322</uniqueid>
+  <uniqueid default="true" type="tvdb">7654169</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>富家子楊偉仁失蹤，眾特警搜索不果，及後得悉為綁架案。詩嬅羨慕凱晴得父親關心，此時喜獲廣源來電。特警組協助處理綁架案，景山、凱晴察覺富商助手有可疑，追捕綁匪期間，二人同告受傷。凱晴擔心景山傷勢，卻見景山和安娜表現甜蜜。真兒遭男客人騷擾，該男子涉嫌偷竊被子謙拘捕。偉仁被綁架一案查出真相，詩嬅有感而發。孔劉大費周章，欲向詩嬅求婚，被她狠拒。廣源為了生意，要詩嬅與孔劉訂婚。詩嬅大感失望，向天樂哭訴。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1311</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Airport.Strikers.E17.2020.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Airport Strikers 2020 Hdctv qsv av1</title>
+  <originaltitle/>
+  <showtitle>机场特警</showtitle>
+  <season>1</season>
+  <episode>2020</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1311</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Airport.Strikers.E17.2020.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2020" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

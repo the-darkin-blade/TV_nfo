@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 3 集</title>
+  <originaltitle>第 3 集</originaltitle>
+  <showtitle>忽必烈传奇</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2821405</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>忽必烈质问汗大妃为何逼死伊娜，她谎称不知。忽必烈来到溪水旁吊念伊娜。贴尼建议给忽必烈说一门亲事。察比在市集的酒馆见到喝多的忽必烈，忽必烈出手相助还帮了她。忽必烈被带到点将台前，那里像征着一种荣耀，拖雷讲出一番道理。忽必烈恢复了理智，他开始训练军队的火炮力量，察比收拾东西离开，她不想再见到忽必烈。察比骑马出现在忽必烈的训练场，忽必烈及时出手救她于危难之中。察比随父母回到托雷账中，吃饭时忽必烈对之前的态度向她表示道歉。窝阔台召集众将商议攻金之策，拖雷认为此时不是最好时机。窝阔台坚持攻金，忽必烈认为先应该和宋议和，他的想法和托雷不谋而合，耶律楚材和忽必烈先行去宋。窝阔台在凤翔遇到强烈抵抗，金军渡河，窝阔台派人请拖雷支援，汗大妃给他五天时间。窝阔台命人在林中驻守，拖雷担心中了金军之计，忽必烈向宋借道成了关键。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2652</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Legend.Of.Kublai.Khan.Ep03.720P.Hdtv.X264.2Audio-Hdwtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

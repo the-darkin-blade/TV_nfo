@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>报复</title>
+  <originaltitle>Episode 29</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id>2399121</id>
+  <uniqueid default="false" type="tmdb">1460717</uniqueid>
+  <uniqueid default="false" type="trakt">1435916</uniqueid>
+  <uniqueid default="true" type="tvdb">2399121</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小敏的死让方家人很伤心。展博上庭和丁蟹针锋相对，展博述说小敏惨死的经过，庭上众人闻之无不动容落泪。龙纪文要展博和家人先去台湾躲避，展博拒绝。龙纪文决定再回台湾向周济生求情，不成功就不回香港。文愿意为华姐吃一辈子长素，周济生终于被文打动，答应帮她，但文临上飞机前周听信圣姑之言又改变了主意。展博苦等文未果。展博和家人拜祭小敏，却有不好的预兆。丁蟹案子到了最后关头，丁蟹始终没弄明白案子的重点在哪里，坚信可以以情动人，结果败诉，丁蟹后悔不已，但已无力挽回。方家人去帮小敏做法事，路上得知丁蟹被判死刑，均感欣慰。浑然不知厄运来临。丁氏兄弟派人把方家三兄妹一个个扔下楼，展博抓住了铁栏杆，保住一命。玲姐赶来，看到方婷和方芳惨死，悲痛之下开着小巴撞向坐着丁氏兄弟的车……从此，展博好似人间蒸发，丁蟹被终生监禁，玲姐住进了精神病院……</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1415</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.29_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 29 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1415</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.29_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:17:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>我飞练成普善真经神功</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>翻生武林</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1993653</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>艾雪、天蚕脚、封尘三侠和双生儿等人中毒，神智不清。鲁公公查出毒药名为「万紫千蛇」，暂时只能服用「黑明丹」控制。云龙捆绑所有中毒的英雄，由他看管。我飞走到郊外燃点迷烟，引来无数万紫千蛇。当年他困在皇陵，在石棺里找到普善真经，按照真经练功，练完一式便吞下经书，直至练到第十式。孔杂假装中毒混入武林圣地救人，隐世英雄均不愿离开。我飞向他们发放暗箭，箭上绑着的小纱包，突然冒出浓烟，英雄吓得四散夺门逃跑……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2619</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Birth.Of.A.Hero.Complete.Hdtv.1080I.H264-Chdhktv.Ep11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

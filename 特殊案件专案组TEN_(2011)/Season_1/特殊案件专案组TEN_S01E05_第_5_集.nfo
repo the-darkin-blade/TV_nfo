@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 5 集</title>
+  <originaltitle>숲 속의 추격자</originaltitle>
+  <showtitle>特殊案件专案组TEN</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>4430684</id>
+  <uniqueid default="false" type="tmdb">1003478</uniqueid>
+  <uniqueid default="false" type="trakt">960251</uniqueid>
+  <uniqueid default="true" type="tvdb">4430684</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>숲 속에서 발견된 한 여성의 시신. 처참하게 훼손된 모습에 수사 팀은 충격에 빠진다. 2개월 전의 살인 사건과 동일한 수법으로 연쇄 살인이 의심되는 가운데, 범인은 마치 짐승을 사냥하듯이 인간 사냥을 즐겼다는 것이 밝혀진다. 하지만 단순한 쾌락 살인이라 하기엔 세상에 알리려는 메시지가 있는 듯 한데……. 범인은 어떻게 사냥감을 고르고, 왜 살인을 저지른 것일까?</plot>
+  <runtime>73</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>OCN</studio>
+  <studio>Studio Dragon</studio>
+  <dateadded>2025-09-15 20:28:51</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>856</width>
+        <height>480</height>
+        <durationinseconds>4396</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E05.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

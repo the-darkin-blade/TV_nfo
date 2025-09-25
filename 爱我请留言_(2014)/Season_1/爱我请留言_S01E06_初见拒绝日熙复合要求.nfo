@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:58:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>初见拒绝日熙复合要求</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>爱我请留言</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2299926</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>志安在工作时间享受做铁骑士之乐，天送提醒说其母会担心他的安危，志安谓无法不骑电单车。  天送担心妻子病况，忍不住流泪，被女儿发现，悠悠替他按摩双眼。蔡妍的检查报告显示，她是甲状腺功能扩张，程医生表示只要服药便可医治，并指这种病与情绪有关，安慰蔡妍要好好放松心情，不要过度紧张，又要求天送多体谅妻子，因蔡妍有时会控制不到情绪。天送要求蔡妍休假半年养病，做个悠闲的家庭主妇。  志锋知道日熙找过初见，但初见未有理会，劝日熙想清楚是否真心喜欢初见，抑或只是怀念而已。  提议皎妃　装作偶遇  星期六中午，柳娟让皎妃先放午饭，又提示她买三文治到公司写字楼，装作与子翔偶遇。皎妃在接待处边吃三文治边等候，却眼巴巴看着买了午餐回来的子翔直接走进办公室。
+
+周末下午，初见留在公司工作，她用手按在墙上做肩膀练习时流下眼泪，子翔在办公室内看到，竟也试着做……
+
+柳娟在服装店试衣服时忍不住痛哭，初见见状立即出来陪她。柳娟把发现男友带第三者回家的事告知初见，自觉很丑。初见半夜醒来看见外公在翻看旧照片，她便问外公思念的味道。  初见研究　思念之味
+
+卢笙说就如她的名字，初初见面时对方就是他的整个世界，那种味道值得一辈子怀念。初见觉得外公思念的味道是甜的。但当她问母亲同样的问题时，爱林却说思念就像烧焦食物的味道，如同煲上的污渍，怎样刷也刷不掉。
+
+天送来电告知爱林周一毋须接悠悠，初见知道蔡妍身体无大碍，从电话中也听得出天送的喜悦，让她感觉有时思念如同一杯清水，只要自己记挂的人一切安好便已足够。 蔡妍与悠悠在餐厅吃雪糕时，悠悠感觉困倦，立即投进蔡妍怀中睡觉，蔡妍感受到丈夫与女儿的亲近。
+
+日熙送花　无动于衷  蔡妍忆起四年前天送的姊姊离世，自己曾许诺好好陪伴天送与悠悠。蔡妍入厨，悠悠却不喜欢她做的红萝卜米粉。
+
+爱林觉得悠悠有点像小时候的初见，把悠悠叫作小初见。初见知道悠悠与父母会到家中晚饭，也急不及待回家。  日熙拿着鲜花在公司楼下等初见，他表示挂念初见，初见未有反应，只表示要回家。日熙送她至家门外，天送一家刚好来到，爱林请大夥儿一同到屋内吃饭。初见一家与悠悠父母有说有笑，日熙却答不上口。  无法重拾　快乐感觉  初见送悠悠及天送夫妇后，日熙要求与初见复合。… ...</plot>
+  <runtime>62</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>3728</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>06_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>五蟹集团</title>
+  <originaltitle>Episode 33</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <id>2399161</id>
+  <uniqueid default="false" type="tmdb">1460721</uniqueid>
+  <uniqueid default="false" type="trakt">1435928</uniqueid>
+  <uniqueid default="true" type="tvdb">2399161</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>展博信心大增，准备大展拳脚，等着丁家父子进入股票市场，再来收拾他们为死去的亲人报仇。丁蟹来看玲姐，玲姐继续敷衍他，强忍恐惧陪他出去玩。丁蟹带着玲姐去看新家，自顾自的展望将来。丁蟹发现玲姐又想起进新，十分生气，玲姐只好骗他，安抚他，暗暗等着展博回来报仇。丁蟹又把玲姐带到新的股票交易所，告诉玲姐他和儿子的公司“五蟹集团”要上市了。五蟹集团一上市，就遭狙击，而丁家父子对股票完全是外行，只想着推高股价，在别人的操纵下，股票弄的升升跌跌。原来是陈滔滔回到香港，要为方婷报仇。展博在台湾连机买卖股票，他要用一百万台币去赢丁蟹父子的一亿港币。陈滔滔的狙击战进行顺利，他注意到还有人在对付五蟹集团，两人均觉志同道合，展博用一招“草船借剑”，和陈滔滔联手一起打了漂亮的一仗。陈滔滔准备乘胜追击，但展博隐隐觉得有不妥，直觉有事发生。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1568</width>
+        <height>1078</height>
+        <durationinseconds>1410</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.33_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="33" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 33 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1568</width>
+        <height>1078</height>
+        <durationinseconds>1410</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.33_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

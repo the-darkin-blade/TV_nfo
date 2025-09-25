@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:08:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>金宵大厦</title>
+  <originaltitle>金宵大廈</originaltitle>
+  <showtitle>金宵大厦</showtitle>
+  <sorttitle/>
+  <year>2019</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.1</value>
+      <votes>7</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>萧伟明来到残旧且品流复杂的金宵大厦当看更，遇上这里的空姐住客Alex容貌竟与梦中一直缠绕自己的旗袍女子相同！阿萧接近Alex，了解更多彼此的关联。其间金宵大厦怪事不断，不停上演着其他住客的人生及奇幻故事；阿萧更发现Alex竟是一个残影！六十年代金宵舞厅的舞女COCO，梦见自己未来当了空姐，恋上与梦中男子外貌相同的警察刘旭辉，奇梦还被书店主人林若思写成小说。阿萧一路追查，意外发现这本旧小说，惊悉自己与Alex有一段扑朔迷离的宿世情缘……</plot>
+  <tagline/>
+  <runtime>42</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"93721","imdb":"tt11219094","tvdb":"369582"}</episodeguide>
+  <id>369582</id>
+  <imdbid>tt11219094</imdbid>
+  <tmdbid>93721</tmdbid>
+  <uniqueid default="false" type="tmdb">93721</uniqueid>
+  <uniqueid default="false" type="imdb">tt11219094</uniqueid>
+  <uniqueid default="true" type="tvdb">369582</uniqueid>
+  <premiered>2019-09-16</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Mystery</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <tag>spooky house</tag>
+  <tag>time-manipulation</tag>
+  <actor>
+    <name>陈山聪</name>
+    <role>Siu Wai Ming / Lau Yuk Fai</role>
+    <profile>https://www.themoviedb.org/person/1218777</profile>
+    <tmdbid>1218777</tmdbid>
+  </actor>
+  <actor>
+    <name>李施嬅</name>
+    <role>Yeung Yuk Wah (Coco) / Cheung Wai (Alex)</role>
+    <profile>https://www.themoviedb.org/person/1178843</profile>
+    <tmdbid>1178843</tmdbid>
+  </actor>
+  <actor>
+    <name>刘江</name>
+    <role>Lam Yuk Si</role>
+    <profile>https://www.themoviedb.org/person/140481</profile>
+    <tmdbid>140481</tmdbid>
+  </actor>
+  <actor>
+    <name>康华</name>
+    <role>Yuki</role>
+    <profile>https://www.themoviedb.org/person/1411531</profile>
+    <tmdbid>1411531</tmdbid>
+  </actor>
+  <actor>
+    <name>林子善</name>
+    <role>Chun Ka Chun</role>
+    <profile>https://www.themoviedb.org/person/1132933</profile>
+    <tmdbid>1132933</tmdbid>
+  </actor>
+  <actor>
+    <name>邓佩仪</name>
+    <role>Wan Ching (Joanne)</role>
+    <profile>https://www.themoviedb.org/person/1496386</profile>
+    <tmdbid>1496386</tmdbid>
+  </actor>
+  <actor>
+    <name>黄子雄</name>
+    <role>Wan Chi Gai</role>
+    <profile>https://www.themoviedb.org/person/1175765</profile>
+    <tmdbid>1175765</tmdbid>
+  </actor>
+  <actor>
+    <name>张彦博</name>
+    <role>Lam Yuk Si (young)</role>
+    <profile>https://www.themoviedb.org/person/1651602</profile>
+    <tmdbid>1651602</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

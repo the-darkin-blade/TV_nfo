@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>大刀关胜议取梁山泊</title>
+  <originaltitle>大刀关胜议取梁山泊</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>64</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026681</uniqueid>
+  <uniqueid default="false" type="trakt">7308167</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>第二天，两军交战，呼延灼假装投奔官军，大败宋江手下黄信。关胜更加相信呼延灼，认定夜晚偷袭梁山大营必定成功。夜晚，关胜带领副将郝思文、宣赞二人跟随呼延灼夜袭梁山大营。三人中了梁山众英雄的埋伏，被活捉。中军帐中，宋江对关胜好言相劝，说明用呼延灼计赚关胜只是因为爱才，怕两军交战，刀枪无眼，两军将士死伤又何止万千。宋江说明梁山好汉攻打大名府只为救出卢俊义，不曾伤一平民，不曾动百姓一钱一物。关胜被宋江的忠义所折服，又因为不满朝廷奸佞排挤忠良，决心投奔梁山。他的副将郝思文、宣赞二人亦跟随关胜归于宋江麾下。第二日，宋江命关胜为正先锋，呼延灼为副先锋，攻打大名府。梁中书与闻都监听闻梁山大军将关胜收于麾下，携家小细软逃亡京城。大名府守将索超依然孤身与梁山英雄奋战。大刀关胜将索超降服，杨志劝说索超，宋江爱惜索超有情有义，亦将他收服。众英雄举杯欢迎索超之时，宋江突然晕倒在地。一夜噩梦之后，宋江病重，头痛如斧劈一般，昏迷不醒，毒火攻心背后生出一个大疮。当地郎中医不了宋江的病，众英雄无计可施。张顺献计扬子江边建康府的安道全，人称他为安神医，可治天下奇症和怪病。吴用差张顺去寻安道全。宋江病重，群龙无首，梁山众将只得暂停攻打大名府，班师回梁山。张顺去找安道全，船至江心被劫匪推入江中。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2667</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E64 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="64" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

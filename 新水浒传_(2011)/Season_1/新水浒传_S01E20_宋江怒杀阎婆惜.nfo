@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>宋江怒杀阎婆惜</title>
+  <originaltitle>宋江怒杀阎婆惜</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026637</uniqueid>
+  <uniqueid default="false" type="trakt">7308123</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宋江并不相信朱仝等人说阎惜娇的诸般不是。然而阎惜娇与张文远私会之事愈演愈烈，连阎婆再也忍不住，劝说阎惜娇，阻止阎惜娇，但她我行我素并不理会。朱仝等人看不过眼，将张文远从赌场绑来，逼迫他亲口承认与阎惜娇的奸情，张文远将一切都推到阎惜娇身上。朱仝等人怒气勃发，但不想宋江竟将此人放了。宋江路遇刘唐顿时大惊，忙将他拖入酒馆之中，责怪他下山涉险。刘唐却表示为了见公明哥哥这都不算什么。原来晁盖等人脱身落草以后，每每谈起，总是感激宋江报信之恩，这次特地让刘唐带上金银书信前来向宋江聊表心意。刘唐想邀宋江同上山落草，被宋江断然拒绝。宋江修书回信，叮嘱刘唐万勿久留，速速回山寨为上。宋江来到乌龙院，阎婆见他口气神色有异，叮嘱女儿小心应对，阎惜娇却打扮的花枝招展来迎他。阎婆对女儿十分无奈。阎惜娇试探宋江，宋江也试探她是否真有偷情之事，没想到阎惜娇一承认，口中振振有词，一副有恃无恐的样子，宋江签下休书便走，路行一半，想到装着梁山晁盖等人书信的招文袋落在了乌龙院忙回头去取。阎惜娇狮子大开口，逼迫宋江三书六礼迎娶自己为正妻。宋江无法答应，两人争执之下，宋江怒杀阎惜娇。阎婆凄厉大叫：宋江杀人了。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2660</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E20 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

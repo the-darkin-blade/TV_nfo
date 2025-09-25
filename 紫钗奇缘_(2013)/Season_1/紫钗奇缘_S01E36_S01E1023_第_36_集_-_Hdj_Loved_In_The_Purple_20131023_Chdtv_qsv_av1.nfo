@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 36 集</title>
+  <originaltitle>Episode 36</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>36</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486690</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>杜意浓问小玉和李益怎么样，小玉说自己从回来还没见过李益。杜意浓告诉小玉李益就住在卢府并且李夫人也住在那。小玉从话中听出了杜意浓的新欢就是卢杞，因为之前杜意浓根本不认得李益母亲。卢杞还真是要把靖澜嫁于李益与李夫人提了此事。小玉和慈瑞在家说起紫钗的下落，正说话的时候樱桃回来了，慈瑞让樱桃李益与李夫人是否真的住在李府。果然两人是在李府。这让慈瑞和小玉都认为李益是攀附卢家并且靖澜肯定也是愿意此事。正说着话的时候靖澜偷跑到了紫檀殿。靖澜过来告诉小玉等人父亲让自己和李益成亲，更奇怪的是李益竟然也同意此事。靖澜前来是要请小玉帮忙要去找纳兰东到自己家里提亲。靖澜鼓足了勇气告诉纳兰东上自己家提亲并告诉纳兰东卢杞逼自己和李益结婚，并且这次李益不反对。纳兰东听到此话第一反应却是小玉怎么办。纳兰东与宁国公主说了向卢家提亲之事，宁国公主一口拒绝，一是因为纳兰东并不喜欢靖澜，二是因为早晚有一天靖澜会在纳兰东与卢杞之间做出选择，宁国公主不想靖澜有这样的伤痛。小玉和慈瑞在街上遇到了靖澜的丫环平儿，平儿被卢杞卖到一户人家平儿不愿逃了出来，小玉愿为平儿赎身。卢杞故意设计让人到家里卖紫钗并让李夫人买下转交李益做为聘礼。靖澜见到紫钗后便问来人到底是带谁来卖紫钗。来人说是小玉要卖钗为了嫁纳兰东。李益在朝上和卢杞一心逼得汾阳王卸甲归田。李益已经恨上纳兰东。纳兰东命皇上之命前来看汾阳王，汾阳王知道卢杞暂缓推行两税之法就是为了吸干百姓血汗，让纳兰东要时时进谏于皇上。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1336</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep36.20131023.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="36" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20131023 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>1023</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1336</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep36.20131023.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1023" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

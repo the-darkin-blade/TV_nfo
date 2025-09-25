@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 11 集</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>老友狗狗</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195981</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>天佑带嘉汶往见俊升，希望他可以收留嘉汶，得羡如大力支持，俊升只好妥协。 天雄突然发现用恭收藏行李箱的柜子被搬到杂物房，他为查证行李箱内是否赎金，竟以煮面为由将自己锁在杂物房内，谁知不慎令杂物房起火。用恭顺利救出天雄后，决定折返回去救其他狗只，天雄感内疚，却错摸赎金全被烧毁而大感失落。伟威得悉狗场失火，急往找嘉汶，他为了寻回毒品保龄，答应让俊升等人暂住他家。  被父赶绝　天雄落魄  用恭为自己一直珍藏的的模型统统被烧毁感到伤心，谁知亚萍告诉他早已偷龙转凤，换掉行李箱中的绝版模型，用恭大喜。天娥一直支持俊升搬到伟威家中暂住，希望他可以为自己查出伟威绑架的线索，和她里应外合，将伟威绳之以法。
+
+天雄因为失去赎金无心工作，买外卖记错众人的喜好，被用恭指责。天雄不忿被羞辱，一气之下决定辞职回家，欲重过安逸的二世祖生活，却发现应钧早已将他的房间给予Woody入住，应钧更指Woody才是他的儿子，使天雄感到绝望。  用恭羡如　成为恋人  天雄再次买外卖送回长胜村，向用恭等人赔罪。纵使天雄仍然错漏百出，用恭则不停为他找藉口弥补，使天雄感动，大家和好如初。
+
+郭荣等人无意中向羡如透露用恭爱阅读色情刊物，使她尴尬地离开。用恭得悉后，担心羡如不会赴约，用恭失望之际，惊见羡如打扮漂亮前来。羡如的打扮引来好色男的垂涎，用恭挺身保护使她感窝心，两人终成情侣。
+
+嘉汶协助天佑为俊升打扫家居，无意中得悉他亡妻的过去，对羡如更是羡慕；天佑终于明白俊升无法接受天娥的原因。  天佑安慰　失落嘉汶  伟威遇上嘉汶和天佑，再次阻止两人来往，嘉汶不欲理会，并指责伟威既没有尽父亲的责任，又把她母亲的身分隐藏多年，伤心地和天佑离开。嘉汶向天佑诉说父亲多年的恶霸行为，又为自己从不知母亲的身分而感到难过。
+
+天娥为查出真相，不惜以酒灌醉伟威，俊升刚好回家，看到半醉的伟威和天娥依偎在一起，遂将天娥带走，告诉她已错过寻真凶的关键时刻，谁知天娥竟睡着了。天娥带俊升来到伟威的铁皮屋，原来天娥睡着仍听到俊升的说话，才带他到来寻找证据，此时郭桦等人到来，两人急忙躲藏，却因被货物塞着而被迫留在地库。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1078</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>11._qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

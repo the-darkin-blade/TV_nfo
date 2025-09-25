@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>永章原是　热血探员</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>4155080</id>
+  <uniqueid default="false" type="tmdb">1828881</uniqueid>
+  <uniqueid default="false" type="trakt">1489388</uniqueid>
+  <uniqueid default="true" type="tvdb">4155080</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>沈雄等人已经对永章忍无可忍，向小柔投诉，小柔仍如旧加以维护；永章当年原来在学堂中是最出色的学员，而且更在小柔年幼时助兴隆的士多赶走恶霸，所以小柔认定永章是一名热血探员，所以一直维护他……
+
+永章受小柔责备后，良心发现，向小柔道出十四年前与晓东的恩怨，他更认定晓东与奸杀案有关；小柔咨询泽琛与彦博的意见，虽然无法确定奸杀案是否与晓东有关，但他认为可以重开这案件调查，最后，小柔亦得到上级允许她展开调查。
+
+永章重新振作，投入查工作；小柔又得到美国刑警的协助，查知晓东移居美国期间，亦曾有八宗类似的奸杀案发生，彦博更发现死者间微妙的相同处……
+
+小柔为令晓东露出原形，派出与众死者有相当特征的女警 Amy 接近晓东，怎料亦无功还。原来晓东早已识穿警方行动，乔装避过警方线眼，目的是要消除一直对自己死缠难打的永章，虽然彦博及时想到此点，但永章已遭晓东偷袭……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E13.20190401.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Forensic Heroes 20190401 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>401</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E13.20190401.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="401" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

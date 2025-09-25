@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>刘焱胁持以铿</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>4947077</id>
+  <uniqueid default="false" type="tmdb">1984056</uniqueid>
+  <uniqueid default="false" type="trakt">1305783</uniqueid>
+  <uniqueid default="true" type="tvdb">4947077</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>刘焱回港后因为行事太过招摇，最后在启源的安排下乘船离开香港，但途中突然出现两名杀手并向刘焱开枪，刘焱只好且战且退。刘焱最终被杀手成功击中，并将他胁持上车带走。同一时间，立勋与众警员赶到现场，当见刘焱被人带走后便即驾车尾随紧追不舍。
+
+杀手最后因为逃避警方的追捕而发生车祸，贼车更因此焚毁。之后电视新闻报道刘焱死亡的消息，即令刘淼及美贞大感错愕，而哲行却为刘焱的死暗自感到高兴。
+
+立勋请求　美贞协助
+
+原来刘焱在车祸发生前已经成功逃出生天，但警方为了引蛇出洞便向传媒发放假消息，但是警方内部早已有以铿的内应，因此以铿收到消息知道刘焱未死，便指示启源处理此事。
+
+启源心知袭击刘焱的杀手是景昌的人，便独自找景昌谈判，最后启源发现刘焱不在景昌手上，即出言嘲讽景昌，令景昌誓要向启源报复。另一方面，立勋为了尽早找出刘焱的下落，便暗中请美贞帮忙，美贞为了不让哲行担心，便决定独自与立勋一起找寻刘焱。
+
+美贞得知　入狱真相
+
+美贞与立勋到一间黑市医院调查，可惜却被刘焱及早察觉而逃走，立勋见未能成功拘捕刘焱，只得自行继续寻找，而美贞则独自回家。想不到美贞却被刘焱尾随并加以胁持，而刘焱亦趁机将美贞入狱的真相告知她，美贞闻言后亦感不知如何是好。
+
+另一方面，哲行估计到刘焱有机会找启源报仇，即致电提点他，殊不知启源已经被刘焱持枪要胁。刘焱为求脱身，便迫使启源安排以铿到码头出现，好让自己能利用以铿逃出香港。启源见无法脱身，亦只有按刘焱的说话办事。刘焱见事情安排妥当后逃去，想不到立勋亦于此时出现，并将被五花大绑的启源救出。
+
+哲行出手　拯救以铿
+
+以铿按照启源的要求来到码头，即被持枪的刘焱胁持带走。早前哲行因为担心启源已被刘焱胁迫，故驾车暗中跟踪刘焱。
+
+刘焱胁持以铿到码头并打算利用他的游艇逃亡，哲行见状即上前与刘焱搏斗。虽然以铿因此而成功逃出了刘焱的胁持，但是哲行却被刘焱制服。
+
+正当哲行命悬一线之际，立勋亦终赶到现场，并从后开枪将刘焱击毙。之后以铿及哲行到警署接受调查，而哲行亦成功令警方相信自己攻击刘焱是出于自卫。
+
+得知真相　伤心欲绝
+
+以铿捡回一命后，即与哲行及启源见面。虽然启源曾经欺骗以铿在码头出现，但以铿明白启源当时被刘焱胁持，故没有追究启源……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1332</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep16.20140804.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>忠奸人 Hdj Black Heart White Soul 20140804 2Audio Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>804</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1332</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep16.20140804.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="804" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>Day23 我只要沈杏仁</title>
+  <originaltitle>Day23 我只要沈杏仁</originaltitle>
+  <showtitle>小资女孩向前冲</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>4409274</id>
+  <uniqueid default="false" type="tmdb">1569641</uniqueid>
+  <uniqueid default="false" type="trakt">1658731</uniqueid>
+  <uniqueid default="true" type="tvdb">4409274</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>恶作剧之吻是最重要的回忆？乐乐休完年假回到工作岗位上，史特龙再见佳人行为失控，却让乐乐想起一段回忆，凯儿的心机即将曝光？子奇身分秘密一曝光，京师百货总动员，史特龙带头巴结，子奇如何面对众人的特殊眼光？杏仁的心情乱糟糟，秦董为了帮助小俩口和好，放下董事长身段已父亲身份与杏仁恳谈，小俩口冰封的爱情是否因此回温？</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TTV Main Channel</studio>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2718</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj Office Girls Ep23 Hdtv 1080I H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

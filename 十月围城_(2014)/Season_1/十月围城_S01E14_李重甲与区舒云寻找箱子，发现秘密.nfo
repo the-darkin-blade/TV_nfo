@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李重甲与区舒云寻找箱子，发现秘密</title>
+  <originaltitle>李重甲与区舒云寻找箱子，发现秘密</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>4938192</id>
+  <uniqueid default="false" type="tmdb">2728555</uniqueid>
+  <uniqueid default="false" type="trakt">1306056</uniqueid>
+  <uniqueid default="true" type="tvdb">4938192</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李重甲忽然现身，区舒云吓了一跳。李重甲把话挑明，咱们的目标一致，你也是来找这口箱子的，箱子里的东西能说明一切，要看只能一起看箱子终于打开了，里面却只有几本书几件小东西，什么也说明不了。二人失望。李重甲忽然拉住区舒云的手，你不觉得这一切是在给我们制造机会吗？区舒云推倒李重甲，终于设法逃出了密室。李重甲重新更仔细地翻查箱子意外从中掉出了一张照片。李重甲细看照片，如获至宝！区舒云回房打算跟阿四翻脸，审问他的来历。阿四却一本正经，说他出去帮她联系秦少白。区舒云又升起希望，答应在家再演一天媳妇。阿四当然是骗区舒云，他直接去了医院。阿纯正在准备第二次手术，惦记李玉堂，阿纯说李老爷是大好人，叮嘱阿四一定要报答人家。阿纯的话给了阿四苦撑的力量。李重甲密见铁山，拿出了那张照片。阿四回来，对区舒云编了一套秦少白的话，被区舒云揭穿……区舒云亮出阿四的荷包，阿四抢过荷包，大骂区舒云。区舒云看见阿四把荷包揣进怀里的动作，恍然大悟！你－－你是那个香港车夫！全对上了！阿四无法再抵赖，区舒云又气又恨！这时，铁刚带着一队兵，叩开了李家大门，指名要见李公子！阿四被引到火神庙一个房间，铁山给了阿四一张纸，只见纸上密密麻麻全是英文，阿四晕菜。阿四肯定是假，铁山心里有底了，不再客气，拿出了那张照片－－竟是李重光与孙文、秦少白、杨新四人的合影，背后还有孙文写给重光的留言。阿四一口咬定，我是李重光，但不是革命党，从未拍过这样一张照片！铁山本来稳操胜券，没想到阿四会选择死扛，他冷笑，既然你是个忠义之士，就打入死牢！李玉堂作为刺杀嫌犯还没释放，李重光又被当成革命党给抓了，李家乱了套。区舒云虽然她心有不忍，还是谎称自己回门求爹救人，实际上已打定主意，要在半途溜走！铁刚把阿四关在审讯室隔壁，审讯上刑时革命党的惨叫不绝于耳，他被吓得尿了裤子。 他好想阿纯，恨不得立刻招了自己是个替身，去见阿纯。可阿纯的恩人，他发誓要报答阿纯的恩人李玉堂，害了李玉堂，怎么有脸去见阿纯？阿四心乱如麻。区舒云来到清风茶楼，希望能见到朝思暮想的秦少白。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2657</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep14_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

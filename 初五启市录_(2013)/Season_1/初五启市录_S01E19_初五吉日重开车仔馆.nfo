@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>初五吉日重开车仔馆</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>初五启市录</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3225419</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>振邦追查志摩至诗社，发现志摩真正的身分，原来南京政府担心广州政权易手后大乱，必须维持广州的太平盛世。振邦刻意危言耸听，指代市长根本不是从政之才，建议南京政府作双重准备，另寻有才干之士接管广州。
+
+新年将至，唐家上下准备过年，礼和更回到唐家过冬吃饭。唐家众人得知礼和心系雅媛，因不知雅媛已拒绝礼和表白，而故意安排二人座位相邻。
+
+美玲到访　刻意施压
+
+美玲突然来访唐家，见唐家以礼和旧名相称，便刻意于席上冷言冷语。其后又再向雅媛恶言，暗示若唐家不自量，会对唐家不利。雅媛为了与礼和保持距离，便藉业务繁忙向礼和辞退智囊团工作。虽然得到礼和答允，但雅媛辞任智囊团出于无奈，难免愁眉不展，连永齐也禁不住关心她。
+
+雅媛和雅文两姊妹假日到茶座喝茶，雅文一坐下便交代公务，雅媛语重心长地劝说妺妹不要虚耗时间在事业上，白白让美满良缘从身边流走。
+
+雅文约会子谦，却被飞与芬在餐厅巧遇上。起初飞视之为正常社交活动，但听到二人曾共进情侣套餐，终于确认雅文正与子谦交往。发现雅文已心所有属，令飞初尝失恋，苏家众人见他沮丧，亦只能空担心。
+
+初五吉日　诸事皆宜
+
+永昌盛在新一年有新发展，打算在百年难得一遇的初五好日子重开车仔馆。
+
+唐家众人得知雅文正与子谦交往，都纷纷为雅文的婚事说媒，更定在初五与子谦的父母会面吃饭，雅文一时难敌众口只好同意。
+
+雅媛姊妹路经闹市，雅文忽然闻到艇仔粥香味，便与姊姊到大排档吃艇仔粥。雅媛深知妹妹有洁癖，以前决不会吃大排档的食物，认为妹妹的转变与在花地码头的经历和某些人相关，雅文没作回应。
+
+大英和小英运送地道的沙石时，发现广州市民已经忙于准备过年。炳财监察挖掘地道的进度，认为很快便能打通到汪家金库的地道，更预算在初五便能成功到达金库偷黄金。
+
+振邦密谋　发动兵变
+
+继尧伤势虽然好转，但医生诊断后，断定继尧不能回复以往精力重新掌政。所以继尧决定让儿子早日继承父业，正式由代市长升任为市长，并召集政府要员到家中宣布此事。众官员都不知就里，只有振邦暗中得知继尧无法康复的消息，误以为此行是宣布把市长之位传给自己。
+
+众官员抵市长府后，美玲只请振邦、耀祖、孝勇、定国与继尧会面。继尧在四人面前宣布将市长之位传给礼和，更定市长就职典礼于百年难得一遇的初五吉日举行……</plot>
+  <runtime>88</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>960</width>
+        <height>544</height>
+        <durationinseconds>5293</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>The.Day.Of.Days.Ep19_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

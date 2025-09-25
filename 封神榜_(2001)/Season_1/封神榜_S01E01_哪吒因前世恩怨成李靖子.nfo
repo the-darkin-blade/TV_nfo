@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>哪吒因前世恩怨成李靖子</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>4418912</id>
+  <uniqueid default="false" type="tmdb">2025512</uniqueid>
+  <uniqueid default="false" type="trakt">1484557</uniqueid>
+  <uniqueid default="true" type="tvdb">4418912</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>天界仙山，诸天神将，从四方八面，驾着云雾飞往封神台，时姜子牙手持黄色卷轴，即封神榜，于封神台赐封两军将领，各人神情肃穆，用心聆听，哪吒本来精神勃勃，但当子牙说到他的前尘往事时，面色渐变，回首前尘，百般滋味在心头。
+
+话说前生，哪吒本是仙童火德星君，终日与群鹿为伍，嬉游于山野水涧，自得其乐，而商朝四大名将之一——李靖，为取鹿茸替帝乙治病，前来猎鹿，误令星君哪吒堕崖不治，三年零六个月后，李靖率领群将上阵抗敌，时李妻殷十娘怀胎三年零六个月，临盆在即，但仍随夫上阵杀敌，在两人合力之下，果将敌军歼灭，欣喜之时，十娘突然作动，李靖全军就地驻扎。十娘几经艰辛，但诞下的竟是肉球一个，李靖断定此乃妖孽降世，挥怒剑将肉球劈开，跃出一个三岁小孩——哪吒，哪吒记起前尘往事，令李靖对他成见日深，十娘护子心切，决定将哪吒送予女娲庙抚养，哪吒初尝孤独滋味，决于李靖寿辰之日，千里迢迢送上寿饱予李靖，父子冰释前嫌！</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1048</width>
+        <height>720</height>
+        <durationinseconds>1441</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>01_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

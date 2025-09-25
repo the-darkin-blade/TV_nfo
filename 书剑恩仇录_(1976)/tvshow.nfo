@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-04 21:23:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>书剑恩仇录</title>
+  <originaltitle>書劍恩仇錄 (1976)</originaltitle>
+  <showtitle>书剑恩仇录</showtitle>
+  <sorttitle/>
+  <year>1976</year>
+  <top250>0</top250>
+  <ratings/>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>《书剑恩仇录》是1976年拍摄的金庸武侠剧，由王天林执导，郑少秋领衔主演。是第一部改编自金庸小说的香港武侠电视剧。此剧完全遵照原著，76年首播即席卷香港、东南亚，也令郑少秋红透香港和东南亚，也奠定了郑少秋香港首席武侠小生的地位。此剧其他配角也都是当时的一线花旦和小生，可谓真正意义的大制作。&#13;&#13;
+该剧讲述了满清时期，乾隆与红花会的故事。</plot>
+  <tagline/>
+  <runtime>70</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"8146","imdb":"tt0843227","wikidata":"Q7746808","tvdb":"317609"}</episodeguide>
+  <id>317609</id>
+  <imdbid>tt0843227</imdbid>
+  <tmdbid>8146</tmdbid>
+  <uniqueid default="false" type="tmdb">8146</uniqueid>
+  <uniqueid default="false" type="imdb">tt0843227</uniqueid>
+  <uniqueid default="false" type="wikidata">Q7746808</uniqueid>
+  <uniqueid default="true" type="tvdb">317609</uniqueid>
+  <premiered>1976-06-28</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <genre>Action</genre>
+  <genre>Romance</genre>
+  <genre>History</genre>
+  <studio>TVB Jade</studio>
+  <country>中国香港特别行政区</country>
+  <actor>
+    <name>鄭少秋</name>
+    <role>陳家洛, 乾隆, 福康安</role>
+    <profile>https://thetvdb.com/people/8029803-鄭少秋</profile>
+    <tvdbid>8029803</tvdbid>
+  </actor>
+  <actor>
+    <name>汪明荃</name>
+    <role>霍青桐</role>
+    <profile>https://thetvdb.com/people/7884092-汪明荃</profile>
+    <tvdbid>7884092</tvdbid>
+  </actor>
+  <actor>
+    <name>余安安</name>
+    <role>香香公主</role>
+    <profile>https://thetvdb.com/people/8098490-余安安</profile>
+    <tvdbid>8098490</tvdbid>
+  </actor>
+  <actor>
+    <name>李司棋</name>
+    <role>駱冰</role>
+    <profile>https://thetvdb.com/people/7897183-李司棋</profile>
+    <tvdbid>7897183</tvdbid>
+  </actor>
+  <actor>
+    <name>高妙思</name>
+    <role>周綺</role>
+    <profile>https://thetvdb.com/people/7991554-高妙思</profile>
+    <tvdbid>7991554</tvdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+    <group id="ABSOLUTE" name="Absolute Order"/>
+  </episode_groups>
+</tvshow>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>尚垶公然顶撞曦华</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>铁探</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>7109973</id>
+  <uniqueid default="false" type="tmdb">1751183</uniqueid>
+  <uniqueid default="false" type="trakt">3452947</uniqueid>
+  <uniqueid default="true" type="tvdb">7109973</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>秉高接到营长安排的新任务，去接触副营长刘广兴。就在秉高正收集线索时，遇到了正在附近追查佑晖的尚垶和喜悦。尚垶和喜悦很快了解到，佑晖组织了一场联合行动，准备在香港三个热闹的行人专用区犯案。两人很快阻止了佑晖，但却没法制止他的同党林建波。
+
+眼看镪水从天而降，淋到了喜悦身上，喜悦以为大祸临头，却发现淋在身上的只是清水。循着镪水飞出的方向，尚垶和喜悦来到一个天台，却见建波已晕倒地上，身旁的镪水瓶纹丝未动。尚垶回想起，似乎刚才不经意见到那个在许多地方都出现过的身影。
+
+尚垶确认这不是巧合，而那个身影一定是秉高。尚垶很快追赶上秉高，两人终有机会当面对质。秉高向尚垶坦白，那一枪只是意外，他会想尽办法捉住营长作为弥补，但尚垶并不领情。此时，营长忽然驾车飞出，险些撞上尚垶，秉高才得以逃出生天。秉高此时才得知营长的计划，原来他设计了一场绑中绑，绑架了广兴的女儿，要求他绑架富豪卓念博儿子卓智文换取巨额的赎金。
+
+曦华非常清楚，佑晖等人并不是第一次镪水案的真凶，但她决定隐瞒真相，对外宣布作案者已被抓拿希望以此激怒真凶现身。尚垶公然顶撞曦华，质疑她的决定，遭到驱逐。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <studio>TVB Jade</studio>
+  <studio>Tencent Penguin Pictures</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:25</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1316</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Defected.E10.2019.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade The Defected 2019 Hdctv qsv av1</title>
+  <originaltitle/>
+  <showtitle>铁探</showtitle>
+  <season>1</season>
+  <episode>2019</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <studio>TVB Jade</studio>
+  <studio>Tencent Penguin Pictures</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:25</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1316</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Defected.E10.2019.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2019" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

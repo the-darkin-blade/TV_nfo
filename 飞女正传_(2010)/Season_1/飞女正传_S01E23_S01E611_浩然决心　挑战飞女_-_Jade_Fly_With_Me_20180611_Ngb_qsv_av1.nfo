@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>浩然决心　挑战飞女</title>
+  <originaltitle>Episode 23</originaltitle>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>2309611</id>
+  <uniqueid default="false" type="tmdb">569242</uniqueid>
+  <uniqueid default="false" type="trakt">577911</uniqueid>
+  <uniqueid default="true" type="tvdb">2309611</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>看到巧芝出现，梁家众人不禁高兴不已，更要求她不要再随便失踪。这时建康发现不见了指甲钳，经四处寻找终发现指甲钳竟卡在巧芝的裤子上，但他亦看到了巧芝的大屁股竟然「漏气」塌下。正当众人议论纷纷之际，Janet Bin突然受到袭击；原来假扮护士的浩然埋伏在医院，更向梁家众人指出她其实是「Janet Bin」。浩然虽胁持了建康逃出医院，但Janet Bin仍成功追截他……
+
+联盟得悉　飞女真身
+
+正当Janet Bin欲对浩然下毒手之际，却因为交通意外引来大量途人围观拍摄，Janet Bin只得让浩然逃走；将浩然救离险地的绰雅，主动提出让浩然暂时在家中居住，但他却不想连累妻子……翌日在联盟的总部，有讨厌Janet Bin的医院护士主动向联盟通风报讯，指她在当值期间听到浩然与梁家及Janet Bin的对话，因此联盟各人终肯定巧芝与Janet Bin原来是同一人。另一方面，伟信成功潜入巧芝的电脑，更取得「Agent Mulder」与巧芝对话的片段；明轩以Janet Bin为代言人的方法大为成功，而明轩为了能赚取更多的钱，竟与Janet Bin合作推广传销式整容计划……另一方面，伟信成功联络支持联盟的律师帮忙，亦准备好一切证据揭穿巧芝与Janet Bin是同一人的真相……看到美诗仍为明轩与Janet Bin合作一事耿耿于怀，伟信努力安慰她，但美诗为了证明自己已放下明轩，竟吻了伟信。明轩与Janet Bin接受传媒访问，而亦强调两人关系亲密，但事实私下两人刻意保持距离；永晖向Janet Bin提出不想她过于操劳，因此要求她全力与明轩合作，不要再沾手集团工作……三位经理在洗手间听得永晖把转投自己阵营的亲信辞退，三人预言将有事发生……
+
+永晖怀念　昔日生活
+
+永晖因座驾坏了，不得不乘搭巴士回公司，在车上他不禁缅怀昔日时光，更想起当初暗恋巧芝的往事……伯驹发现永晖与Janet Bin聚少离多，忍不住提醒他。永晖喂药给凤卿时说自己并不害怕Janet Bin，却不知一切已被她听到……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E23.20180611.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Fly With Me 20180611 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>611</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E23.20180611.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="611" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

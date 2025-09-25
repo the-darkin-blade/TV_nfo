@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿四反悔逃跑，区舒云巧妙接阿纯回李家</title>
+  <originaltitle>阿四反悔逃跑，区舒云巧妙接阿纯回李家</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>4938200</id>
+  <uniqueid default="false" type="tmdb">2728564</uniqueid>
+  <uniqueid default="false" type="trakt">1306240</uniqueid>
+  <uniqueid default="true" type="tvdb">4938200</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在医院，由于老丁在陪着阿纯，阿四虽然是远远看见阿纯，不能上前见面，阿四还是十分开心和满足。阿四与区舒云回到李家从长计议见阿纯计策，得知只有得到李玉堂的印章才能获得医院放行见到阿纯。李老太太为李重光过生日，区舒云与阿四准备借生日宴灌醉李玉堂，偷取李玉堂印章。阿四进入密室偷取印章时听到李玉堂对着李重光灵位发誓要照顾好阿四与区舒云时被感动。想起自己正在策划的偷走计划，有点不落忍。 对假父子的关系，在曲折进展中。区舒云得知印章到手，十分欢喜，原来她已经在李老太太那里做好铺垫，准备趁明早去早市买花时逃走，还安排好了接应的马车。第二天大早，阿四与区舒云来到花市，准备逃走。可是阿四留恋与李玉堂的父子情谊，突然反悔，并将区舒云强拉硬拽绑回李家。阿四是铁了心在李家呆下去了，对区舒云看管得更严了，区舒云又想出新办法。区舒云张罗着陪老太太、曹氏和许氏去检查身体，去照广州第一台X光机，区舒云没打算跑，而是带着一大家子去见了阿纯，跟大家谎称阿纯是自己的远房妹妹，来广州治眼病，想接她回李家陪自己同住，老太太当场同意。区舒云私下对阿纯谎称是阿四派来接她的，认了阿纯做自己的妹妹。李重甲本来要设计绑架阿纯，可阿纯却被区舒云带回李家，计划落空。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2655</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep22_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

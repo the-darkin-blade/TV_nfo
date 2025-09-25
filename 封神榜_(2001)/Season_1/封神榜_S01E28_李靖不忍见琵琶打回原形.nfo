@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李靖不忍见琵琶打回原形</title>
+  <originaltitle>Episode 28</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id>4418954</id>
+  <uniqueid default="false" type="tmdb">2025547</uniqueid>
+  <uniqueid default="false" type="trakt">1484680</uniqueid>
+  <uniqueid default="true" type="tvdb">4418954</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李靖手持哪吒所给予的天怒神剑，内心忐忑不安，一方面想证实琵琶是人是妖，但另一方面又怕面对现实，但是毕竟与琵琶已有五载夫妻情谊，实在不忍心琵琶会变成一滩血水。所以毅然将剑上朱砂抹掉，以免对琵琶做成伤害，谁知此时，竟传来琵琶有喜，李靖终放下心头大石，而哪吒则不明李靖为何不忍心下手，两父子又发生争拗，李靖一怒之下将神剑弄断，令哪吒遭子牙以军杖惩罚。
+
+纣王知姬昌起兵谋反，担心不已，彩平皇后建议与子牙议和，但遭妲己强烈反对，原来妲己找来申公豹助纣为虐，纣王逐下旨公豹与飞虎联手灭子牙。另边厢，黄颜终于顺利诞下儿子，颜母开心不已！
+
+杨戬奉命带着婵玉、土行孙与姬昌会合，一路上，婵玉、土行孙对杨戬诸多挑剔，又处处表现得极不合作，令杨戬束手无策，此时，士兵送来黄颜家书，杨戬不识字，叫土行孙代为讲解，谁知哮天犬发出预报，众人知附近有危险而到山洞躲避，杨戬发现遗失信柬，冒险再到树林寻找，谁知遇见姬昌夫子愤力抗敌，杨戬冒死将众人救回山洞，英勇行为令婵玉感动不已。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1046</width>
+        <height>720</height>
+        <durationinseconds>1402</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>28_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>大破连环马</title>
+  <originaltitle>大破连环马</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>53</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026670</uniqueid>
+  <uniqueid default="false" type="trakt">7308156</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>汤隆盗甲之事败露，原来徐宁早有防备；徐宁将汤隆痛打一顿，赶出家门。徐宁加强了对宝甲的警戒，以防万一。虽然徐宁层层设防，宝甲最终还是被技高一筹的时迁盗走。时迁身背宝甲一路将徐宁引至梁山，在林冲等人的劝说下，徐宁加入梁山，宋江命人并将其家眷接入梁山，解决了其后顾之忧，徐宁大受感动，将钩镰枪法倾囊传授，与此同时，凌振督打造的各种火器也已经完工，梁山大军打破呼延灼，生擒了呼延灼的先锋韩韬，韩韬为梁山忠义所感，决定加入梁山。二龙山杨志、鲁智深等人得知梁山尾追击呼延灼正向二龙山逼来，喜忧参半，一方面鲁智深因能见宋江风采而喜，而另一方面杨志又隐隐担心梁山此行前来会吞并二龙山。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1076</height>
+        <durationinseconds>2653</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E53 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="53" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

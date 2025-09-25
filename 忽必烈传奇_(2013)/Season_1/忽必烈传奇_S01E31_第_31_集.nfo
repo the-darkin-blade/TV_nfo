@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 31 集</title>
+  <originaltitle>第 31 集</originaltitle>
+  <showtitle>忽必烈传奇</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2821433</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>失烈门和海都去看望被软禁的脱烈格那，脱列格那让他们以后不要再来见自己，她让海都此生都在察合台度过，失烈门答应她会跟着忽必烈去金莲川，他相信自己终有一天会重返和林，脱烈格那等孙子走后哭起来。霍赤被人拉入牢笼关押起来，牢笼被扔入水中，霍赤只能等死。蒙哥新政赢得老百姓的拥戴，忽必烈想让蒙哥停止修建汗宫，将省下的钱用于老百姓中，蒙哥答应下来……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2651</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Legend.Of.Kublai.Khan.Ep31.720P.Hdtv.X264.2Audio-Hdwtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

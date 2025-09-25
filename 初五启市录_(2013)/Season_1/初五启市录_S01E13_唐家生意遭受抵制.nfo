@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>唐家生意遭受抵制</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>初五启市录</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3225412</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>正式选举市政府共管委员会主席当天，孝勇提议以不记名的暗票方式投票，遭到振邦反对，指若继尧在场，定必不同意鬼祟行为。选举最后以记名的明票方式进行，原本答应支持孝勇的要员都改投振邦一票，令振邦顺利当选为共管委员会主席。孝勇再三表示不满，但连美玲也出现监票，无法改变结果。
+
+振邦正式上任为共管主席后，立即便向唐家报复，首先向唐家追讨私运国宝一事的责任，目的是藉此打击唐家在广州的地位。另一方面，振邦派宇私下联络广州三大帮会的三位龙头华叔、龙哥和九哥，暗地进行打击唐家的行动。
+
+由玉卿管理的尚品楼先遭殃，永齐到唐家大宅报告有民众推着坐轮椅的老人到尚品楼前，指控尚品楼食物不衞生。接下来万花百货亦突然遭人捣乱。正当百年幸灾乐祸，暗暗为酒庄无事松一口气时，却收到电话指酒庄前有人设路祭，指酒庄卖假酒。
+
+唐家众人始觉事态不寻常，明显是针对行为。玉卿、百年和绍业指雅媛平日的生意手法有问题，才招惹麻烦。雅媛答应处理事件，通知警方后，便回协和行主持大局。
+
+苏飞大队　加入反唐
+
+抵制唐家的行动升温，不仅破坏唐家商店店铺，更抢夺商品，即使是唐家远房亲属开设的商店亦不能幸免。一钊回到永昌盛说出抵制唐家的消息，飞因受到绍业的压迫，趁机率领兄弟们到大利货仓向楷发泄不满。但见群众破坏唐家物业，警察竟然不采取行动，飞等人虽然奇怪，仍不以为意。
+
+礼和厚待　戏院幸免
+
+雅媛回到协和行，职员都报告已有群众包围协和行，雅媛决定出去与群众对话，以便了解问题。雅媛解释协和行以良心行事，即使是土地发展项目，亦有合理赔偿，不过解释并不受大众理会，雅媛在混乱中更摔倒弄伤脚踝，只好回到办公室暂避。
+
+另一方面，反唐群众亦到百乐院戏院示威和破坏，礼和与员工连忙赶去制止。因为礼和素来善待员工，戏院多年门票未有加价，获得员工和街坊支持，令抵制唐家的行动没有伸延到百乐门。
+
+苏飞大青　勇救雅文
+
+飞与大青在茶楼休息时，见到龙哥、华叔、九哥三人在派钱给兄弟，更扬言广州愈乱，便能从中获得更大利益。飞终于发现反唐的行动背后由三大帮派操纵，有感不能助长此风，决定找回芬等人便脱离反唐队伍。
+
+唐家生意被抵制演变成低层市民的街头抗争运动，雅文完全不知情，与司机见到来意不善的民众，来不及离去……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>960</width>
+        <height>544</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>The.Day.Of.Days.Ep13_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 3 集</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486657</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小玉进宫前慈瑞让她一定要记得把那支紫钗带上。皇上很喜欢小玉的舞蹈，一曲毕后皇上让小玉继续再舞一曲，这天纳兰东也进来。回到紫檀殿后鲍彩凤让小玉把紫钗借给莫玥。第三天的表演莫玥带着紫钗为皇上表演。小玉怕莫玥肚子再疼也陪着莫玥一同表演。皇上听到莫玥和小玉的弹奏让纳兰东献艺助兴。纳兰东表演舞剑时要故意吓吓小玉。还好小玉临危不乱，皇上高兴赏赐纳兰东皇袍。皇上高兴也赏了小玉和莫玥。皇上问莫玥是否会吹奏紫云回。莫玥推荐小玉吹奏。小玉的吹奏让皇上落了泪，杨炎制止住小玉指责小玉让皇上落泪将小玉押下。宴会后纳兰东向皇上提出杨炎实在是太嚣张了并且替小玉说情。皇上放了小玉等人。皇上问纳兰东是否愿意入朝做官，纳兰东拒绝了皇上提议，皇上问纳兰东不是看不惯朝中一些所为。卢靖澜一直在宫外等着小玉怕小玉有危险，看到小玉出来后大家才一起离开。莫玥走后小玉和靖澜错过了宵禁时间，李益几人喝醉同样也错过了时间。小玉和靖澜一起飞过了宫门。李益看到小玉飞过的身影仿佛看到了神仙姐姐，李益为之迷倒。小玉在飞过时莫玥刚刚还她的紫钗掉落被李益捡到。小玉和靖澜回到紫檀殿没多久纳兰东就赶了过来，纳兰东指出小玉偷了宫内的玉萧，这把小玉气的啊。靖澜也在一旁替小玉说话表示不可能是小玉。小玉发现紫钗丢了后浣纱出门寻找正巧遇到了纳兰东，纳兰东听说紫钗的事后告诉浣纱看到李益手中拿着一枝紫钗。第二日小玉和浣纱一起到崇敬寺找李益。李益一直在睡觉两人被秋阳拦住。当李益醒来后看到小玉不正是昨夜的神仙姐姐吗?这让李益很是兴奋。小玉本就喜欢李益，这可是郎有情，妾有意了。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1299</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep03.20130906.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20130906 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>906</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1299</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep03.20130906.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="906" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

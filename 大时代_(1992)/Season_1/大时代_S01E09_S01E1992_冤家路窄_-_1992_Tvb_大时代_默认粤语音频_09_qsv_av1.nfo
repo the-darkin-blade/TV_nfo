@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>冤家路窄</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>2398921</id>
+  <uniqueid default="false" type="tmdb">1460694</uniqueid>
+  <uniqueid default="false" type="trakt">1435880</uniqueid>
+  <uniqueid default="true" type="tvdb">2398921</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>展博去交易所感受紧张的气氛，并在华人会找了份服务生的工作。他干劲十足，对新生活充满希望。 第一天上班，由于一晚没睡太累做过站，只好去拦出租车。和龙纪文抢同一辆出租车，展博将文挤下车子，结下梁子。交易所里如打仗一样，展博既觉得新奇又觉得满足。 龙纪文不依不饶找和她抢出租车的人，展博却死不认帐。龙纪文看他言辞凿凿，不禁相信了他。打发走龙纪文，彩婆婆又跑来说阮梅有事要去医院急救。展博送阮梅去医院，阮梅告诉他自己有心脏病。检查后才发现是阮梅吃坏东西得了霍乱。龙纪文以为自己错怪了展博，请他吃饭赔罪。却发现当日推她下车的正是展博，对他又打又踢，又是伤心。展博看她哭的可怜，答应做她朋友。丁益蟹去骚扰婷婷，逼她就范。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1568</width>
+        <height>1078</height>
+        <durationinseconds>1352</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.09_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 09 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1568</width>
+        <height>1078</height>
+        <durationinseconds>1352</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.09_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

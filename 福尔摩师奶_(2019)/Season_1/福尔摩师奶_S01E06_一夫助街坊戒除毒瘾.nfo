@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>一夫助街坊戒除毒瘾</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>福尔摩师奶</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1727088</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>祖迪中计，海盗首领超风神秘现身，带来菲腊失踪的线索，求祖迪力证其清白。罗拔率众追至，一夫带祖迪逃走，混乱间码头货仓失火，超风中枪……祖迪怀疑妹娣是内鬼，妹娣不甘反驳，「香庐」众人始知二人为亲姐妹。百川及德英误以为菲腊已死，祖迪将计就计。一夫暗中在凉茶加进鸦片酊，助街坊逐步戒除毒瘾，世杰误服凉茶，一夫求妹娣保守秘密。德英对一夫起疑，暗中调查。祖迪教晓尧读书识字，并着一夫训练她成为管家，态度严苛。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2648</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>TVBOXNOW 福爾摩師奶 EP06_H265.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

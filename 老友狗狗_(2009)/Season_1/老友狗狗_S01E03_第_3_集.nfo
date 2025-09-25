@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 3 集</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>老友狗狗</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195973</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>用恭和郭荣等人完成装修工程后，决定往监视伟威捉鬼的进度。伟威联同手下坐在村民目睹「无头鬼」的现场，怪事却连环发生，伟威的手下吓得借故离开，原来是用恭等人的恶作剧。谁知用恭把伟威也吓走后，竟目睹「大头鬼」，吓得走回店中。  村民和亚萍看到慌忙回来的用恭，众人道出目睹「大头鬼」的经过，突然门外却又发生怪事，俊升决定出外细看，凭他对狗只的了解，终于明白「无头鬼」和「大头鬼」的幕后黑手。  用恭斗气　导致受伤  村民得悉闹鬼真相后，纷纷取笑用恭，使他暗气。俊升找来天佑，一起监察用恭装修狗场的进度，使他感到不是味儿。俊升对狗场的设计颇为不满，令用恭误会他刻意刁难，也只好重新再做狗房内所有散热和防滑的设施；用恭不忿，决定亲自试用狗场，却因此跌伤腰骨，而被郭荣等取笑，他则投诉天佑处处维护俊升。  大强迫手下钟成交出私吞毒品，又向其他手下示意事后将他杀掉，使在旁偷听的钟成大惊。钟成在保龄球场内制造混乱，并通知好友伟威把他和藏有毒品的保龄球接走。  伟威欲当　白粉拆家  伟威带钟成到他的地下大麻工场暂住，从而得知钟成手上的保龄球藏有毒品，相比他辛苦种植大麻草的利润更深。伟威和手下商量，决定将藏有毒品的保龄球据为己有。伟威幻想和钟成理论减价，未料他坚决拒绝，伟威一气之下以利刀刺死钟成，并埋尸荒野，此时却被嘉汶唤醒，他才恍然一切只是梦境。  天佑陪伴用恭看跌打医生后，遇上鬼祟的伟威，更不慎撞跌他刚买的大批利器，天佑暗感奇怪，用恭却不以为然。  用恭失足　吻向弃尸  伟威依计画和钟成把酒畅谈，了解保龄球中的毒品如何出售，以及其他细节，此时吃饱宵夜的用恭和郭荣等路过，准备回到狗场完成余下的工作，吓得伟威慌忙关灯，谁知未有把保龄球和毒品收好，毒品意外倒进钟成的杯中。
+
+伟威在地库准备利器之际，无意中听到钟成挣扎的声音，回地面时赫然发现钟成已死，遂急急将他拖到外面空地弃尸时，却听到用恭等人折返。原来郭荣把手提电话遗在路上，用恭为他寻找时却错误吻了尸体，把郭荣和小龙吓坏。伟威得悉郭荣被吓至痴呆不醒后，连忙带来金牌为他定惊，用恭和天佑感可疑。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1876</width>
+        <height>1080</height>
+        <durationinseconds>2655</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>3_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>礼和真正身分曝光</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>初五启市录</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3225414</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雅媛被暂时收监，雅文探望时告之唐家资产被冻结，雅媛指不怕入狱，只担心唐家往后的情况，两姐妹都为了协和行日后的生计忧心不已，一旦协和行倒闭，将有无数员工及家眷受影响。
+
+礼和担心雅媛一旦被定罪，唐家便群龙无首，于是决定放生小龟为雅媛积福。到达河边后，礼和一时感触，因未能保护心仪对象感到沮丧。正巧飞路过，终于知道礼和一直埋藏在心内的对象是雅媛，但也只能安慰他。
+
+雅媛罪成　还押收监
+
+雅媛终于被提堂，协和行被控逃税罪成，雅媛先还押监房，容后判决刑期。唐家失去当家，资产又被冻结，生意暂时瘫痪，唐家人亦无事可做。趁这时候，绍业的债主上门到唐宅讨债。众人束手无策之际，宝宝大发雷霆赶走两名债主。
+
+继尧道出　次子身世
+
+飞等人到茶楼饮茶，座位被迟来的龙哥霸占，被逼坐到另一边，大青不忿龙哥的霸道，絮絮不休地跟永昌盛的兄弟数落龙哥，指他暗中操纵抵制唐家的行动。
+
+另一方面，继尧从昏迷中醒来后，辗转反侧间提到想见次子世杰，才揭开原来他还有一子的事实。即使亲如妹妹美玲，之前一直不知还有次子的存在，于是市政府首要工作是为市长寻回失散的次子。消息传开后，不少适龄男子都前往市政厅自认是汪世杰，美玲、振邦和耀祖忙于帮忙判断谁是真正的二少爷。
+
+众人搜索　次子世杰
+
+继尧恢复精神后，美玲急忙向他报告锁定两名男子有可能是世杰，但继尧竟抱怨众人多此一举，因为他早已得知次子世杰下落。原来多年前继尧因维护面子，把天性迟钝的次子交托给下属照顾，下属把世杰转送到一户唐姓商家抚养成人。虽然明知儿子下落，继尧从未与他相认，只在暗中默默扶助唐家的生意，确保儿子能衣食无忧。
+
+振邦等人知道世杰身分后，马上到唐宅找寻世杰。唐家众人以为是为了协和行逃税的事要抄家，都慌张失措。
+
+礼和身分　真相大白
+
+礼和感到唐家的风波不会短时间内平息，知道自己将无暇照料小龟，便带小龟到永昌盛托飞代为照顾。此时，龙哥、华叔、九哥带同一众门生来到花地码头，要向永昌盛问罪兴师。原来永昌盛有人暗传三大帮派在幕后发动之前抵制唐家的行动，令三大帮派遭排挤，难以在广州立足。
+
+广州最大的帮派即将展开龙争虎斗，振邦率领军队到花地码头，及时制止了一场江湖浩劫。其实振邦的目的，是接走身在花地码头的礼和，更向礼和敬礼，称他为汪家二少……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>960</width>
+        <height>544</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>The.Day.Of.Days.Ep15_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

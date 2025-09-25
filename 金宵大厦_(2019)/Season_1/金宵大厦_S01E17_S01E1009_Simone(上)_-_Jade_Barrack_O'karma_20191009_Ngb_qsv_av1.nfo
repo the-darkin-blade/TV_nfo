@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:08:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>Simone(上)</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>金宵大厦</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>7358438</id>
+  <uniqueid default="false" type="tmdb">1952727</uniqueid>
+  <uniqueid default="false" type="trakt">3709321</uniqueid>
+  <uniqueid default="true" type="tvdb">7358438</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>被困的阿萧迷糊间浮现旭辉中枪堕海的情境。胶罐在天台修理天线时听到水箱有声，同时手机程式Simone道出游戏「奇幻大厦」情节，遂打开水箱发现阿萧。阿萧获救，与林老师发生激烈争执，林老师怒炒阿萧。胶罐遇见女神张曦雯，无意中教她玩「奇幻大厦」游戏，得她邀约打机，更一起「进入」游戏打丧尸。阿萧到大学找潘朵拉教授，探究「奇幻大厦」与金宵大厦怪事的关联，发现一本小说《梦游》，情节跟他与Alex的经历不谋而合。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1305</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Barrack.O'karma.E17.20191009.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Barrack O'karma 20191009 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>金宵大厦</showtitle>
+  <season>1</season>
+  <episode>1009</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1305</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Barrack.O'karma.E17.20191009.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1009" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>五虎上将打童贯</title>
+  <originaltitle>五虎上将打童贯</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>76</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026694</uniqueid>
+  <uniqueid default="false" type="trakt">7308179</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>招安在忠义堂顺利进行，朝廷送来的御酒却迟迟未到。正当萧让宣读朝廷的诏书时，李逵杀出，不仅撕毁御诏，还拳打招安使臣，大闹忠义堂。宋江气愤，强令李逵退下，恰此时御酒送到，吴用提议共饮御酒，然而御酒却被押送人阮小七掉了包换成了污水，这激怒了众好汉，众人一致要杀了前来招安的使臣，最后还是宋江平息了大家的气氛，结束了招安闹剧。宋江自知梁山此举惹怒了朝廷，开始积极备战。朝廷这边，蔡京和高俅等人将矛盾煽风点火，致使宋徽宗下令命童贯率军进攻梁山。戴宗将朝廷备军预备进攻梁山的消息告知众兄弟，一场大战在所难免。童贯亲领十万大军开赴梁山地界，吴用采用诱敌深入的计策，屡屡诈败，将童贯手下大将毕胜引来，朝廷大军不知是计，步步紧逼。大计即成，宋江点将，领五虎上将前往痛击敌人。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2673</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E76 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="76" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

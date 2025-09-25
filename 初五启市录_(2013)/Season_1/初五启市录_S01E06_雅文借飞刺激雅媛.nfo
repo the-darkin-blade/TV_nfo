@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>雅文借飞刺激雅媛</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>初五启市录</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3225405</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雅媛安排雅文与子谦练习西洋剑，认为两人有机会发展，便借公事繁忙先行离开，留下妹妹与子谦独处。雅文不满姊姊中途离开不守约陪伴自己，生气地回家。玉卿见雅文对姊姊有微言，便乘势说雅媛的不是，指出雅媛多年来对照顾妹妹已感厌倦，为她介绍男友，目的是希望妹妹能把心思花在男友身上，以后不再缠扰自己。雅文信以为真，马上到公司找雅媛确认。
+
+雅媛正与四大商会的老板开会，叫雅文先回去，待会后再细谈，可是雅文坚持要在众人面前讨公道，四大商会几位老板只好知趣离场。雅媛向雅文解释，为她介绍男友，是因为她已长大，希望她能独立。然而，雅文听在耳中，认为姊姊果然有心要抛下自己不顾。
+
+永昌盛在花地码头重新开始，虽然渐渐接到工作，但生活仍然艰难。大青命虎以搬运面粉时掉落的面粉屑制成薄撑给众人充饥，芬更带头先吃，众人唯有暂时忍耐。
+
+雅文邀请　苏飞泛舟
+
+此时，雅文来到花地码头找飞，虽然对飞邋遢的行径极为反感，仍然约他泛舟。在小舟上，雅文一反先前刁蛮的态度，主动与飞亲切地攀谈，令飞大惑不解。永昌盛一众伙记亲眼目睹飞与雅文一同撑艇，雅文更殷勤地为飞抹汗，都深信二人正在交往，大青更喜于儿子攀上富家千金。只有芬感到当中事有跷蹊，叫大哥万事小心。雅文回家后，知道曾与飞泛舟一事已被家人知晓。百年、玉卿、绍业都出言叫雅文不要与身分低下的飞来往。而雅媛听到妹妹反常的种种行径，马上明白背后动机何在，向祥嫂细数当中因由。
+
+游走闹市　吃情侣餐
+
+雅文的行动再进一步，邀请飞同踏单车，故意要他穿梭广州闹市，当中更包括家族物业所在之处，高调地呈现唐家二小姐正与身分不相称的苦力交往的假象。绍业见到雅文依偎在飞身上，只能无奈地相信雅文此举是认真的。雅文更带飞到西餐厅，点了情侣套餐，连飞本人也误会雅文对自己有意，向雅文确认二人是否情侣关系。雅文避而不答，反约他清晨看日出。
+
+雅文爽约　拒见苏飞
+
+飞在半山苦等至清晨，雅文并无赴约出席。飞以为雅文爽约是有要事或身体不适，带着倦容回家后，永齐也特意来访。永齐传达雅文的意思，说她与飞间是一场误会，更称以后不会再见飞。
+
+飞无法理解雅文忽冷忽热的态度，便去找礼和倾诉。礼和知道了雅文的决定，正巧想去开解飞。礼和向飞解释，二人身分背景相违，不应勉强交往，又怕飞难以接受打击，婉转地说出真相……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>960</width>
+        <height>544</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>The.Day.Of.Days.Ep06_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

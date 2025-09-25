@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 12 集</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>老友狗狗</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195982</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>伟威早上醒来，发现嘉汶外出后，立刻到她房间寻找藏有毒品的保龄球，谁知只剩下空空的保龄球袋。嘉汶折返，不满伟威走进她的房间翻东西，他惊悉嘉汶早在狗场遗失了保龄球。  用恭接载羡如到诊所，嘉汶看不过眼两人在打情骂俏，处处针对用恭。天娥因为害怕，整晚拥着俊升入睡，突然听到用恭等人的声音，俊升连忙敲破窗门求救，可惜用恭听不到两人的求救声，幸好天娥的电话恢复讯号。  嘉汶誓找　生母下落  用发到天台打理盆栽，和美莲交谈起来，却被用恭和带弟等人发现，各自把两人拉开，坚决不向对方议和。
+
+嘉汶仍为自己母亲的身分而耿耿于怀，用恭决定向亚萍求助，嘉汶得悉伟威当年十分风流，亚萍推断最有可能是嘉汶母亲的人，使她充满希望寻回生母。  卓玲到狗场找用恭等人为她换电灯泡，郭荣等争相协助，用恭却安排天雄前往；天雄却不慎打破灯泡而弄伤手指，得到卓玲的悉心照顾。  用发美莲　拖延离婚  用恭悉心打扮到诊所接羡如下班，却因为不断有应诊者而错过晚饭的时间，用恭却细心地买来外卖，决定和羡如在诊所共晋晚餐，使她十分受落。  天娥决定在伟威家装上针孔摄录机，却遇上伟威回家，幸得俊升解围，才不致被发现。天娥认定伟威的夹万中藏有赎金，决定想办法证实他是绑匪。  众人齐集观看用发和美莲办离婚的过程，两人却不断以藉口延缓进度，此时，天娥到来邀请村民到伟威家开派对，用发和美莲即抢先离开。  天娥答应　报警求助　　  天娥安排大量美食美酒，又着伟仔表演拳术，以分散众人的注意力，她则潜入伟威房内，欲把夹万带走。俊升看穿天娥的心意，遂出手阻止，却被天娥困在露台。嘉汶回家不满伟威投入与众村民跳舞耍乐，而漠视她的存在，激动得回房间痛哭，继而发现俊升被困露台。
+
+伟威发现天娥欲带走他的夹万，不禁大惊，两人争夺的声音而惊动众村民，天娥只好道出自己搬进来的目的，纯粹查证绑架她的真凶，又说出自己掌握的种种证据。  天佑建议伟威打开夹万以证明清白，结果令天娥失望，只好听从俊升的意见，交由警方调查真相。另一边厢，俊升确认天娥暗恋自己，不禁大惊。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1876</width>
+        <height>1078</height>
+        <durationinseconds>2660</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>12_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

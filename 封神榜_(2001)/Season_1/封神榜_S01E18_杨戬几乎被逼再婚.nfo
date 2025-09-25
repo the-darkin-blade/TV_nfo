@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>杨戬几乎被逼再婚</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id>4418939</id>
+  <uniqueid default="false" type="tmdb">2025533</uniqueid>
+  <uniqueid default="false" type="trakt">1484622</uniqueid>
+  <uniqueid default="true" type="tvdb">4418939</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>四大天王之一苏护请来姬昌长子伯邑考教女儿妲己、凝香弹琴，妲己天资聪颖，一教即会令邑考惊讶不已，妲己知邑考是姬昌之子，所以向他道出自己自小不准出门，不准读书识字完全拜姬昌所赐，邑考亦表无奈，但相信姬昌所言非虚。
+
+杨戬到冀州从军、哪吒坚持同行，十娘唯有相陪，三人到达冀州、杨戬巧遇苏护座下大将军郑婵玉招亲，杨戬误打误撞成为快婿，杨戬不明所以，只知宁死不屈，而婵玉亦厌弃杨戬相貌古怪，故命土行孙用遁地法将杨戬带走，谁知却令街坊鸡飞狗走！
+
+李靖未能替纣王找得妲己、凝香回宫，令纣王龙颜大怒，更将李靖贬为消兵。九公向纣王献计逼苏护交出女儿，纣王于是派飞虎携同飞龙斩将刀到冀州要人，若苏护抗旨即格杀勿论，琵琶自动请缨与飞虎同行，李靖知悉，大加反对，表示妲己将会祸国殃民，决不可让她入宫、惟琵琶一意孤行，更大骂李靖无用，另边厢，哪吒、杨戬在冀州与雷震子重遇，三人开心不已，而飞虎大军亦达冀州、苏护拼死抵抗亦不愿让两女儿入宫。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1048</width>
+        <height>714</height>
+        <durationinseconds>1459</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>18_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

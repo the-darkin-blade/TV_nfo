@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>拼命三郎结拜病关索</title>
+  <originaltitle>拼命三郎结拜病关索</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>43</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026660</uniqueid>
+  <uniqueid default="false" type="trakt">7308146</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>杨雄与李云别过后，回到知府衙门请罪，编了个理由说是疏忽大意叫贼犯逃走了，知县没有深究，只是免去了他押狱之职，当个刽子手。回家路上，杨雄被几个无赖庄丁纠缠，索要钱财，又不敢施展本事，生怕打伤惹了麻烦。正受欺负时，石秀出手打跑了庄丁。二人相见恨晚，结拜为兄弟。石秀跟着回到杨雄的家中，见过杨雄的老婆潘巧云和岳父潘公。听说石秀是屠夫出身，潘公就想重操旧业开一间肉铺，请石秀来帮忙。杨雄正愁不知如何安置石秀，听了这个主意自然非常高兴。潘巧云见石秀生得俊秀，也很欢喜。一切筹备停当，肉铺就开张了。但刽子手做屠宰生意，街坊们有些难听的闲话。石秀在肉铺里张罗，潘巧云借着送饭的机会对石秀使眉弄眼，搭讪勾引，弄得石秀很不自在，事事都多加小心，常常外出采购，尽量离潘巧云远点，省得弄出事来，伤了兄弟间的感情。潘巧云前夫的忌日快到了，杨雄答应过做两天道场，潘公决定关门歇业。外出采购的石秀回来，看到这个景况，以为是潘巧云借机赶走他。于是，他把帐目都整理清楚，交给潘公后，准备辞行。无奈潘公执意挽留，只得继续留下来。和尚裴如海为接近潘巧云，曾拜潘公为干爷，被潘巧云唤着师兄。就是他带人前来做道场。是夜，杨雄值夜班不在家。潘巧云让潘公和侍女迎儿都去歇息，跟裴如海眉来眼去，调情戏耍，被石秀看在眼里。石秀故意在院子里舞刀弄棍，使裴如海有所忌惮。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2673</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E43 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="43" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

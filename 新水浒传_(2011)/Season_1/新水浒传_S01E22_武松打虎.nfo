@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>武松打虎</title>
+  <originaltitle>武松打虎</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026639</uniqueid>
+  <uniqueid default="false" type="trakt">7308125</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>临行，宋江回家探望父亲，父子伤感而别。弟弟宋清指点宋江在刺配路上探望柴进，宋江深以为然。柴进迎到宋江，十分欢喜，把臂同游。宋江踩到火锹，得罪一病汉，被他揪住不放，柴进忙上前劝解。病汉表示这人又不是及时雨宋公明，他看不上。柴进哈哈大笑：二郎这就是你口中那位及时雨宋江。二郎武松惊喜交集，跪倒便拜，宋江见他勇猛了得也十分喜欢。两人在柴进庄上同进同出，十分亲密。武松病好要上路寻兄，宋江临行赠银，武松感激宋江情义，两人跪倒结拜方才分手。武松路过景阳冈，见冈下酒铺有上好醇酒，不由得酒兴大发，连干三碗。店小二不肯与武松续酒，武松勃然不悦。店小二解释因为此酒太烈，三碗以后必醉无疑。武松满不在乎，痛饮十八碗，看得人瞠目结舌。武松会钞后就要上景阳冈。店小二见天色已晚，慌忙拦住武松，劝他等明天天亮后跟大伙儿一起过岗。武松不解。店小二解释这景阳冈上出了一头白额吊睛虎，吃人无数，大伙儿一起比较安全。武松哈哈哈大笑，浑然不惧。武趁醉上山。山风吹过，武松困乏睡倒。猛虎袭来，武松惊醒，情景十分危险，武松仗着一身好武艺与猛虎周璇，先将哨棒打断，又提铁拳猛打，猛虎终于倒毙。武松惊出一身冷汗。阳谷县听闻有猛士杀死大虫，全县轰动，敲锣打鼓迎接打虎英雄。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2645</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E22 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

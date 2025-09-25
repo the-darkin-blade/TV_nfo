@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>祖迪跟随菲腊搬回半山</title>
+  <originaltitle>Episode 21</originaltitle>
+  <showtitle>福尔摩师奶</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1727804</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>一夫收买王烈到安南接菲腊回家，菲腊、祖迪终于团聚。百川设局杀菲腊，谁知祖迪早已拉拢素嘉。一夫扮成菲腊引百川现身，惟百川洞悉一切，菲腊反被熊财捉拿。百川命素嘉射杀菲腊，祖迪等人赶至，百川逃去，一夫为救菲腊中枪，受伤时向祖迪暗示想与她再进一步。祖迪在百川大宅发现可疑凶刀，估计百川模仿开膛手犯案，嫁祸菲腊。菲腊感激晓尧侍候祖迪，着她们一同搬回半山。游池、晓尧原谅素嘉，并交还屋契予妹娣，搬回「香庐」居住。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2639</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>TVBOXNOW 福爾摩師奶 EP21_H265.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

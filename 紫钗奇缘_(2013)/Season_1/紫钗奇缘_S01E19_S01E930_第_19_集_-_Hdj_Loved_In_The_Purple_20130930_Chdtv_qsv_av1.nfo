@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 19 集</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486673</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>杨炎将实话告之如果他选了小玉宁国公主就可以留下，如果选了许如是的话河西可汗不满意的话还是要宁国公主到河西和亲。纳兰东写下了霍小玉的名字。公布结果时太子将小玉和许如是都封为花魁，小玉为上都花魁，许如是为东都花魁两人都可以脱籍。小玉自觉本事不及许如是有些不好意思接赏，许如是大方拉着小玉一同领奖，许如是只要可以脱籍便觉满意。结束后小玉感谢纳兰东，但纳兰东却一副满怀心事的样子没见一点喜悦之情。李益知道了花魁就是要代宁国公主和亲来告诉小玉，两人一同去找纳兰东。李益质问纳兰东为何如此，纳兰东表示自己选择了尽孝。小玉知道了杨炎就是要选择自己的，李益问纳兰东此事该如何应对。纳兰东表示朝中大臣应该还不知道杨炎打算要小玉代替宁国公主之事，让李父上朝弹劾杨炎，小玉当即阻止，如果这样的话那宁国公主还是要往河西成亲。杨炎上朝向皇上汇报河西可汗坚持要宁国公主下嫁并提出要纳兰东送嫁。宁国公主即将出嫁告诉了纳兰东一个秘密，他并不是自己的亲生儿子，至于亲生父亲是谁时机到了会告诉他，母亲自己也不知是何人。纳兰东因为自己的身事问题心中难过，问小玉从小不知道父亲是谁有没有难过。小玉宴请众人感谢大家的帮助自己得以入选花魁。李益再次向父母提出向霍家提亲，但李父当场拒绝。李父告诉李益虽然小玉不用嫁人但却要做为宁国公主的陪嫁。李益到紫檀殿见纳兰东便质问纳兰东为什么都知道却不说出来，李益这一出弄的纳兰东和小玉都不知为何，李益话还没说出因为生气而离开。李益找韦博文及崔长空商量小玉之事，韦博文提出可以找杨炎商量就说他和小玉已有婚约求杨炎网开一面。韦博文陪着李益找到杨炎，但杨炎根本不搭理李益要韦博文押下李益找李父李母前来对质。纳兰东跑来找到小玉，纳兰东知道小玉要陪嫁之事后便急着赶来要带着小玉离开，纳兰东要放弃一切与小玉私奔。这时突然浣纱跑进来将李益出事的消息说出，为了救李益小玉要和慈瑞到京兆尹。为了救下李益，李，霍两家都当庭承认对方是亲家。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep19.20130930.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20130930 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>930</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep19.20130930.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="930" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

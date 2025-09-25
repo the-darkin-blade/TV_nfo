@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>巧芝访查　弱点成因</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>2251871</id>
+  <uniqueid default="false" type="tmdb">569237</uniqueid>
+  <uniqueid default="false" type="trakt">577904</uniqueid>
+  <uniqueid default="true" type="tvdb">2251871</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>巧芝发现变身为Janet Bin后的胸口纹身，在遇到撞击后竟会变成解除变身的死穴，不禁心烦不已；为了明白个中的理由，巧芝只得向网上的专家「Agent Mulder」请教。专家认真地长篇大论解释纹身成为弱点的理由，但巧芝却没法理解……经过医生的抢救，明轩的伤势并无大碍；但明轩苏醒过来，却只担心Janet Bin是否中枪受了伤，更激动得欲离开医院以寻找她。看到明轩的举动，巧芝不禁大为感动。
+
+永晖出狱　文礼留难
+
+伟信与美诗前往探望明轩时，伟信突然被一位陌生的女子吻了一下；巧芝化身Janet Bin探望明轩，看到Janet Bin无碍明轩松了一口气，但亦问她为何对自己忽冷忽热，是否真的只当他是「爱的替身」，结果巧芝以Janet Bin的身分说出，之前自己对他忽冷忽热的事并不是利用他，一切均是巧芝教她；Janet Bin离开后巧芝回到病房，当她向明轩道歉后，却被他不留情地指责一番，令她愤怒得要Janet Bin替她讨回公道……文礼出外吃饭时，竟看到刚出狱的永晖当泊车员；永晖虽极力忍耐文礼的冷言冷语，但最终仍是失去工作。永晖在咏嘉的墓碑前哭诉为何好人竟没有好报，想不到此时伯驹竟然出现；伯驹再带永晖到山顶漫步，更向永晖查问是谁陷害他，但永晖却指可能是自己不知不觉下得罪人。暂时在巧芝家寄居的永晖，指自己将实行复仇计划，因此请巧芝与他扮作绝交，因永晖担心自己万一失败，也不会牵连巧芝……伯驹决定再次重用永晖，更安排他成为俊邦的私人助理；晚上巧芝回到公司欲把家中锁匙交予永晖，却发现永晖在俊邦的办公室工作。永晖更向巧芝说出晚上加班之目的，其实是找出他的罪证……俊邦得永晖之助，指文礼的下属在公司利用电脑作赌博投注，因此欲辞退他，文礼为保下属当众与俊邦起冲突。但这时突然有警察出现，他们指接到线报，说俊邦的电脑中藏有淫秽照片，因此带他返署调查。
+
+取代俊邦　成功上位
+
+当伯驹托律师替俊邦处理指控后，却发现义子才施施然回家；伯驹忍不住指俊邦没有认真面对惹上官非之事，俊邦反借机指责他，更险令伯驹心脏病发。翌日永晖载伯驹回公司，想不到俊邦竟然在半路埋伏，欲加害两人……伯驹在众人面前宣布，永晖将代理已被警方通缉的俊邦之职务……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1320</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E16.20180531.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Fly With Me 20180531 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>531</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1320</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E16.20180531.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="531" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

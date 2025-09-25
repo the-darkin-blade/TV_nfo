@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 41 集</title>
+  <originaltitle>第 41 集</originaltitle>
+  <showtitle>忽必烈传奇</showtitle>
+  <season>1</season>
+  <episode>41</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2821443</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宋军发现蒙军在城外的脚印后猜出对方可能要从地道入城，撒水之后拿竹竿试探，发现入口后全城戒备。忽必烈已派人送三封信给蒙哥，蒙哥没有回复，蒙军从林中地道口朝宋江军城中而去，当他们要出去时被宋军堵住后倒油，从地道进城的蒙军伤亡惨重，蒙哥看到后痛惜万分……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2651</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Legend.Of.Kublai.Khan.Ep41.720P.Hdtv.X264.2Audio-Hdwtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="41" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

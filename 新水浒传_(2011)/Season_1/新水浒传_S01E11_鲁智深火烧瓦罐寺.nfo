@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>鲁智深火烧瓦罐寺</title>
+  <originaltitle>鲁智深火烧瓦罐寺</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026627</uniqueid>
+  <uniqueid default="false" type="trakt">7308114</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>洪教头带领庄客们一齐冲上去要杀林冲，柴进却面不改色的看好戏。林冲毫无惧色，一人力斗众庄客，还能腾出空来与柴进对话。柴进要林冲使出真本事，于是林冲便以棒代枪，用林家枪法将庄客们纷纷刺倒在地，令洪教头心服口服。柴进与林冲成为朋友，并答应在京城照顾林冲家眷，二人分别。牢城营的官吏们被林冲的武艺和气魄征服，加上柴进相赠的银子打点，林冲得意逃过一百杀威棒。鲁智深告别林冲，路过瓦罐寺，因为盘缠都赠给林冲，没钱吃饭，饥肠辘辘，想到寺中挂单，谁料瓦罐寺破败荒凉，寺中和尚穷得半点粮食都没有，只剩一锅化缘来充饥的粟米粥。原来瓦罐寺从前香火鼎盛，自从来了一僧一道，赶走僧人，无恶不作，寺庙名声衰落下来。鲁智深见老和尚们可怜，不忍心抢他们仅有的粥吃。鲁智深寻到后山，果然看见恶僧崔道成与恶道丘小乙在后山喝酒划拳，身边坐着一个年轻女子，僧道骗他说这是庙内香客的女儿，来做佛事，鲁智深上当，回头去找老和尚们算账，才知是自己中计。崔、丘二人先前见鲁智深提着禅杖来兴师问罪，不敢翻脸，轰走他之后，取了兵器来找他算账。鲁智深饥饿无力，不敌僧道二人，逃进赤松林内，巧遇史进。史进请鲁智深吃饱喝足，二人一起合力杀掉恶僧恶道，为民除害，随后二人分道扬镳，鲁智深继续东进，而史进则西去投奔华山。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E11 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

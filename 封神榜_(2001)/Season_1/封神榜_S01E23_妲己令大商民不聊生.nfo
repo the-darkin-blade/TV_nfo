@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>妲己令大商民不聊生</title>
+  <originaltitle>Episode 23</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>4418947</id>
+  <uniqueid default="false" type="tmdb">2025541</uniqueid>
+  <uniqueid default="false" type="trakt">1484650</uniqueid>
+  <uniqueid default="true" type="tvdb">4418947</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>不经不觉，黄颜已怀胎八月，但仍需终日劳碌，日子愈来愈难过，连准备给予接生婆的二两银亦无法应付，逼于无奈，惟有向黄母商借，可惜被飞虎知道，不但分文不借，更对黄颜奚落一番，杨戬身在冀州亦心有不安预感，可惜无法即时回乡见爱妻，心中挂信不已！而婵玉土行孙处处留意杨戬行怪，决心不让苏护认识杨戬，更欺骗苏护三日神将是自己师传，苏护半信半疑。
+
+基于九尾狐的关系，琵琶终日在宫里服侍妲己，妲己教琵琶如何利用手段，收买男人心，姬昌等忠臣不断向纣王进谏，希望早日除掉妲己，可惜纣王对妲己死心塌地，坚持为妲己举行封妃大典，而纣王亦从此不早朝，更为了替妲己兴建摘星楼，不惜微召全国男丁到京城建楼，以致死伤枕藉，民不聊生，妲己召姬昌宫进见，李靖、琵琶率先打探姬昌如何面对妲己、姬昌对李靖处处忍让琵琶，毫无半点男子气慨，无奈地借故教训琵琶一顿，令琵琶生气不已！
+
+十娘千山万水带哪吒到渭水求见姜子牙，希望他助哪吒回复真身，可惜子牙一直强调，只要钓到鱼，一切问题均可迎刃而解……</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1046</width>
+        <height>720</height>
+        <durationinseconds>1498</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>23_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

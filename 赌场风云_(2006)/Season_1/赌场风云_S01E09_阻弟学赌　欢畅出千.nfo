@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阻弟学赌　欢畅出千</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>1623521</id>
+  <uniqueid default="false" type="tmdb">1992285</uniqueid>
+  <uniqueid default="false" type="trakt">1576524</uniqueid>
+  <uniqueid default="true" type="tvdb">1623521</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>为阻止来富玩牌，欢畅找福荣任评判与来富对赌。来富因有记忆力之助大胜。欢畅与福荣利用高科技显影眼镜令来富败阵下来，要他守诺不再玩牌。来富因不明为何输掉而令自己情绪低落，更向青云诉苦。青云因自己也是沉迷赌博的受害者，故不便多言。来富最后更极端至以为自己患上思觉失调。欢畅为了来富决定到北京定居，福荣虽要欢畅再加考虑，但仍赠予欢畅大笔金钱，却遭欢畅婉拒。欢畅想在离港前助青云一把，带她参加戒赌计划，但她只觉无聊。众人到欢畅家中替他饯行，来富终按捺不住说自己不想与没有亲戚关系的人离开，欢畅有口难言。来富终逃走，更因听到公园老人谈棋经而有所悟，明白光靠天分是不够，还要掌握技术。于是他主动往找正初，要正初收他为徒。正初要欢畅接回来富，但来富拚命向正初要求，更说玩牌时才觉自己是个有用的人，希望正初能让他成为荷官。欢畅见此，终明白来富的决心。青云又偷偷到澳门赌钱，终成功赢回所欠的赌债，但欢畅主动要求正初助青云戒赌，正初却不置可否。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2691</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep09.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

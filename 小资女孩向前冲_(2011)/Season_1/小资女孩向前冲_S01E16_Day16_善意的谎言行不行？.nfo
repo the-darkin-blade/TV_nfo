@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>Day16 善意的谎言行不行？</title>
+  <originaltitle>Day16 善意的谎言行不行？</originaltitle>
+  <showtitle>小资女孩向前冲</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>4409263</id>
+  <uniqueid default="false" type="tmdb">1569634</uniqueid>
+  <uniqueid default="false" type="trakt">1658703</uniqueid>
+  <uniqueid default="true" type="tvdb">4409263</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>快到圣诞节，秦子奇开始仔细规划促销方案，见到子奇如此认真工作，杏仁感觉还是头一回。忽然两人见到一位金发碧眼的美女在手机柜台购物，杏仁急忙上前帮忙，可是蹩脚的英文使杏仁十分为难，子奇急忙上前帮忙，子奇出色的英文帮助美女成功购物，美女送给子奇一张名片后高兴离去。杏仁问起子奇为什么她要给子奇名片，子奇解释说名片已经被他丢掉了。过了一会杏仁接到通知，原来刷卡的时候杏仁帮助顾客刷错了卡，信用卡被多刷了1万多元，杏仁急忙回来问子奇要名片，子奇却真的已经将名片丢掉。杏仁到处找不到购买手机的客户，问起子奇，子奇说起名片被丢进垃圾桶里，两人急忙去垃圾中心找名片。子奇帮助杏仁翻遍了垃圾袋终于找到顾客Amber的名片，可是名片上面电话号码的最后三位数字已经模糊不清。杏仁只好另想办法。为了追求乐乐，史经理再次找到子奇想办法。子奇给史经理出了一个欲擒故纵的方法，他要史经理假装去追求魏敏娜，却要乐乐看见。史经理故意在乐乐面前打电话给魏敏娜，乐乐果然中计，问起子奇，子奇说出史经理正在追求魏敏娜。子奇晚上回家对着名片发呆，最后他决定从头实验电话号码，他从001打到308终于找到了Amber，第二天子奇拉着杏仁找到Amber并向她道歉，Amber表示对京师的服务态度十分满意。杏仁问起子奇如何找到Amber，子奇回答他打了一晚上的电话，杏仁感到十分感动。吃午饭的时候杏仁见子奇接到魏敏娜的电话感觉十分奇怪，问起子奇，子奇却反问杏仁如果他有什么地方隐瞒了杏仁，那么杏仁回不会原谅他，杏仁却说两个人在一起要坦诚相待，不能互相有所隐瞒。子奇有苦难言，却不敢说出自己真实身份。杏仁去找余乘风请他吃饭，两人来到饭店门口却正巧遇见史经理和魏敏娜从酒店里走出来，魏敏娜却早已喝得醉醺醺。余乘风提出送魏敏娜回家，魏敏娜坚持不肯，余乘风终于忍不住上前挥拳打了史经理，史经理愤怒的说出只是演戏却遭到殴打。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TTV Main Channel</studio>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2725</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj Office Girls Ep16 Hdtv 1080I H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

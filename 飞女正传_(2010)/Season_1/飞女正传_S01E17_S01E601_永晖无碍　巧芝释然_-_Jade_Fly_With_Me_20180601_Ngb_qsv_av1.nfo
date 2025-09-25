@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>永晖无碍　巧芝释然</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>2251881</id>
+  <uniqueid default="false" type="tmdb">569239</uniqueid>
+  <uniqueid default="false" type="trakt">577905</uniqueid>
+  <uniqueid default="true" type="tvdb">2251881</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>正与内心中的Janet Bin争执的巧芝，突然发现永晖回家，原来永晖的姐夫在内地遇上了交通意外，所以永晖只得赶回去陪伴他；有富看到巧芝正怒气冲冲的走进医院，只得阻止她并指探病时间已过。巧芝坐在小卖店中大发唠叨，更指自己想向明轩解释，与他并没有相恋；看到巧芝被情所困，有富只得好言安慰，更指主因是浩然离港而令她心感寂寞。有富更鼓励巧芝应坚守自己对浩然的爱，才会令事情好转……
+
+本欲分手　临时变卦
+
+巧芝回到家中翻箱倒笼，永晖忍不住问她原因，巧芝解释自己可能把浩然送给自己的玉镯弄丢，永晖听后心有所想。浩然与绰雅蜜月后回港，特意到警署大派手信，绰雅更将两人的新婚照放在浩然的办公桌上。浩然重新投入工作，却发现妻子利用他的下属，已紧紧掌握了自己的行踪；绰雅发现丈夫的车子行车里数与自己的估计有出入，而为了查证浩然的说话是否属实，竟致电他的下属启发查证。巧芝为了坚守对浩然的爱，特意将办公桌上放满了与男友有关的物件，而永晖更助她寻回浩然送给她的玉镯……美诗与伟信接明轩出院，想不到这时巧芝亦化身Janet Bin出现；趁明轩不在，巧芝亦向美诗坦言，这次前来是为了与明轩提出分手，美诗听后高兴地让刚回来的明轩与她独处。明轩看见Janet Bin出现大感高兴，更向她送上托人购入的钻饰；没有听到两人因分手而大吵的美诗，把门打开时却发现两人正热吻着……浩然发短讯指自己已回港，更约会巧芝；当两人见面时，浩然突然说出发觉两人并不适合的说话，巧芝明白浩然欲提出分手，不禁指他是为了Janet Bin而放弃自己，更向他说Janet Bin并没有如外人想像般完美，她非刀枪不入亦有着「死穴」；浩然听到巧芝说出Janet Bin有弱点之事后，为了查出真相，否认提出分手……永晖得知浩然回港，主动搬离巧芝家，但离开前亦强调自己将面对文礼等人的攻讦……
+
+文礼死去　永晖上位
+
+文礼特意到永晖的办公室挑衅，令伯驹误会永晖竟欲出手打自己的儿子；当永晖在餐厅等候伯驹时，文礼又再出现，更成功令永晖出丑在伯驹面前。文礼向母亲报告自己成功打击永晖，凤卿更要求儿子乘胜追击；为了赶永晖离开公司，文礼不惜再施计陷害他，特意约他乘坐自己的车子……文礼遇到意外死去，永晖在伯驹前自责没有帮助他……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1324</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E17.20180601.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Fly With Me 20180601 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>601</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1324</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E17.20180601.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="601" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:08:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>机场特警</title>
+  <originaltitle>機場特警</originaltitle>
+  <showtitle>机场特警</showtitle>
+  <sorttitle/>
+  <year>2020</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>2</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>年轻警员张景山（张振朗）、辛凯晴（蔡思贝）、何诗嬅（邓佩仪）、邬冠聪（朱敏瀚）为着不同原因，报考机场特警。在教官文永强（关礼杰）的严厉指导下，四人达标毕业，加入机场特警组。景山却经常与特警组总督察章振赫对着干，警长马容义（杨明）深知他们的嫌隙，不时居中缓解。景山意外遇上空姐余安娜（汤洛雯），二人相恋容易相处难，景山反而渐对女拍档凯晴产生微妙感觉。各人於执勤时尽见悲欢离合，徘徊生死，逐步确立身为机场特警的使命感！然而，巨大危机正悄悄逼近，令团队陷入前所未有的困境……</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"101283","imdb":"tt10497564","tvdb":"379111"}</episodeguide>
+  <id>379111</id>
+  <imdbid>tt10497564</imdbid>
+  <tmdbid>101283</tmdbid>
+  <uniqueid default="false" type="tmdb">101283</uniqueid>
+  <uniqueid default="false" type="imdb">tt10497564</uniqueid>
+  <uniqueid default="true" type="tvdb">379111</uniqueid>
+  <premiered>2020-03-30</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Drama</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <tag>airport</tag>
+  <tag>police</tag>
+  <actor>
+    <name>蔡思贝</name>
+    <role>San Hoi Ching/" Eagle 4"/"Sanjay"</role>
+    <profile>https://www.themoviedb.org/person/1545561</profile>
+    <tmdbid>1545561</tmdbid>
+  </actor>
+  <actor>
+    <name>张振朗</name>
+    <role>Cheung King San / "Hill"</role>
+    <profile>https://www.themoviedb.org/person/1613713</profile>
+    <tmdbid>1613713</tmdbid>
+  </actor>
+  <actor>
+    <name>汤洛雯</name>
+    <role>Yu On Na / Na Na /"NaNa"</role>
+    <profile>https://www.themoviedb.org/person/1967121</profile>
+    <tmdbid>1967121</tmdbid>
+  </actor>
+  <actor>
+    <name>杨明</name>
+    <role>Ma Yong Yee / Easy Gor /"Easy"</role>
+    <profile>https://www.themoviedb.org/person/1588970</profile>
+    <tmdbid>1588970</tmdbid>
+  </actor>
+  <actor>
+    <name>邓佩仪</name>
+    <role>Ho Si Wa / Ah An /" Eagle 6"/" Silver"</role>
+    <profile>https://www.themoviedb.org/person/1496386</profile>
+    <tmdbid>1496386</tmdbid>
+  </actor>
+  <actor>
+    <name>黄子恒</name>
+    <role>Cheung Chan Hak / Cheung Sir / Lou Ban /"Cesar"</role>
+    <profile>https://www.themoviedb.org/person/2370809</profile>
+    <tmdbid>2370809</tmdbid>
+  </actor>
+  <actor>
+    <name>关礼杰</name>
+    <role>Man Wing Keung/Man Sir {Head Boss}</role>
+    <profile>https://www.themoviedb.org/person/1276972</profile>
+    <tmdbid>1276972</tmdbid>
+  </actor>
+  <actor>
+    <name>何依婷</name>
+    <role>Lee Chi On / "On On" [Easy's girlfriend]</role>
+    <profile>https://www.themoviedb.org/person/3196039</profile>
+    <tmdbid>3196039</tmdbid>
+  </actor>
+  <actor>
+    <name>黎振烨</name>
+    <role>Keung Hau Cheng/" Eagle 2"/"Gutty"/Kau Keung</role>
+    <profile>https://www.themoviedb.org/person/3952321</profile>
+    <tmdbid>3952321</tmdbid>
+  </actor>
+  <actor>
+    <name>王梓轩</name>
+    <role>Cai Tin Lok/ Cai Sir /" Eagle A"</role>
+    <profile>https://www.themoviedb.org/person/1440176</profile>
+    <tmdbid>1440176</tmdbid>
+  </actor>
+  <actor>
+    <name>朱敏瀚</name>
+    <role>Wu Koon Chung/Wu Lung/Ma Yi/Wu Sir Sir/"Eagle 10"/"Wussy"</role>
+    <profile>https://www.themoviedb.org/person/2705751</profile>
+    <tmdbid>2705751</tmdbid>
+  </actor>
+  <actor>
+    <name>吴家乐</name>
+    <role>Kong Kam Wing / Kong Sir</role>
+    <profile>https://www.themoviedb.org/person/1258593</profile>
+    <tmdbid>1258593</tmdbid>
+  </actor>
+  <actor>
+    <name>许家杰</name>
+    <role>Sung Tin Kei / Kei Go [Bad guy]</role>
+    <profile>https://www.themoviedb.org/person/2407904</profile>
+    <tmdbid>2407904</tmdbid>
+  </actor>
+  <actor>
+    <name>孙慧雪</name>
+    <role>Chan Mei Yan / Ah Yan / "Yan"</role>
+    <profile>https://www.themoviedb.org/person/1310286</profile>
+    <tmdbid>1310286</tmdbid>
+  </actor>
+  <actor>
+    <name>鲁振顺</name>
+    <role>Deng Ying Tou</role>
+    <profile>https://www.themoviedb.org/person/1614785</profile>
+    <tmdbid>1614785</tmdbid>
+  </actor>
+  <actor>
+    <name>何启南</name>
+    <role>Koo Ka Wo/ "Koo Papa" [Police]</role>
+    <profile>https://www.themoviedb.org/person/1524251</profile>
+    <tmdbid>1524251</tmdbid>
+  </actor>
+  <actor>
+    <name>姚莹莹</name>
+    <role>Chou Fung Chu {Man Sir's wife}</role>
+    <profile>https://www.themoviedb.org/person/1223074</profile>
+    <tmdbid>1223074</tmdbid>
+  </actor>
+  <actor>
+    <name>刘温馨</name>
+    <role>Wan Chan Yi / "Jenny"</role>
+    <profile>https://www.themoviedb.org/person/3787033</profile>
+    <tmdbid>3787033</tmdbid>
+  </actor>
+  <actor>
+    <name>黄建东</name>
+    <role>Lee Lik Cheung / Lee Sir</role>
+    <profile>https://www.themoviedb.org/person/2726424</profile>
+    <tmdbid>2726424</tmdbid>
+  </actor>
+  <actor>
+    <name>姚亦礼</name>
+    <role>Yip Bo Hing</role>
+    <profile>https://www.themoviedb.org/person/3953814</profile>
+    <tmdbid>3953814</tmdbid>
+  </actor>
+  <actor>
+    <name>潘志文</name>
+    <role>Cheung Wang Yu/ Ah Yu /"Harvey" [Hill's dad]</role>
+    <profile>https://www.themoviedb.org/person/1772642</profile>
+    <tmdbid>1772642</tmdbid>
+  </actor>
+  <actor>
+    <name>程可为</name>
+    <role>Kui Wai Ping {Easy's mother]</role>
+    <profile>https://www.themoviedb.org/person/1568624</profile>
+    <tmdbid>1568624</tmdbid>
+  </actor>
+  <actor>
+    <name>林敬刚</name>
+    <role>Yim Lai Cheung</role>
+    <profile>https://www.themoviedb.org/person/228587</profile>
+    <tmdbid>228587</tmdbid>
+  </actor>
+  <actor>
+    <name>陈嘉辉</name>
+    <role>Ho Kwong Yuen {Silver's father}</role>
+    <profile>https://www.themoviedb.org/person/1624824</profile>
+    <tmdbid>1624824</tmdbid>
+  </actor>
+  <actor>
+    <name>王绮琴</name>
+    <role>Cheung Yee Lam / "BB" / "Elaine"</role>
+    <profile>https://www.themoviedb.org/person/1631739</profile>
+    <tmdbid>1631739</tmdbid>
+  </actor>
+  <actor>
+    <name>泰臣</name>
+    <role>Hung Lau</role>
+    <profile>https://www.themoviedb.org/person/1353945</profile>
+    <tmdbid>1353945</tmdbid>
+  </actor>
+  <actor>
+    <name>赖慰玲</name>
+    <role>Chang Hiu San</role>
+    <profile>https://www.themoviedb.org/person/2064586</profile>
+    <tmdbid>2064586</tmdbid>
+  </actor>
+  <actor>
+    <name>叶凯茵</name>
+    <role>Cheung Yau Ting {Silver's stepmother}</role>
+    <profile>https://www.themoviedb.org/person/3190539</profile>
+    <tmdbid>3190539</tmdbid>
+  </actor>
+  <actor>
+    <name>曾慧云</name>
+    <role>Fung Che</role>
+    <profile>https://www.themoviedb.org/person/3767248</profile>
+    <tmdbid>3767248</tmdbid>
+  </actor>
+  <actor>
+    <name>阮政峰</name>
+    <profile>https://www.themoviedb.org/person/3626790</profile>
+    <tmdbid>3626790</tmdbid>
+  </actor>
+  <actor>
+    <name>蔡国威</name>
+    <role>O Gin</role>
+    <profile>https://www.themoviedb.org/person/1578533</profile>
+    <tmdbid>1578533</tmdbid>
+  </actor>
+  <actor>
+    <name>钟志光</name>
+    <role>San Chi Fai {Sanjay's father}</role>
+    <profile>https://www.themoviedb.org/person/3955196</profile>
+    <tmdbid>3955196</tmdbid>
+  </actor>
+  <actor>
+    <name>祝文君</name>
+    <role>Lui Pui Fan {Sanjay's mother}</role>
+    <profile>https://www.themoviedb.org/person/3450480</profile>
+    <tmdbid>3450480</tmdbid>
+  </actor>
+  <actor>
+    <name>杨玉梅</name>
+    <role>Chiu Nga Yin [Cesar's mother]</role>
+    <profile>https://www.themoviedb.org/person/551898</profile>
+    <tmdbid>551898</tmdbid>
+  </actor>
+  <actor>
+    <name>方绍聪</name>
+    <role>Chan Gwong Leung / Ah Leung</role>
+    <profile>https://www.themoviedb.org/person/2448435</profile>
+    <tmdbid>2448435</tmdbid>
+  </actor>
+  <actor>
+    <name>陈伟洪</name>
+    <role>Su Han Sen</role>
+    <profile>https://www.themoviedb.org/person/3955357</profile>
+    <tmdbid>3955357</tmdbid>
+  </actor>
+  <actor>
+    <name>彭翔翎</name>
+    <profile>https://www.themoviedb.org/person/3955461</profile>
+    <tmdbid>3955461</tmdbid>
+  </actor>
+  <actor>
+    <name>崔錦棠</name>
+    <role>Zhao Xing Yong</role>
+    <profile>https://www.themoviedb.org/person/3955465</profile>
+    <tmdbid>3955465</tmdbid>
+  </actor>
+  <actor>
+    <name>温裕红</name>
+    <profile>https://www.themoviedb.org/person/1641148</profile>
+    <tmdbid>1641148</tmdbid>
+  </actor>
+  <actor>
+    <name>杨证桦</name>
+    <profile>https://www.themoviedb.org/person/2064594</profile>
+    <tmdbid>2064594</tmdbid>
+  </actor>
+  <actor>
+    <name>赵乐贤</name>
+    <profile>https://www.themoviedb.org/person/3849694</profile>
+    <tmdbid>3849694</tmdbid>
+  </actor>
+  <actor>
+    <name>黄成想</name>
+    <profile>https://www.themoviedb.org/person/3671097</profile>
+    <tmdbid>3671097</tmdbid>
+  </actor>
+  <actor>
+    <name>朱汇林</name>
+    <profile>https://www.themoviedb.org/person/3035875</profile>
+    <tmdbid>3035875</tmdbid>
+  </actor>
+  <actor>
+    <name>李启杰</name>
+    <profile>https://www.themoviedb.org/person/3394601</profile>
+    <tmdbid>3394601</tmdbid>
+  </actor>
+  <actor>
+    <name>袁镇业</name>
+    <profile>https://www.themoviedb.org/person/3956927</profile>
+    <tmdbid>3956927</tmdbid>
+  </actor>
+  <actor>
+    <name>区轩玮</name>
+    <profile>https://www.themoviedb.org/person/1555922</profile>
+    <tmdbid>1555922</tmdbid>
+  </actor>
+  <actor>
+    <name>黄柏文</name>
+    <profile>https://www.themoviedb.org/person/553881</profile>
+    <tmdbid>553881</tmdbid>
+  </actor>
+  <actor>
+    <name>吴子冲</name>
+    <profile>https://www.themoviedb.org/person/3956973</profile>
+    <tmdbid>3956973</tmdbid>
+  </actor>
+  <actor>
+    <name>炜烈</name>
+    <profile>https://www.themoviedb.org/person/3800237</profile>
+    <tmdbid>3800237</tmdbid>
+  </actor>
+  <actor>
+    <name>苏丽明</name>
+    <profile>https://www.themoviedb.org/person/3671078</profile>
+    <tmdbid>3671078</tmdbid>
+  </actor>
+  <actor>
+    <name>周麗欣</name>
+    <profile>https://www.themoviedb.org/person/130502</profile>
+    <tmdbid>130502</tmdbid>
+  </actor>
+  <actor>
+    <name>陈勉良</name>
+    <profile>https://www.themoviedb.org/person/1173212</profile>
+    <tmdbid>1173212</tmdbid>
+  </actor>
+  <actor>
+    <name>李日昇</name>
+    <profile>https://www.themoviedb.org/person/1619791</profile>
+    <tmdbid>1619791</tmdbid>
+  </actor>
+  <actor>
+    <name>林浩文</name>
+    <profile>https://www.themoviedb.org/person/3957119</profile>
+    <tmdbid>3957119</tmdbid>
+  </actor>
+  <actor>
+    <name>黄颖君</name>
+    <profile>https://www.themoviedb.org/person/2434768</profile>
+    <tmdbid>2434768</tmdbid>
+  </actor>
+  <actor>
+    <name>张诗欣</name>
+    <role>Student</role>
+    <profile>https://www.themoviedb.org/person/3308611</profile>
+    <tmdbid>3308611</tmdbid>
+  </actor>
+  <actor>
+    <name>吴嘉仪</name>
+    <role>Wun (Ep. 19-20)</role>
+    <profile>https://www.themoviedb.org/person/2448352</profile>
+    <tmdbid>2448352</tmdbid>
+  </actor>
+  <actor>
+    <name>吴沚默</name>
+    <role>Chiu Nga Yin [Young]</role>
+    <profile>https://www.themoviedb.org/person/2063812</profile>
+    <tmdbid>2063812</tmdbid>
+  </actor>
+  <actor>
+    <name>林秀怡</name>
+    <role>Cheung Yee Lam [Young]</role>
+    <profile>https://www.themoviedb.org/person/3007594</profile>
+    <tmdbid>3007594</tmdbid>
+  </actor>
+  <actor>
+    <name>萧徽勇</name>
+    <role>Yeung Wai Yan / "Mark" (Ep.16-17)</role>
+    <profile>https://www.themoviedb.org/person/3394768</profile>
+    <tmdbid>3394768</tmdbid>
+  </actor>
+  <actor>
+    <name>郑启泰</name>
+    <profile>https://www.themoviedb.org/person/2506610</profile>
+    <tmdbid>2506610</tmdbid>
+  </actor>
+  <actor>
+    <name>何佩珉</name>
+    <profile>https://www.themoviedb.org/person/1695505</profile>
+    <tmdbid>1695505</tmdbid>
+  </actor>
+  <actor>
+    <name>孟希璘</name>
+    <role>Coffee (Ep. 14)</role>
+    <profile>https://www.themoviedb.org/person/3957264</profile>
+    <tmdbid>3957264</tmdbid>
+  </actor>
+  <actor>
+    <name>伍礼骞</name>
+    <profile>https://www.themoviedb.org/person/3522812</profile>
+    <tmdbid>3522812</tmdbid>
+  </actor>
+  <actor>
+    <name>丁乐锶</name>
+    <role>Tourist</role>
+    <profile>https://www.themoviedb.org/person/3957277</profile>
+    <tmdbid>3957277</tmdbid>
+  </actor>
+  <actor>
+    <name>陈荣峻</name>
+    <role>Wu Yau Wai / Wu Tau Sir {Wussy's father}</role>
+    <profile>https://www.themoviedb.org/person/2818160</profile>
+    <tmdbid>2818160</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

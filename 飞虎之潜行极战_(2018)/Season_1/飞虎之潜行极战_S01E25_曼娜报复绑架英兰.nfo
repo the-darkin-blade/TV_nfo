@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:10:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>曼娜报复绑架英兰</title>
+  <originaltitle>Episode 25</originaltitle>
+  <showtitle>飞虎之潜行极战</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>6639164</id>
+  <uniqueid default="false" type="tmdb">1485201</uniqueid>
+  <uniqueid default="false" type="trakt">2996146</uniqueid>
+  <uniqueid default="true" type="tvdb">6639164</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>红狼要卢曼娜做诱饵，转资十亿，吸引全世界注意，同时高家俊又死咬着联运不放，于是卢曼娜抓走李英兰，想趁机解决高家俊，高家朗知道后，焦急万分，急忙想办法救人。饱受心理折磨的戴以菲决定辞职，雷焯锋挽留不果。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shaw Brothers</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2625</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Flying.Tiger.2018.E25.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

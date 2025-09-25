@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>莲花为哪吒弃终身幸福</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>4418929</id>
+  <uniqueid default="false" type="tmdb">2025524</uniqueid>
+  <uniqueid default="false" type="trakt">1484597</uniqueid>
+  <uniqueid default="true" type="tvdb">4418929</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>由于天降甘露，抒解哪吒全军之苦，哪吒决储备粮草后，再攻犬戎巨人，在十娘、四魔将、雷震子之协力之下，巨人终被打倒，大军欢喜若狂！
+
+莲花见哪吒终打败巨人，不但没流露半点欢颜，更决定当晚离开，幸得十娘察觉，跟踪之下，惊见莲花准备自寻短见，十娘扑出相救，莲花伤心之余，坦白向十娘道出寻死原因，原来当日天降甘露助哪吒大胜，全赖莲花以终身幸福作条件，求三太子作出相助，无奈莲花对三太子毫无爱意，所以惟有一死以作解脱，十娘知悉，决用妙计助莲花克服难关，莲花开心不已，可惜却要令自己花容尽失……
+
+颜见戬为人忠厚老实，渐渐对他有好感，而戬依然一副戆直性格，为完成飞虎的要求，竟十日不眠不休，颜看在眼里，心里真的感动不已而戬不知为何，连日来第三只眼都见到哪吒说要削肉还父，削骨还母，令戬困惑不已！另边厢，哪吒凯旋而归，百姓夹道欢呼相迎，哪吒大军好不威风，更得纣王亲迎，甚至百官要向哪吒跪迎，靖决不向哪叱下跪，而哪吒亦当众宣称自己天生天养，无父无母，令靖颜面尽失。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1054</width>
+        <height>714</height>
+        <durationinseconds>1478</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

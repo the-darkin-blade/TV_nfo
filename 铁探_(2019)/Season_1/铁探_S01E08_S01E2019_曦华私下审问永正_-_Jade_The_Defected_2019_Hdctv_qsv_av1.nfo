@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>曦华私下审问永正</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>铁探</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>7109970</id>
+  <uniqueid default="false" type="tmdb">1751181</uniqueid>
+  <uniqueid default="false" type="trakt">3452922</uniqueid>
+  <uniqueid default="true" type="tvdb">7109970</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>警方正式开始地毯式调查镪水案，而尚垶也了解到自己的情况并不乐观，可能会有许多后遗症。但尚垶执意返回前线，因为他知道自己的受伤，以及许多的事故都和曦华的卧底有关，尚垶一定要亲手将其捉拿归案。
+
+镪水案的调查中，访客陆蔚乔行迹非常可疑，而永正似有所隐瞒。原来曦华查出蔚乔正是永正的旧情人，她想借蔚乔从永正口中挖出关于励进之死的真相。曦华违反规定擅自关闭录音，威胁并逼问永正。永正不服，和曦华产生激烈的争吵，最后永正负气出走及失踪。
+
+眼看永正严重违反警例，快将要被通缉，尚垶不顾身体孱弱，在乌烟瘴气的赌档找到永正。得知永正被曦华威胁的真相，尚垶决定和他去内部调查课(IIO)，反击曦华。曦华及时赶到，和内部调查课的总警司程宇森激烈争吵。宇森指责曦华滥权，威胁下属；而曦华认定自己行为有理，是永正渎职在先。
+
+正当两人争锋相对时，尚垶挺身而出，力争要重返前线。曦华听罢，嘲笑尚垶的不自量力。当她得知尚垶之所以要重回一线，原来是要彻查自己和秉高之间的关系，曦华气急败坏，摔门离开。秉高根据山狗手机的线索来到茶楼，似有发现。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <studio>TVB Jade</studio>
+  <studio>Tencent Penguin Pictures</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:25</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1313</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Defected.E08.2019.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade The Defected 2019 Hdctv qsv av1</title>
+  <originaltitle/>
+  <showtitle>铁探</showtitle>
+  <season>1</season>
+  <episode>2019</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <studio>TVB Jade</studio>
+  <studio>Tencent Penguin Pictures</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:25</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1313</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Defected.E08.2019.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2019" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 10 集</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>老友狗狗</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195980</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>经过羡如的治疗，阿黄的皮肤病终于康复。羡如亦告知俊升早已看中阿黄的服从性，一直希望训练它成为出色的狗只，用恭大喜。
+
+用发失踪数天，用恭担心不已，遂和郭荣到他家看个究竟，惊闻用发竟被美莲禁锢，她更剪断电话线令用发无法与外界联络，每天只等待她送来的快餐。用恭等人看不过眼，鼓励用发反击，可惜他怯于美莲的威势，不敢反抗，把众人气坏。  用发反击　恶妻美莲  用恭看到嘉汶对天佑体贴的照顾，幻想日后和羡如、阿黄一家三口的片段，不禁窃笑。用恭接受羡如的劝说，带阿黄到市区散步，更多次意图拥着羡如，谁知过程竟被带弟看到，并在村内大肆宣扬，用恭被村民取笑。
+
+用发未能在家找到食物，饥饿之下决定爬窗逃走，却失足而被卓玲带回家。此时，美莲来到卓玲家，两人大打出手，众村民赶至阻止，并指责卓玲。卓玲连忙解释自己是有夫之妇，纯粹善意才请用发吃面，美莲仍然失控，只顾向用发咆哮，用发以离婚作反击。  用恭用发　无家可归  用发对自己冲口而出向美莲提出离婚感后悔，用恭等人却支持他和美莲对峙，使亚萍感到不满，不允许用恭回家。  用恭向俊升求助，希望他可收留自己和用发，终打动俊升让两人在狗场的空地留宿。俊升往见天娥，惊讶她的住所竟藏有大量高科技的监视仪器，更因触动机关而触电。美莲从俊升和天娥的对话中，发现他竟收留用发，感到气结。
+
+用恭和用发在狗场留宿，天雄送来消夜予两人享用，无意中看到用恭神秘地收藏一个行李箱，感到可疑；用恭受落天雄对自己的关怀表现，大赞他的为人。  觅得线索　天娥激动  天娥为俊升等人准备早餐后，巧遇伟威和手下悄悄地把衣柜丢弃在垃圾站，加上听到他们的对话，天娥对衣柜更有似曾相识之感，决定躲进衣柜内感受一番。天娥凭感觉认出衣柜的气味和纹理，肯定她当日被绑架时曾被困于衣柜之内，断定伟威的铁皮屋是昔日藏参地点，遂找俊升商议，他却没好气理会。
+
+嘉汶往找天佑，告知已寻得目标，并已报读宠物美容的课程，得到天佑鼓励她，嘉汶甜在心头。郭桦等人在保龄球场重遇上次袭击他们的人，得悉若寻得毒品可获巨款报酬，并遇上嘉汶和天佑同在保龄球场；伟威不欲嘉汶和天佑太亲近，迫使她离家出走。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1876</width>
+        <height>1080</height>
+        <durationinseconds>2666</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>10_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

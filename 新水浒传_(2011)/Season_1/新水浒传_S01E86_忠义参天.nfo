@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>忠义参天</title>
+  <originaltitle>忠义参天</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>86</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026704</uniqueid>
+  <uniqueid default="false" type="trakt">7308189</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>卢俊义不知道酒里有毒，喝下掺了水银的毒酒，身体日渐虚弱，在回庐州的船上，失足落水而亡。蔡京又进谗言，说卢俊义一死，梁山宋江一定恼羞成怒，为防止他再次聚众谋反，应赏赐安抚，徽宗不知是计，同意，命钦差特使到楚州赐御酒。宿太尉闯宫见徽宗，质问为何要赐死宋江，徽宗才知上当，急忙命人赶往楚州，追回那坛毒酒。钦差到楚州，呈上御酒。宋江明白酒里必定有毒，但还是平静的接下圣旨，准备独自接受命运。李逵想念宋江，赶来看望，见宋江神色不对，追根究底，宋江坦言朝廷对自己放心不下，因此要赐死自己。李逵大怒，抽出斧子扬言要造反，推翻朝廷让宋江做皇帝。宋江不肯，李逵又劝他跟自己回梁山去继续落草，宋江表示宁可朝廷负我，我不能再做叛贼，并嘱咐李逵，自己死后不可造反生事，坏了梁山的忠义之名，死后愿葬在风景与梁山相似的蓼儿洼。谁知李逵趁宋江不备，喝光了毒酒，生死相随，宋江抱住李逵大哭，不久也毒发身亡，孤独的死去。吴用花荣得知宋江死讯，来楚州吊唁，自尽于坟前。徽宗对宋江冤死一事追悔莫急，怒斥高俅蔡京等奸臣，为宋江修建祠堂，供奉于庙内，并亲自手书“靖忠之庙”。后来，宋公明累累显灵，百姓四时享祭不绝，梁山泊内祈风得风，祷雨得雨，至今古迹尚存。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2675</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E86 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="86" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

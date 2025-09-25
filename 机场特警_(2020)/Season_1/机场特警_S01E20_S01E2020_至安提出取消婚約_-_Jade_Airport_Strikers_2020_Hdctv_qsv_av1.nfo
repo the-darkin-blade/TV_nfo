@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:08:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>至安提出取消婚約</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>机场特警</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>7654176</id>
+  <uniqueid default="false" type="tmdb">2238185</uniqueid>
+  <uniqueid default="false" type="trakt">4078329</uniqueid>
+  <uniqueid default="true" type="tvdb">7654176</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>景山在綺琳工作的食堂捉拿可疑男子，此人竟是宏宇。天樂打算送禮物給詩嬅，禮物卻意外墜海。至安避見容義，容義則為禮金和婚後居所憂心。容義執勤時發現手提袋內藏大量現金，物主報稱遺失逾百萬元，更指稱容義盜款。至安向容義坦白一切，並提出取消婚約。凱晴為景山處理傷口，安娜發現二人態度親暱。凱晴把宏宇的禮物轉交景山，綺琳亦勸景山原諒宏宇。容義告知永強、天機已取消婚事；永強向天機提起二人似曾在槍店相遇。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1317</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Airport.Strikers.E20.2020.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Airport Strikers 2020 Hdctv qsv av1</title>
+  <originaltitle/>
+  <showtitle>机场特警</showtitle>
+  <season>1</season>
+  <episode>2020</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1317</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Airport.Strikers.E20.2020.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2020" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

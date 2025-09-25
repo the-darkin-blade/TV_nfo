@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:08:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>娃(下)</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>金宵大厦</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>7358424</id>
+  <uniqueid default="false" type="tmdb">1942168</uniqueid>
+  <uniqueid default="false" type="trakt">3709310</uniqueid>
+  <uniqueid default="true" type="tvdb">7358424</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>阿萧在垃圾堆发现神情怪异的晴晴，着Raj接走她。Raj以为自己给晴晴压力，对她百般迁就，又与她到公园谈心，晴晴竟突然要求性行为。阿萧在金宵舞厅重遇Alex，惊喜万分。Alex突然听到哭声，二人随声至垃圾堆，发现性爱娃娃，娃娃竟「自称」是晴晴……佳爷搬走娃娃时撞见Yuki，说起被太太背叛的往事，自觉亏欠晴晴，遂致电晴晴，承诺弃掉娃娃，晴晴闻言竟伤心起来……Alex应阿萧约会看流星，二人感情迈进一步。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1305</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Barrack.O'karma.E06.20190923.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Barrack O'karma 20190923 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>金宵大厦</showtitle>
+  <season>1</season>
+  <episode>923</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1305</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Barrack.O'karma.E06.20190923.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="923" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 4 集</title>
+  <originaltitle>第 4 集</originaltitle>
+  <showtitle>忽必烈传奇</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2821406</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>忽必烈跟随耶律楚材见到大宋丞相，对方同意假道于蒙古，忽必烈一行人在回去途中金人伏击，宋军扮作金人打退金兵，忽必烈让大宋将领敬佩不已。贵由想偷袭敌军后方时遭金军埋伏，他向窝阔台求救，窝阔台派兵救援遇金军主力，博尔术最终战死沙场。蒙哥、旭烈兀率军赶到增援。1231年12月三路兵马会师三峰山。托雷命军队采用车轮战和城头的金军抗战，金军的补给被切断，托雷全歼金军主力。赤老温被抓。忽必烈替赤老温求情，忽必烈提出让赤老温替成吉思汗守陵。窝阔台原谅了赤老温。忽必烈再次见到察比后两人感情加深。窝阔台将税制交给耶律楚材处理，耶律楚材提出汉地的户籍制度征税之法。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2645</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Legend.Of.Kublai.Khan.Ep04.720P.Hdtv.X264.2Audio-Hdwtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

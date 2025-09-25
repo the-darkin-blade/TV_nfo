@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>性在有情</title>
+  <originaltitle>性在有情</originaltitle>
+  <showtitle>性在有情</showtitle>
+  <sorttitle/>
+  <year>2016</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>10.0</value>
+      <votes>1</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>《性在有情》（Come With Me）是香港电视广播有限公司拍摄制作的一部性喜剧电视剧，由张兆辉、陈敏之、沈震轩领衔主演，监制文伟鸿。陈敏之在剧中饰演一名性治疗师，与张兆辉、沈震轩发生情爱纠葛。
+
+　　本剧2014年11月开机，2015年播映。</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"109676"}</episodeguide>
+  <id/>
+  <imdbid/>
+  <tmdbid>109676</tmdbid>
+  <uniqueid default="true" type="tmdb">109676</uniqueid>
+  <premiered>2016-09-09</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <actor>
+    <name>张兆辉</name>
+    <profile>https://www.themoviedb.org/person/72732</profile>
+    <tmdbid>72732</tmdbid>
+  </actor>
+  <actor>
+    <name>陈敏之</name>
+    <profile>https://www.themoviedb.org/person/994580</profile>
+    <tmdbid>994580</tmdbid>
+  </actor>
+  <actor>
+    <name>江美仪</name>
+    <profile>https://www.themoviedb.org/person/236195</profile>
+    <tmdbid>236195</tmdbid>
+  </actor>
+  <actor>
+    <name>许绍雄</name>
+    <profile>https://www.themoviedb.org/person/63582</profile>
+    <tmdbid>63582</tmdbid>
+  </actor>
+  <actor>
+    <name>阮兆祥</name>
+    <profile>https://www.themoviedb.org/person/579496</profile>
+    <tmdbid>579496</tmdbid>
+  </actor>
+  <actor>
+    <name>陈嘉佳</name>
+    <profile>https://www.themoviedb.org/person/1629653</profile>
+    <tmdbid>1629653</tmdbid>
+  </actor>
+  <actor>
+    <name>罗兰</name>
+    <profile>https://www.themoviedb.org/person/548053</profile>
+    <tmdbid>548053</tmdbid>
+  </actor>
+  <actor>
+    <name>王君馨</name>
+    <profile>https://www.themoviedb.org/person/1255467</profile>
+    <tmdbid>1255467</tmdbid>
+  </actor>
+  <actor>
+    <name>钟景辉</name>
+    <profile>https://www.themoviedb.org/person/226620</profile>
+    <tmdbid>226620</tmdbid>
+  </actor>
+  <actor>
+    <name>沈卓盈</name>
+    <profile>https://www.themoviedb.org/person/3502196</profile>
+    <tmdbid>3502196</tmdbid>
+  </actor>
+  <actor>
+    <name>卢宛茵</name>
+    <profile>https://www.themoviedb.org/person/1395247</profile>
+    <tmdbid>1395247</tmdbid>
+  </actor>
+  <actor>
+    <name>杨瑞麟</name>
+    <profile>https://www.themoviedb.org/person/3842976</profile>
+    <tmdbid>3842976</tmdbid>
+  </actor>
+  <actor>
+    <name>魏惠文</name>
+    <profile>https://www.themoviedb.org/person/1336683</profile>
+    <tmdbid>1336683</tmdbid>
+  </actor>
+  <actor>
+    <name>孙慧雪</name>
+    <profile>https://www.themoviedb.org/person/1310286</profile>
+    <tmdbid>1310286</tmdbid>
+  </actor>
+  <actor>
+    <name>李忠希</name>
+    <profile>https://www.themoviedb.org/person/2183001</profile>
+    <tmdbid>2183001</tmdbid>
+  </actor>
+  <actor>
+    <name>祝文君</name>
+    <profile>https://www.themoviedb.org/person/3450480</profile>
+    <tmdbid>3450480</tmdbid>
+  </actor>
+  <actor>
+    <name>梁舜燕</name>
+    <profile>https://www.themoviedb.org/person/1178950</profile>
+    <tmdbid>1178950</tmdbid>
+  </actor>
+  <actor>
+    <name>苏恩磁</name>
+    <profile>https://www.themoviedb.org/person/3390465</profile>
+    <tmdbid>3390465</tmdbid>
+  </actor>
+  <trailer>plugin://plugin.video.youtube/play/?video_id=XjBpsim7xBk</trailer>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

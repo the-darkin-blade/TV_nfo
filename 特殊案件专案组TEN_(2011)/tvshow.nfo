@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:10:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>特殊案件专案组TEN</title>
+  <originaltitle>특수사건전담반 TEN</originaltitle>
+  <showtitle>特殊案件专案组TEN</showtitle>
+  <sorttitle/>
+  <year>2011</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>6.9</value>
+      <votes>8</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>《特殊案件专案组TEN》是韩国OCN电视台的金曜剧，由李胜英执导，李再坤、南相旭编剧，朱相昱、赵安、金尚浩、崔宇植领衔主演。
+
+第一季2011年11月18日每周五晚播出，第一季获得了韩国2012有线电视最佳节目首奖，也获得了很多的好评。于是第二季原班人马回归，于2013年4月14日播出。  该剧主要讲述了特殊案件专案组TEN用尽浑身解数，侦破手上未了结的案件，把那些妄图进行完美犯罪的杀人凶手绳之于法的故事。
+
+TEN是一个专责调查破案率不足一成的重大犯案件的特殊案件专案组，组员精英云集，有吕智勋（朱相昱 饰）担任组长，白道植（金相浩 饰）、南艺莉（赵安 饰），以及新晋热血的菜鸟刑警朴敏豪（崔宇植 饰），他们各自施展浑身解数，务求尽快侦破手上未了结的案件，把那些妄图进行完美犯罪的杀人凶手绳之于法。</plot>
+  <tagline/>
+  <runtime>54</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"60293","imdb":"tt2323034","wikidata":"Q15933384","tvdb":"263829"}</episodeguide>
+  <id>263829</id>
+  <imdbid>tt2323034</imdbid>
+  <tmdbid>60293</tmdbid>
+  <uniqueid default="false" type="tmdb">60293</uniqueid>
+  <uniqueid default="false" type="imdb">tt2323034</uniqueid>
+  <uniqueid default="false" type="wikidata">Q15933384</uniqueid>
+  <uniqueid default="true" type="tvdb">263829</uniqueid>
+  <premiered>2011-11-18</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Crime</genre>
+  <genre>Mystery</genre>
+  <studio>OCN</studio>
+  <studio>Studio Dragon</studio>
+  <country>韩国</country>
+  <tag>detective</tag>
+  <tag>investigation</tag>
+  <tag>police</tag>
+  <tag>murder</tag>
+  <tag>serial killer</tag>
+  <tag>psychological thriller</tag>
+  <tag>task force</tag>
+  <actor>
+    <name>朱相昱</name>
+    <role>Yeo Ji-hoon</role>
+    <profile>https://www.themoviedb.org/person/1261196</profile>
+    <tmdbid>1261196</tmdbid>
+  </actor>
+  <actor>
+    <name>赵安</name>
+    <role>Nam Ye-ri</role>
+    <profile>https://www.themoviedb.org/person/129614</profile>
+    <tmdbid>129614</tmdbid>
+  </actor>
+  <actor>
+    <name>金相浩</name>
+    <role>Baek Do-shik</role>
+    <profile>https://www.themoviedb.org/person/123820</profile>
+    <tmdbid>123820</tmdbid>
+  </actor>
+  <actor>
+    <name>崔宇植</name>
+    <role>Park Min-ho</role>
+    <profile>https://www.themoviedb.org/person/1255881</profile>
+    <tmdbid>1255881</tmdbid>
+  </actor>
+  <actor>
+    <name>尹智慧</name>
+    <role>Seo Yoo-rim</role>
+    <profile>https://www.themoviedb.org/person/109646</profile>
+    <tmdbid>109646</tmdbid>
+  </actor>
+  <actor>
+    <name>崔载雄</name>
+    <role>Shin Young-geun</role>
+    <profile>https://www.themoviedb.org/person/1307608</profile>
+    <tmdbid>1307608</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

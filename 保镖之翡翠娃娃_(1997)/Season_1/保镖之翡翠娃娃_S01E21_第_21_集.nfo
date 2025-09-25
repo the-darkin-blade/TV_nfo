@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:49:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 21 集</title>
+  <originaltitle>第 21 集</originaltitle>
+  <showtitle>保镖之翡翠娃娃</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3169336</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>胭脂向郭旭说出梦境，之后决心去找封平，把下半辈子交给他。封平在酒馆喝得烂醉如泥，胭脂找至，对他悉心照顾，并要求他减少喝酒，封平却误会胭脂同情自己，把她气走。泰北派出的锦衣卫以商六的妻儿来要胁商六合作。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>ATV</studio>
+  <studio>gotv</studio>
+  <studio>ATV Enterprises Limited</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1036</width>
+        <height>716</height>
+        <durationinseconds>2788</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>保镖之翡翠娃娃.21_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

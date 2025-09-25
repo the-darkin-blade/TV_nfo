@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>勇救婆孙　发现血案</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>4155068</id>
+  <uniqueid default="false" type="tmdb">1830820</uniqueid>
+  <uniqueid default="false" type="trakt">1489357</uniqueid>
+  <uniqueid default="true" type="tvdb">4155068</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>汀汀在跑步途中，救了一对险些被高空堕下的花盆击中的婆孙，因而揭发一案灭门惨案。经验丰富的法医泽琛单凭流到屋外的血迹已断定屋内仍有生还者。果然，泽琛发现户主的儿子伟升仍有气息。
+
+血案怀疑是因屋中藏有名贵钻石所致，彦博与泽琛发觉凶器应是两张刀，可是在现场却遍寻不获，幸在汀汀提点下，彦博在一辆垃圾车的垃圾中找到重要的证物。
+
+小柔在死者丽玲的手机上找到她与男友文狄的照片，小柔更记得他曾在案发地点出没，所以便到文狄工作的车房找他问话，文狄声称当晚他在酒吧消遣；其后小柔到酒吧调查，遇上泽琛，得到他的协助，终发现文狄一直也在说谎。
+
+小柔再到车房找文狄，发现在他的储物柜藏有大量钞票，小柔怀疑是他变卖钻石后得来的金钱，所以断定他便是真凶；可是，这时候彦博到新的证据，将先前推断死者丽玲的死亡时间推翻，间接证明文狄并非真凶，令小柔感到不满……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E01.20190320.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Forensic Heroes 20190320 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>320</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E01.20190320.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="320" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

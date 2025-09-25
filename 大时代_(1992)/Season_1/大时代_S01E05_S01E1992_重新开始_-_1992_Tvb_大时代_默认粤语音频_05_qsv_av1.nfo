@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>重新开始</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>2398881</id>
+  <uniqueid default="false" type="tmdb">1460690</uniqueid>
+  <uniqueid default="false" type="trakt">1435872</uniqueid>
+  <uniqueid default="true" type="tvdb">2398881</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>丁蟹到医院看进新，被慧玲看到，慧玲赶他走。进新终于要出院了，在展博的启发下，终于慢慢记起以前的事。进新开始学习日常生活。一日，路边小贩误以为进新吃东西不给钱，痛打进新，进新掉了戒指，扒在地上努力寻找。 进新病情有好转，他决定要赚钱养活家人。他找到一份路边分报纸的工作，但由于被打坏了脑，记性不好，怎么也记不住顺序，还被人捉弄，异常艰辛。老板要辞退他，但他言辞恳切，打动了老板，留他继续工作。进新在家里练习分报纸，在孩子们的帮助下终于学回怎么分报纸。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1363</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.05_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 05 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1363</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.05_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

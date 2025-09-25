@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>秉高被逼出卖尚垶</title>
+  <originaltitle>Episode 23</originaltitle>
+  <showtitle>铁探</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>7110005</id>
+  <uniqueid default="false" type="tmdb">1751196</uniqueid>
+  <uniqueid default="false" type="trakt">3453060</uniqueid>
+  <uniqueid default="true" type="tvdb">7110005</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>正龙不再信任蔚乔，将她推出车外。但蔚乔之前已偷偷将跟踪器放在正龙身上，帮助警察找到了他的藏毒窝点，人赃并获。
+
+励杰公然对抗曦华，曦华对励杰感到失望，直言他不如死去的哥哥励进，而励杰也说出了一个关于励进的事实，令曦华难以接受，母子两人关系跌入冰点。宇森和正龙达成合作的协议，即使曦华试图制止都毫无作用。于是曦华便作出决定，打算想办法放走营长，让宇森颜面尽失。
+
+永正探望受伤入院的蔚乔，告诉她正龙的势力很快就会被彻底铲除，她也很快能回到自己身边。警方安排了大量警力在交易地点，试图将罪犯一网打尽。喜悦和励杰搭档合作，两人的感情似乎开始升温。
+
+曦华没有坐以待毙，她利用泳莎窃取了大威妻子的电话，并冒名向秉高发出威胁的信息。忽然传来枪响，局势混乱，秉高随即开车冲出，将营长几人带走。逃离的路上，营长怀疑秉高的身份，就在他准备开枪时，车辆遇到了埋伏的警察，失控坠下山崖。丽瑶闻声赶来，掩护营长和秉高逃跑。
+
+秉高带着营长来到曦华指定的逃脱地点，见到早已预备的电单车。此时尚垶赶到，营长虽对秉高有所怀疑，但也来不及犹豫，骑车便跑。尚垶怒斥秉高放走营长，深觉自己受到欺骗。一番争斗之下，两人滚下山坡。尚垶晕倒不省人事，而秉高却被泳莎救走。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <studio>TVB Jade</studio>
+  <studio>Tencent Penguin Pictures</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:25</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1316</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Defected.E23.2019.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade The Defected 2019 Hdctv qsv av1</title>
+  <originaltitle/>
+  <showtitle>铁探</showtitle>
+  <season>1</season>
+  <episode>2019</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <studio>TVB Jade</studio>
+  <studio>Tencent Penguin Pictures</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:25</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1316</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Defected.E23.2019.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2019" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

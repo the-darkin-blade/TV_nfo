@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>张顺魂归涌金门</title>
+  <originaltitle>张顺魂归涌金门</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>83</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026701</uniqueid>
+  <uniqueid default="false" type="trakt">7308186</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>张顺爬上杭州城外的涌金门，喊着自己是来送信的，却中了庞万春的埋伏，万箭齐发，张顺中箭落水。宋江下令炮轰涌金门，火烧水淹，终于攻破杭州。杭州城内，梁山将领灵堂上，摆满了一具具尸体，血迹未干，童贯前来犒军，明知宋江等人悲痛欲绝，仍要他们欣赏皇帝赏赐的鼓乐，宋江只有默默忍受。梁山军攻陷方腊的皇宫，方腊早已逃走。阮氏兄弟穿上方腊的龙袍，扮做皇帝和方腊，做游戏将假方腊拉出来斩首，宋江卢俊义发现，将他们斥责了一顿，责令脱去龙袍，让他们继续追击，寻找方腊的踪迹。阮氏兄弟追上方腊残部，一番血战，阮小七受伤，方腊逃脱，阮小二让两个弟弟回营报信，自己寻着方腊的踪迹继续追踪，沿途好留下记号，给后面的援军。阮小五放心不下，又返回来，兄弟二人一起与方腊残部血战，寡不敌众，口唱山歌，双双阵亡。与此同时，张清夫妇也在战乱中战死。阮小七回到大营，却得到两位哥哥全部战死的消息。吴用让小七护送哥哥们的灵柩回乡，从此隐居不要回来，希望能够为阮家抱住一脉香烟，小七不肯，述说当日石碣村七人聚义的缘由，表示宁肯战死绝不退缩。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2660</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E83 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="83" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

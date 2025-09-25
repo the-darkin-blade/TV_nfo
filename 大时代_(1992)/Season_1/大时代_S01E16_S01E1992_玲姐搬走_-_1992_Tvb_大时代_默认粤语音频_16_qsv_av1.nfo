@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>玲姐搬走</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>2398991</id>
+  <uniqueid default="false" type="tmdb">1460702</uniqueid>
+  <uniqueid default="false" type="trakt">1435892</uniqueid>
+  <uniqueid default="true" type="tvdb">2398991</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>陈万贤和陈滔滔不欢而散。婷婷再去采访陈滔滔，做足了准备工作，陈滔滔很欣赏她，请她做自己的私人助理。阮梅觉得自己害展博没有赢钱，很内疚，去送钱给展博。被玲姐知道，玲姐去翻展博的东西，发现展博一心想要发财，甚至在录音机里录下“我方展博要发财，我方展博要做亿万富翁”的疯狂语句。玲姐开始担心，去找展博，却看到展博正陪着叶天发疯，原来叶天早年受到亲人被烧死的打击，精神有点不正常。玲姐对展博失望，觉得很累，决定离开。展博为了玲姐的幸福，赞成她搬走。展博向阮梅诉说心事，阮梅惊觉自己喜欢展博。孝蟹接到电话知道丁蟹在墨西哥跑掉了，他叫人一定要找回父亲。电话被方婷听到，两人发生争吵。陈滔滔决定在事业上打击陈万贤，但一时解决不了庞大的资金问题。陈转而求助台湾但只能从非法途径取得。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1560</width>
+        <height>1078</height>
+        <durationinseconds>1385</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.16_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 16 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1560</width>
+        <height>1078</height>
+        <durationinseconds>1385</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.16_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

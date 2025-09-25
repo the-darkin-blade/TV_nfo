@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:58:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>初见发现日熙撒谎</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>爱我请留言</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2299923</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>柳娟与初见在咖啡店遇到一名衣着打扮夸张的内地女生，店员用普通话招呼柳娟，却对内地女生说广东话，令柳娟生气。女同事们纷纷向初见打听即将到任的市场总监的资料，当知道是男上司均感雀跃。  顾家好在会议上让同事们试吃多款新口味，包括一款芋头味朱古力，初见提议赶在中秋前推出这种新口味的中秋礼盒。广州来的实习生皎妃向初见报到，由于实习生受训完毕会被派到柳娟的分店，柳娟急不及待要看看其人，发现竟是在咖啡店遇到的内地女子，感觉极为不爽。
+
+手执名牌　被当A货
+
+皎妃对初见十分热情，一见面便捉着初见的手。初见提醒皎妃在门市部不能穿高跟鞋，皎妃谓自十三岁起便一直穿高跟鞋，不穿高跟鞋便不懂走路，柳娟见状看不过眼，便叫她多加练习。
+
+皎妃将洋名A Lin的女同事称作「莲姐」，令A Lin浑身不自在，连忙更正她。皎妃拿着名牌手袋，却被人视为冒牌货甚为不忿。她在名店买手袋，信用卡没足够余额，便到银行柜员机提款，在她前面的金贵却慢条斯理，本来已心急的她更为生气。
+
+金贵的房门又被新住客的鞋柜阻挡，他向对方的房门高声叫喊，开门的是皎妃，她随便应酬一下便回到房去，金贵只好自行把鞋柜推开。  皎妃用杯面当作生日蛋糕，许愿在明年二十五岁生日前，一定要嫁给一个会买很多名牌手袋给她的有钱人。
+
+初见天送 再次重逢
+
+爱林煲了牛蒡汤给父母，笑梅不爱吃牛蒡，静静把碗中的牛蒡送到丈夫的碗中。悠悠看见有样学样，也把红萝卜都送到初见的碗中。初见发现，教导悠悠己所不欲勿施于人，又答应替悠悠吃一半红萝卜。
+
+悠悠送了一幅画给初见，初见看见画中的英文词语「Happy」快乐少了一个字母「P」，教悠悠两个人在一起才快乐，所以英文词语「Happy」应有两个「P」。  笑梅喜欢悠悠，想留悠悠在家过夜，爱林指天送十分紧张女儿，肯定没商量。天送与蔡妍到爱林家接悠悠，初见与天送都认不出彼此曾见过面。  答应悠悠　添个妹妹  天送一家三口逛街购物，蔡妍陪女儿上洗手间时总有所避忌。悠悠想买的衣服款式只有两岁以下的尺码，悠悠要求母亲给她生一个妹妹，便可把衣服给妹妹穿上。天送与蔡妍答应悠悠六岁时便给她添一个妹妹。… ...</plot>
+  <runtime>62</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>3728</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>03_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

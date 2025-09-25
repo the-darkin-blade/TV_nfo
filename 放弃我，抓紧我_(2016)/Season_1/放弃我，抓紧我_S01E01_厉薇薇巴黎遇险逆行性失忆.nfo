@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>厉薇薇巴黎遇险逆行性失忆</title>
+  <originaltitle>厉薇薇巴黎遇险逆行性失忆</originaltitle>
+  <showtitle>放弃我，抓紧我</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>5771578</id>
+  <uniqueid default="false" type="tmdb">1227975</uniqueid>
+  <uniqueid default="false" type="trakt">2356600</uniqueid>
+  <uniqueid default="true" type="tvdb">5771578</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>法国巴黎，来自中国的高级婚纱礼服品牌——玲珑将在这里举行发布会，这除了是一次服装秀更是一次没有硝烟的战争，因为中国时装品牌的佼佼者正在为和玲珑争夺入驻枫丹百货资格而摩拳擦掌。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2709</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>J2.Stay.With.Me.Ep01.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

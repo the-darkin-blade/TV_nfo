@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>恐友轻生　欢畅担心</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>1623591</id>
+  <uniqueid default="false" type="tmdb">1992294</uniqueid>
+  <uniqueid default="false" type="trakt">1576542</uniqueid>
+  <uniqueid default="true" type="tvdb">1623591</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>青云因正初的说话连赌博的兴趣也失去了，欢畅怕她做出傻事，特意陪伴左右。青云说很痛恨正初却哭不出，欢畅终成功劝服青云回港。子鹏因作弊之事找不到主谋，唯有依正初吩咐将所有学员辞退，来富大受打击。欢畅找来子维向他责骂一番，子维终醒悟主动向汉昌认错，请求给学员多一次考试机会。汉昌见儿子有改变因此要求正初收回成命，正初本反对，但汉昌以赌场账目混乱为由施压，正初无奈答应。来富到珠美家助她温习，却被家中各人视作女婿般看待，来富感到珠美家充满家庭温暖，不禁感怀身世。珠美开解来富，来富则教她以符号代入数字，二人终成功考取荷官资格。子维向珠美透露是欢畅为来富出头，令珠美更肯定欢畅是同性恋，吓得来富处处避他。欢畅收到好婆来电说青云失踪，立即赶往香港。欢畅终在变成垃圾岗一般的青云家中的衣柜内找到青云。原来青云伤痛不止自暴自弃，更吃发臭的食物充饥令自己食物中毒，但青云亦因此醒觉，更鼓起勇起将父母亲的遗物旅行袋打开。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2685</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep16.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

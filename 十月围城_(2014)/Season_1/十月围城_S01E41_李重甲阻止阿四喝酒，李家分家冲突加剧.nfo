@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李重甲阻止阿四喝酒，李家分家冲突加剧</title>
+  <originaltitle>李重甲阻止阿四喝酒，李家分家冲突加剧</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>41</episode>
+  <id>4938219</id>
+  <uniqueid default="false" type="tmdb">2728584</uniqueid>
+  <uniqueid default="false" type="trakt">1306691</uniqueid>
+  <uniqueid default="true" type="tvdb">4938219</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>阿四三人刚端起酒杯，李重甲瞥见窗外，忽然打断，说这酒不能喝。很快，李念慈引着老太太匆匆进来了。李重甲当场出卖李玉庵，说三叔找过自己要害重光，自己担心这酒有问题。李玉庵还想辩解，老太太端起酒杯就要喝，李玉庵只能阻挡。老太太当众摔烂酒壶，说明白李家分家。回到李家，李重甲密见夏荷，告诫夏荷自己在酒里下毒要毒害“李重光”的实情永远不要说出去。第二天分家，阖族都在祠堂等着。李念慈来了，说老太太身体不舒服，说不分家了，以后家里家外的事都听重光的，将李玉庵逐出李家。大家愣了。李重甲心知这是冲自己来的。李重甲忽然向阿四提出他要与夏荷成亲，并搬出李家。阿四说不能做主，要请示老太太。阿四内疚、自责，去找老太太为李重甲说话，老太太打断，当家就要有个当家的样子！阿四无话可说。李老太太劝夏荷不要嫁给李重甲，另给其找个好人家嫁。夏荷说自己愿意嫁给李重甲，李老太太只得叮嘱夏荷照看好李重甲。李重甲结婚，空荡荡的小院，没一个人来参加婚礼。阿四带着李念慈与区舒云来了，祝福二人，却说不出更多的话。没想到，老太太竟然来了！夏荷手足无措，李重甲硬撑着谢奶奶－－亲祖孙两个其实是在较劲。阿四既同情李重甲，又同情老太太，只觉无地自容。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2640</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep41_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="41" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

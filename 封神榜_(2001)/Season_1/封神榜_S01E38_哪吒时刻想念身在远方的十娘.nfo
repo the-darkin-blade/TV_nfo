@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>哪吒时刻想念身在远方的十娘</title>
+  <originaltitle>Episode 38</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>38</episode>
+  <id>4418964</id>
+  <uniqueid default="false" type="tmdb">2025559</uniqueid>
+  <uniqueid default="false" type="trakt">1484759</uniqueid>
+  <uniqueid default="true" type="tvdb">4418964</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>皇后不单双目失明，更被妲己打入冷宫，李靖、十娘得知，痛心疾首，至决心要把皇后救出，可惜皇后死意已决，只求十娘救两皇子逃离妲己魔掌，十娘含泪答应，十娘、李靖如愿将两皇儿救出，可惜两皇儿报仇心切，坚决回朝歌找妲己算帐，十娘忙加阻止，可惜两人忠言逆耳，幸十娘以计谋令两人顺服。哪吒大军于「虎牢关」一战凯旋而归，令全军士气高涨。兴奋之际，哪吒却想起十娘，不禁泪盈于睫！
+
+飞虎临行在即，颜母把握最后时机到黄颜处，求黄颜签下离书，好让一家人远赴朝歌，无奈黄颜爱戬情深，宁一生一世等他回来也不要离开，颜母惟有伤心离开。
+
+杨戬负责押送军粮，半路上遇见一大群孕妇，其中一人更要临盆，杨戬命婵玉代为接生，谁知此际，杨戬之天眼看出孕妇肚中全是狐狸，因而将她们一一对付，而婵玉却不幸被其中一只狐狸咬中脚踝，众人担心不已。另边厢，申公豹请来一大堆术士高人与子牙大军作战，其中哼哈二将更藉大鼎而将声音倍增，二人一叫即地摇山动，哪吒大军几乎不敌，幸得子牙提醒，哪吒终联同金吒、木吒以自己名字击败哼哈二将……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1048</width>
+        <height>720</height>
+        <durationinseconds>1366</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>38_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="38" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

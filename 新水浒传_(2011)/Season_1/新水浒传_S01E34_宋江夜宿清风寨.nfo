@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>宋江夜宿清风寨</title>
+  <originaltitle>宋江夜宿清风寨</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026651</uniqueid>
+  <uniqueid default="false" type="trakt">7308137</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宋江认得是武松，让人赶快松绑，并告知孔明孔亮这是打虎英雄武松。武松见到宋江也大为吃惊。宋江告诉武松从上次一别，就来到了孔家庄，并向武松介绍了孔明孔亮。武松却为刚才店里的事情不肯罢休，非要让孔亮给店主道歉。等店主到来却得知，店主本人就是孔太公。武松赶忙赔礼道歉。大家一笑置之。武松告诉宋江，自己受张青举荐，准备前往二龙山落草。宋江邀武松一起去清风寨，武松婉言谢绝。宋江前往清风寨的途中被燕顺和几个小喽啰当探子抓了起来并带到了王英这里。王英欲用宋江当下酒菜，宋江无意中说出自己姓名，被燕顺知晓，于是燕顺王英二人连忙赔礼谢罪，盛情款待宋江。王英截下路上刘知寨的夫人，并把其抬到自己房中。宋江归来制止王英，并问夫人来处。夫人说自己清风寨知寨的夫人。宋江说明自己正要去投奔清风寨的花知寨，也顺便救下了这位知寨夫人。宋江劝王英收敛自己的好色，可王英却偏要收留这位夫人，宋江大怒，扬言誓死也要保护夫人清白。王英只得作罢，但要求宋江日后必须为自己做媒，宋江应允。知寨夫人被放，跟副将等人回到寨中。宋江也前往清风寨，向花荣说明了在王英处解决刘知寨夫人的事情。却不料，花荣与刘知寨不和，一直想找机会收拾刘知寨。宋江劝说花荣，花荣只得让宋江在来日当着刘知寨的面把解救知寨夫人一事详细说来，宋江应允。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2674</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E34 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

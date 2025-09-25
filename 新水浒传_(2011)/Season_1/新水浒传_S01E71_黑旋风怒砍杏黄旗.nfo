@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>黑旋风怒砍杏黄旗</title>
+  <originaltitle>黑旋风怒砍杏黄旗</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>71</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026688</uniqueid>
+  <uniqueid default="false" type="trakt">7308174</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>重阳节赏菊大会上，宋江重提招安之事，李逵怒而离席，宋江怕李逵再生事端，便让燕青尾随其后。燕青一路追着李逵来到刘太公府上，得知刘太公府闹鬼，李逵便要捉鬼，待捉到“鬼”才发现闹鬼之事是无稽之谈，原来是刘太公的女儿一直在装神弄鬼，刘太公的女儿刘瑾娘称自己不愿当宋江的压寨夫人才和情郎王世勋出此下策，刘瑾娘拿出红袖褡膊，将宋江和鲁智深如百般无赖的骚扰之事告诉李逵和燕青，李逵一听事关宋江又开始发作，他不顾燕青劝阻怒气冲冲的回到梁山，不由分说的砍倒杏黄旗，一时之间忠义堂上乱作一团。宋江得知事情经过，为证明自己便同李逵签下生死状，携鲁智深一同下山，随着李逵来到刘太公府指认，刘太公辨认再三后称强抢刘瑾娘的宋江和鲁智深不是眼前二人，李逵哑口无言。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2663</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E71 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="71" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

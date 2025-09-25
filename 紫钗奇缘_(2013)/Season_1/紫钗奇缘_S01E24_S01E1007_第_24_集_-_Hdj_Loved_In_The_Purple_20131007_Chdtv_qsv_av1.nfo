@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 24 集</title>
+  <originaltitle>Episode 24</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486678</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>朱泚陪同纳兰东和靖澜返回长安，卢杞劝朱泚不要进城但在杨炎面前却说朱泚见到自己便率军离去，不得不防。卢杞没想到靖澜才回来杨炎便准备让她嫁到南诏和亲，卢杞对杨炎的恨意已经越发加深。卢杞将鲍彩凤叫到家里，欲为靖澜找户人家河阳节度使的四公子王孝廉。靖澜找到纳兰东希望纳兰东可以向卢家提亲，纳兰东认为靖澜是迫于委屈才下嫁自己，靖澜知道纳兰东还是对小玉念念不忘。纳兰东此去河西有功被封博陵郡王，纳兰东在皇上面前替朱泚说好话希望也可嘉奖。但杨炎，卢杞从中作梗。纳兰东提回来时曾见难民，杨炎立刻表示自己已经拟定了新的税法。纳兰东又提出河西要娶小玉之事，希望皇上可驳回，但杨炎却认为这更加能巩固与河西的邦交，皇上同意了杨炎的看法。贵妃问张公公纳兰东是滞皇上在外所生之子。贵妃和太子一直对此事念念不忘。贵妃与太子将纳兰东请到宫中，贵妃表示可以帮他不让小玉嫁与河西宰相，还可让小玉回到大唐，条件就是纳兰东离开长安并且永远不准回来。贵妃出的主意便是让李湛出使河西，凭李益的文采对河西歌功颂德再请河西可汗将小玉换回。李湛出使河西事成，但杨炎也在朝常上提出让卢杞前去。卢杞要在出使前解决靖澜的婚事，靖澜将自己喜欢纳兰东的事告之卢杞。卢杞让下人将纳兰东请到府中。趁着空隙间卢杞将紫钗交于靖澜告诉靖澜此乃她母亲当年遗物，又将此物失而复得之事告诉靖澜。纳兰东并不在府中而是去了李湛府上。李湛因为有流言说他此去河西是救儿媳，李湛便不想再往河西。纳兰东相求李湛，李夫人问纳兰东如果救回小玉是否能和小玉和亲断了李益痴念。卢杞和李湛赶到玉门关，李益求两人一定带回小玉。卢杞提出让李湛父子二人先进河西，自己留在玉门关以防外一。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1334</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep24.20131007.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20131007 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>1007</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1334</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep24.20131007.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1007" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

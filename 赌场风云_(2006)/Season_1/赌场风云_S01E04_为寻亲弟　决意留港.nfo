@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>为寻亲弟　决意留港</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>1623471</id>
+  <uniqueid default="false" type="tmdb">1992274</uniqueid>
+  <uniqueid default="false" type="trakt">1576510</uniqueid>
+  <uniqueid default="true" type="tvdb">1623471</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>欢畅从老街坊口中知道父母曾有弟弟的下落，亦知弟弟被人从美国带回香港后就下落不明。失去父母的欢畅决心要寻回唯一的弟弟。欢畅与来富住在一起大感不便，来富装在水樽的小便竟被欢畅踢翻，欢畅大怒却发现来富毫无反应，于是将来富的东西全丢了。来富发现所有的东西不见了，慌张地在垃圾站寻回，当中竟有一副啤牌，上竟贴有欢畅弟弟的童年照。天意弄人，二人住在同一屋檐下却不知彼此是亲兄弟。富把东西全搬回家，更在上写上「耍」一字。欢畅概叹此人连「要」、「耍」不分，真是个彻底的废人。来富开始大报复，在欢畅洗澡时关掉水喉，在门匙孔注入胶水不让畅开门等，畅发火大骂富为寄生虫。青云发现来富失踪托欢畅一起寻找，欢畅终于了解来富的悲惨身世。此时有人说天台上发现死尸，二人愕然。原来来富在天台上躲起来，在欢畅处处忍让下事件终告平息。青云接走水货的工作，找欢畅与来富帮忙带手机回内地。途中来富遇上了当年拐带他的人口贩子，激动得拔足狂奔。最后来富对二人说出当年被人口贩子虐待，被迫乞钱的痛苦经历。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1076</height>
+        <durationinseconds>2686</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep04.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

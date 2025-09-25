@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>水战擒高俅</title>
+  <originaltitle>水战擒高俅</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>78</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026696</uniqueid>
+  <uniqueid default="false" type="trakt">7308181</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>所幸逃脱的高俅凭借朝廷所建造的威武战船卷土重来，而梁山擒得了朝廷造船师徐京，宋江饶其不死，深得徐京敬佩，徐京决定帮助梁山好汉。高俅率众战船驶向梁山水泊，阮氏三兄弟等人潜入水中，凿穿船底，瞬间令高俅军战船毫无用武之地。梁山好汉们合力擒下高俅。梁山大摆庆功宴，对高俅也是以礼相待。宋江为了能够达成招安的大事，最终决定放高俅回去，这让和高俅有不共戴天之仇的林冲气急，林冲势要报仇雪恨，却被梁山众人拦下，他看着高俅安然无恙地离开了梁山水泊。林冲自觉无脸面，悲愤下山。宋江依旧为招安之事担心，为了防止高俅向宋徽宗进谗言，吴用出一妙计，除了向朝廷忠臣宿太尉传达意思以外，遂安排燕青前往东京名妓李师师处，意欲向皇上请求招安。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2673</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E78 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="78" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

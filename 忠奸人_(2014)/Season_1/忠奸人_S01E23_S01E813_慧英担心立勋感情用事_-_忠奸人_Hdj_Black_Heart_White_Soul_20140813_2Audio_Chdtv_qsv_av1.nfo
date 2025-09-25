@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>慧英担心立勋感情用事</title>
+  <originaltitle>Episode 23</originaltitle>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>4962007</id>
+  <uniqueid default="false" type="tmdb">1984063</uniqueid>
+  <uniqueid default="false" type="trakt">1306697</uniqueid>
+  <uniqueid default="true" type="tvdb">4962007</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>立勋将哲行所赠的钱包交予鉴证科作化验后，立勋终于得知自己一直视作好兄弟的哲行，原来一直利用自己与启源及以铿等权贵勾结，不由得感到大为激动。慧英得知此事后亦感到惊讶，但为了拘捕以铿，便决定继续扮作若无其事，亦不向其他人揭穿哲行的真面目。
+
+立勋收到消息指启源已从昏迷中清醒过来，便即赶到医院对启源加以审问，但是启源因为脑部受创而变得神志不清及口出疯言疯语，令立勋未能在启源口中得知以铿的秘密。
+
+为了避嫌　打算分手
+
+立勋等人已经锁定以铿就是洗黑钱案的幕后黑手，故慧英便开始进行有关调查，立勋担心自己与绰姿的关系会阻碍调查，便打算向绰姿提出分手。虽然立勋一直主动逃避与绰姿见面，但最后立勋却因为心软而继续与绰姿交往，殊不知两人的关系最后亦被以铿发现。
+
+因绰姿坚决要与立勋一起，故此以铿只好同意立勋与绰姿交往。另一方面，当慧英知道立勋未能与绰姿分手后，便担心立勋最后在拘捕以铿时会感情用事，更有机会因此而作出错误判决。
+
+立勋主动　疏远绰姿
+
+绰姿近日感到身体不适，便怀疑自己怀有身孕，立勋得知此事后即感到紧张，并要求绰姿自行用验孕棒进行检查。绰姿告诉立勋自己并没有怀孕，即令立勋感到松一口气，但绰姿把立勋的反应看在眼内，却为此感到立勋并不关心自己。绰姿因情绪波动而面临崩溃，想不到是立勋发现绰姿的异状，反决定借此机会与她保持距离，结果令绰姿更感绝望。
+
+另一方面，哲行收到医生的讯息，指自己有机会康复并能重新站起来，哲行及美贞因此感到十分兴奋，并决定通知立勋一起到医院检查，与别人分享自己康复的快乐。
+
+检查期间　改装手机
+
+哲行因要接受医院的详细手术检查，故需要将手提电话交给家属保管。立勋见机不可失，便趁哲行进行手术期间，即时安排鉴证科在哲行的手机做手脚，以进行窃听获取以铿及哲行的犯罪证据。
+
+哲行检查完毕后，却在医生的报告中得知自己已经康复无望，终其一生都要在轮椅上度过。哲行得知后情绪一度崩溃，并需要美贞的安抚才能稳定下来。
+
+机警哲行　发现秘密
+
+自从立勋开始主动逃避绰姿后，绰姿便经常到警局找立勋，但是立勋却一直狠心地拒绝与她见面，因而令绰姿感到失望。但绰姿担心以铿会因此事而阻止自己与立勋来往，故没有向以铿提及自己的困难……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1332</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep23.20140813.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>忠奸人 Hdj Black Heart White Soul 20140813 2Audio Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>813</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1332</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep23.20140813.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="813" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

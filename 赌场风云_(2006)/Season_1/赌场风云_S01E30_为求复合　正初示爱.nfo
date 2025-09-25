@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>为求复合　正初示爱</title>
+  <originaltitle>Episode 30</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id>1623731</id>
+  <uniqueid default="false" type="tmdb">1992311</uniqueid>
+  <uniqueid default="false" type="trakt">1576574</uniqueid>
+  <uniqueid default="true" type="tvdb">1623731</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>正初为求感动青云，亲自送花给青云。欢畅乔装跟一夫到地下赌场，终证实年轻赌王真的是来富。欢畅要来富离开，来富终说出真心话，认为欢畅遗失他当日后已没资格管他。正初要青云给他三小时，正初向青云表示没有忘记当天的承诺送上青云喜欢的戒指，但青云说出一切没可能回头便离去。正初对来富说出珠美遇见豹哥之事，更暗示珠美知道一切。珠美怕正初利用来富，更怕正初向来富说出卧底之事，于是珠美将一切变卖欲还钱给正初，可惜遇正初拒绝。欢畅为了要来富离开赌场，不惜狠下心肠向警方举报。来富最后得正初救走，令他对欢畅成见更深。来富质问为何连亲弟也不放过，兄弟不欢而散。青云在护老院又遇上正初，更请他回头不要再利用来富打击欢畅。正初表示自己对青云是真心，青云终崩溃说出不想再受正初的伤害。正初觉青云被自己伤得太深大感心痛，只好送她回家。青云最后忍不住与正初爱火重燃，与正初过了一夜才回家，却被福荣碰个正着。青云要正初给时间来做抉择，正初同意。福荣对青云表示希望她回到正初身边，那便可让正初不再利用来富，一举两得。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2688</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep30.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

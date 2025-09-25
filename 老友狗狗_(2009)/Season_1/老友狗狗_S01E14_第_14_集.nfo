@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 14 集</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>老友狗狗</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195984</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>用恭等人为用发庆祝他脱离美莲的魔掌，重获自由；美莲亦跟亚萍等人庆祝自己除去「发嫂」之名，用恭和亚萍分别跟众人讲述用发和美莲当年恋爱的经过。  用恭往找羡如，两人仍为恋情未获俊升接受而苦恼，用恭答应努力令俊升对自己改观，俊升在旁目睹一切，决定考验用恭和阿黄的合拍程度作重新评核，使两人大喜；谁知过程中，羡如看穿俊升不断使计破坏，不禁气结。  天佑拒爱　嘉汶失踪  用恭和羡如拍拖时巧遇嘉汶和带弟，四人结伴同往购买男装，在店中遇上蕙娟，众人为争一件衣服而起争执，蕙娟更出言侮辱用恭等人后离开。用恭等人回村内向用发打听蕙娟的背景，得知她竟是擅长撰写恋爱文章的作家后失笑。  天佑和雅文为查案而整天出双入对，使嘉汶暗生妒忌，蕙娟目睹一切，教嘉汶主动向天佑示好。嘉汶带同自制的蛋糕到警局找天佑，又为他度身编织颈巾，天佑情急下向众人澄清两人没有关系，使她激动离开，天佑遂向用恭求助。用恭终于和羡如在凉茶店找到嘉汶，陪伴她观察疑是生母的阿红，随后却意外得悉阿红是不育，嘉汶失望。  羡如俊升　关系僵持  用恭向羡如展示自己训练阿黄的成果，使她对是次考验充满信心，谁知俊升竟用香味扑鼻的牛扒引诱阿黄，使它分心而没有听从用恭的指令。羡如直斥俊升的行为诡诈，是存心令用恭的考核失败，俊升不置可否，羡如气得把用恭和阿黄拉走。
+
+应钧和伟仔为天娥准备了几位爱狗的专业人士相亲，希望她能早日忘记俊升，可惜众人的表现均未能符合她的要求。  嘉汶生母　疑是蕙娟  天雄为卓玲修理冷气机，其才能被卓玲赞赏，使天雄暗喜，及后却目睹卓玲与情人通电话的甜蜜情景而感到不是味儿。 天雄邀请天娥到卡通主题的餐厅庆祝自己获发薪金，谁知天娥得知俊升未有为她的离开而带来任何影响，失落离开，幸天雄遇上未有订位的卓玲，他为卓玲也钟情同款卡通而兴奋，遂邀她一起用膳。  用恭和羡如誓要替嘉汶找出生母的身分，遂合力灌醉伟威，欲在他的夹万找到相关的线索，竟发现嘉汶极有可能是蕙娟的女儿。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1876</width>
+        <height>1076</height>
+        <durationinseconds>2652</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>14_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

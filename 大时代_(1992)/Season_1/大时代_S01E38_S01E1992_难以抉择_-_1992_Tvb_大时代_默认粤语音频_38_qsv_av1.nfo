@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>难以抉择</title>
+  <originaltitle>Episode 38</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>38</episode>
+  <id>2399211</id>
+  <uniqueid default="false" type="tmdb">1460726</uniqueid>
+  <uniqueid default="false" type="trakt">1435939</uniqueid>
+  <uniqueid default="true" type="tvdb">2399211</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>阮梅告诉纪文他们两个人都不是可以和别人分享同一个男人的女人，阮梅离开了，不知所踪。龙成邦为了让纪文回到展博的身边，告诉她纪文的母亲是被他亲手杀死的。龙纪文伤心离去。慧玲出殡，阮梅送来了花圈，人却没有出现。而香港三大富翁郭英中，韦家诚，贺新亲来拜祭。展博开了公司，陈滔滔来应征，陈滔滔这时才知道当日和他一起追击五蟹公司的正是展博。 叶天临终，展博赶去看他最后一面。展博告诉叶天自己在股票上赚了很多钱，他要储存弹药等机会对付丁家父子。叶天把自己多年在股票这一行的经验总结成股票必胜法，传授给展博。展博告诉龙纪文这十几年来他的亲人离开这个世界，他都来得及看他们最后一面。在一九八七年的股灾中，丁蟹父子获利超过十六亿，从此一帆风顺，平步青云。一九八九年，前华人会主席陈万贤，试图狙击五蟹集团，同年七月，陈万贤再因涉及一九七三年多项严重贪污罪，再度被判入狱四年。收购行动自动失败，丁蟹五父子无端端从中获利二亿。时至一九九零年，方展博一心经营自己的事业，继续等待时机。展博从蛛丝马迹中发觉阮梅一直在台湾照顾周济生和龙成邦。展博找到阮梅教书的小学，找到了她。阮梅和纪文要展博在她们俩之间选择一个，展博不想纪文伤心，表明难以抉择，一个人回去香港。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1407</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.38_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="38" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 38 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1407</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.38_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

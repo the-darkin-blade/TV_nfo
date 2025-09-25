@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 4 集</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>老友狗狗</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195974</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>用恭和郭荣等踢球，带有腰患的用恭敌不过阿黄守的龙门，而被两人取笑，用恭对俊升连累他受伤而生气。亚萍到球场催促用恭等人为俊升搬家，村民对俊升竟有廿多岁的「儿子」感到惊讶，后来用恭协助「儿子」搬柜时，不慎压伤脚趾，才恍然村民口中的「儿子」，其实是一向不爱打扮的羡如，带弟从两人的对话，得悉羡如是早前令用恭卡在马桶的人，忍俊不禁。  蟑螂为患　吓坏父女  俊升和羡如执拾新居时，无意中发现大量蟑螂涌出，父女被吓坏，原来两人一向最害怕蟑螂，只好急召用恭到来消灭它们。羡如对用恭的表现十分不满，力斥他的工程未够完善，两人争执不停，使俊升感到苦恼。用恭答应为俊升彻底灭虫，又将父女两人安置在用发空置的租盘中，直至他把新居的其他问题统统修复为止，羡如惟有放弃暂时与他对峙。  用发被妻　怀疑偷情  美莲无意中发现用发和带弟态度亲昵，怀疑两人背着她偷情，向用发大兴问罪，终把事情闹大。用恭一心为用发开脱，反而令带弟更感尴尬，俊升劝用发说出真相，以免牵连更广。原来带弟的朋友租用了用发空置的租盘一晚，他一心私吞租金，才会隐瞒真相，美莲表面平静，谁知瞬间竟取出菜刀追斩用发，使众人大惊。用发走避之际，美莲的菜刀意外飞脱，伤及村内的风水树。
+
+村长要求用发夫妇负责，受伟威的影响，美莲乘机施压，迫用发顶证一切是用恭煽动他说谎所致，加上俊升的一番言论，畏妻的用发只好指摘用恭，使他大为气结。  天娥Woody　行为失常  天娥在会议上表现心不在焉，随后又把自己反锁在房间，躲在床底；Woody则在公司失禁，又乱咬档案捣乱，使应钧担心。天娥带Woody到羡如的诊所，诊治后羡如怀疑Woody的行为出现问题，遂转介它往见俊升。  天雄得悉天娥准备到长胜村见俊升，担心她会勾起被绑架的回忆，决定接载她前往。天雄甫下车，惊见藏有赎金的荒地竟变成俊升的狗场，遂到场搜集当日的记号，而意外结识用恭和用发。天娥则带同Woody接受俊升的治疗，俊升希望她能够为Woody洗澡，而加强主人和宠物之间的关系。患有洁癖的天娥从未为Woody洗澡，显得手忙脚乱，继而大为紧张，使俊升恍然Woody的问题所在。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2660</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>4_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

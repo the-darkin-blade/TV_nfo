@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 9 集</title>
+  <originaltitle>감염</originaltitle>
+  <showtitle>特殊案件专案组TEN</showtitle>
+  <season>2</season>
+  <episode>9</episode>
+  <id>4779545</id>
+  <uniqueid default="false" type="tmdb">1003491</uniqueid>
+  <uniqueid default="false" type="trakt">960264</uniqueid>
+  <uniqueid default="true" type="tvdb">4779545</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>치명적 신종 전염병, 최초 감염자 피살사건 발생! TEN 팀은 범인과 감염의 확산, 두 마리 토끼를 잡아야 하는 최대 임무를 맡게 되는데... 현장 증거가 가리키는 자 vs 살해 동기가 지목하는 자! 감염의 확산 경로 끝에 숨겨진 용의자를 찾아라!</plot>
+  <runtime>55</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>OCN</studio>
+  <studio>Studio Dragon</studio>
+  <dateadded>2025-09-15 20:28:51</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>480</height>
+        <durationinseconds>3312</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S02E09.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="2"/>
+  </episode_groups>
+</episodedetails>

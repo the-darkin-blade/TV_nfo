@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 19 集</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>法证先锋2</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>1318431</id>
+  <uniqueid default="false" type="tmdb">1830841</uniqueid>
+  <uniqueid default="false" type="trakt">1633156</uniqueid>
+  <uniqueid default="true" type="tvdb">1318431</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>琳见记者拍下她与英针锋相对的照片，更不满英。乐怕琳再被凶徒袭击，说出琳之目的。英相约看话剧，升答应，但遇玲不适，决定陪她到广州。升向英表白爱意，博见升跪地姿势，明白琳家地毯上印记如何造成，并得出真相。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1882</width>
+        <height>1080</height>
+        <durationinseconds>2672</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.Ii.E19.Hdtv.1080I.H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

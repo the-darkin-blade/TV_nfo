@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 9 集</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>老友狗狗</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195979</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>用恭做梦看到仙女下凡般的羡如，两人更亲吻起来；此时亚萍取笑用恭和羡如被劫的事，被记者报道为两人拍拖行山时遇劫，亚萍直言喜欢羡如的为人，用恭则大力否认两人合衬。
+
+用恭到医院探望羡如，因而破坏她擅自出院的大计，被羡如责难一顿，护士则着用恭好好照顾羡如。羡如一心出院是希望再次捉回那头母犬，担心它会再度怀孕而产下大堆流浪狗只，用恭不明她何以这么着紧，羡如只好道出她儿时的一次经历。  羡如故事　感动用恭  当年，羡如母亲离世，俊升被派往外地受训，将羡如留在一位亲戚家中寄住。一次，亲戚随意用钱打发羡如出外玩耍，在街上流连的她发现一头犬只，她有感犬只和自己一样没人理会，遂把手中的面包分给它一半，从此羡如每天和它结伴。后来，犬只生病，加上一场大雨，羡如被亲戚困在家中，无法照顾犬只，继而得悉它离世，羡如十分内疚，才决心长大后要当兽医。用恭听过羡如的故事后，感动不已，答应为她捉到该头母犬。
+
+天佑得悉Bingo因伤患需要提早退役，他将获派另一警犬后，天佑认为自己并未适合继续当领犬员，遂向上司申请调职。  鼓励嘉汶　寻找目标  天佑带Bingo到狗场，把申请调职的事通知俊升，并打算将Bingo留下来训练，他亦会努力训练自己重新当上领犬员。天佑往找嘉汶，并带来大量的课程介绍给她，希望她做一个有用的人；嘉汶认真的态度，令伟威大惑不解。
+
+天雄继续向用恭学习水电的技能，却因整天想着赎款的事而心不在焉，使用恭感到激气；后被伟畅的鹦鹉激励后，决定努力振作。  用恭借故　亲近羡如  用恭发现阿黄的异样，遂带它往见羡如，经她诊治后发现阿黄竟患上皮肤病，更被羡如薄责。用恭为讨好羡如，主动邀请她一起往挑选适合阿黄的用品，羡如欣然答应，用恭大喜。天佑被调到重案组，随即被安排到长胜村调查毒品案。
+
+从外地返港的马卓玲来到长胜村，巧遇用发，他善意为卓玲搬行李，并替她在村内找租盘，把美莲气坏，其后她却看在卓玲的大笔租金份上，把地下的单位租予她。
+
+天娥往找俊升商讨调查绑匪的下落，过程中天娥首次尝试让自己和Woody在草地上赤脚行走，把陪伴在侧的俊升弄得哭笑不得。用恭和羡如意外亲吻后，竟看到她犹如女神般出现在梦境之中。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>9_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

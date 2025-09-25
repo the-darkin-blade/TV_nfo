@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>蓄意作弄　来富顺受</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>1623581</id>
+  <uniqueid default="false" type="tmdb">1992293</uniqueid>
+  <uniqueid default="false" type="trakt">1576541</uniqueid>
+  <uniqueid default="true" type="tvdb">1623581</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>子维等人收警告信，众人认为来富就是内鬼。子维叫人把珠美带到天台，珠美以为子维对自己有意，岂料他要珠美喂来富吃安眠药，珠美只有服从。来富昏睡后上课迟到，但因来富没有供出谁是主谋，令子维对他另眼相看。珠美向来富道歉，更因此了解他惨痛的童年，两人友谊更进一步。正初决定变卖资产买入罪证，正初成功从高名处取回出千光碟，欲借台湾黑帮之手对付高名。可惜原来高名早已与他们冰释前嫌，更联手让正初入局。高名更落井下石说出罪证之事也是骗局，正初惊觉没有翻身余地，唯有与他们合作。高名欲安插人手出任赌场监控经理，但汉昌却直接委任欢畅担任此职，令正初大感烦恼。福荣安排来富与欢畅共同入住高级宿舍，珠美极羡慕却又怀疑欢畅对来富另有企图。珠美考试作弊失败，但子维等却顺利成功，可惜终被子鹏发现。欢畅与正初不约而同发现青云在赌场赌钱。欢畅劝青云离去，正初见青云因自己重投赌海，不禁心如刀割。青云为报复更在正初前说只有赌才令她高兴，但正初扮作无动于衷，令她失望不已。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1076</height>
+        <durationinseconds>2688</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep15.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

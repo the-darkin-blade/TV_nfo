@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>守得云开　恋情开始</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>1623551</id>
+  <uniqueid default="false" type="tmdb">1992289</uniqueid>
+  <uniqueid default="false" type="trakt">1576536</uniqueid>
+  <uniqueid default="true" type="tvdb">1623551</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>青云终于按捺不住对正初的爱慕，与正初发生关系。福荣见欢畅为青云的事十分着紧，拿二人开玩笑，但见正初与青云拖手出现时，始知青云的目标是正初。青云亲手制作石榴鸡带往赌场给正初品尝，青云偷偷走进正初的办公室准备给他一个惊喜。子维乔装进赌场被发现，汉昌始知儿子在自己赌场生事。正初与汉昌、子维回到办公室发现青云，子维讥笑他公私不分，令正初万分尴尬。汉昌要正初安排子维入荷官训练班，让他瞭解赌场运作。正初提出分手，青云接受不到突如其来的巨变，气愤离开。欢畅到酒吧取回遗下的电话，发觉小茵正等待他。小茵向欢畅道歉，欢畅才知正初才是主谋。欢畅往找正初算账，正初承认此事。欢畅气得要来富跟他离开，来富拒绝回港，欢畅有口难言只有自己离开。青云为要正初妒忌，竟与富商参加红酒拍卖会。琦见青云丑态尽现暗自偷笑，正初却自动请缨送青云离开。青云终面对现实，决定放弃回港。珠美选美失败后，回赌场时被同事戏弄，更无意中听到太子爷会入荷官训练班，她因此找来富帮忙让她也参加。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2672</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep12.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

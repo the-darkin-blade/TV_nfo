@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 24 集</title>
+  <originaltitle>第 24 集</originaltitle>
+  <showtitle>忽必烈传奇</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2821426</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>忽必烈和阿里不可发生争吵，他不同意阿里不哥修改政策，忽必烈罢去他安阳的职务，阿里不巴还是因为库撒儿的事情而生气，他生气离开邢州后回到自己的封地。贴尼和海云大师为阿里不哥送行，阿里不哥去意已决。郝经求忽必烈要回杭州为父亲守陵，临别前郝经留下忠告，还将他写的治国之文交到忽必烈手上。阿里不哥来到和林向贵由说起自己的看法，贵由知道忽必烈在邢州治理的很好。贵由计划在通往西方的道路上设立驿站，他派人找拨都说明情况。拨都坚决不答应贵由的提议，除非他答应自己三个要求……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1278</width>
+        <height>720</height>
+        <durationinseconds>2649</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Legend.Of.Kublai.Khan.Ep24.720P.Hdtv.X264.2Audio-Hdwtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

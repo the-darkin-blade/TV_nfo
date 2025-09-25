@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:17:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>云龙雕毒发作</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>翻生武林</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1993660</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>云龙安排隐世英雄和五大派卖艺，赚个盆满钵满，各人开心给他回佣。云龙向我飞献上金银珠宝，以索取解药，我飞欲教训他却力不从心。云龙告诉在心我飞无法运功，求她一同练习真经第十式，杀他一个措手不及。在心依然恨云龙与冰冰关系暧昧，云龙不敢明言身中雕毒。孔杂身穿龙袍被云龙发现，追问他如何得到龙袍。艾雪告知云龙冰冰要离开京城。云龙和在心向冰冰送行；云龙毒发，冰冰提议用寒冰掌救云龙，但他宁愿变成大雕守护在心……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2618</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Birth.Of.A.Hero.Complete.Hdtv.1080I.H264-Chdhktv.Ep18_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

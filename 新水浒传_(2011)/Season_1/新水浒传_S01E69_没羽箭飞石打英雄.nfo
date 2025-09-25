@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>没羽箭飞石打英雄</title>
+  <originaltitle>没羽箭飞石打英雄</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>69</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026686</uniqueid>
+  <uniqueid default="false" type="trakt">7308172</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>东昌府张清使得飞石伤人，连伤梁山几员大将，一时之间寨中伤兵骤增，卢俊义无奈之下只得向宋江求援，宋江着手下猛将与张清对战，却也连连败下阵来，为破张清石子，宋江也大费脑筋。张清年少轻狂，好大喜功，早已不将太守刘恒放在眼中，张清不顾劝阻，莽撞劫持梁山粮车，孤军深入，不想却被阮氏三兄弟拉入水中，动弹不得，押回梁山，宋江见张清气焰嚣张，不愿归降梁山，便于其故纵，放走了张清以离间其和太守。刘恒见张清毫发无损的回来，便怀疑他暗中勾结梁山，燕青使计赠张清红袍，更让太守确认了自己的猜测，彻底瓦解了张清和太守的关系，张清无奈之下被逼上梁山。宋江为煞张清傲气故意冷漠待之，张清心灰意冷，此时太守与童贯欲将张清家眷扣留拘押，宋江即使截获消息使卢俊义救下了张清的家眷，张清对宋江心服口服，彻底归顺梁山。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2675</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E69 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="69" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

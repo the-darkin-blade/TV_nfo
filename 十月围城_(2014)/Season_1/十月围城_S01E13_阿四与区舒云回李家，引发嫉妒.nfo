@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿四与区舒云回李家，引发嫉妒</title>
+  <originaltitle>阿四与区舒云回李家，引发嫉妒</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>4938191</id>
+  <uniqueid default="false" type="tmdb">2728554</uniqueid>
+  <uniqueid default="false" type="trakt">1306042</uniqueid>
+  <uniqueid default="true" type="tvdb">4938191</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>阿四和区舒云大张旗鼓回到李家，引起李重甲母子嫉妒，李重甲计上心头，准备借姐姐李念慈之手揭穿阿四假扮李重光的事实。区舒云和阿四成功搞定区巡抚，结下战斗友谊；但区舒云越来越觉得这个李公子不像自己在香港见过的李重光，好多事情都对不上。李念慈静默誓满，李重甲亲自到教堂接姐姐回家，说知这段时间李家巨变，特别强调重光弟弟很奇怪，宁愿叔父吃吹头官司也不愿献厂，要李念慈劝劝重光。李重甲知道重光真假绝瞒不过李念慈，而且即使要指出重光是假也不能由自己先跳出来，失去在李家的回旋余地。李念慈见完老太太，迫不及待要见重光，阿四心里打鼓。阿四一走，区舒云翻检他的东西，发现一只廉价荷包（阿纯亲手给阿四编织的），觉得眼熟。阿四和李念慈一见面就露馅了，李念慈对李重光太熟悉了。李念慈想起李重甲的话，心中害怕，可看得出阿四是个好人，跟老太太感情挺真。李念慈也心神不宁。李重甲来追问李念慈关于重光的问题，李念慈话留余地，李重甲让她再拿书本去试，她肯定有一百种办法能证明这个李重光是假。念慈问重甲何以如此着急，即使有假也是叔父的意思，定有苦衷。李重甲终于把底牌抖了出来，说重光很可能是革命党，很可能已经死了，叔父为掩盖弄了个假的－－这是抄家灭门的大罪，咱们大房不能跟着倒霉！李念慈如坠冰窟，比李重光之死更让她害怕的是李重甲的心机！李念慈思来想去，直接跟阿四摊牌，阿四绷不住说出真相。老丁证实阿四所说都是实话。密室中，李念慈看到李重光的遗像和遗物，失声痛哭……李重甲又要逼阿四签字，阿四拒绝，说区巡抚正在营救李玉堂。李重甲既疑惑又恼怒，李念慈左右安抚，要两个弟弟齐心一致，共度难关。李念慈的认可与保护令阿四感动，坚定了他留在李家救李玉堂的决心。夜半，李重甲用夏荷提供给他的钥匙，潜入密室，终于找到了李重光那口贴着牛津标识的箱子。李重甲拎起箱子要走，听见有人，急忙藏起。从窗户潜进来的人竟是区舒云。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2657</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep13_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

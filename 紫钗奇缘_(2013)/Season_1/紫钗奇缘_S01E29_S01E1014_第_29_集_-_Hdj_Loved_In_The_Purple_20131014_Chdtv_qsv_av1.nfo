@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 29 集</title>
+  <originaltitle>Episode 29</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486683</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>渤海郡联合了南诏及河西三方来犯大唐，上朝时卢杞进谏让汾阳王出使河西劝说。公主知道此事后特修书一封交给汾阳王并告之派了人在玉门关陪同前去。等在玉门关的正是纳兰东，纳兰东提出只带几人前去河西便可。汾阳王同意了纳兰东的意见。半夜淑宁偷偷要放出信鸽，被早有准备的纳兰东拿下。纳兰东将淑宁及密报交于汾阳王，淑宁竟然是南诏的细作。汾阳王将淑宁交于刘济拷问。　纳兰东陪伴汾阳王到河西会见河汗，不想正遇到南诏人正好拜见。河汗当场就表示会与大唐联合，拒绝了南诏使节并派人赶走。此翻再来河西纳兰东想起了小玉，但慈瑞是自己生母的小玉是自己的妹妹，这一切又让两不可能在一起，纳兰东有难过又谁能知道。汾阳王回来后在朝上李湛提出了弹劾杨炎对待莫玥一事，李湛刚要交出玉折却被杨炎拦下。但皇上还是将此事交于卢杞审查。卢杞审案时杨炎将一切事情推到楚王身上表示自己并不情。杜意浓在堂上又反口，杨炎毫发无损。宁国公主将纳兰东的书函将于小玉，没想到竟然是纳兰东的休书，小玉在看到休书的刹那心痛不已，直呼为何。伤心过度的小玉口吐鲜血倒地不起。倒在床上的小玉还想不明白纳兰东为何要如此对待自己。所有人为小玉心痛不已。心痛的何小玉一人，纳兰东的心中担心小玉却又受着折磨。莫玥回到家后发现家里多了一些孩子，鲍彩凤告诉莫玥自从她走后家里就买了一些孩子回来希望可以训练她们。莫征还要莫玥教导，被莫玥一口拒绝，莫玥不忍孩子重走自己的旧路。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1324</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep29.20131014.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20131014 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>1014</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1324</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep29.20131014.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1014" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>为求成功　令友枉死</title>
+  <originaltitle>Episode 34</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id>1623771</id>
+  <uniqueid default="false" type="tmdb">1992317</uniqueid>
+  <uniqueid default="false" type="trakt">1576585</uniqueid>
+  <uniqueid default="true" type="tvdb">1623771</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>正初安排琦骗说地主要求提早签约完成交易，欢畅觉事出突然需要考虑，子维则认为机不可失。小茵致电欢畅说福荣失踪多日，欢畅从闭路电视中得知来富是最后见福荣的人。来富骗过欢畅，正初亦骗说不知福荣在哪里。福荣突然清醒过来，向正初说希望他回头重新做人，正初向福荣道歉，福荣含笑而逝。正初痛心害死福荣，只能把他埋尸郊外。正初要来富阻止欢畅出席签约买地的交易。来富情急下打晕欢畅把他车到郊外。子维没有欢畅的消息，只好独自处理交易。国权与手下欲杀来富、欢畅灭口，兄弟跳崖逃走，大难不死，立即赶回奥力斯，可惜为时已晚，赌场落入正初与国权的手中。正初更反面不认人赶来富与欢畅离去，来富此刻才相信被正初利用，跪地痛哭认为自己害死福荣。汉昌病重，欢畅前往探望他，昌一面憧憬未来奥力斯的版图，一面含笑而逝。欢畅悲痛不已，子维亦因自己的过错感到后悔。来富承受不起自己所犯的错，像以往般终日只睡在床上，欢畅要他振作，自己决定以后的路要怎样走，来富终勇敢站起来。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1078</height>
+        <durationinseconds>2681</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep34.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

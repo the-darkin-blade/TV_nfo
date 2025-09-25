@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>区舒云与秦少白被抓，局势愈发紧张</title>
+  <originaltitle>区舒云与秦少白被抓，局势愈发紧张</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id>4938205</id>
+  <uniqueid default="false" type="tmdb">2728570</uniqueid>
+  <uniqueid default="false" type="trakt">1306408</uniqueid>
+  <uniqueid default="true" type="tvdb">4938205</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>秦少白乔装出现，令区舒云激动不已。秦少白称赞区舒云任务完成得很好，但起义最需要的并不是子弹，他另给区舒云派了一个假任务，目的是稳住区舒云，安心做总办夫人。 区舒云心情大畅，二人却没想到，一张大网已经张开了。秦少白很快意识到咖啡馆是被包围了。区舒云拉着秦少白逃进旁边的教堂，在李念慈的帮助下，秦少白引开了一拨密探，区舒云声东击西，自己走前门，让秦少白从后门离开，秦少白一出门，却被另一拨密探兜头抓走！指挥行动的铁山却大为光火，秦少白从自己眼皮底下逃脱了。原来另有其人抓走秦少白，是谁？区巡抚？！只能是区巡抚！区舒云被铁刚的人扣住，却眼睁睁看着秦少白被抓走。西装革履的阿四从车上下来，抬手给了铁山的人一个耳光，我和夫人约好了吃饭看戏，那里有什么秦少白？说完拉起区舒云就走。阿四气焰嚣张，底下人害怕，铁刚忽然来了，不吃阿四这一套，把阿四区舒云一起带走！铁山来到李家，亲见李玉堂，说李重光夫妇密会秦少白，现在三人都在自己手里，问李玉堂打算怎么办？李玉堂眼前一黑。区巡抚抓了秦少白，听说阿四和区舒云被铁刚带走，铁山去了李玉堂家，知道铁山肯定要使诈，两边都得救！区巡抚亲自赶到李家。李家，李玉堂被铁山逼得无路可走，区巡抚忽然来了，大夸李玉堂这回可给朝廷立了大功。铁山和李玉堂都懵了。区巡抚说革命党想渗透制造局，拉拢李玉堂，我们亲家二人就干脆设了个套，果然抓着了秦少白。区巡抚说秦少白已经被我下到大狱里了，铁大人如果还有什么不放心，就跟我一起来审啊。阿四和区舒云也被放回家，区舒云才知道秦少白是被自己的父亲抓走的。区舒云觉得是自己害了秦少白，求阿四帮忙，要救秦少白，阿四求区舒云不要再惹祸了，铁山和区巡抚都不可能放他。区舒云问阿四，如果阿纯遇到这样的事，你该怎么办？阿四一时热血上涌，要帮区舒云，可怎么帮？区舒云说你只要放了我就行。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2653</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep27_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

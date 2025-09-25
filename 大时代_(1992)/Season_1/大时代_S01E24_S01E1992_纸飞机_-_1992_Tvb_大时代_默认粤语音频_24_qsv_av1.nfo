@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>纸飞机</title>
+  <originaltitle>Episode 24</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id>2399071</id>
+  <uniqueid default="false" type="tmdb">1460711</uniqueid>
+  <uniqueid default="false" type="trakt">1435908</uniqueid>
+  <uniqueid default="true" type="tvdb">2399071</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>展博向龙纪文述说了内心的恐惧，他说每一次他们家出事都会有预感，而这次的预感更强烈。他一个人跑到楼下的小公园扔了一晚上的纸飞机，他想起了小时侯在英语比赛上拿冠军。阮梅默默的帮他捡起所有的纸飞机，叠整齐。丁蟹在拘留所回忆以前和慧玲的种种，越想越气，气世人对他恩将仇报。丁氏兄弟把何贱送回汕头，决定去整方家的人。他们去骚扰方家住的大厦，惹的邻居们都不满。 方家人走在街上都会被人打，泼油漆。展博他们穿上血衣到大街上去静坐抗议，说黑社会迫害他们，引来警察。丁蟹从电视上得知儿子的恶行，气得大骂是流氓行径。孝蟹告诉他这一切都是为了他着想，丁蟹不再反对。阮梅告诉展博她要回杭州，两人都述说往事，还唱起了红河谷。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1383</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.24_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 24 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1383</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.24_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

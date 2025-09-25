@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:09:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>Kenny使计迫逸泰杀人</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>飞虎之潜行极战</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>6639143</id>
+  <uniqueid default="false" type="tmdb">1484798</uniqueid>
+  <uniqueid default="false" type="trakt">2996125</uniqueid>
+  <uniqueid default="true" type="tvdb">6639143</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>高家俊在拘捕可乐的行动中搜到新型毒品，推测杀卧底案涉及第三方势力。Kenny透过林梓尧传话，威逼利诱高逸泰在警方当卧底，高逸泰为了保密杀林梓尧灭口。高家朗根据书中暗藏的代码翻查报纸，发现是跟联运有关的新闻。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shaw Brothers</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2629</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Flying.Tiger.2018.E04.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

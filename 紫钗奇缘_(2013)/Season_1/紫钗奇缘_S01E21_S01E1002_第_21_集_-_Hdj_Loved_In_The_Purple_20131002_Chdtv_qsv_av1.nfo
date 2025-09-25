@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 21 集</title>
+  <originaltitle>Episode 21</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486675</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>莫玥要嫁人，小玉也要陪嫁离去，鲍妈妈和慈瑞都要为两家的生计着想。慈瑞的心里不好过，气的慈瑞说小玉明知道前途茫茫，宁国公主又在帮她，也不想着和宁国公主去商量一下。慈瑞心疼小玉如果真的陪嫁而去那就是毁了小玉的一生。小玉过来向纳兰东道歉，小玉明白纳兰东对自己所做的一切及纳兰东对自己的心。纳兰东抱着小玉告诉人要她知道，她明白，这一切都值得。小玉哭着对纳兰东说可现在自己已经有了婚约。回到紫檀殿小玉放走了鹦鹉乐乐，小玉明白了身不由已的痛苦。小玉支走了浣纱与靖澜见面，小玉决定要出家为尼，也许只有这样才能避过和亲一事但这么做便再不能回头。但就在小玉要削发的那一刻韦博文前来制止并抓走小玉送入宫中。小玉在路上喊着让靖澜找纳兰东救自己。靖澜回到家求卢杞放过小玉，卢杞告诉靖澜这一切都是杨炎的主意让靖澜不要再管。杨炎当着宁国公主面告诉小玉陪嫁一事已经定下。小玉告诉杨炎自己宁死都不会呆在宫中，宁死也不会呆在宫中。小玉说完便要自杀被拦下。杨炎威胁小玉如果她敢不从就会把长安的花魁都迁往洛阳。宁国公主告诉小玉杨炎是怕河西可汗看不上自己才特意准备了一个陪嫁之人，劝小玉也不要太担心。杨炎将卢杞和靖澜叫到家中问靖澜是否和小玉关系很好，是否教唆小玉违抗皇命。杨炎要靖澜也一样陪嫁而去。小玉和靖澜都被封为公主陪同宁国公主一同前往河西。小玉为洛阳公主，靖澜为长安公主。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1334</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep21.20131002.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20131002 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>1002</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1334</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep21.20131002.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1002" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

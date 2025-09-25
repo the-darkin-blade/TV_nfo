@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>美贞与哲行一刀两断</title>
+  <originaltitle>Episode 27</originaltitle>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id>4967327</id>
+  <uniqueid default="false" type="tmdb">1984067</uniqueid>
+  <uniqueid default="false" type="trakt">1307194</uniqueid>
+  <uniqueid default="true" type="tvdb">4967327</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>刘淼及美贞利用闭路电视反监视哲行的秘密，终于揭穿了哲行及立勋的假面具，美贞更即时以电话告知哲行自己正在监视其行动。哲行终于知道美贞得知自己一切的行径，明白她从此不会再原谅自己后，不禁显得相当苦恼。
+
+另一方面，美贞及刘淼亦因接受不到哲行的所作所为便决定离家出走。离开哲行家后的美贞与刘淼，决定暂时在刘淼的男友家中寄居。美贞为了生活开支有保障，便要求哲行将弟弟公司的股份全部交出。
+
+哲行为了挽回美贞的感情，便即时聘请律师为身在狱中的弟弟翻案，并打算从此放弃律师的工作。
+
+哲行为了与昔日行径撇清关系，更向以铿请辞以图与过去所犯的罪孽划清界线，结果令以铿感到相当愤怒。
+
+大义灭亲　告发儿子
+
+立勋晋升为高级督察后，事业平步青云并且屡破大案，慧英对儿子突然飞黄腾达感觉不妥，于是暗中展开调查，更掌握了立勋和以铿与及警队高层勾结的证据。慧英不想亲手告发儿子，便带立勋到其父亲的墓前加以质问。
+
+虽然被母亲斥责，但立勋仍然坚持自己的选择，慧英闻言后终按捺不住自己的怒意，出手掌掴了立勋。翌日慧英到警局告发立勋罪行，却被上级驳回，并带慧英与立勋见面，终于了解到立勋的身分与立场。
+
+美贞拒绝　原谅哲行
+
+立勋为了早日完成任务，便经常与以铿见面倾谈以建立信任关系，以铿亦将哲行突然辞职一事告知立勋。立勋担心哲行离开后，将会失去指证以铿的重要证据，衡量得失后，立勋将哲行的弱点告诉以铿，除了争取以铿的信任外，也希望能破坏哲行欲从之前犯罪事件中脱身的计划。
+
+哲行的弟弟哲明因为得到律师的帮助，终成功上诉回复自由。哲明决定洗心革面重新做人，哲行亦借此事希望美贞能够原谅自己，但却遭美贞狠狠的拒绝。
+
+立勋说出　哲行恶行
+
+哲明眼见美贞因为自己的事而与哲行交恶，即出言为哲行辩白。美贞看见哲行为自己的努力与改变，心中不禁泛起原谅哲行，并跟随他一起离开香港到外国隐居的打算。
+
+但是立勋为了令哲行留在香港，便特地与美贞见面，并将当年刘焱死亡的真相告知美贞，美贞知道哲行的秘密后，便在机场与哲行一刀两断。
+
+哲行因被美贞的拒绝而大受打击，而当哲行打算独自离开香港时，却被景昌的手下强行掳走。哲行因担心歹徒会对美贞不利，只好服从歹徒的要求……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep27.20140819.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>忠奸人 Hdj Black Heart White Soul 20140819 2Audio Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>819</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep27.20140819.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="819" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

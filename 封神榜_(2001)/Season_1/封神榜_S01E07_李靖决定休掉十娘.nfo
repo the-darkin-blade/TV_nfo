@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李靖决定休掉十娘</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>4418923</id>
+  <uniqueid default="false" type="tmdb">2025520</uniqueid>
+  <uniqueid default="false" type="trakt">1484580</uniqueid>
+  <uniqueid default="true" type="tvdb">4418923</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李靖奉纣王命独力出征犬戎巨人，终于不敌，身受重伤，千钧一发之际，十娘突出现相救，结果，原来是九尾狐化身成十娘，令琵琶可在靖面前立功，而靖则空欢喜一场！靖战败而回，在邓九公多番落井下石之下，靖遭纣王严责一番，李家上下忧心忡忡，靖在众人压力之下宣布休妻殷十娘。
+
+另边厢，十娘不经不觉留在西岐已有两个多月时间，而哪吒在学问，法术方面亦大有进步，两母子感情更形稳固，当十娘正陶醉在与哪吒的亲子关系中时，突闻李靖战败而回，兼且身受重伤，顿感内疚及扰懮，决回朝歌，临别前托莲花将三锦囊转交哪吒，而哪吒众人亦不舍十娘之离去。
+
+十娘到达朝歌之陈塘关关前先遭四魔将阻止入关，又复遭靖妹多番留难，几经艰卒，得见金吒、木吒，两人本欲阻止十娘到李府，但是毕竟母子情深，十娘顺利到达李府，靖母恶言相向，十娘为求留在李家，甘愿接受家法、军法处置，琵琶亦露出本来面目，多番奚落十娘，靖亦对十娘不揪不采，令十娘难受，但十娘为了向靖提议除犬戎之策，惟有对琵琶忍气吞声。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1048</width>
+        <height>714</height>
+        <durationinseconds>1477</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>07_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

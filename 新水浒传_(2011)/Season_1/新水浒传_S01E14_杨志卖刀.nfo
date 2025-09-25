@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>杨志卖刀</title>
+  <originaltitle>杨志卖刀</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026630</uniqueid>
+  <uniqueid default="false" type="trakt">7308117</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>王伦让林冲下山拿投名状，他下山多日没遇到该杀之人，最终遇上了青面兽杨志，两人打的正起劲，王伦过来将其分开。王伦叫其两个上山，杨志不愿意留在梁山上，回到官府后，他虽免去罪责，但永不录用，他来到街市上卖刀，在市上的无赖牛二想低价要他的刀，他失手将其杀死，在从乡亲的陪同下他来到开封府，开封府梁太守给他安排个军职。经过校场比武，杨志的武功得以施展，他被梁太守安排去押运生辰纲，杨志知道后有点儿不太情愿。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2647</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E14 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

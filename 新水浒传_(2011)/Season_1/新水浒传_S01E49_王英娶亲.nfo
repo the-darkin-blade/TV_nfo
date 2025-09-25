@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>王英娶亲</title>
+  <originaltitle>王英娶亲</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>49</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026666</uniqueid>
+  <uniqueid default="false" type="trakt">7308152</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宋江做主把扈三娘许配给王英，让他们回扈家庄完婚。这两人，一个是梁山好汉，一个是庄院小姐，暗里使劲争当一家之主。先是庄丁不相信小姐会嫁给这个丑八怪，不让王英进小姐的门，进了门又被称作“庄主相公”。称谓上就低了一头，王英不服，但扈三娘说不是相公不拜堂，王英赶紧服了软。扈三娘让庄里主事向王英禀报前番打仗的受损情况，要求补偿。补偿可是一大笔钱，王英拿不出来，扈三娘出面“帮”他解决了。王英准备在新婚之夜把扈三娘灌醉，痛打一顿，为新家立个规矩。可扈三娘的酒量极大，反把王英喝得晕乎乎的。扈三娘请出棍棒家法，让王英彻底服气。捕头雷横外出公干回到郓城，好事的李小二向他描述了一个新来的绝色勾栏女子白秀英。雷横专程去看表演，可连一文钱都没带，交不上利市钱。白秀英的父亲白玉乔死活不依，还开口辱骂，被雷横打得唇绽齿落。白秀英见父亲被人打，便向旧时相好、郓城知县告了一状，提出要让雷横在勾栏门前示众三日，知县竟然准了。勾栏门前，雷横戴着枷锁，被白秀英百般羞辱，但他忍了。雷横母亲赶来，与白秀英对骂起来，白秀英一把将她推倒在地。雷横忍无可忍，一把劈开枷锁，照着白秀英的头上拍了下去，白秀英当场身亡。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2670</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E49 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="49" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

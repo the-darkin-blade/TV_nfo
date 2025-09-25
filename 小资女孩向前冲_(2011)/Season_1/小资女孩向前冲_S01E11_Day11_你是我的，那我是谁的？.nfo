@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>Day11 你是我的，那我是谁的？</title>
+  <originaltitle>Day11 你是我的，那我是谁的？</originaltitle>
+  <showtitle>小资女孩向前冲</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>4202999</id>
+  <uniqueid default="false" type="tmdb">1569629</uniqueid>
+  <uniqueid default="false" type="trakt">1658678</uniqueid>
+  <uniqueid default="true" type="tvdb">4202999</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>秦子奇经过余乘风的启发，终于认清自己的感情，他意识到自己是真的喜欢沈杏仁。他回到沈杏仁家里，杏仁见他头部受伤，细心的拿出医药箱帮子奇擦药，最后子奇终于忍不住偷亲了杏仁脸颊。杏仁先是呆住，忽然醒悟猛的打了子奇一耳光，大声责问他为什么要偷亲自己，子奇辩解他不是故意的而是情不自禁。杏仁赶走了子奇，子奇回到家里仍然处在兴奋状态中，大声高唱爱情歌曲。杏仁也处在矛盾的心情中，想起子奇为她做的一切她感觉十分感动，可是想到了郑凯儿，杏仁却又犹豫了起来。　　一大早子奇出现在杏仁家里要求和杏仁一起去上班，乐乐见到子奇十分不爽，乐乐责怪子奇占便宜，拉着杏仁离开家里去上班。史特龙经过上次的事情，对乐乐暗恋在心，部门职员看出他对乐乐的事情念念不忘，到史特龙面前请假为乐乐庆祝生日，史特龙听说乐乐生日，急忙找子奇商议。子奇根据史经理的症状判断出他正在暗恋着谁，问起来的时候史经理却不肯说。史经理却根据子奇的样子也看出他在暗恋杏仁。史经理中午吃饭的时候看见杏仁和乐乐，问起乐乐的情况子奇忽然意识到史经理暗恋的人就是乐乐，两人顿时成了难兄难弟。郑凯儿找子奇聊天，子奇说出同事们好像在误会他们的关系，凯儿见子奇这样说，只好掩饰说把他当做好朋友。下班的时候子奇和史经理等在公司门口，见到乐乐出来，史经理急忙上前搭讪，奇热剧网原创剧情，乐乐却拒绝史经理的邀请，并且说出要和麦克一起去看电影。杏仁出来，子奇急忙上前要求一起搭车回家，剩下史经理一人在那呼天抢地。史经理和乐乐同乘电梯，因为电梯故障两人被关在里面。史经理及时用手里的微型投影机为乐乐放映电影，乐乐因为害怕把头靠在史经理肩膀上，谁知史经理在关键时刻放屁，乐乐大骂史经理毒害她。子奇到杏仁家里要求搭伙，杏仁拗不过子奇只好答应他。子奇拿出做好了的粉红娃娃屋送给杏仁，杏仁才知道这些天子奇说忙手工就是在做这个东西。杏仁很感动，子奇答应杏仁将来会用真的房子来换这个娃娃屋。子奇憋了半天说了很多却没有说出喜欢杏仁的话，杏仁想到郑凯儿和子奇的关系，只好假装听不懂。子奇正要说出来，杏仁妈妈来电话说在楼下，杏仁起身去接妈妈。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TTV Main Channel</studio>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2720</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj Office Girls Ep11 Hdtv 1080I H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

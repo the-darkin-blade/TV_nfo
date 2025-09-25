@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第29集 霍骁胁薇薇履行婚约</title>
+  <originaltitle>第29集 霍骁胁薇薇履行婚约</originaltitle>
+  <showtitle>放弃我，抓紧我</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id>5894031</id>
+  <uniqueid default="false" type="tmdb">1250015</uniqueid>
+  <uniqueid default="false" type="trakt">2445093</uniqueid>
+  <uniqueid default="true" type="tvdb">5894031</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>新潮流设计大赛三连冠获得者著名设计师伊文思因被老东家炒了鱿鱼罹患忧郁症自杀未遂，珍妮从网上看到这一消息不可置信地大叫起来，面对伊文思的遭遇玲珑各设计师感慨良多，苏菲最后总结性发言说不过这得像厉总这种级别的设计师该担心的，那种从云端坠落的感觉不是每个人承受得了的。老万说厉总曾对他说过自己的设计生涯结束的那一天，就是她进太平间的那一天，说者无心听者有意，霍骁路过设计室听到老万的一番话若有所思。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2754</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>J2.Stay.With.Me.Ep29.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

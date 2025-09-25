@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>雅媛误取国宝玉玺</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>初五启市录</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3225409</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>振邦携宇到花地码头亲察环境，认为该处货运流量较少，是适合出口清陵国宝的理想地点，丝毫没察觉一举一动已遭到另一组织的监视。
+
+时至民国，但仍有一班以炳财为首对清政府忠心不二的清朝遗臣，希望光复大清皇朝。大英和小英暗地里打听到清陵陪葬品将会被运送出国，当中更有干隆的玉玺，炳财便命大英和小英混入花地码头，以便掌握更确实的情报，和静待机会夺回干隆玉玺。
+
+大英和小英乔装为贩卖臭豆腐及凉茶的小贩，在花地码头摆卖，瞬即受到永昌盛一众伙记欢迎。正巧同一天，振邦率领部队，正式到花地码头打招呼，才知道飞已经接手花地的货运，而飞亦保证定必安全托管货物。宝宝履行承诺，把洋酒的货运转到花地码头上落，故与百年前往花地检查洋酒情况。
+
+宝宝的手帕被大风吹至树上，振邦顺利替她拿下来以示好感，不过当知道宝宝是百年妻子，自讨没趣，转而指挥部下把军需品下货至码头。
+
+成功混入　花地码头
+
+大英和小英见藏有清朝国宝的军需品已送抵花地，便主动博取飞信任。飞同情二人，加上对二人的外表有好感，答应让她们留在永昌盛负责记录货物数量的工作。连礼和亦赞赏飞有同情心，只有芬感到不是味儿。
+
+永昌盛接下宝宝提供的洋酒客运工作，众伙记在搬运时不小心弄跌其中一箱，才知道洋酒属高级品，每支均以精美的锦盒独立包装。众伙记认为飞跟宝宝攀谈时状甚熟络，飞推说只因擅长与女性打交道，惹得宝宝暗里不悦。
+
+等待时机　偷走国宝
+
+礼和及永昌盛成员均不知道军方要运送的军需品内有干坤，只当作一般日常用品看待，搬运时并没特别注意货箱外的标记及上下方向。宇见状甚为着紧，再三提醒众人小心处理，又派部队留守在花地码头看守仓库。
+
+到了晚上，礼和独自留在仓库点算货物，确认无误后，受百年所托，把其中一支高级洋酒带走。期间，礼和感到仓库有异动，便四周检查，但并无发现可疑之处。其实大英和小英已避开军队，成功潜入货仓，待礼和离去后，顺利在仓库中找到干隆玉玺，再换回便服，踏单车逃脱。
+
+她们没想到军队设置了路检，连礼和也被截停查问，为怕身上宝物被搜，情急智生下，只好把装有干隆玉玺的锦盒藏在礼和的车中。军队认得礼和并非可疑人物，让他顺利通过，大小英亦通过检查，再靠急智取回锦盒回到大本营……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>960</width>
+        <height>544</height>
+        <durationinseconds>2655</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>The.Day.Of.Days.Ep10_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

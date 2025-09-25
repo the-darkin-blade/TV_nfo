@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第26集 蒂凡尼希望趁虚而入</title>
+  <originaltitle>第26集 蒂凡尼希望趁虚而入</originaltitle>
+  <showtitle>放弃我，抓紧我</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id>5894028</id>
+  <uniqueid default="false" type="tmdb">1250012</uniqueid>
+  <uniqueid default="false" type="trakt">2445081</uniqueid>
+  <uniqueid default="true" type="tvdb">5894028</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>回国后的厉薇薇想像霍骁解释，霍骁却先她一步想好了台词，说她只是出去放松一下嘛，现在回来了可得全情投入工作了，国际巨星方雅伦的婚纱设计交给他们公司，那姑奶奶可是催得他头疼，急需薇薇救场。莫凡看到从巴黎回来的陈亦度依然是一副闷闷不乐的样子，劝他还是想开些，连自己都已经收到了霍家的结婚请柬，既然木已成舟还得拿得起放得下。薇薇带着婚纱样衣去让方雅伦试穿，方雅伦极尽挑衅之能事，骂玲珑的最高水准的设计简直是俗出了境界，丑到无朋友，根本无法衬托出她堂堂国际巨星的气质。方雅伦的助理同时约了陈亦度为她进行婚纱设计，陈亦度和厉薇薇不可避免地又开始同台竞技，陈亦度告诉薇薇她的结婚请柬收到了，因为最近要去瑞士出差，所以会派曹钟去送贺礼，还有这个订单他绝不会手软，不会因为她要结婚了而故意放水。霍骁找到陈亦度让他不要再阴魂不散缠着薇薇，陈亦度表示他们已经分手，而抓不住薇薇的心明明就是霍骁自己没有本事。莫凡以陈亦度大哥的身份找蒂凡尼谈心，他表示在他看来蒂凡尼不仅是陈亦度工作上的好帮手，也是他贤内助的最好人选，蒂凡尼烦恼地说可惜阿度并不喜欢自己。莫凡称阿度生意场上是把好手，但感情上却是一根筋，现在霍骁和厉薇薇结婚已是板上钉钉的事了，他希望蒂凡尼可以帮助陈亦度，抓住眼下这个感情投资的大好机会。方雅伦的婚纱设计稿已经修改了五遍，厉薇薇一针见血地指出她发现方雅伦根本就是在鸡蛋里挑骨头，说白了就是她根本不想结婚。果然方雅伦对之后度婚纱送来的设计稿也是横挑鼻子竖挑眼，倒是蒂凡尼抓住机会趁机宣布自己已经是陈亦度的女友了，陈亦度不想让她下不了台也没把话说绝，蒂凡尼就开始怡然自得。下了班陈亦度来到以前和厉薇薇约会常去的小店吃蛋包饭，蒂凡尼不请自到，厉薇薇在角落看着眼前的一切心情郁闷，拉着霍骁陪自己去撸串喝酒解闷，她问霍骁之前自己爱的就是他吗？虽然她记不得那人的名字和样子，但她依然记得那人的气息和温度，她好恨自己的失忆，想记住的偏偏忘了，想忘记的却偏偏忘不了。蒂凡尼借着陈亦度喝醉酒送他回家的机会，制造了他们已经住在一起的假象，看着薇薇伤心地离开，陈亦度质问蒂凡尼的目的所在，蒂凡尼得意地称这是对他们四人都有好处的安排。厉薇薇看出方雅伦爱的不是她的未婚夫，而是她身边的小助理，所以不管她怎么设计婚纱方雅伦都不会满意的，她果断地提出这笔订单玲珑不做了。蒂凡尼得到玲珑出局的消息还以为是自己和陈亦度秀恩爱起了作用。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2693</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>J2.Stay.With.Me.Ep26.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

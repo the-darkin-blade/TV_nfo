@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>事情败露　承认杀夫</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>4155084</id>
+  <uniqueid default="false" type="tmdb">1828885</uniqueid>
+  <uniqueid default="false" type="trakt">1489396</uniqueid>
+  <uniqueid default="true" type="tvdb">4155084</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>彦博发现小柔身上沾有与兴中口中同样的名贵羊毛，小柔细想之下，疑是由司机邦身上沾来的，所以通知卓坚往兴中家向邦查问，怎料邦竟连忙向湄致歉，湄心知事情败露，无法隐瞒，于是向卓坚等人供出兴中死亡的真相……
+
+事情得到解决，?小刚决定陪同兴隆往外地旅行，小柔却在这时病倒，幸而小柔曾在电话中向身在中山的高通提及自生病，所以高通便致电彦博，?他对小柔加以照料，小柔见彦博对自己细心照料，心中感到甜丝丝。
+
+淑媛因为不想一人度过与前夫的结婚纪念日，所以找彦博相伴用膳，令彦博误会她对自己有意，令淑媛啼笑皆非；可是小柔亦目睹二人一起，心中不禁产生酸溜溜的感觉……
+
+小柔在遇上淑媛，得知一切也是一场误会，心里释疑，更主动约会彦博；彦博在酒吧等待小柔时，遇上卓浩企图用迷药迷晕少女，加以阻止，怎料卓浩另有同伴，暗地里在彦博的饮品中落药，不知袖里的彦博误服软性毒品，见到小柔时竟误以为她是泽瑶，更与她在街上拥吻……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1322</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E17.20190405.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Forensic Heroes 20190405 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>405</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1322</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E17.20190405.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="405" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

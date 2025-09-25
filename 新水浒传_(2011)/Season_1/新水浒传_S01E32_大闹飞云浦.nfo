@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>大闹飞云浦</title>
+  <originaltitle>大闹飞云浦</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026649</uniqueid>
+  <uniqueid default="false" type="trakt">7308135</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>张都监在酒席上把玉兰许配给武松，武松虽然再三推脱，但是张都监执意要成全这门婚事。不料之后张都监却设计陷害武松。武松被打入死牢。施恩得知此事后万分着急，并得知蒋门神没有离开孟州，还住在张团练家，而张团练和张都监是结义兄弟，所以此事定是他们设计谋害武松的。于是施恩赶忙找到牢里的康节级。康节级料定施恩为武松之事而来，并帮施恩引见了叶孔目。玉兰被武松的侠义所吸引，想帮武松脱离困境，但被张都监囚禁起来。施恩到牢里看了武松，并上下打点，告诉武松自己已经安排妥当，应该不会有大事。而叶孔目为了替武松伸张正义，量刑较轻，知府也害怕引起更多麻烦，没有做过多责问。武松被刺配恩州牢城。可张都监那边却不善罢甘休，蒋门神又重新抢回了酒店，并且要一起设计谋害武松，誓要武松的性命。施恩送武松前往恩州大牢，并多多嘱咐武松路上小心。在路途中，武松和押解遇到两个带刀者与他们同行。一行人来到飞云浦的时候，几人准备对武松痛下杀手。武松把他们三下五除二的解决掉，并从他们口中得知是蒋门神和张都监派他们过来的。而蒋门神和张都监，张团练正在鸳鸯楼喝酒，兴高采烈地等待着杀手们将武松的人头献到面前。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2673</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E32 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>福星高照　候补入围</title>
+  <originaltitle>Episode 27</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id>1623701</id>
+  <uniqueid default="false" type="tmdb">1992305</uniqueid>
+  <uniqueid default="false" type="trakt">1576568</uniqueid>
+  <uniqueid default="true" type="tvdb">1623701</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>当裁判宣布赛果时，第二名出线的参赛者心脏病发不能继续比赛，欢畅后补出线。国权、来富等替正初庆祝时，福荣说出不满报章提及正初是打劫主谋，正初不以为然，更向来富表示，要比不择手段的人更不择手段才能成功。小茵交子维一光碟，子维不明所以，小茵说出此碟能帮得上大家，子维欣然接受。青云送欢畅出门时，欢畅明言希望靠自己的信心去比赛，青云全力支持，欢畅终克服紧张心情，与正初同时以首两名出线八强。青云等替欢畅高兴，正初却感心烦意乱，最后靠药物控制情绪。正初问来富会站在那一方，来富肯定地表示支持正初，令正初感安慰。比赛前夕，汉昌让正初看永忠的光碟，正初明白到小茵已收买了永忠，汉昌亦明言不会再信任正初。国权眼见与汉昌之合作告吹，大怒下将福荣与来富赶走。来富发现正初失落非常，正初坦言已失去所有，所以必定要胜出大赛，才有翻身之希望。正初与欢畅对赛之时，却收到来富因并发症入院之消息，正初知是来富暗中帮助，冷静回座比赛，但欢畅却心急欲赶往医院，幸得青云阻止。正初知欢畅心乱，乘机令欢畅输去大量筹码。另一对手黑木宁明白正初难对付，刻意助欢畅出线，正初大败大受打击，而欢畅亦得知来富以性命助正初之事。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1078</height>
+        <durationinseconds>2689</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep27.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

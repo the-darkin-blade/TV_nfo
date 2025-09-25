@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:17:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>在心得悉我飞杀害父母</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>翻生武林</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1993655</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在心潜入不群书房，发现一块仙姑坐莲刺青人皮，便追问不群；不群指我飞当年屠杀燕南村，包括她的父母在内，而我飞害怕被人知道他肩上的刺青，便找师父割了这块刺青人皮。不群教在心利用金龙之子向我飞复仇，我飞生疑没有服用金龙之子。不群揭穿是我飞教云龙和在心学真经武功来对付他，他为保云龙两姊弟和在心，在树林设下陷阱刺杀我飞。云龙劝在心离开东厂，与他实现梦想，在心感动。艾雪连日来未见过冰冰，大家才醒觉冰冰失踪……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2617</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Birth.Of.A.Hero.Complete.Hdtv.1080I.H264-Chdhktv.Ep13_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

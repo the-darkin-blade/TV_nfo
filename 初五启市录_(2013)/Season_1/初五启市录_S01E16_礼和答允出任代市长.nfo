@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>礼和答允出任代市长</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>初五启市录</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3225415</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>礼和原来是广州市长继尧的次子世杰，刚与父亲相认，便被告之要继承广州市长之职，令他无所适从。继尧要礼和先任代市长适应政务。
+
+虽然礼和身分突变，但唐家仍然未走出困境。雅文继续代理雅媛职务，向礼和倾诉自己力有不逮。于是礼和决定不接受代市长一职，要与唐家共同进退。飞一家都惊讶礼和有此决定，但见礼和主意已决，也不便再加意见。
+
+拜托苏飞　说服礼和
+
+然而政权因继尧抱病仍然空置，急需有人代理市长职务，美玲记得飞乃礼和深交好友，便拜托他说服礼和。飞想到礼和因对唐家的情况有所牵挂而无法干脆地接任，于是以此入手，向礼和分析情况，假如礼和能接任广州代市长的职位，藉着市长威信，唐家的逃税风波定能平息，若想救回唐家和雅媛，目前只有这个方法。
+
+飞所言果然属实，礼和决定成为广州代市长后，唐家逃税一事便只被判罚款便了事。雅媛被释放，回到唐家大宅当天，正好是礼和要搬离唐家，迁往市长府邸的日子。礼和整理好行李随时能搬走，最后只余下一直饲养的小龟，想物归原主交回给雅媛。原来小龟是儿时雅媛两姐妹的宠物，礼和代为照顾。雅媛已忘记儿时种种小事，但知道礼和疼爱这小龟，要他继续饲养。
+
+礼和就任　解决悬案
+
+礼和正式就任代理市长，入主广州市政府。首次出席政务会议，礼和便遇到了棘手问题。广州市需建设第三条大桥，以疏通南北两边的人流，关于大桥的选址仍未有定案，牵涉到居民的人数及赔偿等细节，无法在短时间内下结论。兴建大桥一事不易解决，振邦在旁暗里打算，待礼和无法处理时，便出面收拾，以证代市长能力不足。
+
+礼和到医院探望继尧时稍为提到建桥一事，无奈继尧精神不继，只提供了很含糊的提示，要他记住用威严示人。礼和明白建桥的决策对市民有莫大影响，决心做好就任代市长后第一份工作，连夜翻查使用广州大桥的人流记录等资料。
+
+礼和出言　驳斥振邦
+
+在行政会议中，礼和流利地讲述广州两条现有大桥的人流量，以及沿珠江河岸的船次等资料，以具体的数字引证广州市民并不需要兴建第三道大桥。众官员都被确实的数字说服，只有振邦一人反对，因已从德国收到建桥的设计，工程刻不容缓。礼和记得继尧提到的威严，在会议上首次以父亲的口头禅驳斥振邦，成功建立威信，解决了建桥的悬案……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>960</width>
+        <height>544</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>The.Day.Of.Days.Ep16_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李靖为琵琶掌掴十娘</title>
+  <originaltitle>Episode 30</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id>4418956</id>
+  <uniqueid default="false" type="tmdb">2025550</uniqueid>
+  <uniqueid default="false" type="trakt">1484703</uniqueid>
+  <uniqueid default="true" type="tvdb">4418956</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>天香坚持要亲到黑风山采灵芝，李靖、金吒、木吒决定相陪，惟琵琶不想李靖顺利采得灵芝，因此故意将李靖留在身边、李靖惟有用飞鸽传书求十娘相助，十娘一见信柬，即借用哪吒风火轮赶到黑风山，终在十娘相助之下将「绿面猿猴」征服，如愿取得灵芝，不过，十娘却被妖猴抓伤，天香对十娘舍命相助，心存感激琵琶被逼服下灵芝，李家上下高兴不已，但无意中却给琵琶知道此次全赖十娘出手，不禁心中大怒，向李靖大兴问罪之师，琵琶为凌辱十娘一番，不惜要霓裳冒李靖约十娘到陈塘关相见，十娘果然欣然赴约，琵琶卒在众目睽睽下掌掴十娘，更要李靖出手，李靖内心极为难受而十娘亦心痛不已！
+
+哪吒大军继续按兵不动，令纣王、妲己倍加放心，而皇后、凝香却偷出皇宫，亲身拜会比干，求比干重返朝廷，惟比干心已死，比干妻亦不欲夫君伴君如伴虎，故推却皇后要求。谁知皇后、凝香宁长跪比干门前，比干不答允决不罢休，更出手杀比干仙鹤、碎比干玉琴向比干晓以大义，令比干不禁为之动容，终被皇后说服，重披朝服！</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1048</width>
+        <height>720</height>
+        <durationinseconds>1440</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>30_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

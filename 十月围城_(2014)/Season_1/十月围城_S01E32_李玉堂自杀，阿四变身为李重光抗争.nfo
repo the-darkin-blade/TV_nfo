@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李玉堂自杀，阿四变身为李重光抗争</title>
+  <originaltitle>李玉堂自杀，阿四变身为李重光抗争</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id>4938210</id>
+  <uniqueid default="false" type="tmdb">2728575</uniqueid>
+  <uniqueid default="false" type="trakt">1306507</uniqueid>
+  <uniqueid default="true" type="tvdb">4938210</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李玉堂倒在了阿四怀中，做最后的嘱托：你是爹的亲儿子，照顾好奶奶，要把爹想做的事情做完！休息室内，区巡抚终于得到牢头被杀的密报。会场，铁山等着抓人。一时间众商人群情激愤，指责铁山以官欺商。阿四慷慨激昂为父辩解，你铁山欲加之罪何患无辞－－这一刻如灵魂附体，阿四真的变成了李重光！区舒云目睹阿四与铁山对质，完全被震撼，她跟阿四一起，带着众商人与铁山抗争！区巡抚突然出现，指责铁山妨害新政，激起民变，眼见两厢就要火并！总督赶紧两边安抚，下令就地看管李重光，自己具情上奏，等着朝廷旨意。阿四叩头谢过各位商绅，被官兵带走。李玉堂自杀，李重光前途未卜，老太太却没有倒下，她要重甲去争，去救重光！李重甲说可这回已经捅到天上了，不由着咱们。老太太扔出大把银票，那就去天上办，也得给我救出重光！李老太太叫众人退下，自已独自面对李玉堂尸体，痛苦起来。区舒云在这时来了，为李玉堂披麻戴孝，安慰老太太，承认自己为了就秦少白连累了李家，与老太太抱头痛哭。铁山与铁刚准备贿赂摄政王，与总督与区巡抚做殊死一搏。同时区巡抚与总督也为把李玉堂之死上报朝廷做充足的准备。摄政王的钦差富大人带着朝廷圣旨驾到，总督、铁山、区巡抚迎接。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2657</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep32_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

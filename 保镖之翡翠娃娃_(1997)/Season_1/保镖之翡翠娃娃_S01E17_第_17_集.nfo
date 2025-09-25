@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 17 集</title>
+  <originaltitle>第 17 集</originaltitle>
+  <showtitle>保镖之翡翠娃娃</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3169332</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>郭旭和采玉猜出惜珠想藉调虎离山杀楚楚；泰北亲到镖局为采玉被胁持的事向郭旭道歉，被看穿真正用心。邓忍在胭脂酒坊向胭脂倾吐心事并喝醉，后被带回邓府；酒醒后，泰北向邓忍谎称因为翡翠娃娃，邓家有被诛九族危机。</plot>
+  <runtime>42</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>ATV</studio>
+  <studio>gotv</studio>
+  <studio>ATV Enterprises Limited</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1038</width>
+        <height>716</height>
+        <durationinseconds>2542</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>保镖之翡翠娃娃.17_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

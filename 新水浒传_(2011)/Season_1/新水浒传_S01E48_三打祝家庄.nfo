@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>三打祝家庄</title>
+  <originaltitle>三打祝家庄</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>48</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026665</uniqueid>
+  <uniqueid default="false" type="trakt">7308151</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>祝彪对感到一些事情很是蹊跷，先是祝二只带回州衙口信，后是孙立的无故到来，还有宋江营寨后撤，都有些莫名其妙。他多次提醒父亲，可宋太公对这些都深信不疑，只能私下进行查访探究。他派出得力手下牢牢监视孙立一行人的举动，又提审抓获的几个俘虏，还对祝二故意使诈，都不得要领。加上宋江先后几次派兵袭扰，虽然都被打败，也牵扯了不少精力，无暇顾及这些事了。宋江这边只等时机成熟，一举攻下祝家庄，可是李逵总是按捺不住急性，要打先锋，独闯祝家庄，被宋江绑了起来。宋江再次派石秀领兵前来袭扰，孙立假意建功心切，拿下石秀。祝家庄总共俘虏了梁山七人，祝太公十分兴奋，对孙立放下了戒备之心。乐和扮着知府公使，进入牢房与那七人会面，巧妙地传递了一起发难的信息。祝彪谨慎小心，把七人转移至一个秘密山洞囚押，可还是被邹渊邹闰二人探得清清楚楚。先后多次获得胜利，祝太公觉得梁山人马也不过如此。宋江派出四路人马全面出击，祝太公也派出兵分四路全面迎战，祝彪一再阻拦也无济于事。等到仗一开打，顾大嫂砍死了祝太公，带人在庄内到处放火；邹渊邹闰砍番牢卒，放出了七个被俘的兄弟，他们把祝家庄闹了个底朝天。看到庄内起火，出战的人马急往回撤，却被孙立挡在庄外。祝彪祝龙被李逵砍杀，祝虎被乱箭射死，栾廷玉自杀，祝家庄全面瓦解。吴用深感李应英雄难得，设计将他请上梁山坐了交椅。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2673</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E48 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="48" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

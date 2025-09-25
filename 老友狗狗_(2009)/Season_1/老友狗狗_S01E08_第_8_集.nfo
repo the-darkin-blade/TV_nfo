@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 8 集</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>老友狗狗</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195978</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>Bingo被贼人打至重伤，需要动手术保命，天佑十分痛心，上司的安慰反令他更感到内疚。美莲不满用发不时让用恭等人在士多大吃大喝，斥责众人为损友，畏妻的用发未敢反抗，众人不屑。
+
+天娥向美莲买下大量日用品，并指定送到俊升的狗场，更在一众村民面前向他示爱，气得俊升将她赶走。美莲眼看天娥情深，决定把屋租给她亲近俊升，天娥大为感激，众人却不知这是她和俊升的计画。  俊升往事　激励天佑  原来天娥为了查得绑架她的元凶，决定搬到长胜村，彻底了解村民的习性，俊升答应协助，而为免惹来怀疑，才故意和她合演这场戏，让村民深信她为亲近俊升而搬来。
+
+嘉汶带同天佑和Bingo的新闻往找用恭，使众人十分担心，急往找天佑，却发现他早一步离开住所，遂分头寻觅。俊升往找天佑，提及当年邀请他加入警犬队的经过，又以他和亡犬Lulu的往事激励天佑振作。
+
+嘉汶和用恭等人到保龄球馆等候天佑，终于等到他和俊升到来，天佑向众人道歉，并解释得到俊升的开解后，心情已经平复。用恭一心展示身手，谁知技逊一筹，被俊升大出风头，更感不是味儿。  天娥入村　秘密调查  天娥在长胜村的新居购下大量高科技仪器，又画出一众嫌疑村民的关系，对自己将会捉拿绑匪充满信心。天雄到来探访，意外被天娥的仪器电伤，离开时又被鹦鹉嘲笑，担心天娥继续下去会查出自己是绑匪，又担心她会抢先找回赎金，遂决心向用恭埋手。
+
+天雄乘应钧和众人开会时，发表自己最新的计画，一心触怒众人，把将自己赶走，谁知应钧对他的计画非常满意，天娥又加以赞赏，扬言放心放假半年，让他协助应钧管理公司，天雄大惊。天雄遂改变计画，直接指出自己的失败，要求放假半年寻觅理想后匆匆离开，众人大感错愕。  天雄拜师　用恭为难　  用恭对亚萍无故炮制大堆菜式感可疑，原来天雄欲拜用恭为师，跟随他学水电，亚萍支持，用恭被迫答应收天雄为徒。
+
+用恭发现羡如深夜时喂食流浪猫狗是为了帮它们绝育，直斥她恶毒。用恭在狗场发现阿黄的狗带，联想羡如会替它进行绝育手术，不禁大吵大闹，却为时已晚。其后用恭得知狗只的繁殖能力惊人后，不禁吃惊……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>8_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

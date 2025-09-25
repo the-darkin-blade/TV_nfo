@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 10 集</title>
+  <originaltitle>第 10 集</originaltitle>
+  <showtitle>忽必烈传奇</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2821412</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>刘秉忠和忽必烈带领全体村民在村口设置机关，小股盗匪刚入村口就被机关伤了一半，忽必烈率村民杀出将盗匪击退，仅剩的三个盗匪回老巢向赤面蛟汇报，赤面蛟火冒三丈，董文用和董文忠率人投靠赤面蛟，他们一起攻击渔村，因害怕机关而绕开村口，结果却在村后树林中被机关伏击，村民将他们引至村里。追赶的盗匪到村里时已经折损过半，董文用和董文忠不想杀害老百姓的性命，刘秉忠和忽必烈率全村村民奋力反抗，赤面蛟见况不妙只好逃走，回去后赤面蛟和董文用、董文忠发生争执，两人弃他而去。忽必烈率村民夜袭赤面蛟老巢，赤面蛟被杀，忽必烈劝众人停手，董文用、董文忠在刘秉忠的劝说下追随忽必烈。刘秉忠在去邢州的路上为忽必烈提出几条好建议，他提出治理汉地要从农耕入手。忽必烈到邢州后宴请官员和商人们，他想和众人商议邢州存在的问题，忽必烈已经搜索到一些民情，商人们只得按他所说开仓向老百姓放粮，忽必烈还让他们在文书上签字画押。贵由要见窝阔台时被汗大妃拒绝，他在窗口看到汗大妃在处理政务。贵由看到汗大妃将机密文件交给海密失，等海密失出来后贵由强行索要信件，海密失以死相威胁。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2644</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Legend.Of.Kublai.Khan.Ep10.720P.Hdtv.X264.2Audio-Hdwtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

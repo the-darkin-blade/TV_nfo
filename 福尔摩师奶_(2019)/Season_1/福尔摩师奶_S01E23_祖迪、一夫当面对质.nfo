@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>祖迪、一夫当面对质</title>
+  <originaltitle>Episode 23</originaltitle>
+  <showtitle>福尔摩师奶</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1727806</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>德英发现百川尸首，更在沙滩搜查到素嘉的破烂衣袖……翌日，众人惊悉油麻地再发生开膛手命案，悲痛愤慨，目击者晓尧饱受刺激，再度失忆。「香庐」上下愁云惨雾，妹娣内疚命硬克死身边人，仍坚强地安慰众人。众街坊批评菲腊办事不力，祖迪决意留守「香庐」，誓要揪出真凶。祖迪细读德英的日记，得知他对一夫起疑。晓尧闻到一夫身上的鸦片酊，忆起丁月遇害时凶案现场遗留的味道；妹娣亦记起一夫曾拜祭过小木兰，祖迪终与一夫对质……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2648</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>TVBOXNOW 福爾摩師奶 EP23_H265.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

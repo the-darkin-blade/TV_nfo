@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>鼓上蚤盗甲</title>
+  <originaltitle>鼓上蚤盗甲</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>52</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026669</uniqueid>
+  <uniqueid default="false" type="trakt">7308155</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>梁山大军大破高廉城，却不见柴进踪影。几经打探终于得知柴进被困于井下，李逵入井救出了奄奄一息的柴进。与此同时，高俅得知宋江麾师大破高唐，盛怒之下便教唆宋徽宗出兵，并任命呼延灼为兵马指挥使，领马步精兵，逼近梁山。呼延灼大军锐不可当，但梁山也非等闲之辈，几番对战之后，呼延灼大军虽略占上风，然而先锋彭玘却被扈三娘生擒，归顺的梁山。呼延灼命人请出轰天雷凌振，欲炮轰梁山，宋江得知后派花荣半路截住凌振，并将凌振纳为梁山所用。为破呼延灼铁索连环马，时迁和凌振二人前去请金枪班徐宁破阵，吴用让二人盗取徐宁家传宝物雁翎金圈甲，以诱其上山；二人在路上偶遇金钱豹子汤隆，交谈甚欢，汤隆欲上梁山，在得知二人此行目的后，便揽下盗甲之事，扮作门客来到徐宁府上，打听好情况后伺机待发。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2673</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E52 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="52" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第1集</title>
+  <originaltitle>第1集</originaltitle>
+  <showtitle>忽必烈传奇</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2398289</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>公元1215年，宋蒙金三国成鼎足之势，大蒙古草原上，一股强大的势力正在集结，成吉思汗带着三子发动了对金的战争。成吉思汗和窝阔台与金军正面激战之时，金军绕道偷袭了拖雷的大营，此时托雷的妻子贴尼即将临盆，托雷仅带亲民赶回营救贴尼，金兵被打退，贴尼在战火中生下男婴，托雷为他取名忽必烈。公元1224年，九岁的忽必烈在故乡和林迎回了在外征战、阔别四年之久的成吉思汗和其率领的蒙古大军。忽必烈不慎骑上烈马时被父亲拖雷制服，成吉思汗答应亲自教他最好的马术，忽必烈自幼时就被成吉思汗认可。成吉思汗准备征服西夏之后对付西域，他想让人培养一些新马种。公元1226年，蒙古军队通过了战略准备后针对西夏发动了浩大的战争，对于忽必烈和贵由来说具有重大的意义。成吉思汗对于西征志在必得，忽必烈和贵由也在随军征战的队伍里，他们将在战争中得到历练。攻打西夏的蒙古军队受到顽强蝗抵抗，蒙古大军将面临困难。唐兀惕砍了蒙古使者带去信函给成吉思汗，成吉思汗看后撕毁，众将没有破敌良策，忽必烈提出烧了敌军粮草可破中兴城，成吉思汗采纳的他的建议，忽必烈表现出军事天赋。西夏中兴城断粮后人心浮动，三日后西夏军队想突出重围时被蒙古军队合围，西夏惨败，蒙古军活捉了敌方主将。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2656</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Legend.Of.Kublai.Khan.Ep01.720P.Hdtv.X264.2Audio-Hdwtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

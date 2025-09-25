@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 17 集</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>老友狗狗</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195987</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>蕙娟向俊升透露当年在山打根产子，婴孩由村长抱予好友收养的经过，两人遂往找村长欲了解详情，谁知患有老人痴呆的他，早已忘掉一切，俊升决定飞往山打根调查蕙娟孩子的下落。  羡如和用恭决定利用俊升不在港的日子到外地旅游，迫使俊升誓要在一天之内回来，以阻碍两人的计画，未料两人仍为了有一天的相聚而更兴奋，决定参加内地温泉一天游。俊升出发前吩咐天娥监视羡如，扬言若能令两人分手，他会答应任何要求。  天娥破坏　用恭羡如  羡如遇上为救狗只受伤的女子阮思思，她刚从越南返港，此时用恭和用发到来，对重遇思思不禁吃惊。原来用恭读书时曾追求思思，在两人发生一夜情后，思思便到越南求学，用恭遂和用发商讨对策，用恭担心往事会被揭发，遂请求思思保守秘密，她欣然答应。原来思思是天娥派来令羡如和用恭分手的工具，天娥派人查出用恭和思思的过去，并开出优厚条件，思思为取得大笔酬金，自信地表示会尽快令两人分手。  嘉汶到警署保释伟威，却被渲染她和天佑之间的事，气得嘉汶激动离开，天佑急往把嘉汶留住，雅文看穿天佑对嘉汶的心意，忍不住调侃他，天佑大感尴尬。  旧情被揭　用恭无助  阿黄不知从哪里找来纸扎衣衫，使用恭感到不安。思思得悉村民有意把旧衣回收，遂劝阻众人，扬言此举或会被人有机可乘落降头，使用恭更感不自在，及后他更发现思思的异样，决定带羡如等人跟踪思思。  深夜，用恭等人跟踪思思来到山坟时，遇上从山打根回来的俊升，众人误会她向用恭施降头，谁知发现思思拜祭的人竟是她和用恭的亡儿，众人大吃一惊，遂到村公所讨论此事。  思思把当年和用恭一夜情的事道出，使他百词莫辩，羡如则感到难以置信。俊升向思思细问过去，刚好思思病发，并道出自己患上末期癌症，亚萍有感用恭辜负思思，决定将她接回家居住。  奸计得逞　恋情告急  俊升安慰羡如时，为用恭说好话，天娥则上前阻止，并道出一切是她的计画。俊升没料到天娥把他的一时气话信以为真，对自己间接令羡如伤心感到内疚。  用恭和用发监视思思，发现她未有喝下亚萍为她准备的药，而且功夫了得，不像一般癌症病人，决定拆穿她的真面目，谁知反被思思设局引到村公所。思思挑衅用恭，气得他出手掌掴，刚好被羡如目睹这一幕，失望离开。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1874</width>
+        <height>1080</height>
+        <durationinseconds>2657</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>17_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

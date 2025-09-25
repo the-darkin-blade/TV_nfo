@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>小茵出手　助畅脱囚</title>
+  <originaltitle>Episode 23</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>1623661</id>
+  <uniqueid default="false" type="tmdb">1992301</uniqueid>
+  <uniqueid default="false" type="trakt">1576561</uniqueid>
+  <uniqueid default="true" type="tvdb">1623661</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>欢畅心急致电青云了解来富情况，正初在医院问青云是否站在欢畅那边，青云反唇相讥说对正初全不了解，正初痛心。小茵以个人名誉担保欢畅出狱，欢畅才知道小茵并没有说谎。欢畅要青云阻止正初带来富回港医治，欢畅赶至只能眼看着来富被送上飞机。来富危殆需换肝，但欢畅的验血结果显示他不适合动手术，欢畅急得要小茵助己偷渡回港，幸被众人阻止。来富情况恶化，正初决定捐肝给来富。福荣担心正初安全要他想清楚，正初觉来富因自己受伤所以乐意承担。福荣通知青云说找到尸肝，欢畅得知后放一心头大石。小茵决心助欢畅打官司，欢畅说出只要找到高名便水落石出。经调查过后高名因藏毒而被捕，却因患有幽闭恐惧症，变得疯癫而无法作证。欢畅感谢小茵之帮忙，但亦说不明小茵为何出手相助。来富手术成功，当知道是正初捐肝救来富之后更为感激。福荣要求来富向欢畅报平安，二人终以兄弟身分对话。正初回菲律宾作证前，为当年之事向来富道歉，来富表示从没有憎恨大家，正初放下心头大石，但正初在法庭上指欢畅是偷金库锁匙之人，二人再起冲突。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2692</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep23.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

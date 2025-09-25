@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 17 集</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486671</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>慈瑞在晓得乐工居然是李龟年时大喜以为这次小玉得花魁的机率大大添加。很快就到了花魁初选的日子。整个长安有名的歌姬都来大选，其间除了小玉三人外还有一个叫罗芊芊的凶猛反常。罗芊芊本是洛阳歌姬但即便以罗芊芊的资质还以为在洛阳难以取上。以了罗芊芊这个劲敌三人也用起来，意浓和莫玥都到紫檀殿来操练。正在这时樱桃跑进来通知几人小玉居然没有当选决赛。杨炎见小玉没有当选对韦博文大声呵责，韦博文赶忙解说是由于当天楚王给了低分。杨炎大怒让韦博文再拟一份名单必定要有小玉。杜意浓将小玉落选的职责怪在李益头上，意图是为了让小玉和李益发生空隙从而在竞赛时失准。若是自个又能在决赛上打败小玉的话那自个会当之无愧的变成长安三名花之首。意浓为了夺得花魁向靖澜学习剑术，练完后卢杞泄漏给意浓若是夺得花魁就要嫁人。小玉和莫玥在紫檀殿时樱桃跑进来说杜意浓脱离卢府回家时遇到小贼受了伤。小玉进屋问慈瑞是不是她做的，果然是慈瑞找莫征而为。慈瑞责怪意浓栽赃小玉。小玉忧虑若是这事被杨炎查出就麻烦了拉着慈瑞去投案。小玉陪着慈瑞到京兆尹时莫征现已被，但状况却发生了意外，韦博文在听到下人在耳边耳语后便放了两人。意浓来找杨炎，原来意浓并没有受伤，正是杨炎派人让韦博文放了慈瑞和莫征。杨炎一巴掌打介意浓脸通知她，莫玥还有小玉必定要参与竞赛，而且小玉是必定要参与若是再耍手段抵挡小玉别怪自个无情。慈瑞晓得宁国公主府中有霓裳羽衣曲故意在纳兰东面前说这次选拔小玉强敌盘绕，纳兰东容许帮小玉拿到曲谱。小玉带着浣纱和李龟年独自访问洛阳当选的许如是，但许如是很不给面子，在离去时李龟年认出了许如是身边的乐工是自个年老李鹏年。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1335</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep17.20130926.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20130926 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>926</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1335</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep17.20130926.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="926" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

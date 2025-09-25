@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>超人朋友　浩然叨光</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>2251821</id>
+  <uniqueid default="false" type="tmdb">569233</uniqueid>
+  <uniqueid default="false" type="trakt">577899</uniqueid>
+  <uniqueid default="true" type="tvdb">2251821</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>浩然在上班前看有关Janet Bin拯救自己的报道，但却刻意不让女友得悉；有同僚向浩然大吐苦水说犯人不肯合作，浩然主动提出协助，怎知犯人一见是他，竟合作非常……警署中有歹徒袭警抢枪更胁持警员作人质；当双方相持不下时浩然持枪冲入，对方看到他后竟弃械投降。浩然与绰雅吃火锅时遇上黑社会骚扰，但当发现是浩然后，竟然临阵退缩，当中有黑社会人不忿，向浩然说出大家怕他的原因，只因他是Janet Bin的好友……  明轩恋上　超人巧芝  浩然没法遏止自己的愤怒把对方打伤；浩然的上司指责他为何每次事件关连到Janet Bin他便会失控，亦坦然会取消推荐浩然参加升级面试。巧芝得已离婚的表妹协助保释外出，表妹除替她保守秘密，竟与她分享如何找男公关的情报……永晖受到梁家众人所托，到巧芝家等候她的消息，怎料永晖一进门便发现巧芝回到家，更看到她面上的伤势竟奇迹地完全康复，于是永晖竟大胆假设……明轩为了摆脱肤浅的形象，特意约会外表平凡但充满内在美的女性，两人更享受浪漫晚宴。当明轩送对方回家时，她更主动献吻；当明轩驾车回家时，却突然下定决心，把车调头……被伯驹赏识而升任高职的永晖，受到投资部同事的欢迎；但永晖发现巧芝竟性情大变，对减价购物等事不再热衷。永晖为了想巧芝振作，本欲想请她唱卡拉OK散心，但最终却演变成公司同事聚会。在卡拉OK百无聊赖的巧芝，决定中途离开，她更化身成Janet Bin往找明轩；当明轩正在欣赏由电脑组合的「黄金比例」美女时，Janet Bin竟突然出现在他的面前。巧芝藉Janet Bin的身分努力数落明轩，但这时明轩却完全没有听入耳内，因他发现眼前的人，竟是自己一直追求的完美女性……翌日早上，明轩突然到巧芝家拜访，他更带来一大束鲜花主动向巧芝道歉，令她大表受落，但原来明轩是另有目的……  晓琳受命　对付永晖  当美诗正向客人推荐明轩担任整容的主治医师时，却看到面部受伤的明轩出更，更吓得客人立即离开……凤卿约晓琳一起美容，两人表面上闲谈聊天，但凤卿却暗中指使晓琳出手对付永晖。永晖这天上班时一路遇到不少骗子，但都一一被他悉破；而永晖在街上发现晓琳努力协助拾荒的老婆婆，更发现她原来是个充满爱心的人……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1326</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E11.20180524.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Fly With Me 20180524 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>524</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1326</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E11.20180524.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="524" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

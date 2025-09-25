@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 7 集</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>老友狗狗</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195977</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>天娥认出被绑架时曾听到亚萍斥责用恭的乡音，遂和俊升跟踪她和用恭，俊升坦言用恭是典型围村人，既孝顺又重情重义，绝不可能是绑匪。天娥独自潜进用恭家中，欲搜出更多证据，却巧遇到来寻回赎金的天雄，两人从用恭的床下找出行李箱。此时用恭折返，天娥发现他珍而重之储起来的只是大堆绝版的机械人玩具，当她听到用恭和郭荣的对话后，终于相信他并非绑匪。天娥离开时，巧遇一只鹦鹉，得知一直是它学习人类说话，才误会了亚萍。  天佑拒爱　嘉汶失望  嘉汶往找天佑，正式向他示爱，他表明和嘉汶有着不同的生活方式，当天佑问及嘉汶的人生目标时，她更是哑口无言，嘉汶不知就里，认定天佑戏弄自己，愤然离开。
+
+俊升收到电费帐单，惊悉要近万元电费，用恭建议狗场停电一天，测试是否电线出现问题。此时，众人发现伟威和手下把大型货车停泊在狗场外，并声称抛锚，正等候拖车。原来伟威不满天佑令嘉汶伤心，遂为女儿争一口气。  顾全大局　天佑屈服　  狗场因为进行停电测试，使决定留在狗场以调查被绑架的天娥睡不安宁，遂起来请俊升和羡如为新推出的辣味杯面给予意见，两人大感无奈。
+
+用恭带领天佑和一众村民声讨伟威，他要求天佑设宴，向嘉汶认错以平息事件，天佑为免伟威让村民带来更多的麻烦，既向伟威道歉，亦答应他的无理要求，把用恭气坏，伟威终答应把货车开走。
+
+伟威得悉用恭在调查电源的问题，遂着手下赶快处理，以免被牵连。村民对嘉汶示好，怕被伟威找麻烦，嘉汶感莫名奇妙，当她得悉伟威的所作所为后，加以斥责。  揭发伟威　偷电恶行  用恭发现有人偷取狗场的电源，根据电线的长度，众人推断偷电者是用发的村长爷爷。当用恭发现是一场误会后，即联想到伟威在附近有一间荒废的铁皮屋，遂带俊升等人前往。
+
+伟威抢先来到铁皮屋挡着众人的去路，而俊升则认为阿黄可以为他认出偷电的真凶，结果被俊升在屋外的草地找到相关证据，迫使伟威让步予众人入内搜查。 俊升茫无头绪之际，阿黄竟从地道爬上来，原来伟威的手下早已把地库的大麻草搬走，制造了他偷电是在地库孵化小鸡的假象，伟威把偷电责任推卸予手下，令村民心软，决定不再追究……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>7_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

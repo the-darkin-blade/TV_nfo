@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:43 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>火并王伦</title>
+  <originaltitle>火并王伦</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026634</uniqueid>
+  <uniqueid default="false" type="trakt">7308120</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>晁盖收拾完毕将宅院烧了，他们临走之际还是遇上了前来的官兵，雷横与朱仝带兵和晃盖打了起来，雷横借机放走了晁盖。晃盖他们一行人奔向水泊梁山，在进梁山水寨的门口遇上了豹子关林冲，但王伦的虚与委蛇让晁盖等人感觉心里不舒服，林冲也看出来了。到山上后王伦的一番言行和林冲当时来的时候一样，王伦想用银子打发晁盖等人下山，林冲这次真的看不下去了，他大骂王伦心胸狭隘，不适合当头领，王伦见此情形还义正言词，上前帮忙的杜迁和宋万被阮氏兄弟拦住，林冲将王伦杀死，众人拜晁盖为梁山首领。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2675</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E17 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

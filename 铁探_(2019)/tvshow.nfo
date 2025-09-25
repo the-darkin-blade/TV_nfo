@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>铁探</title>
+  <originaltitle>鐵探</originaltitle>
+  <showtitle>铁探</showtitle>
+  <sorttitle/>
+  <year>2019</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>7.0</value>
+      <votes>4</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>《铁探》讲述了督察尚垶 原是警队明日之星，在一次行动中为救战友，不幸被匪徒一枪穿脑，经过抢救后奇迹生还，并且查案比以前更努力拼搏，赢得“铁探”的美誉。但尚垶饱受那次枪击的后遗症折磨，枪伤阴影、暴躁、甚至失禁。而总警司万晞华 和Bingo 之间神秘的关系，也让那次枪击的真相扑朔迷离。在警队的大升迁年，尚垶被迫卷入了警界高层权力相争的漩涡中......</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa>US:TV-14</mpaa>
+  <certification>US:TV-14</certification>
+  <episodeguide>{"tmdb":"88233","imdb":"tt10141612","wikidata":"Q55697342","tvdb":"361708"}</episodeguide>
+  <id>361708</id>
+  <imdbid>tt10141612</imdbid>
+  <tmdbid>88233</tmdbid>
+  <uniqueid default="false" type="tmdb">88233</uniqueid>
+  <uniqueid default="false" type="imdb">tt10141612</uniqueid>
+  <uniqueid default="false" type="wikidata">Q55697342</uniqueid>
+  <uniqueid default="true" type="tvdb">361708</uniqueid>
+  <premiered>2019-04-01</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <studio>Tencent Video</studio>
+  <studio>TVB Jade</studio>
+  <studio>Tencent Penguin Pictures</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <tag>police</tag>
+  <actor>
+    <name>袁伟豪</name>
+    <role>Sheung Sing</role>
+    <profile>https://www.themoviedb.org/person/1615007</profile>
+    <tmdbid>1615007</tmdbid>
+  </actor>
+  <actor>
+    <name>惠英红</name>
+    <role>Man Hei-wah</role>
+    <profile>https://www.themoviedb.org/person/84205</profile>
+    <tmdbid>84205</tmdbid>
+  </actor>
+  <actor>
+    <name>姜皓文</name>
+    <role>Bingo</role>
+    <profile>https://www.themoviedb.org/person/140478</profile>
+    <tmdbid>140478</tmdbid>
+  </actor>
+  <actor>
+    <name>黄智贤</name>
+    <role>Samuel Ching</role>
+    <profile>https://www.themoviedb.org/person/1192984</profile>
+    <tmdbid>1192984</tmdbid>
+  </actor>
+  <actor>
+    <name>蔡思贝</name>
+    <role>Jill</role>
+    <profile>https://www.themoviedb.org/person/1545561</profile>
+    <tmdbid>1545561</tmdbid>
+  </actor>
+  <actor>
+    <name>杨明</name>
+    <role>Matt Yau</role>
+    <profile>https://www.themoviedb.org/person/1588970</profile>
+    <tmdbid>1588970</tmdbid>
+  </actor>
+  <actor>
+    <name>梁烈唯</name>
+    <role>Kuk Wing-ching</role>
+    <profile>https://www.themoviedb.org/person/1143685</profile>
+    <tmdbid>1143685</tmdbid>
+  </actor>
+  <actor>
+    <name>许绍雄</name>
+    <role>Kan Kwo-chu</role>
+    <profile>https://www.themoviedb.org/person/63582</profile>
+    <tmdbid>63582</tmdbid>
+  </actor>
+  <actor>
+    <name>王君馨</name>
+    <role>Yeung Hiu-yi</role>
+    <profile>https://www.themoviedb.org/person/1255467</profile>
+    <tmdbid>1255467</tmdbid>
+  </actor>
+  <actor>
+    <name>蒋祖曼</name>
+    <profile>https://www.themoviedb.org/person/236194</profile>
+    <tmdbid>236194</tmdbid>
+  </actor>
+  <actor>
+    <name>卢宛茵</name>
+    <profile>https://www.themoviedb.org/person/1395247</profile>
+    <tmdbid>1395247</tmdbid>
+  </actor>
+  <actor>
+    <name>洪永城</name>
+    <profile>https://www.themoviedb.org/person/2214358</profile>
+    <tmdbid>2214358</tmdbid>
+  </actor>
+  <actor>
+    <name>石修</name>
+    <profile>https://www.themoviedb.org/person/146297</profile>
+    <tmdbid>146297</tmdbid>
+  </actor>
+  <actor>
+    <name>陈敏之</name>
+    <profile>https://www.themoviedb.org/person/994580</profile>
+    <tmdbid>994580</tmdbid>
+  </actor>
+  <trailer>plugin://plugin.video.youtube/play/?video_id=p3ap5d68H2I</trailer>
+  <dateadded>2025-09-15 18:24:25</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

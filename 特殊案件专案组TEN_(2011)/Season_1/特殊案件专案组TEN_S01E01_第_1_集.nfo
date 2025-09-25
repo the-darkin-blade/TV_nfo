@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 1 集</title>
+  <originaltitle>테이프 살인사건</originaltitle>
+  <showtitle>特殊案件专案组TEN</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>4430680</id>
+  <uniqueid default="false" type="tmdb">1003474</uniqueid>
+  <uniqueid default="false" type="trakt">960247</uniqueid>
+  <uniqueid default="true" type="tvdb">4430680</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>반라의 상태에서 얼굴에 테이프를 칭칭 감은 채 잔인하게 살인된 여자의 시신이 발견된다. 현장에서는 어떠한 단서도 발견되지 않는 가운데, 경찰 교육원 교수 여지훈은 이 사건에서 일명 '유령 사건'이라 불리는 7년 전의 전설적 미제 사건과의 유사점을 발견한다. 청색 테이프로 얼굴을 칭칭 감은 뒤 질식사 시키는 엽기적 살인 방법으로 세상을 공포로 몰아넣었던 살인마! 여지훈은 7년 전 테이프 연쇄 살인사건과 닮은 듯한 이 사건에 흥미를 갖게 된다. 그러나 잔인하게 살해된 피해자 서은비와 실종 신고된 김은영의 얼굴이 놀라울 정도로 똑같아 수사는 혼란에 빠지고, 각자 서로 다른 사건에서 출발한 여지훈, 백도식, 남예리는 함께 수사를 하게 된다. 한편 백도식은 실종된 김은영은 정선에서 서지석을 죽인 범인이라 확신하고, 예리는 서은비가 어린 시절을 보낸 보육원에서 충격적인 사실을 알게 되는데…….</plot>
+  <runtime>68</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>OCN</studio>
+  <studio>Studio Dragon</studio>
+  <dateadded>2025-09-15 20:28:51</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>480</height>
+        <durationinseconds>4139</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E01.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

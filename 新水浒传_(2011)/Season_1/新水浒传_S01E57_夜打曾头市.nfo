@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>夜打曾头市</title>
+  <originaltitle>夜打曾头市</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>57</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026674</uniqueid>
+  <uniqueid default="false" type="trakt">7308160</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>杨志在吴用的医治下痊愈，并与吴用冰释前嫌。呼延灼虽然掌管兵马，却并无实权，手下兵将贪生怕死，肆意妄为。宋江为生擒呼延灼，命人假扮自己来到城前刺探军情，呼延灼不知是计亲率小队人马企图夹击宋江，却被宋江活捉并压入寨中。寨中，宋江将呼延灼奉为上宾，以礼相待，并当众传讯慕容爪牙，原来对宋江下毒之人正是慕容，他命人扮作山贼，在村中下毒毒害百姓无数，以栽赃给三山好汉，宋江拿出前日截获慕容上书给蔡京的信函，慕容的阴谋不攻自破。呼延灼愿加入梁山，共同抗击这些贪官污吏。在呼延灼的帮助下，众梁山好汉攻破城门，将慕容就地正法。聚义堂上，晁盖同众好汉饮酒庆贺，让新加入梁山的好汉各司其职，厉兵秣马，为日后大举做准备。三山聚义梁山之后，又有曾头市频频来犯，不仅盗取花荣宝马，打伤刘唐，还偷袭梁山，天王晁盖率众英雄前去讨伐曾头市。宋江在梁山敬候佳音，却不知此时晁盖莽撞求胜，已中了敌人的圈套。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2655</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E57 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="57" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

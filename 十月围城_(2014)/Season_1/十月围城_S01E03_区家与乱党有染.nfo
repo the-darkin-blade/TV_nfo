@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>区家与乱党有染</title>
+  <originaltitle>区家与乱党有染</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>4938181</id>
+  <uniqueid default="false" type="tmdb">2728542</uniqueid>
+  <uniqueid default="false" type="trakt">1305800</uniqueid>
+  <uniqueid default="true" type="tvdb">4938181</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李家老奶奶重病在床，阿四在李玉堂的带领下来到老奶奶身边，老奶奶显然重病在身头脑不清，虽然阿四就在床边，老奶奶竟然把其它人识成了李重光。李玉堂见母亲无法辩识孙子，心中不由升起了狐疑，李家丫环夏荷见李玉堂还不知道事情原因，于是将老奶奶意识模糊只认得她一人的事情说了出来。李重光堂哥李重甲总觉得阿四不太对劲，阿四回到李家经常闭门不出，遮遮掩掩像是有什么不可告人的秘密，为了探查阿四，李重甲几次想上门寻找阿四，奈何阿四总是有意无意避让，李重甲一连找了几次也没有找到阿四。又是一天，李重甲趁着阿四上茅厕，打算来到茅厕中接近阿四，李玉堂的仆人小丁生怕事情败露，赶紧拉住李重甲苦苦劝说，李重甲不听小丁的劝说，来到茅房外面就想推门进去寻找阿四。就在这个节骨眼上，李家老仆人来到李重甲身边，透露老爷李玉堂有请，李重甲是李玉堂的侄子，伯伯有请岂能不去?无奈之下李重甲只得暂时打消寻找阿四的念头，改而与伯伯李玉堂见面。伯侄二人见面谈起了阿四，李重甲对阿四闭门不出的行为感到不解，李玉堂心知肚明，谎称阿四因为水土不服所以才不想出门。铁山调查乱党之事查到区肇新身上，区肇新的一把手枪曾经落入乱党秦少白之手，铁山经过盘查找到手枪，故意来到区府展示给区肇新，区肇新见自己的手枪落到铁山手中，又听铁山透露手枪曾在秦少白手中，心中惶恐不安赶紧解释，铁山虽然怀疑区肇新，但表面上依然做出一副非常信任的模样。区肇新猜测手枪还有可能被女儿区舒云偷走，区舒云偷走手枪转交给了秦少白，为了调查事实真相，区肇新来到楼上找到依然将棺材当成家的女儿，声严厉色质问女儿是否偷走了家中的手枪，舒云受到质问并没有承认，直到父亲区肇新惶恐不安将铁山调查乱党的事情说出来，区舒云才意识到了大事不妙。区家与乱党有勾结的事情传得沸沸扬扬，消息传到了李府，李府公子李重甲并没有将区家的事情放在心上，而是冒着风险打算向区家千金区舒云提亲，提亲之事自然让伯伯李玉堂出面最好，李重甲找到伯伯李玉堂，将心中想法说了一遍，李玉堂早已听到区家与乱党勾结的风声，一听李重甲还想与区家结亲，李玉堂一口拒绝了李重甲的请求，李重甲依然不死心，当场下跪苦苦哀求伯伯李玉堂同意李家与区家结亲。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep03_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

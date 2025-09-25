@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>晁天王中箭</title>
+  <originaltitle>晁天王中箭</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>58</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026675</uniqueid>
+  <uniqueid default="false" type="trakt">7308161</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>晁盖中箭，梁山好汉从曾头市撤兵。晁盖身中毒箭，命在旦夕询问宋江是否早有归顺朝廷之意，宋江避而不答。箭毒发作，晁天王临终前折箭为誓，谁抓住史文恭，便立为梁山泊主事人，至死也没有同意宋江招安之意。众兄弟推举宋江临时主事。宋江答应暂时做主，并承诺如晁盖临终所言，凡有人捉到史文恭，他定会将位置让出。众英雄欲再次攻打曾头市，吴用建议为晁盖守孝百日后再行起兵之事。众英雄称是，众人班师水泊梁山，为天王晁盖守灵。宋江为招安之事苦恼，缘为晁盖至死也没有同意招安。吴用劝说宋江下定决心，梁山要想走下去，唯有招安一条道路。宋江苦闷，梁山泊上没有有名望之人，怕被招安后不受朝廷重视，委屈了众兄弟。吴用向他推荐玉麒麟卢俊义。辽国进犯大宋时，卢俊义骁勇善战，为童贯帐下急先锋。童贯妒贤嫉能，非但没有驰援孤军深入的卢俊义，反而抢夺卢俊义的战功，并在皇上面前诬告卢俊义擅自领兵出征贻误战机，将卢俊义及其军师朱武打入大牢。皇上觉得其中有诈，但无奈童贯从中作梗，卢俊义死罪可免，活罪难逃，和朱武被杖刑五十，发回原籍。卢俊义为手下战死一千弟兄鸣冤，声明愿作战卒为国效力，无奈迫于童贯之威，无人敢用，只得回到家乡河北大名府。宋江佩服卢俊义是忠肝义胆的好汉，认为若能得此人，坐梁山泊第一把交椅，无论是朝廷还是世人，都会对梁山泊刮目相看，山中的弟兄们也会心服口服。宋江认为，若能得到卢俊义，招安之事就成了一半。吴用已有请卢俊义的计谋，向宋江请命。李逵亦请命，与他同去。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2659</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E58 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="58" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

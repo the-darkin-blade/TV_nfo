@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>一夫重新当管家照顾祖迪</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>福尔摩师奶</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1727086</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>晓尧深夜未归，祖迪寻访时瞥见菲腊踪影；车夫游池惊见街道有血迹，突然传来晓尧尖叫声……「香庐」租客兼艺术家魏素嘉遇袭受伤，翌日祖迪与德英到现场搜证，发现真相。罗拔受压，藉机在市集扰民，并公然恐吓一夫，局绅乔百川出面调停。晓尧创伤后记忆零碎，素嘉鼓励她用铅笔记下重要之事。祖迪努力适应市井生活，妹娣伺机逼使她放下身段。警方缉捕菲腊，街坊怕被祖迪连累想赶走她。一夫重新穿起管家制服照顾祖迪，众人渐对她改观。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2634</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>TVBOXNOW 福爾摩師奶 EP04_H265.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>永晖发现　浩然秘密</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>2251831</id>
+  <uniqueid default="false" type="tmdb">569232</uniqueid>
+  <uniqueid default="false" type="trakt">577900</uniqueid>
+  <uniqueid default="true" type="tvdb">2251831</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>正当晓琳发挥她的魅力，令永晖尴尬不已之际，凤卿却突然出现；当永晖离开晓琳的办公室后，凤卿终忍不住指责晓琳。晓琳便向凤卿解释自己的计划，却被她指是捉错用神，凤卿更要求她放弃计划，并取假期暂时避开永晖。永晖发现没法联络晓琳，只得四出寻找她的下落；这时永晖却发现浩然正与绰雅约会，因此他认为浩然竟悄悄「一脚踏两船」。  遭人陷害　永晖入狱  当永晖满腹疑团回到公司时，却突然有商业罪案调查科的警察来找他；原来警察指永晖利用职权，装上特殊的电脑器材以窃取集团金钱。在警署中无助的永晖，突然得到保释；原来是凤卿派人保释，更带他到容家与她见面。凤卿向永晖说相信他是无辜，亦已请了最好的律师来协助他，但她要求永晖相信律师的说话，听从律师的吩咐……永晖收到姊夫的电话赶到医院，却发现家人都遭逢巨变…… 咏嘉被诊断出患上末期乳癌、姊夫误信别人买下迷你债券，欠下巨债，他们的儿子犯事被判入男童院……约了浩然晚饭的巧芝，却发现浩然买了不少菜到她的家，原来浩然打算一显手艺。当浩然煮菜时发现巧芝的电水煲坏掉，竟动手替她修理，最后更替她维修了全家的电器；看到眼前这位对自己有意的浩然，除了外型豪迈处事精干外，竟连家中琐事都能一手包办，心中不禁高兴非常……绰雅请私家侦探调查浩然，发现男友竟在巧芝家煮饭不禁大为震怒，而私家侦探更查得浩然在翌日订了餐厅约巧芝吃饭；当浩然与巧芝正在餐厅开怀相聚时，绰雅亦正赶往「捉奸」，但中途却突然被人捉去……正当巧芝不在席之际，永晖突然出现，他更向浩然说出已知他有女友一事，亦说出已助他处理好一切；而永晖临别之际将一份礼物交给浩然，要他代为送给巧芝，更嘱托浩然好好照顾她。  奸计成功　永晖入狱  浩然赶往警署接回被人丢在后巷的绰雅，但途中却不断动脑筋，能让善妒的女友不会走到巧芝的跟前将一切事情揭穿，最后浩然想出了「最终必杀技」……巧芝发现自己突然又被上司针对，有同事私下向巧芝说出，因永晖被卷入官非因此巧芝已没有了靠山。巧芝探望永晖，更质问他为何不将这些重要事与自己分忧；永晖担心自己将会入狱，托巧芝在咏嘉生日那天代自己送蛋糕给她。伯驹回港，凤卿在丈夫面前抹黑永晖，令伯驹对永晖大表失望；凤卿探望永晖，竟向他坦然是蓄意陷害他，但却没有说出害他的理由……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1324</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E12.20180525.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Fly With Me 20180525 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>525</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1324</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E12.20180525.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="525" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

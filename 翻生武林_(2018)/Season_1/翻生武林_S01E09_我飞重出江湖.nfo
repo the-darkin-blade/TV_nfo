@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:17:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>我飞重出江湖</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>翻生武林</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1993651</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在心从冰冰母女手上救走云龙，来到皇陵附近时突然地陷。二人寻找出路时，遇上武林盟主任我飞，他们决定带他离开皇陵。回到城后我飞使出武功锄强扶弱，云龙指他犯了禁武令，在心向他解释禁武经过。孔杂、艾雪和宝宝要胁娇凤交出真经，这时云龙带着我飞回来，我飞劝他们暂时不要找寻真经。娇凤向在心表示会带我飞离开中原，更希望不群可以放过我飞。在心劝不群放过我飞，不群答允；不过他已决定重选新盟主，且由百姓投票……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2615</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Birth.Of.A.Hero.Complete.Hdtv.1080I.H264-Chdhktv.Ep09_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

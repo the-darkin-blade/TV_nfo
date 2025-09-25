@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>区舒云策划帮秦少白获得子弹样品</title>
+  <originaltitle>区舒云策划帮秦少白获得子弹样品</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id>4938204</id>
+  <uniqueid default="false" type="tmdb">2728569</uniqueid>
+  <uniqueid default="false" type="trakt">1306389</uniqueid>
+  <uniqueid default="true" type="tvdb">4938204</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>制造局如火如荼生产。区舒云见不到秦少白，实在郁闷。她只能靠“回忆”爱情来支撑无聊的日子。她常去沙面的一家咖啡馆，是以前她与秦少白约会的一个地方。阿四照例“陪”她，实际就是看管她。咖啡馆的另一个包间，李玉堂在和秦少白见面，他们商量弹药送到革命党手里的渠道。区舒云意外发现了秦少白，拉住秦少白。区舒云避开阿四，进了秦少白的包房，李玉堂只能偷着匆匆离开。区舒云表示，我听你的话留在李家了，我要给你谋枪支， 我要给你培养阿四，我知道起义最缺的是子弹，区舒云说去一连串计划，吓得秦少白冷汗都出来了。秦少白生怕区舒云被牵扯进此事，要区舒云顾忌李家的处境，坚称决不会利用李家的制造局。区舒云说我当这个总办夫人就是为了帮你弄子弹，我不管，三天后还在这里，我把制造局最新的子弹样品带给你。你不来我就死等，你看着办。李重甲派人盯梢发现了咖啡馆的秘密，并和铁山分析这四人见面的各种组合。区舒云和秦少白很可能还会再见面，如果能抓到，李家区家就可以一锅端了。沙面教堂。李念慈一直在照顾教堂唱诗班的一对小姐弟，这天遇到这对孩子的父亲来看孩子－－此人竟是乔装打扮的铁山！铁山对李念慈自称华侨，虔诚的基督教徒，因为经常到南洋做生意，把孩子托给神父照顾。李念慈和铁山聊起孩子，聊起孩子们死去的母亲，铁山说她的妻子很美，很贤惠，李念慈很同情铁山，对他的印象也很好。其实，铁山是乔装来沙面侦查革命党的。区舒云不得到子弹样品是不会放弃的，阿四告诉区舒云样品送走了，只剩下图纸。图纸也行，区舒云趁机抢走了子弹图纸。沙面咖啡馆。区舒云怀揣子弹图纸，却等不到秦少白。秦少白等革命党人意识到最近沙面岛上清廷的密探增多了，行动更为谨慎，赴区舒云的约其实毫无意义，可秦少白自觉在情感上亏欠区舒云太多，也不忍心区舒云为自己这样“无意义”地奔忙，至少他要跟区舒云说清楚。犹豫了一阵，秦少白还是乔装去见区舒云。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2649</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep26_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李重甲默默承受压力，李家关系微妙变化加深信任</title>
+  <originaltitle>李重甲默默承受压力，李家关系微妙变化加深信任</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>43</episode>
+  <id>4938222</id>
+  <uniqueid default="false" type="tmdb">2728587</uniqueid>
+  <uniqueid default="false" type="trakt">1306751</uniqueid>
+  <uniqueid default="true" type="tvdb">4938222</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>制造局新任军代表桂祥有意给李重甲难堪，李重甲默默承受，整个人的性情都变了。阿四过意不去，李重甲反淡然一笑。 李重甲曾任军代表，对制造局各个环节都熟悉。老丁在关键环节上有意避着李重甲，李重甲心知肚明，故作不知。阿四工作左支右绌，趴在书桌上一大堆账本间睡着了。区舒云不声不响坐下来帮阿四。二人虽有意疏远，实际上都替对方考虑，经历了分家这场大变故，彼此有了更深理解。制造局码头，一艘货船正要起运。铁山的军代表忽然找到借口突击检查，老丁被迫开箱，在最危险的时候，李重甲忽然出招解围……军代表没查出问题，反碰了一鼻子灰。原来李重甲早就发现了漏洞所在，提前做了弥补。区巡抚夸奖李重甲，他要李重甲看好制造局，保护阿四不被革命党拖下水。李重甲转头把区巡抚的话都告诉了阿四，提醒阿四防范区巡抚。阿四对李重甲更加信任。通过这步险棋，李重甲在制造局站稳了脚跟，并获得了区巡抚和秦少白的双重信任。李重甲知道，还有一个人也要来找自己了，那就是铁山。区舒云反对阿四与李重甲走得太近，阿四认为区舒云对李重甲成见太深，二人谁也说服不了谁。近春节，革命党起义风声很紧。铁山要进京述职一个多月，走前嘱托总督和区巡抚，千万盯好新军和制造局。总督把兵权交给区巡抚。区巡抚感觉这很像铁山给自己下的一个圈套。秦少白密见阿四，铁山离开是绝好的起义机会，需要阿四和李重甲尽快把所需弹药运出。阿四答应和李重甲想办法。区巡抚叫来阿四，伸手要革命党的起义计划。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2654</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep43_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="43" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

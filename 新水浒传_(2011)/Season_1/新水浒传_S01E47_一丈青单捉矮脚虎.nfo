@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>一丈青单捉矮脚虎</title>
+  <originaltitle>一丈青单捉矮脚虎</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>47</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026664</uniqueid>
+  <uniqueid default="false" type="trakt">7308150</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>按照李应的暗示，宋江主攻祝家庄后门，另有三面夹击。宋江带领大队人马阵前叫战，却从扈家庄杀出一彪人马，领头的正是扈三娘。看到扈三娘姿色过人，王英请命出战，指望拿下扈三娘给自己做老婆，可是没几招就被扈三娘捉了。林冲出战，生擒扈三娘。秦明邓飞落入了栾廷玉的陷阱。其他几路人马也无建树，二打祝家庄无功而返。宋江吩咐喽罗好生照看扈三娘，把她送回梁山交给他的父亲。此举让兄弟们多有猜测：难道公明哥哥要娶了做夫人？宋江没有多做解释，只愁着如何才能拿下祝家庄。正犯愁时，军师吴用来到，为宋江献上一条妙计：登州兵马提辖孙立与栾廷玉是师兄弟，可以用他来赚取祝家庄。孙立被弟妻顾大嫂以死相逼，不得不强闯死囚牢狱，救下了她两个被人暗算的亲戚解珍解宝。吴用告诉宋江，孙立事发不久，海捕文书还没发到祝家庄，此计可用。宋江大赞妙极。为麻痹祝家庄，宋江后撤五里，故意丢下一些辎重物质。扈成为救妹妹扈三娘，硬着头皮来到营寨，承诺不再为祝家庄出一兵一卒。按吴用妙算，吕方半途截住了祝太公的心腹祝二，祝二供出许多内情。为保家小性命，祝二向祝太公回复已将求援送达州衙。孙立以调防路过为由，带着家眷同僚通过栾廷玉进入了祝家庄。吴用内外双管齐下，截断了祝家庄的外援，又安插有内应，破敌指日可待。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2674</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E47 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="47" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第36集 为救陈亦度厉薇薇放弃设计师身份</title>
+  <originaltitle>第36集 为救陈亦度厉薇薇放弃设计师身份</originaltitle>
+  <showtitle>放弃我，抓紧我</showtitle>
+  <season>1</season>
+  <episode>36</episode>
+  <id>5903248</id>
+  <uniqueid default="false" type="tmdb">1251241</uniqueid>
+  <uniqueid default="false" type="trakt">2452096</uniqueid>
+  <uniqueid default="true" type="tvdb">5903248</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>此时，歌迪亚女士的声音在台上响起，歌迪亚称抄袭是一种可耻的行为，但此次犯罪的不是玲珑，而是度，说着举起手中的信件，说这是在走秀前她收到的举报信，信上举报度不仅隐瞒了不良的经营状况，更在玲珑的婚纱做手脚，陷害玲珑。而厉薇薇女士则从比赛中表现出为一位诚实严谨的设计师，枫丹百货只与讲诚信的人合作，所以她立即宣布此次取得入驻枫丹百货权的公司是玲珑。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2670</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>J2.Stay.With.Me.Ep36.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="36" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

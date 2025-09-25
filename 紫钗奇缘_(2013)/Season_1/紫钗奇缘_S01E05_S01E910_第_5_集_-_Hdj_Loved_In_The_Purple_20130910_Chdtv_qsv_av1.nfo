@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 5 集</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486659</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>慈瑞骗小玉与李益相见却不成想出来见到是楚王，楚王与李益同名。小玉明知楚王不懂诗词故意戏耍。慈瑞解释这么做都是为了小玉好，小玉表示自己只想要一个知己。小玉为此和慈瑞吵了起来并说出怀疑自己是不是娘亲生的。慈瑞一巴掌打了小玉让她回洛阳找户籍。小玉前去崇敬寺找李益。小玉是要取回紫钗借给莫玥，不过小玉也表明了自己的心迹告诉李益会等着他考取功名来找迎娶自己。李益和小玉说话时崔长空和韦博文偷偷溜到李益房间偷取墨宝便卖。结果秋阳去取紫钗时紫钗也不见了，韦博文在拿墨宝时正好看到紫钗，想起那日杜意浓正缺少一根头钗。小玉离开后秋阳把刚刚看到崔长空和韦博文的事告诉了李益。鲍彩凤和莫玥见宁国公主时说了实话紫钗乃小玉所有。宁国公主听说紫钗的下落后便去找了慈瑞。本来慈瑞想要试探一下宁国公主还认不认纳兰东和小玉的亲事，果然宁国公主没有再想这门亲事。慈瑞对宁国的公主的恨更加了一层，如果当年不是宁国公主说服霍王娶她当小妾慈瑞应该能和皇上在一起。小玉带着浣纱在街上遇到纳兰东，纳兰东看着小玉想起了自己的表妹。纳兰东告诉小玉在一家铺子有了紫钗的消息，不过去修补紫钗的是杜意浓。进了店铺后不但杜意浓在，卢靖澜也在。当老板拿出紫钗时小玉和浣纱一眼就认出来正是自己的紫钗。杜意浓双手奉还。这时杜意浓看到了店外站着的纳兰东。杜意浓倒是对纳兰东有几分情意。回到紫檀殿靖澜劝小玉以后对纳兰东好一点。靖澜对小玉说依她看纳兰东喜欢她，但小玉根本不相信这档子事。从靖澜的语气中小玉和浣纱听出来靖澜喜欢纳兰东。韦博文再次去见杜意浓，韦博文虽然还没考取功名但他的野心还是令杜意浓高看了几分。紫钗找回后小玉让浣纱将紫钗又拿了李益。纳兰东来找李益告诉李益自己本打算离开长安可现在却迟迟不想离去。李益指出纳兰东有了意中人。这时秋意正好把紫钗拿来给李益，纳兰东看到紫钗不正是小玉之物，李益告诉纳兰东自己与小玉已经私定终身。秋阳还提出让纳兰东帮忙借着布匹与马匹向小玉提亲，纳兰东为了兄弟答应了。有了纳兰东的帮忙李益前往紫檀殿提亲。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1334</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep05.20130910.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20130910 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>910</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1334</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep05.20130910.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="910" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>小资女孩向前冲</title>
+  <originaltitle>小資女孩向前衝</originaltitle>
+  <showtitle>小资女孩向前冲</showtitle>
+  <sorttitle/>
+  <year>2011</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>6.6</value>
+      <votes>10</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>京师百货小职员沈杏仁（柯佳嬿 饰）最大的梦想就是赚足了钱在台北买房，把住在三峡的妈妈接来一起生活。留美归来的秦子奇（邱泽 饰）是京师百货董事长秦慕白（沈孟生 饰）的儿子，原本以为学成归来老爹会把企业经营权交给自已，可老爹却让他先从基层员工过起，并规定五条细则，若违反其中一条就自行走人。刚开始，心高气傲的子奇对带他的师傅杏仁满眼不屑，但杏仁的那套“职场生存理论”屡屡在关健时刻让他化险为夷，令子奇不由的对杏仁刮目相看。秦慕白暗中观察儿子的变化，他高薪请来知名代理商余承风（温升豪 饰）担仼总经理，此时的子奇已成为女职员心中的白马王子，他敢挑战这个本该属于自己的总经理吗……</plot>
+  <tagline/>
+  <runtime>90</runtime>
+  <mpaa>US:TV-14</mpaa>
+  <certification>US:TV-14</certification>
+  <episodeguide>{"tmdb":"40480","imdb":"tt4381290","wikidata":"Q5759839","tvdb":"251521"}</episodeguide>
+  <id>251521</id>
+  <imdbid>tt4381290</imdbid>
+  <tmdbid>40480</tmdbid>
+  <uniqueid default="false" type="tmdb">40480</uniqueid>
+  <uniqueid default="false" type="imdb">tt4381290</uniqueid>
+  <uniqueid default="false" type="wikidata">Q5759839</uniqueid>
+  <uniqueid default="true" type="tvdb">251521</uniqueid>
+  <premiered>2011-08-21</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>TTV Main Channel</studio>
+  <studio>Sanlih E-Television</studio>
+  <country>台湾</country>
+  <tag>romance</tag>
+  <tag>business</tag>
+  <tag>office romance</tag>
+  <actor>
+    <name>柯佳嬿</name>
+    <role>Shen Xingren</role>
+    <profile>https://www.themoviedb.org/person/1356718</profile>
+    <tmdbid>1356718</tmdbid>
+  </actor>
+  <actor>
+    <name>邱泽</name>
+    <role>Qin Ziqi</role>
+    <profile>https://www.themoviedb.org/person/1240922</profile>
+    <tmdbid>1240922</tmdbid>
+  </actor>
+  <actor>
+    <name>李毓芬</name>
+    <role>Zheng Kai'er</role>
+    <profile>https://www.themoviedb.org/person/1255146</profile>
+    <tmdbid>1255146</tmdbid>
+  </actor>
+  <actor>
+    <name>郎祖筠</name>
+    <role>Feng Renyue</role>
+    <profile>https://www.themoviedb.org/person/1255148</profile>
+    <tmdbid>1255148</tmdbid>
+  </actor>
+  <actor>
+    <name>郭书瑶</name>
+    <role>Liu Yule</role>
+    <profile>https://www.themoviedb.org/person/1179171</profile>
+    <tmdbid>1179171</tmdbid>
+  </actor>
+  <actor>
+    <name>蔡淑臻</name>
+    <role>Wei Minna</role>
+    <profile>https://www.themoviedb.org/person/932692</profile>
+    <tmdbid>932692</tmdbid>
+  </actor>
+  <actor>
+    <name>温升豪</name>
+    <role>Yu Chengfeng</role>
+    <profile>https://www.themoviedb.org/person/1247109</profile>
+    <tmdbid>1247109</tmdbid>
+  </actor>
+  <actor>
+    <name>李沛旭</name>
+    <role>Shi Telong</role>
+    <profile>https://www.themoviedb.org/person/1247112</profile>
+    <tmdbid>1247112</tmdbid>
+  </actor>
+  <actor>
+    <name>沈孟生</name>
+    <role>Qin Mubai</role>
+    <profile>https://www.themoviedb.org/person/2027748</profile>
+    <tmdbid>2027748</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

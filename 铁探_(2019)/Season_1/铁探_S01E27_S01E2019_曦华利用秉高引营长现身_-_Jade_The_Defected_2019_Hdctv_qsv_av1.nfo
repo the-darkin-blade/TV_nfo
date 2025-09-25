@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>曦华利用秉高引营长现身</title>
+  <originaltitle>Episode 27</originaltitle>
+  <showtitle>铁探</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id>7110009</id>
+  <uniqueid default="false" type="tmdb">1751200</uniqueid>
+  <uniqueid default="false" type="trakt">3453078</uniqueid>
+  <uniqueid default="true" type="tvdb">7110009</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>尚垶醒来，见到晓怡平安，放下心来。警方将目标锁定为罗彪，通过调查发现他有严重的强迫症，而且经常浏览暗网。后来通过其他线索，竟发现他和镪水案有千丝万缕的关系。但此时，罗彪并不在警方的掌控之下，而是被蔚乔和丽瑶秘密转移，严刑伺候。
+
+尚垶带伤坚持办案，和喜悦等人重看镪水案的录像，发现罗彪在犯案当天也出现在现场。循迹而去，他们找到了罗彪的住处，看到了罗彪录下的犯罪视频。镪水案的真凶终于水落石出，就是罗彪。
+
+蔚乔暗中在永正的手机中装入了监视软件，重案组的行踪她们瞭如指掌。
+
+秉高再次要求会见泳莎，曦华警告泳莎不可再为秉高通风报信。泳莎带去了秉高的母亲，母亲见到秉高铁链缠身伤心不已。秉高准备离开医院到拘押所，竟是曦华亲自押送，原来是曦华想用秉高引出营长。而此时营长也识破了丽瑶和蔚乔的勾当，将丽瑶杀害。
+
+营长的雇佣兵突袭押送秉高的车辆，一开门却发现里面空无一人。飞虎队及时出击，将枪手悉数击毙，但他们发现，营长不在其中。营长此时正在蔚乔家，对其进行逼供，他还要引永正上来，想要多杀一名警察。
+
+秉高被赶下车，来到一个四周都有狙击手布防的空旷地带。结合曦华诸多不合理的举动，秉高说服了她的忠仆伍伟忠帮他传出最后的口讯，曦华发觉了他们的计划，也冲下车。几番对峙，曦华下令开枪，伟忠为保护秉高而中枪身亡……</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <studio>TVB Jade</studio>
+  <studio>Tencent Penguin Pictures</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:25</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1315</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Defected.E27.2019.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade The Defected 2019 Hdctv qsv av1</title>
+  <originaltitle/>
+  <showtitle>铁探</showtitle>
+  <season>1</season>
+  <episode>2019</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <studio>TVB Jade</studio>
+  <studio>Tencent Penguin Pictures</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:25</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1315</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Defected.E27.2019.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2019" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

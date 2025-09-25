@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>卢俊义活捉史文恭</title>
+  <originaltitle>卢俊义活捉史文恭</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>67</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026684</uniqueid>
+  <uniqueid default="false" type="trakt">7308170</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>卢俊义认为曾弄求和是真，但史文恭为人阴枭，却非诚意。据探马来报，青州、凌州往曾头市的援兵即日就到。卢俊义设下圈套引史文恭上套。卢俊义与史文恭大战，最终活捉史文恭。梁山好汉以史文恭的性命祭奠天王晁盖，终于为天王报仇。宋江再次提起让位于卢俊义之事，当年晁天王有遗愿，凡捉住史文恭者，无论谁人，便为这山寨之主。宋江认为卢俊义活捉史文恭，当之无愧该是梁山的之主。要是卢俊义做了山寨之主，他日定能领梁山归顺朝廷，建功立业，官爵升迁，使我梁山众兄弟光耀门楣。卢俊义与众英雄都不同意，纷纷认为宋江早就是大家心中的当之无愧的首领，换做他人无人能服众。宋江没有办法只得与卢俊义做了协定，宋江攻打东平府，卢俊义攻打东昌府，谁先打下城池谁就做梁山之主。东平府兵马都监董平，善使双枪，威猛异常。宋江爱才想要收服董平。王定六、郁保四与董平素有往来，自告奋勇做信使去劝降董平。董平一心为主，认为王定六、郁保四二人劝降他是对他的侮辱不念旧情要杀掉二人。东平太守程太守忌惮梁山众英雄，只对二人施了杖刑。董平自小由程太守抚养大，与太守女儿程婉儿青梅竹马，怎奈程太守却不同意二人的婚事。董平意欲打赢这场仗，再次向程太守提亲。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E67 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="67" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

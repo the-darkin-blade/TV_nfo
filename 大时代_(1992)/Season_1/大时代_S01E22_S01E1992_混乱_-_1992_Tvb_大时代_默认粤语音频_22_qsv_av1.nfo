@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>混乱</title>
+  <originaltitle>Episode 22</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>2399051</id>
+  <uniqueid default="false" type="tmdb">1460709</uniqueid>
+  <uniqueid default="false" type="trakt">1435903</uniqueid>
+  <uniqueid default="true" type="tvdb">2399051</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>展博对阮梅的事很内疚，慢慢去了解身边的人的感受，他向龙纪文和方芳道歉。方敏企图自杀被送进了医院，检查出得了性病。展博才知道原来丁益蟹一直恐吓小敏，逼她就范。方婷告诉展博丁蟹回来了，展博报警。慧玲和同事们一起喝酒，丁蟹跟着他们，等玲的同事都走光了，丁蟹出现。玲看到丁蟹，大喊警察救命。丁蟹却一相情愿认为铃是因为他当年抛下她而生气。丁蟹为了补偿玲，愿意被她开车撞死。慧玲在紧急关头手失控急转弯，自己也摔出车外。丁蟹送慧玲入医院，同时警察也通缉丁蟹。丁蟹在准备离开医院之时，警察到来。 丁蟹抢了枪劫持病人。慧玲看到丁蟹惊慌失措的样子，异常高兴，指责丁蟹过往种种。丁蟹完全不能理解。医院外，展博和益蟹兄弟吵做一团，医院内，慧玲激丁蟹出去面对警察，丁蟹要慧玲和他一起出去。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1412</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.22_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 22 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1412</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.22_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

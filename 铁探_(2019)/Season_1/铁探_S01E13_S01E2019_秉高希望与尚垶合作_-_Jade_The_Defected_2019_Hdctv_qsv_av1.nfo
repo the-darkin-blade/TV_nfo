@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>秉高希望与尚垶合作</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>铁探</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>7109980</id>
+  <uniqueid default="false" type="tmdb">1751186</uniqueid>
+  <uniqueid default="false" type="trakt">3452956</uniqueid>
+  <uniqueid default="true" type="tvdb">7109980</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>秉高暗中叫尚垶去找曦华，原来曦华手中有营长的线索，只是从未对任何人透露。通过励杰，尚垶与喜悦找到了曦华。三人打动了曦华的良知，获得了茶楼的线索。彤彤果然是被困在茶楼，就在尚垶和喜悦接近真相之时，阿喱的女友江丽瑶突然出现，使得营长得以将彤彤转移。
+
+尚垶再次向奕泰申请不公布广兴的死讯，遭到拒绝。尚垶没再争取，而是转为要求案件重组。记者会照常进行，广兴之死讯被公诸于世。与此同时，秉高和阿喱分别被带出到犯案现场进行案件重组。秉高突然推翻口供，争取到机会和尚垶单独交谈。秉高希望尚垶能放他离开，因为他相信只有自己才能平安救出彤彤。
+
+阿喱被营长用重火力救走，尚垶这边也有警员中弹，局势混乱。秉高用车挡住射向尚垶的暗枪，带上尚垶和受伤警员一同赶往医院。往医院途中，尚垶得知之前收到的捐款是来自秉高，而秉高手中的赎金正是能保住彤彤性命的关键。经过一番内心挣扎，尚垶答应放走秉高，条件是自己必须一同前往。秉高不愿拖累尚垶，制造车祸独自逃脱。
+
+秉高答应继续帮营长做事，得以保住彤彤。彤彤仍无法接受父亲已死的事实，而未来那危机重重的路，只有秉高与她相伴。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <studio>TVB Jade</studio>
+  <studio>Tencent Penguin Pictures</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:25</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1315</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Defected.E13.2019.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade The Defected 2019 Hdctv qsv av1</title>
+  <originaltitle/>
+  <showtitle>铁探</showtitle>
+  <season>1</season>
+  <episode>2019</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <studio>TVB Jade</studio>
+  <studio>Tencent Penguin Pictures</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:25</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1315</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Defected.E13.2019.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2019" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>武松杀嫂</title>
+  <originaltitle>武松杀嫂</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026645</uniqueid>
+  <uniqueid default="false" type="trakt">7308131</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>武松终于回家，但没想到迎接他的却是武大的灵位。武松伏地大哭，悲痛无极。他质问潘金莲如何将他哥哥服侍死了。潘金莲巧言强辩，推脱说武大是害了心痛病。武松又问她吃什么药，潘金莲更是推的一干二净。武松冷笑而去。王婆见武松离去，想过来通个消息，却发现武家前门后门都被看守了起来。武松找到给武大验尸发丧的仵作何九叔，逼问他武大死亡真相，何九在尖刀的威逼下告诉武松武大郎并不是什么心痛病死的，而是被人毒死。武松更逼问是何人毒死了武大，何九告诉了他潘金莲和西门庆的奸情。并告诉了他郓哥曾和武大前去捉奸。武松拿了何九和郓哥去府衙告状，但没想到知县相公推说尸、伤、病、物、踪五件不全，不能立案，武松愤怒之下，扣住了何九和郓哥，将两人带到自己家中。武松在家中布置灵堂，将左邻右舍并郓哥何九，都接到家中，寻了在曾在官府供职的老爹做笔记，逼问潘金莲杀夫一事。潘金莲横目冷对，让他去问王婆。王婆尖叫起来，怒斥潘金莲。王婆急忙忙将一切都推到潘金莲西门庆身上。在武松的刀尖下，潘金莲也承认了一切。武松手刃杀兄仇人，祭拜兄长。提着染血的刀冲上狮子楼寻到了西门庆，武松杀红了眼，西门庆哪里是他的敌手，被武松杀与狮子楼下。知县相公回护武松，从轻发落，判了他一个发配孟州。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2650</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E28 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

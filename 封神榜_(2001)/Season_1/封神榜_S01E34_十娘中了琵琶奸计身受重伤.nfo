@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>十娘中了琵琶奸计身受重伤</title>
+  <originaltitle>Episode 34</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id>4418960</id>
+  <uniqueid default="false" type="tmdb">2025555</uniqueid>
+  <uniqueid default="false" type="trakt">1484729</uniqueid>
+  <uniqueid default="true" type="tvdb">4418960</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>哪吒为免父子相残，向李靖高挂免战牌三日，琵琶向妲己自夸李靖一出，哪吒即要求免战，可惜，申公豹则怀疑李靖根本枉法徇私，久疏战阵，对付不了哪吒，令琵琶大为生气，妲己要琵琶亲上战场，以示忠贞，李靖大军士气低落，李靖决退兵三十里，再作打算，无奈此际琵琶出现，托骗李靖天香在妲己手里，若不能战胜而回，天香必死无疑，李靖被逼出兵攻打哪吒，可惜节节败退，李靖更身受重伤，琵琶不单对李靖没半点体谅关怀，更在霓裳面前大骂李靖是废物，后悔当初嫁给他。更要李靖负伤上阵。
+
+金吒、木吒等人信琵琶所言，向十娘跪地求饶，更谓琵琶正在军中难产，希望十娘到李靖军营相助，十娘信以为真，急忙赶到李靖军营，见琵琶临盆在即，极为辛苦，因而婉言安慰，更助琵琶顺利产下男婴，谁知十娘手中男婴即变成一只小狐狸，更在十娘三颈项上咬了一口，十娘即一倒而下，琵琶心中大快、金吒、木吒众人终明白琵琶的阴险面貌，心中气愤不已。
+
+十娘中了狐狸毒，健康每况愈下，惟莲花众人不知十娘受伤原因，内心担忧不已。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1046</width>
+        <height>720</height>
+        <durationinseconds>1414</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>34_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

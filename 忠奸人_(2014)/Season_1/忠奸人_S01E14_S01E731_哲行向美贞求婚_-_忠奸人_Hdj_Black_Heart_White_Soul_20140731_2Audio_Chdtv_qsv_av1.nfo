@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>哲行向美贞求婚</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>4946032</id>
+  <uniqueid default="false" type="tmdb">1984054</uniqueid>
+  <uniqueid default="false" type="trakt">1305393</uniqueid>
+  <uniqueid default="true" type="tvdb">4946032</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>绰姿因为目击承义堕楼身亡而被立勋带回警署录取口供，而绰姿因为曾指责承义，故认为是自己害死了承义。以铿及嘉莉赶到警署安抚绰姿，但绰姿的情绪却未因而好转。
+
+之后立勋与慧英一起前往殓房认尸，因而收到承义在临死前写下的亲笔信，立勋看毕后即感心情低落。立勋自此更迁怒于与枪击案有密切关系的景昌，并派人加强扫荡景昌的地盘。景昌为被警方针对一事大感不快，更将被警方盯上的责任归咎于启源。
+
+嘉莉遇上　启源敏晖
+
+绰姿自从承义死后便拒绝外出与任何人见面，令以铿大感忧心，因此以铿决定强迫嘉莉放弃工作，要她全心全意留在家中看顾绰姿。看到以铿的专横令嘉莉感到不快，嘉莉为了平复自己的情绪，便特地到启源的餐厅用餐，亦因而遇上了敏晖和启源。
+
+敏晖作为启源身边的女人，发现启源对嘉莉抱持着特别感情，但当敏晖想问个明白的时候，却惹起了启源的不满，令敏晖不敢再询问下去。
+
+刘焱回港　联络启源
+
+刘淼独自回到故居拜祭外婆，却突然遇上了早已潜逃国外的刘焱，因而令刘淼大感惊慌。刘焱向刘淼查问美贞的下落，而刘淼亦为了保护美贞，故没有将自己正与美贞及哲行同住的事情告知刘焱。
+
+刘淼要求哥哥出手接济，刘焱见刘淼可怜，便给与刘淼生活费后独自离开，之后刘淼担心美贞会胡思乱想，故没有将重遇刘焱的事告知美贞。
+
+刘焱与刘淼分别后，即约启源外出见面，原来刘焱因为不适应新环境，而决定回来香港。刘焱被景昌的手下围攻，但结果景昌的手下却全数败在刘焱的手上。
+
+启源景昌　划清界线
+
+景昌因为刘焱突然回港而大为紧张，便急忙地召见启源问话，但是启源早已对景昌不满，故启源亦借此机会与景昌划清界线，因而令景昌大感气结。
+
+立勋与漫冰在承义跳楼的大厦进行调查，竟在梯间发现血迹，故令立勋相信承义并非死于自杀。
+
+绰姿因为仍然拒绝出门，故令哲行的活动失去了重要赞助人，哲行因此要求立勋帮忙说服绰姿。立勋与绰姿见面后，便将承义并非死于自杀一事告知绰姿，绰姿闻言后亦因此释怀。
+
+嘉莉以铿　关系日差
+
+嘉莉与以铿的关系日渐疏离，而嘉莉亦因而经常借故与启源见面，但启源却一直主动与嘉莉保持距离，令嘉莉因而感到心灰意冷。
+
+刘焱经过调查后，终得知美贞与哲行交往的事，并成功潜入了哲行的家，以向刘淼作出警告……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep14.20140731.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>忠奸人 Hdj Black Heart White Soul 20140731 2Audio Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>731</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep14.20140731.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="731" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

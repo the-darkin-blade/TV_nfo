@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>大唐游俠傳</title>
+  <originaltitle>大唐游俠傳</originaltitle>
+  <showtitle>大唐游俠傳</showtitle>
+  <sorttitle/>
+  <year>2008</year>
+  <top250>0</top250>
+  <ratings/>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>本剧以唐朝天宝年间安史之乱为历史背景，主要叙述了一批武林侠客雪家恨、平叛乱的传奇故事。
+
+唐代天宝年间，鸡鸣镇是进出长安的必经要道，镇上的一家酒楼，被范阳节度使安禄山的手下王龙克等人包下，以埋伏九原太守郭子仪的密使夏凌霜，企图抢夺她身上的密信。飞虎山寨主窦令侃和他的义子铁摩勒路经此地，出手救了凌霜。铁摩勒的父母当年被安禄山所杀，为了替二人报仇，因而与安禄山势不两立。
+
+铁摩勒和窦令侃及后前往鸡鸣镇探望令侃的妹夫段圭璋，没想到王龙克等人跟踪而来，暗中捉了段圭璋的妻子。段圭璋十八年前被安禄山大军包围，亲生儿子失陷乱军之中，好友铁昆仑战死，从此圭璋心灰意冷，隐居在鸡鸣镇，不理江湖恩怨，没想到安禄山还是不放过他，于是他决心重出江湖，联同铁摩勒与安禄山展开对战。</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"31962","wikidata":"Q7126377","tvdb":"166171"}</episodeguide>
+  <id>166171</id>
+  <imdbid/>
+  <tmdbid>31962</tmdbid>
+  <uniqueid default="false" type="tmdb">31962</uniqueid>
+  <uniqueid default="false" type="wikidata">Q7126377</uniqueid>
+  <uniqueid default="true" type="tvdb">166171</uniqueid>
+  <premiered>2008-07-24</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <studio/>
+  <country>中国</country>
+  <actor>
+    <name>TAE</name>
+    <profile>https://www.themoviedb.org/person/1398007</profile>
+    <tmdbid>1398007</tmdbid>
+  </actor>
+  <actor>
+    <name>何琢言</name>
+    <profile>https://www.themoviedb.org/person/1875682</profile>
+    <tmdbid>1875682</tmdbid>
+  </actor>
+  <actor>
+    <name>黄维德</name>
+    <profile>https://www.themoviedb.org/person/1252181</profile>
+    <tmdbid>1252181</tmdbid>
+  </actor>
+  <actor>
+    <name>沈晓海</name>
+    <profile>https://www.themoviedb.org/person/2726549</profile>
+    <tmdbid>2726549</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

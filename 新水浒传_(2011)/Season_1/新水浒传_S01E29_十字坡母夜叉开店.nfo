@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>十字坡母夜叉开店</title>
+  <originaltitle>十字坡母夜叉开店</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026646</uniqueid>
+  <uniqueid default="false" type="trakt">7308132</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>一路上的解差对武松十分照顾，连让武松逃走的玩笑都能开，武松与他们称兄道弟十分融洽。这日要投宿，一个卖菜的路人指点武松等，说十字坡上有个张家老店万万不能住，只因店主是个母夜叉孙二娘，不但图谋客人的行李，更会将客人迷晕宰杀了做人肉包子。武松哈哈哈大笑，偏不信邪，定要去那张家老店投宿，路人见他执迷不悟，扫兴而去。武松解差找了无数石头填在行李里假装银子。三人嘻嘻哈哈来投张家店。一件掌柜孙二娘竟是个美貌娘子。可重的要命的行李她也能一手撑住，武松也不由佩服。就在孙二娘布置了酒肉请客人吃之际，那指点的路人走了进来，孙二娘忙迎上去为他擦汗，两人竟是夫妻，这倒叫武松三人疑惑不解。孙二娘要在武松等人的酒水里下蒙汗药，丈夫张青故意打个喷嚏将药弄翻，孙二娘嗔怪丈夫不许她下药。武松催促要救，孙二娘又摸出一包蒙汗药下了到了酒里。不多时屋里砰砰倒了一群，孙二娘又摸到行李沉沉，十分高兴。叫来伙计将三人弄去厨房。却不想武松原来是假装被迷，顿时翻身来挡，孙二娘猝不提防，被武松制住，张青赶忙来救。张青有心结识武松，孙二娘却气愤愤，非杀武松不可，张青一时挡住妻子砍向武松的刀，一时又拦住武松砍向妻子的刀，三人斗在了一起。武松看着一对夫妻真是晕了头。张青对他解释，原来孙二娘有一段伤心往事。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2649</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E29 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

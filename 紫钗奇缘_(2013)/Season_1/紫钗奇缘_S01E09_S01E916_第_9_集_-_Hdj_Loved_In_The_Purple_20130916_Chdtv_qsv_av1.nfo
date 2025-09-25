@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 9 集</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486663</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小玉问杜意浓不担心杨炎会发现吗，杜意浓告诉二人自己没那么笨，自己早晚有一天会成为人中龙凤。慈瑞来见宁国公主希望宁国公主可以再履行婚约让纳兰东和小玉成亲。宁国公主问小玉不是和李益订了终身。慈瑞表示小玉跟霍王的姓也姓李，根据大唐律历同姓是不能够成亲。慈瑞提出让宁国公主先看看纳兰东的想法，至少小玉这边她会有办法让小玉和李益分开。纳兰东在街上遇到靖澜因为一匹马和杨炎门客争执，纳兰东出手相助帮靖澜得了马匹。卢杞听说纳兰东助靖澜之事让靖澜带着礼物登门拜访感谢。卢杞是因为知道皇上对纳兰东另眼相看。靖澜带着杨炎字画到了公主府，宁国公主本看到字画很高兴当看到是杨炎字画立刻不喜让靖澜拿走。并指出卢杞依附杨炎这等奸臣，靖澜的回答不卑不亢这使得宁国公主对靖澜高看一眼。宁国公主很喜欢靖澜想要收其做干女儿，但靖澜却拒绝了，靖澜是想要做宁国公主儿媳。靖澜在紫檀殿把刚刚去宁国公主府的事都说了，慈瑞心有所思。宁国公主问纳兰东觉得靖澜怎么样，纳兰东表示自己的意中人是小玉。宁国公主告诉纳兰东最好断了这个念想。纳兰东问宁国公主和慈瑞到底是何关系。宁国公主告诉了纳兰东真相，他和小玉确实有婚约，慈瑞是他的姑姑。现在小玉的身份特别，如果揭穿小玉的身份皇上会怪罪，如果不揭穿小玉是歌姬的身份两人又怎么可能在一起。纳兰东为了小玉宁愿她快乐的做一名歌姬也不愿她身份揭穿被人指指点点。朱泚遇到了麻烦杨炎命卢杞监视并禁止离开长安，如果朱泚不尽快回去边境会遇到麻烦。纳兰东请小玉帮忙邀请众人踏青，上船后朱泚趁机潜走。纳兰东的意思是让小玉请靖澜来。踏青当日一直有卢杞的下人监视着朱泚，上船着莫玥没有跟随和朱泚在船下依依惜别。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1333</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep09.20130916.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20130916 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>916</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1333</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep09.20130916.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="916" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 30 集</title>
+  <originaltitle>Episode 30</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486684</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>为了帮莫玥和慈瑞找点事情做，浣纱提出可以在紫檀殿附近创办一个集市。小玉浣纱在集市上见到了落魄的崔长空，崔长空又到紫檀殿中借钱。小玉提议可以进些货物到草市去卖，但崔长空表示自己还是要考科举并且韦博文已经带着他到四处打点这才前来借钱。小玉当下便让浣纱拿一千给崔长空。小玉与莫玥在草市时碰到了杜意浓，两人与杜意浓已经破裂，这时突然前来一人要收保护费。来人明知小玉身份却也敢来收保护费，正这时靖澜前来还带来几个女娃，表示这里由自己管理让女孩子出手打跑了来人。杜意浓提出三姐妹聚聚，莫玥本不同意但小玉的意思聚聚也无妨。杜意浓悄悄和卢杞见面，卢杞要杜意浓与自己合作扳倒杨炎。韦博文带着崔长空拜见了杨炎，杨炎见到崔长空的绘画技艺与李益相仿便让他下次再来有些画让他临摹。杜意浓知道杨炎对小玉有意思给杨炎出主意先将李益调走，自己自然有办法让小玉投怀送抱。杨炎问杜意浓事成后要何赏赐，杜意浓提出让自己与韦博文成亲。　　李益被安排去了洛阳，慈瑞准备等李益回来便与他商量和小玉的婚事。慈瑞心疼小玉，现在只要小玉过的好便可以了。在杨炎家里不少朝中官员来欣赏崔长空做画，这时有人提出杨炎有幅李益的传奇之作。这幅画杜意浓本不想拿出，此画原来是李益用与霍小玉，不知怎么用此画换了杜意浓的自由。杜意浓很在意此画。崔长空将意浓在杨府受辱之事告诉了小玉，小玉便要去杨家取回此画，临走时拜托靖澜自己迟迟未归便让卢杞相救。当小玉到杨府要画被杨炎囚禁起来，小玉还想着卢杞会来救自己，可卢杞根本没有相救的意思。靖澜到公主府求救，公主不在却正好遇到了回来的纳兰东。纳兰东与小玉一同前往杨府。但杨炎表示虽然小玉来过府上却在昨天已经离开。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1331</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep30.20131015.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20131015 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>1015</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1331</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep30.20131015.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1015" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

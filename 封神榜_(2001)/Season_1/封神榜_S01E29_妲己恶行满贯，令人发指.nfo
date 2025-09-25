@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>妲己恶行满贯，令人发指</title>
+  <originaltitle>Episode 29</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id>4418955</id>
+  <uniqueid default="false" type="tmdb">2025548</uniqueid>
+  <uniqueid default="false" type="trakt">1484691</uniqueid>
+  <uniqueid default="true" type="tvdb">4418955</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>杨戬救回姬昌全军，令申公豹无功而回，飞虎怀疑申公豹只借用五彩神牛而独自应战，目的是想邀功，申公豹忙加解释，而杨戬因未能知道家书内容，心里对黄颜更是倍加思念、黄颜独力养育念娘，心中对杨戬亦无限思念，只可借助红布一片，将点滴写下，随风飘给杨戬。
+
+琵琶自恃怀有李家骨肉，维常无理取闹，李家上下对她百般忍让，十娘擅自借用哪吒之风火轮到李家探望李靖，更留下飞鸽以便李家有需要时用之，而纣王一样纵情酒色，大权全落在妲己之手，一日，凝香本想为妲己送上食物，竟无意中发现妲己露出狐狸尾巴、心中大为一惊，妲己日渐嚣张，全不将皇后及众嫔妃放在眼内，杨贵妃为挽回昔日地位，不惜打扮成村妇以讨纣王欢心，谁知因而惹下杀身之祸，妲己诬蔑杨贵妃用巫术加害纣王而将她施以趸盘之酷刑，恶行令人齿冷。凝香眼见妲己心肠歹毒，终向皇后道出妲己出生时姬昌所占得之寅卦及狐狸尾巴种种真相，皇后决找比干相助。
+
+琵琶担心将近怀胎十月，奸计会被拆穿决借金吒、木吒之手令自己流产，李家上下焦急不已，天香决定亲到黑风山找活命灵芝。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1052</width>
+        <height>720</height>
+        <durationinseconds>1459</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>29_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>鲁提辖拳打镇关西</title>
+  <originaltitle>鲁提辖拳打镇关西</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026621</uniqueid>
+  <uniqueid default="false" type="trakt">7308108</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>鲁达一身好武艺，种经略毕竟不会和他动手，只说此事自己管不了，让鲁达自己去管。鲁达顿时没了主意。再一次来到金老二父女栖身之处，鲁达掏出身上银两并要史进李忠相帮，李忠财缺，掏钱慢了些有所保留，都被鲁达一番喝斥。鲁达命史进、李忠护送金翠莲父女离去，自己则守住客店大门，不许人通风报信。等到金翠莲父女走远，鲁达便自行去找郑屠。鲁达找到郑屠，极尽羞辱郑屠，郑屠本是欺软怕硬之人，竟不顾廉耻，仍满脸堆笑，有问有答。鲁达见不能激怒郑屠，便叫郑屠亲手给他剁肉，先剁十斤精肉作臊子，再剁十斤肥肉作臊子。郑屠依然不敢怠慢，依言自己动手，将精肉、肥肉纷纷剁好。晌午将过，郑屠才把臊子做好。鲁达估摸金翠莲父女已经走远，郑屠再也追赶不上，便直言让郑屠再剁十斤金软骨，也要做成臊子。郑屠隐忍不住质问鲁达，鲁达坦然承认此行确是为了刁难郑屠，随即便例数郑屠诸多罪状，三拳下去，打死了镇关西郑屠。郑屠家人随即告上官府，鲁达却早料到，已经收拾好细软离开渭州。官府随即发出海捕公文，捉拿鲁达。京城里，高衙内对林冲娘子纠缠不休，帮闲富安出谋划策，让陆谦帮高衙内骗得林娘子。陆谦起先不肯，富安讲明利弊也不再多说。陆谦上门请林冲去自己家吃酒，出门却不去自己家，转道去了酒肆。林冲讲述自己的不得志，而陆谦则旁敲侧击的试探林冲肯否让出自己的娘子。林冲不快，正遇上前来报信的丫鬟，原来林冲出门不久，便有人来声称林冲突发疾病，在陆谦家昏倒，骗得林娘子前去，不想竟是高衙内作祟。林冲赶到陆谦家，救下了娘子，高衙内跳窗而逃。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2667</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E05 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

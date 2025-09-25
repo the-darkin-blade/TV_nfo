@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>智取二龙山</title>
+  <originaltitle>智取二龙山</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026638</uniqueid>
+  <uniqueid default="false" type="trakt">7308124</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>乌龙院大火，一片混乱之中，阎婆藏下宋江杀人之刀，一诉状纸将宋江告上了衙门。府衙质问宋江为吏怎么会知法犯法。阎婆指女儿偷情，张文远为奸夫，宋江怒而杀人。府衙虽有心回护宋江，但人证物证都在，只得让雷横朱仝前去宋家抓人。宋江一路急赶回家，直告兄弟宋清自己犯下杀人之罪，只望见见父亲。宋老太爷并不惊慌，反而点中他的心思，指明宋江欲自尽。宋江伏地大哭，痛悔无限。雷横朱仝来到宋家庄，大声喧哗，装模作样搜索宋江。但雷横等来来回回的搜索，就是对活生生站在眼前的宋江视若无睹。宋江感激兄弟庇护之心，但他已经决意伏法，以求心安。府衙判他刺配江州。鲁智深遍寻林冲而不得，被人提点，决意投入二龙山，等林冲来寻自己。不想与二龙山匪首邓龙畏惧鲁智深武功，闭门不纳。鲁智深与他比试，邓龙狡猾多端，败于鲁智深后深闭山门坚守不出，鲁智深苦无门路，只得在山下徘徊。不想杨志也想上二龙山来，两人不打不相识，志听说二龙山匪首不义之事，便劝说鲁智深一起夺下二龙山头领之位，更好接林冲到来。鲁智深心动，却苦无对策。杨志手下曹正一挥手，反将鲁智深绑了，献于二龙山匪首邓龙。邓龙大喜过望，正要斩杀鲁智深，却被鲁智深制住。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2672</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E21 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

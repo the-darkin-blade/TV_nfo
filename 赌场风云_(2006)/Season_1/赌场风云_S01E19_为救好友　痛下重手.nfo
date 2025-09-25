@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:32 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>为救好友　痛下重手</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>1623621</id>
+  <uniqueid default="false" type="tmdb">1992297</uniqueid>
+  <uniqueid default="false" type="trakt">1576551</uniqueid>
+  <uniqueid default="true" type="tvdb">1623621</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>忠怕欢畅有证据在手，找高名对付欢畅。高名叫人毒打欢畅一顿，再带他出公海欲杀之。正初知无法在高名面前救欢畅，唯有孤注一掷亲自出手将欢畅打下海中让他逃生。高名手下遍寻一夜毫无所获，正初乘机要求高名不要再搞事，高名答应。一切彷似事过境迁，福荣与来富以为欢畅躲起来逃避警察，于是有空便四出寻找欢畅的下落。正初因对欢畅有愧疚之心，故欲在来富身上补偿将他调离洗牌房，来富却因此极感激他。维与众荷官出海，珠美又被戏弄，来富不忍问为她为何喜欢维，珠美答因维富有，可实现她的欲望。来富知珠美想约会维，主动替她邀约维，但维竟然以啤牌胜负为赌注，来富自然大胜。福荣向正初说来富是记牌天才，正初首次看到来富的惊人记牌能力，大感好奇。正初因欢畅之事经常发噩梦，怕有天梦境成真遭所有人唾弃。正初要求收来富为徒，来富高兴答应。正初为试来富之能力与他赌，来富真的百战百胜。直至最后一局，来富凭记忆知正初会输，但正初竟要「Show Hand」，来富怕自己记错牌不敢跟进，但正初原来真的只是「偷鸡」。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2687</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep19.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

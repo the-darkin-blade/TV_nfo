@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>立勋拯救遇难绰姿</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>4955088</id>
+  <uniqueid default="false" type="tmdb">1984059</uniqueid>
+  <uniqueid default="false" type="trakt">1306131</uniqueid>
+  <uniqueid default="true" type="tvdb">4955088</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>哲行因为被启源及以铿赏识，社会地位及收入亦因此愈来愈高，哲行的弟弟哲明见状，便上门请求兄长出资助自己创业。但是哲行对弟弟一直抱持怨恨，故拒绝了其请求，但是美贞为了修补哲行的家庭关系，便决定出面游说。
+
+美贞更向哲行说出，自己亦会打算参与哲明的创业计划，以让自己不用在家无所事事，哲行闻言后即改变心意出资助其弟创业。
+
+哲明打算开办贩卖残疾用品的生意，因利乘便之下便与哲行一直赞助的社福机构合作。美贞了解后，亦希望刘淼能藉此改善其生活态度，便要求刘淼加入社会机构工作，刘淼终表示同意。
+
+哲行成为了立勋的线人后，两人便经常地私下见面，哲行亦因此得知，绰姿经常与立勋以短讯联络。
+
+以铿回港　嘉莉失望
+
+哲行为了促成立勋与绰姿的关系变得更好，一方面鼓励立勋正视自己的感情，另一方面亦以短讯提醒绰姿应与立勋保持联系，以加速两人的发展。
+
+另一方面，嘉莉乘以铿不在香港的时间，与启源一直朝夕相处，殊不知以铿因为要回港寻回女儿，故改变行程突然回港。
+
+绰姿成功　争取自由
+
+立勋在绰姿传来的相片中，发现绰姿其实现正身处香港。立勋因担心绰姿去向，便独自到郊外进行搜索。原来绰姿与以铿发生争执，而绰姿一气之下便独自回到香港散心，想不到身处郊外的绰姿不慎遇上山难，幸得立勋赶到，成功出手拯救绰姿。
+
+立勋得知绰姿对父亲的不满后，便支持绰姿进行一些反叛行为，看见女儿表现出一副不服从自己命令的态度，不禁令以铿气在心头。在女儿的强势要求后，以铿最后迫于无奈，无可奈何地增加了绰姿的自由，并且容许绰姿与立勋见面。
+
+虽然绰姿的自由度增加，但以铿却自此加强了对嘉莉的监控，甚至向嘉莉施暴发泄，令嘉莉感受到前所未有的压力。
+
+哲行查探　启源恋情
+
+哲行发现启源近日经常不知所终，便打算拜访敏晖加以了解，结果因而撞破了敏晖与男友同住之事。哲行一直以为敏晖是启源背后的女人，但发现既然敏晖已有伴侣，便意味启源的伴侣另有其人。
+
+哲行为了搜集更多情报，便将此发现告诉立勋，立勋闻言后便决定以此方向对启源进行调查。之后启源及哲行一起出席酒会，并且在酒会上遇见以铿一家。酒会结束后以铿因为与朋友聚旧，故令嘉莉有机会与启源偷情……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1327</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep19.20140807.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>忠奸人 Hdj Black Heart White Soul 20140807 2Audio Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>807</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1327</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep19.20140807.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="807" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

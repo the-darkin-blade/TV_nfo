@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第24集 为爱陈亦度将失去奋斗多年的事业</title>
+  <originaltitle>第24集 为爱陈亦度将失去奋斗多年的事业</originaltitle>
+  <showtitle>放弃我，抓紧我</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id>5882553</id>
+  <uniqueid default="false" type="tmdb">1247916</uniqueid>
+  <uniqueid default="false" type="trakt">2436666</uniqueid>
+  <uniqueid default="true" type="tvdb">5882553</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>厉薇薇一直在陈亦度家门口徘徊，想不好要不要敲门进去向他解释，突然自家门倒开了，里奥敷着自己的面膜像个鬼一样出现在厉薇薇面前，里奥声称自己是被蒂凡尼折磨得够呛来这里寻找家庭温暖的。突然里奥想起了在电视里看到厉薇薇和霍骁在那里秀恩爱的镜头，指着厉薇薇问她是不是皮痒了？薇薇烦恼着说自己也是被逼的，所以现在都不敢接陈亦度的电话，不知道该怎么面对他。里奥吐出四字妙计“负荆请罪”。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2755</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>J2.Stay.With.Me.Ep24.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

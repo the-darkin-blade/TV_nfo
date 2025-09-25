@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李玉庵试图借钱遭拒，阿四内心焦虑</title>
+  <originaltitle>李玉庵试图借钱遭拒，阿四内心焦虑</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>37</episode>
+  <id>4938215</id>
+  <uniqueid default="false" type="tmdb">2728580</uniqueid>
+  <uniqueid default="false" type="trakt">1306633</uniqueid>
+  <uniqueid default="true" type="tvdb">4938215</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李玉庵在家摆起三老爷的谱儿，去账房要钱，被老丁严词拒绝。阿四忙得没时间去找阿纯，只能派小丁去看望，但他知道，自己其实是不敢面对阿纯。李玉庵想在制造局找差事掺和，为此巴结“李重光”。小丁使劲提醒阿四，千万别招他。阿四对李玉庵恭敬有礼，却不给钱，李玉庵碰了一鼻子灰。李重甲请李玉庵逛妓院，抽大烟，透漏眼前的“李重光”是假的，还故意将阿四香港车夫身份证名遗漏给了李玉庵。李重甲要把李玉庵当枪使赶走阿四。 李玉庵找阿四试探真假，想先敲出一笔钱。阿四滴水不漏，解释这些证明都是铁山为的拆散李家做的假证据。李玉庵只得暂时作罢。区舒云回娘家看望区巡抚，区巡抚嘱咐区舒云只要坚定不移的认定“李重光”是真的，就不会出错。李玉庵调戏夏荷未遂。阿四得知却要为夏荷出头，区舒云劝住阿四按兵不动，看李重甲的反应。李重甲找到李玉庵，不但没有发火，还暗示夏荷是看上了“李重光”所以不把李玉庵放在眼里。李重甲暗地里指使妓院老鸨来李家追李玉庵欠下的帐。李玉庵听说妓院来上门要账，急忙从后门溜出李家。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2657</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep37_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="37" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

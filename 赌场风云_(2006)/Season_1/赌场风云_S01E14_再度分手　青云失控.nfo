@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>再度分手　青云失控</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>1623571</id>
+  <uniqueid default="false" type="tmdb">1992292</uniqueid>
+  <uniqueid default="false" type="trakt">1576539</uniqueid>
+  <uniqueid default="true" type="tvdb">1623571</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>正初胜出赌局，高名把正初出千的片段放回给正初看，正初始知被设局陷害。正初怀沉重心情找青云，看她仍沉醉于美梦中，心中有所决定。正初绝情地与青云分手，青云晴天霹雳，正初更说与青云一起纯是为了要她戒赌，以赢回欢畅的杯。青云质问欢畅有关打赌之事，欢畅莫名其妙说只是戏言，青云气愤不已。正初遇上挑衅，竟情绪失控以车撞车来发泄。福荣通知欢畅说正初因交通意外入院，青云大为紧张亦一同前往。欢畅见正初便说出直觉觉得正初遇上解决不了的事情，正初说欢畅是最了解自己的人。青云欲见正初却不果。珠美与来富在训练班上见子维无心向学，更要其他人陪他出外游乐。正初在分牌房只见来富与珠美工作，对来富加以鼓励。赌场再有老千出现，正初知是高名安排，唯有忍气吞声，等待反击机会。欢畅送花遇上汉昌，更被汉昌认出他是赌场的花王。两人一见如故，汉昌邀欢畅看花，最后他更劝欢畅回赌场帮手，欢畅最后决定回去赌场工作。正初成功找到握有高名罪证的高名妻子，但她要正初出价二千万才肯交出罪证。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>2691</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep14.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

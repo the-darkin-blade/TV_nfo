@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 23 集</title>
+  <originaltitle>Episode 23</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486677</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>朱泚带着公主嫁妆赶来河西，朱泚早就在暗中听从卢杞吩咐暗 护着和亲队伍。纳兰东所料不差果然是刘济所为。朱泚告诉纳兰东等人自己其实也有私心，希望自己能早日立功还可以与莫玥再续前缘，即使知道莫玥为了为父还债做了无载的小妾。纳兰东河西王王及宰相商定了以后互市的地方改为灵州。药葛罗又问起两名郡主的来历。药葛罗看上了洛阳郡主小玉。达旦王找到宁国公主前来询问，按照惯例公主在正式成亲后陪嫁的郡主有一名可以返回大唐，达旦要公主早做决定。纳兰东也知道回礼之事和靖澜求宁国公主让小玉回归大唐。靖澜也愿成全小玉。宁国公主被封为可敦后达旦便问允许哪名郡主返回长安，宁国公主当场便说出长安郡主。纳兰东找到小玉问小玉为何甘愿留在河西。小玉并不知道药葛罗要娶自己之事，得知后小玉表示就算死不会嫁人。纳兰东有许多不舍抱着小玉告诉她不论什么时候自己都不会放弃，有朝一日会回来接她回家。宁国公主向小玉及靖澜解释自己为什么让靖澜回来，在和亲这件事上卢杞出力不少，靖澜也是受了牵连再则卢杞让朱泚夺回了嫁妆。小玉对此事并无怨言并请长安公主劝纳兰东回到长安后向卢家提亲。长安公主提醒纳兰东一定要防着卢札。长安公主没有告诉纳兰东真正的原因，是因为卢杞曾威胁长安公主，卢杞知道纳兰东的生母是何人。纳兰东流着泪告诉小玉自己不需要别人照顾，自己一个人很好。小玉抱住纳兰东告诉他自己只想知道他过的很好。纳兰东告诉小玉自己只有一颗心只能给一个人。药葛罗提出了要娶小玉，宁国公主表示自己无法作主。药葛罗又提出让可汗修书给大唐皇帝。纳兰东来找小玉时，小玉看到纳兰东样子故意说别子这样怎么能让靖澜放心嫁给他，纳兰东负气离去。纳兰东和靖澜返回大唐，在玉门关刘济见请罪是自己没有保护好嫁妆。李益在得知小玉无法返回后心中难过问纳兰东为何没有带小玉返回而回来的是靖澜，李益指责是纳兰东有私心不想让自己的小玉在一起。靖澜质问李益自己为何不能前去相救，并将小玉要嫁河西宰相之事说出。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1336</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep23.20131004.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20131004 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>1004</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1336</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep23.20131004.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1004" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

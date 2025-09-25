@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>神行太保传假信</title>
+  <originaltitle>神行太保传假信</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>39</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026656</uniqueid>
+  <uniqueid default="false" type="trakt">7308142</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宋江酒后题诗，内有叛意。江州无为军通判黄文炳，抓住宋江反诗把柄，向知府蔡九报告，借此邀功。蔡知府听了黄文炳的话，命人将宋江捉来入牢。恰所派之人正是神行太保戴宗，他赶忙找到宋江报信，宋感叹遭奸邪陷害命不久矣，戴献计让他装疯蒙混。公堂上，宋江依计装疯卖傻，蔡九又惊又怒。退堂后，黄文炳在蔡九耳边吹风，让他用是否会吃大便试探宋江真假。再次升堂，蔡九当真用“夜香”试宋江，宋公明忍辱负重，逼真演绎，继续装疯，还邀堂上公差同享“美味”以掩人耳目。押回狱中，戴宗心痛哥哥遭此毒计，宋公明感激太保救己性命。当蔡九几乎相信宋江真疯，黄文炳又吐坏水，说宋江题诗之字刚劲有力，定是得到消息才装疯糊弄大人。第二天，蔡依黄之言讯问牢狱头目，验证宋江昨日才疯，即决定提刑宋江，严刑逼供。宋公明被带到公堂狠打板子，被蔡九判罪画押，打入死牢，说是待他上报京师再做定夺。黄文炳如愿让蔡九上报京师，二人甚是得意。李逵来狱中探视宋公明，心疼急躁，恨不得即刻救人。知府让戴宗去东京太师府送封书信，戴宗回狱中交待李逵好生服侍哥哥，说他到京城想办法。戴宗跑三百里，经梁山脚下朱贵小铺，想吃食歇脚，却被蒙药麻翻。搜出书信，得知宋公明危难。两相对质，知来人为吴军师至交神行太保戴宗，一起上山。吴用将计就计，决定将太师回信掉包，让江州府押解宋公明路经此处时救下。戴宗找到济州城圣手书生萧让。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E39 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="39" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

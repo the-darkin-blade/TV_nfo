@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>美髯公误失小衙内</title>
+  <originaltitle>美髯公误失小衙内</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>50</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026667</uniqueid>
+  <uniqueid default="false" type="trakt">7308153</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>由于雷横之案事关重大，知县便派朱仝将雷横押至济州府等候发落，雷横不忍家中老母孤苦一人，便将母亲托付给朱仝，朱仝知道雷横这一行必死无疑，便私自放走了雷横，自己落得个失职之罪，被发配至沧州。沧州知府见朱仝仪表堂堂，谈吐不俗，便将其留在府中。此时，雷横已投奔梁山，并且奉晁盖之命同军师吴用前来沧州，欲招朱仝一同上山，谁知朱仝断然回绝，二人只得悻悻作罢。不想李逵半路杀出，掳走了同朱仝玩耍的小衙内，欲以此逼朱仝上山，朱仝大怒，与李逵大打出手，争抢过程中李逵误杀了小衙内。李逵自知惹祸，夺路而逃，朱仝一路追至柴进府中，在众人的劝解中，朱仝终于归顺梁山，吴用将朱仝带回梁山，把李逵暂寄于柴府。此时柴进得知高唐州的叔叔柴皇城病危，李逵主动请缨随柴进前往高唐州，到达之时方知叔叔是被恶霸殷天赐所伤。殷天赐自持是知府的妻弟，竟在柴皇城的灵堂上为非作歹，李逵怒斩殷天赐，并在柴进的劝说下逃走。高廉带人来到柴府，柴进拿出太祖皇帝御赐的丹书铁卷本想以此制约高廉，谁料仍被高廉押走。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2657</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E50 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="50" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

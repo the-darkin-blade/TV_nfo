@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>徐田彩玉　顿成疑凶</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>4155074</id>
+  <uniqueid default="false" type="tmdb">1828875</uniqueid>
+  <uniqueid default="false" type="trakt">1489373</uniqueid>
+  <uniqueid default="true" type="tvdb">4155074</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>泽琛见到蛋糕盒，发现一直忽略了检查蛋糕盒，立即回彩玉家找寻当日的蛋糕盒。几经转折，小柔终于也将蛋糕盒找到，而且在上面找到类似「徐田」的字样……小柔初时以为是玉姐不想泽瑶受苦而落药为她解脱，但彦博与泽琛未能相信。
+
+为寻找更多证据，小柔等人到医院搜查玉姐的储物柜，幸而给她们找到一些药方，这时，小柔电话响起，原来玉姐已经苏醒过来，所以小柔立即向她录取口供。原来玉姐以乡间的抗癌药方煲药给泽瑶服用，却不知药中含有「斑蝥素」，反令泽瑶身亡。
+
+事情告一段落，彦博听取泽琛的劝告再与高通接触，二人坦诚倾谈，高通更道出当年妻子的真正死因，父子二人终能冲破多年隔膜，重拾父子情谊。
+
+泽琛与小柔到酒吧消遣，遇上赵雪敏与杜少威吵架。翌日，杜少威被发现被藏尸于胶袋之中，而疑犯便然是赵雪敏……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E07.20190326.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Forensic Heroes 20190326 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>326</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E07.20190326.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="326" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

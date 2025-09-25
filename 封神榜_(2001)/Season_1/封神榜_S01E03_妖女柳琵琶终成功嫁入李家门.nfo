@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>妖女柳琵琶终成功嫁入李家门</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>4418917</id>
+  <uniqueid default="false" type="tmdb">2025516</uniqueid>
+  <uniqueid default="false" type="trakt">1484564</uniqueid>
+  <uniqueid default="true" type="tvdb">4418917</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>时光飞逝，哪吒再遇亚伯候姬昌，姬昌指示三人欲要于人世间生活，必须学会礼仪，故三人被送往书斋读书。
+
+奸臣邓九公为得纣王欢心，终日唆摆纣王沉迷酒色，李靖多次出言相谏，令纣王心生不满，邓九公乘机献计纣王，将罗刹国主帅柳琵琶赐予李靖为妾，李靖极之不欲接受，但十娘为顾全大局而被逼答应，琵琶入门，李靖冷言冷语相对，十娘见琵琶温柔婉弱，不似懂妖术及对自己不利之女子，故对琵琶心生好感，彼此以姊妹相称，更力劝李靖当琵琶为自己人，不要再作抗拒。
+
+哪吒三人无法适应书斋生活，更与各同学相处得极不愉快，众学生不断向老师投诉三人不读诗书，终日搅事，令书斋家无宁日，老师请求姬昌带回三人，指三人不是读书材料，但哪吒不服，指自己会背孝经，众人不信，哪吒果然一字不漏背出，令大家诧异不已，哪吒此时亦彷佛想起小时十娘教他背孝经之情景……另边厢十娘在琵琶协助下，知哪吒仍在生，决离李家到远方寻子！</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1048</width>
+        <height>714</height>
+        <durationinseconds>1484</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>03_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>苏芬春心动接近志摩</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>初五启市录</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3225416</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>为了应付智囊团的职务，飞打算请家庭老师补习。英语女教师故意以性感打扮上课，又与一直仰慕飞的女子起冲突，飞知自己已非往日的苦力，而是代市长身边的红人，故招来了狂蜂浪蝶。
+
+以诗人身分留在广州的志摩知道飞与现任代市长世杰深交，便打算应征家庭教师，以便借飞接近代市长。志摩面试时展现出学贯中西的丰富知识，令一钊、大青都心悦诚服。不过飞有意请女性任教师，结果没有聘请志摩，志摩惟有再想他法。
+
+芬在苏家楼下重遇志摩，便上前搭话，可惜志摩对她不加理睬，但当他知道芬是飞妹妹，志摩转念间便把握机会，博取芬的信任，希望能再次接近飞。
+
+苏飞示爱　再遭拒绝
+
+飞事业得志，但在晚宴应酬时遇到雅文，二人只是点头打招呼。飞被一钊发现他在梦中提到雅文的名字，揭穿了他仍对雅文念念不忘，连飞自己也吓一跳。
+
+飞约雅文到西餐厅，重现二人曾经在广州闹市佯装交往的情况。雅文已撇下对飞的成见，把他当作好朋友，更坦言现阶段只想协助姊姊雅媛打理协和行，无暇分身处理感情，也鼓励飞努力发展事业。
+
+苏芬突变　引起猜疑
+
+芬装扮明显变得斯文，又戒除了自幼在帮会长大习染的粗枝大叶个性，惹起同住在苏家的一钊及虎生疑。大青发现女儿多了一些性感服装，猜想芬也许交了男朋友，于是飞主张紧随在芬身后，目的是查看她的交往对象谁属。芬盛装离家，丝毫没有察觉家人正尾随在后。
+
+飞等人跟随芬至一建筑物内，听到其中一个单位传来异声，于是冲门而入，却见室内是书舍设备，原来芬参加了志摩的诗社研习新诗，并未告诉家人。
+
+志摩成功　攀附苏飞
+
+飞反对妹妹参加新诗研习，大青与一钊等反而十分赞同，认为芬已长大，反劝飞要顾及妹妹的幸福。飞于是再访诗社，欲加深对志摩的认识。
+
+志摩好友一多力证志摩乃有志之才，诗作在国内报刊都有刊登，飞才对志摩减低疑心。志摩故意朗读新作，全以最新映画戏入诗，更称自己热爱映画，成功惹起飞的注意。飞自鸣得意道出现任代市长是深交好友，而且也一样热爱映画戏，可为志摩引见。
+
+振邦宝宝　堕入情网
+
+礼和打算为政府要员拍摄新的官方照片以提升官员的印象，又教导各要员放松面部表情，以取得更佳效果。振邦不甘演猴子戏，佯称身体不适离去。
+
+另一方面，宝宝随百年出席同学会众会晚宴，有感百年的生活圈子与自己差距太远，也借故离席……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>960</width>
+        <height>544</height>
+        <durationinseconds>2653</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>The.Day.Of.Days.Ep17_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

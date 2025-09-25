@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>寻回赃物　水落石出</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>4155070</id>
+  <uniqueid default="false" type="tmdb">1828871</uniqueid>
+  <uniqueid default="false" type="trakt">1489361</uniqueid>
+  <uniqueid default="true" type="tvdb">4155070</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>彦博等人从方面的证据中，已确定伟升便是杀人真凶，但是由于仍未能找到贼赃，一时间也未能落案起诉伟升。小柔将伟升带返凶案现场，但他仍未招认杀人……
+
+彦博最后从伟升的衣物中找到新证据，终在鱼缸内将所有钻石寻回。
+
+小柔成功破案，兴高采烈回家，却收到男友从外地寄回来的分手信，小柔唯有借与同僚庆功，借酒消愁；其后小柔在街上遇上泽琛，泽琛见小柔失恋，忙加以安慰。
+
+汀汀首次跟彦博出勤，调查狂徒高空掷物案，由于她学习能力高，所以很快便能全情投入工作之中，而且表现相当出众。在掷物案中除一名老妇因此死亡外，亦有一名女孩受伤，她被送到医院之时，被发现身体出现很多伤痕，怀疑曾遭虐待……
+
+淑媛协助调查女童被虐事件，往调查女童的父母，陈广及艳萍声称女童是被已离职的菲佣虐打受伤……另一方面，经过化验后，彦博得知在案中凶徒所用的砖中，染有电镀厂常用的「生埃」，故便到工厂大厦调查，怎料竟遇上彦博的父亲……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E03.20190322.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Forensic Heroes 20190322 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>322</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E03.20190322.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="322" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>哪吒心浮气躁、众将不满</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>4418927</id>
+  <uniqueid default="false" type="tmdb">2025523</uniqueid>
+  <uniqueid default="false" type="trakt">1484592</uniqueid>
+  <uniqueid default="true" type="tvdb">4418927</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>戬父终被二娘激死，灵堂上，戬伤心不已，但二娘却丝毫没半点忧伤，更联合娘家众人多番奚落戬，令戬极为气愤，终鼓起勇气向众人作出还击，并决定离开杨家，戬觉生无可恋，打算投海自尽，谁知遇上飞虎独女黄颜、颜答应一定会尽力相助戬渡过难关，戬感激不已，最后通过飞虎的特别测试而可以成功留在黄家当下人。
+
+哪吒由于得到火尖枪及武功高强，终于纣王封为大将军，负责率兵三万出征犬戎巨人，十娘担心哪吒安危，主动请缨率领四魔将相助哪吒对李靖，十娘昔日弃他于飞处涧仍怀恨不已，所以对十娘态度极为不敬，令四魔将心生不满，大军到达犬戎之地，十娘察觉方圆百里渺无人烟，且天气酷热非常，心恐防有诈，欲劝哪吒三思再进军，但哪吒一意孤行，十娘心中忐忑不安，果然，犬戎巨人一直未见露面，商军在酷热天气之下苦等，粮草日见短缺，甚至愈来愈多士兵不支晕倒，十娘苦劝哪吒退军，但哪吒不肯，十娘惟有抢走哪吒之火尖枪，可惜被哪抢回，更下令将十娘吊起在烈日下暴晒六个时辰，令莲花极为不满。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1056</width>
+        <height>716</height>
+        <durationinseconds>1385</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>10_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

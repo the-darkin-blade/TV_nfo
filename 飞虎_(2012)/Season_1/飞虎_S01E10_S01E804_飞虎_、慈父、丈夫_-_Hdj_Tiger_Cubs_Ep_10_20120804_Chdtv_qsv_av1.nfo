@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:31:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>飞虎 、慈父、丈夫</title>
+  <originaltitle>飛虎 、慈父、丈夫</originaltitle>
+  <showtitle>飞虎</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>4368758</id>
+  <uniqueid default="false" type="tmdb">865992</uniqueid>
+  <uniqueid default="false" type="trakt">869779</uniqueid>
+  <uniqueid default="true" type="tvdb">4368758</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>树辉将再为人父准备调职离队，瀚韬感其继任人剑飞未胜任副主管，遂要求树辉多留一个月。树辉在捣破涉嫌绑架的匪徒巢穴时被手榴弹炸至重伤昏迷；树辉妻阿盈归咎于瀚韬。继培到警署落口供，其保安经理坚成曾担任飞虎队，陪伴左右。瀚韬犯错，日锋将他调任后勤支援。日锋与坚成聚旧，邀请他参观队员受训情况。警方情报科得悉继培从事非法勾当，请坚成当卧底。日锋等按坚成提供资料，于继培交易时拘捕涉案两帮人，过程中双方不断驳火。</plot>
+  <runtime>33</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2002</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Tiger.Cubs.Ep.10.20120804.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Tiger Cubs Ep 10 20120804 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>飞虎</showtitle>
+  <season>1</season>
+  <episode>804</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>33</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2002</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Tiger.Cubs.Ep.10.20120804.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="804" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

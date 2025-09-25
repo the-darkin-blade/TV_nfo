@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿四被关押，起义计划逐渐展开</title>
+  <originaltitle>阿四被关押，起义计划逐渐展开</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>4938185</id>
+  <uniqueid default="false" type="tmdb">2728546</uniqueid>
+  <uniqueid default="false" type="trakt">1305886</uniqueid>
+  <uniqueid default="true" type="tvdb">4938185</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>阿四夜里想逃走时被抓回来，李玉堂劝他以后不要再跑，阿四被关起来，没人能听到他的呼喊声。十三省同盟会决议起义的重点仍放在南方，广东被寄予最大希望，他们打算刺杀铁山后准备新军起义，秦少白和杨新是总负责，秦少白相信铁山肯定会去参加区舒云的婚礼，杨新不理解秦少白的想法，他知道区舒云不会老实地参加婚礼。区舒云虽然被看守，她仍想着逃跑，区舒云用碗砸向屋顶的吊灯，下人们听到声音后围上去，区舒云等吊灯不亮时想逃走，可又被抓回来。秦少白和杨新假扮检查线路来到区舒云房中，区舒云看到秦少白后用英语和他对话，秦少白将计划说明，区舒云很高兴，下人们根本不知道他们说的内容。小丁给阿四送去饭菜，阿四坐在那里假装睡着了，他趁小丁不注意将他打晕后捆绑起来，阿四逃走。阿四刚逃出就被小丁发现，他拼命奔跑，终被李玉堂堵住。李玉堂带阿四去医院见到治伤的阿纯，阿四很兴奋，阿纯已经做过手术，半月后可以拆线，阿纯让阿四感谢李玉堂的恩情。阿四跪下向李玉堂磕头致谢，李玉堂从小经商阅人无数，他生平最佩服诚实的人，他会负责把阿纯的眼睛治好，阿四同意为他做任何事情。阿四带着阿纯坐黄包车想送她回香港，阿纯劝他回去报答李玉堂。阿四也感觉有些亏心，他想到李玉堂的话，老丁猜想阿四可能去了码头，李玉堂清楚这场戏需要阿四的心甘情愿，汤马斯大夫已经检测出阿纯的活体结果，她的眼睛一时间还好不了。阿纯在黄包车上感觉眼睛不适，阿四指责黄包车夫，还下车亲自拉起来，阿纯突然疼的厉害，她想回医院。阿四抱阿纯回医院，医生要对她做检查，检查后发现伤口开裂，汤马斯重新做了修复手术，他把检查的结果告诉阿四，医生告诉他阿纯手术后只会恢复一部分视力，说不定还会发生病变，医生建议对阿纯实施角膜移植手术。阿四得知汤马斯已将情况告诉李玉堂，李玉堂留了三千块手术费后离开，阿四回到李府。李玉堂想在铁山来的路上动手，革命党人也准备刺杀铁山，秦少的不同意在李家动手。阿四在李家祖宗牌位前祭奠，听到声音后慌忙躲藏起来，他听到李玉堂在外面的话。铁山猜出去西关的途中肯定有埋伏，收拾好之后带兵出发。李府迎亲的队伍浩浩荡荡，铁山带兵设计围捕革命党人。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2657</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep07_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>陈氏父子</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>2398981</id>
+  <uniqueid default="false" type="tmdb">1460701</uniqueid>
+  <uniqueid default="false" type="trakt">1435889</uniqueid>
+  <uniqueid default="true" type="tvdb">2398981</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>孝蟹从台湾回来，与婷婷相见，两人激动的拥抱在一起。 展博在交易所当跑腿小弟，边做边学。在别人的影响下，拿了阮梅的钱买了陈万贤的“美利都”股票，可惜在庄家操纵下，输了不少钱。股票界奇材陈滔滔从美国来港发展，他找到亲生父亲陈万贤，希望他去看临终的母亲最后一面，但陈万贤却狠心拒绝。展博不死心，又买了一手“美利都”，可股票继续下跌。叶天告诉展博这是陈万贤在搞鬼，并决定再赢陈万贤一次。他分析了过去的数据，然后预测股市的走向，展博相信师傅，去找阮梅借钱再买股票，但阮梅不信他，可股市升跌却果然和叶添预料的一模一样。婷婷去找陈滔滔做访问，但由于同事的失误，采访没有成功。陈万贤找到陈滔滔，威胁让他回美国，陈滔滔反唇相讥。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1562</width>
+        <height>1076</height>
+        <durationinseconds>1385</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.15_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 15 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1562</width>
+        <height>1076</height>
+        <durationinseconds>1385</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.15_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

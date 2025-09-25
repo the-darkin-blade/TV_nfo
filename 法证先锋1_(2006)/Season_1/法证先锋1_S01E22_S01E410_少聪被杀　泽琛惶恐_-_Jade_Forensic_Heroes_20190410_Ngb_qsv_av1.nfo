@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>少聪被杀　泽琛惶恐</title>
+  <originaltitle>Episode 22</originaltitle>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>4155089</id>
+  <uniqueid default="false" type="tmdb">1828890</uniqueid>
+  <uniqueid default="false" type="trakt">1489406</uniqueid>
+  <uniqueid default="true" type="tvdb">4155089</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>少聪被杀，而死因竟与泽琛小说中的情况完全一样，加上在泽琛网页的留言板上有人扬言要对付少聪，更令泽琛觉得震惊！小柔从闭路电视中，发现少聪曾带一名神秘女子返家，而事后少女乔装离开，小柔怀疑少女才是真正凶手。
+
+沈雄向接替少聪职位的 Bowie 查问，发现他似乎对事件有所隐瞒，遂加以调查，发现他在一次到酒吧卖醉之后结识一名叫夏德威的男子，更以五万元聘请他将少聪解决，事后少聪果然暴弊……
+
+泽琛答应为 Mon 修理电脑，但前往中差点撞倒住在下层的喜婶，因而揭发她被儿子国维虐打及被迫上街行乞之事，奈何喜婶护子心切，未肯报警……
+
+喜婶因失足堕下楼梯身亡，国维更扮孝子欲搏传媒同情，被泽琛当场揭穿。传媒广泛报道之后，自称为判官的网友又在泽琛网页的留言版中暗示要对付国维……果然，国维死于泽琛小说中同样的情景之中……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E22.20190410.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Forensic Heroes 20190410 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>410</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E22.20190410.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="410" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

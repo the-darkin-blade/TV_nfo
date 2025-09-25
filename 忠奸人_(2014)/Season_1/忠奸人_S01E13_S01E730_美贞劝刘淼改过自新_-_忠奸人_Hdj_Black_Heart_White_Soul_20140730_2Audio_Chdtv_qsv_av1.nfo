@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>美贞劝刘淼改过自新</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>4944616</id>
+  <uniqueid default="false" type="tmdb">1984053</uniqueid>
+  <uniqueid default="false" type="trakt">1305227</uniqueid>
+  <uniqueid default="true" type="tvdb">4944616</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>廉政公署突然来到了慧英的小队进行调查，原来廉政公署在承义的户口中发现一笔不知名收入，故怀疑承义受贿，令慧英及立勋对承义的情况更感担忧。
+
+另一方面，美贞担心与哲行同住后会令刘淼感到寂寞，故决定与刘淼一起搬到哲行的新居居住，刘淼亦因此感到相当高兴。但是刘淼出身市井，说话经常失了分寸，从而令哲行感到不快，但哲行一心要美贞幸福快乐，故决定对刘淼加以耐心忍让。哲行更希望刘淼能以美贞作为榜样，早日戒除生活陋习。
+
+跪求启源　放过自己
+
+美贞与哲行带同刘淼一起参加慈善活动，希望以此来感化刘淼，但可惜刘淼仍未能融入哲行与美贞的生活圈子。刘淼因为在社区中心吸烟而令哲行感到羞愧，美贞事后斥责刘淼自甘堕落，因而令刘淼感到不快。
+
+另一方面，承义得悉永光之事，担心知道自己有可能成为目标，因而偷偷摸摸地生活以逃避追杀。承义最终亦不堪压力，竟出现在启源面前，并且当众跪求启源能够放自己一马，启源即时扮作不认识承义自行离开，但心中却在思考解决问题的方法。
+
+刘淼不满　离家出走
+
+刘淼回家时被保安怀疑身分，因而借哲行的名义斥责保安员，哲行深感不快，便向刘淼作出警告，刘淼闻言后即认为哲行强行将其思想加到自己身上，更为此离家出走。
+
+刘淼与朋友一起去饮酒狂欢，美贞因担心刘淼便来到酒吧，并劝刘淼戒除恶习改过自新。最终刘淼念在与美贞的友谊决定回家，但心中却仍然对哲行感到讨厌。当刘淼带着醉意离开酒吧时，却在街上看到一个十分熟悉的身影。
+
+绰姿出言　斥责承义
+
+承义一直四处躲藏，令立勋亦难以找到承义的踪影，但是承义却在这时冒险出现在绰姿面前。以铿却刚好看见此事，便即派人将承义赶走，但以铿此举即引起绰姿不满，但以铿却表现强硬，坚决禁止绰姿与承义见面。
+
+事隔数天，绰姿收到了承义的亲笔信，绰姿阅毕后即担心承义的情况，便偷偷离家与承义见面。承义见到绰姿即感到高兴，但当绰姿见承义打算以安眠药自杀后，便忍不住出言指责，结果承义终能下定决心，面对难关。
+
+立勋要求　承义坦白
+
+立勋在绰姿指责承义时出现，令承义误以为绰姿欺骗自己，气得独自逃走，立勋即从后追了上去。立勋拦截承义后，即要求承义鼓起勇气坦白自己的罪行，但是承义最后仍然害怕面对法律制裁，故与立勋告别并独自离开……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1332</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep13.20140730.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>忠奸人 Hdj Black Heart White Soul 20140730 2Audio Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>730</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1332</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep13.20140730.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="730" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

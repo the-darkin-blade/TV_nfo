@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>飞找宝宝对质</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>初五启市录</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3225406</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>四大商会的岑老板收买广州市长继尧之妹美玲，拜托她邀约手执军权的振邦及耀祖饭局，出席的还有商会的孝勇、定国，和交通大臣等市政府要员。岑老板提出广州市的航运长年由唐家的协和行垄断，因应社会急速发展，有必要加开新航运，同时称素与英伦船厂有往来，自荐有能力办航运。
+
+孝勇、定国、耀祖都同意加开新航运有利拓展广州与珠江沿岸城市，唯振邦未有表态。岑老板向振邦呈上具体的计划书后，终得振邦赞同。当他欲以巨额贿赂振邦之时，振邦竟一手抛开贿款，扬言自己并非贪财，同意加开新航运，乃考虑到有其实际需要。
+
+加开新渡轮专营权的消息很快便传到唐家，百年、玉卿、绍业均感不安，他们担心万一落实，会动摇唐家事业及在广州的地位。雅媛早一步得知新航运的事，已邀约广州市的政府官员共进晚餐。
+
+官员失约　雅媛困扰
+
+第二晚，早已过了相约晚饭的时间，但官员一个都没有出席，最后只有此次饭局的搞手美玲赴约。雅媛为此暗自焦虑，向美玲问及官员失约的原因。美玲推搪说自己只是闲人，官员无法出席亦不能控制。不过她亦向雅媛提议，可从更有影响力的军方入手，于是雅媛立即派永齐着手调查振邦的背景。
+
+讨好振邦　投其所好
+
+经永齐调查后，发现振邦从军以来不贪污也不好色，不知该如何对应。雅媛记起振邦有兴趣收集铊表，便安排一场铊表预展。振邦虽然满意铊表预展，却在新增航运一事上不作退让。雅媛未能在这次与振邦会面取得成果而忧虑不已，独自在花园沉思。礼和便以映画戏《咖啡先生》的情节鼓励她，指天佑善人，凡事可怀乐观心态面对。
+
+在会议上，市长继尧听到新航运的议案，竟然大怒，一口推翻此项目，新航运一事暂告一段落。
+
+苏飞重遇　儿时玩伴
+
+永昌盛终于迎接搬迁后首次盈余，飞不单向众兄弟发放花红，更请礼和、芬和虎到西餐厅饱吃一顿。飞一时兴起，点洋酒助兴。飞如厕后经过贵宾房，瞥见房内一打扮文雅的女子，但碍于酒醉只觉她眼熟，却想不起她是谁。回到席上，飞终于想起女子是儿时邻居美凤，欲折返找她，可惜房中已人去楼空。
+
+百年介绍　知己宝宝
+
+百年在尚品楼设宴，向亲友介绍红颜知己宝宝，称宝宝是满清贵族之后，更是国学大师陶淼的入室弟子。怎料绍业对宝宝出言无礼，玉卿亦暗指有人借机找好处……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>960</width>
+        <height>544</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>The.Day.Of.Days.Ep07_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

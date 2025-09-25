@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿四发现小丁死，巡抚指责李重甲杀人</title>
+  <originaltitle>阿四发现小丁死，巡抚指责李重甲杀人</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>52</episode>
+  <id>4938231</id>
+  <uniqueid default="false" type="tmdb">2728596</uniqueid>
+  <uniqueid default="false" type="trakt">1307545</uniqueid>
+  <uniqueid default="true" type="tvdb">4938231</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>阿四与区舒云商量离开广州，突然阿纯来找说知道小丁下落，阿四随其迅速前往去找小丁。阿四来到小丁的房间，发现小丁死在床上，身体还是热的！与此同时，李重甲的杀手去找夏荷支取银票，夏荷知道李重甲的一切阴谋，内心无比煎熬。阿四失魂落魄地回家。一直沉默的区巡抚忽然开口了：杀小丁的是李重甲。阿四惊着了！区巡抚一再叮嘱，在李重甲面前继续装傻，万不可轻举妄动！连自己是装疯，也暂时别让区舒云知道，怕她藏不住事。李重甲主动来见阿四，试探阿四对小丁之死的反应。阿四不见，李重甲心里一震：阿四恐已对他起了疑心！李重甲主动出击，一方面提醒秦少白，阿四会继续演戏，用小丁的死来洗脱自己，重新赢得革命党的信任，在铁山那里继续邀功。阿四片刻难安，他费尽心机找到秘密机关见秦少白。秦少白持重，安慰阿四清者自清，现在阿四的处境暂不宜为革命做事。阿四黯然离去。阿四虽受不白之冤，仍尽力安排好转移革命党人的工作。铁山派人忽然封锁制造局。几位革命党人被缚。阿四刚到，铁刚上来请安，说奉将军和总办大人之命拿革命党，请总办大人验明正身，就地正法。秦少白那边对阿四的误会越来越深，区舒云与秦少白见面，秦少白暗示区舒云，要小心行事，秦少白的话让区舒云心里更堵得慌，她为阿四难过，更不愿意看到，她心底深处埋下了一颗可怕的种子。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2650</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep52_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="52" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

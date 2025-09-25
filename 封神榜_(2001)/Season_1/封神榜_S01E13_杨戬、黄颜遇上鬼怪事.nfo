@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>杨戬、黄颜遇上鬼怪事</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>4418931</id>
+  <uniqueid default="false" type="tmdb">2025527</uniqueid>
+  <uniqueid default="false" type="trakt">1484603</uniqueid>
+  <uniqueid default="true" type="tvdb">4418931</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>哪吒误杀龙王三太子，龙王痛失爱儿，令陈塘关狂风暴雨，终日又霜又雪，河水泛滥、民不聊生，而心高气傲的哪吒未知闯下弥天大祸，还与雷震子到处游玩，可怜十娘、李靖受尽责骂，惟有祭天祈福，望龙王大量，早日放晴。
+
+另边厢，杨戬之第三眼经常见到哪吒对自己说要削骨肉还父母，内心大为不安，黄颜加以开解，不过，黄颜却遇上一件怪事，就是经常见到一衣衫尽湿之人在附近出现，黄颜以为是朝歌来之灾民，所以叫杨戬向其打探朝歌之近况，可惜杨戬却见不到此人，黄颜心生疑惑！有日，两人鼓起勇气向着此人留下之水路追寻，见地上出现「三年」两字，此时，十娘与莲花出现，两人伤心地讲出哪吒之情况，杨戬听后一怔！
+
+哪吒始终认为杀三太子是天经地义之事，令苏护、飞虎联手捉拿哪吒，最后，哪吒被困于李靖之玲珑宝塔内，十娘为求见哪吒一面，不惜向李家中人下跪。对琵琶之多番出言侮辱，十娘亦忍气吞声接受，终在皇后之协助下，十娘能进入宝塔见哪吒一面，可惜哪吒不知天高地厚，一心相信纣王自会释放自己。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1052</width>
+        <height>720</height>
+        <durationinseconds>1461</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>13_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

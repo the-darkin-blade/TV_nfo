@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>花和尚醉打山门</title>
+  <originaltitle>花和尚醉打山门</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026622</uniqueid>
+  <uniqueid default="false" type="trakt">7308109</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>林冲醒悟这一切都是陆谦的谋划，返回酒楼，追杀陆谦。陆谦情急逃进高俅府内，林冲虽然不能进去，却一直守在门外。府内高衙内用尽浑身解数，恳求高俅，救自己一命，不料在高俅眼中，林冲犹如蝼蚁，高衙内此番做作纯属多余。高俅指示富安陆谦，设计除掉林冲。门外，林冲岳丈张教头前来劝阻林冲，林冲只得随张教头回去。鲁达在逃亡路上，查看自己的海捕公文，正遇上金老儿。金老儿把鲁达带回新的安身之处。这时的金翠莲已经嫁了一个好人家，鲁达不愿连累这对父女，却倔不过金翠莲，只得留下来吃饭。还不等多说几句，金翠莲的夫家赵员外有了误会，前来捉人。等到误会澄清，赵员外也对鲁达感恩戴德。次日，鲁达的行藏被人发觉，有官兵来缉捕。赵员外提议让鲁达去五台山做和尚，以避官非。鲁达欣然同意。智真长老为鲁达取名智深，剃度出家。鲁达正式更名成为鲁智深。剃度过后的鲁智深，生性随意，不拘一格，因此得罪了不少寺内和尚。甚至有人故意送他酒吃，害他破戒，还诬陷鲁智深酒醉之后大闹寺庙，以期望智真长老能赶走他。没想到智真长老只是训斥，却并不赶走鲁智深。鲁智深也生性豁达，对那些诬陷不屑一顾，却对那些号称被自己打伤的僧人格外友善。其实鲁智深另有图谋。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2653</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E06 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

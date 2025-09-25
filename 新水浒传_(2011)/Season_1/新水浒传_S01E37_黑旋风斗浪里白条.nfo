@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>黑旋风斗浪里白条</title>
+  <originaltitle>黑旋风斗浪里白条</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>37</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026654</uniqueid>
+  <uniqueid default="false" type="trakt">7308140</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>薛永和宋江二人上了张横的船，暂时逃脱了穆春等人的追赶，不想又入虎口。那张横要伤他们两人的性命，图他们的钱财。进退维谷之际，李俊等人赶来解围，大家一听是宋公明，非常敬仰，均拜为哥哥。宋江到了江州之后，与戴宗相见，戴宗对他甚是敬重，二人同去吃酒，正遇着李逵在酒楼下闹事，戴宗止息了事端，并带李逵来与宋江相见。李逵说起自己所闹之事，要赎十两大银，宋江遂给了他十两银子。不想，李逵带着这十两银子又去赌钱，意欲赢钱以报答宋江对他的知遇之恩，最后却又输得精光，便再次犯起混来。宋江和戴宗二人及时赶到解围，宋江更是在众赌徒面前一露身手，大赢之后又将所赢之资悉数归还，众人皆佩服不已。三人重回酒楼，继续把酒言欢。但因鱼汤不鲜，宋江难以下咽。李逵为讨宋江喜欢，去船上要讨些鲜鱼。不想鱼市尚未开，众人渔家都不给他鲜鱼。李逵便抢，遂与张顺发生争斗，被拖下水，灌了个半饱。又亏宋江与戴宗二人及时赶到才解开了误会。原来这张顺乃是张横的胞弟。四人再回酒楼，开怀畅饮，结为莫逆之交。宋江酒醉，回营后喋喋不休自己的声望，三人只得顺从。梁山这边，林冲来找吴用想要商量事宜，却欲言又止。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2653</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E37 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="37" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

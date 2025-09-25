@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>铁索连舟</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>2399001</id>
+  <uniqueid default="false" type="tmdb">1460703</uniqueid>
+  <uniqueid default="false" type="trakt">1435893</uniqueid>
+  <uniqueid default="true" type="tvdb">2399001</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>孝蟹和婷婷见面，孝蟹要为婷婷套上戒指，婷婷始终忘不了丁蟹的所为，拒绝了他。婷问孝对丁蟹的看法，不欢离去，两人渐生隔阂。 陈滔滔到台湾向地下钱庄借钱，周济生答应帮忙，华姐不赞成周介入别人的恩怨中。同时，丁蟹也潜逃回台湾，想向周报仇。 叶天虽然不甚清醒，但还是暗示展博股票界风云大变，并给了展博五句真言“战云密布，三江之中，风浪不息，铁索连舟，如履平地”。展博不解，同时，陈滔滔大战陈万贤大量买进陈万贤万光国际的股票，想要取得控股权，但是陈万贤却任他买进毫不反击，反而大量出货。 展博在听了三国的“铁索连舟”的典故后，突然明白了陈万贤的用意，原来陈万贤用了一招“连线控股”，要想得到控股权就必须买下陈名下所有的公司。展博料准陈万贤一定让价位跌到一块九，陈滔滔也算到了。当日停盘，陈滔滔处下风，同时查到自己的银行出卖自己。陈滔滔相信以陈万贤的财力不可能控制六家公司，他要找到空心的那家。 叶天终于清醒了，他感自己时日无多，开始教展博如何玩股票。同时他们也在计算如何“火烧连甲船”。 龙纪文在戏班唱戏，过得很平静。这时却发现华姐不见了……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1365</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.17_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 17 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1365</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.17_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

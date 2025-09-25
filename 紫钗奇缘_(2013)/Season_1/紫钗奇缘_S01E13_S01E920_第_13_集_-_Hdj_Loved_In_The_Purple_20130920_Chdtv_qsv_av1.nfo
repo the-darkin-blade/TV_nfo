@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 13 集</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486667</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李益到紫檀殿来找小玉问起那天和他娘谈了什么，李益还不知道母亲和小玉说了什么，小玉也并没有告诉李益。小玉拿出杨炎的画骗李益说是客人临摹让李益帮着提诗。杜意浓拿着李益的笔墨再次求杨炎授予李益官职。在杜意浓的帮助下杨炎终于授予李益官职，但李益在杨炎的屋内看到的自己写给小玉的诗。李益见到小玉时发了火指责小玉不该为了小小官职而趋炎附势并误会小玉是一个为达目的不择手段的女人。这时李母出来呵斥李益不得对小玉无礼，将当日为难小玉之事说出。李益明白了自己错怪了小玉很是惭愧。李父问夫人是不是将家里田地都已卖掉，李母表示这都是为了李益的婚事。李益还以为是要向小玉提亲还说小玉不是贪财之人要不了那么多，可父母却商量起向卢家提亲之事。李父李母铁了心要李益和靖澜成亲。李夫人在街上和鲍彩凤商量着如何向卢家提亲时却看到靖澜和韦博文在街上亲密的样子。李夫人上前问靖澜是不是和博文在一起了，靖澜不冷不热的回李夫人她现在还不是自己的婆婆呢。不但这样李夫人还看到靖澜进了纳兰东的院子。李夫人气急而去。　　李夫人带着李益到了紫檀殿，小玉和慈端都以为李夫人是来提亲却没想到李夫人却要收小玉为干女儿。李夫人解释自己这么做都是为了李益可以在朝中获得更大的前途，李益跪在母亲面前表示让自己放弃小玉绝无可能，小玉也跪下求夫人成全。李益发誓定会发奋图强不立业绝不娶小玉。李夫人表示如果李益能凭才能位及人臣自己便不会干预此事。李夫人又转身对小玉说为了不耽误她的青春如果李益未能立业前她能找到好人家自己绝对送上嫁妆。小玉的心累了一个人走到旁边的院子，正好纳兰东回来，见到纳兰东的一刻小玉泪流不止。小玉向纳兰东诉说着自己的委屈，纳兰东劝说小玉现在什么都不要。小玉一个人在房间内想着李益和纳兰东的差别，小玉不知道自己到底该怎么办。慈瑞找到李夫人指出李夫人只是拖延时间，李夫人却反指慈瑞骗人，李夫人曾在霍王府见过慈瑞。李夫人质问慈瑞小玉是不是霍王的女儿，小玉也应该姓李吧。李夫人让慈瑞劝小玉断了对李益的念相。小玉和浣纱在街上看到崔长空被酒馆小二暴打，小玉相助得知崔长空最近的日子很不如意连个栖身之所也没有，慈瑞出主意现在承欢正缺少一个教人识字的先生问长空是否愿意。小玉在街上看到纳兰东请靖澜帮忙处理布匹之事，小玉看到两人在一起的样子也很是难受。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1336</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep13.20130920.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20130920 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>920</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1336</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep13.20130920.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="920" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

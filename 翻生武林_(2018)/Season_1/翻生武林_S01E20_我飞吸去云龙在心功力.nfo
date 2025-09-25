@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:17:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>我飞吸去云龙在心功力</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>翻生武林</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1993662</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>（大结局）成为东厂总督的我飞向五大派和隐世英雄表明，继续执行英雄名册和派发恩赐丹，又将五大派掌门收监发落。云龙和在心已知我飞有善恶两面，只要消灭恶飞便可收拾我飞。我飞使出心心相印吸去云龙和在心的功力，他发掌杀二人时，突然善飞和恶飞自其体内窜出，两人对打。不群恢复神智，鲁公公向他透露云龙身中雕毒。不群向云龙指出皇帝非好人，只要他依然在位，英雄名册和恩赐丹依然存在，箝制武林人士，但云龙不信皇帝奸恶……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2614</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Birth.Of.A.Hero.Complete.Hdtv.1080I.H264-Chdhktv.Ep20_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

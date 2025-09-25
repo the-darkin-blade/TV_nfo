@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>不甘迫供　兴隆晕倒</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>4155083</id>
+  <uniqueid default="false" type="tmdb">1828884</uniqueid>
+  <uniqueid default="false" type="trakt">1489394</uniqueid>
+  <uniqueid default="true" type="tvdb">4155083</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>卓坚将兴隆，而且不断迫问他杀死兴中的经过，兴隆突然心脏病发，被送入医院。小柔因紧张兴而心绪不宁，彦博则努力协助兴隆回忆整件事情的经过，终于令他想到可以证明他在兴中被杀时的不在场证据。
+
+泽琛在检验兴中尸体时，发他口中含着一枚硬币，而且更找到一种极之珍贵的羊毛；经化验后，证实兴中并非死于海中，反而是死于泳池水中，而且更验出兴中体内有「檀花」花粉。
+
+卓坚查知兴中有一情妇金海潮，于是到她家中问调查，怎料遇上替兴中睇风水的允天机，原来他竟是海潮姊姊的情人。
+
+彦博到兴隆助手 John 的办公室调查，发觉他喜欢渴一种非常特别的咖啡，所以通知卓坚前往售卖这种咖啡的专门店调查，终成功将 John 拘捕；基于兴中已死， John 亦不想连累他人，所以供出所有罪行，还兴隆一个清白……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1324</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E16.20190404.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Forensic Heroes 20190404 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>404</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1324</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E16.20190404.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="404" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>素嘉被逐出「香庐」</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>福尔摩师奶</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1727094</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>祖迪证实素嘉是菲腊情妇，回「香庐」与素嘉当面对质，一夫提交有力证据加以证明，始揭发她是高级交际花，妹娣愤然怒掴素嘉；晓尧对好姐妹也大失所望，素嘉绝望下离开「香庐」。妹娣安慰祖迪，二人和好如初。祖迪愧疚于众人，连夜留信予晓尧出走。翌日，一夫等人分头寻找，终凭蛛丝马迹寻回。祖迪重新振作，众街坊乐于接纳。妹娣售卖曲奇时遇熊财、王烈两帮派捣乱，熊财挑衅王烈，两人大打出手，混乱间炉头失火，波及妹娣……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2644</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>TVBOXNOW 福爾摩師奶 EP12_H265.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>当众揭破　一夜激情</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>4155086</id>
+  <uniqueid default="false" type="tmdb">1828887</uniqueid>
+  <uniqueid default="false" type="trakt">1489400</uniqueid>
+  <uniqueid default="true" type="tvdb">4155086</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小柔、彦博、泽琛等人到酒吧向卓浩索取其体液作证据，卓浩不忿被彦博处处相迫，竟当众揭破彦博与小柔一夜情的关系，令二人非常难堪；纵然如此，彦博终成功使计取得证物，但经检验后，竟发现行凶者不是卓浩，而是他的亲属……
+
+小柔本欲向上级取得搜令搜查伟图寓所，但碍于他的社会地位及实证不足，所以要求未获纳，幸而，在一次社区中心活动之中，小柔成功取得伟图口沫样本，经 DNA 测试后，证实他便是迷奸 Ella 的真凶。
+
+小柔前往酒店向伟图调查，但他不肯承认其罪行；此时，卓浩又与 Paul 在房中吸食软性毒品，卓浩因为受到药物影响，变得神智不清，失足堕楼身亡。
+
+卓浩死亡，伟图悲痛欲绝，心灰意冷之余，伟图决定将事实和盘托出，承认罪行。
+
+小柔悉心打扮参加旧同学的婚宴，在回家路上遇上小学同学少聪，二人重遇之后，少聪竟然开始主动追求小柔，但彦博与泽琛在旁观察少聪为人，认为他绝非小柔理想对象。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1320</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E19.20190407.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Forensic Heroes 20190407 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>407</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1320</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E19.20190407.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="407" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

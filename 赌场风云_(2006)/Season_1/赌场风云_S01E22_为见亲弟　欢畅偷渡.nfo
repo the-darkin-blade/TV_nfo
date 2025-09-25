@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>为见亲弟　欢畅偷渡</title>
+  <originaltitle>Episode 22</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>1623651</id>
+  <uniqueid default="false" type="tmdb">1992300</uniqueid>
+  <uniqueid default="false" type="trakt">1576557</uniqueid>
+  <uniqueid default="true" type="tvdb">1623651</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>欢畅向青云家人借钱偷渡到菲，但青云却吩咐大家不可，众人只好以藉口送钱给欢畅。正初与来富到比赛途中坏车而看不到洗牌，只有凭本事比赛。青云发现欢畅鬼祟地偷入赌场，欢畅竟将青云锁于杂物房内。来富因不能记牌而惨败，高名妻将此事报告，令他大喜下重注赌来富输。正初见欢畅出现，为怕他坏事要胁说要报警。来富终冷静地用技术反败为胜。欢畅见来富胜出感动落泪，但来富只走向正初身旁道谢。青云劝欢畅与来富相认，来富却因庆祝变得不醒人事。小茵再致电欢畅，欢畅为多一人向来富证明，求小茵再到菲律宾。青云代欢畅接机，但小茵又失约。欢畅独自向来富说出经过，来富得悉后呆立当场，欢畅亦被路过的警察认出而被拘捕。高名因亏空下注而被迫逃亡，向正初要钱之际，正初趁机通知陈国权的手下。高名以利刀欲刺向正初，来富及时赶至为正初挡上而受伤。国权命人把高名玩弄一番，把他吓至痴呆。正初觉国权手段残忍，国权却向正初表示未来仍有很多合作机会。来富伤势严重，青云与福荣立即赶往狱中通知欢畅，欢畅得悉后愕然不知所措。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2686</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep22.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

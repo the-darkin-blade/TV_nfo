@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿四与区舒云密谋见阿纯，关系逐渐复杂</title>
+  <originaltitle>阿四与区舒云密谋见阿纯，关系逐渐复杂</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>4938201</id>
+  <uniqueid default="false" type="tmdb">2728565</uniqueid>
+  <uniqueid default="false" type="trakt">1306278</uniqueid>
+  <uniqueid default="true" type="tvdb">4938201</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>一大票人热热闹闹地把阿纯带回了李府，阿纯作为区舒云的表妹住了下来。一大家人面前，阿四不敢靠近阿纯，能躲多远躲多远，躲不过去了就装嗓子哑，不肯说话。李重甲心中暗喜，只要阿纯认了阿四，真假就会穿帮，总办还是自己的。 李重甲让许氏密切监视阿纯，许氏对有可能捉到阿四和阿纯的奸情十分有兴趣，偷听到阿四与阿纯谈话，多亏区舒云及时出现打圆场，阿四胆战心惊。阿纯什么也看不见，心里却很清楚。 同住一个屋檐对阿四叫着姐夫。私下里，阿四来看阿纯，阿纯根本不认阿四。阿四心如刀绞，气只能撒在区舒云身上，将其骂哭。李重甲向铁山汇报，铁山说区巡抚为李重光当总办的事没少在上层运动，他一直在找借口延宕这件事，要是再没有有力的证据，此事就没戏了。李重甲说李重光主要靠区巡抚支持，只要区李联姻被拆散，形势就会大变。李重甲故意让区舒云发现自己身上带着秦少白的东西（秦少白赠给他的怀表），李重甲说他一直跟秦少白有联络，可安排区舒云离家去香港与秦少白见面。阿纯眼睛拆线的日子到了，偏偏这一天阿四必须去制造局开会。区舒云陪阿纯去医院，向阿纯全盘托出自己和阿四结婚的来龙去脉。官商合办的“华南制造局”成立大会马上就要开始了。有人向区巡抚汇报区舒云一早离开家，奔码头去的消息，区巡抚大惊，一边派人去码头追区舒云，一边质问阿四。区巡抚故意拖延时间不参加最后总办人选的会议。铁山心知肚明，是区舒云的出走使制造局总办人选的形势产生了微妙变化。李重甲向铁山汇报其派人到香港查到阿纯的家，并找到了阿四在车行登记名册。如果需要人证来指证阿四，随时都可以，想象着在最后一刻大获全胜的戏剧性效果。铁山却告诉李重甲，他会投李重光一票。李重甲很惊讶， 铁山解释，摄政王三天两头来电催办制造局，不管制造局谁控制，先办起来再说。现在先顺着李玉堂和区巡抚的意思办，让他们积极运作，再拿下他们不迟。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2651</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep23_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

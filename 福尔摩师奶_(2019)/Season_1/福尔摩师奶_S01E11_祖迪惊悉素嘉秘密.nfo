@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>祖迪惊悉素嘉秘密</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>福尔摩师奶</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1727093</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>祖迪、一夫返回石屋重组案情，怀疑当时有第三者在场，并在石屋内发现秘道。二人从菲腊旧照发现有可疑，潜入祖迪大宅地牢，惊见……世杰被同学抢去灯笼，他尾随至熊财的妓寨门前，刚巧王烈手下藉机偷袭熊财，因世杰而事败，德英及时救走世杰。祖迪怀疑世杰患有近视，妹娣始知错怪儿子。素嘉邀晓尧同赴英国，晓尧得悉游池心中只有素嘉，心有决定。一夫赎回祖迪已典当的相机寻找线索；祖迪到画廊欲观赏素嘉画作，意外惊悉素嘉的秘密。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2649</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>TVBOXNOW 福爾摩師奶 EP11_H265.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

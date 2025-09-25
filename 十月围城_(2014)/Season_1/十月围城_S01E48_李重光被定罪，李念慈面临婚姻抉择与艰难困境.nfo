@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李重光被定罪，李念慈面临婚姻抉择与艰难困境</title>
+  <originaltitle>李重光被定罪，李念慈面临婚姻抉择与艰难困境</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>48</episode>
+  <id>4938227</id>
+  <uniqueid default="false" type="tmdb">2728592</uniqueid>
+  <uniqueid default="false" type="trakt">1306878</uniqueid>
+  <uniqueid default="true" type="tvdb">4938227</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>区巡抚被定失察之罪，拣回一条命。对李重光（阿四），总督有心回护却被铁山一个阴鸷的眼神吓住，话到嘴边变成了，这个李重光说到底……我看该杀！铁山却没有表态。小丁自起义那晚之后，在乡下躲了几天，悄悄摸回李家。碰见的第一个人是李重甲。李重甲要亲手害死小丁，小丁疑惑惊惧中终于明白了什么……这时，不知情的区舒云碰巧过来，小丁趁机溜走。这成了李重甲心头的一个阴影。李重甲去试探铁山对阿四的态度。免除后患？铁山不提阿四的事，忽然拜托李重甲为自己提亲，他想娶李重甲的堂姐－－李念慈做续弦！李重甲蒙了铁山只说，如果她答应婚事，阿四不死，官复原职。我们结为姻亲就更互相信任了，我再提拔你做新军将领，革命党那边才不会怀疑你，你才能真正做一个高级卧底，和铁山做姻亲当然是好事，可这一轮又不能致阿四于死地了，未免遗憾。李重甲告诉李念慈铁山想娶她。李念慈觉得匪夷所思。李念慈深知阿四为李家做的一切，不忍心阿四为了李家而死。教堂，李念慈向神父倾诉内心的苦恼，祈祷着－－她最想见到又最怕见到的那个人出现了，那个“华侨”父亲文先生，也就是铁山。他邀请李念慈和他与孩子们一起游珠江。游船上，李念慈望着她的“爱人”，几乎冲动地表达。文先生有所感觉，竟向她求婚。李念慈哭了，拒绝了。文先生当然知道李念慈是为了救一个假弟弟，他望着李念慈的背影，确信这就是自己等待多年的女人！</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2643</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep48_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="48" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

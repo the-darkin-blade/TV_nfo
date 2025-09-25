@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>铁山遭遇刺杀，李府紧张戒备</title>
+  <originaltitle>铁山遭遇刺杀，李府紧张戒备</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>4938186</id>
+  <uniqueid default="false" type="tmdb">2728547</uniqueid>
+  <uniqueid default="false" type="trakt">1305928</uniqueid>
+  <uniqueid default="true" type="tvdb">4938186</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>一声爆炸，铁山的轿子被炸上天，现场大乱，却乱中有序。大批清兵涌出，迅速捕获了埋伏在四周的革命党人。清风茶楼门口，听到不远处的爆炸，迎亲队伍一片慌乱， 区舒云在轿子里按捺不住激动，只等革命党来救。清风茶楼二楼，准备抢花轿的人正要行动，秦少白命令大家立刻撤退，从刚才的清兵反应中看出铁山早有防备，必须取消整个计划！区李两府都得着信了：铁山遇刺，生死未卜。区巡抚简直掩饰不住惊喜。李玉堂以为是曹三德的安排，曹三德却说咱们的刺杀还没开始呢。城墙上，铁山放下望远镜，冷冷地说：他们就是这样杀了我妻子，我不会再上当。身旁的铁钢拍马屁，李代桃僵！大人太高明了！铁山闻言一凛，电光火石－－有人李代桃僵孙文，为什么不会有人李代桃僵李重光？这样一想，一系列疑问全都迎刃而解，只要找到李公子是替身的证据就行！走，喝假李重光的喜酒去！李家人都在纷纷猜测中，铁山本人到了！铁山卫队将李府团团围住，婚礼戒严。区舒云一路被抬进李府，心里凉了半截。一根红绳将新人牵入正厅，拜天地、拜父母。阿四如木偶一般，区舒云盖着盖头，行动却很不稳重，东张西望……铁山细细观察阿四，和老太太拉家常，重点是李重光十年留学归来都有哪些变化。李玉堂感觉到了铁山的疑心，推说老太太身子弱，死活劝进内室，骗老太太吃了安眠药。秦少白混进李府，阻止杨新刺杀未果，来告诉李玉堂有人要在李家刺杀铁山，但铁山已经早有防备。另一边曹三德安排的杀手花青，也做好了舍命刺杀铁山的准备。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2657</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep08_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

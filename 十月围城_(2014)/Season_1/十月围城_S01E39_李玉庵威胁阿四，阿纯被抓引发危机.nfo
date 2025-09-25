@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李玉庵威胁阿四，阿纯被抓引发危机</title>
+  <originaltitle>李玉庵威胁阿四，阿纯被抓引发危机</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>39</episode>
+  <id>4938217</id>
+  <uniqueid default="false" type="tmdb">2728582</uniqueid>
+  <uniqueid default="false" type="trakt">1306660</uniqueid>
+  <uniqueid default="true" type="tvdb">4938217</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>巡抚卫队长威胁李玉庵再胡沁就把他抓起来，区巡抚是在力挺阿四。李玉庵死不悔改与李重甲商量对策，李重甲暗示阿四在外面还有个女人－－阿纯。阿纯得知区舒云怀孕，黯然神伤。突然，一群人将其抓走。李玉庵向阿四挑明，阿纯在自己手里。李玉庵威胁阿四在一个时辰内跟老太太说清真相，老实滚蛋。阿四已六神无主，区舒云自告奋勇想办法救阿纯，找区巡抚想办法。区巡抚忽然要见李重甲。因为打蛇要打七寸，李玉庵的所作所为一定是李重甲搞鬼。区巡抚跟李重甲明挑，跟着我干，辅佐阿四干好制造局，在商在政在军，都少不了你的好处。告诉你那三叔，别瞎闹了，赶紧把那个阿纯给阿四送回去。李重甲一身冷汗。另一边，李老太太暗中派曹三德利用洪帮的势力找到阿纯。阿纯还是没有消息。阿四心急如焚，要去见老太太说明一切。区舒云拦住，你要是走了，我和肚子里的孩子怎么办？阿四瞥见区舒云的眼泪，脚底变得异常沉重。阿四还是进了老太太的房间，老太太不愿见阿四。老太太跟李重甲在一起。李老太太问阿纯被绑架的事。老太太说你去跟你三叔说，他要还想从我这儿拿一个大子儿，就把人家姑娘放了，还有，你把人要回来，我准你娶夏荷。老太太感慨，家和万事兴，谁也别再闹了。李重甲才发觉老太太看似糊涂，其实心里门儿清！阿纯被关在荒野小屋里，门被撞开，区舒云和李重甲来了。区舒云提出要把阿纯接回李家，区舒云告诉她所谓怀孕是假的，自己和阿四完全清白。阿纯坚持不回李家，表示不想再见阿四了。你们要革命，假夫妻也好，真夫妻也好，我都最好走得远远的。阿四来见阿纯。看见阿四真诚的脸，阿纯又相信，阿四真心爱自己，只爱自己。李老太太与李念慈商量，准备把李家分家。制造局，一个日本商人要见“李重光”，此人竟是乔装成日本人的秦少白。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2654</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep39_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="39" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

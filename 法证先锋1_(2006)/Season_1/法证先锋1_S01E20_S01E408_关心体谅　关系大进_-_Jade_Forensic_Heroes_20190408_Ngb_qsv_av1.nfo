@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>关心体谅　关系大进</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>4155087</id>
+  <uniqueid default="false" type="tmdb">1828888</uniqueid>
+  <uniqueid default="false" type="trakt">1489402</uniqueid>
+  <uniqueid default="true" type="tvdb">4155087</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>汀汀本想约泽琛打壁球，但泽琛因为要赶写小说，所以无暇前往，汀汀失望之余，回家撤夜为泽琛设新书封面，翌日泽琛收到封面时，心中感到非常感动，亦因而令二人关系大有进展。
+
+Vivian 被发现死于家中，淑媛等到达之时，方知事情与华健有关；在 Vivian 家中，汀汀找到安睡药瓶，又找到 Vivian 的遗书，所以初步认为她是死于自杀。
+
+由于小柔查知华健与 Vivian 在工作上发生争执，加上怀疑遗书是伪造的缘故，小柔等开始怀疑华健是杀死 Vivian 的凶手，对他展开调查。
+
+德安为了可以取得更多资据，所以联同淑媛重返 Vivian 家中调查，被淑媛发现重要的破案线索……
+
+由于证明 Vivian 是自杀身亡，华健获无罪释放之余，欲与淑媛重修旧好，但被淑媛断然拒绝。
+
+少聪要求小柔与他欢好，而且他更搬出小柔与彦博的事情作话题，小柔大怒，正欲拂袖由而去之际，发现一切尽被彦博看得清清楚楚……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E20.20190408.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Forensic Heroes 20190408 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>408</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E20.20190408.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="408" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

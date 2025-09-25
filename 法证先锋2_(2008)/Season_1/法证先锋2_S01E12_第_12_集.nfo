@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 12 集</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>法证先锋2</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>1318361</id>
+  <uniqueid default="false" type="tmdb">1830834</uniqueid>
+  <uniqueid default="false" type="trakt">1633081</uniqueid>
+  <uniqueid default="true" type="tvdb">1318361</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>玲只是食物中毒，涛怪宏没有牌照就经营，芬反指玲博涛同情。丧狗太太凤指丧狗当年曾因淫人妻而收恐吓信，更将信交予警方。英找到证物烟灰缸，从上面刻字查到「妙云工作坊」，发现工作坊的主持人妙云曾与丧狗到宾馆。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1882</width>
+        <height>1080</height>
+        <durationinseconds>2690</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.Ii.E12.Hdtv.1080I.H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

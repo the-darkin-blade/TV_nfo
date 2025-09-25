@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿四官复原职，引发革命党内怀疑与冲突</title>
+  <originaltitle>阿四官复原职，引发革命党内怀疑与冲突</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>50</episode>
+  <id>4938229</id>
+  <uniqueid default="false" type="tmdb">2728594</uniqueid>
+  <uniqueid default="false" type="trakt">1307224</uniqueid>
+  <uniqueid default="true" type="tvdb">4938229</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>阿四官复原职，这更证实了一些革命党人对阿四是内奸的怀疑。激进的党人于镇伟要求锄奸，秦少白问李重甲的意见，李重甲说我也因为堂姐的关系官复原职，这能更证明我是内奸吗？秦少白赞赏李重甲，劝大家慎重考虑。私底下，李重甲却鼓动于镇伟除掉李重光，说少白文人气重，做事实在太优柔了。阿四和区舒云都明白，革命党对阿四有误解，商量着去找秦少白解释。区舒云知道一处革命党的秘密机关，带着阿四到那里去找秦少白。秦少白偏偏不在，阿四和区舒云坐等一下午，终于失望，只好离开。阿四很难过，认为连秦少白也开始怀疑他了。区舒云宽慰阿四，说少白不是那样的人。那口气像是说自己家人，阿四也意识到了，两人都有些尴尬。回来路上，阿四遭到伏击－－是于镇伟。阿四受伤躲闪，于镇伟追击，却忽然被人打倒。一辆汽车开过来，把阿四、区舒云救进车里。阿四夫妇居然被接回了铁山府，原来，铁山一直派人跟着二人！自然也知道他们是去见革命党。铁山对阿四说，你答应我的事没有做到。不过我不怪你，这样也好，你自己看到了，你把他们当朋友，他们倒要把你逼成敌人。铁山问阿四制造局里还有几个革命党？阿四推诿着不说，铁山也不动气，只说慢慢查慢慢查。看到铁山对阿四亲切关心，区舒云很不舒服，阿四居然如此驯服，一口一声感谢姐夫，区舒云恨在心里，可当着李念慈，也不好发作。阿四竟向铁山跪谢救命之恩，忽然提出，区巡抚已疯，能否接回家照顾？铁山表示可以考虑。区舒云这才理解阿四对铁山下跪，是为了救自己的父亲，心里又感动又凄凉。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2648</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep50_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="50" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

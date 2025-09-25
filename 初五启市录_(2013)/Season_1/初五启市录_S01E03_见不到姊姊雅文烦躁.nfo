@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>见不到姊姊雅文烦躁</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>初五启市录</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3225402</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>满心怒火的育德率众到市长家见继尧，汪家大总管美玲让育德在大厅等候。育德久候下，继尧终于出现。育德将被轻待的怒火倾泻而出，继尧出言反驳，但育德仍不可一世，抬出自己贵为中央专员的身分，更指自己是中央财政部副部长之子。继尧要求美玲直接拨电话给育德的父亲，更以长辈的语气与副部长交谈。
+
+强充死撑的育德向继尧说出此次南下的目的，原来是中央政府颁布要加重税的公文。继尧接下公文看过后，竟取过毛笔即席在公文上批改，之后更向育德说出……
+
+雅媛接手　蚀钱码头
+
+继尧约四大商会见面，身穿全套戎装的市长向四大商会提出要求，要他们将物价降低，另外又指中央下令加税百分之五，而四大商行需每人负责百分之一。继尧离开后众人向振邦诉苦，振邦向他们说出继尧的努力，亦强调四大商行不准将支出转嫁到市民身上。有商会指经营花地码头的专营权年年亏损，指应该由其他商会接手，在众商会要求下，雅媛答应接下了花地码头的专营权。
+
+百年等人为加税之事讨论，更得知雅媛将接受花地码头的专营权，绍业等担心此等无利润又麻烦的工作会分给自己打理，于是百年与绍业决定到电影院探望礼和，游说在家族中没有担任工作的礼和接手管理花地码头。
+
+百年与绍业一唱一和，终成功说服礼和向雅媛自荐。雅媛听过礼和的说法后，爽快答应该他打理码头。
+
+毫无工作临门，正百无聊赖钓鱼打发时间的飞等人，突然收到南隆行的职员工作，就是协助他们搬迁。当听到老板打算将货仓结业时飞等人大受打击，但职员却指码头将会由唐家的协和行接手经营。
+
+货仓顺利交接，永齐陪伴礼和在货仓巡视之际，飞出现更热情地推销自己，指永昌盛乐意与唐家合作，但永齐却冷然指出早前电影底片之事，被他愈帮愈忙。
+
+苏飞努力　巴结礼和
+
+飞为了巴结礼和，更要求众人一起在礼和面前表演。众人在苏家讨论唐家入主码头之事，一钊说出礼和的背景，飞得知礼和在家族中是有分获支月利及发花红，有感礼和在唐家身分之重要，于是决定投其所好。
+
+飞到电影院探望礼和，更自认十分喜欢看电影时，碰巧遇上振邦及法国领事，振邦更要求飞与礼和离开……
+
+礼和要求　增加人手
+
+永昌盛众人发现白饭中既混杂了番薯而感不满，这时飞回来，把礼和视自己为朋友的事与帮众分享，众人满怀希望……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>960</width>
+        <height>544</height>
+        <durationinseconds>2654</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>The.Day.Of.Days.Ep03_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

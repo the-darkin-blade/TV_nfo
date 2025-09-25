@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>及时雨让位玉麒麟</title>
+  <originaltitle>及时雨让位玉麒麟</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>66</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026683</uniqueid>
+  <uniqueid default="false" type="trakt">7308169</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>卢俊义与燕青杀了李固与贾氏，终于报了一箭之仇，解了心中之恨。卢俊义被梁山好汉搭救，心生感激，决定投奔梁山。宋江叹卢俊义上山使梁山泊终于有了文韬武略，声明远扬之人。宋江决定把梁山泊第一把交椅让与卢俊义。卢俊义不敢接受，吴用建议他日再做定夺。众英雄设宴庆祝大破大名府、卢俊义上山时，段景柱通报曾头市郁保四的抢了梁山新购的二百匹骏马。天王晁盖的仇还没有报，曾头市又惹到头上来。旧账新仇一起算，宋江下令发兵曾头市。燕青私下打探告于卢俊义，晁盖被曾头市史文恭所害，临终之前留下了遗言，说是谁得史文恭性命，谁便是梁山主人。燕青建议卢俊义杀了史文恭，夺取梁山头一把交椅。卢俊义念及梁山众好汉对他有救命之恩，攻打曾头市他只为报恩，没有多想。并且史文恭曾与卢俊义和林冲为同门师兄弟，史文恭早先被逐出师门，剿杀史文恭也为清理门户。曾头市知道梁山要来攻打，已做好了充分的准备。梁山众好汉大兵来袭，双方交战互有损伤。史文恭建议曾头市上书朝廷请求援兵，调兵遣将，多派些兵马，分做两处征剿，一处攻打梁山，一处保他曾头市。而曾家几个儿子鲁莽好战不听他的劝告，是与梁山好汉血战。几轮战事下来，双方互有损伤，欲要议和。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2668</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E66 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="66" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

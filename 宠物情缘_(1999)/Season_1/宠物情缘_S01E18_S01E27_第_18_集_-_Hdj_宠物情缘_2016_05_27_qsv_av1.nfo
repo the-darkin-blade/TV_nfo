@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 18 集</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>宠物情缘</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id>7480286</id>
+  <uniqueid default="false" type="tmdb">2001438</uniqueid>
+  <uniqueid default="false" type="trakt">3823863</uniqueid>
+  <uniqueid default="true" type="tvdb">7480286</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>男被金毛女子所累，再次被敏责骂，即使硕怎解释，敏都认定男是好色之徒。珊向众人宣布决定到外国进修时，华突来电告知一货柜车把妹撞倒，经医生检查下，发现妹有白内障及其他病症，朗旁徨痛哭，珊见状介绍名医并出医药费，朗决报答珊。街上，敏与金毛女子再遇，偶然得悉男的另一面，不禁对他另眼相看。Pub内，珊告知朗到外国半工读，时Ken至，并追问当日分手原因，朗在巷内偷听到珊的真情剖白。朗面对爱情和友情，不知怎抉择，仁劝朗不应放弃硕。朗最后决定让爱，故意对硕诸多挑剔。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.56</aspect>
+        <width>1728</width>
+        <height>1080</height>
+        <durationinseconds>1357</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 宠物情缘 Ep18 2016 05 27_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj 宠物情缘 2016 05 27 qsv av1</title>
+  <originaltitle/>
+  <showtitle>宠物情缘</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.56</aspect>
+        <width>1728</width>
+        <height>1080</height>
+        <durationinseconds>1357</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 宠物情缘 Ep18 2016 05 27_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

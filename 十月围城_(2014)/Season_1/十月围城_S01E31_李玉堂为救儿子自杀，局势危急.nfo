@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李玉堂为救儿子自杀，局势危急</title>
+  <originaltitle>李玉堂为救儿子自杀，局势危急</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id>4938209</id>
+  <uniqueid default="false" type="tmdb">2728574</uniqueid>
+  <uniqueid default="false" type="trakt">1306491</uniqueid>
+  <uniqueid default="true" type="tvdb">4938209</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李玉堂与李老太太叙谈了很久，交待了李家上下一切。并谈起了被逐出李家家门的三弟李玉安，希望老太太能让其重回李家，老太太拒绝。李玉堂为与铁山殊死一搏做好了准备。 广州商会暨华南制造局股东大会，铁山和总督到会。会场外，铁山的兵暗暗包围，准备会一开完就发难。铁刚发现李重光竟是小丁假扮，真正的李重光已经逃跑。 船上，阿纯追问阿四到底有什么大事瞒着自己，阿四不得不说出面临的巨大困境，一切有区巡抚扛，区巡抚只会给自己扛事，决不会给第二个人扛，阿纯理解，只说绝不能做一辈子后悔的事。阿四与阿纯跳下了船，决定回去见机行事。 会场上，李玉堂让人搬出好多账本，本来该让各股东交钱，李玉堂在商绅曾八爷逼问下，却说出铁山想谋我们家的厂的实情，现在又有风声说我们救了秦少白，其实是想赖我们的钱。众商人议论纷纷。铁山意识到李玉堂是有预谋的，这是在歪曲事实制造舆论声势，想挑动众商人跟自己叫板，让自己投鼠忌器不能抓他！铁山当即就要翻脸，但一时还抓不到阿四，只能隐忍。阿四悄悄出现在会场，当场被铁刚抓住。 场面乱了，铁山弹压。铁山将李玉堂叫到会场外，单独叙谈，劝李玉堂把放走秦少白责任推到阿四身上，并配合自己主持制造局，并为其亲笔写下保证书作为不牵连李家的护身符。与此同时，区巡抚与区舒云躲在休息室静观会场内动静。众人疑惑间，李玉堂和铁山都出来了。李玉堂说，刚才铁大人跟我说，如果我收回刚才的话，认了我儿子救秦少白的事，他就不株连我，铁大人是还想让我给制造局出力啊，可如果非要说有人救了秦少白，那也是我救的，与我儿子毫不相关！李玉堂一脸嘲讽，最可笑铁大人竟说，我们不是亲父子， 铁大人还开出了父子不相株连的保证， 连父子他都要离间了，我们当然是亲父子，因为我可以为我儿子死！ 李玉堂忽然抽出事先准备好的匕首， 恼怒的铁山发觉不对，但已经晚了，李玉堂把匕首进了自己的胸膛－－可我要铁大人说话算话，不要再株连我儿子！</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2652</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep31_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

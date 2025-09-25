@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>耀光逃走　误伤高通</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>4155072</id>
+  <uniqueid default="false" type="tmdb">1828873</uniqueid>
+  <uniqueid default="false" type="trakt">1489366</uniqueid>
+  <uniqueid default="true" type="tvdb">4155072</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小柔及时赶到，阻止耀光攻击泽琛，二人一同追捕耀光，耀光拔足而逃，撞倒刚巧经过的高通，令他头破血流，幸而最后小柔及泽琛终将耀光拘捕。高通虽无大碍，但却验出他患有白内障，他不欲将事情宣扬，命泽琛不可将此事告知彦博。
+
+经化验之后，证明在砖块之上的指纹并非来自耀光，不过，当耀光的「大佬」有权前来保释他之时，不慎露了口气，令小柔发觉他便是抛砖块攻击她的真凶，于是拖计套他的指纹，结果实了小柔的推断正确。
+
+泽琛与高通、小柔往探望泽瑶，事后，泽瑶命泽琛将一木盒送到沛沛手上，她打开之后，发现木盒内藏有将年她写给彦博的信……
+
+泽瑶在十年前，无意中看到沛沛写给彦博的信，当时因一时私心而将信件收起，令沛沛与彦博的感情无疾而终，沛沛得悉真相，令二人姊妹情顿时决裂！
+
+当晚雷声大作，彦博显得心绪不宁，突然电话响起……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1326</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E05.20190324.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Forensic Heroes 20190324 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>324</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1326</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E05.20190324.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="324" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

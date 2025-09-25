@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>突然醒觉　远离赌博</title>
+  <originaltitle>Episode 33</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <id>1623761</id>
+  <uniqueid default="false" type="tmdb">1992315</uniqueid>
+  <uniqueid default="false" type="trakt">1576583</uniqueid>
+  <uniqueid default="true" type="tvdb">1623761</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>正初见欢畅离去，暗自高兴计划安排顺利。正初以为青云会回到自己身边，青云却表示正初太自私更感害怕。青云在赌场内看见赌徒们的赌相，突然清醒过来明白到再赌下去只会连幸福也输掉，劝婉莹与她一同离去重新做人。来富无意中得知美国的地皮拥有权是正初和国权，正初却利诱来富不要说出去。小茵看上了琦的限量版手袋，福荣为讨小茵欢心，找琦代订手袋。福荣发现琦滥药劝止她，琦却把正初欲吞并奥力斯赌场一事说出，更指出正初以琦裸照要胁帮他做事。来富通知正初福荣已知吞并一事，正初要福荣放自己一马，福荣劝正初回头是岸。两人刚分别，福荣突然被汽车撞倒，正初则收到国权的来电要他离开现场，正初不忍见好兄弟死去，立即送他到黑市医生处医治。正初强装镇定致电欢畅，才知福荣没有把事情告诉欢畅。国权赶至要杀福荣灭口，正初不许国权杀福荣。福荣因严重内出血，医生说要快送去医院才能医治，正初要国权提前交易地皮，让福荣可尽早送去医院救治。来富从欢畅口中知珠美有孕。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2687</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep33.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="33" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>礼和被夺权感无奈</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>初五启市录</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3225410</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>振邦带军队到花地码头检收货物运走，在查看物品时，发现即将要私运的国宝中，遗失了最贵重的干隆玉玺。振邦直指花地码头一众相关人士偷走了重要物件，礼和作证指出货仓内摆放箱头的次序与前一晚不一样，明显在他离开货仓后，有人移动过货物。于是振邦向众人逼供，要偷走物品的人自动投案，否则开枪杀害码头的人。幸好雅媛及时赶到，把误与洋酒对调的锦盒交还给振邦，才解救了这次危机。
+
+偷运国宝　诸事不顺
+
+取回干隆玉玺后，振邦马上安排整批以军需品之名私运的国宝落船出货，却因一度遗失干隆玉玺，延误了时间。运送国宝的船只仍未交接货物便遇上海上水检，逼不得已之下，宇只好把国宝暂时沉在海中掩人耳目。虽然国宝安全避过水检，但干隆玉玺碰撞到礁石受损，结果仍是无法如期出货。
+
+另一方面，大英和小英误失干隆玉玺自知犯下大错，向炳财领罪之时表示甘愿受罚。炳财只能大叹天意如此，而光复大清的计划又得延后。
+
+礼和误事　调离码头
+
+宇因国宝失误一事怪罪振邦，振邦原本欲以此与各省打好关系，亦因此而大受影响。振邦虽主动提出赔偿是次损失，但涉及款项巨大，一向不贪污的他没法支付。这次失误为他做成多重打击，对阻挠私运国宝的唐家更添仇恨。
+
+雅媛得知振邦私运国宝一事上，与礼和调乱洋酒与玉玺有关，便急忙找振邦解释。振邦有意避而不见，让雅媛和永齐苦等。永齐总结事件，认为国宝遭调乱，全因礼和经验不足所致，担心日后仍会有同样问题。雅媛考虑后，决定把礼和从花地码头调走，让他回到百乐门戏院。花地码头大利货仓的管理工作空出来，宝宝便建议改由绍业接手。
+
+雅文深知礼和积极管理花地码头，而且开始获得好业绩，便向雅媛追问当中原因。雅媛直言军需品一事皆因礼和大意造成混乱，指他成事不足，不适合做生意。这番话正好被礼和听到，听到心仪的对象批评自己，尽管感到非常错愕，面对雅媛劝他返回戏院打发时间的建议，他仍然强颜欢笑，自嘲性格被动，只适合闲时看看电影。
+
+绍业接替　加强管制
+
+绍业不满接手管理花地码头，百年为宝宝说好话，指管理花地码头乃是发围机会，若能取得好成绩，在唐家渐获重要地位，便能摆脱雅媛当权的局面。绍业感到有道理，也决心管理好花地码头。
+
+礼和回到码头交代要离职一事，众人无不惋惜……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>960</width>
+        <height>544</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>The.Day.Of.Days.Ep11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 23:16:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>Episode 33</title>
+  <originaltitle>Episode 33</originaltitle>
+  <showtitle>书剑恩仇录</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <id>5767613</id>
+  <uniqueid default="false" type="tmdb">2490046</uniqueid>
+  <uniqueid default="false" type="trakt">2355091</uniqueid>
+  <uniqueid default="true" type="tvdb">5767613</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>19</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <dateadded>2025-09-03 23:13:29</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1158</width>
+        <height>1060</height>
+        <durationinseconds>1161</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E033.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="33" id="AIRED" name="Aired Order" season="1"/>
+  </episode_groups>
+</episodedetails>

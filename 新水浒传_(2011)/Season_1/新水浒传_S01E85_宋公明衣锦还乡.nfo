@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>宋公明衣锦还乡</title>
+  <originaltitle>宋公明衣锦还乡</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>85</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026703</uniqueid>
+  <uniqueid default="false" type="trakt">7308188</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>林冲回忆着当初与鲁智深的往事，抑郁而终，不久后杨志也相继染病而亡，宋江扶灵痛哭。梁山军回京领功受赏，驻扎在城外，燕青前来向卢俊义辞行，并劝说他弃官归隐，讲韩信英布彭越的典故，劝告卢俊义要懂得功成身退，不要贪恋功名，但卢俊义不肯舍弃与宋江等人的兄弟之情，并自认为行得正做得端，朝廷没有理由卸磨杀驴。燕青无奈，求卢俊义将辞别的书信转交宋江，一人独自离去。徽宗在金殿召见宋江众将，加封官爵，赏赐金银，宋江加授武德大夫，楚州安抚使兼兵马总管。卢俊义加授武功大夫，庐州安抚使兼兵马副总管。吴用授武胜军承宣使。李逵授镇江润州都统制。并追封战死的众将。梁山众人一时间风光无限。宋太公病故，宋江奔丧，衣锦还乡，在父亲灵前实现了诺言，如今再不是山贼草寇。高俅童贯蔡京等人嫉妒梁山众将得宠得势，暗中定下计策加害，先盯上了卢俊义，意图先除去这个宋江的左膀右臂。于是去庐州买通几个当地土人，写状子状告卢俊义在庐州为官期间，暗地招兵买马意图造反，皇帝必定召他入京，要是卢俊义逃过这一关，那么还有下一关在等着他。蔡京出毒计，给卢俊义的酒中下毒，用慢性毒药水银慢慢将他毒死。卢俊义果然中计，被召入京城，在金殿上陈表忠心，徽宗便不再疑心，便赐御膳。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2648</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E85 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="85" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

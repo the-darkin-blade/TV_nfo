@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>浩然巧芝　公然交往</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>2251841</id>
+  <uniqueid default="false" type="tmdb">569234</uniqueid>
+  <uniqueid default="false" type="trakt">577901</uniqueid>
+  <uniqueid default="true" type="tvdb">2251841</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>明轩在家中，突然看到母亲竟然到了梁家作客，于是他亦立刻赶到梁家，以为自己亦可「登堂入室」，结果却吃了闭门羹。明轩趁陪母亲选婚纱时向她诉苦，蓉蓉向儿子解释当中玄机；这时明轩却看到浩然与绰雅手牵手地在婚纱店前经过…… 浩然邀请巧芝与众同事游船河，令巧芝认为自己已正式与浩然交往；当活动快完时，浩然对巧芝说出已预约了吃海鲜，令巧芝临时放弃把生日蛋糕送给咏嘉。  饱受打击　性情突变  巧芝迟了一天把生日蛋糕带到医院，却发现咏嘉已去世；巧芝到监狱探望永晖，把咏嘉的死讯告讯他；大受打击的永晖回到监仓时，众囚犯都发觉他性情大变……梁家众人协助咏嘉的丈夫办理咏嘉的后事，家人却发现巧芝竟然在拜祭时偷笑，原来巧芝正回味与浩然的快乐时光。一直希望藉巧芝认识Janet Bin的明轩，突然发现梁家窗外有人影飘过……梁家众人回家时，发现明轩竟在门前鬼鬼祟祟；明轩与蓉蓉母子被邀请到梁家吃饭，原来这天晚上巧芝约了浩然上来与家人见面。明轩看到巧芝名花有主，亦不禁松了一口气。巧芝欲向浩然说出自己就是Janet Bin一事，于是与他在公园独处，但想不到浩然竟然以「欲擒故纵」想法，刻意提出不想在两人相处谈到有关「工作」的消息，浩然收到紧急消息需要离开，于是借机向巧芝吻别。浩然接到有关重犯韩森的消息，于是率先带领部下逮捕犯人；想不到Janet Bin已把坏人绑在一起……看到功劳再次被Janet Bin夺去，浩然只得压下满腔不满；当巧芝向浩然邀功之际，竟发现有歹徒仍未被逮捕；在混战中浩然被车压着肩膀，当巧芝打败歹徒后，立刻抢救浩然，但想不到她的能力却在此时消退；虽被车压着痛楚万分，但浩然竟能把一部电话交给巧芝，说她可用这电话与自己直接联络后才昏过去……  永晖身世　水落石出  浩然的上司到医院探望他，更说已知道他私下调查Janet Bin之事，要求他中止调查，但浩然不置可否。当巧芝到医房探望浩然时，原来绰雅亦正快到达病房；这时明轩突然出现，借巧芝洗花瓶之际，向浩然说出他已使计把绰雅牵制着……巧芝发现浩然私下传短讯给Janet Bin，竟认为浩然是受到明轩影响；巧芝飞到明轩家欲对付他，却反而因蓉蓉的说话得到启发。晓琳突然复职，令投资部众同事惊讶不已；永晖在姐夫口中终得知自己的身世秘密……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E13.20180528.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Fly With Me 20180528 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>528</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E13.20180528.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="528" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

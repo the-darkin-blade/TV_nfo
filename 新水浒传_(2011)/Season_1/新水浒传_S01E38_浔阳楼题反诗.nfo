@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>浔阳楼题反诗</title>
+  <originaltitle>浔阳楼题反诗</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>38</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026655</uniqueid>
+  <uniqueid default="false" type="trakt">7308141</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>梁山上，林冲与吴用商议接纳二龙山众好汉入伙梁山，二人一拍即合，同往二龙山。曹正，张青，杨志，武松几位好汉齐来相见，只是迟迟不见鲁智深出来相迎。众好汉又为林冲置酒，却对吴用怒目相向，吴用对此心生疑惑。鲁智深出来相见，奉刀就戮，说出自己因贪杯失了嫂嫂，为此滴酒不沾。后又杀高衙内为嫂嫂报仇的前情。鲁智深又道出在二龙山落草结伙乃等待林冲到来做主，纠集兵马杀回东京报仇的想法。吴用趁机向鲁智深等人说明来意，不料被鲁智深以“梁山晁盖人马劫富不济贫”拒绝。吴用又以深明大义的宋江作诱，众好汉仍是不应，只说要把宋江接到二龙山来。鲁智深再劝林冲留在二龙山，以图日后报仇，林冲执意回梁山，两兄弟就此别过。江州，宋江虽然是带罪之身，却日日过得逍遥自在，梦中不免考量自己当初的抉择，空有凌云之志却不得施展使他心乱如麻。想去找李逵却又不得见，遂至酒楼，做了一层楼的席，请了一众“不至之客”。又回想起自己的亲朋故旧，对自己现状是落魄还是风光感到无尽迷茫。又喟叹自己年过而立却无功无名，满心的怅惘，落寞，希望和兴奋交织，好不纠结。宋江在回忆感慨之中越喝越多，神志愈发不清醒起来。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2645</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E38 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="38" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

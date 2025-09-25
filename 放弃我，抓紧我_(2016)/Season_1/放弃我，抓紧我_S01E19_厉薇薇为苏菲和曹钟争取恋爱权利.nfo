@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>厉薇薇为苏菲和曹钟争取恋爱权利</title>
+  <originaltitle>厉薇薇为苏菲和曹钟争取恋爱权利</originaltitle>
+  <showtitle>放弃我，抓紧我</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>5882548</id>
+  <uniqueid default="false" type="tmdb">1247911</uniqueid>
+  <uniqueid default="false" type="trakt">2436661</uniqueid>
+  <uniqueid default="true" type="tvdb">5882548</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>玲珑与度的联合设计作品终于出炉，薇薇把它命名为“冰与火之歌”，因为这个主题最符合安安和易航的气质，安安是冰，易航是火，冰打动了火，火融化了冰，这应该就是两位舞者用舞蹈讲述的故事，他们将故事融入到服装中，帮助观众更直观地理解故事。一向挑剔的安安也难得地露出满意的笑容。厉薇薇趁机向陈亦度提出邀请，说他们既然合作得那么愉快不如晚上一起吃蛋包饭吧？没想到陈亦度冷着脸对她说希望以后他们继续保持距离。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2781</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>J2.Stay.With.Me.Ep19.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

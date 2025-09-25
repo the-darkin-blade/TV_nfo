@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>摄政王钦差到，铁山被迫放李重光</title>
+  <originaltitle>摄政王钦差到，铁山被迫放李重光</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <id>4938211</id>
+  <uniqueid default="false" type="tmdb">2728576</uniqueid>
+  <uniqueid default="false" type="trakt">1306544</uniqueid>
+  <uniqueid default="true" type="tvdb">4938211</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>摄政王钦差富大人四两拨千斤：广州首富都被逼死，草民还不造反？铁山办事太操切！一听这话，总督和区巡抚心里踏实了，朝廷要稳定，人都死了，跟革命党有无关系就不究了。铁山只好答应放李重光。阿四回来了，李家上下欣慰，商会众人也来探望，李公子敢跟铁山叫板，是真豪杰，真孝子，制造局好多事等着李总办拿主意呢。阿四尝到了当英雄的滋味，更为李玉堂之死伤心，为以后的路发愁。老太太松了口气，病倒。李念慈在床前照料。人前，李重甲对“大哥”恭敬有加；关上门，阿四是李家的“恩人”。李重甲很客气：李家忘不了你，伯父怎么对你我就怎么对你，言下之意，恩人打算什么时候走？阿四从英雄梦中醒来，一时不知怎么回答。李重甲此时的目标简单清晰，只要赶走阿四，一切就成功了，但最高级的是让阿四自己离开。区巡抚前来吊唁，阿四拜谢区巡抚，此时区巡抚已察觉阿四是假，但未挑明并送阿四一句话：假做真时真亦假。铁山前来吊唁，铁山跟阿四单独谈话，一指出李玉堂并非被自己逼死，是被贪官和革命党两厢逼得没了活路；二指出阿四是假，自己不屑杀他，但他要是不识相，跟着区巡抚与自己作对，那就不客气了。铁山叫来李重甲，说他打算赎买众商人的股份，将制造局改为官办，赎买价格是原价的两成，之后任他为制造局总办。李重甲走后，铁山却对铁刚透露了对李重甲的不信任，他只是利用李重甲而已。阿四去看阿纯，阿纯变短发，一头长发都供养菩萨了，只为求阿四平安无事。阿四心疼，说等老太太好转了我们就走。阿纯满脸眼泪含笑点头，我等你。阿四向李老太太征询制造局的处置方式。连阿四自己都意识不到，他内心希望有什么力量留住自己。没想到，老太太竟劝他先出国完成学业，家里事不要管那么多，交给重甲忙吧。－－李玉堂死后，李家风雨飘摇，无人能撑大局，老太太想得深远，重光不走，铁山不会罢休；制造局再亏是小，大孙子安全第一。阿四明白了老太太的苦心，流泪。真想承认自己是假的，有心当真的，可开不了口！</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep33_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="33" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

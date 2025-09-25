@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>回忆</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>2398841</id>
+  <uniqueid default="false" type="tmdb">1460686</uniqueid>
+  <uniqueid default="false" type="trakt">1435867</uniqueid>
+  <uniqueid default="true" type="tvdb">2398841</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>九十年代中期，香港股市风云变色，数名亿万富豪短时间内变得负债累累，计有丁家五父子相继跳楼、前贪污探长龙成邦在台湾心脏病发、前股票交易巨子陈万贤在狱中吊颈等等。方展博目睹一切恩怨仇恨已了断，心情复杂，回忆起多年往事。六八年，股票市场为少数外国人垄断，方进新与陈万贤欲将股票普及化，合作设立专为华人服务的股票交易会，果带动香港市民参与投资之风。七三年，股票炒风兴盛，万贤向各申请上市公司收取私利，进新不值其所为，二人交恶。丁蟹妻离家出走后，留下四子无人照顾，慧玲对丁蟹由怜生爱，仗义替他照顾四子，可惜他对慧玲忽冷忽热，从未表白对慧玲之情。丁蟹往澳门找妻，知她贪慕虚荣甘作舞女，大表失落，回港后在家人面前仍强作轻松。孝蟹当街偷食物给弟弟们，被店主捉着，慧玲见到替他掩饰，一起被拉上差馆，进新往保释孝蟹，误会慧玲教坏孝蟹，令她难堪。慧玲被丁蟹禁锢，甚感惊慌，她逃走出外，被进新救走。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1358</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.01_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 01 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1358</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.01_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

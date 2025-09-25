@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>豹子头误入白虎堂</title>
+  <originaltitle>豹子头误入白虎堂</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026623</uniqueid>
+  <uniqueid default="false" type="trakt">7308110</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>鲁智深在智真长老面前像是幡然醒悟，与人为善，实际背地里还是饮酒为乐，甚至为了查清是否有人诬陷自己，竟然饮酒之后一夜不睡，等到智真长老过问，又有人声称自己被鲁智深捆了起来丢进了河里。鲁智深大怒，声称自己一夜未眠何曾捆人丢进河里？智真长老却不置可否。只是教授鲁智深佛理，甚至为了避免争端，让鲁智深与自己同塌而眠。金翠莲前来探望，告知鲁智深，庙内僧众对他诸多不满，劝鲁智深收敛秉性。原来金翠莲此行竟是前来告别，等到鲁智深下山探望，金翠莲一家受他连累，早已不知去向。京城，张教头劝慰林冲，却路遇一卖刀男子，男子手中的刀确是宝刀，林冲一见之下便买了下来。林娘子眼见林冲对宝刀的喜爱，却还是劝诫林冲离开京城，林冲点头同意了。丫鬟正在收拾行李，林冲却在挥动新买来的宝刀，林娘子明白，林冲离不开京城，他们走不了。陆谦来了，在林冲的刀口之下，陆谦承认自己卖友求荣，却坚称自己并未大奸大恶，不然早在酒里下毒，哪有林冲今日。陆谦又称，他在高俅府内发现高俅并非奸邪之辈，只是高衙内为虎作伥，他把林冲的事情禀报高俅，高俅不但严惩了高衙内，还要当面向林冲赔罪，任由林冲发落高衙内。只不过林冲的事情闹得太大，而高太尉位高权重，只能借口请林冲过府比刀，来行那便宜之事。说完，陆谦还拿出一纸公文，表明今日林冲若是杀了自己，绝无官非，乃是自己自愿。林冲生性良善，终是不忍杀害陆谦，只是将他赶走。林冲还是去了高俅府上，跟着来人的接引，林冲到的一处，却被高俅喝斥他带刀闯入白虎堂。林冲想要解释，却发现自己已经落入了陷阱。高俅给林冲定了罪，持刀擅闯白虎堂，意图不轨，押去开封，秋后处决。此时的鲁智深已经只能和山水鸟虫说话解闷，恰巧路遇送酒上山的店小二。鲁智深连蒙带抢，夺下了酒，喝了个痛快，就连店小二用扁担打他，他也毫不在乎。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2672</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E7 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

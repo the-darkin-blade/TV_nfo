@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>十娘与哪吒可谓不打不相识</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>4418921</id>
+  <uniqueid default="false" type="tmdb">2025518</uniqueid>
+  <uniqueid default="false" type="trakt">1484569</uniqueid>
+  <uniqueid default="true" type="tvdb">4418921</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>哪吒与龙王三太子大打出手，可惜一直处于下锋，最后凭干坤圈，混天绫将对手击败，众人开心至得意忘形，西伯候姬昌得知哪吒与三太子开战，气愤不已。为了息事宁人，惟有亲到龙王庙与龙王求和，龙王本来气焰嚣张，可惜得知三太子理亏，无奈地离开！姬昌划地为牢，惩罚哪吒十日以作反省，哪吒不服！
+
+纣王要李靖出兵讨伐犬戎巨人，李靖没有十娘在身边一齐出征，心中总感不安，琵琶主动要求为寻回十娘，李靖心中寄予厚望，谁知琵琶不单没叫十娘回朝歌助靖出征，反而鼓励十娘专心寻子，十娘不虞有诈，琵琶在靖众人面前挑拨离间，假称十娘死也不愿回来，靖众人气愤不已，而琵琶亦顺利当上副将！
+
+戬在父亲之店内工作，不是打破东西，就是偷食人客饭菜，令戬父几乎心脏病发，戬深感内疚！另边厢，哪吒被罚十日，百无了赖，无意间遇上十娘，更抢走十娘手中五鬼，十娘大为紧张，更与哪吒大打出手，两人交战之际，十娘眼见面前人竟有干坤圈，混天绫，而且又会喷火，才恍然大悟此乃自己日寻夜寻之亲生儿哪吒。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1048</width>
+        <height>714</height>
+        <durationinseconds>1409</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>05_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

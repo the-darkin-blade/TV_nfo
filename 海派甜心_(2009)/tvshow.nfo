@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:10:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>海派甜心</title>
+  <originaltitle>海派甜心</originaltitle>
+  <showtitle>海派甜心</showtitle>
+  <sorttitle/>
+  <year>2009</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>4.9</value>
+      <votes>9</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>杨丞琳凭借此剧获得第45届台湾电视金钟奖最佳女主角奖，罗志祥也成功入围该届金钟奖男主角奖。  　　台湾富商公子薛海化名达浪（罗志祥 饰）到杭州念书，同学欺负之时，得到学姐陈宝茱（杨丞琳 饰）出手相助，两人谈起了第一次恋爱。台湾的广告公司来到校园举行“甜心皇后”的比赛。宝茱拿到了冠军，从此被大家叫做“甜心”。这时甜心的父亲破产，抛妻弃女。甜心只得和母亲搬回台湾，因误会和与达浪失去联系。被抛弃达浪成了一个玩弄感情的花花公子。直到有一天听到电台“甜心时间”。薛海买下了电台，展开对甜心的报复，当看到甜心和别人约会的时候，薛海才发现自己仍然深爱甜心。于是达浪重新展开对甜心的追求。就在此时，甜心母亲发现达浪的大姐竟然是甜心父亲的初恋情人，于是强烈反对。  　　海派王子和甜心的爱情之路坎坷不断，何时才能回到真爱的本质？</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"31136","imdb":"tt1641680","wikidata":"Q705883","tvdb":"195091"}</episodeguide>
+  <id>195091</id>
+  <imdbid>tt1641680</imdbid>
+  <tmdbid>31136</tmdbid>
+  <uniqueid default="false" type="tmdb">31136</uniqueid>
+  <uniqueid default="false" type="imdb">tt1641680</uniqueid>
+  <uniqueid default="false" type="wikidata">Q705883</uniqueid>
+  <uniqueid default="true" type="tvdb">195091</uniqueid>
+  <premiered>2009-11-01</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <genre>Comedy</genre>
+  <studio/>
+  <country>台湾</country>
+  <actor>
+    <name>罗志祥</name>
+    <role>薛海/林达浪</role>
+    <profile>https://www.themoviedb.org/person/1245759</profile>
+    <tmdbid>1245759</tmdbid>
+  </actor>
+  <actor>
+    <name>杨丞琳</name>
+    <role>陈宝茱</role>
+    <profile>https://www.themoviedb.org/person/129261</profile>
+    <tmdbid>129261</tmdbid>
+  </actor>
+  <actor>
+    <name>李威</name>
+    <role>何言风</role>
+    <profile>https://www.themoviedb.org/person/1302074</profile>
+    <tmdbid>1302074</tmdbid>
+  </actor>
+  <actor>
+    <name>吴亚馨</name>
+    <role>莫莉</role>
+    <profile>https://www.themoviedb.org/person/1260987</profile>
+    <tmdbid>1260987</tmdbid>
+  </actor>
+  <actor>
+    <name>向语洁</name>
+    <role>薛沛</role>
+    <profile>https://www.themoviedb.org/person/4639665</profile>
+    <tmdbid>4639665</tmdbid>
+  </actor>
+  <actor>
+    <name>王月</name>
+    <role>王玉兰</role>
+    <profile>https://www.themoviedb.org/person/1977517</profile>
+    <tmdbid>1977517</tmdbid>
+  </actor>
+  <actor>
+    <name>江奇霖</name>
+    <role>巴双</role>
+    <profile>https://www.themoviedb.org/person/2067134</profile>
+    <tmdbid>2067134</tmdbid>
+  </actor>
+  <actor>
+    <name>纪培慧</name>
+    <role>美佳</role>
+    <profile>https://www.themoviedb.org/person/1682444</profile>
+    <tmdbid>1682444</tmdbid>
+  </actor>
+  <actor>
+    <name>邵庭</name>
+    <role>野倩</role>
+    <profile>https://www.themoviedb.org/person/4639667</profile>
+    <tmdbid>4639667</tmdbid>
+  </actor>
+  <actor>
+    <name>周正芳</name>
+    <role>薛波</role>
+    <profile>https://www.themoviedb.org/person/1171978</profile>
+    <tmdbid>1171978</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

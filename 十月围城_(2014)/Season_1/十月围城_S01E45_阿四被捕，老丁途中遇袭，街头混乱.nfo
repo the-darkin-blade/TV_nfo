@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿四被捕，老丁途中遇袭，街头混乱</title>
+  <originaltitle>阿四被捕，老丁途中遇袭，街头混乱</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>45</episode>
+  <id>4938224</id>
+  <uniqueid default="false" type="tmdb">2728589</uniqueid>
+  <uniqueid default="false" type="trakt">1306782</uniqueid>
+  <uniqueid default="true" type="tvdb">4938224</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>阿四急于证明自己，负责把弹药押送到新军军营外。忠心耿耿的老丁坚持替阿四去。阿四留在制造局坐镇，这时铁山的人冲进来，把阿四抓了。老丁父子押车赶往新军军营，半路忽然被铁山的巡防营袭击，车毁人亡。小丁侥幸未死，藏在草丛惊讶地看到，一辆同样是制造局标识的弹药车从隐蔽处开出，沿既定路线赶往军营。区巡抚得报新军哗变，接着发现卫队长不见了，而且卫队长假传他的命令要求关闭城门，意识到有诈，匆忙去找总督拿主意。区舒云趁机逃出。新军士兵冲向弹药车，却发现他们拿到的竟是空枪！铁山军忽然出现，开始镇压！区巡抚和总督还在讨论怎么处置无枪无弹的哗变新军，接报制造局竟然送去一批武器，大惊；接着又接报铁山突然带兵赶回镇压，大惑；区巡抚意识到自己上了大当－－他必须赶在铁山之前去镇压哗变！李重甲去解救秦少白。负责看守的巡抚卫队长正要招呼，被李重甲一枪击毙。区舒云赶往制造局，街上已经乱了，义军溃散……区舒云躲在一边，她看到一个勇敢冲锋的身影中枪倒地，惊叫跑出－－是秦少白！李重甲背起秦少白撤退。区巡抚带兵赶往制造局，半路听说制造局已被铁军全面接手。区巡抚赶紧回头来找总督，竟被挡驾。区巡抚看见铁山的马匹在总督衙门院内，全明白了，绝望。内室，铁山要总督和自己联名上奏，说区巡抚勾结乱党，挑唆兵变，总督明知铁山预谋好了栽赃区巡抚，出于自保只能答应。李重甲把重伤的秦少白背到医院，医院家属签字，区舒云毫不犹豫地签下了“妻舒云”。李重甲注意到了这个细节，见秦少白得以救治，这才匆匆离去。阿四被关进死牢。过一会儿看见区巡抚被押了过去，阿四震惊。铁山来到关押秦少白的地方，发现坐在那里的人竟是李重甲。李重甲说，我就是要放走秦少白，这样我才能进入革命党核心，铁山当即割破手指，与李重甲歃血为盟。城内一夜骚乱。天亮，铁山却一身西装出现在教堂，钟声里，铁山的一对小儿女随唱诗班唱诗，铁山和大家一起祈祷。李家来报信，李念慈匆匆离去，铁山看到自己的两个孩子对李念慈依依不舍。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2646</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep45_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="45" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

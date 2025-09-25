@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>哲行阻止美贞自杀</title>
+  <originaltitle>Episode 2</originaltitle>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id>4933569</id>
+  <uniqueid default="false" type="tmdb">1984042</uniqueid>
+  <uniqueid default="false" type="trakt">1303441</uniqueid>
+  <uniqueid default="true" type="tvdb">4933569</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>哲行是位法援律师，因为五年前遇上意外后需要依靠轮椅行动，美贞看见哲行是一名残障人士，便认为哲行没有能力帮自己辩护。哲行见美贞不信任自己，亦无意代表她上庭，就此转身离去。立勋因认出哲行就是当年的受害者，即追出去与哲行交谈，但哲行指对立勋毫无印象，故随便回应他两句后便驾车离开。
+
+销毁毒品　刘淼逃亡
+
+立勋陪承义一起参加国栋的路祭，承义亦不敢向死者家属表明身分。之后立勋在路祭遇见应心与其男友，便即邀请应心回警署落口供接受调查。应心担心美贞会连累自己，便将美贞与刘焱的关系全部告知立勋，更表示案发前一晚美贞故意灌醉自己，令她未能按原定计划上班，立勋听后便加深了对美贞的怀疑。
+
+另一方面，刘淼担心兄长刘焱的事会波及家人，便即自行将刘焱收藏在家中的毒品全数销毁，刘焱的组织知道此事后感怒不可遏，更即派人追捕刘淼，刘淼为了保命只好逃亡。
+
+美贞应心　友情决裂
+
+哲行的律师行一直只处理法援的小事务，没有名气引来富户支持的律师行，一直只能惨淡经营，哲行亦因而深感困扰。
+
+美贞因忍受不了被警方长期拘留，最终决定接受哲行的帮助，哲行向法庭进行游说，成功让美贞保释外出。美贞因此认同哲行有能力帮助自己，决定按照哲行的指示面对诉讼。
+
+哲行带美贞回律师楼了解案情，美贞因此知道应心在口供中指证自己与刘焱串谋行劫，登时感到无名火起。美贞忍不住到名牌店与应心当面对质，两人之间的友谊亦告决裂。
+
+舍弃美贞　独自逃亡
+
+失落的美贞在街头遇到了逃避黑社会追捕的刘淼，美贞使计与刘淼一起摆脱追兵。美贞到码头打算拦截准备潜逃出国的刘焱，最后竟被刘焱推倒在地。发现刘焱独自离开香港潜逃国外，美贞连最后一个能证明自己清白的人也失去了，不禁对未来感到绝望。
+
+翌日，万念俱灰的美贞打算跳海自杀，幸好哲行及时出现阻止她……
+
+立勋得知　哲行过去
+
+另一方面，立勋为了解哲行这五年来的生活，便到当年哲行留医的医院调查，因而得知当年哲行是一名专门协助贫苦大众的法律顾问，亦为了成为执业律师而努力上进。
+
+哲行最后因遇上车祸令下半身残废，而当时哲行的家人竟不支持哲行进行手术，甚至相恋多年的女朋友亦因此与哲行分手，令哲行曾经萌生自杀念头。其后哲行凭自己坚韧的意志力克服残疾，成功考取律师资格及拥有自己的律师事务所……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep02.20140715.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>忠奸人 Hdj Black Heart White Soul 20140715 2Audio Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>715</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep02.20140715.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="715" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

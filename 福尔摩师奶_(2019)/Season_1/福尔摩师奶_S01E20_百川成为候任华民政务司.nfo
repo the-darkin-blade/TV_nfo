@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>百川成为候任华民政务司</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>福尔摩师奶</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1727803</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>游池告发百川囚禁素嘉，素嘉维护百川，与游池划清界线。香德带同亡母之遗嘱与妹娣对质，妹娣向一夫道出当年香婆婆送赠「香庐」因由，甘愿交还屋契。带金怀疑香德受熊财唆摆，向一夫告密。素嘉声称是「香庐」新业主，命众人尽快搬迁，并威逼妹娣即时搬走，德英收留妹娣母子。祖迪静坐抗议，利用群众压力逼使波特下马，百川终成为候任华民政务司。游池父游侠当年被百川嫁祸劫米，百川担心事发欲赶尽杀绝，王烈不安，一夫乘机献计……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2647</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>TVBOXNOW 福爾摩師奶 EP20_H265.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

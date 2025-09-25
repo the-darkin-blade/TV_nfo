@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:31:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>炸弹狂徒</title>
+  <originaltitle>炸彈狂徒</originaltitle>
+  <showtitle>飞虎</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>4373052</id>
+  <uniqueid default="false" type="tmdb">865996</uniqueid>
+  <uniqueid default="false" type="trakt">869781</uniqueid>
+  <uniqueid default="true" type="tvdb">4373052</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>瀚韬与卓嬅一起钓鱼，众人以为二人发展情侣关系。卓嬅接报银行劫匪挟持人质，飞虎队制伏劫匪后，发现女职员身系计时炸弹；另一方面，被疏散的银行职员古德胜突然被手提电话炸死。卓嬅发现德胜为两年前珠宝店爆炸案中的证人，认为两案有关联，并勾起未婚夫邦惨死回忆。瀚韬介绍任职中学教师的电子工程教授启维给卓嬅。未几又有炸弹凶案，卓嬅到启维家中搜查时竟发现邦被炸死的剪报。卓嬅用尽方法向启维施压，却又接报炸弹狂徒再现。</plot>
+  <runtime>33</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>1999</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Tiger.Cubs.Ep.12.20120811.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Tiger Cubs Ep 12 20120811 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>飞虎</showtitle>
+  <season>1</season>
+  <episode>811</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>33</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>1999</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Tiger.Cubs.Ep.12.20120811.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="811" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

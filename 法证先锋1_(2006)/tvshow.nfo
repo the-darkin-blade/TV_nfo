@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>法证先锋1</title>
+  <originaltitle>法證先鋒</originaltitle>
+  <showtitle>法证先锋1</showtitle>
+  <sorttitle/>
+  <year>2006</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>7.6</value>
+      <votes>11</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>法证部的高级化验师高彦博，专责在犯罪现场辨证、采证与化验证物，令真凶无所遁形。他经验丰富，工作出色，备受赞许，遗憾是妻子古泽瑶，因为意外而瘫痪，但是，多年来他对妻子不离不弃，情深一片，赢得众人，尤其是舅仔兼法医科医生古泽琛的佩服与赞誉，故而两人感情要好。</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"4114","tvrage":"27589","imdb":"tt0852612","wikidata":"Q5468689","tvdb":"84400"}</episodeguide>
+  <id>84400</id>
+  <imdbid>tt0852612</imdbid>
+  <tmdbid>4114</tmdbid>
+  <uniqueid default="false" type="tmdb">4114</uniqueid>
+  <uniqueid default="false" type="tvrage">27589</uniqueid>
+  <uniqueid default="false" type="imdb">tt0852612</uniqueid>
+  <uniqueid default="false" type="wikidata">Q5468689</uniqueid>
+  <uniqueid default="true" type="tvdb">84400</uniqueid>
+  <premiered>2006-06-13</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <tag>forensic science</tag>
+  <actor>
+    <name>欧阳震华</name>
+    <role>Ko Yin-Pok / Timothy</role>
+    <profile>https://www.themoviedb.org/person/552085</profile>
+    <tmdbid>552085</tmdbid>
+  </actor>
+  <actor>
+    <name>蒙嘉慧</name>
+    <role>Leung Siu-Yau / Nicole</role>
+    <profile>https://www.themoviedb.org/person/25248</profile>
+    <tmdbid>25248</tmdbid>
+  </actor>
+  <actor>
+    <name>林文龙</name>
+    <role>Koo Chak-Sum / Sam</role>
+    <profile>https://www.themoviedb.org/person/550946</profile>
+    <tmdbid>550946</tmdbid>
+  </actor>
+  <actor>
+    <name>钟嘉欣</name>
+    <role>Lam Ding-Ding</role>
+    <profile>https://www.themoviedb.org/person/146654</profile>
+    <tmdbid>146654</tmdbid>
+  </actor>
+  <actor>
+    <name>郭少芸</name>
+    <role>Mok Suk-Woon / Yvonne</role>
+    <profile>https://www.themoviedb.org/person/224061</profile>
+    <tmdbid>224061</tmdbid>
+  </actor>
+  <actor>
+    <name>杨秀惠</name>
+    <role>Ling Sum-Yi / Josie</role>
+    <profile>https://www.themoviedb.org/person/1240093</profile>
+    <tmdbid>1240093</tmdbid>
+  </actor>
+  <actor>
+    <name>梁烈唯</name>
+    <role>Ching Wai-Shing / Edwin</role>
+    <profile>https://www.themoviedb.org/person/1143685</profile>
+    <tmdbid>1143685</tmdbid>
+  </actor>
+  <actor>
+    <name>陈芷菁</name>
+    <role>Lam Pui-Pui</role>
+    <profile>https://www.themoviedb.org/person/1253376</profile>
+    <tmdbid>1253376</tmdbid>
+  </actor>
+  <actor>
+    <name>谷峰</name>
+    <role>Ko Tong</role>
+    <profile>https://www.themoviedb.org/person/229302</profile>
+    <tmdbid>229302</tmdbid>
+  </actor>
+  <actor>
+    <name>郑俊弘</name>
+    <role>Leung Siu-Kong</role>
+    <profile>https://www.themoviedb.org/person/2415152</profile>
+    <tmdbid>2415152</tmdbid>
+  </actor>
+  <actor>
+    <name>曹永廉</name>
+    <role>Sum Hung</role>
+    <profile>https://www.themoviedb.org/person/1223053</profile>
+    <tmdbid>1223053</tmdbid>
+  </actor>
+  <actor>
+    <name>陈山聪</name>
+    <role>Choi Wai-Man</role>
+    <profile>https://www.themoviedb.org/person/1218777</profile>
+    <tmdbid>1218777</tmdbid>
+  </actor>
+  <actor>
+    <name>赵静仪</name>
+    <role>Tina</role>
+    <profile>https://www.themoviedb.org/person/1953357</profile>
+    <tmdbid>1953357</tmdbid>
+  </actor>
+  <actor>
+    <name>刘锦玲</name>
+    <role>Koo Chak-Yiu / Charlie</role>
+    <profile>https://www.themoviedb.org/person/936673</profile>
+    <tmdbid>936673</tmdbid>
+  </actor>
+  <actor>
+    <name>李雨阳</name>
+    <role>Lau Tsun-Sek / Terence</role>
+    <profile>https://www.themoviedb.org/person/1350166</profile>
+    <tmdbid>1350166</tmdbid>
+  </actor>
+  <actor>
+    <name>于洋</name>
+    <role>Leung Hing-Lung</role>
+    <profile>https://www.themoviedb.org/person/119438</profile>
+    <tmdbid>119438</tmdbid>
+  </actor>
+  <actor>
+    <name>罗君左</name>
+    <role>Chow Man-To</role>
+    <profile>https://www.themoviedb.org/person/1407503</profile>
+    <tmdbid>1407503</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

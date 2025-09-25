@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>尚晴离家出走巧遇彤彤</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>铁探</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>7109998</id>
+  <uniqueid default="false" type="tmdb">1751193</uniqueid>
+  <uniqueid default="false" type="trakt">3453022</uniqueid>
+  <uniqueid default="true" type="tvdb">7109998</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>尚垶、永正等人去见了手足莫世超最后一面，怀念起共同作战的种种，悲痛不已。与此同时，曦华召开记者会，宣布了任务失败的消息。在同黑恶势力的对决中，正义的一方正遭受着前所未有的困难。但尚垶等人没有在痛苦中沉沦，很快便重整旗鼓，重新收集了正龙的犯罪证据，准备将他彻底扫除。
+
+彤彤的新生活过得不错，尤其是她的新邻居泳莎时不时的探望，给他们一家增加了不少乐趣，但他们不知道，泳莎其实是曦华安插在秉高身边的卧底。事实上，彤彤即使已搬走，也未达到完全安全。阿喱意外发现彤彤手上有他们和正龙交易的证据，在未取得营长许可的情况下准备杀掉彤彤以除后患。
+
+就在阿喱行动这一天，尚晴因不满晓怡将要带她出国生活而离家出走。但尚晴年岁尚小，在取尚垶家的途中迷路，幸好遇到了出来买饭的彤彤。彤彤把尚晴交给泳莎后便独自回家，谁知途中遇到了阿喱。而泳莎也嗅到了危险的味道，回头去救彤彤，和阿喱拼死搏斗起来。眼看泳莎已经落于下风，秉高忽然杀出，击倒阿喱并将彤彤和泳莎救出。
+
+亦真亦幻之间，泳莎感觉自己卧底身份已经暴露，忽然惊醒发现所幸只是噩梦一场。秉高带着尚晴联络到了尚垶，两人决定借用两个女孩的身份作为沟通的秘密频道，以确保能将情报及时传达给尚垶。泳莎向曦华汇报了今天的情况，她似乎从曦华独断专制的背后，见到了她的挣扎。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <studio>TVB Jade</studio>
+  <studio>Tencent Penguin Pictures</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:25</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1314</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Defected.E20.2019.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade The Defected 2019 Hdctv qsv av1</title>
+  <originaltitle/>
+  <showtitle>铁探</showtitle>
+  <season>1</season>
+  <episode>2019</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <studio>TVB Jade</studio>
+  <studio>Tencent Penguin Pictures</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:25</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1314</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Defected.E20.2019.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2019" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

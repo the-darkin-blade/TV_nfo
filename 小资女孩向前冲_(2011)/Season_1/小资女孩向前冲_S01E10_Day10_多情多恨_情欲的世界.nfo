@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>Day10 多情多恨 情欲的世界</title>
+  <originaltitle>Day10 多情多恨 情欲的世界</originaltitle>
+  <showtitle>小资女孩向前冲</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>4202998</id>
+  <uniqueid default="false" type="tmdb">1569628</uniqueid>
+  <uniqueid default="false" type="trakt">1658675</uniqueid>
+  <uniqueid default="true" type="tvdb">4202998</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>子奇和沈杏仁在一起交谈，同事跑来告诉他们余乘风在商场那边召开记者会澄清他和杏仁的关系，子奇要杏仁不要过去，他则带着同事一起赶去观看。余乘风面对众多媒体澄清他和杏仁的关系，他为保护杏仁，多次强调他和杏仁只是好朋友关系，大家不要去打扰杏仁。记者会还没结束，魏敏娜突然出现，搅乱了会场令记者会中途中断，魏敏娜带着余乘风离开记者会现场。杏仁担心余乘风，却不能去看记者会现场，子奇回来向杏仁汇报记者会的情况。听说魏敏娜忽然回来，杏仁十分为余乘风担心，她忽然想到魏敏娜也可能是看到这个新闻才从巴黎赶回来。子奇劝杏仁离余乘风远一点。余乘风和魏敏娜开车离开商场，魏敏娜气恼余乘风这件事情搞得满城风雨，余乘风解释那只是个误会。杏仁打电话来问候余乘风，余乘风安慰杏仁说自己很好，魏敏娜听到杏仁的电话心中不悦。两人提起了余乘风的品牌问题，依然是各执己见各不相让。杏仁和子奇因为余乘风和魏敏娜的问题在办公室吵个不停，凯儿拿了爱心便当来找子奇一起去吃饭，子奇只好跟凯儿一起离开，杏仁感觉自己形只影单，只好不再多想。余乘风和魏敏娜回到家里再次因为品牌的问题吵架，余乘风面对魏敏娜的热情却难以提起兴致，两人再次争吵魏敏娜负起离开，余乘风也任由魏敏娜离开而不去挽留。子奇吃过饭带吃的给杏仁，被史经理看到后大肆取笑两人的微妙关系。凯儿的助手提醒魏敏娜回来是招商部的一个契机，为了打垮营业部，凯儿决定去找魏敏娜谈余乘风品牌在京师设柜的事情。子奇每天回家在家里为杏仁制作粉红娃娃屋的手工，可是每次他都是不小心弄伤自己的手。杏仁家里忽然断电，杏仁和乐乐找到子奇家里请他帮忙看电路，结果子奇不小心被电到，昏倒在杏仁家里。杏仁细心的照顾着子奇，子奇却在梦中亲吻杏仁，令杏仁和乐乐感觉他很奇怪。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TTV Main Channel</studio>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2705</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj Office Girls Ep10 Hdtv 1080I H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

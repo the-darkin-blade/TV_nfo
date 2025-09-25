@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>区舒云找到证据救重光，总督动摇改变判决</title>
+  <originaltitle>区舒云找到证据救重光，总督动摇改变判决</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>47</episode>
+  <id>4938226</id>
+  <uniqueid default="false" type="tmdb">2728591</uniqueid>
+  <uniqueid default="false" type="trakt">1306817</uniqueid>
+  <uniqueid default="true" type="tvdb">4938226</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>区舒云严厉喝斥李玉庵，家仆们齐心护主，赶走了李玉庵。区舒云一筹莫展。绝望中，跪在老太太灵前祈求保佑－－老太太临终时要她辅佐重光延续李家香火，可现在重光就要没命了。区舒云忽然想起老太太曾交给她一个木匣子，区舒云打开了那只李玉堂临终前交给老太太的木匣子，是李玉堂生前备份的账本和银票。秦少白被藏在李念慈的医院养伤，护士阿纯熟练地给秦少白换药。区舒云收拾了包袱，孤身素衣来到街头角落，总督车队经过，区舒云拦轿喊冤！阿纯配合她找来了记者。总督见到区舒云木匣子里的东西，愣了。里面是总督和区巡抚从制造局捞钱的记录，李玉堂给他们一笔笔记着帐，区舒云说自己上北京去见摄政王。总督表示会尽力救区巡抚和“李重光”。区舒云回家路上被人袭击，杀手要抢木匣子，曹三德出现救下区舒云。总督去死牢里看区巡抚，区巡抚浑身伤痕，显然已吃尽苦头。两个昔日同僚面对面，区巡抚一句话也没有，总督忽然升起了兔死狐悲之感。  铁山接报，区巡抚疯了。死牢里，区巡抚一把鼻涕一把泪，不知冷热不认人，管谁都叫冤亲债主。铁山看了一会儿，说他是装的，接着打。朝廷钦差富大人会审区巡抚。总督顺应钦差之意，朝廷最想安抚人心，我们又何必把事做绝？铁山明白，总督是要保区巡抚，看着区巡抚这个样子，再无翻身可能，铁山也就松了口，定个贪污和失察罪，判了无期。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2655</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep47_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="47" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

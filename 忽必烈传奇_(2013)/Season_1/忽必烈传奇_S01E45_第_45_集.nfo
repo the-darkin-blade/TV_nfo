@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 45 集</title>
+  <originaltitle>第 45 集</originaltitle>
+  <showtitle>忽必烈传奇</showtitle>
+  <season>1</season>
+  <episode>45</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2821447</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>董文用和董文忠奉命来到京兆帮助察比，察比将海都率军前来的消息说明。海都命人将带着书信的箭射入京兆城中，阿里不哥的军队包围京兆。守城军队临时倒戈，众人劝说察比马上离开，他们已经准备好老百姓的衣服，察比在离开前来到牢中将阿兰达尔杀害，阿兰达尔死前态度强硬……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Legend.Of.Kublai.Khan.Ep45.720P.Hdtv.X264.2Audio-Hdwtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="45" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

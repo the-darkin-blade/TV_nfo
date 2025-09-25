@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:58:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>子翔成女同事争夺目标</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>爱我请留言</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2299925</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>保安员超荣晚上巡逻时发现初见在公司，但没有上前骚扰她。初见想与柳娟聊天，但柳娟要陪男友。初见早上回家，家人正要外出，却烦恼着没人照顾悠悠，爱林指天送一早来电表示有急事，请她照顾悠悠一天，她无法推却，现正好把悠悠交给初见。
+
+蔡妍约了黄昏入院，翌晨做身体检查，在她入院前，天送陪她到一鸟语花香的地方，享受宁静，他视那儿是他们一家的秘密花园。蔡妍担心自己有病，十二月无法与丈夫及女儿到芬兰。
+
+初见带悠悠到欢笑天地玩耍，悠悠洗澡时，问初见为何戴上眼罩，初见表示自己哭过，因为有人不要她，悠悠说母亲也哭过，但父亲叫她不要告诉别人。  一口答应　照顾悠悠  天送往接女儿，他知道初见带悠悠到欢笑天地玩，谓他答应女儿一天不哭便给她一个赞，储够十个赞才带她去，初见感到抱歉。天送想留悠悠在爱林家过夜，好让他回医院陪妻子进行身体检查，初见一口答应。
+
+初见决定效法悠悠，一天不哭便给自己一个赞，直至忘记要给自己赞，相信便是她情伤痊愈的时候。
+
+新市场总监王子翔首天上班，女同事们均刻意打扮，还议论他的名字，相信他人如其名像王子般俊朗。她们又向超荣打听子翔的长相，超荣说子翔周六晚曾到过公司，当时初见也在公司，反问初见是否看到子翔是何模样。
+
+追问初见　感情状况  柳娟奇怪初见周六晚为何会在公司，追问她是否与日熙发生了甚么事。皎妃听到同事们叫子翔做王子，立即致电人事部要求把她名牌上的名字改为Diana，自比王妃。
+
+同事们见到子翔，纷纷被他迷倒，还争相表示要做他的女友。皎妃在茶水间见到子翔，向他挤眉弄眼，谁不知子翔问她是否住得很远，谓在车上化妆能节省时间。皎妃想起上班时在巴士化妆的模样被子翔看见，不禁大叹没有希望。皎妃受训完毕，翌日便要到店中工作，柳娟提醒她不能再穿高跟鞋及鱼网丝袜。  揶揄日熙　不懂珍惜  日熙在公司打电脑游戏打到发闷，望与志锋同往酒吧打发时间，志锋表示已陪伴了日熙三个晚上，这夜必须好好等候身在法国的女友来电，否则会像日熙一样变成孤家寡人。
+
+日熙想找友人四哥，志锋揶揄他为何不找Linda。日熙想到洗衣店取回衣服，却找不到单据，志锋看扁他生活变得一团糟，嘲他四年来有初见像照顾儿子一样对他，指初见当他是宝，他却当初见是草，更毫不客气的指责日熙犯贱。… ...</plot>
+  <runtime>62</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>3722</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>05_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

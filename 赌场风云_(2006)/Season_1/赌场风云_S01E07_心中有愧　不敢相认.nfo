@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>心中有愧　不敢相认</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>1623501</id>
+  <uniqueid default="false" type="tmdb">1992281</uniqueid>
+  <uniqueid default="false" type="trakt">1576518</uniqueid>
+  <uniqueid default="true" type="tvdb">1623501</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>欢畅向青云表示不知如何向来富说真相，他内疚自己的失误，令弟弟变成隐蔽青年，欢畅要求青云和正初保守秘密。欢畅精心炮制丰富饭餐以庆团聚，可惜来富只把饭菜拿回房吃，欢畅失望不已。青云与欢畅设局引当年虐待来富的豹哥入后巷内毒打他一顿，替来富报仇。欢畅兴高采烈地买了同款衫与来富一起穿上，更带富一起拜祭父母。欢畅见来富上香时，激动得热泪盈眶，感慨一家终于团聚。昌介绍琦给正初认识，要二人合作会员制的推广计划，琦对正初大有好感。云见正初被琦缠绕，出言戏弄琦替他解围，正初再次被青云逗得笑逐颜开。来富对欢畅关心感到吃不消，更看见荣替欢畅买内衣裤，怀疑欢畅另有目的。莹被大耳窿追数被丈夫发现大为生气，莹却成功以软功令夫代她还债。但原来莹特意将数目报大以让自己有赌本，青云得悉后不禁骂她死性不改。莹与青云找来富吃饭，更因此发现来富的惊人记忆力。莹更因此私自要带他到澳门赌钱，青云得知后赶往阻止，却反被莹说服一同前往。来富的长胜不败惹来赌场怀疑，更将众人带到保安室，幸正初刚与昌到此地，替二人解围。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2672</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep07.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

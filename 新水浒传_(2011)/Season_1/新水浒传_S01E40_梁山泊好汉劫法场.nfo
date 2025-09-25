@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>梁山泊好汉劫法场</title>
+  <originaltitle>梁山泊好汉劫法场</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>40</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026657</uniqueid>
+  <uniqueid default="false" type="trakt">7308143</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>戴宗以重修五岳楼要立碑文碣石为由，从济州城请来圣手书生萧让、玉臂匠金大坚，半途却被几个好汉劫上梁山，家眷也被骗上了山。二人实在没法，只有入伙。他们也久仰宋江大名，得知其正囚于江州不日将要问斩，赶紧仿蔡京笔迹写了封回书，大意是要蔡九把宋江押解进京。这样的话，就有机会在半路上救下宋江。戴宗拿着信急速往回赶。吴用突然意识到不妙，虽然字仿得丝毫不差，可落款图章“翰林蔡京”有点太正式了，不符合父子之间的随意习惯。其实，蔡九看了没有丝毫怀疑，还高兴地赏了戴宗，可后来黄炳文却看出了这个破绽。为确定真假，蔡九找来戴宗，看似随意地问一些蔡府的情况。可戴宗根本答得上来，一下露馅了，被打入死牢。蔡九决定先斩后奏，准备来日就把宋江和戴宗一并问斩。消息传出后，急坏了两帮人马：一路是李逵和张顺以及浔阳江上的弟兄，他们商定要劫法场；另一路是梁山众好汉，早已经开始布置救人了。行刑之日，蔡九亲作监斩官，他调动了大批人马护卫，将宋江、戴宗押上法场。围观者众多，梁山好汉们分别扮着卖药的、弄棒的、经商的混了进来。刽子手执刀在手，只等着一声令下。大伙都被挡在外面，难进法场，只见李逵第一个跳将出来，砍翻刽子手，直奔蔡九而去，蔡九慌忙逃走，法场大乱。众好汉乘乱而动，把宋江和戴宗救了出来，从水路上接应出城。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2663</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E40 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="40" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

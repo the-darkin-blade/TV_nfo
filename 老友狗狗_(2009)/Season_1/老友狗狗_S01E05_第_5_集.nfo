@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 5 集</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>老友狗狗</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195975</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>Woody乐于在狗场奔走，使天娥感到放心。俊升看出Woody的失常，全因被天娥的行为影响所致，遂了解她的问题，天娥不欲提及曾遭绑架的事，俊升亦没有强人所难，并教她释放压力的方法，使她稍为得到放松。  伟威得悉大麻场的电费昂贵，着手下想办法为他减省开支。伟威为嘉汶准备手链作生日礼物，谁知意外令她误会父亲为自己送上保龄球，使她心情大好。  藏毒保龄　错赠嘉汶  嘉汶带同保龄球到男友的宠物店，目睹他富爱心地收养不少宠物；其后，两人一起到保龄球场耍乐，嘉汶喜见天佑，力邀他一起切磋，未料嘉汶用伟威的保龄球轻易取得多次全中，与天佑的成绩高下立见，使她大感意外。  在狱中的大强得悉钟成已死，遂吩咐手下继续打听毒品的下落。嘉汶回家藏好保龄球后，无意中发现手链，误会是男友所送，窝心不已。此时伟威回家，嘉汶大赞他所送的礼物甚有旺气，他错摸女儿指的是手链，大感安慰。  俊升狗场　正式开幕  伟威的手下郭桦被打，伟威惊闻对方是冲着毒品保龄球而来，心下一沉。应钧大赞Woody经过俊升的治疗后，回复从前般精灵，着天娥趁Woody年轻，让它到俊升的狗场多学一点新知识，天娥不以为然。  羡如把狗场开张的邀请咭派予村民，除用恭外，众人均显得雀跃。用恭不满亚萍落力为狗场的开张炮制美食，亦不满众人如此尊重俊升和羡如，使他决定在狗场开场当日，作弄俊升。应钧一家陪伴Woody到狗场上治疗课，到达后才得悉狗场正举办开张的派对，俊升诚邀众人一起耍乐。  天娥怀疑　狗场藏参  用恭成功以蜜糖利诱阿黄在狗场捣乱，感到沾沾自喜，谁知却被阿黄无意中出卖，揭开他的恶行。天娥惊悉Woody失踪，到处找寻之际时，看到自己在绑架时遗失的耳环，怀疑自己遭绑架时囚禁在附近。
+
+亚萍怪责用恭竟敢在众多警察在场的情况下，作弄俊升，用恭更感不屑，最后却因讨好母亲而答应向他道歉。用恭和亚萍带同精美菜式往探望俊升和羡如，并答应协助他打理狗场作赔罪。  天娥回家后，告诉应钧自己在狗场附近找回遗失的耳环，怀疑当日被人藏参在附近的荒地；天雄决定再向用恭埋手，早日取回赎金。天佑和Bingo在烈日下巡逻，他一时心急追捕疑匪，而令Bingo脱水中暑。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1080</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>5_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>安道全神医救宋江</title>
+  <originaltitle>安道全神医救宋江</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>65</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026682</uniqueid>
+  <uniqueid default="false" type="trakt">7308168</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>张顺被王定六父子救上岸，得知神医安道全极少到药铺去，他迷上了怡香院的李巧奴。张顺找到安道全，向安道全说明了宋江的怪病，要安道全去梁山医治宋江。安道全支支吾吾，推辞不想去，最后勉强答应了张顺，但临走前要去怡香院看望李巧奴。张顺与安道全同去怡香院，发现李巧奴与把他推入江中的截江鬼张旺有奸情。张顺杀了李巧奴，并在墙上留下了“杀人者安道全”几个字。安道全没了退路只好跟着张顺去梁山给宋江医病。安道全诊断宋江之疾乃是思念淤积，毒火攻心所致，内外兼治，治好了宋江的病。宋江疾病痊愈，神医安道全也加入了梁山众好汉的行列。正月十五。梁中书忌惮梁山好汉的攻打，犹豫大名府是否要按惯例大闹花灯，庆祝元宵。闻达怕不闹花灯会使梁山好汉笑话。梁中书决定要比上年多放花灯，添扮社火，城中心添搭鳌山两座，十三至十七连放五夜，通宵不禁。命闻达领军马到飞虎峪驻扎，城中由李都监引领军马环城巡逻。宋江要借闹花灯之时攻打大名府。吴用献计，使李逵、时迁在城中埋伏，然后领兵大举进城，内外合应，誓要破城。正月十五当晚，大名府满城花灯，燕青、柴进与蔡福、蔡庆等人里应外合就出了卢俊义与石秀。时迁火烧翠云楼，梁山众好汉大破大名府。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E65 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="65" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

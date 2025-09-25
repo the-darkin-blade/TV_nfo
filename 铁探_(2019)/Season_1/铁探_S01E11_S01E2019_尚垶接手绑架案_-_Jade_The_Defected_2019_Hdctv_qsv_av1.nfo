@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>尚垶接手绑架案</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>铁探</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>7109974</id>
+  <uniqueid default="false" type="tmdb">1751184</uniqueid>
+  <uniqueid default="false" type="trakt">3452951</uniqueid>
+  <uniqueid default="true" type="tvdb">7109974</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>尚垶公然顶撞曦华，遭到驱逐及接受内部调查课调查。尚垶找到宇森，想通过内部调查制止曦华不惜牺牲市民安全的做法。与此同时，奕泰十分满意曦华在镪水案中的表现，将智文的绑架案也交给她来处理。在大升迁年即将到来之际，曦华得以连续处理重大的案件，可见上级对曦华的信任，曦华也备受鼓舞。
+
+曦华对于绑架案可谓是信心满满，因为她知道秉高也参与其中，绑匪的一举一动她都能够随时掌握清楚。而秉高也的确愿意与曦华合作，因为曦华答应配合他从赎金中私吞一大笔钱。
+
+永正想尽办法，确认了曦华授权手下销毁证据的事实。而宇森也被尚垶说服，使命感油然而生，他成功迫使奕泰向曦华施压，对公众公布了镪水犯真凶仍未被拘捕的事实，并以尚垶取代曦华镪水案和绑架案指挥官的位置。
+
+尚垶并不知道秉高和曦华之间的交易，而秉高也不愿和尚垶沟通太多，暗中确保赎金的交收按照之前布置的方案继续进行。尚垶接手之后，发现曦华竟与绑匪有过通话，与此同时，曦华却擅自失踪。尚垶猜出了绑匪，应该就是秉高。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <studio>TVB Jade</studio>
+  <studio>Tencent Penguin Pictures</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:25</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1315</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Defected.E11.2019.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade The Defected 2019 Hdctv qsv av1</title>
+  <originaltitle/>
+  <showtitle>铁探</showtitle>
+  <season>1</season>
+  <episode>2019</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <studio>TVB Jade</studio>
+  <studio>Tencent Penguin Pictures</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:25</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1315</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Defected.E11.2019.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2019" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>Day14 沈杏仁 恭喜你中头奖</title>
+  <originaltitle>Day14 沈杏仁 恭喜你中头奖</originaltitle>
+  <showtitle>小资女孩向前冲</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>4409261</id>
+  <uniqueid default="false" type="tmdb">1569632</uniqueid>
+  <uniqueid default="false" type="trakt">1658695</uniqueid>
+  <uniqueid default="true" type="tvdb">4409261</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>杏仁见子奇睡着在她家的沙发上，杏仁不知不觉想起了子奇为她唱歌，忍不住偷偷亲了子奇的脸颊。子奇醒来见到杏仁留下的早餐和纸条，忽然沈妈妈回来，子奇见到沈妈妈十分高兴，沈妈妈似乎看见子奇更加高兴。沈妈妈问起子奇知道不知道杏仁要去巴黎的事情，子奇回答说知道，可是如果杏仁坚持要去，他也会支持她，因为他担心他敌不过那三百万的年薪。沈妈妈忽然肚子疼痛，她告诉子奇如果以后沈妈妈怎么样了，杏仁就要拜托子奇。晚上杏仁下班回来，见到妈妈跟子奇在家一起做饭，高兴的问妈妈什么时候来。沈妈妈拿出自己的存折交给杏仁，杏仁打开一看，里面竟然有500万的存款，杏仁惊奇妈妈为什么有这么多的存款，沈妈妈回答这是她一生的积蓄，都准备拿来给杏仁买房子用。杏仁劝说妈妈换个好一点的环境居住，沈妈妈却坚持要留给杏仁。杏仁感觉妈妈好奇怪，说出这样要离别的话。沈妈妈带杏仁和子奇一起去看房子，子奇带杏仁她们到自己的朋友房产开发商那里看房子，朋友看着子奇，说出子奇已经陷进去了。沈妈妈决定要替杏仁买房，杏仁却不舍得用沈妈妈的钱。子奇说出不久后他就可以和杏仁自己买房，杏仁急忙否认答应和子奇结婚。魏敏娜打电话约杏仁见面，魏敏娜拿出合约给杏仁，杏仁回答她要考虑一下。子奇担心杏仁会答应魏敏娜，急忙打电话问杏仁怎么考虑，杏仁反问子奇是她的谁要管她的事，子奇说出自己是她的男朋友，剧情吧原创剧情，杏仁借口沈妈妈打来电话挂断了电话。子奇上楼听到杏仁和沈妈妈一起聊天，沈妈妈提到杏仁和子奇可以先结婚再去巴黎，杏仁却说她和子奇根本就没有怎么样，并且子奇从头到尾根本就没有说过喜欢她。子奇听见杏仁的话，不明所以，回家后去问朋友，朋友告诉他杏仁之所以没有决定去不去巴黎是因为放不下他，而没有答应和他在一起，是因为子奇没有给她安全感，就是子奇从来没有说过最关键的几个字，喜欢她。中午杏仁跟乐乐一起吃饭，史经理跑来凑热闹，乐乐要赶走史经理，史经理只好用共事当借口。史经理问起乐乐喜欢什么圣诞礼物，乐乐说出要迈克那种帅哥而不是史经理。杏仁提出要休年假，史经理却不肯，两人一直说到办公室，子奇趁机录下史经理的话用以要挟史经理，史经理只好答应给杏仁放年假</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TTV Main Channel</studio>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2729</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj Office Girls Ep14 Hdtv 1080I H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

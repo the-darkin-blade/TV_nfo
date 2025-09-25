@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>祖迪、一夫主仆反目</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>福尔摩师奶</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1727799</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>祖迪惊见有人被杀，昏倒在尸首旁，蒙眬间看到一个身影……祖迪醒来被一夫追问，且发现他手上的血迹，对一夫起疑。祖迪从高明口中得知，一夫给她服食的头痛药竟是鸦片酊。祖迪搜查一夫房间，一夫知道被当作疑凶，错愕又愤怒，主仆二人反目。熊财当年曾替孤儿罗拔解困，罗拔铭记恩情，却遭熊财利用。祖迪与南茜潜入牡丹房间搜集证据；翌日吩咐高明引领一夫及召集众人到榕树头，藉演讲《福尔摩斯》故事，逐一道破开膛手的犯案破绽……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2641</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>TVBOXNOW 福爾摩師奶 EP16_H265.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

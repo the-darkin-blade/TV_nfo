@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 7 集</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486661</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李益和小玉一家要离开时被周衍拦住，周衍万没想到几人都可以离开。李益与小玉一家到了洛阳寄居道观中，夜晚竟有女道士闯入李益房中勾引，被李益义正词严赶走。第二天一早李益和小玉说想要尽快搬离这里到明福寺，但明福寺的圆通法师没有时间。小玉前去问丹净居士是何原因，丹净居士告诉小玉是依慈瑞的意思才去试探李益。正说话的功夫纳兰东也到了玉京观，纳兰东是奉命来给丹净居士送信。纳兰东告诉李益杨炎知道他要到洛阳参考还要从中作梗。纳兰东提议与其畏首畏尾不如到皇上面前告御状，纳兰东知道皇上会到明福微服私访。在纳兰东的帮助李益见在明福寺见到了皇上，李益状告杨炎阻自己进试之路。杨炎在皇上面前指出李益与楚王同名。皇上当场告诉杨炎允许李益应试。皇上要与圆通法师到后山静休本不想杨炎知道谁知一开门杨炎已经等在门外。圆通和皇上一起来见丹净居士，到了后小玉和浣纱告诉皇上居士一早就出去了。本来皇上要走了，杨炎提醒皇上忘了丹净居士的出身了吗？小玉必和丹净居士有关联，要抓了小玉逼丹净现身。
+
+小玉一听叫喊凭什么要抓自己，杨炎更是要杀了小玉，纳兰东为了保护小玉一巴掌打了小玉告诉皇上只有小玉一人才能引出丹净还是先押走。丹净问慈瑞不打算再见皇一面吗？也许这是找到孩子的唯一方式。慈瑞不愿再见皇上丹净便将卷宗将了樱桃让她拿着去见皇上便会放了小玉。丹净和皇上也有一段风流往事。当皇上看到卷宗后立刻放过了小玉。皇上已经明白丹净已不想再见他。皇上拿出半块玉佩让小玉交于丹净。小玉将玉佩将给丹净后慈瑞告诉小玉丹净便是当年的诗姬李鸿雁，当年皇上和她爱的轰轰烈烈这玉佩便是丹净送与皇上的定情物。小玉说着自己好像在哪看到过这玉佩但一时又想不起来。慈瑞告诉小玉丹净有一女另半块便在她身上。皇上改考题华严经，杨炎上书恳请改回原来的题并改变题目。皇上没有听杨炎所言。杨炎走后纳兰东问皇上杨炎只是一名史部侍郎为何会有如此权势，皇上告诉纳兰东这就是自己为什么要让他入朝为官的原因。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1336</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep07.20130912.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20130912 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>912</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1336</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep07.20130912.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="912" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

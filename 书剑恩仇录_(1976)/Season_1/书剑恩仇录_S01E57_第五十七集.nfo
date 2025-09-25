@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 23:16:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第五十七集</title>
+  <originaltitle>第五十七集</originaltitle>
+  <showtitle>书剑恩仇录</showtitle>
+  <season>1</season>
+  <episode>57</episode>
+  <id>9642306</id>
+  <uniqueid default="true" type="tvdb">9642306</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>18</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <dateadded>2025-09-03 23:13:29</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1164</width>
+        <height>1076</height>
+        <durationinseconds>1111</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E057.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="57" id="AIRED" name="Aired Order" season="1"/>
+  </episode_groups>
+</episodedetails>

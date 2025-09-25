@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>智多星计赚玉麒麟</title>
+  <originaltitle>智多星计赚玉麒麟</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>59</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026676</uniqueid>
+  <uniqueid default="false" type="trakt">7308162</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>卢俊义府内，卢俊义与燕青切磋武艺，两人武功高超。卢俊义感叹燕青武功很快就要超越自己，燕青感谢卢俊义养育之恩。管家李固在一旁阿谀奉承。卢俊义与燕青、李固出城打猎，在城门外与吴用、李逵擦肩而过。城外，打猎中的卢俊义遇险，燕青舍身救主。三人来到野外茶铺喝茶休息，被茶铺的父子三人用蒙汗药迷倒。父亲只想劫取三人钱财，而两个儿子见三人衣着华贵，定是大户人家，就起了绑架勒索的邪念。燕青早觉察出茶铺不对劲，假装喝茶被迷倒，其实一直清醒。燕青几下收拾了三人，救醒了卢俊义与李固。卢俊义得知茶铺父子三人姓唐，是为了救患了肺病的老母，被逼才做卖蒙汗茶迷人抢财的勾当，心生怜悯。两个儿子得知眼前是大名鼎鼎的卢俊义与燕青，惭愧有眼不识泰山。卢俊义念三人有情有义便收了唐家父子三人做家奴，使他们有钱为母亲看病。卢俊义回府。吴用扮作算命先生被卢俊义请入府中算命。吴用算中卢俊义家私不保，百日之内必有血光之灾，将死于刀剑之下。并在墙上题了卦诗一首“芦花从中一扁舟，俊杰俄从此地游，义士若能知此理，反躬难逃可无忧。”卢俊义疑惑不定，不知是否该听信吴用的卦言。从卢府出来，李逵忍不住笑，嘲讽吴用外表一脸书生像，实则一肚子坏水，妖言惑众、巧舌如簧。吴用又在管家李固开办的酒馆内给李固算了一卦，一句卦辞“生怀一腔鸿鹄志，怎奈狭居燕雀身，为求一报舍红颜，却叫草莺不静心哪。”说的李固心中波澜荡漾。吴用计谋已然布下，心中大快，叫着李逵与他一起回梁山坐等卢俊义上山。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E59 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="59" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

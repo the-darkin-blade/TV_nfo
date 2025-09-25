@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 7 集</title>
+  <originaltitle>민채원 유괴사건 Part 2</originaltitle>
+  <showtitle>特殊案件专案组TEN</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>4430686</id>
+  <uniqueid default="false" type="tmdb">1003480</uniqueid>
+  <uniqueid default="false" type="trakt">960253</uniqueid>
+  <uniqueid default="true" type="tvdb">4430686</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>유괴 사건의 새로운 용의자 등장, 이로 인해 사건의 실마리는 풀리는 듯 했으나 유괴범의 예상치 못한 돌발행동으로 인해 사건은 공개 수사로 전환되고, 아이의 생존 확률이 더욱 낮아지는 상황으로 치닫는다. 아이의 생존을 장담할 수 없는 다급한 상황, 아이의 생존을 위한 TEN팀의 활약이 펼쳐진다.</plot>
+  <runtime>72</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>OCN</studio>
+  <studio>Studio Dragon</studio>
+  <dateadded>2025-09-15 20:28:51</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>856</width>
+        <height>480</height>
+        <durationinseconds>4320</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E07.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

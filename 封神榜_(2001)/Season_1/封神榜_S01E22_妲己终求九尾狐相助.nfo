@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>妲己终求九尾狐相助</title>
+  <originaltitle>Episode 22</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>4418945</id>
+  <uniqueid default="false" type="tmdb">2025539</uniqueid>
+  <uniqueid default="false" type="trakt">1484643</uniqueid>
+  <uniqueid default="true" type="tvdb">4418945</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>杨戬吃下山洞鼎内神丹，第三眼威力无穷。洞主申公豹回来，发现神丹无故消失而气愤不已，因而怪罪哮天犬护丹不力，将它痛打一顿，而杨戬却与哮天犬感情大增，哮天犬更成为杨戬的及时帮助，不惜冒生命危险，偷出申公豹之三尖两刀枪，令杨戬可以顺利劈开坚硬无比的镇天石，使玉婵、土行孙无法找到藉口赶杨戬离开军营，但基于婵玉及土行孙的私心，恐吓杨戬不得让人知道自己大食、大力及有三只眼的特征，这样可确保苏护发现不到杨戬这位三目神将。
+
+另边厢，妲己错手杀恐杨贵妃之宫女春梅，惊魂甫定决定找邑考助自己逃出皇宫，可惜被皇后撞破大计，妲己惨被打入冷宫，面对冷宫中疯妇成群，妲己决定找九尾狐相助誓要夺回自己志得的一切，从此，皇宫怪事连连，皇后被狐狸骚扰，春梅尸体在杨贵妃寝宫出现，纣王发现一大群狐妖捣乱后宫，束手无策，群臣建议纣王若想除掉宫中妖孽，就必须到女娲庙斋戒沐浴七日七夜，清心为大商祈福，可惜纣王色心难静，见女扮男装的妲己出现眼前，即按捺不住，而妲己亦成功踏出成功的一步。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1048</width>
+        <height>720</height>
+        <durationinseconds>1441</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>22_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

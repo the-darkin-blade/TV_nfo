@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>厉薇薇通过陈母曲线救国得到陈亦度</title>
+  <originaltitle>厉薇薇通过陈母曲线救国得到陈亦度</originaltitle>
+  <showtitle>放弃我，抓紧我</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>5882542</id>
+  <uniqueid default="false" type="tmdb">1247905</uniqueid>
+  <uniqueid default="false" type="trakt">2436651</uniqueid>
+  <uniqueid default="true" type="tvdb">5882542</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>厉薇薇说自己失忆了，她根本不记得五年前发生的事，所以她不可能向媒体爆料，她更不可能串通拿铁去陷害度。陈亦度就像听了一个大笑话，他说自己已经认输了，还想把他羞辱到什么程度？从此以前他不会再对她动一丁点感情，因为她不配。说完陈亦度就狠心地把厉薇薇拉出门外，坚持不再听她的任何解释。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2730</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>J2.Stay.With.Me.Ep13.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

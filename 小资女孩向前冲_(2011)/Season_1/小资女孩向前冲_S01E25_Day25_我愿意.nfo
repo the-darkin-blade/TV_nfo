@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>Day25  我愿意</title>
+  <originaltitle>Day25  我愿意</originaltitle>
+  <showtitle>小资女孩向前冲</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>4409276</id>
+  <uniqueid default="false" type="tmdb">1569643</uniqueid>
+  <uniqueid default="false" type="trakt">1658736</uniqueid>
+  <uniqueid default="true" type="tvdb">4409276</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>京师百货被狗仔们包围，原来是凯儿之前的爆料发威了，针对杏仁的恶意报导一篇接一篇，杏仁要怎么躲过这次的危机？面对秦董事长和封副总，凯儿只能乖乖招供，一五一十说出陷害杏仁的所有罪行，好脾气的秦董事长也忍不住发怒了，让他疼惜又痛心的郑经理将会被如何处置？子奇脸上藏不住爱情的甜蜜笑容，杏仁眼眶却是泛着泪光，两人对爱的执着发生什么波澜？婚礼的乐声响起，红毯上穿着雪白婚纱的美丽新娘是沈杏仁？</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TTV Main Channel</studio>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2716</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj Office Girls Ep25 Hdtv 1080I H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

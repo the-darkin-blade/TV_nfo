@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李逵负荆</title>
+  <originaltitle>李逵负荆</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>72</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026689</uniqueid>
+  <uniqueid default="false" type="trakt">7308175</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>强抢刘瑾娘的并不是宋江和鲁智深，鉴于之前签下军令状，李逵以为性命难保，燕青让李逵负荆请罪，众人也纷纷为李逵求情，宋江便让李逵戴罪立功，李逵和鲁智深下山顺利将假扮宋江和鲁智深二人捕获，李逵免去了死罪。除夕将近，梁山众英雄心情大好，连李逵也穿上了喜庆的红衣，引来众人一片哄笑。宋江心系招安之事，以赏灯之名带着众兄弟来到东京，吴用也用计出除去了宋江脸上的金印，梁山一行人欢天喜地的来到东京，宋江暗使燕青拿着黄金细软找到和皇上相好的李师师，希望借李师师之口向皇上请求，达成招安之事。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2673</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E72 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="72" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

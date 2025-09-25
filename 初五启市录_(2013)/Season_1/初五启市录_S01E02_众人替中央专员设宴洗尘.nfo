@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>众人替中央专员设宴洗尘</title>
+  <originaltitle>Episode 2</originaltitle>
+  <showtitle>初五启市录</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3225401</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>永齐看见片仓数千卷外表看来一模一样的电影底片时，不知从何开始，而他看见礼和只是东摸西弄，忍不住出言询问，更因此发觉礼和原来对电影甚为熟悉，很快便了解到片仓存片的分类。
+
+为了拖延时间，雅媛特意即场举行抽奖。礼和终找到有关影片，但打开片盒时却发现当中没有底片。事情终告解决，而永齐更向雅媛交代有关飞等人加入争夺菲林，与及有关幕后黑手之事。
+
+飞为帮会欠税之事走投无路，欲向其他帮会长辈请求帮助，长辈说出无法帮忙，因为龙哥对飞早前所作之事大感不满，因此对苏飞下达了「江湖封杀令」。飞得悉后不禁大惊，之后他一直疑神疑鬼，担心有人会突然加害自己。
+
+担心自己性命受威胁的飞忍不住找雅媛，雅媛终让飞与自己面谈，但答应只会面三分钟。苏飞进入办公室后，竟只顾吹嘘永昌盛的威水史……
+
+欠交税款　店铺被封
+
+另一方面，市政府的官员正坐在永昌盛门外，原来永昌盛因欠税将被封铺。在大青苦苦恳求下，官员答应再多等一会。飞没精打采地出现，指无法在限定时间内筹钱交欠税，官员贴上告示，要求众人在半个月内搬离永昌盛铺位。
+
+唐家众人正于客厅享用燕窝美食，百年等人更趁机讨论雅媛处理龙哥之事，指雅媛不应得罪帮会。雅媛回应已用了钜款拜托治安厅厅长，目的就是挫龙哥等的锐气。百年笑指雅媛用钱过度得不偿失，雅媛解释了当中原委，更指已收到成效……
+
+为答谢礼和帮助，永齐将一部于德国订购的摄影机送给他，更指是雅媛特意托人购入，礼和高兴不已欲立即向雅媛道谢，但遭永齐阻止。晚上雅媛回到家时，发现礼和提出要与她说话。
+
+绝处逢生　获得锦囊
+
+永昌盛迫迁之日，没法觅得栖身之所的大青一面无助地坐在地上，失落不已的飞与一钊把永昌盛招牌拆下时，突然从招牌后面掉下了一个写着「绝处可逢生」锦囊，芬拾起来交予大青，更发现当中装了一封信及令牌。信中指龙英帮会曾欠了永昌盛大恩，因此在山穷水尽生死存亡之秋时，可向龙英帮会求助。但众人发现，此信已有上百年历史……
+
+接下盛宴　专员到访
+
+一钊得知龙英帮会在花地码头，于是飞众人前往寻找，结果发现龙英帮会已变得残破不堪。成功接收了龙英帮的咕哩馆后，众人欲了解码头的工作量，但竟看见管理码头仓库的南隆行每月只开两天。虽觅得栖身之地，但在空无一人鸟不生蛋的花地码头前，飞等人只能对海大呼不满……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>960</width>
+        <height>544</height>
+        <durationinseconds>2645</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>The.Day.Of.Days.Ep02_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

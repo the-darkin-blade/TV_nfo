@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 11 集</title>
+  <originaltitle>第 11 集</originaltitle>
+  <showtitle>保镖之翡翠娃娃</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3169326</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>天幽帮以为翡翠娃娃在辛力手上，要他交出，辛力因元气尚未恢复，不敌被擒。胭脂为辛力出头，却不敌天幽帮，时铁衣来到，救下辛力和胭脂。少林寺藏经阁住持觊觎翡翠娃娃，向郭旭探口风，郭旭与采玉同感此次出镖困难。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>ATV</studio>
+  <studio>gotv</studio>
+  <studio>ATV Enterprises Limited</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1040</width>
+        <height>716</height>
+        <durationinseconds>2789</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>保镖之翡翠娃娃.11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

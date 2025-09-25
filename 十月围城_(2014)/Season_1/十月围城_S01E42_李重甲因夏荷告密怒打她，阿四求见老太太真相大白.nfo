@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李重甲因夏荷告密怒打她，阿四求见老太太真相大白</title>
+  <originaltitle>李重甲因夏荷告密怒打她，阿四求见老太太真相大白</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>42</episode>
+  <id>4938220</id>
+  <uniqueid default="false" type="tmdb">2728585</uniqueid>
+  <uniqueid default="false" type="trakt">1306725</uniqueid>
+  <uniqueid default="true" type="tvdb">4938220</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李重甲进了洞房，忽然变脸，对夏荷一顿拳打脚踢：你坏我大事，你跟阿四到底有什么瓜葛？敢帮他向老太太告密！原来，李重甲料定那场毒酒宴是被夏荷搅局的。原以为从此安定有靠的夏荷，发现自己全都想错了。阿四决心找老太太说出全部真相，区舒云反对。阿四打断，不要再跟我说什么革命，我不懂革命，可我懂做人的根本。区舒云无言以对。就在这时，小丁来报，老太太不行了！老太太单独见阿四。阿四跪下了，刚开了一个话头，老太太摆手，不用说了，下回唱《月光光》，你记着把“床”唱成“糖”。阿四不解。老太太说，重光打学说话时唱错了那个字，后来就一直故意那么唱。阿四震惊，老太太从开头就知道他是假！老太太说，做人无非将心比心，你把我当奶奶，我就把你当孙子，老太太也像李重甲一样观察，判断，每天都在想该怎么处理，该把李家交给阿四还是重甲？而判断标准就是怎么对李家有利。老太太对自己没有想法，她要保护的就是手心手背，仅此而已。阿四痛哭流涕。老太太说我对你只有一个嘱咐：要对重甲好，你要帮我照看他，又不能太纵容……阿四点头，还想问能不能用李家支持革命，老太太已无力回答了。阿四哽咽的歌声中，老太太闭上了眼睛……“月光光，照地堂，虾仔你乖乖训落床（‘糖’），听朝阿妈要赶插秧，阿爷睇牛佢上山岗……” 李家祠堂，李家上下哭灵，有真哭（阿四），有假哭（李重甲），本家族长宣布老太太遗嘱－－李家在制造局的股份全都由重光继承；其他家产平分四份，重光得两份，重甲和念慈各得一份；李玉庵只得了乡下几百亩地，要他好好种土产。阿四和秦少白一直在密商转移军火的办法，转移军火最大的难度是通过一家英国公司转移，而此事要通过区巡抚点头。阿四请示区巡抚是否与英国公司做交易，区巡抚贪图捞钱，同意了。在阿四执意邀请下，李重甲到制造局担任了总办助理，帮阿四打理事务。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2642</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep42_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="42" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

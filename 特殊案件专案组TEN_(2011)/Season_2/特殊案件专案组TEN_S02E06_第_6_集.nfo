@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 6 集</title>
+  <originaltitle>모딜리아니의 여인</originaltitle>
+  <showtitle>特殊案件专案组TEN</showtitle>
+  <season>2</season>
+  <episode>6</episode>
+  <id>4779542</id>
+  <uniqueid default="false" type="tmdb">1003488</uniqueid>
+  <uniqueid default="false" type="trakt">960261</uniqueid>
+  <uniqueid default="true" type="tvdb">4779542</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>그녀의 증오가 살인을 부른다! 같은 날, 같은 시간 두 건의 살인사건 그리고 남겨진 두 여인. 연관성 없는 살인 사건 사이에 드리워진 하나의 그림자. 완벽한 알리바이 속 숨은 미스터리는 무엇인가!</plot>
+  <runtime>65</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>OCN</studio>
+  <studio>Studio Dragon</studio>
+  <dateadded>2025-09-15 20:28:51</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>480</height>
+        <durationinseconds>3929</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S02E06.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="2"/>
+  </episode_groups>
+</episodedetails>

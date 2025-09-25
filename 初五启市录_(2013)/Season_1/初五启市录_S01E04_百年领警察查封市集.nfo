@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>百年领警察查封市集</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>初五启市录</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3225403</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雅媛在完成工作后，特意推却其他饭局与雅文在尚品楼吃饭，雅文看见姊姊出现高兴不已，更亲手向她送上手信，雅文与雅媛分享旅游见闻。
+
+雅文被射入房间的刺眼阳光弄得不快，正要向下人大兴问罪之时，却得悉这是因为雅媛对自己的细心，才会修剪窗外的树木。
+
+雅文对百年等人谈论的话题毫不感兴趣，于是雅媛决定往花地码头探望礼和。当房车驶经永昌盛时，众咕哩竟团团围着雅文的座驾不肯离开。雅文为了打发他们，竟将手上的钞票撒出车外。芬欲阻止众人于地上拾钱时，飞出现了解情况。当得知应是唐家的千金小姐所为后，飞竟要求大家把金钱交出，让他将钱交回，众人虽不情愿亦只好照办。
+
+虽然货仓无生意，但没有不快的礼和突然看见雅文出现，这时飞亦到来将钱归还，但雅文看见飞一身市井打扮，竟拒绝与他握手，更拒绝收回金钱。虽然面对雅文的目中无人，但飞仍尽力讨好她。飞将金钱带回永昌盛，众人为得到意外之财大感高兴，惟独是芬反对收下。
+
+这时飞在钞票中发现一张万花百货的礼券，灵机一触将此礼券赠予芬平息了她的不满。
+
+苏飞绍业　结下仇怨
+
+飞带妹妹到万花百货购物，芬看中了香水，却发现礼券的面值不够，这时绍业出现了解事情，竟提出用钱购回礼券。飞不甘受辱，决定即时补钱购下香水……
+
+离开万花百货后，把众人身上金钱使光的飞只能不断咒骂绍业，这时虎突然嗅得各种美食的美味，原来不远处正有一间西餐厅。众人捧着空肚子羡慕时，突然看见餐厅中有熟悉的身影。长辈华叔招呼众人饱吃一餐，大家闲话家常交流近况，飞对华叔的风山水起大为佩服。飞得华叔启发，想让码头增加人流，决定开办市集墟，华叔大表支持，更指可介绍他们购入平货摆卖。
+
+雅文支持　礼和决定
+
+一钊与飞到电影院找礼和，向他谈到永昌盛的困境，之后提出办市集的计划，礼和听后也觉心动。礼和回到唐家欲找众人商量，但玉卿与百年等人听到是有关码头经营后，均借故离开。礼和向雅文打听雅媛去处，当得知她要到湛江工作大感失望，雅文了解事情后，支持礼和的想法。
+
+市集开张　带旺码头
+
+经过众人一番努力，「万花市集」终于开幕。雅文到市集探望礼和，却又再遇上飞，雅文对飞的多番讨好终忍受不住，着他不要在自己面前出现。
+
+市集成功非常，带动了码头人流，众人亦苦尽甘来，憧憬大展鸿图……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>960</width>
+        <height>544</height>
+        <durationinseconds>2654</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>The.Day.Of.Days.Ep04_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

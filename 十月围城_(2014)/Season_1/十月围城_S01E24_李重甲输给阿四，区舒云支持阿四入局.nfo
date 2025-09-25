@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李重甲输给阿四，区舒云支持阿四入局</title>
+  <originaltitle>李重甲输给阿四，区舒云支持阿四入局</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id>4938202</id>
+  <uniqueid default="false" type="tmdb">2728566</uniqueid>
+  <uniqueid default="false" type="trakt">1306313</uniqueid>
+  <uniqueid default="true" type="tvdb">4938202</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李重甲明白了，从一开始，铁山就在利用自己，总办的位置看上去和自己近在咫尺，其实远得很。最令他无法接受的是，挡在面前的最大障碍竟是一个车夫！一个地位底下、目不识丁的下等人，夺走了他的一切！区舒云忽然出现在会场，大大方方地坐到了阿四的身边。区舒云悄悄告诉阿四，阿纯能看见了，她就在这个会场的某个角落，阿纯是一个难得的好姑娘，为了阿纯，你一定要好好表现。阿四十分激动。李重甲不明白为什么区舒云改了主意，但他明白这一回他彻底输了。总督、区巡抚、铁山，三人投票。三张票，都写着李重光的名字。阿四上台发表就职演说，这个演说词是李玉堂写的，并盯着阿四一句一句背下来的，阿四打醒精神，倒背如流，居然似模似样。阿四一直在人群中寻找阿纯。回到李家，阿四和阿纯终于找到机会私下见面。阿四看着阿纯明亮的眼睛，欣喜若狂，觉得自己的付出十分值得。阿纯向阿四表示，所有的事情她都明白，她一点儿都没有误会阿四，她从来都不会怀疑阿四。两个人紧紧抱在一起。接下来怎么办？阿四安慰阿纯，等制造局的大局稳定下来，李玉堂会想办法让我们隐退，先踏踏实实住下来养好身体。阿四觉得最难的一关自己也“演”过去了，以后的日子该好过些了。李重甲向李玉堂“投诚”，称其后悔跟铁山勾结，自己知道阿四的真正身份，一定保护好他，并为李重光弟弟报仇。李重甲当上了制造局驻局军代表。 制造局里里外外都是李家人，李家一时之盛如烈火烹油。李玉堂带阿四走马上任，主持制造局工作。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2655</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep24_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

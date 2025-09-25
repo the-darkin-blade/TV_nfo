@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:08:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>天樂鼓勵詩嬅堅持夢想</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>机场特警</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>7654110</id>
+  <uniqueid default="false" type="tmdb">2228897</uniqueid>
+  <uniqueid default="false" type="trakt">4078301</uniqueid>
+  <uniqueid default="true" type="tvdb">7654110</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>景山、容義追捕悍匪，悍匪開槍擊中容義，振赫趕到支援。景山不聽從振赫指揮，結果受傷。振赫與悍匪駁火期間卻傷及單位內的男童。美茵擔心振赫安危，卻發現振赫有所隱瞞……眾學員經歷槍戰，各有不同體會。詩嬅偶遇天樂及其警犬拍檔，天樂鼓勵詩嬅堅持特警夢。詩嬅應約與父親何廣源聚餐，廣源要她辭職，詩嬅憤然離去。振赫指責景山於槍戰中違反紀律，罰其跑圈，眾組員尾隨相伴。警隊因男童受傷一事遭問責，景山被高層召見……</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1311</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Airport.Strikers.E06.2020.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Airport Strikers 2020 Hdctv qsv av1</title>
+  <originaltitle/>
+  <showtitle>机场特警</showtitle>
+  <season>1</season>
+  <episode>2020</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1311</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Airport.Strikers.E06.2020.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2020" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

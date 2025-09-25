@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>骸骨身份　尚待查证</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>4155077</id>
+  <uniqueid default="false" type="tmdb">1828878</uniqueid>
+  <uniqueid default="false" type="trakt">1489378</uniqueid>
+  <uniqueid default="true" type="tvdb">4155077</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>彦博发现，原来污水渠上方以前曾是漂染厂，染料及化学物料足以令尸体的腐化速度加快，所以尸体极有可能是容婶的女儿容慧；但是由于骸骨被污水长期冲擦，所以无法抽取 DNA 化验，泽琛唯有尝试在牙齿中抽取 DNA 化验。
+
+小柔依容婶的资料，找到容慧投靠的亲戚张泰，小柔发现张泰夫妇讹称没有收留容慧，淑媛与小刚、汀汀更在张泰家中找到容慧的头发及她留在墙上的血迹……
+
+经过调查，小柔得知在骸骨身上的衣物残渣是来自一间夜总会的制服，所以前往调查，但霍经理似乎有意阻碍调查，而且夜总会更在翌日发生大火，所有的人事记录也被烧毁……
+
+小柔在一超市经理相助之下，找到认识容慧的人林晶晶及 Red ，但二人不愿与小柔合作……与此同时，彦博与泽琛发现从火场找到的火机上找到的 DNA 样本，竟然与容婶相符，二人不禁想到其实容慧未死，她更是放火烧夜总会的凶手……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E10.20190329.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Forensic Heroes 20190329 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>329</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E10.20190329.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="329" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

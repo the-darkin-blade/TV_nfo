@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 30 集</title>
+  <originaltitle>Episode 30</originaltitle>
+  <showtitle>法证先锋2</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id>1318541</id>
+  <uniqueid default="false" type="tmdb">1830852</uniqueid>
+  <uniqueid default="false" type="trakt">1633232</uniqueid>
+  <uniqueid default="true" type="tvdb">1318541</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>(大结局)真凶把英引上天台，把真相揭露，之后却逃脱。升想向英求婚，请琛陪他到游艇上布置装饰，琛坐椅下藏计时炸弹，升被炸至重伤昏迷。英决发放凶徒怀孕的消息引凶徒出现，凶徒到警局把英迷晕，欲与英同归于尽。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1914</width>
+        <height>1080</height>
+        <durationinseconds>2691</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.Ii.E30.Hdtv.1080I.H264-Hdstv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

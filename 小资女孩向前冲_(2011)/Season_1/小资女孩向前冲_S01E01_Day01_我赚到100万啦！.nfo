@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>Day01 我赚到100万啦！</title>
+  <originaltitle>Day01 我赚到100万啦！</originaltitle>
+  <showtitle>小资女孩向前冲</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>4161039</id>
+  <uniqueid default="false" type="tmdb">873151</uniqueid>
+  <uniqueid default="false" type="trakt">1658656</uniqueid>
+  <uniqueid default="true" type="tvdb">4161039</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>沈杏仁，京师百货营业部专员，资历四年。杏仁有稳定的工作、有一点存款、有租屋公寓、有同居室友，虽然生活不成问题，却也过不起奢侈日子。在职场上，像杏仁这样的女孩，我们通称为「小资女孩」。今天，是杏仁最热烈期待的一天，因为，她赚到了人生中的第一个一百万！其实，杏仁心里一直有个小小的心愿，就是存到足够的钱，把住在三峡的妈妈接来台北。所以她苦干实干、任劳任怨，就是希望能够早日实现买房的梦想。秦子奇，京师百货正港接班人。原以为自己学成归国后，父亲秦慕白就会将京师百货的经营权交给他，没想到慕白却告诉子奇，想要接掌公司，就必须担任一年的基层员工，并遵守五不原则：「不准暴露身分、不准被记过开除、不准用家里的钱、考绩不准低于特优、不准泄露这个约定！」要是违反其中任何一项，他就得做好心理准备，另外找头路去！沈杏仁与秦子奇，第一次见面就对彼此留下不良印象，无奈命运又安排两人成为同事，而这对欢喜冤家的首要任务就是说服亚洲首席服装设计师——余承风到京师百货设柜！两人该如何携手完成这个不可能的任务呢？</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TTV Main Channel</studio>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2680</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj Office Girls Ep01 Hdtv 1080I H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>血溅鸳鸯楼</title>
+  <originaltitle>血溅鸳鸯楼</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026650</uniqueid>
+  <uniqueid default="false" type="trakt">7308136</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>武松在鸳鸯楼怒杀蒋门神，张都监，张团练等人。并写下“杀人者，打虎武松也”。知府得知大惊，下令一定要捉拿凶手武松归案。张青的四个伙计在林子里看武松像没魂魄似的，就把武松绑到了店里。张青夫妇不想正是武松本人，大为惊喜，摆下酒宴为武松接风。武松与张青夫妇二人说清楚事情的来龙去脉，张青夫妇大赞武松是真好汉。为了使武松逃避追捕，张青再次提议让武松去二龙山。武松也欣然同意。正在此时，官兵却赶到张青的酒店。孙二娘急中生智，让武松扮成行者，躲避官兵的追查。武松在路上遇到道人奸淫妇女，出手相助，杀了道人和道童，并给妇女银两让其好生过日子。武松来到路上的酒店，可酒家却偏偏不给武松肉吃，武松问明原因，却道酒肉是专门留给别人的。孔亮来到酒店，酒家把好酒好肉端了上来。武松见状责问酒家，却被孔亮制止，于是二人大打出手，孔亮不是武松的对手，于是去请救兵，武松却在酒店里大吃大喝。孔明到来，命人把武松绑了，而武松却还不停喝酒。对孔明等人的毒打没有任何反应。孔明孔亮二人的师傅宋江看到此等情况，问其事情缘由，并制止了对武松的拷打。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2650</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E33 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="33" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:08:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>洞(上)</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>金宵大厦</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>7358429</id>
+  <uniqueid default="false" type="tmdb">1942173</uniqueid>
+  <uniqueid default="false" type="trakt">3709315</uniqueid>
+  <uniqueid default="true" type="tvdb">7358429</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宅男李家俊成为Alex的新邻居，阿萧紧张地去探个究竟。家俊发现墙上有一洞，能望通隔壁。Alex失约，阿萧向Mia询问Alex在何处，Mia却表现惊讶。Mia直播做瑜伽时，听到Alex的呼唤后失手大出洋相，遭网民恶意攻击。家俊从洞中得知隔壁就是Mia，于是密密监视她，并在网上揭穿她的真面目。Alex走进Mia房间，赫然发现墙上有一只「眼」……六十年代，CoCo梦见墙上出现「眼睛」，林哥仔替她解奇梦。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1304</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Barrack.O'karma.E11.20190930.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Barrack O'karma 20190930 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>金宵大厦</showtitle>
+  <season>1</season>
+  <episode>930</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1304</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Barrack.O'karma.E11.20190930.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="930" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

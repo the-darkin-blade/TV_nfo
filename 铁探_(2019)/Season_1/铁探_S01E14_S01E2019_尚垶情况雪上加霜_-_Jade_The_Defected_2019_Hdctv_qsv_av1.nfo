@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>尚垶情况雪上加霜</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>铁探</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>7109988</id>
+  <uniqueid default="false" type="tmdb">1751187</uniqueid>
+  <uniqueid default="false" type="trakt">3452985</uniqueid>
+  <uniqueid default="true" type="tvdb">7109988</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>奕泰想要将犯人逃走的罪责归咎于尚垶，却引起了展亮的不满，随后便被安排提前退休。尚垶在车祸中头部再次受创入院，就在他和喜悦仍担心彤彤情况时，收到了彤彤被安全救出的消息。原来秉高带彤彤去祭拜广兴，并将消息通知了尚垶。尚垶犹豫之后决定不将情况上报，因为他相信秉高真的会兑现承诺，保护好彤彤。
+
+永正被调出枪房，帮忙培训同胞成为赌博专家，喜悦也是其中一份子，好打发多余的时间，她不自觉与永正诉说与励杰一段不会开花的感情。永正的调职原来是国曙在幕后操作，希望永正可以帮助他在提早到来的大升迁年占得先机。永正拒绝了国曙的邀请，因为他一心希望可以重回重案组帮助尚垶。
+
+可是尚垶的情况并不乐观，可能出现失禁的情况。雪上加霜的，他得知了晓怡接受了梓浩的求婚，可能会带着尚晴离开自己，更令他痛心的是尚晴也患上焦虑症。喜悦过得也不顺利，她没有通过高空工作队的遴选。宇森指出，喜悦的脆弱是来自于自己的内心，原来她根本就没有走出和励杰的感情漩涡。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <studio>TVB Jade</studio>
+  <studio>Tencent Penguin Pictures</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:25</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1314</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Defected.E14.2019.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade The Defected 2019 Hdctv qsv av1</title>
+  <originaltitle/>
+  <showtitle>铁探</showtitle>
+  <season>1</season>
+  <episode>2019</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <studio>TVB Jade</studio>
+  <studio>Tencent Penguin Pictures</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:25</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1314</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Defected.E14.2019.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2019" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

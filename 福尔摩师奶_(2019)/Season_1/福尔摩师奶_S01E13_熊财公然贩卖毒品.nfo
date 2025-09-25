@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>熊财公然贩卖毒品</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>福尔摩师奶</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1727095</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>一夫、德英及时营救妹娣，妹娣怒极，持刀指向熊财与王烈。一夫、高明察觉油麻地有人贩卖可疑神仙水，事件并不寻常。一夫以身犯险试喝神仙水……「香庐」连环失窃，原来是租客张仕文所为，众人协助他戒毒。百川质疑罗拔包庇熊财；熊财利诱罗拔用神仙水降服牡丹，幸好被高明撞破。祖迪有意筹办管家训练课程，以提升街坊社会地位。熊财哄骗世杰入妓寨，世杰还疑似喝了神仙水。油麻地乌烟瘴气，百川愤然当众教训熊财，民望大大提升。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2645</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>TVBOXNOW 福爾摩師奶 EP13_H265.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

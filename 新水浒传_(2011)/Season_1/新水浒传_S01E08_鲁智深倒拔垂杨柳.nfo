@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>鲁智深倒拔垂杨柳</title>
+  <originaltitle>鲁智深倒拔垂杨柳</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026624</uniqueid>
+  <uniqueid default="false" type="trakt">7308111</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>鲁智深吃多了酒，回到寺庙，庙里的和尚却不肯放鲁智深进山门，鲁智深一开始还能忍耐，可是众僧人却得寸进尺，对他殴打不休，一怒之下，鲁智深痛打众僧人，还砸毁了山门前的哼哈二将。直到智真长老出现，双方才停了手。智真长老对此事的是非对错不置可否，只是安顿好众人，凡事明日再说。第二日，智真长老携同鲁智深下山，到铁匠铺为鲁智深打了一条禅杖，一把戒刀，还带着鲁智深，去吃酒，岂料山下店家知道鲁智深是文殊寺的和尚都不肯卖酒，鲁智深只得诓骗别人，说自己是游方僧人，才吃了酒。禅杖已经打好，智真长老又教了鲁智深一套杖法，鲁智深这才发现，智真长老竟是深藏不漏。智真长老又给了鲁智深银两衣物，并书信一封，让鲁智深去东京大相国寺。京城，林娘子变卖家产，为林冲疏通。岳父张教头报来喜讯大理寺府尹，答应秉公办理。大理寺内，便是府尹也无法给林冲洗冤，却想出办法保住林冲性命。让林冲承认不该腰悬利刃误入白虎堂，脊杖二十，刺配远处州县。林冲认罪。鲁智深已经在大相国寺安身，附近的泼皮想要来找麻烦，却被他一番收拾，各个甘愿认他做师傅。泼皮们备好酒菜，宴请鲁智深，怎奈书上老鸦叫个不停，吃的不快，鲁智深倒拔垂杨柳，把老鸦的窝挪到了不吵人的地方，又把树重新栽了回去。众泼皮叹为观止。准备押送林冲的董超，薛霸，正准备出门，却被人请到了酒楼。这个人正是陆谦。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E08 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

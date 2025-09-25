@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>熊财与王烈平分码头势力</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>福尔摩师奶</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1727089</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>祖迪半山大宅被政府收回，与一夫回家收拾，遇上不怀好意的威廉，于是向名媛焦范南茜打探菲腊与威廉关系。祖迪经素嘉鼓励自力更生，在榕树头帮街坊写信，闲时诉说《福尔摩斯》的故事，街坊着迷。祖迪用赚得的零钱上缴清洁费，妹娣内疚，二人关系缓和。熊财得到罗拔撑腰，成功与王烈抗衡，在油麻地码头扩张势力。王烈捉走咕喱馆等人严刑逼供，一夫赶至欲救无从。晓尧无意间见到血迹，忆起亡母被杀经过，受惊过度昏倒。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2641</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>TVBOXNOW 福爾摩師奶 EP07_H265.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

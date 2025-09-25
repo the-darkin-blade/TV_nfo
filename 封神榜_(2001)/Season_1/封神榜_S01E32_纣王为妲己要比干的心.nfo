@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>纣王为妲己要比干的心</title>
+  <originaltitle>Episode 32</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id>4418958</id>
+  <uniqueid default="false" type="tmdb">2025553</uniqueid>
+  <uniqueid default="false" type="trakt">1484713</uniqueid>
+  <uniqueid default="true" type="tvdb">4418958</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>琵琶大肆破坏云中子仙卢，令云中子决定血洗陈塘关，十娘为息事宁人，决定留下为奴为婢，令云中子大感为难，只怨十娘过份好人，而李靖却不懂珍惜。十娘悉心照顾众莲藕仔，但内心对哪吒却挂念不已！而莲花众人不敢告之哪吒、十娘已私出军营，更一去无踪。
+
+霓裳无意中发现琵琶根本没有怀胎，但却不敢将事件告之其他人，琵琶向妲己求助，希望能得九节昌蒲以致腹中有活胎，妲己随口答应，但内心却沉醉于权欲之中，另边厢，比干正努力制造各种竹家具，终趁时机成熟，将众狐狸一把火烧光，更将狐狸皮毛交由比平妻制成大衣，准备献予纣王，希望藉此向妲己示警，皇后、凝香不惜微服至比干家如以探望，令比干深受感动！果然，此狐狸毛大衣令妲己为之一震，阴险姣滑的妲己，居然假装昏迷不省人事，令纣王束手无策，唯有抱着妲己到摘星楼求向众仙，最后，听信由九尾狐化身成神仙的指引，只有比干一片七窍玲珑心才可令妲己苏醒，纣王听罢，连夜三度下旨召比干进宫，要比干借玲珑心，比干见纣王昏庸至此，肝肠寸断，更一死以示悲愤之情。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1056</width>
+        <height>720</height>
+        <durationinseconds>1362</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>32_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

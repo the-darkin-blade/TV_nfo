@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>武松单臂擒方腊</title>
+  <originaltitle>武松单臂擒方腊</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>84</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026702</uniqueid>
+  <uniqueid default="false" type="trakt">7308187</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>方腊带着残部路遇菜园子张青孙二娘夫妇，又是一场混战，张青和孙二娘奋力将方腊残部剿灭，双双战死，但方腊却又命大逃脱。谁知前面还有武松拦住去路，二人交手，武松一只胳膊被兵器刺中，插入柱子，他忍痛砍掉自己的手臂，追上方腊，以一只手臂将方腊擒住。方腊起义军自此才全部被剿灭殆尽。宋江探访囚牢中的方腊，方腊赠给宋江自己的一条红头巾，他敬佩宋江是一名英雄，满怀惺惺相惜之意，而宋江却唾弃他造反作乱祸害黎民，方腊告诫宋江警惕奸臣，而宋江不为所动，话不投机，宋江拂袖离去。童贯视差前线，要将方腊部下的兵将们全部斩首，宋江苦苦求情，说明那些都是被迫为贼的良民，童贯不允，告诉他一日为贼，终身不改，宋江似是听出了一些弦外之音。徽宗听闻方腊叛军被平定，召宋江率领梁山军回京接受封赏。鲁智深在六和寺中听见潮信，这才明白当年五台山文殊院智真长老留给自己的八字之含义，遂含笑而逝。宋江等人前来寺中看望鲁智深，只见到他的尸体，和他留下的一首偈语，众人悲痛，宋江难过病倒。武松向宋江辞行，愿意留在寺内修行，请他抹去请功名单上自己的名字。宋江心里不舍，却不愿强人所难，希望武松日后能得善终。武松从此再也没离开六和寺，直到八十岁善终。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2644</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E84 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="84" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

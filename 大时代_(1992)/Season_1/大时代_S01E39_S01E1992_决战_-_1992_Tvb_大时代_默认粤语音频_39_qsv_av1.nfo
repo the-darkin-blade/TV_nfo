@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>决战</title>
+  <originaltitle>Episode 39</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>39</episode>
+  <id>2399221</id>
+  <uniqueid default="false" type="tmdb">1460727</uniqueid>
+  <uniqueid default="false" type="trakt">1435943</uniqueid>
+  <uniqueid default="true" type="tvdb">2399221</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>丁家父子开始为世界各地的黑帮通过股票市场洗黑钱，从八七年到九四年，财富超过五十亿。阮梅和纪文在台湾开了家租录影带的店，两人结伴环球旅行。纪文告诉展博阮梅的心脏病开始发作，展博不再欺骗自己的感情，向阮梅求婚。阮梅要展博不要担心自己的病，想干什么就去干，她会在家里等他。美国伦敦股市大跌，中东局势有变，展博，滔滔等均觉机会来了。丁蟹沽期指，买跌。展博认为要赢一个好运的人就是要比他运气更好，因此丁蟹买跌展博就紧跟买升，要和他赌运气。但股市一直在跌，一天就跌了上千点。展博从父亲的背心里发现了香港三大富翁曾对父亲有过一个承诺。他找到三个大亨，请他们帮忙把香港股市推高，展博要向他们借“好运”。此时利好消息连连传来，丁蟹还是一意孤行买跌。在展博他们欣喜万分的时候，却突然传来美国出兵的消息。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1411</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.39_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="39" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 39 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1411</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.39_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

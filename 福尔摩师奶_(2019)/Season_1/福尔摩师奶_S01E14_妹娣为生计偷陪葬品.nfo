@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>妹娣为生计偷陪葬品</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>福尔摩师奶</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1727097</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>妹娣着一夫坦承双方情感，一夫再次回避。祖迪看穿一夫利用百川向熊财施压，以提升百川民望，质疑他用了非常手段。晓尧招募街坊报读管家训练课程，更练馆也设立戒毒所助街坊戒毒；有街坊毒瘾发作而失控，众人看到一夫的激烈反应，无不惊讶。晓尧于农村重遇素嘉，向她道歉。妹娣鬼祟潜入墓地交还陪葬品，原来早年她为生计不惜偷走陪葬品典当还债，被熊财发现，要胁她引开德英，熊财手下乘虚入更练馆。更练馆失火，大批毒友被困火场…</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2644</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>TVBOXNOW 福爾摩師奶 EP14_H265.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

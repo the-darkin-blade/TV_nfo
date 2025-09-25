@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>父子和睦　皆大欢喜</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>4155079</id>
+  <uniqueid default="false" type="tmdb">1828880</uniqueid>
+  <uniqueid default="false" type="trakt">1489386</uniqueid>
+  <uniqueid default="true" type="tvdb">4155079</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>彦博要将高通回家中居住，可惜高通已决定回家乡中山养老，彦博亦尊重父亲的意愿，不过高通在未回乡前，仍会暂住在彦博家中，二人相处和睦，泽琛放心。
+
+两名跑步人士在路上发现女尸，大惊下报警，由小柔的小队负责侦查。
+
+女尸由于经过雨水和沙泥的污染，所以大部份证据被毁，令调查更加困难。泽琛在检验尸体后发现死者曾被遭性侵犯，而且凶手非常细心，竟懂得以漂白水清洗死者，令警方无法从尸身上的精液中抽取 DNA 化验。
+
+小柔命永章加入调查工作，但当他听到其中一名证人的名字叫「郑晓东」时，登时面色一沉，又借故逃避工作……
+
+小柔等虽努力调查，但仍一无所获，加上永章因小事而打伤证人晓东，更加令小柔感到心烦。
+
+华健向淑媛坦言，已经与 Vivian 搭上半年，而且 Vivian 已怀有自己骨肉，要与淑媛离婚……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E12.20190331.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Forensic Heroes 20190331 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>331</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E12.20190331.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="331" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>九纹龙私走延安府</title>
+  <originaltitle>九纹龙私走延安府</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026619</uniqueid>
+  <uniqueid default="false" type="trakt">7308106</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>朱仝雷横寻到了宋江，等宋江醒来，却寻不着那下药之人。三人正在为公孙胜之事犯难，却不想公孙胜自投罗网，送上门来，将捉住自己的功劳送给了宋江。京城之中豹子头林冲日间练兵，晚时与娘子恩爱有加。这一日林冲同娘子在街边用膳，正遇上九纹龙史进惩治小贼，林冲便将史进引荐给自家娘子。这也引出史进的身世。原来史进的师傅正是前任教头王进，王进因得罪了高俅，受不得逼迫逃出京城，临行还是林冲放行，才得以逃出升天。路过史家庄，见史进习武净是花拳绣腿，便教授史进真本领，待到史进学艺有成，便通过林冲举荐史进为国效力。正在说话间，陆谦前来报喜，高俅将要把林冲送去大名府，领制使，带兵打仗。众人都为林冲欢喜，得以上阵杀敌，建功立业。史进却吃多了酒，要来为自己的师傅领俸禄，不但毫不顾忌王进被通缉的身份，更破口大骂高俅。在林冲的追问之下，史进说出王进身亡的消息。还来不及安抚史进，陆谦就来通报，高俅要见林冲。林冲从陆谦的口中得知，此次去大名府，并非让他领兵杀敌，而是护送生辰纲。林冲眼见众奸臣诸多丑态，不愿成为走狗，甘愿服下药方，在高俅面前吐血，以告不能赴任。史进受命前来劝说林冲赴任，自己却先打定了主意，不愿林冲作难，要一走了之，林冲眼见奸臣当道，留在京城，史进性情耿直，早晚会被陷害，也不挽留，送史进上路。林冲心中郁郁，携同娘子上勾栏散心，又遇上陆谦，陆谦正在劝慰林冲莫要得罪高俅。却不想丫头来报，娘子遭人调戏。等林冲冲到歹人面前却下不了手，那人正是高俅儿子高衙内。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2653</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E03 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

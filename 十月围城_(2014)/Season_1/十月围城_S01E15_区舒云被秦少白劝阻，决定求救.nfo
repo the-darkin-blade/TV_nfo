@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>区舒云被秦少白劝阻，决定求救</title>
+  <originaltitle>区舒云被秦少白劝阻，决定求救</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>4938193</id>
+  <uniqueid default="false" type="tmdb">2728556</uniqueid>
+  <uniqueid default="false" type="trakt">1306080</uniqueid>
+  <uniqueid default="true" type="tvdb">4938193</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>区舒云回门路上，正要逃走，被秦少白拦住。区舒云以为秦少白是来接自己走的，喜极而泣，秦少白说你绝不能走，必须让你爹救李玉堂，救李重光。区舒云说为什么？那个李重光是假的！秦少白说但是他还没招出他是假的！原来秦少白一直关注着阿四被抓被审的事，区舒云不理解秦少白为什么对李家如此关心，秦少白把李重光在香港与自己争当孙文替身而牺牲，到找阿四做替身，到如何劝阿四为救李玉堂而留在李家的事，一股脑讲给区舒云。秦少白说他这辈子就欠李家父子的，求区舒云帮忙，只要有一线机会也要去争取。区舒云被打动，答应现在就回区府，求父亲救阿四，救李家。回到区府，未见到父亲，却被扣留。李老太太派小丁去区家见区舒云，未果，便将救李重光的一线希望寄托在李重甲身上。铁刚给阿四用刑，只是最轻的刑具，阿四已经哭爹喊娘了，铁刚陈列刑具，吓唬阿四，阿四咬定我是李重光！铁山让李玉堂隔墙观看阿四受刑，逼问李重光是不是假的。李玉堂坚称不是。再上刑，阿四怕疼，胡乱承认自己是革命党。我不是革命党。阿四把自己想象成李重光，说自己在伦敦如何不学无术，结交匪党，又尽自己想像，编了好多革命党的事。可阿四不承认自己是替身。铁山看出阿四就是个小地痞，继续“吓唬”，攻心！铁刚当场把阿四押到行刑场，说要立刻处决！阿四当场晕过去！审问阿四的消息不断传到区巡抚和区舒云处。区巡抚得知铁山抓阿四，一会儿指控李重光是替身，一会儿指控李重光是革命党，醉翁之意都在机械厂。他正盘算如何对付铁山。唯一困惑的是，李重光到底是不是替身？ 区舒云大哭，说他怎么可能是假？退一万步，他就是假李重光，也是我的真老公，你救也得救，不救也得救！行刑场，正在处决一个革命党，阿四耳闻目睹革命党人的惨烈牺牲，深感恐惧，震惊。区府，区巡抚是否出手救李重光，犹豫不决。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2646</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep15_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

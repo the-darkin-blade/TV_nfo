@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>恶妇药鸩武大郎</title>
+  <originaltitle>恶妇药鸩武大郎</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026644</uniqueid>
+  <uniqueid default="false" type="trakt">7308130</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>潘金莲得空便和西门庆厮混，两人好的蜜里调油。武大回到家只有空屋冷灶。街上卖梨子的小贩郓哥听说西门庆在王婆处找了姘头住着，有心找他这个财主帮衬生意，但没想到寻到王婆茶铺中，王婆不但矢口否认，还将他打了出来，郓哥狠狠吃了几下，不由跳脚痛骂，发誓要将她帮衬的这档春事搅散才罢休。不想在街边打听到西门庆的姘头竟是他好友武大郎的妻子潘金莲，郓哥又惊又怒，忙找到武大告知他此事。武大又惊又怒不敢相信，但却发现街坊四邻俱都知道了，也忍不住愤怒要去捉奸。郓哥故意在王婆茶馆前吵闹，王婆一时气愤来厮打，郓哥将她一把抱住，武大趁机就往楼上冲。王婆声嘶力竭的叫起来：武大来了。楼上西门庆潘金莲又惊又怕，被武大闯进来厮打，西门庆兜头一脚将武大踹出门去，仓皇逃走。武大回家后愤怒不已，痛骂潘金莲，发誓要将这丑事告诉兄弟武松。潘金莲恐惧极了，苦苦哀求武大不要将丑事告诉武松。王婆找到机会拉潘金莲到家中和西门庆私会。王婆给两人出主意，让他们把砒霜下在药里毒死武大，就可以做长久夫妻。潘金莲迟疑，但西门庆一席话却让她下定了决心，将砒霜下到药中端给武大。武大嫌汤药发苦，潘金莲竟压着他硬灌下去。武大中毒暴毙。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2646</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E27 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿四假扮李玉堂之子探亲</title>
+  <originaltitle>阿四假扮李玉堂之子探亲</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id>4938180</id>
+  <uniqueid default="false" type="tmdb">2728540</uniqueid>
+  <uniqueid default="false" type="trakt">1305766</uniqueid>
+  <uniqueid default="true" type="tvdb">4938180</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>舒云身为广东巡府区肇新的掌上明珠，回到府上便耍起了性子躺入棺材绝食，区肇新早就对想到了对付女儿的办法，趁着女儿熟睡吩咐下人给女儿喂食安眠药，然后再趁机给女儿输入葡萄糖，葡萄糖含有丰富的营养，就算舒云不吃不喝也能撑个几天。这边舒云在家中绝食，那边阿四来到李府同意假扮李重光，由于要出远门去看望李重光的奶奶，阿四将阿纯带回家中安顿，安顿好了阿纯阿四回到李府，接受李府管家老丁改造。李重光生前出国留学，不但衣着西洋化，言行举止也是极是得体，老丁替李重光理了头发，找来西服让阿四穿上，一切准备就绪，一行人上船向广东方向赶去。路上老丁在房中继续改造阿四，在老丁的改造下，阿四由一名貌不出众的车夫摇身变成李家大公子，一袭白衣西服风度翩翩，几呼可以假乱真。站在房外观察的李玉堂触景生情，怀着悲伤的心情进入房中审视阿四改造之后的形象，阿四已经知道此行目的是去看望李重光的奶奶，为了要到更高的赏钱，阿四狮子大开口希望李玉堂能支付一千两银票，李玉堂之前已经与阿四约定事成之后支付一百两银票，阿四之前也同意了，如今阿四出尔反尔，这让李玉堂气得不行，当场取消去探望母亲的打算，吩咐管家将阿四赶下客船。由于心情烦闷，李玉堂来到船外透气，之前误把李重光当成孙中山杀害的铁山一路跟踪李玉堂，趁着李玉堂出船透气，铁山不动声色上前与李玉堂打招呼，谎称自己姓金，李玉堂没有识出铁山的真面目，二人坐在船外闲谈。铁山怀疑李重光就是李玉堂的儿子，为了查出真相故意谈起之前暗杀孙中山的事件，李玉堂听着铁山的话语想起了死去的儿子，眼框不知不觉湿润，正当铁山怀疑李玉堂因为丧子落泪，阿四忽然从远处走了过来，开口称呼李玉堂为父亲，毕恭毕敬向李玉堂认错。铁山见阿四称呼李玉堂为父亲，脑海中迅速浮现李重光的相片，由于阿四长得与李重光一模一样，铁山难辩真假认为孙中山的替身并非李玉堂之子。阿四跟着李玉堂来到老家，李重光的舅舅没有识出阿四的真实身份，阿四忐忑不安跟着李玉堂来李家祖宗庙祭拜，李玉堂祭拜祖宗灵位之时悲从中起，情绪失控低声饮泣，跪在一边的阿四触景生情，赶紧将李玉堂扶到椅子上休息。李玉堂因为情绪失控神思恍惚，误将阿四当成李重光呼喊，喊过之后方才回过神再次陷入悲痛。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep02_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

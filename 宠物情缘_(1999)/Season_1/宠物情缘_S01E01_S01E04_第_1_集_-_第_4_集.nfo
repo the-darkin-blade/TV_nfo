@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 1 集</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>宠物情缘</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>7480250</id>
+  <uniqueid default="false" type="tmdb">1993061</uniqueid>
+  <uniqueid default="false" type="trakt">3823844</uniqueid>
+  <uniqueid default="true" type="tvdb">7480250</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>做事得过且过的戴展硕，与同任警队警犬队的男是好友。硕在搜捕非法入境者行动中，与警犬Rocky发生磨擦，Rocky决教训硕。硕与叔戴忠同住，忠常以家中电器用作偿还赌债，硕感头痛，而文颖朗乃硕邻居，对动物甚有爱心。朗与兽医林学仁一起工作，朗觉仁为人风流。某日硕执勤时，遇到欧子珊被抢银包，硕替珊追贼及取回银包。原来珊是朗好友，硕对她产生兴趣。珊有男友李柱华，为电影编剧，生活潦倒。硕觉与人相处困难，故调往警犬组。一次六合彩搅珠，忠和硕中奖，但奖券却被朗的狗东东叼走。翌日东东失踪，朗认定硕强捉东东。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1080</height>
+        <durationinseconds>1362</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 宠物情缘 Ep01 2016 05 04_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第 4 集</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>宠物情缘</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>7480262</id>
+  <uniqueid default="false" type="tmdb">2001424</uniqueid>
+  <uniqueid default="false" type="trakt">3823848</uniqueid>
+  <uniqueid default="true" type="tvdb">7480262</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>朗决定暂养豆豆。珊想向父亲欧荣说出分手事件，却欲言又止，不得要领。珊为不敢向父母坦白苦恼，时仁出现，仁见朗一本正经，逗朗，朗感气结。朗觉仁只顾赚钱，不理动物死活，仁有口难言。朗在街上，见珊一家人正前往珊新屋探访，连忙通知珊作好准备，珊请求华与硕一起帮手度过困局，最后珊向荣坦白道出二人已分手，荣原谅珊。硕旧上司康有意拙合女儿小敏和硕一起，硕不以为意，反而好友朱铁男感兴趣，另一方面，华终被Ivy抛弃，硕本修理好珊钟爱的音乐盒，后见华送一新音乐盒给珊，以为与珊无望。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1080</height>
+        <durationinseconds>1362</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 宠物情缘 Ep01 2016 05 04_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

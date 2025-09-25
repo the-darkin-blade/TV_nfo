@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:08:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>婴(上)</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>金宵大厦</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>7358412</id>
+  <uniqueid default="false" type="tmdb">1942165</uniqueid>
+  <uniqueid default="false" type="trakt">3709306</uniqueid>
+  <uniqueid default="true" type="tvdb">7358412</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>阿萧伤愈复工，在金宵舞厅撞见宾馆老板Yuki，向她探问有关舞厅的故事。阿萧再次梦见与Alex容貌相同的女子，并随梦到经常推着密封婴儿车的何太单位……何太在健康院遇到新朋友徐太，并自荐当其儿子的保母。徐太跟丈夫及奶奶对育儿有分歧，得何太好言开解，徐太感激。阿萧发现黑猫紧盯何太的单位，单位内还传出斩物件声，顿感怪异。何太对徐家照顾周道，徐太见家人对她信任有加，渐感不是味儿，还整日心绪不宁，怪事连生……</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1303</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Barrack.O'karma.E03.20190918.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Barrack O'karma 20190918 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>金宵大厦</showtitle>
+  <season>1</season>
+  <episode>918</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1303</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Barrack.O'karma.E03.20190918.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="918" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>为息爱怒　提出结婚</title>
+  <originaltitle>Episode 31</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id>1623741</id>
+  <uniqueid default="false" type="tmdb">1992313</uniqueid>
+  <uniqueid default="false" type="trakt">1576579</uniqueid>
+  <uniqueid default="true" type="tvdb">1623741</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>珠美哭着收拾行李回菲律宾，来富以为自己太忙忽略了珠美，竟决定要与珠美结婚。国权再开地下赌场，欢畅与一众富豪与来富对赌，欢畅一路领先，到最后才刻意将所赢之筹码输回平手离场。原来欢畅之目的是令富豪们知道来富懂记牌之事，不再到国权之赌场。来富与珠美家人谈婚礼之事，竟提出要青云带欢畅前往。欢畅大喜过望欣然赴会，但席上来富却骂他假仁假义，更要与欢畅正式脱离关系，欢畅失望离去。来富向正初说出珠美要度半年蜜月，正初竟在来富结婚前一刻向他说出珠美是因收了自己的钱才与来富一起，而来富竟全盘相信对珠美失望。欢畅偷偷参与来富的婚礼，却看到来富在最后一刻悔婚。珠美将伤心发泄在家务上，最终在一木开解下终在父亲怀中痛哭。汉昌病情恶化，欢畅与福荣前往探望，汉昌再次要求欢畅回奥力斯赌场助子维。欢畅觉汉昌对自己有恩，向小茵请辞，小茵不阻止但要欢畅答应担任顾问，欢畅爽快答应。欢畅希望青云与他一起到菲律宾，但青云因未能作出抉择而婉拒，更在欢畅出发当天到澳门散心。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2691</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep31.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

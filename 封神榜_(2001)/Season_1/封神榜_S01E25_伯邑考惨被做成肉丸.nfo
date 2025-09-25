@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>伯邑考惨被做成肉丸</title>
+  <originaltitle>Episode 25</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>4418950</id>
+  <uniqueid default="false" type="tmdb">2025543</uniqueid>
+  <uniqueid default="false" type="trakt">1484661</uniqueid>
+  <uniqueid default="true" type="tvdb">4418950</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>十娘耐心等待子牙直鈎钓到鱼，而哪吒却没有耐性，仍将希望记托于四不像身上，十娘深知哪吒心意，因此软硬兼施，希望哪吒对四不像死心。而妲己却对邑考借故亲近，希望能够以自己美貌而令邑考心动，可惜邑考乃君子一名，对妲已一切引诱均不为所动，妲己一怒之下，要纣王将邑考剁成肉酱，做成肉丸十二颗，姬昌在狱中算得邑考遇害，悲痛莫名、妲己更逼姬昌吃下十二颗肉丸，姬昌以大事为重忍痛吃下用邑考肉所做成之肉丸，再愤而离开朝歌，李靖担心姬昌安危，冒死护送姬昌回西岐，两人到达西岐，民众夹道欢迎，姬昌突感心口闭塞，呕吐大作，终于一口气出十二白兔。姬昌明白十二只白兔乃邑考之化身，内心感触不已。
+
+李靖回朝歌途中，路经渭水，与哪吒、十娘相遇，大家百般滋味在心头，而哪吒则非常担心子牙未能助自己回复真身。一日，姬昌被兔子引导至子牙处，两人一见如故，决定一齐伐纣，姬昌封子牙为丞相，此时，子牙亦果然以直鈎钓到鱼表示哪吒回复真身之日不远，众人高兴不已。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1050</width>
+        <height>720</height>
+        <durationinseconds>1485</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>25_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

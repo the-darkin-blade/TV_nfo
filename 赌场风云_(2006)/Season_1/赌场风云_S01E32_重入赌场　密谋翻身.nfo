@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>重入赌场　密谋翻身</title>
+  <originaltitle>Episode 32</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id>1623751</id>
+  <uniqueid default="false" type="tmdb">1992314</uniqueid>
+  <uniqueid default="false" type="trakt">1576580</uniqueid>
+  <uniqueid default="true" type="tvdb">1623751</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在奥力斯的股东大会上，正初意气风发的到场，更声言已是股东之一。来富受正初命令要与欢畅打好关系，邀请欢畅一同吃饭。琦收到消息指拉斯维加斯有一地皮出售，可让奥力斯在美国建赌场大展拳脚，子维急着要买下地皮。青云还对正初、欢畅二人不能下决定，约福荣诉苦。福荣提醒青云要替欢畅庆祝生日，青云不想赴菲要福荣同往。众人为欢畅举行生日会，青云却显得与欢畅生疏不少。青云欲避开欢畅，但欢畅却送上颈炼给青云，以补偿自己不能陪伴左右的过失，青云愈加内疚。欢畅送青云回珠美家时被正初看见，正初妒忌得在欢畅走后立即拥吻青云，更与她共渡一夜。正初更私下约欢畅到酒店，青云得知后逃入洗手间暂避。正初要欢畅放弃青云，欢畅以为是正初一厢情愿，却惊见青云衣衫不整，青云羞愧得夺门而逃。欢畅向福荣诉苦，福荣坦言说出是他的主意，欢畅大发脾气赶走福荣。福荣知错却无处发泄，只好找小茵陪伴，两人因此感情大进。正初找欢畅，因青云不知去向，欢畅决定让琦独自前往考察地皮。欢畅在澳门找到青云，见她因压力又再沉迷在赌博上。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2690</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep32.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿四被迫留任，区舒云情绪激烈爆发</title>
+  <originaltitle>阿四被迫留任，区舒云情绪激烈爆发</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>4938198</id>
+  <uniqueid default="false" type="tmdb">2728562</uniqueid>
+  <uniqueid default="false" type="trakt">1306202</uniqueid>
+  <uniqueid default="true" type="tvdb">4938198</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>秦少白与李重甲二人之间既诚恳，又试探，刻意未提他们共同的熟人李玉堂父子，只谈形势和见解。李重甲表现得很务实，很慎重，同情革命，但不会贸然参加。二人谈得不错，临走时互赠了信物（当时风尚）。李玉堂和秦少白秘密见面，商议能否用阿四做总办。李玉堂十分不忍心把阿四和阿纯拖进这个复杂的漩涡，而且阿四的身份始终是个定时炸弹。秦少白坚持认为要想让制造局真正为革命所用，阿四是唯一合适的人选，不排除有朝一日把阿四引上革命道路，培养成真正的总办。无论如何，秦少白认为阿四和区舒云这“小两口”都不能走。李玉堂知道情势所迫，必须先留住阿四，可区舒云怎么办？秦少白表示他来劝区舒云。李玉堂忽然告诉阿四不能走了，他要举荐阿四当制造局总办，阿四要演下去。阿四坚决不同意。李玉堂变脸了，说你要还想再见阿纯，就得好好当总办！阿四虽然委屈，还是接受了。阿四带区舒云与秦少白见面。秦少白对区舒云陈述利害，要区舒云留在李家与阿四做假夫妻，帮阿四成为总办，甚至成为革命者。区舒云坚决不干，此时官兵巡逻，二人匆匆别离。区舒云回到李家后，阿四为阿纯心痛，区舒云为秦少白心痛，两人犹如困兽，火药桶般一触即发。区舒云一反常态，不再是那个乖巧聪明的媳妇了。人前人后都与阿四横眉冷对，摔锅打碗。被抢白、被欺负、被捉弄，甚至当众要求阿四为其写休书。阿四心里明白，就一个“忍”字。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep20_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 37 集</title>
+  <originaltitle>Episode 37</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>37</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486691</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小玉与纳兰东前去问杜意浓李益真的心甘情愿与靖澜成亲吗？杜意浓告诉小玉李益拿了紫钗做为聘礼给靖澜，纳兰东不相信李益会这么做认为还是卢杞从中作梗。杜意浓更让小玉穿上郡主服闯卢府问个清楚。小玉明明放不下纳兰东可现在成了哥哥，小玉打算明日去卢府问个清楚，慈瑞担心小玉让她找个人陪着去。隔日纳兰东穿了皇袍陪着小玉前往卢府。进了卢府小玉表示今日前来一为争夫，二为索回紫钗。卢杞，李益，靖澜端坐一起。卢札表示李益与靖澜两情相悦。纳兰东见李益一直不吱声便让李益说个清楚。李益表示卢杞所说俱都属实。靖澜也同样表示自己听从父亲的安排。卢杞让李益赶紧将紫钗给靖澜带上，李益告诉小玉他典卖紫钗之日便是两人情断之时，若还有什么牵挂自己帮她斩断便是与小玉说从今日起两人恩断意决。小玉看着自己曾喜欢的男人如此告诉李益紫钗归他所有，两人恩断意决，小玉当即晕倒。李益所做所为也并非小玉所想那样，李益心中并未放下小玉，只是为了自己娘亲为了取得卢杞信任，有朝一日一举铲除卢杞。李益知道小玉伤心痛苦一直生病心痛，靖澜假装生气帮着李益支走了跟着李益的王哨儿。李益再去见了小玉后彼此解开了心结，小玉告诉了李益纳兰东是自己的亲哥哥。李益求小玉让自己照顾一生一世，现在什么都不怕，只希望能陪着在小玉身边。说话李益便要将紫钗取回，但这时王哨儿带着人来要带李益回卢府。李益让小玉放心自己定会取回信物。在崇敬寺纳兰东，朱泚等人胁迫韦博文作为李益与小玉的见证人，李益与小玉成亲并将紫钗带到小玉头上，待李夫人来时一帮朋友又帮忙设计李夫人不但喝了小玉敬的茶还给了小玉红包。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1334</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep37.20131024.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="37" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20131024 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>1024</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1334</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep37.20131024.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1024" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

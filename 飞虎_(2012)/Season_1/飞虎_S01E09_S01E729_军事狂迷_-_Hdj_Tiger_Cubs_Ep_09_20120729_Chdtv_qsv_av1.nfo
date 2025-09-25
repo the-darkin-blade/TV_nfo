@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:31:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>军事狂迷</title>
+  <originaltitle>軍事狂迷</originaltitle>
+  <showtitle>飞虎</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>4367650</id>
+  <uniqueid default="false" type="tmdb">866000</uniqueid>
+  <uniqueid default="false" type="trakt">869778</uniqueid>
+  <uniqueid default="true" type="tvdb">4367650</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>卓源与瀚韬设计令卓嬅接受心理治疗但无功而回。卓嬅参与中学同学聚会重遇师妹Kary，Kary为临床心理专家，卓嬅放心接受治疗。Kary与朋友打War Game，竟用真人当活靶，令男友世荣忧虑。卓嬅调查气枪杀人案，向世荣套取改装气枪资料，世荣向Kary透露警方已介入。卓嬅服用Kary处方的药物后精神恍惚且有幻听。Kary邮购真枪零件改装后再找真人当活靶。瀚韬对Kary起疑，Kary向卓嬅及瀚韬下毒手。</plot>
+  <runtime>33</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2004</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Tiger.Cubs.Ep.09.20120729.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Tiger Cubs Ep 09 20120729 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>飞虎</showtitle>
+  <season>1</season>
+  <episode>729</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>33</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2004</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Tiger.Cubs.Ep.09.20120729.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="729" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

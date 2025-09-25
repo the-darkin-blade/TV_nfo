@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:58:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>柳娟重遇暗恋对象</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>爱我请留言</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2299928</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>蔡妍担心翌晨睡过头，便到梳化睡，天送走出来陪她。天送提醒妻子要放松，蔡妍笑指天送那会舍得让女儿独个儿睡，天送认为是时候让悠悠学习一个人睡，并会带悠悠到窝心居让她选购自己的床。
+
+子翔发现初见枱上的热朱古力原封不动，便把它倒掉。卢笙与笑梅想趁爱林睡着，欲把爱林的手机扔掉，却争论由谁扔电话。初见看着两老，明白二人是为爱林好，因为爱林自○九年开始便要在梳化看着电视才得入睡，即使她的手机坏了也不肯换一个新的。初见回想起父亲躺在医院时，在魔术板上写上「回家」两字，父亲最终没能再次回到家去。  为找寄托　亲做曲奇　
+
+爱林在丈夫离世后七天，看见一只蝴蝶停在魔术板上，她相信丈夫回来了，立即用手机把蝴蝶「留住」。初见无法入睡，脑海中总出现日熙的片段，她为了寻找寄托，大清早便开始做曲奇，把外祖父母吵醒。初见到学校门外等悠悠，把星星曲奇送给她，又着她把其余三包送给姚校长及同学。
+
+初见也给同事们送上曲奇，子翔看见曲奇上的彩色玻璃糖心，想照做在朱古力上，家好有信心做出玻璃朱古力，并立即在纸上画出设计图样。  蔡妍在窝心居看见一张公主床，即把床买了给悠悠。
+
+柳娟重遇 暗恋男生
+
+志安到朱古力店订礼物给女友，柳娟看见志安故意躲避，但仍被他认出来，唯有硬着头皮招呼对方，还主动提出给志安优惠价。  志安想赶在空姐女友飞之前把礼物送到机场，否则恐怕二人会分手。柳娟指时间紧逼没可能办到，却抵不住志安的一再请求而答应。志安指柳娟变了，没从前那么凶，柳娟暗喜，她传短讯告知初见，表示重遇两年前她曾追求的男生。
+
+天送代JC把辞职信带回公司，志安知道天送不肯接任JC的职位，担心将来工作不及现在自由。  日熙大醉　Linda怕怕  志锋到日熙家，指日熙昨晚在皇岗醉酒，他与Linda等四人好不容易才把他搬回家，但Linda看见他呕吐大作便立即离开，并表示世间只有初见会照顾烂醉如泥的日熙。志锋又指初见走后，日熙的家大乱，他的人更乱，劝他应好好整理自己，若不能留住初见，也不能忘记她，便应该把她藏在心。
+
+悠悠独个儿睡在公主床，半夜被恶梦惊醒，哭着走到父母房间，再次睡在父母中间。… ...</plot>
+  <runtime>62</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>3723</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>08_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

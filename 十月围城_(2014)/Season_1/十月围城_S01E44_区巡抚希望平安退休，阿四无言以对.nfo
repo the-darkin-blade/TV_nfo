@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>区巡抚希望平安退休，阿四无言以对</title>
+  <originaltitle>区巡抚希望平安退休，阿四无言以对</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>44</episode>
+  <id>4938223</id>
+  <uniqueid default="false" type="tmdb">2728588</uniqueid>
+  <uniqueid default="false" type="trakt">1306764</uniqueid>
+  <uniqueid default="true" type="tvdb">4938223</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>区巡抚吐露心态，自己还有两个月任期，只想平安致仕；我知道你实诚，你就去告诉秦少白他们，熬住这两个月别闹事，阿四心态复杂，无言以对。阿四、李重甲与秦少白讨论弹药方案阿四和李重甲并非起义核心成员，只管提供弹药，起义时间大约定在了正月初六左右。大年初一，阿四和区舒云回娘家拜年，区巡抚说自己找借口取消了所有新军士兵的假期，圈在军营，又暗中下了所有枪支的枪栓。阿四和区舒云傻眼。军营，李重甲看着整箱整箱枪栓被运走。李重甲不禁佩服区巡抚这条老狐狸。李重甲来到一处秘密地方，等在那里的人竟是铁山－－原来铁山根本没离开广州！铁山要李重甲立刻设法让起义发起来。秦少白等革命党人紧急商议，是揭竿而起还是放弃起义？阿四匆匆赶来，说区巡抚约秦少白面谈，希望和平解决僵局秦少白决定暂不起义，先去见区巡抚探听虚实。阿四陪秦少白去区府，负责保障秦少白的安全。区巡抚和秦少白达成了秘密和平协议，被区巡抚关在里间的区舒云听着看着，回想起秦少白上次进区府的情景，恍如隔世。等在外面的阿四见秦少白平安出来，笑了，陪秦少白刚一离开区府，被区巡抚的卫队长叫留，将秦少白当场拿下！卫队长又传巡抚命令紧锁城门，搜查革命党！阿四气疯了！要见区巡抚，被卫队长挡住。阿四傻掉了，怎么办？阿四赶回制造局秘密指挥部报信。李重甲指出当务之急是定方案，火线提出必须起义，党人全部赞成。区巡抚的卫队长向铁山报告捉拿了秦少白，原来他被铁山买通。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2650</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep44_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="44" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

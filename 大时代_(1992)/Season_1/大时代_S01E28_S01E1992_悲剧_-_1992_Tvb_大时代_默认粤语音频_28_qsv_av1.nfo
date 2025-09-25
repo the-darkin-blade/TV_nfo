@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>悲剧</title>
+  <originaltitle>Episode 28</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id>2399111</id>
+  <uniqueid default="false" type="tmdb">1460716</uniqueid>
+  <uniqueid default="false" type="trakt">1435914</uniqueid>
+  <uniqueid default="true" type="tvdb">2399111</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>丁蟹的案子开始了漫长的审判，丁蟹始终坚信应该打亲情，打感动牌，极力要证明自己和方家感情亲厚，但这种可笑的辩护只能引来大家的轰笑。全家人给方芳过生日，大家对前途充满希望。丁蟹对第二天要和玲姐在庭上对质很伤心。第二天玲姐一直笑对丁蟹可笑的问题，丁蟹觉十分沮丧。轮到小敏出庭作证，丁蟹的律师要丁蟹在堂上说出小敏曾患性病的事来打击小敏。丁蟹虽觉不忍但为了自己还是逼问小敏，让小敏深受伤害。丁蟹也大骂自己的律师缺德在庭上大闹了一番。方家人回到家，大楼内贴满了关于小敏隐私的传单，小敏再也受不了，跳楼身亡。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1398</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.28_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 28 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1398</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.28_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

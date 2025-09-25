@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>铁山控制局势，阿四假结婚</title>
+  <originaltitle>铁山控制局势，阿四假结婚</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>4938184</id>
+  <uniqueid default="false" type="tmdb">2728545</uniqueid>
+  <uniqueid default="false" type="trakt">1305861</uniqueid>
+  <uniqueid default="true" type="tvdb">4938184</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>铁山向李玉堂表示歉意，广东巡抚区肇新带头夸奖铁山保护人才，铁山向区肇新问起秦少白，他知道秦少白九年前曾在区肇新府中当过先生，铁山要当面说清楚，总督让区肇新解释清楚，区肇新只好把话摊在桌面上，他承认秦少白曾做过女儿区舒云的老师，但并非在府中，区肇新无奈只好找李玉堂帮忙，他自称李重光和区舒云已经私定终身。区肇新拿出结婚证书给铁山看，翻译官当面读出来，李玉堂很意外，区肇新解释女儿去中国日报找李重光。铁山质问阿四是否在撒谎，李玉堂以他私定终身打起阿四，阿四趁机逃走，总督从中说和，还做主指婚，铁山还要亲自证婚。阿四回家后胆颤心惊，他希望李玉堂能放了自己。李老太太醒来后要见孙子，李玉堂用钱来威胁阿四，阿四只好过去，李玉堂让小丁紧盯阿四。阿四和李老太太玩牌，她知道巡抚千金下嫁的消息后非常意外，李玉堂和区肇新屋里谈话，他清楚新郎原本应该是李重甲，李玉堂难以从命，他想换成李重甲，区肇新说出他的担心，他也是在救李玉堂，同时也在救自己，区肇新看出铁山的真正用心是想控制广州新军，他清楚铁山的胃口最少是三百万两银元。李玉堂不想和政界沾上，区肇新早就明白钱权难分的道理，他的话让李玉堂彻底明白了铁山的险恶用心，区肇新知道李玉堂和革命党之间的往来，他可以睁一只眼闭一只眼，他们结亲后可以照样办起华南制造局，之后有赚不完的钱。大太太知道提亲的不是儿子后很伤心，李重甲劝她回屋。李玉堂找李重甲谈话，李重甲没有反抗，他也很无奈，李重甲一直很感激二叔当年的帮忙。区舒云想翻墙逃走时被发现，区肇新安排人把她控制起来，区舒云不想嫁给李重光，区肇新安排人在半个小时内做好防卫工作。李玉堂发誓要替儿子报仇，他让阿四和区舒云假结婚，不会耽误他和阿纯的事情，李玉堂早做好安排。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2651</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep06_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

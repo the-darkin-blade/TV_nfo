@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>巧芝破相　众人吓怕</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>2251801</id>
+  <uniqueid default="false" type="tmdb">569231</uniqueid>
+  <uniqueid default="false" type="trakt">577897</uniqueid>
+  <uniqueid default="true" type="tvdb">2251801</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>巧芝遇车祸面部受创，被送往医院接受治疗。浩然以警察的身分向医生查问巧芝的伤势，从医生口中得知她的手脚只受到轻伤，面部却受到重创；当医生把巧芝受伤的照片让见尽生死的浩然看时，他也看得眉头深锁……众家人探望巧芝，看到她开始苏醒后纷纷好言安慰，但当护士替她更换绷带时，众人看了一眼便纷纷把头别开；永晖在巧芝的床边努力开解她时，却忍不住在她面前呕吐起来……  明轩坚持　免费整容  整容诊所的大股东美诗与两位整容医生明轩及伟信开会，明轩提出会用五年时间替巧芝遂步进行整形手术，所以要求减少工作量；美诗指明轩免费为巧芝进行手术是没有问题，但不应将全副心力放在一位病人身上，而这亦会影响诊所的生意及名声。明轩反驳说巧芝受伤是因为自己，如影响诊所愿意辞职及退股，之后更拂袖而去……虽然巧芝入院，但永晖仍努力整理她的工作桌；这时他听到各经理的冷言冷语，竟忍不住指责各人为何要针对巧芝，最后却发现各经理的冷言冷语原来是针对着各派系而提出……因为伯驹仍昏迷在医院，俊邦与文礼在开会时，竟各自提出要当上主席，更分别举出支持他们的有力人士；暂代主席一职的凤卿努力阻止之际，伯驹突然出现。伯驹对众人说出自己早已苏醒，亦清楚两名儿子的所作所为，而这段时间更收集了他们的不法证据。放工后在路旁等巴士的永晖，发现伯驹竟然出现；伯驹带永晖到半山漫步，向自己为早前在医院把永晖赶走之事道歉。伯驹亦说得悉永晖已交出辞职信，要求他收回决定，但永晖坦言辞职之事是为了能让自己全心照顾巧芝……永晖到整容诊所探病时刚巧遇上浩然，他看到浩然对巧芝照顾周到，忍不住向他出言挑衅。晚上巧芝悄悄起床到镜前除下纱布；伟信准备离开医院约会美诗之时，却突然受到巧芝的袭击……  伯驹努力　提拔永晖  众医生商量巧芝夜袭伟信一事，认为破相之事令她受到严重打击，决定暂缓替她进行第二次手术。回家休养的巧芝，为了让自己变身，竟特意叫外卖……众人发现巧芝想强吻送外卖的夥计，只得急忙阻止她。浩然的女友绰雅发现他过于沉迷工作，为了要争取他的关心，竟然故弄玄虚扮作有人追求自己。永晖主动回家煮饭给姊姊赔罪，两人因此和好；伯驹带永晖与众富豪见面，知道永晖真正身分的凤卿暗自不满。另一方面，咏嘉为了不让弟弟有机会与伯驹相认，特意将昔日与伯驹有关的东西尽数销毁……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E09.20180521.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Fly With Me 20180521 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>521</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E09.20180521.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="521" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

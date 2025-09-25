@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>转运</title>
+  <originaltitle>Episode 32</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id>2399151</id>
+  <uniqueid default="false" type="tmdb">1460720</uniqueid>
+  <uniqueid default="false" type="trakt">1435926</uniqueid>
+  <uniqueid default="true" type="tvdb">2399151</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>丁蟹去看玲姐，玲姐怕丁蟹去伤害展博，事事迁就他，向他赔笑脸。过后一个人偷偷的哭。丁蟹开始努力学习英文，还教人打拳。展博继续输钱，他决定卖掉所有的一切，压最后一把。丁氏兄弟忙着公司上市的事，丁蟹想去帮儿子。一次，丁蟹和儿子们去马场，丁蟹在一个二世祖的怂恿下，花10块钱买了匹冷马，谁知却爆冷胜出。丁蟹一旺再旺，买什么赢什么。同时，台湾那边，展博压上全部财产，开始有了灵感，也是买什么赚什么，展博在股市赚了一百多万。他高兴的去和阮梅还有纪文去庆祝。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1564</width>
+        <height>1078</height>
+        <durationinseconds>1403</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.32_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 32 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1564</width>
+        <height>1078</height>
+        <durationinseconds>1403</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.32_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

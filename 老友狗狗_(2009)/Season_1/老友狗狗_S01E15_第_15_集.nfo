@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 15 集</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>老友狗狗</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195985</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>嘉汶回家向伟威再次查问生母的身分，未料伟威竟大发脾气，胡混过去并警告嘉汶勿再提及生母，最后更将嘉汶骂得哭着离去。原来大强早已来到伟威家，欲取回毒品，伟威才出此下策将嘉汶赶走，以免大强伤害她。
+
+伟威未能找到嘉汶，遂往找用恭，伟威否认嘉汶是他和蕙娟的女儿，用恭终决定把这件事交由村公所让众村民评理。  真相大白　父女和好  用恭等人把找到的线索重组，成为嘉汶身世的故事，听得蕙娟和伟威一头雾水，蕙娟当着众村民坚决否认嘉汶是她所生，嘉汶感到伤心。用发以代村长的身分，利用「浸猪笼」大刑迫使蕙娟把真相道出。
+
+当年，蕙娟和嘉汶的生母情同姊妹，而嘉汶的生母和风流成性的伟威一见钟情，她诞下嘉汶不久后便离世，蕙娟眼看好友并无留下纪念品予嘉汶，遂把自己和她的信物包裹嘉汶交给伟威，才酿成今次的误会。嘉汶得悉生母已逝，伟威父兼母职养育自己多年，感动得拥着父亲。  嘉汶失望　怒斥伟威  伟威为了令嘉汶得到幸福，决定迷晕她，又使计令喝下催情药的天佑误会嘉汶出意外，成功将两人锁在铁皮屋中。俊升往找用发，欲套出用恭的过去，却发现用发的行为怪异，终发现他的水内含催情药，并得悉是由天佑转赠。  伟威再次来到铁皮屋，衣衫不整的嘉汶向父亲哭诉，伟威把自己设局一事冲口而出，俊升道出他早已洞悉一切。幸得俊升帮助，天佑和嘉汶才不致中计，嘉汶痛斥伟威的行为，他却未能解释一片苦心背后的原因，使嘉汶失望离开。  天娥获聘　诊所杂工  用恭向众人邀功时，俊升取出一张从用发家取得的照片，证明他在十八岁时曾往召妓，羡如感诧异。众人为用恭开脱，反而把过程描述得更细致，把用恭气坏，谁知羡如竟以兽医的角度，把事情淡化，使俊升感到无趣。  羡如的旧客户阿明和天娥来到狗场应征当杂工，经过多次考核，天娥的表现亦不及阿明，羡如看出俊升偏帮阿明，替天娥感到不值，决定聘请天娥在诊所当杂工。天雄向再次向鹦鹉诉苦，它听后飞到狗场重复天雄的说话，说自己是绑匪，使俊升感到可疑，并尝试推断绑架天娥的疑凶。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1876</width>
+        <height>1080</height>
+        <durationinseconds>2652</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>15_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>立勋为报仇闯以铿家</title>
+  <originaltitle>Episode 30</originaltitle>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id>4970033</id>
+  <uniqueid default="false" type="tmdb">1984070</uniqueid>
+  <uniqueid default="false" type="trakt">1307685</uniqueid>
+  <uniqueid default="true" type="tvdb">4970033</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>以铿因为绰姿的事而派杀手向哲行及立勋报复，而慧英为了保护立勋而命丧在杀手的枪下，接二连三的生离死别令立勋大受打击。
+
+哲行因为被袭击而受到了致命伤，在他被进入医院接受抢救时，美贞按照哲行的指示打开了哲行的夹万。美贞发现夹万当中原来一直收藏着哲行当年因为陷害美贞而得到的美金，美贞亦在夹万中发现哲行留下的信。
+
+美贞读信，发现信中充满着哲行对自己所犯之罪的歉疚，哲行希望美贞能够收下这笔赃款，以补偿哲行对美贞的伤害。
+
+以铿狂躁　变本加厉
+
+美贞在医院遇上了敏晖，当敏晖知道哲行并没有使用过那笔钱后亦感惊讶，更同时为当年陷害美贞一事向美贞道歉。
+
+以铿以患上绝症为由避过法律制裁，嘉莉因而失去了重获自由的机会。以铿亦因为绰姿的事而情绪不稳，对嘉莉的暴力更是变本加厉，并誓言不会让嘉莉回复自由。
+
+立勋因为按捺不住自己的怒火，竟然只身闯入以铿的家，更以警枪指吓以铿为慧英报仇。为了自保，以铿努力劝说立勋，最终成功说服他放下手枪。虽然无法亲手替母亲报仇，但立勋亦决心要将以铿绳之于法，以慰慧英的在天之灵。
+
+哲行还击　对付以铿
+
+哲行经医生抢救后成功保住一命。苏醒过来的哲行，立刻在医院暗中与嘉莉联络。原来哲行努力游说嘉莉，建议她杀死以铿换取自由。嘉莉为了夺取以铿的财产，便决定与景昌合谋杀害以铿。
+
+景昌垂涎以铿的财富，便接受了嘉莉所提出的计划，但是景昌和嘉莉的行动却被立勋的手下发现。另一方面，立勋察觉到嘉莉等人的行动，并因此深信这是拘捕以铿的最后机会。
+
+嘉莉背叛　欲杀以铿
+
+嘉莉安排杀手进入以铿的家中杀害他，但杀手却被发难的以铿反击杀害，嘉莉见杀手事败，便抢去杀手的手枪指吓以铿。嘉莉本以为自己终于可以摆脱以铿的控制，但最后以铿却反过来抢去了嘉莉的手枪，并且冷血地向嘉莉开枪。早在门外埋伏的立勋一听见枪声，便带同一众探员冲入屋内，并将以铿拘捕。
+
+为了逃亡　胁持人质
+
+以铿被捕后心知自己难以脱罪，便在警方不为意下强行逃走，以铿更趁机夺取警枪，为了成功逃脱而胁持途人。立勋为了保护人质安全，无计可施下放以铿逃走，只能一直尾随……
+
+以铿引发的事件终顺利解决后，美贞却为了应否原谅哲行而陷入两难之中，立勋见状便将以铿死亡背后的真相告知美贞……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1320</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep30.20140822.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>忠奸人 Hdj Black Heart White Soul 20140822 2Audio Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>822</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1320</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep30.20140822.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="822" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

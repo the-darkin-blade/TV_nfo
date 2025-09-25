@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>石碣村七星聚义</title>
+  <originaltitle>石碣村七星聚义</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026618</uniqueid>
+  <uniqueid default="false" type="trakt">7308105</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宋江雷横押解着刘唐准备离开，刘唐却突然认晁盖做舅舅。宋江碍于晁盖情面放了刘唐。刘唐脱身之后向晁盖说明来意，劝晁盖去劫取生辰纲。宋江借机点破公孙胜唆使别人截取生辰纲的事，劝晁盖莫要毁了一世英名。宋江出了东溪村，听说公孙胜去找过阮氏三雄，此时朱仝前往石碣村。宋江前脚刚走，刘唐却追上了雷横。原来刘唐不忿雷横收受了晁盖的十两银子，定要替晁盖讨回银子，雷横不肯交，两人一言不合打起来。正打的不可开交，智多星吴用赶到，却仍劝不住二人，幸亏晁盖及时寻了过来，这才劝住二人。晁盖偕同吴用、刘唐回到庄上商讨生辰纲一事，却被公孙胜寻上门来，众人所图正是同一件事---截取生辰纲。几番策划之下，吴用决定劝阮氏三雄一同截取生辰纲。众人想要劝说阮氏三雄一起行事，可宋江正前往石碣村，且村中亦有官兵守候。吴用自告奋勇，定要在宋江之前赶到，劝说阮氏三雄入伙。吴用走后，晁盖无意间向公孙胜透露，宋江因不肯说出公孙胜形貌姓名，吃上了官司，被大名府为难。公孙胜便悄然动身，前去石碣村自投罗网。宋江走旱路去往石碣村，却被城门所困，正遇上白日鼠白胜。白胜出卖地道送宋江出城，却在护住宋江口鼻的毛巾上动了手脚，迷晕了宋江。吴用已经来到石碣村，朱仝不认得吴用，便没有盘查。吴用毫无阻拦的见到了立地太岁阮小二，并由阮小二引领去找阮小五、阮小七。原来这阮氏三雄也是一身本领行侠仗义之人，曾因为百姓抱打不平不惜吃罪官府，却被人暗中相助，躲过一劫。只是眼下无人相识空荒废了这一身本领。吴用借机说出晁盖之事，试探阮氏三雄，阮氏三雄愿以命相抵，也不做害晁盖之事。吴用这才说出此行目的---截取生辰纲，还之与民，阮氏三雄拍手称快。公孙胜来到阮家，恰逢晁盖刘唐也及时追到，七人得以相聚。酒过三旬，公孙胜信口说出梦中北斗七星之事，正应了此处七人之说。七人意气相投，便结作异性兄弟，同甘共苦，生死相依。阮氏兄弟为晁盖等人送行，阮氏兄弟察觉，原来晁盖正是替他们打点官府的恩人，晁盖不曾提起此事，只是施恩不图报，阮氏三雄。众人惜别，相约来年生辰纲时，再相聚。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2672</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E02 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

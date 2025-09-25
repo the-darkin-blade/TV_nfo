@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>纣王居然被妲己打入冷宫</title>
+  <originaltitle>Episode 39</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>39</episode>
+  <id>4418965</id>
+  <uniqueid default="false" type="tmdb">2025561</uniqueid>
+  <uniqueid default="false" type="trakt">1484781</uniqueid>
+  <uniqueid default="true" type="tvdb">4418965</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>申公豹请得赤脚大仙相助，居然以一招大山压顶令哪吒大军阵脚大乱，哪吒为求良策，不惜借土行孙之遁地术一用，亲到阴曹地府求阎罗王相助，閰王见妲己所为已达人神共愤地步，决答应哪吒所求让众游魂野鬼听凭哪吒差遣……
+
+妲己知申公豹战败，被迫退兵三百里，怒不可遏，纣王想与子牙议和，妲己表面答应，令纣王大为放心，谁知妲己却胆敢将纣王幽禁于冷宫，令纣王叫天不应，叫地不闻，妲己更即时命令风婆婆、雷神、电母施法，在方圆五百里之地降下暴雪，冰封一切，阻挡哪吒军队推进。莲花在天寒地冻的军营中，染上伤寒，哪吒惟有将她安置在城西一比较暖和之破庙中，让她好好养病，更以辟魔圈保护莲花，以免她受任何邪魔妖道伤害，可是此事却被琵琶得知，设法令莲花离开辟魔圈逼哪吒投降……
+
+西伯侯姬昌因患上急病，在阵中病逝。子牙遵照姬昌遗命，奉二公子姬发接任为西伯侯，继续先父伐纣大业。另边厢，凝香想救纣王离开冷宫，纣王为求逃离冷宫，对凝香所有请求一一答应，可惜凝香之拯救行动失败……</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1048</width>
+        <height>720</height>
+        <durationinseconds>1480</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>39_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="39" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

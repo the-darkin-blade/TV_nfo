@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 8 集</title>
+  <originaltitle>최종화 Part 1</originaltitle>
+  <showtitle>特殊案件专案组TEN</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>4430687</id>
+  <uniqueid default="false" type="tmdb">1003481</uniqueid>
+  <uniqueid default="false" type="trakt">960254</uniqueid>
+  <uniqueid default="true" type="tvdb">4430687</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>7년 전, 전설적 미제 사건이라 불린 테이프 살인 사건. 그 테이프 살인 사건이 또다시 발생한다. 1화의 테이프 살인 사건과는 다른, 분석 결과 모방범죄가 아닌, 오리지널이라 파악되고……. 하지만 여지훈은 공포를 느끼며 '사건을 맡을 수 없다.'는 말만 남기고 잠적해버린다. 여지훈이 극도로 공포를 느끼는 이유는 무엇인가? 그리고 그 해답은 과거에 있다! 서서히 밝혀지는 여지훈의 과거! 7년 전, TEN팀의 과거와 그들 사이에 존재한 인연은 무엇인가!</plot>
+  <runtime>68</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>OCN</studio>
+  <studio>Studio Dragon</studio>
+  <dateadded>2025-09-15 20:28:51</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>856</width>
+        <height>480</height>
+        <durationinseconds>4112</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E08.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

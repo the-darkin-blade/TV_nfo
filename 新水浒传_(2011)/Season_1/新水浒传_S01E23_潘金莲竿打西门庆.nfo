@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>潘金莲竿打西门庆</title>
+  <originaltitle>潘金莲竿打西门庆</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026640</uniqueid>
+  <uniqueid default="false" type="trakt">7308126</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>武松披红挂彩在阳谷县游街，百姓欢呼英雄。街上有一卖炊饼的矮子武大郎坚称武松是自己的同胞弟弟被人嘲笑。不料，武松见到武大郎倒头便拜连称哥哥，武大郎见到分别已久的弟弟也非常激动，整街百姓都惊呆了。武松不胜欢喜，接过哥哥的炊饼摊子，两人一起回家。武大见武松瘦了，又见到百姓对他的拥戴，心中又疼又喜，武松在哥哥包含深情的话语中感受到久违的骨肉温情。武大将武松带回家，潘金莲见到铁塔一般的打虎英雄竟然是武大的亲兄弟，惊得呆了，不由万分热情起来。武松见到大哥似乎又变成小孩子，兴致勃勃的对他讲述自己打虎的经过。武大笑眯眯的看着他也像两人小时候。潘金莲出来招呼吃饭，武大让武松向潘金莲显示自己超凡武艺，武松在院中如腾空蛟龙，英姿勃发，潘金莲看的呆了。街坊四邻见到武松，不由对武大另眼相看，王婆找潘金莲打听，潘金莲不假颜色。王婆愤愤告诉潘金莲：武松根本不会留在她家。潘金莲听闻这消息，心中不快。果然晚饭间武松便提出知县相公看中，要他去衙门住，武大欣喜武松得到重用。潘金莲却出声挽留，她巧言善辩，举出种种缘由来，武松终于答应在家中长住。潘金莲欢喜无限。左邻右舍见武松住下，风言风语四散。这日潘金莲在屋上开窗，失手将支窗的支杆掉了下去，打了一人的头，那人一看潘金莲的相貌顿时入了迷。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1076</height>
+        <durationinseconds>2648</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E23 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

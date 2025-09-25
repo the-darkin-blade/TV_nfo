@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 12 集</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486666</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>河西商人因为和大唐人在用马匹交换布匹时觉得受了欺骗结果出手杀死大唐人。杨炎在上朝时提出取消互市，纳兰东赶紧提出是因为双方因为相互不信任才会用老马劣布交易。汾阳王郭子仪立刻进谏不可取消互市，大唐需要战马，虽然不太理想但还有战马可用，如果取消互市大唐连战马都没有。郭子仪更是愿意拿出一年俸禄购买上等面匹与河西交易好马。杨炎提出让纳兰东采购上等布匹。　　纳兰东请小玉及靖澜吃饭，靖澜告诉纳兰东如果要采购布匹到潼关一定会有所收购。本来还约了韦博文来，但韦博文因杀人的河西商人被人劫狱相救不能前来。李益回到家中，果然和小玉的婚事遇到了父母的阻碍，李父虽然很欣赏小玉但还是不同意李益娶小玉，如果小玉确实不错的话愿让李益娶其为妾。李益父母看上了靖澜。小玉知道了李益父母要娶靖澜的事，李益让博文带信给小玉告诉她自己此情不病只是母命难违现在还没有什么好的办法。小玉，靖澜，莫玥在想着有什么好的办法让李，卢两家不再谈论婚事时浣纱想到了一个办法，让靖澜学着不像一个正经女人。李父李母带着李益到卢家时看到靖澜的表现果然是暗自摇头。李母单独请来了小玉，李母的意思是李益一直被杨炎打压到现在还没有一官半职，如果小玉能帮李益谋到一官半职自己也许会考虑让李益娶她。小玉一听李母将两人的婚事当成买卖便要离开，李母喊住小玉表示为自己所爱的人奔波是理所当然的，除非她不是真心为李益着想。小玉答应了李母。小玉求了杜意浓帮忙，不过即使是杜意浓杨炎也没答应。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep12.20130919.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20130919 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>919</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep12.20130919.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="919" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

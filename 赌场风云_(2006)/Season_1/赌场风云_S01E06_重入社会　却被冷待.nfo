@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>重入社会　却被冷待</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>1623491</id>
+  <uniqueid default="false" type="tmdb">1992279</uniqueid>
+  <uniqueid default="false" type="trakt">1576514</uniqueid>
+  <uniqueid default="true" type="tvdb">1623491</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>青云安排来富到酒楼见工，来富不被重视之余，更无意中拆穿了部长出千之事。部长欲出气要与他对赌，来富凭惊人记忆力大胜，却因此惹来部长向青云投诉。青云不知就里大骂了来富，令他又离家出走。欢畅终在天桥底觅得在露宿的来富，欢畅用尽办法仍没法令来富振作。欢畅把来富的杂物丢弃发泄时，却发现小时候送给亲弟的啤牌。欢畅赶回天桥底欲与来富相认，却发现迟来一步。青云陪欢畅四出寻找弟，替他打气。另一边厢，青云的好友婉莹因避赌债暂住青云家，但她赌瘾发作却用计引得青云陪她到澳门赌博。虽欢畅四处寻觅，但来富其实只露宿在大厦后巷，兄弟两人始终缘悭一面。正初成功觅回来富，更带他重新打扮。来富与正初倾谈后，觉得正初是唯一明白自己的人，对他十分信任。欢畅与弟见面，向他打听小时候的记忆，但可惜来富只对被拐后的惨痛经历有所印象，令欢畅心痛不已。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1076</height>
+        <durationinseconds>2692</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep06.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

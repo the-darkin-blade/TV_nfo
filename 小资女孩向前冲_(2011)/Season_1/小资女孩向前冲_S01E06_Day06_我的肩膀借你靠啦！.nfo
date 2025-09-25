@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>Day06 我的肩膀借你靠啦！</title>
+  <originaltitle>Day06 我的肩膀借你靠啦！</originaltitle>
+  <showtitle>小资女孩向前冲</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>4202994</id>
+  <uniqueid default="false" type="tmdb">873156</uniqueid>
+  <uniqueid default="false" type="trakt">878072</uniqueid>
+  <uniqueid default="true" type="tvdb">4202994</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>为了杏仁卖掉名表的子奇，拿着支票来到杏仁老家；难得看到杏仁有男性朋友来访，沈妈妈好客地将子奇留下来吃饭，并跟子奇聊得相当投缘，子奇在杏仁老家感受到不曾拥有过的那份【家的温暖】！当失去了才了解存在的重要，史特龙少了杏仁这个帮手就像少了左右手，虽然在杏仁辞呈上写下予以慰留，但是公司公布栏上依然发布了杏仁辞职获准的人事命令，到底是谁从中搞鬼？台风夜里大风大雨，看到生活在漏水老屋里却依然乐观的沈妈妈，子奇终于体会到杏仁对【梦梦屋】的渴望；屋顶破了一个大洞，子奇不顾生命危险爬上屋顶抢救，却不小心摔落受伤，杏仁只好答应沈妈妈留子奇过夜，二人会因此发展出什么样的情谊？从法国回来的承风，依约来到京师百货，要和杏仁洽谈设柜事宜，将会如何逆转杏仁未来的命运呢？</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TTV Main Channel</studio>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2727</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj Office Girls Ep06 Hdtv 1080I H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

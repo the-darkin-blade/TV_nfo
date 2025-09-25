@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 16 集</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>老友狗狗</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195986</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>用恭不满用发把他过去的事告知俊升，决定惩罚他，用发大感无助。谁知翌日醒来，有人已整理好用发的衣服，使他惊喜不已。  伟威向嘉汶示好，却换来被一番痛斥，他一时激动踢翻路上的垃圾箱，竟因此被天佑的下属带回警局去。天佑和雅文以「国际综合性有组织罪案」扣留伟威问话，迫他道出踢垃圾箱的行为背后的含意，使他大惑不解。  天娥重拾　被绑感觉  天娥来到狗场工作，应钧和伟仔送来天娥的惯用物资，发现她竟然为了接近俊升而答应在杂物房居住，遂以当年他和太太的恋爱史激励天娥继续追求俊升。天雄眼看天娥住的地方闷热，主动提出为她设置空调系统，应钧为天雄终有一番作为而感到安慰。  俊升无意中撞破天雄和鹦鹉对话，却不以为然，其后天雄则向俊升展示天娥的优点，希望俊升可以给予机会，接受天娥。天雄和伟仔送来天娥的补给品，她往领取时却发现货车的质感似曾相识，并忆起被绑架的情景，继而失控跑回狗场。  一再被捕　伟威诧异　　  俊升往安慰天娥，凭她的肯定，俊升不禁怀疑天雄是绑匪，使计试探他。俊升请天雄到狗场修理水管时，在窗外吊起一只假鹦鹉，却被路过的用恭目睹一切，俊升向用恭表示自己的想法，并邀请他协助查出真相。 天雄在大雨中寻锁匙，意外发现装赎金的箱子，遂将它取回村公所收藏，因而遇上到村公所避雨的卓玲，两人大谈儿时往事。  伟威被释放，在警署外急不及待抽烟，谁知倒翻了烟盒而弄得一地香烟，天佑等人随即将他拘捕，使伟威大感无奈，在旁观看的大强，更是心急如焚。  合力查出　绑架真相  用恭向天雄求助，希望他可以协助绑架Bingo，以让自己英雄救狗，令俊升改观并接受他和羡如交往，天雄怯于他的气势，被迫就范。天雄来到狗场会合用恭时，得知计画有变，用恭指担心Bingo反抗时会伤及无辜，遂决定改为绑架羡如。
+
+天雄准备充足，更仿照当日绑架天娥的情况教授用恭如何增加逼真感，终于令用恭按捺不住，把真正的用意道出，并带天雄往见俊升。天雄答应自首，天娥却不忍起诉兄长。天娥再次向俊升示爱，使他感苦恼；蕙娟则请求俊升为她寻回亲儿。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1080</height>
+        <durationinseconds>2656</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>16_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

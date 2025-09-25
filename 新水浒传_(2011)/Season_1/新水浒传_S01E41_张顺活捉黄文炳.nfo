@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>张顺活捉黄文炳</title>
+  <originaltitle>张顺活捉黄文炳</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>41</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026658</uniqueid>
+  <uniqueid default="false" type="trakt">7308144</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>两路好汉出重围，在白龙庙聚义。宋江心头之恨难消，与众人商定杀回江州城，一举拿下奸诈狡猾的黄文炳。薛永和侯健说，黄文炳的哥哥黄文烨是个仁厚之士，二人不和，分开两院住，却在一条巷内出入。于是，宋江设下妙计，叫薛永和侯健潜入黄家作内应，并在黄家院子树一杆白旗作标记，以防伤及无辜。黄文烨因弟弟为非作歹，十分痛恨，早想大义灭亲，为地方除害。午夜，他们在黄文烨家中放了一把火，骗开黄文炳家门，却独独不见黄文炳的踪影，原来黄文炳住在军中。江对岸火光冲天，黄文炳不明就里，赶紧到江边向船家打听。这个船家正是张顺，他说是黄通判家里走水失火，自己正是专门来接人的。黄文炳一听赶紧上了船，却被带到了宋江和晁盖面前，死到临头还执迷不悟，被宋江亲手了结。江州好汉们的加入，壮大了梁山队伍。晁盖念救命之恩意欲让贤，可宋江执死不从，只愿坐于次席。众好汉不分长幼，梁山旧部列左，新加入的列右，大致排定了座次。宋江赶制了一面杏黄大旗，上书“替天行道”四个大字，确定了梁山义军的宗旨。由于离家时久，宋江想回家探父，勾起李逵的思母之心，公孙胜也想出去云游。宋江了解李逵性情，与其约法三章，告诫切莫饮酒闹事，还让朱贵陪他一同前去。李逵满口应承，可半途却将朱贵支走，莽撞地闹出一些事来。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2675</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E41 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="41" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

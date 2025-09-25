@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>绰雅盛怒　提出离婚</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>2309561</id>
+  <uniqueid default="false" type="tmdb">569241</uniqueid>
+  <uniqueid default="false" type="trakt">577907</uniqueid>
+  <uniqueid default="true" type="tvdb">2309561</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>绰雅看见丈夫浩然与Janet Bin亲吻，不禁激动得当众指责及掌掴浩然，之后更把结婚戒指除下，高调说出将与他离婚。被妻子误会的浩然，气得欲对付Janet Bin但被下属阻止；想不到这时竟有内务部的警员出现，指浩然因私下追查Janet Bin而触犯纪律，即时把他带走。浩然接受纪律聆讯，众高层指他公器私用利用警力追查Janet Bin，最后浩然更被下令停职接受调查。
+
+失去支持　浩然落难
+
+警界明日之星的浩然，被停职一事被传媒高调追访，成为全城热闻；坊间发现浩然不再是Janet Bin朋友后，纷纷对他态度大变，就连黑帮分子也对浩然说不再怕他。失落不已的浩然回到家中，发现绰雅早已在等候自己；绰雅以为丈夫会向自己道歉，但却遭浩然冷待，不禁气上心头再指责他一番。巧芝回到家中，思前想后发现自己被浩然欺骗感情，不禁伤心得哭成泪人。绰雅气愤离家，独个儿借酒浇愁之际，美诗竟突然出现找她商量密事……众人得知巧芝被欺骗感情，纷纷担心不已。明轩因为无法消除巧芝的伤痛而自责，最终亦忍不住往梁家探望巧芝。梁家众人因巧芝一直将自己反锁在房间内而担心不已，为了能看护巧芝，众人竟通宵打麻将；明轩到访不久，巧芝竟打开房门离家……明轩紧追跑离家的巧芝，原来她离家是为了跑步瘦身，欲重新振作。明轩带巧芝出外，带她见潦倒不已的浩然；看到失去了干探风范的浩然，巧芝不忍责备他，反而浩然竟说出……心情低落的巧芝，又再次找有富倾谈心事……众人为了让巧芝振作，特意让她在麻将上大胜，但私下却要明轩负责出钱；认为自己「情场失意赌场得意」的巧芝，竟偕建康一起到澳门豪赌。在街上闲逛的浩然，突然被人绑架带走；原来这一切均是永晖的安排……
+
+永晖出手　帮助巧芝
+
+永晖看着被打得满身伤痕的浩然，指这是他伤害巧芝的代价；这边厢容家正举行派对，当伯驹问及永晖的去向时，幸得晓琳替永晖解围。秘书把收到向巧之追债的传真交给晓琳，晓琳特意将事情向永晖报告，更请他与巧芝划清界线以免影响公司声誉；梁家门前被淋红油，才得知巧芝欠下赌债。虽然巧芝正准备逃亡，但这时永晖出现，更指将会替巧芝清还赌债……明轩得知巧芝欠债一事，欲提取金钱帮助她，Janet Bin却突然出现将他带到布吉，原来Janet Bin特意为他庆祝生日……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E19.20180605.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Fly With Me 20180605 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>605</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E19.20180605.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="605" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

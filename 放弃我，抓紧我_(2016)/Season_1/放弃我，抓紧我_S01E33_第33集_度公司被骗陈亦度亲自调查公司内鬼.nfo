@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第33集 度公司被骗陈亦度亲自调查公司内鬼</title>
+  <originaltitle>第33集 度公司被骗陈亦度亲自调查公司内鬼</originaltitle>
+  <showtitle>放弃我，抓紧我</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <id>5899015</id>
+  <uniqueid default="false" type="tmdb">1250623</uniqueid>
+  <uniqueid default="false" type="trakt">2448520</uniqueid>
+  <uniqueid default="true" type="tvdb">5899015</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>度公司接到一笔大订单，但因为订的是一批马来西亚风格的婚纱，曹钟认为存在风险，万一对方违约这么一批婚纱在国内会出现销售不出的情况。但在销售员的巧舌如簧之下，梁副总监还是在合约上签下了大名。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2770</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>J2.Stay.With.Me.Ep33.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="33" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

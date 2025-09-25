@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>容慧未死　疑云再现</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>4155078</id>
+  <uniqueid default="false" type="tmdb">1828879</uniqueid>
+  <uniqueid default="false" type="trakt">1489382</uniqueid>
+  <uniqueid default="true" type="tvdb">4155078</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>泽琛与彦博从 DNA 样本中发现原来放火的真凶竟是已死的容慧，所以立即将消息通知小柔。当警方取得搜查令后，小柔立即前住 Red 的住所搜查，除揭穿小花原来就是容慧本人，法证更从其家中找到怀疑是骸骨旁的结他线及染有血迹的玻璃碎片。
+
+Red 与容慧起初不肯承认杀人，但其后 Red 竟肯承认因小花企图勾引他；二人在纠缠间，小花撞伤头部并跌入浴缸中溺毙……
+
+可是，经过化验，在 Red 家中找到的玻璃碎片上的血迹竟属容慧所有，所以彦博肯定案发时容慧亦在现场。
+
+证据确凿，容慧亦无从辩驳，唯有将自己误杀小花的经过和盘托出。华健的助手 Vivian 因涉嫌撞死途人而被警方调查，她致电华健求助……
+
+Vivian 坚称是有其他车辆先将死者撞倒，再反弹到她的车上。经彦博细心分析及观察，以及利用电脑作模拟测试，终被他发现车祸的真相，为 Vivian 洗脱嫌疑。
+
+泽琛与小柔相处日久，越发觉二人性格不合，二人和平分手，回复朋友关系。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E11.20190330.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Forensic Heroes 20190330 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>330</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E11.20190330.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="330" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

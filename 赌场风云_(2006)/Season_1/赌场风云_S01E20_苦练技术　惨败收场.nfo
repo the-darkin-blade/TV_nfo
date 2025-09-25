@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>苦练技术　惨败收场</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>1623631</id>
+  <uniqueid default="false" type="tmdb">1992298</uniqueid>
+  <uniqueid default="false" type="trakt">1576553</uniqueid>
+  <uniqueid default="true" type="tvdb">1623631</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>来富到珠美家与珠美的弟妹玩，藉此练习不让人看穿心意，结果来富的表情连小孩也骗不到。珠美为与维约会刻意打扮，但却发觉维并非只约会她一个。众荷官玩得兴起要珠美在维前重演百家乐小姐的天才表演，更要她做回脱衣一幕，令珠美哭着离开。高名与陈先生约正初饭聚，正初大感讨厌，原来陈欲参加慈善赌王大赛。正初无意中听到丽的一句话，知高名欲离开陈，正初立即投陈之所好，欲因此反击高名。正初回到赌场见到慈善赌局宣传已出，觉维不将自己放在眼内，于是要求维做任何事也要让他过目。正初带来富到街头行骗，要来富练习喜怒不形于色，来富失败更落荒而逃。珠美得来富之助终令维对自己产生兴趣，让他送上晚装邀她参加舞会，来富感不是味儿。来富惊觉珠美是个「大话王」，要珠美教他骗人的方法。青云在国内当义工到医院探望病童，见小童将昏迷的病人画上大花面。青云不忍替病人抹去颜料，赫然发现竟是欢畅。欢畅更奇迹地醒过来，并要求青云助他回菲律宾。来富通知青云已成为正初徒弟，更准备参加慈善赌王大赛，青云不敢向欢畅说出真相。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2680</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep20.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

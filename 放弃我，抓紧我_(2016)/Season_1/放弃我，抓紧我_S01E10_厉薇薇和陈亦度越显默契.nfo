@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>厉薇薇和陈亦度越显默契</title>
+  <originaltitle>厉薇薇和陈亦度越显默契</originaltitle>
+  <showtitle>放弃我，抓紧我</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>5877044</id>
+  <uniqueid default="false" type="tmdb">1247036</uniqueid>
+  <uniqueid default="false" type="trakt">2432525</uniqueid>
+  <uniqueid default="true" type="tvdb">5877044</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>霍骁对欧叶说如果法国秀场的事真的是陈亦度做的，那么厉薇薇现在待在陈亦度身边实在太危险了。他决定立即改签机票马上去法国查清事情的真相。康星来到电脑维修商店询问玲珑公司是不是前段时间拿了一个优盘过来维修？对方告诉他玲珑公司确实有个优盘放在他们这里修，但因为优盘长时间浸水内部已经腐蚀，所以数据根本无法修复。康星上了莫凡的车，告诉他优盘已经彻底毁损，莫凡依然不放心，告诉康星虽然在巴黎哥迪亚并没有答应他们的交易，但此事还是不能外传，尤其不能让陈亦度和他手下的人知道。霍骁了解到玲珑秀场失火时秀场当班保安名叫阿尔瓦，但案发后这个保安就辞职了，所以找到这个保安一定可以了解一些内幕。就在霍骁寻找阿尔瓦时，康星也联系到了阿尔瓦，并许以重酬让阿尔瓦做伪证。厉薇薇虽然想好了在礼服上用合欢花图案的刺绣，但她困惑于去何处找一个刺绣高手大帮着完成这一任务。这时一个小姑娘哭着从他们对面走来，问其哭泣的原因姑娘说是大家都嫌她的裙子丑，陈亦度温情地用油彩为姑娘画出了漂亮的裙子，薇薇在一边捕捉了这温暖的一幕，将其画了出来。节目组借宿的两处民宿的主人是一个胖大婶和瘦大叔，俩人是远近闻名的欢喜冤家，明明互相喜欢却不敢表白，于是不停地打闹斗嘴成了他们生活的主旋律。陈亦度似乎对他们这种感情十分了解，他说既然不能相爱，那么成为敌人就是两个人产生联系的最好办法，似乎这说的就是他自己和厉薇薇的关系。四个年轻人决定撮合胖大婶和瘦大叔，他们骗瘦大叔说胖大婶突然在家里晕了过去，瘦大叔被一吓表白的话全说了出来，一对欢喜冤家终于走到了一起，他们提出想趁四个年轻人在把婚礼给办了，并要求他们帮胖大婶设计婚纱。厉薇薇一直困惑于如何织染出胖大婶家老绣片上合欢花的花样，这天她和陈亦度在外采风被胖大婶家酷似狼的狗一路追着躲到了合欢树上待了一晚上，也正因此她突然想到了解决织染的方法。厉薇薇将这一信息分享给蒂凡尼，要求与她公平竞争一番。厉薇薇和陈亦度在为胖大婶设计礼服过程中默契度越来越高，两人的感情也越来越好，在旁人的眼里他们俨然就是一对热恋的情侣，只是当事的两人不愿承认而已。一下飞机顾不倒时差，霍骁就让欧叶赶紧收拾一下赶去南溪村，他说今天是真人秀的决赛他要去接薇薇，还有一笔账要好好和陈亦度算。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2714</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>J2.Stay.With.Me.Ep10.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

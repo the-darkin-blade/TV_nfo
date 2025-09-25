@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:31:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>飞虎</title>
+  <originaltitle>飛虎</originaltitle>
+  <showtitle>飞虎</showtitle>
+  <sorttitle/>
+  <year>2012</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>7.4</value>
+      <votes>5</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>飞虎队指挥官展瀚韬（马德钟 饰）有“魔鬼教练”之称，他对下属要求异常严格。狙击手庄卓源（梁烈唯 饰）与他配合默契，形成了红白脸组合。两人麾下有两名性格迥异的队员，他们是出身豪门崇尚个人英雄主义的俞学礼（罗仲谦 饰），还有警察世家出身的缺乏自信的邱骏轩（王浩信 饰）。张继光（翟威廉 饰）潜能优越，来飞虎队只冲待遇优厚，文职苏文强（黄智雯 饰）做梦都想成为队内首位女飞虎，却因恐高而犹豫，谢家星（袁伟豪 饰）勇敢但鲁莽，做事从不计后果。督察庄卓嬅（宣萱 饰）是卓源的姐姐，她因未婚夫被歹徒杀害而变成工作狂......</plot>
+  <tagline/>
+  <runtime>90</runtime>
+  <namedseason number="-1">剧后分析</namedseason>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"39209","imdb":"tt6350332","wikidata":"Q7801401","tvdb":"260122"}</episodeguide>
+  <id>260122</id>
+  <imdbid>tt6350332</imdbid>
+  <tmdbid>39209</tmdbid>
+  <uniqueid default="false" type="tmdb">39209</uniqueid>
+  <uniqueid default="false" type="imdb">tt6350332</uniqueid>
+  <uniqueid default="false" type="wikidata">Q7801401</uniqueid>
+  <uniqueid default="true" type="tvdb">260122</uniqueid>
+  <premiered>2012-06-24</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <genre>Action</genre>
+  <genre>Crime</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <actor>
+    <name>马德钟</name>
+    <role>Chin Hon-to</role>
+    <profile>https://www.themoviedb.org/person/227805</profile>
+    <tmdbid>227805</tmdbid>
+  </actor>
+  <actor>
+    <name>钟嘉欣</name>
+    <role>Chung Wai-yan</role>
+    <profile>https://www.themoviedb.org/person/146654</profile>
+    <tmdbid>146654</tmdbid>
+  </actor>
+  <actor>
+    <name>梁烈唯</name>
+    <role>Chong Chuk-yuen</role>
+    <profile>https://www.themoviedb.org/person/1143685</profile>
+    <tmdbid>1143685</tmdbid>
+  </actor>
+  <actor>
+    <name>罗子溢</name>
+    <role>Yu Hok-lai</role>
+    <profile>https://www.themoviedb.org/person/237032</profile>
+    <tmdbid>237032</tmdbid>
+  </actor>
+  <actor>
+    <name>黄智雯</name>
+    <role>So Man-keung</role>
+    <profile>https://www.themoviedb.org/person/1255464</profile>
+    <tmdbid>1255464</tmdbid>
+  </actor>
+  <actor>
+    <name>苟芸慧</name>
+    <role>Ting Wai-wai</role>
+    <profile>https://www.themoviedb.org/person/1173599</profile>
+    <tmdbid>1173599</tmdbid>
+  </actor>
+  <actor>
+    <name>胡定欣</name>
+    <role>Kam Sau-kei</role>
+    <profile>https://www.themoviedb.org/person/1234856</profile>
+    <tmdbid>1234856</tmdbid>
+  </actor>
+  <actor>
+    <name>袁伟豪</name>
+    <role>Tse Kar-sing</role>
+    <profile>https://www.themoviedb.org/person/1615007</profile>
+    <tmdbid>1615007</tmdbid>
+  </actor>
+  <actor>
+    <name>王君馨</name>
+    <role>Shu Zi Lai / "Larine"</role>
+    <profile>https://www.themoviedb.org/person/1255467</profile>
+    <tmdbid>1255467</tmdbid>
+  </actor>
+  <actor>
+    <name>胡枫</name>
+    <role>Chin Chung-kei</role>
+    <profile>https://www.themoviedb.org/person/102883</profile>
+    <tmdbid>102883</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

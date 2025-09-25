@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>皇后不敌妲己而失去双目</title>
+  <originaltitle>Episode 37</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>37</episode>
+  <id>4418963</id>
+  <uniqueid default="false" type="tmdb">2025558</uniqueid>
+  <uniqueid default="false" type="trakt">1484753</uniqueid>
+  <uniqueid default="true" type="tvdb">4418963</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李靖因自责未尽父亲职责以致家无宁日而想在列祖列宗前自刎之际，幸被十娘哪吒劝服，三人更合力打败申公豹而顺利逃离朝歌到西岐与子牙大军会合，十娘中毒日深，子牙为她把脉，知十娘命不久矣！心感可惜，反之十娘乐观面对。
+
+飞虎决定离开西岐逃难到朝歌，始终骨肉情深，飞虎本想带黄颜同行，但唯一条件是要黄颜签下离书，从此与杨戬一刀两段。黄颜不允，惟有忍痛告别爹娘。子牙安排哪吒大军出征。临行前，要哪吒、金吒、木吒向十娘夫妇下跪拜别，彼此难舍难离。而皇宫内，皇后与妲己展开连场斗争，令纣王烦恼不已，而妲己亦设法除灭皇后，由于皇后知云中子素来以斩妖除魔为己任，故私密去函云中子，求他到朝歌相助。可惜云中子半路遇见由琵琶扮成的孕妇临盆，云中子命两徒弟助为接生，不幸中了琵琵圈套惨死琵琶手下，琵琶顺水推舟扮成云中子行刺纣王，令申公豹捡得皇后致申公豹之密令，妲己一口咬定皇后心怀不轨，并施以严刑逼供，令皇后自剜双目以示清白，纣王得知，心痛不已，并对妲己严责一番！</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1048</width>
+        <height>720</height>
+        <durationinseconds>1403</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>37_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="37" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

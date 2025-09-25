@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>丁蟹出狱</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>2398931</id>
+  <uniqueid default="false" type="tmdb">1460695</uniqueid>
+  <uniqueid default="false" type="trakt">1435881</uniqueid>
+  <uniqueid default="true" type="tvdb">2398931</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>丁益蟹把方婷带到他们兄弟开的日本料理店，企图侵犯她。 丁孝蟹出现，救走婷婷。婷婷落下一份作业在孝蟹那，孝蟹给她送回。两人渐生情愫。丁蟹在台湾即将出狱，但由于在狱中和人打架，又被多关了一个月。一出狱，丁氏兄弟就来接他，在台湾给他买好房子供他住。由于丁蟹在香港是通缉犯，不能回香港，他为一家人不能住在一起团聚耿耿于怀。丁蟹等儿子回香港，就把房子卖掉，决定去找龙成邦报仇。婷婷去看何贱，遇到丁氏兄弟。孝蟹回头去看婷婷，两人感情加温。展博和龙纪文去医院看阮，龙纪文买了很多礼物给阮梅，展博骗阮梅自己发了财。龙纪文在医院碰到以前的男朋友，对着别人破口大骂，要他还骗她的一百万。展博这才知道龙纪文是龙成邦的女儿。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1351</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.10_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 10 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1351</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.10_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

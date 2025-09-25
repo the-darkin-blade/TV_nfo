@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>众人以为莲花对戬有意</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>4418920</id>
+  <uniqueid default="false" type="tmdb">2025517</uniqueid>
+  <uniqueid default="false" type="trakt">1484567</uniqueid>
+  <uniqueid default="true" type="tvdb">4418920</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>哪吒、杨戬、雷震子与众书友化敌为友，并且结伴到海边嬉戏，谁知，众人无意间开罪了东海龙王，并将龙王爱将水夜叉打伤，龙王三太子前来找杨戬等人算帐，幸得莲花出面调停。三太子对莲花一见钟情，哪吒众人怀疑莲花对杨戬有意，令莲花气结，逼于无奈之下说出与杨戬之真正关系，戬喜出望外。
+
+三太子苦苦痴缠莲花，狂莽态度令莲花极为讨厌，哪吒等人知莲花遭三太子轻薄，联袂找他算帐，可惜俱败于他手下，哪吒众人气愤不已。
+
+十娘到西岐寻子，可惜一直毫无头绪，她本以为五鬼可以相助，谁知屡次不成功，令十娘焦急不已！十娘到处打探哪吒下落，在女娲庙巧遇前来问卜之杨戬，十娘有感戬一片孝心，遂令戬凡事随心所愿，同时，并得知戬父不认子，决出头帮戬解决问题，在十娘一番诚意打动之下，戬终能与生父相认，一家人生活在一起。龙王三太子对莲花一片痴心，甚至找上书斋门，令众人害怕不已，哪吒为书友出头，决与三太子展开一场生死大战。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1056</width>
+        <height>716</height>
+        <durationinseconds>1396</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>04_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

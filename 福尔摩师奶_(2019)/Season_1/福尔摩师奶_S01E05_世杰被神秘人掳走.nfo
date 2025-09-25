@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>世杰被神秘人掳走</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>福尔摩师奶</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1727087</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>一夫将祖迪房间布置得典雅高贵，并租下「香庐」一室方便照应，被妹娣再三留难。一夫为妹娣烫衣裳，勾起二人往事。祖迪从妓女小木兰的丝巾寻得重要线索，且看中热衷查案的德英当副手。晓尧与游池在街上遇到醉酒的熊财，仗义送他到码头赶船，遇罗拔与码头帮会头目王烈起冲突。妹娣儿子华世杰朗诵比赛后突然被掳走，妹娣独自追寻至义庄……百川造访「香庐」，祖迪顺道打听菲腊下落。一夫与祖迪夜探码头追查鸦片下落，发现菲腊行踪……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2635</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>TVBOXNOW 福爾摩師奶 EP05_H265.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 32 集</title>
+  <originaltitle>Episode 32</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486686</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小玉知道纳兰东还在关心自己，问纳兰东到底是什么原因让他这样。纳兰东不能说出心底的秘密告诉小玉如果执意再问自己还会离开上都，两人就像兄弟妹一样肝胆相照不好吗?小玉伤心的流泪不止告诉纳兰好，只是他喜欢的自己就会做，他不喜欢的自己不会做。李湛在太子面前控告杨炎四大罪状，杨炎将一切罪责全部推到家臣身上。李益又指出杨炎低买高卖府邸指出杨炎在龙气上建立祖庙，意图谋反。这时太监送到皇上旨意，赶走杨炎即可，杨炎保住一命。杨炎嚣张的告诉李益自己终有一天会复出。　卢杞担心杨炎有朝一日东山再起，欲借纳兰东之手除掉杨炎。纳兰东前去刺杀杨炎，不想被杨炎儿子拦住，刚向外逃走便被赶来的靖澜一剑杀死。纳兰东与靖澜刚杀了杨炎便被一批官兵围住，这卢杞是一石二鸟之计。纳兰东自己招认靖澜被放出，回到家后靖澜听卢杞说这一切都是孤独贵妃的主意。纳兰东被带回宫中后太子和贵妃便下令杀了纳兰东，就在纳兰东马上要不行时皇上和宁国公主出现。皇上表示是自己暗中下旨杀的杨炎。纳兰东在皇宫中听到两个太监言论的自己的身世，自己母亲很有可能是淑妃，纳兰东决定去寻找自己的生母，靖澜也要陪同。纳兰东和靖澜把情况告诉了小玉，并且两人要前去先找霍王妃，浣纱提醒小玉不也怀疑自己的生父是谁吗?小玉特意又找到要走的纳兰东提醒他此去一定要小心，纳兰东告诉小玉一定要记住凡事都要等自己回来。李湛和李夫人不同意李益和小玉之事，并且李夫人以死相逼。李益没有办法将宝剑交还于慈瑞，不过李益表示只是先放在这自己一定会说服双亲。慈瑞却说等到他说服双亲大概是没有那一天了命樱桃将宝剑收回。慈瑞拉着李益让他自己和小玉说个清楚。　　小玉告诉李益此生不想再与他有所瓜葛不想再见到他。小玉此李益一事又犯了心病，大夫给小玉看病时浣纱却突然差点晕倒，慈瑞让大夫给浣纱看下，浣纱怀孕了。小玉告诉了慈瑞浣纱那日为了救自己被杨炎侮辱。慈瑞不想浣纱留下这个孩子，如果有人知道孩子是杨炎的那将是一个大麻烦，不过浣纱却不肯非要留下这个无辜的孩子。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1336</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep32.20131017.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20131017 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>1017</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1336</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep32.20131017.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1017" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

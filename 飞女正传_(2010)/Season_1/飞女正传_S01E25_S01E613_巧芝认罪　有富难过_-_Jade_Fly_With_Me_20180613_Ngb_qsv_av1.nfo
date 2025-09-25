@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>巧芝认罪　有富难过</title>
+  <originaltitle>Episode 25</originaltitle>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>2309641</id>
+  <uniqueid default="false" type="tmdb">569246</uniqueid>
+  <uniqueid default="false" type="trakt">577913</uniqueid>
+  <uniqueid default="true" type="tvdb">2309641</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>巧芝与有富在小卖店谈及自己的案件，而巧芝向有富说出，整件事与自己有着千丝万缕的关系，所以自己将承认控罪；看到有富自责说放弃当律师继续经营小卖部，巧芝反而安慰他已尽了全力。振强突然把巧芝绑架，更将她带到码头；把巧芝松绑的振强说不想她受苦，于是已安排了船只送她到台湾，再转往新矶内亚，最后到达危地马拉以避追踪；当巧芝欲出言反对之际，振强却与她「吻别」……
+
+浪子回头　主动投案
+
+传媒大肆报道巧芝失踪一事，更指她可能弃保潜逃；再次化身为Janet Bin的巧芝特意飞回家中，在窗外偷看家人因自己失踪伤心不已，令她大为难过。感到无处容身的Janet Bin竟回到容氏，但她却发现三位经理竟然在这深夜仍在工作；三位经理向Janet Bin解释他们均已觉悟前非，而最近公司发生种种问题，他们亦决定洗心革面努力协助公司。Janet Bin独自一个人飞到天台上沉思……早上永晖照顾凤卿吃粥时，竟流着泪向凤卿说出，为自己的所作所为感到后悔，但这时Janet Bin突然出现在他身后……在公园中百无聊赖的浩然，看到有人争执于是上前了解，而浩然最终更协助老伯对付扒手，看到自己的正义感与身手仍在，浩然终重新振作。Janet Bin突然出现在浩然面前，更把他带到警署；在浩然的前上司面前，Janet Bin竟说出是她陷害巧芝，更指是受到浩然影响而主动投案。Janet Bin主动投案一事轰动全城，而众传媒更紧追明轩不放；当明轩没法回答传媒追问时，美诗突然出现，她更代明轩善后一切……Janet Bin正式到法庭受审，而她指整件事只不过是个玩笑，因为伯驹根本尚在人世。原来Janet Bin特意带永晖到布吉与伯驹相见；伯驹向永晖解释，自己装死的目的就是希望永晖能接受自己，希望儿子能因此而气消。看到伯驹如此大量，永晖感动不已……
+
+飞女消失　不再出现
+
+事情终告一段落，巧芝与Janet Bin亦有机会对坐交谈；当巧芝发现Janet Bin将会永远消失，不禁依依不舍，但她最终亦消失踪影……晓琳再次到容氏探望永晖，永晖指自己已准备被拘捕，但晓琳却指自己不是为揭发他而来……蓉蓉离港，在临别前叫儿子好好想清楚自己心中所思……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E25.20180613.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Fly With Me 20180613 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>613</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E25.20180613.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="613" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

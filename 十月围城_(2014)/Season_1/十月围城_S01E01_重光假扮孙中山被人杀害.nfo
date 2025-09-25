@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>重光假扮孙中山被人杀害</title>
+  <originaltitle>重光假扮孙中山被人杀害</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>4938179</id>
+  <uniqueid default="false" type="tmdb">1728962</uniqueid>
+  <uniqueid default="false" type="trakt">1305750</uniqueid>
+  <uniqueid default="true" type="tvdb">4938179</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宣统元年，香港。一个年轻的黄包车夫阿四为了凑齐给心上人医治眼睛的最后两块银元，误与保护孙中山的重光相遇，重光为了替孙中山引开朝廷鹰犬铁山的暗杀，不惜分成孙中山血战街头。许多暗杀者纷纷向重光杀来，重光临危不乱与阿四藏于一处墙壁下方，二人一个早已吓得魂不附体，一个举着手枪奋力杀敌。两方对垒重光处于下风，孙中山依然正在转移的路上，重光为了替孙中山争取到最后的转移时间，指挥阿四拉起黄包车向钟楼方向日奔去。站在钟楼上面的铁山见黄包车一路急行而来，误以为车中坐着的正是孙中山，阿四并不知道重光让他往钟楼方向奔跑的用意，听着身边频频响起的枪声，阿四如临大敌不顾一切向钟楼方向奔去。站在钟楼上方的铁山举起弓箭对准黄包车射了下去，锋利的弓箭穿破黄包车雨蓬扎入重光的身体，阿四将黄包车拉到一条小胡同中，回头一看重光身上全是红色的鲜血，阿四吓得面色大变提醒重光还没有支付车钱。重光已是奄奄一息，用尽最后一丝力量将家中住址递给阿四，阿四借着染血的纸条找到重光住处。重光的家人见阿四与重光长得一模一样，所有人差点误以为阿四就是重光，直到发现阿四神态举止完全不像在国外生活的人，重光父亲玉堂方才意识到站在面前的人是一个陌生人。得知自己的儿子重光战死，玉堂悲痛欲绝来到胡同带走儿子的遗体，儿子身上沾满了鲜血，玉堂拿起毛巾替儿子擦试身体，希望能擦尽所有的污垢还儿子一副清白身躯。重光虽然死亡，阿四并没有因为重光的死感到悲伤，毕竟他与重光无亲无故，所以不对重光的死产生悲伤合情合理，之前替重光拉黄包车害得车体受损，阿四要求重光父亲玉堂支付一百两银票，玉堂没有拒绝阿四的要求，吩咐一名下人赔付了一百两银票给阿四。阿四欢天喜地拿着银票赶到爱人阿纯治眼疾的诊所外面，岂料主治医生已经乘船回国。自从见过阿四，秦少白对阿四的相貌念念不忘，重光已经战死，倒不如趁机让阿四扮成重光，阿四扮成重光，李玉堂才好带着阿四前往广东老家探视病重的老母。玉堂接受了秦少白的建议，让秦少白上街寻找阿四，凑巧的是阿四与阿纯被一伙不明人士强行带走，不明人兵见秦少白带着警察出现，一哄而散扔下阿四与阿纯逃走。秦少白救走阿四二人的时候，阿四因为受到惊吓昏死过去，醒过来发现秦少白也在，阿四带起阿纯就想离去，秦少白心知阿四非常想替阿纯治眼疾，于是借替阿纯治眼疾的理由留住了阿四。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2643</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep01_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

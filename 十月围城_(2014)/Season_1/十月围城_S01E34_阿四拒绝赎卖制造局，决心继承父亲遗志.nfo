@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿四拒绝赎卖制造局，决心继承父亲遗志</title>
+  <originaltitle>阿四拒绝赎卖制造局，决心继承父亲遗志</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id>4938212</id>
+  <uniqueid default="false" type="tmdb">2728577</uniqueid>
+  <uniqueid default="false" type="trakt">1306556</uniqueid>
+  <uniqueid default="true" type="tvdb">4938212</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>官府要以两成价格赎买制造局的消息传开，入股的商人们都来找阿四，希望他出头顶住，被李重甲应付回去。  入夜，阿四一个人在制造局徘徊，看着李玉堂亲手督建的厂房、机器，生产出来的枪械部件，感慨万端。一个身影出现了，竟是秦少白！秦少白似乎完全知道阿四在想什么，劝阿四不要把制造局赎卖给铁山，要继续经营制造局，为革命党做事！秦少白说，李玉堂在决定搞制造局后，曾约谈他决定支持革命，在制造局安排同盟会员，一些秘密工作已经开始着手。阿四半信半疑，但他同时想起李玉堂临终那句话“你必须把我想做的事做完”，就应该继承他的遗志。阿四有冲动，有感动，但信心不足，阻碍又多。李老太太准备安排阿四与区舒云去英国留学，并嘱咐李家上下不要把此事传出去。区舒云当众决定留在李家，让阿四一个人走。最后一夜，阿四与区舒云都沉默了。半夜，老丁拿来一封加急密信，是从海外寄给李玉堂的，阿四和区舒云一读之下震惊了，竟是孙中山写给李玉堂的亲笔信！李玉堂显然曾给孙中山写过一封信，这是孙的回信。孙中山表达了对爱将李重光牺牲的痛惜和对李玉堂的慰解，感谢李玉堂一贯资助革命，又对李玉堂愿经营制造局以支持革命感激涕零……阿四问老丁，李玉堂对制造局的一大堆计划究竟是什么。越听越清楚，李玉堂表面是跟官府合作，其实是把李家投进制造局，用制造局为革命出力，暗中支持起义！这封革命领袖的迟到来信，加上傍晚秦少白的话，加上老丁的回忆，描绘出了李玉堂临死前一段时间的精神画像，一个阿四所不知道的李玉堂！似乎又看到了李玉堂，那个左支右绌，心力交瘁，却在努力寻找光明的－－父亲！阿四泪流满面…… 制造局赎买签字仪式。商会副会长于八爷鼓动商人抵制赎买，李重甲代表李家就要签字。阿四忽然到场，阿四说这个字不能签啊，明摆着是亏了，不但李家亏，大家都亏。于八爷瞧出李公子不是软蛋，力挺，众商人胆量大了，纷纷表示不向官府出卖股份，要把制造局继续办下去！铁山拂袖而去。区巡抚闻讯大喜过望，阿四成了货真价实的制造局总办！制造局仍在自己手中！回到李家，阿四急于找到李重甲，解释自己忽然变卦的原因。李重甲却出现在他面前，手里竟拿着孙中山的那封信！</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2648</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep34 (Fix)_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

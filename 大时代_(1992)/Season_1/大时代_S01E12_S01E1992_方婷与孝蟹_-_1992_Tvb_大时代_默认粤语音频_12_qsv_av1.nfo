@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>方婷与孝蟹</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>2398951</id>
+  <uniqueid default="false" type="tmdb">1460697</uniqueid>
+  <uniqueid default="false" type="trakt">1435884</uniqueid>
+  <uniqueid default="true" type="tvdb">2398951</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>龙成邦要赶女儿走，和龙纪文争吵起来，文十分伤心。丁益蟹跑到方家，要方婷去见他大哥，方婷不肯，展博动手和丁益蟹打了起来，展博不是益蟹的对手，幸得婷婷阻止。大姐芳责骂婷惹来黑社会，婷决意和孝蟹讲清楚。展博不放心，婷要他在馄饨店等她回来。婷在皇后码头等了很久，才见孝蟹到来。婷希望他以后不要再打扰她的家人，孝蟹答应。孝蟹在离去时不支倒地，婷婷才知道他是带伤前来。婷要扶他，孝蟹告诉婷不要和自己在一起，因为自己是黑社会，随时都会没命。婷看到孝开车差点出意外而心神俱散，慌恐的上前探视。孝终于说出要婷婷不要离开自己，婷含泪点头答应，孝婷亲吻在一起。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1365</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.12_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 12 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1365</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.12_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

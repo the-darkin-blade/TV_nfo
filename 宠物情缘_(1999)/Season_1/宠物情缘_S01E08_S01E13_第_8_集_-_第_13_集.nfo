@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 8 集</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>宠物情缘</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>7480270</id>
+  <uniqueid default="false" type="tmdb">2001428</uniqueid>
+  <uniqueid default="false" type="trakt">3823852</uniqueid>
+  <uniqueid default="true" type="tvdb">7480270</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>硕未能打倒敏，但康Sir就看得出敏对硕有意。珊获调职客户主任，与硕生活渐生鸿沟。硕欲发奋，敏给予见Board机会，但硕自知英文差，遂求教朗。另一方面，仁为朗作出改变，朗却无动于衷。见Board当日，硕因替珊取文件而弄至迟到，升职无望，敏替硕惋惜。Ken给予珊有机会到台湾工作，珊却因一早承诺与硕前往日本而感到懊恼不已，当硕知珊放弃前往日本时，才醒觉自己在珊心目中的地位，决分手成全珊。酒吧内，硕借酒消愁，并与众女玩得不亦乐乎，各人不知硕和珊已分手，后来朗知自己误会硕，向硕道歉。分手后硕无心工作，单人匹马在投注站内面对持手榴弹的悍匪，更萌生自杀的念头。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1080</height>
+        <durationinseconds>1371</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 宠物情缘 Ep08 2016 05 13_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第 13 集</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>宠物情缘</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>7480278</id>
+  <uniqueid default="false" type="tmdb">2001433</uniqueid>
+  <uniqueid default="false" type="trakt">3823857</uniqueid>
+  <uniqueid default="true" type="tvdb">7480278</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>硕和朗拍拖虽被众人取笑，两口子仍感心甜。二人卿卿我我，被敏看见，敏大发雷霆，男仍然坚持追敏，誓不罢休。男送毛公仔给敏，反令敏误会硕出卖了自己，找硕对质，当敏知与硕无望时，哭了出来，却被众同僚逗玩，硕见状斥责，敏与硕成为「好兄弟」。忠与华为方动武，朗感二人对感情儿嬉，硕不赞同。珊事业如日中天，朗感与珊距离似乎越来越远，另外，珊安排Rocky与豆豆拍广告，竟神推鬼拱下与硕拍了一个亲热的广告。硕告知珊自己与朗拍拖，珊亦宣布与Ken走在一起。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1080</height>
+        <durationinseconds>1371</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 宠物情缘 Ep08 2016 05 13_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

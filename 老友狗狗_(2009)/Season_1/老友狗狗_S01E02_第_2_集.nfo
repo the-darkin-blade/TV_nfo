@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 2 集</title>
+  <originaltitle>Episode 2</originaltitle>
+  <showtitle>老友狗狗</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195972</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>天娥被困在货车上，并弃置在荒废之地，此时绑匪现身对天娥关怀备至，原来绑匪乃天娥的哥哥天雄。Woody喜见天雄，他为怕泄露身分遂以变声器和天娥对话，并喂她吃饭。患有洁癖的天娥对身处荒郊野外并不习惯，天雄遂为她准备一切，让她犹如度假般享受。
+
+用恭等人打麻将消磨时间，村民周伟畅慌张地赶至，告诉众人昨天他遇上的怪事。伟畅昨天喝得半醉回家时，惊见无头鬼，众村民认定是他喝醉引致幻觉出现。  羡如用恭　结下梁子  用恭跟进狗场的装修，并买下大量建筑材料，巧遇路过的兽医黎羡如，羡如为救快要被用恭的手推车撞到的小兔，一时情急踢开他的手推车，令用恭的材料从斜路滚下，失足更坐到准备出售的马桶之上。羡如冲上前欲向用恭道歉，当他得悉羡如为了救小兔才出此下策时，气得责难她，又道出若他卖出所有材料，可以买到多煲「红烧兔肉」，使羡如生气不已。  用恭找来天佑送他回家，好不容易终于把卡着的马桶拆走，却遭村民嘲笑，原来用恭被马桶卡着的过程，被村中恶霸周伟威的女儿周嘉汶拍下，并张贴在士多中，使用恭尴尬不已，决定找嘉汶晦气。  应钧淡定　漠视绑匪  用恭和天佑往找嘉汶，要求取回所有照片，她威胁用恭透露天佑的电邮和其他联系方式，天佑万般不愿，为了用恭，才被迫就范。
+
+应钧对天娥被绑架一事毫不上心，亦没有交赎金之意，管家伟仔亦指出多年来天娥每次遇上不欲妥协的事情，便会设法假装遇害，天雄看在眼内不禁担心，遂决定寄出天娥的头发和耳环吓唬应钧。
+
+天佑带同Bingo工作，发现一名速递员中暑被困车内；天雄看到应钧心绪不灵，错摸他已收到速递的物品，谁知误会一场，弄得天雄哭笑不得。  村中闹鬼　人心惶惶  天雄从电视得知天热酷热，不少人不慎中暑，遂担心天娥的情况，急急带同粮水到荒郊探望妹妹。被幪头的天娥不知就里乘机逃跑，却失足沿山坡滚下，同时拖车将天雄藏参的货车拖走，迫使他一边照顾Woody一边将昏倒的天娥背到附近的破屋。
+
+天娥醒来后再次逃走时，被村民误会为「无头鬼」，吓得众人慌忙走避。应钧接到绑匪寄来的速递，并收到要求交赎金的电话，不禁大惊，只好根据他的要求安排天雄往交赎金和接天娥回来……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>2_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

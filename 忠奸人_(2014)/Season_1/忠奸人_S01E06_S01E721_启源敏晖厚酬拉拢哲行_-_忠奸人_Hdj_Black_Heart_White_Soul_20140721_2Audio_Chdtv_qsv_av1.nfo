@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>启源敏晖厚酬拉拢哲行</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>4936588</id>
+  <uniqueid default="false" type="tmdb">1984046</uniqueid>
+  <uniqueid default="false" type="trakt">1304114</uniqueid>
+  <uniqueid default="true" type="tvdb">4936588</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>哲行出席在启源投资的餐厅聚餐，无意中在纪念照片中发现刘焱的身影。启源见哲行的眼神充满疑虑，便将自己是释囚的身分告诉哲行，指刘焱是在狱中认识的朋友。当启源娓娓道来的经历听在哲行耳中，令哲行对他更感到佩服。而另一方面，启源亦暗暗欣赏哲行的观察力。
+
+美贞在狱中形如行尸走肉，但却无意中得知刘焱与狱中一名女囚犯交往，美贞因此事在狱中与其他囚犯发生争执，身心大受打击的美贞回到牢房中，便收到了哲行送来的小说。
+
+绰姿跟随　立勋调查
+
+哲行希望小说的故事能鼓励美贞振作面对未来，并亲手在小说的后页写下自己的心声，美贞收到后内心充满感动，而哲行的小说也成为了美贞在狱中的精神支柱。
+
+立勋和承义为了打击毒品市场而四出调查，却在盘问线人时遇上了绰姿，更因此令调查行动失败告终。立勋仔细追问之下，才知道是承义将自己的行踪偷偷告知她。
+
+原来绰姿为了完成犯罪心理学的报告，便决心跟随立勋观察罪犯。公私分明的立勋得知绰姿的要求立即拒绝，之后绰姿只好独自在龙蛇混杂的地方进行访问，却因此被恶霸纠缠。立勋见状只好替绰姿解围，并让她跟随自己一起行动，立勋故意带绰姿到大排档用膳，希望藉此让她知难而退。绰姿起初不太习惯大排档的环境，但却因为立勋而有所改变。
+
+美贞出狱　处处碰壁
+
+美贞终于刑满出狱，刘淼亦特地到门外接美贞。两人相聚后，美贞才知道刘淼的外婆已经身故，因此令刘淼无家可归。刘淼决定与美贞合资租屋一起生活，而美贞为了赚取生活费便出外找寻工作，但是美贞串谋行劫的新闻早已经街知巷闻，令美贞未能成功觅得工作。
+
+美贞找应心帮自己找寻职位，但是应心因为怕影响与男友之间的关系而拒绝帮助，令美贞对应心感到失望。
+
+引诱美贞　加入贩毒
+
+失业的美贞最后只好跟随刘淼到酒吧推销啤酒，却因此重遇刘焱的手下。刘焱的手下见美贞生活困苦，便出言诱使美贞和刘淼贩毒。
+
+另一方面，因启源十分欣赏哲行的能力，故特意提出邀约聘请哲行到自己的公司工作，并且送赠电动轮椅给哲行。哲行得到启源这名大客户感兴奋不已，更即时接受启源的邀请，而哲行的下属Vincent亦决定随哲行到启源的公司办事。
+
+立勋救出　遇险美贞
+
+经过连日调查，立勋终锁定刘焱的手下与近日流行的毒品有密切关系，故即时进行跟踪以收集证据，却因此发现美贞与刘焱的手下有来往……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1321</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep06.20140721.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>忠奸人 Hdj Black Heart White Soul 20140721 2Audio Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>721</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1321</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep06.20140721.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="721" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

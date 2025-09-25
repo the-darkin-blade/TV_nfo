@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>振邦掌权对付唐家</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>初五启市录</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3225413</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>税务局署长定国要求查税，令唐家上下忐忑不安。原来尚品楼和酒庄的帐目一向混乱，曾有洋酒未报税，各董事亦曾因其他理由拖延帐务，未能及时在税务局指定的时间内整理好帐目。
+
+雅媛找美玲帮忙疏通，可是美玲推搪唐家受民众抵制，不想与民为敌，又借照顾留院的市长为名，拒绝雅媛求助。回到唐家，玉卿提到分家以减少唐家所受伤害，此提议得到百年和绍业支持，但雅媛坚持不能分家，她会想办法解决。
+
+亲到南京　寻求支持
+
+因美玲不肯协助，雅媛只有偕永齐到南京，亲身到南京政府寻求协助，并成功见到南京行政院副院长欧阳坤，向他提出帮忙处理协和行税务问题。
+
+原来欧阳坤早以让志摩到广州明查暗访，得知广州市长继尧受伤进院后仍未复元，广州市因唐家引发暴乱。欧阳坤认为背后一定有人策划，指不便介入地方事务，于是拒绝雅媛求助。雅媛只好返回广州，但雅媛一下火车，便因逃税被捕。
+
+雅媛被捕　分家在即
+
+雅文前往治安厅保释雅媛，得知雅媛不准保释，雅媛反安慰妹妹，更指如家中稍有异动，玉卿会提出分家，便授权雅文暂代她担任协和行董事长一职。
+
+回到家后玉卿见无法保释雅媛，果然马上重提分家一事，虽然雅文展示授权书，又得礼和支持，仍难敌众口。玉卿趁势要召开股东大会，召集唐氏亲族商议分家。唐家只有雅文和礼和不赞成分家，孤掌难鸣，但原来百年对分家一事亦未拿下主意，既想得到唐家当家之位，又怕雅媛被捕一事会影响唐氏业务。
+
+苏飞请缨　协助调解
+
+飞看见雅媛被捕消息刊登在报纸，便去找礼和了解情况，礼和如实相告，指对唐家将分家的大趋势感到旁徨无助。飞见友人困扰，主动提出协助他解决唐家分家的问题，更特意约宝宝到码头商谈。
+
+飞劝宝宝支持不分家，宝宝起初亦称只想一家人团圆一起，及后飞出言试探，问假若雅媛入狱后，当家之位由宝宝接手会如何，宝宝才道出真心话。宝宝被飞揭穿想法后，反指飞多管闲事，连唐家众人自己也未想得通分家与否。
+
+唐家资产　遭受冻结
+
+唐氏股东大会当天，雅文暂代董事长之职，可是股东都不认得雅文，会议趋向支持分家。正当唐家面临分家危机之际，协和行经理收到消息，唐家资产遭市政府冻结，所有业权均不得转移，分家一事亦因而暂缓。虽然唐家暂不会分家，但生意亦受打击，百年更发现唐宅四周布满密探记录唐家一举一动……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>960</width>
+        <height>544</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>The.Day.Of.Days.Ep14_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

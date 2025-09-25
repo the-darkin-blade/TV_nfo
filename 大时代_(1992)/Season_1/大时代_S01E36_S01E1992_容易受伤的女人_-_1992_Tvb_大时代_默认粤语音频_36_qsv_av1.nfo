@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>容易受伤的女人</title>
+  <originaltitle>Episode 36</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>36</episode>
+  <id>2399191</id>
+  <uniqueid default="false" type="tmdb">1460724</uniqueid>
+  <uniqueid default="false" type="trakt">1435935</uniqueid>
+  <uniqueid default="true" type="tvdb">2399191</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>丁蟹去到医院找玲姐，买好戒指想和他结婚。但玲姐和展博已经离开。展博和玲姐去了长洲，两人在海边漫步聊天。丁蟹看到玲姐没带走的戒指和方家人的全家照，气冲冲的去找玲姐，从八姑处知道玲姐和一个男人去了离岛。展博想回医院帮玲姐拿回戒指，上船没多久就看到丁蟹在码头张望。展博大声警告丁蟹不要伤害玲姐，丁蟹知道了玲姐还在岛上，到处寻找她。丁蟹找到了玲姐，逼玲姐嫁给他。玲姐求丁蟹把那枚20元的戒指还给她，但丁蟹却要把戒指仍掉。玲姐一下子爆发了，死命的追着丁蟹打，拿到什么就打向丁蟹。最后还抢了警察的枪，继续追着丁蟹，枪声响……丁蟹告诉玲姐没有扔掉戒指，把戒指还给了玲姐。玲姐慢慢倒下，原来枪打中了她自己。地上，玲姐挣扎着去捡那枚戒指，进新的脸闪过脑海，往事一幕幕回闪，玲姐扔掉丁蟹给她的求婚戒指，慢慢套上那枚陪了她十多年的二十元的戒指，在展博怀中死去。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1076</height>
+        <durationinseconds>1439</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.36_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="36" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 36 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1076</height>
+        <durationinseconds>1439</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.36_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

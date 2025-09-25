@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 8 集</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486662</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>霍王妃拿出钱给慈瑞告诉她就当自己花钱买了紫钗将慈瑞和樱桃赶出了王府。慈瑞和樱桃诬陷是浣纱偷走了紫钗卖掉。浣纱哭着说自己真没有求小玉相信自己。但在小玉那搜出了一万贯钱小玉也不是太相信浣纱让她离开。浣纱离开时在院子问樱桃为什么要陷害自己。樱桃也是没有办法也替浣纱担心。浣纱要离开时被秋阳拦住，秋阳要浣纱不要离开找李益替她出头。这时李益和小玉也走了过来。小玉本来就不相信是浣纱偷走了紫钗，只是当时不想和娘争执。李益，小玉找了纳兰东帮忙想要到霍王府探查一下情况，小玉怀疑紫钗的事和霍王府有关。这时又看到慈瑞拿着钱到霍王府。纳兰东打算找樱桃先问问情况，樱桃在看到纳兰东后倒是很兴奋她正好有事找纳兰东帮忙。慈瑞来霍王府打算要回紫钗却不想霍王妃下令棒打慈瑞。这时张公公前来霍王府皇上命霍王妃带紫钗面圣。皇上将紫钗一案交于纳兰东办理。慈瑞指出王妃是霍王所赠，霍王妃表示这是自己用钱所购。纳兰东找人鉴定紫钗价值，鉴定的结果是值10万贯，纳兰东便有了断定让王妃交还紫钗。纳兰东把案子的情况告诉了皇上但纳兰东提出慈瑞和霍王妃好像有很深的渊源。结了案子后纳兰东告诉小玉在堂上听说慈瑞与霍王有私情她很可能是霍王之女。本来小玉打算将浣纱嫁给秋阳，但浣纱拒绝了，浣纱还想着有一天回到故乡。小玉一家及李益等人在回上都的路上路过一处树林时被一群黑衣蒙面人拦住，蒙面人奔着紫钗而来。李益武艺高强拦住蒙面人，更意外的是纳兰东也赶到直杀得蒙面人无还手之力逃走。回到上都后在承欢阁小玉拿出了那半块玉佩，杜意浓身上就有另一半而且杜意浓也知道李鸿雁。杜意浓告诉小玉不要再提此人，自己也不会和她相认。杜意浓恨李鸿雁抛夫弃女不要自己。这时丫环在杜意浓耳边耳语几句，杜意浓告诉丫环今日让他先回去，今日和姐妹相聚。杜意浓告诉了两人前来是韦博文。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep08.20130913.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20130913 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>913</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep08.20130913.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="913" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

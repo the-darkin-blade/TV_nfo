@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 5 集</title>
+  <originaltitle>중독자 Part 2</originaltitle>
+  <showtitle>特殊案件专案组TEN</showtitle>
+  <season>2</season>
+  <episode>5</episode>
+  <id>4779541</id>
+  <uniqueid default="false" type="tmdb">1003487</uniqueid>
+  <uniqueid default="false" type="trakt">960260</uniqueid>
+  <uniqueid default="true" type="tvdb">4779541</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>강원랜드 카지노 인근 주택에서 벌어진 일가족 살인 사건. 유일한 용의자는 카지노 앵벌이 강씨. 하지만 사건 현장은 조작의 느낌이 강하다. 풀리지 않는 사건을 풀기 위해 서울의 TEN팀이 투입되고 독사 백도식은 1년여만에 다시 TEN팀과 조우한다.</plot>
+  <runtime>61</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>OCN</studio>
+  <studio>Studio Dragon</studio>
+  <dateadded>2025-09-15 20:28:51</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>856</width>
+        <height>480</height>
+        <durationinseconds>3703</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S02E05.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="2"/>
+  </episode_groups>
+</episodedetails>

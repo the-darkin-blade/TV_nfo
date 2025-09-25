@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 8 集</title>
+  <originaltitle>엘레지</originaltitle>
+  <showtitle>特殊案件专案组TEN</showtitle>
+  <season>2</season>
+  <episode>8</episode>
+  <id>4779544</id>
+  <uniqueid default="false" type="tmdb">1003490</uniqueid>
+  <uniqueid default="false" type="trakt">960263</uniqueid>
+  <uniqueid default="true" type="tvdb">4779544</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>지하 라이브카페에서 벌어진 충격의 밀실 집단 살인사건! 유일한 목격자이자 생존자는 맹인 여가수. 그녀는 무엇을 들었고, 누구를 두려워하는가? 의외의 용의자의 자백! 사건은 미궁 속으로 빠져드는데..</plot>
+  <runtime>66</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>OCN</studio>
+  <studio>Studio Dragon</studio>
+  <dateadded>2025-09-15 20:28:51</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>856</width>
+        <height>480</height>
+        <durationinseconds>3960</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S02E08.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="2"/>
+  </episode_groups>
+</episodedetails>

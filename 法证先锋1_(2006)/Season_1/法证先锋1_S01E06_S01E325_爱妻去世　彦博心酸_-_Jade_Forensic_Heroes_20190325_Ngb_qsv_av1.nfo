@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>爱妻去世　彦博心酸</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>4155073</id>
+  <uniqueid default="false" type="tmdb">1828874</uniqueid>
+  <uniqueid default="false" type="trakt">1489371</uniqueid>
+  <uniqueid default="true" type="tvdb">4155073</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>泽瑶突然去世，彦博与泽琛同感悲伤，而汀汀亦大为愕然，反而沛沛则表现得非常冷淡……
+
+泽琛到医院取泽瑶死亡证时，发现医院女工玉姐竟然因心脏衰竭而入院。从而令她得知玉姐在进食泽瑶留下的蛋糕之后才出事，心生疑问……
+
+经化验后，泽琛发现在蛋糕内含有一种名为「斑蝥素」的毒素，所以他决定要申请将泽瑶的尸体作解剖化验，结果显示泽瑶死前连续十日服用有「斑茅素」的食物，中毒导致心脏衰竭而死，泽琛与小柔不约而同怀疑购买蛋糕的彦博便是凶手。
+
+小柔往找与彦有亲蜜往来的沛沛，刚巧她在烧毁十年前的信件，小柔发现后将灰烬交给法证部化验，终令十年前的信件重现人前，揭开沛沛与彦博不为人知的关系。
+
+高通见儿子卷入杀妻事件中，竟然假造证据将罪名加诸自己身上，更欲跳楼了结事情，可是最后也被人救回，而且他的证据更被泽琛一一破解。曾被泽瑶感化的细 Ming 得知她的死讯，往找泽琛，不过，她手上的蛋糕竟令泽琛发现重大线索……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E06.20190325.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Forensic Heroes 20190325 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>325</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E06.20190325.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="325" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

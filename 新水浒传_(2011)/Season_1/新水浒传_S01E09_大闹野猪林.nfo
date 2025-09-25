@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>大闹野猪林</title>
+  <originaltitle>大闹野猪林</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026625</uniqueid>
+  <uniqueid default="false" type="trakt">7308112</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>陆谦请来董超薛霸，就是为了要让林冲有去无回，花重金，以高俅的名义，要二人在路上结果了林冲。林冲就要发配，街坊四邻前来送行，林冲感怀自己遭遇，不顾岳父四邻的阻拦，执意写下休书休妻。林娘子及时赶到，却也阻止不了林冲写下休书，岳父张教头发愿，休书收下，却不会让林娘子再嫁。林娘子悲痛之余，迟迟不肯和林冲分开，请求董超薛霸带林冲前去寺庙还愿。林冲不愿林娘子再这般相送，便暗中告辞，林冲明白林娘子一番心意，还一直担心自己走后林娘子无人照料。不想路过菜园，正见到鲁智深舞动禅杖。林冲忍不住好了一声好。周围泼皮都赞林冲英雄了得，既是林冲说好，鲁智深这禅杖那当真是了得。鲁智深一时兴起，不顾董超薛霸在旁，便与林冲打斗起来。一番争斗，两人都是豁达的人，也就因此有了情谊。鲁智深想要阻拦林冲发配，却被劝阻。鲁智深道出和林冲同出一门，林冲大喜，顿时将林娘子之事托付鲁智深，鲁智深有感林冲英雄，二人结拜为兄弟。林冲发配的路上，董超薛霸颇有怨言，林冲不以为意，还好酒好肉招待二人。不想二人早已打定主意要害他性命，先是拿开水烫烂林冲的脚，又给林冲一双新鞋，催他上路。这一切，都是二人担心林冲武艺高强，二人杀不了林冲，所以百般刁难。一路行来直到野猪林，林冲已经有病在身，二人又借口想要睡觉，怕林冲走脱，竟把林冲捆绑在树上。这才道明来意。原来陆谦威逼利诱，高俅下令，杀林冲，不但有金银可拿，日后还能平步青云，不杀林冲却有性命之忧，董超薛霸怎敢不从。正当危急关头，鲁智深及时赶到，救下了林冲。原来临行之时，林娘子曾见一酒保叫走董超薛霸，便起了疑心，等鲁智深上门说明来意，林娘子便请鲁智深一路护送，鲁智深一路寻来，总算在这里追上林冲等人。鲁智深要杀董超薛霸，林冲宅心仁厚，却替二人求情。林冲要鲁智深回去照顾林娘子，鲁智深却坦言林冲被陷害之事已经街知巷闻，高俅父子不敢在此时犯了众怒。鲁智深饶过董超薛霸，却执意要护送林冲到沧州。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2644</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E09 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

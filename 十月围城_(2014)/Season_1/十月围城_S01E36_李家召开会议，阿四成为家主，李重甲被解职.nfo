@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李家召开会议，阿四成为家主，李重甲被解职</title>
+  <originaltitle>李家召开会议，阿四成为家主，李重甲被解职</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>36</episode>
+  <id>4938214</id>
+  <uniqueid default="false" type="tmdb">2728579</uniqueid>
+  <uniqueid default="false" type="trakt">1306611</uniqueid>
+  <uniqueid default="true" type="tvdb">4938214</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>区舒云已经梳洗完毕，一副若无其事的样子。阿四不知道二人有没有“事”，想问不敢问，斗胆开个头，被区舒云一瞪眼，不敢再说。李玉庵要看李家账目，并自作主张要用自己的印章当家，老丁说账目可以给李家的人看，但李玉庵要当家必需请示李老太太，遭到李玉庵毒打。区舒云与“李重光”及时制止。 李老太太召集李玉庵、李重甲及“李重光”召开“家庭会议”，商量李家当家人人选。李玉庵自荐，李重甲突然大义凌然，当众分析如今只有“李重光”当家对李家最有利。李老太太问阿四是不是姓李，阿四望着老太太的眼神，高声承认自己姓李，“李重光”在李老太太的鼓励下成了李家当家人。阿四感激李重甲信任自己，又得知李重甲被解除军职，是为了赎买制造局的事，对李重甲心生愧疚。李重甲反而对自己被解职显得很洒脱，说铁山早就疑心自己与革命党有牵连，一直不信任自己，让阿四心里不要有负担。阿四还是深感愧疚，想跟李重甲说心里话，可想起秦少白的嘱咐，要谨慎对待李重甲，不知如何向他示好。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2656</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep36_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="36" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

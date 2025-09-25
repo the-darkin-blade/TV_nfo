@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿四陪伴李老太太治病，李玉堂捐资</title>
+  <originaltitle>阿四陪伴李老太太治病，李玉堂捐资</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>4938183</id>
+  <uniqueid default="false" type="tmdb">2728544</uniqueid>
+  <uniqueid default="false" type="trakt">1305836</uniqueid>
+  <uniqueid default="true" type="tvdb">4938183</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李玉堂要送阿四去香港，李老太太突然醒来要见李重光，李玉堂带着阿四来到李老太太屋里，阿四哭着喊奶奶，李老太太让他坐到自己身旁，她感觉孙子的声音也变了，李玉堂让众人退下在门口侯着，李老太太让阿四不要走，还让他唱小时候的歌，阿四不知道该怎么办，他唱的歌让李老太太陷入深思之中。李老太太突然坐起来吐出一口瘀血，大夫诊断后确认老太太的病好了一半，李玉堂叫阿四到房中谈话，他希望阿四能多留几日陪老太太，李玉堂听大夫说老太太可能康复，阿四想五天之内赶快回香港，李玉堂给他每天五十块，阿四答应再做三天，他不能耽误阿纯的手术，阿纯的眼睛天生有病，那五百块是阿四给她的手术费。铁山请李玉堂去校场观礼，请柬上写明务必要带上二公子。阿四在奶奶在指挥下找到一个箱子，箱子里都是李重光小时候的东西，老太太让他念笑话听，阿四没按书上写的念，李老太太听后很开心，下人也被逗得哈哈大笑。李玉堂清楚清廷不会善罢甘休，铁山逼供犯人后得知新情况。李玉堂带阿四去见两广总督，阿四担心会被别人当成革命堂，李玉堂也有他的难题，他让阿四继续演戏。李玉堂在校场礼上捐资三万元，其他商绅也捐了不少。铁山出现前派人用黄包车拉着一张孙中山的照片，他是光绪三年的武状元，铁山骑马进入校场，李玉堂认出他，铁山一箭身中孙中山像的头部，阿四惊讶地站起来。铁山一口咬定李玉堂给革命党捐钱，李玉堂承认他是中国日报的大股东。李玉堂举出张之洞的例子让铁山无话可说，铁山把矛头对向阿四，阿四的吞吞吐吐让他怀疑，铁山带孙文的保卫人员上台指认李重光，阿四说出一堆戏名来应对，他自称看戏很过瘾，众官员嘲笑阿四，李玉堂替阿四辩解，铁山让阿四配合验身，阿四当众解开衣服，身上完好无损让铁山意外。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep05_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

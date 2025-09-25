@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>丁蟹回港</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>2399021</id>
+  <uniqueid default="false" type="tmdb">1460705</uniqueid>
+  <uniqueid default="false" type="trakt">1435897</uniqueid>
+  <uniqueid default="true" type="tvdb">2399021</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>玲姐看到展博赢了陈万贤，开始了解展博的想法，对婷婷也改变了态度。打算开始自己新的生活。叶天被关进了精神病院，展博去看望了师傅。阮梅做好饭菜等展博来吃，展博接到龙纪文的电话，对其的关切态度引起阮梅的不满，生气离去。展博发现阮梅喜欢上自己，但自己顾着事业，无心谈感情。龙纪文去拜忌华姐，周济生痛失爱妻，伤心不已。龙纪文对龙成邦的关心，终于使邦动容，但还是碍于面子。陈滔滔入主陈万贤的公司，发现了陈万贤的很多问题，要求他以后不要再出席董事会，此时，廉署也请陈万贤去“喝咖啡”。孝蟹看到婷婷和陈滔滔在一起，产生了疑心。陈滔滔决定自己开公司，婷婷也要入股。丁蟹回到了香港，孝蟹知道了，到处找他。丁蟹去看他妈，想一家团聚。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1566</width>
+        <height>1078</height>
+        <durationinseconds>1383</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.19_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 19 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1566</width>
+        <height>1078</height>
+        <durationinseconds>1383</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.19_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

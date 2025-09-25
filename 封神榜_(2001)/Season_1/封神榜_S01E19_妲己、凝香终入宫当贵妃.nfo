@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>妲己、凝香终入宫当贵妃</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>4418941</id>
+  <uniqueid default="false" type="tmdb">2025535</uniqueid>
+  <uniqueid default="false" type="trakt">1484627</uniqueid>
+  <uniqueid default="true" type="tvdb">4418941</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>琵琶带同金吒、木吒协助飞虎对付苏护，金吒、木吒更被琵琶逼做探子，夜探将军府，幸遇上十娘、哪吒等人，金吒、木吒向众人大吐苦水，更谓李靖不复当年勇只怕琵琶一人，哪吒听后生气不已，十娘为顾全大局，只好婉言相劝。
+
+飞虎再逼苏护交出女儿、婵玉、土行孙代苏护出征，幸得十娘奋勇作战，终暂且打退飞虎大军，当苏护得知飞虎今次携来威力无比的飞龙斩将刀，内心忧虑不已，妲己、凝香眼见飞虎、苏护因自己开战，损兵折将、民不聊生，故要求苏护让姊妹俩入宫以平息干戈，苏护忍痛接受。妲己、凝香终入宫当贵妃，从此揭开商朝灭亡的序幕，两人是纣王新宠，故获得多人服侍，珠宝绸缎多不胜数，令两人一时未能习惯，两人面见皇后，皇后见妲己率直可爱，故将心爱小狗作为见面礼送赠予妲己，令妲己开心不已。
+
+黄颜身孕日重，对杨戬思念之情亦日益增加，为打探杨戬下落，黄颜逼于无奈到黄府求问飞虎，可惜飞虎冷言冷语，令黄颜难受，黄颜梦见杨戬终成为天兵神将，并册封为二郎神，故打算改腹中孩儿名「念郎」。</plot>
+  <runtime>25</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1048</width>
+        <height>720</height>
+        <durationinseconds>1512</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>19_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

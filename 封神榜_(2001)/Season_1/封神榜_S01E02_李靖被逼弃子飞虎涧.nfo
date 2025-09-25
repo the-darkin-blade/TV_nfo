@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李靖被逼弃子飞虎涧</title>
+  <originaltitle>Episode 2</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id>4418913</id>
+  <uniqueid default="false" type="tmdb">2025515</uniqueid>
+  <uniqueid default="false" type="trakt">1484561</uniqueid>
+  <uniqueid default="true" type="tvdb">4418913</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>哪吒被接回李府与家人同住，一家人相处愉快，李靖亦渐对哪吒心生痛爱，两父子常一起练兵，更立下宏愿，代代精忠报国。唯好景不常，帝乙旧患复发，病情急转直下，更在梦中见哪吒灭商杀纣，帝乙弥留之际，恳求李靖匡扶三子寿王登位，并杀子哪吒以示忠贞，李靖实难以抉择，左右为难。另边厢，西伯候姬昌巧遇哪吒，向十娘预言此子将遇巨劫，唯一化解之法就是能遇到一只会飞的老虎，十娘听罢担心不已！
+
+李靖终答应帝乙杀子以示贞忠之心，十娘竭力阻止李靖提剑杀子，最后夫妇二人协议将哪吒放逐，凶险非常的飞虎涧，但哪吒仍懵然不知！十娘痛心不已，惟有祈求女娲娘娘代为照顾哪吒，哪吒不明父母为何弃他而去，在失望无助之际，无意间被黄飞虎所救及收养。
+
+帝乙驾崩，纣王登位，终日沉溺酒色，荒废朝政。李靖看在眼里，忧心不已，哪吒不欲留在黄飞虎家，终在杨戬及雷震子相助之下，逃走成功，但可惜三人被困在山中，与山神搏斗多年，原来是女娲娘娘命山神锻练三人，培养他们成才！时光飞逝，哪吒三人与山神搏斗至十八岁那年，三人终可成功下山，哪吒再遇亚伯候姬昌……</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1048</width>
+        <height>716</height>
+        <durationinseconds>1469</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>02_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

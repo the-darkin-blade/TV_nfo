@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>剧变</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>2398891</id>
+  <uniqueid default="false" type="tmdb">1460691</uniqueid>
+  <uniqueid default="false" type="trakt">1435875</uniqueid>
+  <uniqueid default="true" type="tvdb">2398891</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>丁蟹偷偷回家看了四个孩子，叮嘱了他们一番后离去。进新慢慢的适应生活，一家人过的很快乐。进新学着自己回家，展博怕他走丢就跟着他。进新刚回到家，丁蟹就来了，要进新去警局销案。展博要报警，却被丁蟹野蛮阻止，进新发了疯一样去打丁蟹，丁蟹起初任由他打，希望他打完就可以消掉恩怨， 但后来被打急了，还手，终把进新活活打死。丁蟹看自己打死了人，慌忙逃走。 10年后，方家子女长大成人，念书的念书，工作的工作，玲姐在开小巴。唯展博去当学徒却多年不知所踪。一日，玲姐她们申请到了廉价公屋。4个女人欢天喜地的开心庆祝。 玲姐到处打听展博的下落。玲姐新家隔壁搬来了阮梅和彩婆婆，阮梅的节俭给大家留下了深刻印象。展博住在天桥底下，终日庸庸碌碌。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1346</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.06_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 06 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1346</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.06_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

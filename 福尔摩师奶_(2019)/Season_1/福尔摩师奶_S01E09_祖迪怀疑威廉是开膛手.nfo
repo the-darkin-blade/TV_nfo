@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>祖迪怀疑威廉是开膛手</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>福尔摩师奶</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1727091</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>晓尧认得属于威廉的怀表声音，怀疑威廉是开膛手。王烈与熊财两帮派再起冲突，熊财乘机笼络人心。高明医生不忍看到街坊沉沦毒海，决意改变油麻地的命运。素嘉向祖迪诉说往事，看到祖迪与菲腊的照片忽尔流泪。素嘉绘画晓尧母女在河边洗衣时的情景，好让她能记着开心往事，晓尧感激。妹娣藉意向祖迪推荐德英做其副手，德英感激，对妹娣动心。大雾之夜，祖迪心绪不宁，得知牡丹行踪神秘，与一夫跟踪她；游池摘茶花时惊见妓女尸体……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2647</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>TVBOXNOW 福爾摩師奶 EP09_H265.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

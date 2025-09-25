@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 4 集</title>
+  <originaltitle>퀸</originaltitle>
+  <showtitle>特殊案件专案组TEN</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>4430683</id>
+  <uniqueid default="false" type="tmdb">1003477</uniqueid>
+  <uniqueid default="false" type="trakt">960250</uniqueid>
+  <uniqueid default="true" type="tvdb">4430683</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>가평의 어느 별장에서 미모의 호스트바 사장이 살해된다. 그녀는 각계각층의 거물급 인사들에게 줄을 댄 인물로 정계를 뒤흔들 치명적 비밀을 알고 있던 권력의 여왕! 경찰청 국장은 여지훈에게 은밀히 이 사건을 의뢰하는데……. 샤워가운을 입고 살해당한 여인이 남긴 의문점들! 그날 밤, 별장에서는 무슨 일이 있었던 것일까? 그리고 그녀의 죽음이 터뜨릴 거대한 비밀은 무엇인가?</plot>
+  <runtime>61</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>OCN</studio>
+  <studio>Studio Dragon</studio>
+  <dateadded>2025-09-15 20:28:51</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>856</width>
+        <height>480</height>
+        <durationinseconds>3713</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E04.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

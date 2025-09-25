@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>爱郎心烦　青云分忧</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>1623561</id>
+  <uniqueid default="false" type="tmdb">1992291</uniqueid>
+  <uniqueid default="false" type="trakt">1576537</uniqueid>
+  <uniqueid default="true" type="tvdb">1623561</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>来富高兴与珠美成为同学，子维首天便迟到，正初亳不留情以CEO身分要他离开。青云挂念正初，最后只得与婉莹再去澳门赌博。正初因欢畅之事仍耿耿于怀，青云却刚好拨无声电话予正初，青云听出正初满怀心事，于是说小时候故事为正初解闷至天明。欢畅为忘掉不快而拚命工作，青云欲开解却不果。正初因公事到港，特意到找青云，又再见青云蓬头垢面的样子，两人相视而笑。青云见正初满怀心事，带他四处游玩，成功让他暂时忘忧。大雨突然洒下，正初决定与青云再续前缘。翌日有女子带青云到高级餐厅，青云以为是正初安排，谁不知原来是高名计策。高名要胁正初，如果正初在一小时内不能胜过三名高手，青云性命将难保。正初为救青云答应赌局，高名则津津有味地观赏正初如何发挥能力击败对手。正初用了半小时才能击退一名对手，内心开始急躁，但剩下两人却联手，将钱集中在一人身上与正初对赌。因时间紧迫，正初唯有险中求胜。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2689</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep13.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

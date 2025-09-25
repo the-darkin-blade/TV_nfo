@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>曦华为权斗骑虎难下</title>
+  <originaltitle>Episode 29</originaltitle>
+  <showtitle>铁探</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id>7110011</id>
+  <uniqueid default="false" type="tmdb">1751202</uniqueid>
+  <uniqueid default="false" type="trakt">3453104</uniqueid>
+  <uniqueid default="true" type="tvdb">7110011</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>尚垶开始准备控告曦华，得知曦华出重金邀请了知名律师为其辩护，尚垶胜诉的希望愈加渺茫。慧雅气恼国曙假意投诚，将消息向曦华透露。
+
+一年后，尚垶被调回旺角，他的身体每况愈下，却仍未放弃追查营长的下落，只是此时营长已久未露面，调查也没有实质性的线索。如此艰难的情况之下，家人成了他最大的陪伴。但尚垶似乎已经意识到自己所剩无几的人生道路上一定是荆棘遍布，他不想连累家人，劝晓怡带晴晴去芬兰过新生活。
+
+终于到了开庭那一天，尚垶见到了久违的永正。永正此时自甘堕落，似乎完全变了一个人，还成为曦华的证人。国曙作出了对尚垶及其不利的指控，而医生的证言也没有起到太大的帮助。所幸，永正没有丧失良知，当庭指出了曦华的罪责，却因为他现在正背负巨额债务，他的指控以不可信的理由被打回。
+
+永正再次消沉下去，唯独泳莎仍保有坚定的信念。泳莎找到曦华，希望她能承认自己的错误。不出所料，曦华拒不认错，泳莎也决定不再为她工作。但曦华的心中并不是一番平静，她也想念励进和励杰，只是她已骑虎难下，权斗的战争已经进入高潮，她不能认输。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <studio>TVB Jade</studio>
+  <studio>Tencent Penguin Pictures</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:25</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1316</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Defected.E29.2019.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade The Defected 2019 Hdctv qsv av1</title>
+  <originaltitle/>
+  <showtitle>铁探</showtitle>
+  <season>1</season>
+  <episode>2019</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tencent Video</studio>
+  <studio>TVB Jade</studio>
+  <studio>Tencent Penguin Pictures</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:25</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1316</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Defected.E29.2019.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2019" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

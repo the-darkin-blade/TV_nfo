@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 33 集</title>
+  <originaltitle>Episode 33</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486687</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在崔长空的牌位前李益骂韦博文是个小人，自己和表哥都不想见到他，当场与其割袍断义。韦博文刚走小玉便与浣纱也来祭拜，浣纱不忍看李益与小玉误会告诉了李益实话，当日被侮辱的人是自己而且自己已经怀了杨炎的骨肉。浣纱所说的这些话没想到隔墙有耳韦博文并未走远。李益追上小玉向小玉道歉并且希望浣纱能与自己前去爹娘解释。小玉告诉李益两人间最大的结便在于此，在自己看来这些是不必解释的。韦博文将浣纱怀有杨炎骨肉之事告诉了卢杞，卢杞听到杨炎还有骨肉在事上便下了杀令。韦博文将卢杞要杀浣纱之事来紫檀殿相告，众人不解为何卢杞会知道此事。小玉当场便要和浣纱离开并让慈瑞及樱桃也一同离开。小玉等人离开长安没多久便被韦博文拦住并露出真面目，就在韦博文下令杀了浣纱时长安县令罗承忠正好到此救下小玉等人。纳兰东和靖澜到了霍王府后霍王妃已经搬离府中只有何嫂一人。靖澜较有心计拉着何嫂一起到酒馆吃饭，打探淑王妃的下落。在何嫂那打听到淑妃曾带霍王妃避难到过玉京观。纳兰东和小玉回到上都后听说小玉一家离开便要去找李益问问情况，两人到李益家却见到李家在办丧事，李湛去了。皇上很苦恼没想到废了杨炎，卢杞却成了杨炎第二。鲍彩凤从莫玥那发现了小玉的住址在马家村，鲍彩凤拿着这个消息告诉了卢杞。卢杞让韦博文操办此事。韦博文带着官兵到了马家村不过并没有小玉等人，鲍彩凤耍了卢札这么做的目的就是为了让小玉等人可以跑的更远。杜意浓想要从莫玥口中探得小玉消息，但莫玥没有给杜意浓一点机会。李益前来卢府，卢杞告诉李益此次南诏谈判一定要满足南诏所有要求来换取和平，李益拒绝如此做卖国之事。但卢杞软禁了李夫人来要挟李益。李益离开出使南诏时留给一封信转交小玉并告诉秋阳一定不可泄露小玉行踪，前来相送的韦博文发现了李益给了秋阳一样东西。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1336</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep33.20131018.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="33" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20131018 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>1018</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1336</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep33.20131018.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1018" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

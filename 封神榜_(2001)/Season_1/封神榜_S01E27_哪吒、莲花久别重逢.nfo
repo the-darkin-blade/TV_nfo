@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>哪吒、莲花久别重逢</title>
+  <originaltitle>Episode 27</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id>4418953</id>
+  <uniqueid default="false" type="tmdb">2025546</uniqueid>
+  <uniqueid default="false" type="trakt">1484674</uniqueid>
+  <uniqueid default="true" type="tvdb">4418953</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>哪吒被姜子牙封为伐纣大元帅，可谓如愿以偿，成功之余更令哪吒对十娘不离不弃之恩情感激不已，两母子感情更形坚固，哪吒利用风火轮带十娘与李靖相见，李靖心中欣喜莫名，琵琶看在眼里，不是味道！
+
+子牙安排各人伐纣工作，而哪吒的第一件任务就是被安排到云中子处取天怒神剑，以便利用此剑到朝歌斩妖除魔，十娘陪哪吒到云中子处，居然能够与莲花久别重逢，三人内心百般滋味在心头，哪吒决定留在终南山助云中子用五味真火练剑，而十娘与莲花则先回朝歌打探军情，谁知一踏入朝歌，即见李靖在大街大巷将金吒、木吒打至遍体鳞伤，原来二人被狐狸精上身，然后公然调戏良家妇女，李靖知悉大为震怒，而两兄弟却不明自己做错何事，十娘看在眼里，伤心不已，但为了不想暴露行踪，所以惟有忍痛离去。哪吒练成怒神剑，与莲花到朝歌准备入宫挂剑，消灭妲己，谁知半路得知九尾狐及琵琶恶行，决定找李靖见面，叫李靖以天怒神剑消灭琵琶，李靖对哪吒所言半信半疑，但仍把剑带回家，以证琵琶到底是人是妖！</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1046</width>
+        <height>720</height>
+        <durationinseconds>1408</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>27_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

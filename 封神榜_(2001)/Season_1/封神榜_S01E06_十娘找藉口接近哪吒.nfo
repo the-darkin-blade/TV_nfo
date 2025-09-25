@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>十娘找藉口接近哪吒</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>4418922</id>
+  <uniqueid default="false" type="tmdb">2025519</uniqueid>
+  <uniqueid default="false" type="trakt">1484574</uniqueid>
+  <uniqueid default="true" type="tvdb">4418922</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李靖奉命出兵大战犬戎巨人，因十娘不在身边。靖心中忐忑不安，商军气势如虹，本可乘胜追击，但靖突然撤退，众人不明所以，金吒、木吒不明靖撤军理由，琵琶乘机游说二人一起夜袭敌方军营，金吒、木吒为助靖一臂之力，遂接纳琵琶之建议，谁知大败于巨人手中，幸靖及时出现相救，可惜靖因而受伤，琵琶巧妙将一切责任推卸在二子身上，令二子遭靖严责。
+
+三太子又再出现苦缠莲花，哪吒恐吓三太子再出现，不单要取其性命，更会火烧龙母塔，三太子怀恨在心，龙王颠倒四时气节，令民不聊生，民怨沸腾，书斋众人决定到龙母塔拜祭，祈求龙王大人有大量，早日放晴，哪吒负气决不前往拜祭。众人在拜祭之际，三太子居然火烧龙母塔，立心嫁祸哪吒，龙母塔火势熊熊，众人无法逃生，十娘以为哪吒被困在内，故以法术护真身，冲入火场救人，得知哪吒不在而放下心头大石，亦顺利救出书斋众人，可惜却救不了自己，哪吒救出十娘，十娘假称自己受女娲娘娘所托，负责造就哪吒，众人半信半疑，另边厢，靖战败沙场，身处险境……</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1048</width>
+        <height>714</height>
+        <durationinseconds>1439</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>06_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

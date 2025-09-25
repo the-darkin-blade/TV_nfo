@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>哪吒、杨戬、雷震子一齐被封将</title>
+  <originaltitle>Episode 26</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id>4418951</id>
+  <uniqueid default="false" type="tmdb">2025545</uniqueid>
+  <uniqueid default="false" type="trakt">1484668</uniqueid>
+  <uniqueid default="true" type="tvdb">4418951</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>姜子牙八十岁遇上姬昌，被封为丞相，而姬昌亦齐集各路正义之师，改国号为周，准备齐心伐纣。
+
+纣王仍对妲己宠幸有加，朝中群臣，只要稍有不顺从者，妲己即对其施以炮烙之刑，令众臣对国事均闭口不言，另边厢，子牙亲到苏护军营邀请苏护一齐出兵伐纣，苏护一口答应，更道出曾得无字天书一块，上面显示必有三目神将相助，更说出此神将三大特征，就是目不识丁，口食七斗米，兼且有三只眼，十娘、哪吒、雷震子一听之下即说出此人是杨戬，且身在苏军营中，苏护喜出望外，而婵玉、土行孙则想先下手为强，暗中偷走无字天书，谁知所作所为给苏护识破，两人被赶出军营，二人师傅申公豹代婵玉、土行孙找苏护算帐，谁知一一败于子牙手下，令申公豹之三尖两刃枪，哮天犬、四不像、雷公凿、火鸾神鸟全部归子牙一方，更被逼交出天尊神水令哪吒顺利回复真身。
+
+姜子牙登坛封将，哪吒被封大元帅，赐火鸾火凤、杨戬被封左先锋，获赐三尖两刃枪，哮天犬为座下神兽，雷震子被封右先锋，获赐雷公凿及四不像一齐完成伐纣灭商大业。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.56</aspect>
+        <width>1152</width>
+        <height>720</height>
+        <durationinseconds>1426</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>26_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

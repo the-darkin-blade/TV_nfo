@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 20 集</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>宠物情缘</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>7480292</id>
+  <uniqueid default="false" type="tmdb">2001440</uniqueid>
+  <uniqueid default="false" type="trakt">3823865</uniqueid>
+  <uniqueid default="true" type="tvdb">7480292</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>男送敏回家，期间敏失踪，男的紧张态度令敏知道已找到真爱，二人最终成眷侣。仁对一女子陈琪认真起来，朗替仁高兴，至于珊则几经辛苦，买回硕心爱之风帆，期间遇仁与女子状甚亲密，审问下才知朗为自己作出了牺性，心下有所决定。翌日黄昏，珊安排硕与朗见面解释一切，Rocky与豆豆也主动帮忙，硕终实现梦想，与朗及珊一起扬帆出海，Rocky与豆豆亦完成任务，温馨地依偎在一起。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1576</width>
+        <height>1080</height>
+        <durationinseconds>2730</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 宠物情缘 Ep20 End 2016 05 31_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

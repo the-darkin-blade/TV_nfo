@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>哪吒一人出征作战到底</title>
+  <originaltitle>Episode 40</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>40</episode>
+  <id>4418966</id>
+  <uniqueid default="false" type="tmdb">2025562</uniqueid>
+  <uniqueid default="false" type="trakt">1484794</uniqueid>
+  <uniqueid default="true" type="tvdb">4418966</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>凝香正想带纣王潜逃冷宫，被琵琶及申公豹所擒，更交予妲己法落，纣王哀求妲己，无奈妲己眼中的纣王无是处，纵纣王连番哀求，亦难逃妲己魔掌，纣王终死在自己终日沉醉之地方——酒池肉林。令妲己更意气风发……
+
+九尾狐以箭射伤火凤，令青鸾一时顿失所依，更归顺九尾狐，倒戈相向哪吒，哪吒大军抵不住九尾狐与申公豹所施之妖法，一一倒下。雷震子见形势险要，劝哪吒下令退兵，可惜哪吒义奋填胸，决一人手持战旗出征，亦不能临阵退缩，可惜不单未能击退九尾狐，更被火凤连番袭击，渐感不支……
+
+黄颜含辛茹苦养育念郎，一日，婵玉突到访颜家，表示奉杨戬所命，令黄颜欢喜莫名，更求婵玉带她及念郎与杨戬相见，可惜婵玉道出杨戬已被册封为伐纣大元帅，而自己却与杨戬征战沙场，出生入死多年，两人日久生情，更在军中结成夫妇，从今以后，要与黄颜共事一夫，婵玉是大，黄颜是小，黄颜听罢，几乎晕倒，多年盼望付诸流水……而宫中的妲己，仍坚持与子牙大军对垒，最后亦只有子牙才能为妲己一生划上句号。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1048</width>
+        <height>720</height>
+        <durationinseconds>1415</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>40_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="40" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

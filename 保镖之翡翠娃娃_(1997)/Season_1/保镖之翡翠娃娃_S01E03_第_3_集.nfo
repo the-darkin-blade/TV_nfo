@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 3 集</title>
+  <originaltitle>第 3 集</originaltitle>
+  <showtitle>保镖之翡翠娃娃</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3169318</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>辛力当街杀人，遭锦衣卫怀疑是邓府一案的窃贼，郭旭解围。郭旭派人冒小彭王爷之名向胭脂订酒，却被胭脂识破，她往找郭旭摊牌。邓忍把妻子翁惜珠的翡翠娃娃掉包，送予楚楚。小彭王爷为邓忍安排寿宴，胭脂带着酒前来。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>ATV</studio>
+  <studio>gotv</studio>
+  <studio>ATV Enterprises Limited</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1040</width>
+        <height>718</height>
+        <durationinseconds>2801</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>保镖之翡翠娃娃.03_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 18 集</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>老友狗狗</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195988</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>用恭冒雨追回羡如，她坦言难以接受用恭的为人，决定和他分手。天娥得悉羡如和用恭分手，急迫俊升兑现承诺，他却为羡如失恋而感痛心。  羡如以繁忙的工作来麻醉自己，俊升加以安慰，使她忍不住失声痛哭；用恭则为自己未能揭穿思思的目的而感悔恨。天娥把余数给予思思，答应为她解释不辞而别的原因，未料她坚持要完成一些事情才会离开长胜村。  用恭生母　另有其人  天娥在狗场的垃圾箱发现毒药和制作蛋糕的材料，联想到思思的异样，使俊升急往找羡如。思思把蛋糕送予羡如，并幻想她毒发的情况，幸得用恭等人及时赶到，俊升把思思制伏，终于证实思思早前因感情受创，而导致失常。  羡如得悉一切是天娥的设局，但仍决定和用恭分手，使用恭终日醉倒家中，又向阿黄诉说思念羡如，使它每天来到狗场把羡如曾接触过的物品带回来。俊升看到亚萍为用恭自甘堕落的情况而担心，情急下说出两人非亲生母子的关系，亚萍亦决定向用恭说出真相。  母子重逢　用恭错愕  俊升道出自己在山打根调查得知亚萍的丈夫和村长份属好友，根据蕙娟的描述，推断村长当年把用恭交托的人，正是亚萍的丈夫，此时蕙娟到来见用恭，使他感到难以适应。  蕙娟带用恭到高级酒楼用膳，提出欲和他到美国生活，亦介绍其外籍男友在上流社会的地位。及后，蕙娟带用恭往置装，亚萍对眼前的用恭另眼相看。 用发往找羡如，解释用恭成年时往召妓的事纯属误会，连用恭也被蒙在鼓里，无奈仍未有打动羡如。亚萍眼看用恭将有机会过更好的生活，决定成全两人母子团聚。  亚萍狠心　破坏关系  用发再次为有人替他准备好一切而感奇怪，追至天台时发现亚萍的踪影不禁失望，向他道出用恭当年往召妓纯属误会一事，其实是替自己掩饰。亚萍离开后，却发现是美莲一直为他准备膳食和衣服，以及听到他曾往召妓的事，气得追打他。  亚萍性情大变，不再为用恭做饭，整天只顾打麻将，用恭亦不以为然。谁知，亚萍竟瞒着用恭将阿黄卖回予他原来的主人，两人起争执，亚萍不欲再照顾阿黄，亦为了让它过更好生活为理由，终于令用恭忍痛目送阿黄被带走。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1874</width>
+        <height>1080</height>
+        <durationinseconds>2657</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>18_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

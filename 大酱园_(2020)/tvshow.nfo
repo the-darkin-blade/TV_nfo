@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:10:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>大酱园</title>
+  <originaltitle>大醬園</originaltitle>
+  <showtitle>大酱园</showtitle>
+  <sorttitle/>
+  <year>2020</year>
+  <top250>0</top250>
+  <ratings/>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>万冠园是佛山酱油业百年老字号，大当家万启山（吴岱融饰）与夫人席德容（龚慈恩饰）坚持「传男不传女，传内不传外」的宗旨，可是一宗毒酱油事故，使他不得不答应让夏小满（朱晨丽饰）及叶细么（龚嘉欣饰）两女加入，与其子万卓枫（何广沛饰）成为同期学徒。三人与酱园小师傅华歌（吴业坤饰）建立了复杂的四角关系，又间接揭发了万家多个秘密，加上卓枫突然被掳走，人心惶惶。酱园内，启山几个弟弟启石（郑子诚饰）、启川（陈嘉辉饰）及启江（徐荣饰）酝酿分家，酱园外，专员高兆荣（袁文杰饰）也密谋夺取酱园财产，万冠园百年基业随时毁于一旦！</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"98252","tvdb":"375783"}</episodeguide>
+  <id>375783</id>
+  <imdbid/>
+  <tmdbid>98252</tmdbid>
+  <uniqueid default="false" type="tmdb">98252</uniqueid>
+  <uniqueid default="true" type="tvdb">375783</uniqueid>
+  <premiered>2020-01-20</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <tag>big family</tag>
+  <tag>family business </tag>
+  <tag>family secrets</tag>
+  <actor>
+    <name>龚嘉欣</name>
+    <role>Ye Thin</role>
+    <profile>https://www.themoviedb.org/person/1622984</profile>
+    <tmdbid>1622984</tmdbid>
+  </actor>
+  <actor>
+    <name>江嘉敏</name>
+    <role>Gao Shuangshuang</role>
+    <profile>https://www.themoviedb.org/person/1839420</profile>
+    <tmdbid>1839420</tmdbid>
+  </actor>
+  <actor>
+    <name>杨卓娜</name>
+    <role>万玉莺</role>
+    <profile>https://www.themoviedb.org/person/2548590</profile>
+    <tmdbid>2548590</tmdbid>
+  </actor>
+  <actor>
+    <name>龚慈恩</name>
+    <role>Sidron</role>
+    <profile>https://www.themoviedb.org/person/1310288</profile>
+    <tmdbid>1310288</tmdbid>
+  </actor>
+  <actor>
+    <name>吴岱融</name>
+    <role>Wan Qishan</role>
+    <profile>https://www.themoviedb.org/person/1187932</profile>
+    <tmdbid>1187932</tmdbid>
+  </actor>
+  <actor>
+    <name>朱晨丽</name>
+    <role>Xia Xiaoman</role>
+    <profile>https://www.themoviedb.org/person/985095</profile>
+    <tmdbid>985095</tmdbid>
+  </actor>
+  <actor>
+    <name>吴业坤</name>
+    <role>Huage</role>
+    <profile>https://www.themoviedb.org/person/1688662</profile>
+    <tmdbid>1688662</tmdbid>
+  </actor>
+  <actor>
+    <name>黄嘉乐</name>
+    <role>Wan Zhuonan</role>
+    <profile>https://www.themoviedb.org/person/555909</profile>
+    <tmdbid>555909</tmdbid>
+  </actor>
+  <actor>
+    <name>何广沛</name>
+    <role>Wan Zhuofeng</role>
+    <profile>https://www.themoviedb.org/person/1773042</profile>
+    <tmdbid>1773042</tmdbid>
+  </actor>
+  <actor>
+    <name>韦家雄</name>
+    <role>姜二更</role>
+    <profile>https://www.themoviedb.org/person/1160568</profile>
+    <tmdbid>1160568</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

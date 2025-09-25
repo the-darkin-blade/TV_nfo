@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿四巧妙应对区巡抚，区巡抚设局逼李重甲</title>
+  <originaltitle>阿四巧妙应对区巡抚，区巡抚设局逼李重甲</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>4938190</id>
+  <uniqueid default="false" type="tmdb">2728553</uniqueid>
+  <uniqueid default="false" type="trakt">1306031</uniqueid>
+  <uniqueid default="true" type="tvdb">4938190</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>阿四不提救父，只是嘘寒问暖。区巡抚节节刁难，阿四款款应对。区巡抚不禁纳闷，这小子竟是个可造之才啊。原来，为了消除上回翁婿叫板的阴影，能让区巡抚出手救李家，区舒云和阿四在李家早已大大演练了一番。闪回：区舒云教阿四，我爹是什么样的人，你该怎么说话，碰了钉子如何应对……如今阿四照猫画虎，有板有眼，稍加发挥，令区巡抚又一次刮目相看。直到区巡抚自己提起刺杀案很棘手，阿四才把李重甲献厂一事说出。区巡抚暗自心惊，李重甲竟背叛自己投靠铁山，同时也有兴奋点，原以为铁山一心要搞倒李玉堂，针插不进，但你铁山既有所求，我就有法应对。但区巡抚深藏不漏，却叫家丁把阿四押了起来。区巡抚把李重甲叫来，假意仍视他为心腹， 说看不上李重光，决意悔婚，又问除了献厂救人，还有没有别的办法？李重甲说唯一的可能是杀花青灭口，但铁刚看守很严，难以下手。区巡抚与他合计，如此这般。重甲立刻把全套计划密报铁山，区巡抚要安排一个洋医生来，明为打强心针要花青招供，实际上要下毒。铁山心里有了底，要把区巡抚拖进刺杀案。洋医生来了。铁刚负责检查药箱，按铁山的吩咐偷偷把两瓶针剂调换位置，把洋医生原本要打的针剂拿去化验。这边洋医生一针下去，花青蹬了几下腿－－死了！铁刚大惊，铁山赶来。洋医生绝不承认害死病人，说这是我药箱中的另一种药，跟花青病情相克，我不可能拿错，一定有人动过我的药箱，动药箱的人就是凶手。此时针剂化验结果出来，却是强心针无误。 铁山以为上了李重甲的当，立刻拿下李重甲，李重甲却指天发誓，二人几乎同时明白，他们全都上了区巡抚这条老狐狸的大当－－区巡抚故作不知李重甲背叛，却拿他当了枪使！区舒云与阿四企图逃离区府，却被区巡抚捆绑起来。情急之下差点暴露自己假扮李重光的实情，可阴差阳错得到了区巡抚的信任。区府大张旗鼓，送小姐回李家，这桩婚事才正式成立。铁山与李重甲越加怀疑李重光是阿四假扮。铁山不甘心认输，要李重甲抓紧办一件事，办成了就能翻盘。李重甲在区巡抚那里已身败名裂，只能投靠铁山。铁山要他找出李重光是假的证据。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep12_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>杨戬巧遇哮天犬</title>
+  <originaltitle>Episode 21</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id>4418944</id>
+  <uniqueid default="false" type="tmdb">2025538</uniqueid>
+  <uniqueid default="false" type="trakt">1484633</uniqueid>
+  <uniqueid default="true" type="tvdb">4418944</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>天意所弄，妲己被纣王打入冷宫，一切荣华富贵顿时消失，深宫更显寂寞，妲己时时刻刻想念凝香，可惜未能相见，杨贵妃眼见妲己被冷落，内心暗暗欢喜，更佯称深宫有鬼，令妃己害怕不已，原来，九尾狐已看上了妲己，决定找她做替身……
+
+纣王无道，强抢苏护爱女，令他五内俱焚因而毅然决定写下奏文，向上苍表达伐纣灭商之决心，果然，地震山摇，天地变色，上苍更赐下碑文一块，令他相信伐纣乃天意所容，故命婵玉、土行孙好好钻研碑文，要得出碑文中所指能助他伐纣之三目神将是何人，婵玉二人见苏护不看重自己，心感不快，更设法不让杨戬助苏护，另边厢，杨戬遇山贼，不敌，被逼走入山洞躲避，谁知遇上哮天犬，荒乱之际逃入洞中一大鼎内，更吃下鼎内仙丹，令自己第三只眼威力无穷。
+
+妲己在深宫只能与爱犬小古怪为伴，一日偷见凝香与纣王欢愉相处，内心难过不已，而杨贵妃更将小古怪杀死烹熟，令妲己悲痛欲绝更错手把杨贵妃之宫女春梅杀死，此时，九尾狐出现，更表示只有「她」才可助妲己夺回一切……</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1048</width>
+        <height>720</height>
+        <durationinseconds>1454</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>21_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

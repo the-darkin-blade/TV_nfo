@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:40 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>林冲风雪山神庙</title>
+  <originaltitle>林冲风雪山神庙</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026628</uniqueid>
+  <uniqueid default="false" type="trakt">7308115</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>鲁智深路过桃花庄，借宿在桃花庄刘太公家里，刘太公愁眉苦脸，一问才知道原来今晚桃花山的山大王就要来庄上抢亲，强娶刘太公的女儿。鲁智深想了个计策，假扮成刘太公女儿躲在洞房之内，引诱小霸王周通进了洞房。周通被鲁智深一顿暴打，鼻青脸肿逃走。刘太公惊慌，害怕山贼恼羞成怒带人来报复，鲁智深自报家门，谈笑等待。果然，不久周通就请出桃花山另一位头领李忠，带大队喽啰前来报仇。鲁智深与打虎将李忠相认，冰释前嫌，周通也只好放弃强娶刘小姐。李忠百般邀请鲁智深上桃花山落草，被拒绝，还要不舍得自己的金银，还要打劫山下路过的客商来为鲁智深凑盘缠。鲁智深看不起李忠的小气狭隘，不告而别。沧州牢城营，林冲已经安定下来，常去一小酒店喝酒，店主李小二曾经受他搭救，以恩人相待。某日李小二告诉林冲，京城来了两个官吏，曾在酒馆喝酒，提到过高衙内的名字，并且还听见他们暗暗商量要杀掉什么人，便提醒林冲小心。从李小二的描述中，林冲猜到是陆谦到了，思忖着恐怕高太尉要杀人灭口，于是倍加提防，然而过了六七天，也不见动静。营管让林冲去看守草料场，草料场的老军告诉林冲，天冷的时候可以去附近的小酒店喝酒。交割完毕，只剩下林冲一人，漫天大雪，林冲独自巡视草料场。夜里睡着，忽见林娘子前来相会，夫妻二人有说有笑，醒来发现是梦，已经泪流满面。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2652</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E12 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿四与区舒云密谋救秦少白，局势紧张</title>
+  <originaltitle>阿四与区舒云密谋救秦少白，局势紧张</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id>4938207</id>
+  <uniqueid default="false" type="tmdb">2728572</uniqueid>
+  <uniqueid default="false" type="trakt">1306442</uniqueid>
+  <uniqueid default="true" type="tvdb">4938207</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李家餐桌上，李重甲提起秦少白被抓与李玉堂有关，李玉堂否认。区舒云告诫阿四李重甲不可靠，世界上她只相信阿四一个人，阿四感动，决心帮助区舒云救出秦少白。革命党人于镇伟密找李重甲，请他设法营救秦少白。李重甲虚应着，忽然想明白阿四和区舒云一定是在合计营救秦少白。李重甲向铁山报告，铁山故意放松对秦少白的看守，准备引蛇出洞。阿四乔装出门，被李玉堂拦住。阿四说我是阿四，可我干的是重光一定会干的事，再说，就算为了区舒云救过我和李家，我也得去救秦少白！阿四的赤诚和魄力打动了李玉堂，但越是这样他越不能让阿四去送死。阿四说我有办法，不危险，你别管。李玉堂最终让开了去路，但他知道，李家的大难怕是躲不过去了。巡抚大牢，一桌酒菜，秦少白知道要上路。见阿四进来吃了一惊。阿四以李重光的身份先跪谢师恩，秦少白还在狐疑，阿四起身给了他两个耳光，怒斥他禽兽不如，与学生的老婆偷情，说罢给秦少白倒上一杯毒酒，秦少白一饮而尽。区巡抚在夹间暗处看得分明，原来阿四以秦少白勾引区舒云给自己戴绿帽子为借口，求区巡抚答应他一定要亲手杀死秦少白。区巡抚默许，也想借阿四的手，早日把秦少白解决掉。秦少白庾毙，铁山闻讯赶来，区巡抚也装做匆匆赶来。仵作验尸，说秦少白受伤太重，触发旧疾，心肌梗塞而死－－从验尸报告上看没有漏洞。铁山怪区巡抚看守不力，区巡抚嫌铁山拷打太重。反正人犯已死，只能拍照，埋尸。郊外乱坟岗，阿四重贿牢头，要把尸首带回人犯老家安葬。阿四拉着秦少白来到荒野，区舒云已经等在那里。铁山疑心区巡抚是杀人灭口，但抓不到任何证据。李重甲却提醒道，尸首由谁掩埋，是区巡抚的人，还是铁大人的人？一语点醒铁山，立刻派铁刚赶到乱坟岗，果然不见秦少白尸首。马车中，秦少白悠悠醒转，眼前区舒云与阿四。半路上，李重甲忽然出现，让阿四把秦少白交出来。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2638</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep29_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>Day03 人红招忌，小心暗器！</title>
+  <originaltitle>Day03 人红招忌，小心暗器！</originaltitle>
+  <showtitle>小资女孩向前冲</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>4202991</id>
+  <uniqueid default="false" type="tmdb">873153</uniqueid>
+  <uniqueid default="false" type="trakt">878069</uniqueid>
+  <uniqueid default="true" type="tvdb">4202991</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>承风的莅临让京师百货掀起一场职场风暴承风对杏仁允诺，将来如果设柜，京师百货是第一个选择杏仁高兴之馀却被子奇泼了一盆冷水。失了面子的招商部副总胡建中把压力转嫁给凯儿，忍辱负重的凯儿只能独自面对二个部门的双重压力，夜深时分，为了抵抗明日的挑战，凯儿会想出什麽因应措施？一则以喜一则以忧，升职的杏仁为了增进同事之间的和谐，邀约大家参加烤肉趴，但是为了梦梦屋，杏仁四年来一直过著节省的生活，这次杏仁该如何在食材的品质和生活费之间抉择呢？子奇接受凯儿看电影的邀约，却因为身无分文，只好用巧思精心布置了星空电影院原本想要有一个完美的约会，可是一想到在家准备烤肉趴的杏仁，心里感到十分愧疚，子奇要怎麽让约会更两全其美呢？从乐乐口中得知杏仁『梦梦屋』的梦想，子奇开始对自己过去的所作所为感到抱歉，希望能做些什麽来弥补自己的错误，子奇将怎麽帮助杏仁完成心中最重要的梦想？小资女孩的『梦梦屋』，即将亮眼呈现!</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TTV Main Channel</studio>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2692</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj Office Girls Ep03 Hdtv 1080I H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

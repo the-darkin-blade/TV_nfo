@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李念慈答应嫁给铁山救阿四，阿四被释放</title>
+  <originaltitle>李念慈答应嫁给铁山救阿四，阿四被释放</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>49</episode>
+  <id>4938228</id>
+  <uniqueid default="false" type="tmdb">2728593</uniqueid>
+  <uniqueid default="false" type="trakt">1307036</uniqueid>
+  <uniqueid default="true" type="tvdb">4938228</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>为了救阿四，李念慈答应和铁山先见一面。李念慈面对身穿清朝官服的铁山，认出他就是文先生，只觉双重的受辱与被骗，恨他！李念慈非常纠结，铁山表示愿意随她皈依基督。李念慈幻想铁山会改变，会在她的感化下变成一个仁慈的人。李念慈同意嫁给铁山。阿四被带出监牢，以为要被处死，想表现得更像一个真正的革命党，不想却被带到了铁山面前。铁山把阿四一直以来的所做所思说得一清二楚，出去以后好好搞制造局的生产，日子就太平了。阿四完全蒙了，李念慈忽然出现了，李念慈告诉阿四，铁山是你的姐夫。阿四完全懵了。铁山留下姐弟俩相对倾诉，阿四才明白李念慈以身救己的事，大哭起来。李念慈安慰阿四，以后咱们太太平平地过日子。阿四被释放。区舒云和阿纯都到狱外来接阿四。阿四发现他对她们的牵挂是一样的。他更发现，他的确不是原来的阿四了。越是这样，他越怀念“阿四”。回到李家，阿四跟阿纯说，真希望能跟阿纯就此消失，阿纯却一针见血，你已经做不回阿四了。阿纯表示要离开，阿四有点急了。阿纯说我又没说我不喜欢你了，我要做一个配得上李重光的女人。阿纯是在鼓励阿四，承担所有他该承担的责任。次日，教堂里，铁山与李念慈举行婚礼，被抓的革命党纷纷被处决，区巡抚绝望的呆在监狱中。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2653</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep49_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="49" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

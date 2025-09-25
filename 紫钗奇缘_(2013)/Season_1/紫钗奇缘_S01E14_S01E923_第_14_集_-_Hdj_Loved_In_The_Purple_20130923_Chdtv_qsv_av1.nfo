@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 14 集</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486668</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小玉在教导孩子舞蹈时发现一名叫柳枝的女孩被打的身上竟是伤，原来雷妈妈发现柳枝没有成为歌姬的天份要将柳枝卖到青楼，小玉为柳枝说情。浣纱发现小玉现在失去了往日的快乐。李益陪崔长空到紫檀殿来还钱，李益本想借机见小玉一面但浣纱出来表示小玉不想见客。小玉在教坊频频替人出头有人扬言要报复，鲍采凤，莫玥都劝小玉不要这样。杜意浓却站在小玉这边支持小玉的行为。小玉和浣纱在街上看到纳兰东和靖澜在一起，浣纱刚要喊被小玉拉走。纳兰东刚刚听到了一点喊自己的声音和靖澜说几句话便急忙在街上寻找起来，纳兰东赶到时小玉正遇到了麻烦有人要教训小玉亏得纳兰东出手将几人打跑。在酒馆中小玉果然因为纳兰东和靖澜在一起而吃醋，但两人没想到李益三人正是楼上饮酒看到纳兰东和小玉好像不同寻常。小玉这次又得罪教坊的人，纳兰东担心小玉安危一直陪着小玉，纳兰东劝小玉适可而止就好。小玉告诉纳兰东以后自己再不做了，他不喜欢的自己都不做，约了晚上让纳兰东到家里吃饭。结果在街上这一幕又被李益和秋阳看到。秋阳替李益愤愤不平要教训纳兰东。回到紫檀殿慈瑞让小玉不要再做那些事情，如果紫檀殿被其它教坊孤立的话这紫檀殿上上下下这么多人如何生活。正说话的时候下人跑进来告诉小玉看到李益和纳兰东打了起来。李益指责纳兰东横刀夺爱，纳兰东让李益别忘了是她负小玉在先，如果换做自己不管是什么身份都会义无反顾的爱她。小玉来后和李益大吵一架。小玉要到道观去清净清净让樱桃将李益诗稿都还给他。又到了过年，小玉仍然没有回来大家还是在邀月居过的年。小玉在道观收到一封信原来是丹净居士前来。丹净来见小玉表示自己早已知道杜意浓是自己的女儿，此次前来长安很希望能和杜意浓见上一面。小玉表示自己现在是自身难保将半块玉佩还于丹净。丹净告诉小玉烟缘天注定，老天将一切都已经替她选好了。年初七的这一天杜意浓和莫玥还有慈瑞来了道观。丹净看到了自己的女儿杜意浓，但并没有对话。杜意浓和莫玥见到小玉后，小玉劝意浓和丹净相认。这时慈瑞也进了门不充许小玉再这样下去。意浓劝小玉该珍惜娘亲。出门时丹净想认意浓但意浓却根本无意相认并将另半块玉佩还于丹净。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1336</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep14.20130923.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20130923 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>923</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1336</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep14.20130923.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="923" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

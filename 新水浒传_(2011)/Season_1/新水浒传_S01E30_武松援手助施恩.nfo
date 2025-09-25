@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>武松援手助施恩</title>
+  <originaltitle>武松援手助施恩</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026647</uniqueid>
+  <uniqueid default="false" type="trakt">7308133</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>武松路过孙二娘的酒店，孙二娘见武松皮裹紧，嘴上又不留情面，便起了徒财害命之心。于是与张青演戏想要戏弄武松。不料武松看出他们的把戏，就趁机想试探孙二娘和张青二人。而张青和孙二娘二人果真是重情义之人。武松随即便要和这对夫妇结为兄弟。张青夫妇见状，也非常高兴，并说明了刚才为难武松的原因。三人相谈甚欢。张青提议，杀掉两个解差，在店里多住几日，如果想落草为寇，可把武松引荐到二龙山。可武松却觉得二位解差待自己不薄，不能恩将仇报。张青也不再多言。武松别过，张青夫妇来到孟州大牢。身边的囚犯劝武松多守规矩，可武松不以为然，偏偏跟牢卒作对。牢卒被武松激怒，准备在打杀威棒的时候给武松一些颜色看看。而在一旁的小管营施恩却制止了牢卒的行为。施恩吩咐仆人，每天给武松好酒好菜伺候，并且绝对不能透露自己的半点消息。武松好吃好喝了数日，可是心里总是不安，于是便问起仆人到底是谁指使的。仆人不说，只说三月半年之后肯定告诉武松。武松这可哪里罢休，于是在武松的竭力要求下，施恩现身了。武松谢过施恩的款待，便急切的询问施恩用意何在。可施恩一直借口身体原因不肯开口。武松为了证明自己身体没有问题，举起大石墩。施恩啧啧赞叹，开始向武松道出实情。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1076</height>
+        <durationinseconds>2645</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E30 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

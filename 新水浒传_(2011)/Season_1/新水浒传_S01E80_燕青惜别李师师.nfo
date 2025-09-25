@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>燕青惜别李师师</title>
+  <originaltitle>燕青惜别李师师</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>80</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026698</uniqueid>
+  <uniqueid default="false" type="trakt">7308183</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>梁山军陈兵陈桥驿，军容整齐，气势不凡，徽宗见之十分欣喜，欲封官加爵，蔡京却进谗言，献计将梁山众将分调天南地北，削弱其势力，圣旨传下，梁山众人不肯分开，拒不从命，宋江求信使向皇帝表明心愿，不想和兄弟分开。朝堂上，宿太尉与蔡京童贯高俅等人唇枪舌战，力保宋江和梁山军，此时战报传来，南方方腊起义作乱，义军势如破竹，边防告急，无人能带兵平叛，宿太尉借机向徽宗举荐宋江，徽宗欣然应允，下诏令梁山军南下剿灭方腊叛军。出征之前，燕青来与李师师道别，言语之间，燕青流露出不建功立业誓不回的决心，李师师知道自己与他恐怕无法厮守，便提出与之结拜姐弟，其实是想借此机会，完成与燕青拜堂的心愿。李师师要徽宗以后不要再来找自己，愿意变卖家产，捐资助梁山军，并劝他看清奸臣的真面目，徽宗大怒，认为李师师与宋江有私情，醋意大发，迁怒宋江。蔡京童贯杨戬三人造访李师师，希望她能在徽宗枕边吹风，进宋江的谗言，否则便以性命威胁，李师师不为所动，以死明志，被躲在暗处的徽宗拦下，终于相信她对宋江只是敬仰，并无男女之情。徽宗召见宋江，以毒酒试探之，宋江大义凛然，准备慷慨赴死，徽宗大喜，赐予宝刀，并封为讨贼先锋。宋江带领梁山军和众将，誓师出发，南下征战。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2668</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E80 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="80" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

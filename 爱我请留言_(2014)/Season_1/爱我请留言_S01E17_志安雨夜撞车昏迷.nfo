@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:58:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>志安雨夜撞车昏迷</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>爱我请留言</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2299937</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>天送想起蔡妍始终无法接受悠悠不是亲生女儿，却因一个承诺而苦了四年，他担心一旦与初见一起，初见会重蹈蔡妍的覆辙，从此变得不快乐。
+
+初见未到六时便醒来，爱林比她起得更早，初见提议找点事做，便陪爱林到街市。悠悠怪父亲没让她见到初见便带她回家，不肯向天送说早晨，要求天送把初见变回给她。
+
+爱林听到悠悠给初见的录音短讯，加上初见给悠悠回覆的说话内容，明白了一切。天送答应悠悠会变回初见给她，悠悠要同时见到天送，天送却谓见不到也是陪着她的。  子翔学习　放下前度  爱林觉得初见与天送应在一起，并认为女儿已找到全世界最好的男人。初见问母亲天送为何要害怕，爱林指天送担心自己对初见不够好。
+
+志安送柳娟上班，他表示想听柳娟唱歌，柳娟觉得志安有点像歌曲&lt;蒙眬夜雨里&gt;的「他」，柳娟表示下次会告诉志安歌里的那个「他」是谁。
+
+初见整天没吃东西，子翔从初见的话中听出天送已再没与她通讯，相反子翔却收到短讯，而他亦已学懂把前度放下。初见替他高兴，只是子翔表示短讯并非来自一个适当的人。  背起皎妃　摸黑下楼
+
+子翔以为初见已找到对的人，初见坦言本已找到，可是又给变走了。初见回家只见悠悠与家人正等待她吃晚饭，却不见天送影踪，爱林谓天送知道初见见到悠悠便会笑，所以带女儿来，自己却没留下。
+
+志安再次问柳娟&lt;蒙眬夜雨里&gt;的「他」是谁，柳娟依旧说下次才告知他。  金贵突然敲锣打鼓的催促皎妃落楼，皎妃急忙中只拿了镶了她身份证明书放大本的相架，金贵还背起她下楼，皎妃以为发生火警，却原来是大楼停水停电。金贵带她到运动场的更衣室洗澡，皎妃自觉没人爱，洗不洗澡也没关系。
+
+只要坚持　便有希望
+
+皎妃谓抛下母亲只身来港，只为在二十五岁前找到可以依靠的男人，明年她便满二十五岁，她自觉时间无多，相信愿望已无法实现。  金贵自言已五十多岁，仍在等待妻子把他存在银行户口的款项提取，他边等边储钱，已有五十多万存款。  皎妃坦言在盛宴餐厅听到金贵说根本不知妻女在何处，问金贵如何找她们。金贵谓自妻子带女儿离开他那天开始，他便开始储钱，妻子一天不把钱提取，即代表她仍未原谅他，则他会继续储钱，继续等，能等便会有希望。… ...</plot>
+  <runtime>61</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>3719</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>17_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

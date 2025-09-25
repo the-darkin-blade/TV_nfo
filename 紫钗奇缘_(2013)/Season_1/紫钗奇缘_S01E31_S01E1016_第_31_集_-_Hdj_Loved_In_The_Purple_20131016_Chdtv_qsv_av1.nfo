@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 31 集</title>
+  <originaltitle>Episode 31</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486685</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>纳兰东和靖澜回到紫檀殿告诉慈瑞明天一早自己再和娘亲入宫，只要能搜查杨府就会有小玉的下落。慈瑞着急的告诉纳兰东不能再等啦，莫玥就是前车之鉴。纳兰东一听这话担心小玉偷偷潜进了杨府却没有找到小玉的下落。　　第二天一早纳兰东便和宁国公主入宫请皇上作主，但娘娘却指出杨炎重权在握如果没有十足的把握千万不能动他。　　慈瑞在家里急的不行一点没有小玉的消息，这时鲍彩凤来紫檀殿告诉慈瑞小玉没有死，不过有一大户人家向小玉提亲，慈瑞知道这定是杨炎所为不愿答应但鲍彩凤告诉慈瑞来人还说如果不同意那回来的只能是小玉的尸体，慈瑞一听便晕了过去。崔长空还在杨炎府上临摹从丫环的语气中崔长空怀疑小玉在杨炎府中，崔长空在府中暗自找起来。崔长空找到小玉和浣纱的房间，不过门外上了锁，小玉和浣纱几日没有喝水说话都已经废劲。就在崔长空得知房内的小玉后想要去告诉纳兰东时被杨府管家发现殴打至死。杨炎要韦长空到紫檀殿去取紫钗作为信物，韦博文在离开时正看到杨府人抬着一具尸体出去，韦博文从发髻认出了是崔长空不过并不敢多有言语。杨府之人随意将崔长空和尸体扔到街上，韦博文杨家看到崔长空的尸首悲痛不已。崔长空的死对韦博文的触动很大约了杜意浓见面，韦博文问杜意浓自己这么做到底值不值，杜意浓告诉韦博文值不值都要走下去，开弓没有回头箭。杨炎来到小玉房中遭到小玉和浣纱的奋力反抗，但两人哪有体力反抗杨炎侮辱了浣纱。杜意浓和卢杞搞在一起时卢杞告诉杜意浓等李湛回来后后杨炎必死无疑。纳兰东，靖澜请求杜意浓带两人到杨府查探下小玉下落，两人在杨府被管家认出带着下人要便向两人出手。靖澜被抓，纳兰东被狠狠打了一顿。杨炎在上朝时终被皇上拿下，李益带着大批官兵到了杨府不但救了纳兰东和靖澜也终于将小玉救回。小玉在紫檀殿醒来后便要去看浣纱，慈瑞担心小玉的身子没让小玉去看。慈瑞还不知道发生过什么。浣纱身体好一些便来看小玉，浣纱告诉小玉现在外面传言小玉被杨炎侮辱不知李益是怎么想的。纳兰东来看小玉，小玉扑在纳兰东怀里一边哭一边打着他。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1334</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep31.20131016.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20131016 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>1016</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1334</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep31.20131016.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1016" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

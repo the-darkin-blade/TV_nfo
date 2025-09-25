@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 46 集</title>
+  <originaltitle>第 46 集</originaltitle>
+  <showtitle>忽必烈传奇</showtitle>
+  <season>1</season>
+  <episode>46</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2821448</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>按陈附马的兵马在旭烈兀的大儿子波日特手上，按陈附马和五公主被海都所杀。阿里不哥派海都找旭烈兀帮忙，旭烈兀并不承认阿里不哥是大汗的身份，他不希望看到兄弟相争，旭烈兀和忽必烈交好，他决定两不相帮。阿里不哥让海都带上手谕去调按陈附马的兵，海都见到波日特后知道他手上有两万兵马，他谎称旭烈兀已站在阿里不哥一旁，波日特难以选择，他听旭烈兀的指令，海都一刀杀死波日特后想赶尽杀绝……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2651</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Legend.Of.Kublai.Khan.Ep46.720P.Hdtv.X264.2Audio-Hdwtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="46" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

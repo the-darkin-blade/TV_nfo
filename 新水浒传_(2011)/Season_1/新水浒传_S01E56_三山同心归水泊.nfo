@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>三山同心归水泊</title>
+  <originaltitle>三山同心归水泊</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>56</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026673</uniqueid>
+  <uniqueid default="false" type="trakt">7308159</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>呼延灼攻打桃花山，周通不敌呼延灼双鞭，危难之时李忠挺身而出救出了周通，周通仓皇而逃，李忠被捉。周通逃到二龙山向鲁智深等人求救，几人商量之后当即决定对战呼延灼，营救李忠，幸而吴用及时出现阻止了几人的莽撞之举，原来宋江已带领一行人马突袭呼延灼，顺利救回李忠，王英则被呼延灼生擒。三山好汉为宋江忠义所感，纷纷表示愿归顺梁山。与此同时，慕容派出十万精兵，并派张统制拉拢杨志攻打二龙山，杨志回绝后张统制拿出事先准备好的毒蛹骗杨志服下，宋江向晁盖求援，林冲等好汉一应而起，纷纷向晁盖请求参战。杨志也回到二龙山磨刀霍霍蓄势待发。次日，呼延灼摆出长蛇阵攻打二龙山，众好汉在吴用的指点下顺利破阵，首战告捷，正当众好汉庆贺之时，传来张青和孙二娘被擒的消息，与此同时，杨志先前服下的毒蛹发作，倒地不醒，吴用急忙上前医治。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2662</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E56 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="56" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

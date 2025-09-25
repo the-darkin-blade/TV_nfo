@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 9 集</title>
+  <originaltitle>第 9 集</originaltitle>
+  <showtitle>忽必烈传奇</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2821411</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>刘秉忠在南堂寺法号子聪，海云大师知道他六根未净，他心中放不下尘世间的百姓，刘秉忠想为老百姓们做些事情，海云大师劝刘秉忠跟随忽必烈而去，造福众生才是最重要的。忽必烈见到刘秉忠，刘秉忠将条件说在前面，忽必烈没想到他会那么年轻，他安排手下先去邢州，忽必烈要和刘秉忠单独在后面前往。吃饭时刘秉忠故意提醒忽必烈注意事项，忽必烈要了两份牛肉，他没意识到刘秉忠只吃素食。抢盗闯入旅店将客人们集中在一起，忽必烈正和刘秉忠在一起洗澡，领头的人是董文用和董文忠，忽必烈出门后和他们争执起来，抢盗围攻忽必烈，忽必烈因衣服被抢而被抢盗制服。董文用和董文忠率人抢了客人财物，因忽必烈的反抗让他们变得更加疯狂。忽必烈只好穿上旧衣服随刘秉忠继续前行，刘秉忠感觉此事有些奇怪，那些抢盗的行为让他生疑。入夜后忽必烈和刘秉忠住在残破的房屋里，刘秉忠第二天一大早就去化缘，他们在途中遇到商队后搭伴而行，忽必烈感觉还是当老百姓好，一路所见都是他平生未见的状况。商队在赶往邢州的途中被马贼拦住，马贼将东西抢走，上前理论的人被杀死，忽必烈看到后上前打抱不平，刘秉忠拉他跑开，两人从高处跳入水中逃生。忽必烈不会游泳，刘秉忠将他拉到岸上，忽必烈吐出不少水，他们只能走水路，只是没船。忽必烈看到岸边的小船后让刘秉忠滑行，两人快到邢州时在一处林中上岸，刚一上岸就看到渔村的破落之象，向村民询问后才了解真相，都是蒙古兵逼抢所致。吃饭时忽必烈没想到老百姓会吃那样的菜，第二天上路时听到盗贼来的喊声，忽必烈随渔民们一同上山躲避。抢盗在渔村放在狠话后离开，他们让渔民们在五天内将粮食交到指定地方，忽必烈问过老百姓后知道盗匪的关目是赤面蛟，老百姓们也是无粮可抢，刘秉忠和忽必烈想留下来帮他们打退盗匪，老百姓不想连累他们，刘秉忠建议忽必烈去邢州调兵，但忽必烈的上任文书被盗匪抢走，调兵也来不及救援，忽必烈和刘秉忠留下来准备和老百姓一起对付盗匪，村长带来了村里的所有能人。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>2656</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Legend.Of.Kublai.Khan.Ep09.720P.Hdtv.X264.2Audio-Hdwtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

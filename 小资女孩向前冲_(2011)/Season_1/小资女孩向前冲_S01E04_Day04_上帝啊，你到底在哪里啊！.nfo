@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>Day04 上帝啊，你到底在哪里啊！</title>
+  <originaltitle>Day04 上帝啊，你到底在哪里啊！</originaltitle>
+  <showtitle>小资女孩向前冲</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>4202992</id>
+  <uniqueid default="false" type="tmdb">873154</uniqueid>
+  <uniqueid default="false" type="trakt">878070</uniqueid>
+  <uniqueid default="true" type="tvdb">4202992</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>红酒香甜醉人，却让杏仁的梦想，碎了。梦梦屋的梦想近在咫尺，可是绊脚的衰事接二连三；招商部副总胡建中为了自身的利益，不顾公司中秋商品的品质，坚持要营业部销售不良月饼；史特龙为了增加业绩，要杏仁去跟收藏家商借价值不菲的红酒，当作月饼DM的陪亲，不料。突如其来的意外，让杏仁从天堂掉入地狱，古灵精怪的乐乐想到一个妙招，是否能帮助杏仁度过难关？子奇为了帮助杏仁，把面对招商部挑衅的责任一肩扛下，转过身却听到凯儿满腹的委屈，子奇陷入两难；为了解决这个窘境，子奇反被史特龙冷冻，子奇该如何破冰而出？陷入低潮的杏仁闷闷不乐，被子奇发现，子奇三番二次追问杏仁原因，都被拒绝，子奇是否会发现杏仁隐藏的秘密？子奇无意间流露出对杏仁的关爱，这份情感会不会被单纯的杏仁察觉呢？关关难过关关过！子奇和杏仁这次如何破解临头的大难？轻轻拭去杏仁的眼泪，让善良的杏仁跟着子奇冲破重重障碍吧！</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TTV Main Channel</studio>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2683</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj Office Girls Ep04 Hdtv 1080I H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

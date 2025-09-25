@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>立勋主动开解哲行</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>4949950</id>
+  <uniqueid default="false" type="tmdb">1984057</uniqueid>
+  <uniqueid default="false" type="trakt">1305905</uniqueid>
+  <uniqueid default="true" type="tvdb">4949950</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>美贞因为未能原谅哲行当年欺骗自己，故独自离家出走，直至早上也未曾回家。
+
+另一方面，刘淼怒气冲冲地找哲行问话，原来哲行的事已在报章杂志上大肆报道。刘淼明白刘焱虽然可恨，但却是自己在世的唯一亲人，故此刘淼不能够接受自己与哲行在同一屋檐下，便收拾细软搬出哲行的家。
+
+刘淼与美贞相见，刘淼因为不想破坏美贞的幸福生活，故特意安慰好友，更指美贞应回到哲行身边，但是美贞决心与哲行划清界线，便与刘淼一起找新地方居住。
+
+伤心美贞　提出分手
+
+美贞离家出走后，哲行便一直努力寻找美贞的下落，但找了很多地方也找不到，最后哲行终在码头找到她。因为这个码头满载两人重要的回忆，故哲行便希望在此说服美贞原谅自己，但美贞却未能对哲行所做的事释怀，更决定向哲行提出分手，拒绝与他成婚。
+
+另一方面，绰姿虽然知道承义的死与自己无关，但始终自己亲眼目睹承义离世，故一直对此感到焦虑甚至影响工作情绪。最终绰姿为了解决情绪问题，主动向立勋求助。另一方面，以铿因为担心女儿，便反对绰姿与立勋来往，更决定带绰姿离开香港以分隔两人。
+
+发现好友　被夫毒打
+
+美贞与哲行分手后便与刘淼相依为命，却在街上重遇昔日好友应心。应心在杂志上得知哲行将与美贞结婚，即替美贞感到高兴。但应心不知道美贞已经向哲行提出分手，出言伤害到美贞也懵然不知。之后美贞发现应心面上有伤痕，原来应心婚后经常被丈夫毒打。
+
+美贞闻言后即出言说服应心与其丈夫分手，但是应心一心一意爱着自己的丈夫，故一直忍耐被暴力对待的婚姻生活，美贞闻言后亦想起了同样曾经伤害自己的哲行。
+
+哲行为爱　滚落楼梯
+
+立勋从哲行口中得知美贞提出分手，即帮助哲行约会美贞，美贞不虞有诈前往应约，一见哲行在场即转身离开。哲行见状即以轮椅打算追回美贞，美贞见哲行追来，便故意选行楼梯离开，希望藉此阻止以轮椅代步的哲行。但哲行为了追回美贞，竟然跳下轮椅滚落楼梯，可惜最后美贞仍然头也不回地离开，令哲行顿感心痛不已。
+
+之后美贞来到应心的家作客，而美贞亦在应心身上，找到了原谅哲行的想法。
+
+一意孤行　举办婚礼
+
+哲行一直未能放弃美贞，故决定让婚礼如期举行，但是美贞却决定独自到离岛避开哲行。一众宾客陆续到场，并且出言祝福哲行，但是美贞却仍然未出现，最后哲行只好解散一众来宾……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep17.20140805.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>忠奸人 Hdj Black Heart White Soul 20140805 2Audio Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>805</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep17.20140805.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="805" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

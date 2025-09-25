@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>子聪设计陷害美贞哲行</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>4940283</id>
+  <uniqueid default="false" type="tmdb">1984049</uniqueid>
+  <uniqueid default="false" type="trakt">1304510</uniqueid>
+  <uniqueid default="true" type="tvdb">4940283</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>启源因为被卷入一宗涉嫌洗黑钱的诉讼，敏晖便要求哲行担任启源的辩方律师。敏晖及启源如此信任哲行，原来与当年美贞一案败诉有关。敏晖为了进一步吸引哲行，更即场支付大量现金给哲行，哲行为了早日进行昂贵的复健手术，终决定接受敏晖的指示，为启源摆脱控罪。
+
+美贞自从与哲行正式交往后，两人的关系愈来愈亲密，但哲行心中却一直将当年美贞败诉的真相保密，令美贞一直蒙在鼓里。另一方面，美贞却逐渐放下当年被冤枉入狱的阴影，更开始与立勋之间建立起朋友关系。
+
+忽然富贵　立勋起疑
+
+承义自从正华被绑架事件后，生活便开始变得奢华，甚至购买新的座驾。立勋了解承义一向的经济状况，不禁因此深信承义是收取了永光的好处。立勋向承义加以盘问，但承义却加以否认，指自己的收入是靠赌博赢来的。之后承义利用职权，将罪犯的资料带到绰姿的家，以让绰姿能够完成论文。
+
+承义为了制造惊喜，更突然向绰姿送上蛋糕。虽然绰姿却未有因承义的举动感到高兴，但此情此景却被刚好前来探望的以铿夫妇看见，更因而令嘉莉误以为绰姿喜欢承义。
+
+哲行挺身　守护美贞
+
+哲行担任启源的辩护律师后，更深得启源的赏识。一直对事件冷眼旁观的子聪，终于为哲行被重视之事甚感不快，并认为哲行正抢夺他在启源身边的地位。
+
+为了对哲行进行报复，子聪特意设计，陷害美贞偷窃同事的财物。美贞被众人怀疑，亦因被勾起了当年被诬蔑入狱的不快回忆。哲行见美贞有难，即挺身而出为美贞出头，众人亦被哲行的气势震慑。最后同事的财物被寻回，事情才告终结。
+
+但是此事看在敏晖眼内，却令她担心哲行会因为与美贞的关系而误了大事。虽然启源并不认同敏晖的意见，但却未能令敏晖感释怀。
+
+敏晖感恩　效忠启源
+
+敏晖对启源如此忠心的原因，是因当年敏晖曾骚扰证人而身陷险境，幸得启源出手收买人证才令敏晖保住律师牌照。启源对敏晖的能力亦相当欣赏，甚至为敏晖安排新的律师事务所让其发展事业，敏晖因而大受感动。两人虽关系亲密，但启源心中却似心有所属，与敏晖之间并没有爱情，故敏晖亦只能成为启源的红颜知己。虽然如此，敏晖却一直感激启源的提携，亦早已决定为启源奉献自己的一切。
+
+哲行失势　子聪暗喜
+
+哲行为了研究启源的案件，便翻查有关议员景昌的新闻。在调查时，哲行却在剪报中找出了与美贞一案的关联点……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1324</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep09.20140724.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>忠奸人 Hdj Black Heart White Soul 20140724 2Audio Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>724</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1324</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep09.20140724.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="724" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

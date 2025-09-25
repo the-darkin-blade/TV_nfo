@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>保镖之翡翠娃娃</title>
+  <originaltitle>保鏢之翡翠娃娃</originaltitle>
+  <showtitle>保镖之翡翠娃娃</showtitle>
+  <sorttitle/>
+  <year>1997</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>6.0</value>
+      <votes>1</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>在江湖传说中，失传已久的“翡翠娃娃”里隐藏着绝世武功秘籍，如今翡翠娃娃再现江湖，势必掀起一场你争我夺的腥风血雨。郭旭（何家劲 饰）是长风镖局的少局主，偶然之中得到了翡翠娃娃的他为了给云家庄五少爷治病，决心护送翡翠娃娃前往云家庄，一路上，好友封平（郑浩南 饰），程彩玉（刘玉婷 饰）、程铁衣（黄文豪 饰）兄妹成为了郭旭强大的后盾。
+
+　　得知郭旭的踪迹，江湖上无论是名门正派还是三教九流都派出了高手前去劫镖，就连官府的锦衣卫指挥使翁泰北（陈鸿烈 饰）也跃跃欲试。面对接二连三出现的敌人，郭旭一行人能不能顺利抵达目的地呢？</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"109579"}</episodeguide>
+  <id/>
+  <imdbid/>
+  <tmdbid>109579</tmdbid>
+  <uniqueid default="true" type="tmdb">109579</uniqueid>
+  <premiered>1997-07-07</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <genre>Action</genre>
+  <studio>ATV</studio>
+  <studio>gotv</studio>
+  <studio>ATV Enterprises Limited</studio>
+  <country>台湾</country>
+  <tag>romance</tag>
+  <tag>wuxia</tag>
+  <tag>costume drama</tag>
+  <actor>
+    <name>何家劲</name>
+    <role>郭旭</role>
+    <profile>https://www.themoviedb.org/person/109506</profile>
+    <tmdbid>109506</tmdbid>
+  </actor>
+  <actor>
+    <name>叶童</name>
+    <role>胭脂</role>
+    <profile>https://www.themoviedb.org/person/83696</profile>
+    <tmdbid>83696</tmdbid>
+  </actor>
+  <actor>
+    <name>刘玉婷</name>
+    <role>采玉</role>
+    <profile>https://www.themoviedb.org/person/1358812</profile>
+    <tmdbid>1358812</tmdbid>
+  </actor>
+  <actor>
+    <name>李婉华</name>
+    <role>楚楚</role>
+    <profile>https://www.themoviedb.org/person/1171386</profile>
+    <tmdbid>1171386</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

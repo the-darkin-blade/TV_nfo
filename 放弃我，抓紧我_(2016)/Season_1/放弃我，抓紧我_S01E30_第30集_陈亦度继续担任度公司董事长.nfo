@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第30集 陈亦度继续担任度公司董事长</title>
+  <originaltitle>第30集 陈亦度继续担任度公司董事长</originaltitle>
+  <showtitle>放弃我，抓紧我</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id>5894032</id>
+  <uniqueid default="false" type="tmdb">1250016</uniqueid>
+  <uniqueid default="false" type="trakt">2445094</uniqueid>
+  <uniqueid default="true" type="tvdb">5894032</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>里奥联合蒂凡尼在张太太跳广场舞的码头制造机会轻轻松松做好了张太太的思想工作。歌迪亚参观了度公司，并了解了他们最近的生产和销售情况，同时歌迪亚对自己听说度公司将召开董事会弹劾董事长一事提出疑问，陈亦度并没有回避此事，而是表示这正是度公司的民主体现，有任何分歧都可以以讨论和投票形式解决，而且这次弹劾大会还是由自己亲自领导筹备组织的，并请歌迪亚如有兴趣一起参加，会后再决定是否要和他本人和度长期进行合作。张太太正在家里教育张槐，霍骁不请自来登门拜访，他开门见山表示希望张槐能在董事会上继续坚持罢免陈亦度的态度，他则以说服父亲让张槐以合理的价格入股霍氏为酬劳。霍骁把自己的游说成果向莫凡通气，他总是不明白既然莫凡想要陈亦度下台，上次弹劾时为什么要出手帮他？莫凡称上次弹劾就让陈亦度下台，他充其量就是失去一个董事长的职位，而这次不同一旦他们成功陈亦度将会丑闻缠身、身败名裂，度也将失去入驻枫丹百货的资格。张槐在董事会上临阵倒戈，投了赞成陈亦度一票，最终陈亦度也以赞成六票比反对五票而继续担任度的董事长，歌迪亚也对公司的领导层的决断力表示满意。而等着看好戏的莫凡和康星自然沮丧无比，康星逼霍骁继续想办法，否则不要怪他们向厉薇薇下手。康星通过霍锐勇的嘴巴轻松让厉薇薇重新和陈亦度在一起的消息传到霍骁父亲的耳朵里，霍骁父亲警告儿子作为霍家的继承人，他必须把这个婚踏踏实实地结了。霍骁命令陈亦度离开厉薇薇，否则他就把厉薇薇失忆的事公开，陈亦度骂霍骁已经丧心病狂了，怎么能对薇薇下得去手，霍骁则说薇薇被他抢了，自己夺不回来那么只用把她毁了。陈亦度让蒂凡尼做一道假设选择题，爱情和事业二选一她会选哪个？蒂凡尼虽然选了爱情，但她又拖了一句说是像她这样的天才设计师如果不让她设计衣服她会被憋死的，况且如果她不是设计师，也许里奥根本不会喜欢自己。陈亦度从蒂凡尼的答案里得到了方向，他知道该怎么做了。陈亦度鼓起勇气向厉薇薇提出分手，他说自己爱的是七年前的厉薇薇，现在她只是暂时失忆，一旦她记忆恢复，也许会更恨自己，而他也将再次失去她。七年前就没有结果的事，七年后再重来一次，只会让他们再痛彻心扉一次。甜蜜约会回来的里奥和蒂凡尼在家门口热吻，耳中却传来薇薇的嚎哭声，里奥赶紧进屋查看，薇薇正看着电视里的《魂断蓝桥》，边吃着打包回来的蛋包饭，一边不忘痛哭流涕，把妆都哭花了，追问之下才知道她是失恋了。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Hunan Television</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2736</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>J2.Stay.With.Me.Ep30.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

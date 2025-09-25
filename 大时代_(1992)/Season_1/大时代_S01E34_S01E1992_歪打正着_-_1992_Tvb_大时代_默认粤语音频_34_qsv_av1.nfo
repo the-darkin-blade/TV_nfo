@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>歪打正着</title>
+  <originaltitle>Episode 34</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id>2399171</id>
+  <uniqueid default="false" type="tmdb">1460722</uniqueid>
+  <uniqueid default="false" type="trakt">1435929</uniqueid>
+  <uniqueid default="true" type="tvdb">2399171</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>星期一股市开盘，陈滔滔亲自进场，准备收购五蟹集团。展博一再叮嘱陈滔滔要小心，但陈滔滔自信满满，认为胜券在握。陈万贤出狱，丁蟹赶去请教他。陈万贤缠不过他，为了打发他，告诉他在运气旺的时候让他随便买，自己玩。丁蟹当真，把骂他的话“全部都死，就你没死”当作至理名言。展博想了两天，还是想不出问题在哪，只能一再的警戒陈滔滔要小心。 丁蟹要儿子把股票全放掉，他告诉儿子自己运正旺，看到全场的人都兴奋异常，想起陈万贤教他名言，预感到股市将会大崩盘。丁蟹把所有的钱拿来买期货，股市越升越高，所有的人都在买升，只有丁蟹买跌。展博终于也想到了，他分析了以前的几次股灾，料到必定会再次出现股灾，他叫陈滔滔紧急撤出，但陈滔滔却没有及时看到。恒生指数没有突破4000点就开始往下狂泻四百多点。丁蟹果然买中，但陈滔滔却惨败展博知道丁蟹赢了，决定回香港。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1406</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.34_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 34 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1406</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.34_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

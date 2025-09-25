@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:17:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>不群不信我飞失去武功</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>翻生武林</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1993652</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>云龙见我飞可怜，求娇凤收留他。鲁公公劝不群放下恩怨，不群不信我飞已失去武功，认为他正在背后策划阴谋。云龙在客栈摆下龙门阵，邀我飞尽诉武林秘密。我飞自责未能管束五大派，劝百姓在新武林盟主选举中投白票。孔杂、艾雪和宝宝与我飞商议光复武林之事，我飞表示以医治好双眼为首要目的，希望有人肯跟他以眼换眼。小龙珠因选情告急，由弟子带她到思过崖找小龙姑下山为她拉票。朝廷贾大人宣布青华当选盟主，五派人人意外……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2619</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Birth.Of.A.Hero.Complete.Hdtv.1080I.H264-Chdhktv.Ep10_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>谨遵师命　来富回港</title>
+  <originaltitle>Episode 29</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id>1623721</id>
+  <uniqueid default="false" type="tmdb">1992308</uniqueid>
+  <uniqueid default="false" type="trakt">1576573</uniqueid>
+  <uniqueid default="true" type="tvdb">1623721</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>来富向珠美提出欲追随正初到香港发展，珠美不舍仍支持来富的决定。正初到赌场找来富，子维却乘机揶揄他。来富终决心与正初回香港打天下，加入国权之私人会所与富豪们对赌，亦与正初的情谊更加深厚。欢畅因澳门赌场工程而分身不暇，竟不知来富已到了香港工作。汉昌病情恶化找欢畅聚旧，希望欢畅能回菲助子维打理赌场，欢畅婉拒好意。福荣回港后百无聊赖，小茵终邀他加入担当公关一职，福荣见又可与欢畅一同工作欣然答应。珠美从菲来港探来富，但来富事忙只送珠美白金卡，亦要她答应不能让青云得知自己已在香港。来富在会所再遇豹哥，正初知二人旧仇后，教来富报仇，更放高利贷及豹哥。青云每天也收到无名氏送的花，欢畅试探青云，青云表示可能是正初所为，但不会因此心动。青云真的和正初遇上，虽刻意回避，但正初致电说挂念她，令青云心乱。珠美遇上青云，不慎透露来富之事，来富向珠美大发脾气，珠美却说来富隐瞒太多。来富为令珠美释怀，特意带她到会所参观，却遇上豹哥被大耳窿毒打。珠美才知来富是在地下赌场工作，而正初更私下要胁将向来富说出她收钱做卧底之事，珠美恨错难返。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2689</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep29.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

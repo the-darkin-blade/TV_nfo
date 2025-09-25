@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>二人重遇　热情不再</title>
+  <originaltitle>Episode 26</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id>1623691</id>
+  <uniqueid default="false" type="tmdb">1992304</uniqueid>
+  <uniqueid default="false" type="trakt">1576564</uniqueid>
+  <uniqueid default="true" type="tvdb">1623691</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>正初在比赛前到护老院探望母亲，却遇上青云替公公婆婆拍照。正初驾车送青云回家却和欢畅遇上，青云坦白说出前因后果，二人拖手甜蜜而去，正初发觉一切为时已晚，黯然离去。国权约正初及来富打高尔夫，见珠美花枝招展出现，来富才知国权欲打珠美主意。来富见珠美不断向国权抛媚眼，感不是味儿。正初却看出来富喜欢珠美，心中暗笑。国权要珠美陪他过夜，珠美竟找来富代解围。国权不肯放珠美离开，正初出口相助让珠美与来富离去。正初要珠美当卧底，将来富的行踪相告，珠美以为正初对来富好便答应帮忙。珠美约来富见面想当他的经理人，来富以为珠美明白他心意却发现只是误会一场。珠美终得知来富喜欢自己，向正初说不能再胜任卧底，但正初却说服珠美两者可并存，珠美因此高兴地接受来富的爱。欢畅与青云受来富的邀请一同吃饭，欢畅见来富变得身光颈靓，更显出成功人士的形象。欢畅送钱给来富但他却不领情，更替正初说好话，认为欢畅对正初过分偏激，令欢畅大感不悦。欢畅因经验不足在第一轮赛事大败，正初却轻松取胜。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2684</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep26.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

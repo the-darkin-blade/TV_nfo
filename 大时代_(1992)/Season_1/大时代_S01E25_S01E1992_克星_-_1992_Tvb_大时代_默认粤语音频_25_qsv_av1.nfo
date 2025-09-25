@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>克星</title>
+  <originaltitle>Episode 25</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>2399081</id>
+  <uniqueid default="false" type="tmdb">1460712</uniqueid>
+  <uniqueid default="false" type="trakt">1435910</uniqueid>
+  <uniqueid default="true" type="tvdb">2399081</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>丁蟹害怕坐牢，在儿子面前痛哭流涕。 丁家人还是不断的骚扰方家，邻居怨言很多，展博等人只能默不做声。阮梅默默的帮助展博。龙纪文去台湾找周济生帮展博他们的忙，但周济生听信算命先生之言，认为龙纪文是他的克星，不肯帮忙。阮梅决定等展博的案子结束就回杭州。展博说要买一件东西给她，展博看中了一辆自行车，他带着阮梅去兜风。孝蟹他们为丁蟹找了好几个名律师来辩护。丁蟹不想认罪，还教律师怎么打感动牌，惹得律师生厌。最后律师告诉丁蟹在庭上的表现要斯文，丁蟹用一百八十种口气练习怎么说“我不认罪”。阮梅请展博吃饭，展博帮她收拾行装，发现了阮梅一直收藏着以前自己折的纸飞机，十分感动，情不自禁吻了阮梅。展博在上庭前和李sir说如果自己被判坐牢就托他照顾家人。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1404</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.25_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 25 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1404</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.25_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

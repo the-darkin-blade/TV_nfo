@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>哪吒终得知身世</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>4418926</id>
+  <uniqueid default="false" type="tmdb">2025522</uniqueid>
+  <uniqueid default="false" type="trakt">1484587</uniqueid>
+  <uniqueid default="true" type="tvdb">4418926</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>哪吒、雷震子带着莲花到达朝歌，三人以雷震子之飞天绝技而赚取盘川，可惜哪吒一路上对莲花粗声粗气，令莲花感觉受委屈，终在大街大巷放声大哭，引来金吒、木吒之质问，哪吒不满联同雷震子与金吒、木吒大打出手，哪吒又喷火，又出干坤圈，令金吒、木吒身受重伤。靖以为朝歌出现妖怪，气愤不已，而十娘从金吒、木吒之形容中，相信哪吒已到朝歌。琵琶看在眼里，暗喜此乃报复之好时机。
+
+十娘四出打探哪吒三人下落，谁知琵琶比她早一步找到三人，更欺骗三人在一茅屋中等十娘，三人不虞有诈。另边厢，琵琶耸恿靖用三神箭歼灭哪吒等人，靖言听计从，十娘得知靖放出神箭，即心急如焚，而神箭中的忠箭果然找着哪吒，并一箭刺下，幸哪吒身上有混天绫救回一命，靖并不死心，更一次使出忠、孝、义三神箭，三神箭射至哪吒面前，相信哪吒此次必死无疑……
+
+十娘被逼向哪吒讲出真相，哪吒得知自己乃李靖及十娘之子，一时不能接受，十娘为安抚哪吒，决亲自引见哪吒给纣王，纣王对哪吒身手赞叹不已，并封他为大将军。</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1048</width>
+        <height>720</height>
+        <durationinseconds>1461</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>09_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

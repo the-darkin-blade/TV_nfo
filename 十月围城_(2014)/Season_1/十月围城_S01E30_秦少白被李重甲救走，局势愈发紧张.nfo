@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>秦少白被李重甲救走，局势愈发紧张</title>
+  <originaltitle>秦少白被李重甲救走，局势愈发紧张</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id>4938208</id>
+  <uniqueid default="false" type="tmdb">2728573</uniqueid>
+  <uniqueid default="false" type="trakt">1306466</uniqueid>
+  <uniqueid default="true" type="tvdb">4938208</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>秦少白跟李重甲走，不要牵扯上区舒云和李重光。李重甲笑了，我来只是为了确认一些猜想，果然如此，可铁山的人一直跟着阿四，这片地方已经被包围了，只有我能带秦少白出去。区舒云不敢相信李重甲，可舍此别无办法。秦少白谢过“李重光夫妇”救命之恩，和他们道别，与李重甲消失在夜幕中。铁山抓住区巡抚的牢头去见总督，铁山说秦少白尸体不见了，又有牢头在此，人证物证俱全，如果总督还不肯配合他就自己动手。总督表示绝对站在铁山这边，只是明天下午有制造局股东大会，能不能等开完会再抓李家父子？铁山深知兹事体大，只好同意压下消息，另外派人盯紧李宅，防止李重光外逃。阿四区舒云临近家门，被李玉堂堵个正着。阿四还想遮掩，李玉堂说什么都不用说了，你必须马上走。已经给阿四准备好证件，钱，阿纯也派人去接了。李玉堂说那我更不能让自己的儿子死第二回！你只要走了，我不认账，铁山能把我怎么样？总督明白这回铁山彻底赢了，可他不想铁山一头独大，立刻向区巡抚通气，指出他上了女婿的大当，铁山就要发难了。区巡抚终于恍然大悟，猜到了李重光是假的。区巡抚冲到李家，要见李重光。区舒云出来阻挡，区巡抚令人把女儿绑回府，李玉堂挡在面前，说李重光已经走了。区巡抚彻底没辙了。李重甲救走秦少白，得到了李玉堂的信任，嘱托重甲以后担起李家的担子。一大早，阿四等在沙面，李玉堂亲自把阿纯送来了，阿纯与阿四在李玉堂安排下离开广州，挥泪告别。李玉堂回到李家，一向安心纳福的老太太忽然问起股东大会和这些天发生的一些事，李玉堂发现老太太对李家困局其实了如指掌，只好默认。老太太提出自己还存着大笔私房钱，能帮儿子度过难关。临出门，李玉堂拿出一个匣子交给母亲保存，老太太有不祥的预感。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2650</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep30_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

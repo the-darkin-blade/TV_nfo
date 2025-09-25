@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 19:06:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 6 集</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>老友狗狗</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3195976</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>天佑担心Bingo的情况而自责并茶饭不思，用恭加以开解。用恭在狗场工作，俊升要求他在照顾狗只时，留意它们的排泄物，从中可以了解狗只的健康状况，用恭感厌恶。
+
+羡如仍坚持用恭收养的那只自来犬「财神」是属于她的客人，遂出言嘲讽用恭，又以美食引开阿黄的注意力，用恭气结。晚上，用恭连输数场球赛，后惊悉财神失踪，遂与郭荣和小龙到处搜寻它的踪影。  用恭豪爽　投资「财神」  羡如的客人带来一只和另一客人相似的小狗，得悉他在附近的一间宠物店收养的，羡如遂到宠物店了解。郭荣通知用恭，在一间宠物店内看到财神的踪影，用恭感到奇怪。
+
+羡如带到狗只来到宠物店，又利用仪器检查得小狗身上的晶片，揭发店主阿Mo拾得流浪狗后，以店中名义作爱心领养，实为骗取爱心人士收养狗只后，光顾他买下其他供狗只用的产品。此时，嘉汶到来，用恭发现阿Mo竟是她的男友，欲向她取回财神，可惜用恭却未能证实财神是属于他，被迫依规定，从店中把财神收养，并买下三千元的货品，希望它会继续为自己带来好运。  设局捉拿　无良店主  用恭发现财神回家后呕吐不停，遂带它到狗场找羡如。羡如证实财神的肠胃受感染，推断它曾在非常恶劣的环境生活，俊升亦从财神身上找到其他证据，决定将那店主绳之以法。
+
+用恭利用天佑的「美男计」将嘉汶引离宠物店，天佑因此证实她暗恋自己，两人同感尴尬。俊升则到宠物店，假装欲领养狗只，再由用恭和羡如跟踪阿Mo，追查他藏匿流浪狗之处。  用恭转变　羡如改观  阿Mo发现用恭和羡如后，三人大打出手，终于将不良店主制伏。天佑仍为自己利用嘉汶而感到过意不去，她无意中听到村民在讨论自己暗恋天佑一事，当众宣布他不适合自己，以挽回面子。
+
+用恭往探财神，态度令羡如对他逐渐改观；及后，用恭更因为天佑和Bingo的事得到启发，决定将财神交还予羡如的客人，更向他传授照顾狗只的技巧，羡如不禁对他另眼相看。
+
+天雄随用恭到狗场进行维修时，失足掉进泳池，天雄挣扎时更令用恭晕倒，羡如将用恭救起，并施以人工呼吸，却被用恭错摸是狗场的美女参观者所为。天雄发现天娥在会议上心不在焉，并画下长胜村的地图和人物关系图。天娥又到长胜村向俊升求助，誓要找出当日的绑匪。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:24</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2655</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>6_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>法庭对峙　友情不再</title>
+  <originaltitle>Episode 24</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id>1623671</id>
+  <uniqueid default="false" type="tmdb">1992302</uniqueid>
+  <uniqueid default="false" type="trakt">1576562</uniqueid>
+  <uniqueid default="true" type="tvdb">1623671</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>欢畅在法庭上指正初才是劫金库的主谋，消息一出引来大批记者采访，福荣在庭外大数欢畅恩将仇报，弄致好友三人反目。赌场因打劫之事令客人大减，子维乘机在正初面前说他不是。宣判在即，欢畅托青云代照顾来富，青云竟表白说出欢畅尚有很多事未做，例如与自己拍拖。小茵在重要关头找来一位超级富豪做证，成功令欢畅无罪释放。欢畅在飞机上听到小茵与富豪对话，才知道小茵是收买了这位富豪。欢畅带同弟弟「欢乐」（来富）拜祭父母，又带他到处去诉说当年情，可惜来富反被欢畅的热情吓怕，只觉不自然。国权想借正初结识汉昌及美国的GC Group财团，意欲合作争取澳门赌牌。正初觉可让自己更上高峰，欣然答应。子维极力反对认为财团本身有足够能力，更指出国权乃台湾黑帮欲借集团洗黑钱，惜汉昌却同意合作协定，令子维愤而离开。珠美找子维时见他与其他女子鬼混，子维借机说珠美也是其中之一，更提出分手。正初问来富有否兴趣回赌场，更提升来富为站台（主任）。来富怕欢畅不高兴，正初却说出欢畅收买证人一事，来富最终答应。欢畅欲反对，却被来富提出伪证之事，令他无言以对。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2690</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep24.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

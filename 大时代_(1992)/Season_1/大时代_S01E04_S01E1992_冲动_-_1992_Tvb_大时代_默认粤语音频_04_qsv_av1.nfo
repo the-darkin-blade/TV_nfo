@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>冲动</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>2398871</id>
+  <uniqueid default="false" type="tmdb">1460689</uniqueid>
+  <uniqueid default="false" type="trakt">1435870</uniqueid>
+  <uniqueid default="true" type="tvdb">2398871</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>叶天发现进新并没那么多钱，很为他担心。下午北极星利好消息一出，北极星继续攀升，陈万贤输了。但陈万贤却放出假消息，说股市内流通很多北极星的假股票，企图搞跨股市，保个人利益。北极星果然如他所愿下跌，但进新搜集了北极星77%的股份，使陈万贤买不到北极星来平仓。陈万贤是彻底的败给了进新。 进新坦然面对龙成邦等人，龙成邦等人对他也毫无办法。进新救丁蟹出狱，被丁蟹看到那枚戒指，怒火中烧，把进新打到内出血，逃跑。进新挣扎中还是捡起那枚失落的戒指，进新昏迷，龙成邦等人十分气恼，通缉丁蟹。股市大跌，但进新还在昏迷，玲不能变卖他的股票，眼看着股票变做废纸，进新破产。玲担起照顾方家四个孩子的责任。1974年2月，ICAC成立，全民皆贪的时代成为过去，总华探长龙成邦，大毒枭周济生先后逃往台湾。进新终于醒了过来，但却变的痴痴呆呆。丁蟹跑到医院看进新。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1074</height>
+        <durationinseconds>1340</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.04_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 04 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1074</height>
+        <durationinseconds>1340</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.04_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

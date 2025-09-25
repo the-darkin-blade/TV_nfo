@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>铁山试探阿四，区舒云计划逃跑</title>
+  <originaltitle>铁山试探阿四，区舒云计划逃跑</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>4938187</id>
+  <uniqueid default="false" type="tmdb">2728548</uniqueid>
+  <uniqueid default="false" type="trakt">1305941</uniqueid>
+  <uniqueid default="true" type="tvdb">4938187</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>新人刚进洞房，铁山叫新郎出来敬酒。他用英国洋酒来试探阿四，阿四只能硬着头皮上，主动换大杯，一杯接一杯，醉酒被扶回洞房，虽然丢人，可没露馅！洞房，区舒云拉着贴身丫头桃花逼她换上新娘衣服和盖头，自己换上丫鬟装，掏出从区府随身带来的枪，逼阿四帮她逃出李府，阿四不从，被区舒云打晕在地。大厅，花青与杨新大战铁山，一声爆炸，铁山从废墟中走出，大难不死。李玉堂迅速安排曹三德逃走，自己被铁山抓了起来，李家所有人就地监控。区巡抚赶到李府，迅速认清形势，要和李家划清界限，立马把女儿抬回去，对李玉堂说：亲家，你真是清白的，女儿我随时送回来。李玉堂深知，少了区巡抚的支持，自己的罪名就是跳进珠江也洗不清了！区舒云认为自己一担被抬回区府就再也出不来了，逼丫鬟桃花盖上盖头替自己被抬回区府。阿四醒来，新娘不见了，区舒云却从床下爬出来。阿四高喊新娘不见了，被区舒云一把捂住嘴，说我才是区舒云，我是你媳妇！你要留住我，我爹才能救你爹！我帮你就你爹，你帮我逃走。阿四彻底被“你爹我爹”给弄糊涂了，不听她的。区舒云无奈，要想办法自己逃。阿四怎肯让她逃，这回多了心眼，伺机把区舒云制住，绑了起来。区巡抚回到家中，却发现抬回来的只是丫鬟桃花，自己女儿仍然在李家。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2657</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep09_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>雌雄没羽箭斗会方岩山</title>
+  <originaltitle>雌雄没羽箭斗会方岩山</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>81</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026699</uniqueid>
+  <uniqueid default="false" type="trakt">7308184</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>梁山军南下征讨方腊，路过要道方岩山，却遇到一山寨拦路。寨主琼英自祖上占山为王，劫富济贫，保护一方百姓，并收留路过难民，梁山军想从此借路，但方腊手下庞万春率先一步跟着难民混进山上，污蔑梁山军在琼英祖籍祠堂烧杀抢掠，毁人宗祠，矮脚虎王英等人在山下叫阵，嚣张轻薄，琼英大怒，认为庞万春所言非虚，拒绝让路。公孙胜找到负气出走的林冲，将他劝回。林冲重新回到军中，鲁智深等人喜笑颜开。林冲等人再次叫阵，琼英出站，又打伤了数人。林冲说琼英的飞石绝技和张清一模一样。张清出马，用飞石子打落山寨大旗，引琼英出寨，二人交手，难分胜负，而情愫暗生。张清请求再战，被宋江制止，要亲自去山寨拜访这位郡主。宋江只带着张清和武松两人深入敌营，琼英故意刁难，却被宋江一一化解，宋江的正气凛然也震撼了她。然而琼英死活不肯相信梁山军没有毁坏自己祖庙宗祠，一语不合就要动手，宋江表示愿意等她回心转意。张清私自约琼英见面，告诉她宋军探子回报，说兰溪宗祠被烧一事纯属子虚乌有，琼英仍然不肯相信，张清将宋军即将攻打山寨一事告之，希望她不要以卵击石，琼英还是不放心，张清似乎终于明白了她的暗示。大帐中，张清向宋江献计，要想琼英求婚，以此换取信任，好为梁山军借路，但琼英山寨的规矩，一旦入赘便要切断与外界的关系，张清思考再三，还是决定以大局为重。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2668</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E81 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="81" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

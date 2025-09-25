@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>华洋矛盾一触即发</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>福尔摩师奶</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1727092</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>祖迪怀疑牡丹是威廉目标，惟事败逃去；再有妓女被杀，祖迪追问游池案发经过。祖迪带同记者到警署，直指威廉是开膛手，反被他提出有力证据，指控菲腊才是凶手。晓尧怪责祖迪隐瞒真相，避而不见。妺娣赎回典当金饰，祖迪怀疑她出卖菲腊在世的消息，二人生口角，一夫坚信妹娣为人。菲腊被通缉，祖迪受尽街坊唾弃，百川、德英挺身维护。政府将无辜市民枪毙，一夫等街坊欲见最后一面遭阻挠，祖迪怒吼，捍卫华人尊严，华洋矛盾一触即发。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2638</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>TVBOXNOW 福爾摩師奶 EP10_H265.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>花荣箭射霹雳火</title>
+  <originaltitle>花荣箭射霹雳火</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026652</uniqueid>
+  <uniqueid default="false" type="trakt">7308138</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>元宵节，宋江在清风寨观灯，被刘知寨夫人认出，抓往府门。宋江道出当时知寨夫人是靠自己搭救才免遭侮辱，平安回家的实情。不想，刘知寨只是不听，更兼刘夫人恩将仇报地在一旁撺掇，宋江遂被断成山贼，要解送州里。花荣下书搭救被拒，索性攻入牢门，劫走宋江，连夜送他离开。不料宋江半路又被刘知寨派人抓回。刘知寨又与都监黄信设下宴席，假意为花刘二人和解，捉拿花荣。花荣不知是计，欣然前往被缚，与宋江一道解送州府。清风山好汉王英得知花荣和宋江二人吃了官司，带领山中兄弟下山营救。一通厮杀之后，王英等人杀退官兵，结果了刘知寨的性命，把花荣与宋江接到山上。事情传到州里，知府派下秦明前往清风山剿匪。秦明率军前往，却因自己的火爆脾气，被花荣几番相激，失去理智。遍寻花荣不着的秦明，纵马冒进，终被宋江等人设计拿住。宋江等众好汉以礼相待让秦明感动不已。秦明索还了军械马匹，想要下山向知府禀明实情，众人赶忙拦阻，力劝秦明，此番兵败回城定是凶险。秦明忠义，发誓不能背叛朝廷。此时刘唐来到清风山与众好汉会和。众人又设宴席为秦明送行。秦明义辞了众好汉的劝降回到家中，看到家仆正在哭泣。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2675</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E35 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

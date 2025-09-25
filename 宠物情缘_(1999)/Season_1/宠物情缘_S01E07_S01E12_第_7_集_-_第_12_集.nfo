@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 7 集</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>宠物情缘</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>7480268</id>
+  <uniqueid default="false" type="tmdb">2001427</uniqueid>
+  <uniqueid default="false" type="trakt">3823851</uniqueid>
+  <uniqueid default="true" type="tvdb">7480268</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>朗拒绝仁，朗再见仁感尴尬。仁为讨好朗，替豆豆找来男友Kam，洞房之日，Rocky带豆豆远走高飞，朗醒悟两狗相爱，允许它们见面。硕想向敏请假替珊庆祝生日，但敏不批准，敏又误会硕以卑鄙手段调更，双方势成水火。珊生日那天，硕本来准备了用Susan命名的风帆和珊一起出海，但珊因工作忙碌而无法与硕一起庆祝，硕有点不快。另一方面，珊同事们为她庆祝生日，珊感受到重视，开心不已。珊工作渐入佳境，相反朗觉硕毫无大志，终日只顾玩乐。硕反省后希望见Board升职，求敏替其写推荐信，敏要硕打赢自己才肯写。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1080</height>
+        <durationinseconds>1378</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 宠物情缘 Ep07 2016 05 12_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第 12 集</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>宠物情缘</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>7480275</id>
+  <uniqueid default="false" type="tmdb">2001432</uniqueid>
+  <uniqueid default="false" type="trakt">3823856</uniqueid>
+  <uniqueid default="true" type="tvdb">7480275</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>朗因替硕保护风帆而发高烧，硕感激，细心照顾朗。另一方面，Ken向珊示爱，但被珊婉拒之。朗对硕的态度忽冷忽热，令硕无奈，仁劝硕要给朗多点时间去面对。硕为替朗筹钱，卖掉自己心爱的风帆，朗终受感动，投进硕的怀抱。朗为硕制作心形寿司，被仁及Joe无意吃掉，朗气结。二人拍拖虽被众人取笑，两口子仍感心甜。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1080</height>
+        <durationinseconds>1378</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 宠物情缘 Ep07 2016 05 12_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

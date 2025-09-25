@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 6 集</title>
+  <originaltitle>민채원 유괴사건 Part 1</originaltitle>
+  <showtitle>特殊案件专案组TEN</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>4430685</id>
+  <uniqueid default="false" type="tmdb">1003479</uniqueid>
+  <uniqueid default="false" type="trakt">960252</uniqueid>
+  <uniqueid default="true" type="tvdb">4430685</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>유치원 정문에서 엄마를 기다리던 한 아이가 순식간에 사라진다! 범인이 보내온 기묘한 동영상은 범인이 소아성애자임을 추측하게 하지만 현장에 남겨진 여러 사건의 정황들은 아이의 자발적 가출임을 암시하며 수사팀을 미궁에 빠뜨린다. 아이의 생존을 위해서는 1분 1초가 다급하다! 유괴범과 수사팀의 치열한 두뇌게임이 벌어진다.</plot>
+  <runtime>67</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>OCN</studio>
+  <studio>Studio Dragon</studio>
+  <dateadded>2025-09-15 20:28:51</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>856</width>
+        <height>480</height>
+        <durationinseconds>4042</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E06.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

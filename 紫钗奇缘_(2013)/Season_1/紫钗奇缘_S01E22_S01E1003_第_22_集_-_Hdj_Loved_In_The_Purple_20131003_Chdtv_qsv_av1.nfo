@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 22 集</title>
+  <originaltitle>Episode 22</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486676</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>靖澜拉着小玉来见纳兰东，为了小玉纳兰东站在风雪中折磨着自己。纳兰东对小玉如果在走之前不能见她一面心里不踏实，纳兰东要把心里的话说给小玉听。但小玉已经绝望了，知道了又有什么用，要纳兰东如果有结婚生子的那一天一定要告诉自己。纳兰东告诉小玉她永远等不到那一天，自己会一直等她。小玉流着泪往回走，纳兰东对着小玉的背影，独自说着如果注定不能在一起，宁愿痛的更深一些，让自己牢记一辈子。小玉回头对纳兰东说出若有再生缘，定不负相思念。与河西和亲的队伍出发了，宁国公主，靖澜和小玉在队伍中，慈瑞和浣纱在街上喊着小玉的名字，小玉并没有露面，小玉很怕越看越伤心。刘济为了不让李益与小玉见面在小玉来之前便故意将李益支走。纳兰东为了能让小玉与李益见上一面在玉门关已经等了5天。刘济拿着河西送来了文书已经在催促这边的和亲队伍。靖澜没带兵器在身，纳兰东将宝剑赠与靖澜。纳兰东把河西催促之事告之宁国公主，没办法已经不能再拖公主决定明日便出发。小玉离去时将一封书信交于刘济希望转交李益，但和亲的队伍刚离开刘济便将信撕掉。　　和亲队伍再前往河西的途中一处三不管地带遇到了盗贼。盗贼中有武艺高强之辈，绑了小玉便骑马而去，纳兰东让所有人留在玉门关自己骑马追杀上去。纳兰东救下小玉却也身受重伤。纳兰东带着小玉回到玉门关，两人亲密的样子靖澜一眼就看出。李益接回来的是承欢阁的淑宁，现在是刘济的相好。刘济告诉淑宁是自己派人假抢盗贼抢了和亲大队。和亲队伍达到河西后河西王看来已经糊涂的不问世事，宰相药葛罗故意为难却被小玉化解。药葛罗质问纳兰东是否看不起河西，为何嫁妆如此之少，纳兰东解释途中曾遇盗贼。药葛罗气愤异常认为是南诏所为要纳兰东禀明大唐皇帝出兵南诏。纳兰东赶紧相劝依自己所看并非南诏，纳兰东保证不出数日定将公主嫁妆完壁归赵。纳兰东找河西工匠制作了两个木偶一个是小玉模样一个是自己，纳兰东告诉小玉自己的不在的时候看着他就好像看到自己。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1335</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep22.20131003.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20131003 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>1003</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1335</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep22.20131003.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1003" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>为达目的　战杀人王</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>1623481</id>
+  <uniqueid default="false" type="tmdb">1992277</uniqueid>
+  <uniqueid default="false" type="trakt">1576513</uniqueid>
+  <uniqueid default="true" type="tvdb">1623481</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>青云和欢畅与来富回家时，发现福荣已从菲律宾赶来，原来福荣想欢畅阻止正初来港与曾在赌局中杀人的宋程对赌。正初到香港后先探望因沉迷赌博而疯了的母亲，欢畅到酒店找正初，不但没有劝止他，反与他一同研究如何取胜。福荣见两人执意去赌，唯有出计以赌场老板的名义来阻止，但此事却被正初揭穿，更将他困在洗手间内。正初出发时发现欢畅已等待他一同赴会，原来当年欢畅因弟弟失踪而在大赛中败给宋程，所以此次一定要再与他会一会。赌局上宋程因毁容而令正初没法从表情上判断他的想法，宋程更因此要正初答应以欢畅的性命作赌注。青云借姨丈之助将欢畅弟弟的照片以电脑绘画出二十年后今日的容貌，亦因此被姑姐说服去相睇。打扮得漂漂亮亮的青云竟发现相睇对象「货不对办」，为脱身竟高调说出自己的各种缺点，最后却发现只是误会一场，更因此给正庆祝取得胜利的正初、福荣及欢畅看个明白，令她羞愧得无地自容。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1078</height>
+        <durationinseconds>2682</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep05.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

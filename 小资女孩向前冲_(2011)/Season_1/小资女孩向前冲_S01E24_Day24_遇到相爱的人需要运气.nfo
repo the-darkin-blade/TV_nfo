@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>Day24 遇到相爱的人需要运气</title>
+  <originaltitle>Day24 遇到相爱的人需要运气</originaltitle>
+  <showtitle>小资女孩向前冲</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id>4409275</id>
+  <uniqueid default="false" type="tmdb">1569642</uniqueid>
+  <uniqueid default="false" type="trakt">1658734</uniqueid>
+  <uniqueid default="true" type="tvdb">4409275</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>子奇和杏仁的爱情终于熬出头，得到叶华的认可，但是还未踏入上流社会的杏仁，却已经尝到比以往还要心酸的考验，子奇如何陪伴杏仁勇闯重重关卡？封副总找上门，桌上那叠厚厚的文件，是凯儿犯罪的证据，还是隐藏了什么秘密？凯儿会良心不安地自首，还是抵死不认她的心机？钻戒是男人对女人的承诺！龙龙想要把乐乐订下来，偷藏钻戒在爱的巧克力中，乐乐会因此感动接受龙龙藏不住的爱，还是又阴错阳差让人爆笑喷饭？</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TTV Main Channel</studio>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2726</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj Office Girls Ep24 Hdtv 1080I H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

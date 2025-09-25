@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>明轩探访　惨被痛殴</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>2251811</id>
+  <uniqueid default="false" type="tmdb">569229</uniqueid>
+  <uniqueid default="false" type="trakt">577898</uniqueid>
+  <uniqueid default="true" type="tvdb">2251811</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>梁家众人正聚在一起讨论巧芝的医药费问题，更发现保险费并不能支付所有费用，亦因此发觉巧芝之前所遇的意外，应是永晖私下补贴药费……明轩往探望巧芝，国昌看见他后特意找扫把赶他离开，但其他家人却很快便与他打成一片，更不断向他请教有关整容之事。明轩到巧芝房中欲安慰她，但在巧芝眼中却只想与眼前的男士亲吻以变身；但在明轩力拒下终被她痛殴一顿。  悉心照顾　芳心暗许  梁家众人一面替明轩疗伤，仍不忘要明轩帮助巧芝；而房中的巧芝，更在窗中看到住在对面的明轩为坚持照料自己，不惜与老板美诗争吵……自此明轩每天带巧芝出外散步，更替他洗伤口、喂食等贴身照料；而为了协助巧芝手部复原，明轩更与她一起制作陶器，令巧芝极为享受。当巧芝身体遂渐康复，她要求明轩带她逛商场；因为明轩看商场电视所播放的新闻分了神，竟令巧芝跌下商场梯阶晕倒……明轩赶到巧芝身旁，更立刻替她做人工呼吸；当巧芝苏醒过来后，明轩欲送她到医院检查，但巧芝的身体开始出现变化，于是坚持回家，而明轩往取车时，巧芝却看到有扒手把明轩的银包偷去……回到家后的巧芝，把面上的纱包解开发现自己终回复昔日美貌。另一方面，巧芝在房间中装了望远镜及遥控收音装置，一直监视明轩的举动；而她更发现明轩竟买了一只钻石戒指……当明轩提出为巧芝送上礼物时，巧芝更以为明轩欲向自己求婚，想不到明轩送上是两人合制的杯子……巧芝在望远镜中偷看明轩时，竟发现他竟把戒指交给一位女性；觉得自己被明轩欺骗了感情的巧芝，不理自己满身绷带纱布，竟直接到他家与他对质；岂料巧芝发觉原来那戒指是明轩母亲蓉蓉的结婚戒指……发现巧芝误会自己喜欢上她，明轩只得努力解释一切都是为了治疗她，巧芝听后愤怒得把面上的纱布解开……  光顾鸭店　惹上官非  失恋的巧芝到「鸭店」寻求安慰，却遇上警察查牌。因为在房间中发现软性毒品，而一众男公关竟指是巧芝所有，于是警察表示巧芝可保释外出，但失去了银包的巧芝却不愿意通知家人，竟情愿留在拘留所……梁家众人发现巧芝失踪担心不已，刚巧明轩到梁家欲了解为何她突然康复一事，他更向众人解释最近两人间发生之事……明轩发现美诗竟以两人之前的恋情来安慰客人，不禁大表不满，美诗反驳明轩是个只追求外在的肤浅男子……</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1306</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E10.20180523.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Fly With Me 20180523 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>523</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1306</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E10.20180523.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="523" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

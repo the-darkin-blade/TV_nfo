@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>铁山诱惑李重甲，谈李家危机与交易</title>
+  <originaltitle>铁山诱惑李重甲，谈李家危机与交易</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>4938189</id>
+  <uniqueid default="false" type="tmdb">2728551</uniqueid>
+  <uniqueid default="false" type="trakt">1306012</uniqueid>
+  <uniqueid default="true" type="tvdb">4938189</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>铁山也对李重甲，极尽笼络，称他是朝廷栋梁，可惜明珠投暗。话锋一转，谈李家往事，机械厂本是李重甲父亲所创，如今却是李玉堂掌管一切，很可能再交给李重光掌管；而李玉堂一旦获罪，家产抄没，李家大房实在太冤！李重甲知道铁山定有所谋，心里激动，嘴上冠冕堂皇。铁山看透他内心，亮出底牌，如果李重甲做主把机械厂献给朝廷，自己可以任命他当总办，仕途军界前景大好。李重甲明白，这是个环环相扣的交易，铁山已经考虑得很周全，自己不会吃亏，当下默许。铁山说要快，趁花青不醒也不死，才好做这些文章！回到李家，李重甲百般渲染李玉堂危在旦夕，然后提出献厂换人的方案。许氏曹氏都同意，曹氏对李重甲千恩万谢。阿四听说能救李玉堂，当然不反对，只是反复追问，这是不是区巡抚的主意？李重甲说是。阿四同意了，李重甲去准备文书，今天就要签字。文书摆在面前，阿四却不肯签字了。李重甲忍不住道，要钱不要亲爹，莫非你不是李家子孙？阿四小市民心态，死咬一句，怕官府赖账。争执之间，老太太出现了。阿四还想瞒老太太，老太太其实已经全都知道了。家有大难，老太太异常镇定，说重光的担心有道理。面对老太太的信任和全家的瞩目，阿四一激动，说我和媳妇去找丈人。听说要回门，区舒云挠头了，说能不能救你爹，得看你了，看我爹认不认你这个女婿！阿四和区舒云回门区府。果不其然， “李重光”竟吃了闭门羹。－－区巡抚知道李重光是来求自己救父，他记恨那天被李重光要挟，如今已得到女儿，婚事可以不算，李家可以不管。区巡抚下令，把李重光赶走！区舒云跟区巡抚摊牌，自己活是李家人，死是李家鬼，铁了心要在李家，要他想办法救李家。要是不答应，自己就死。区巡抚很意外，李重光何方神圣，一晚上捕获女儿芳心，冲这一条，这个女婿要是没了实在可惜。区舒云要区巡抚无论如何见阿四一面。区巡抚从楼上看阿四，见他招呼门房，出手阔绰，门房丧脸变笑脸。区巡抚觉得李公子还算会办事。翁婿又一次面对面。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2656</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>哪吒无法如愿受三年人间香火</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>封神榜</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>4418936</id>
+  <uniqueid default="false" type="tmdb">2025531</uniqueid>
+  <uniqueid default="false" type="trakt">1484614</uniqueid>
+  <uniqueid default="true" type="tvdb">4418936</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>黄颜眼见杨戬之真心真意，终鼓起勇气当众表示非杨戬不嫁，令飞虎气愤不已，一怒之下赶走二人，黄颜离开黄家，得十娘、莲花、杨戬之照顾，此时，李靖之大军奉命到西岐打探纣王曾在海市蜃楼所见之两美女下落，李靖从村民口中得知西岐建有哪吒庙，庙祝更是殷十娘，而且众人对十娘赞不绝口，令李靖更感疑惑，李靖瞒着琵琶到哪吒庙，终于十娘相见，两人久别逢，内心感触不已！琵琶疾妒李靖对十娘念念不忘，竟联同裳到哪吒庙捣乱，更打破哪吒金身，哪吒魂魄出现，吓得琵琶、裳拔足而逃，哪吒更将琵琶打伤，时李靖及时赶到，再次将哪吒收服在玲珑宝塔内，十娘恳请李靖放人，夫妇二人为了哪吒而断了三十年夫妻恩情，哪吒将要烟消魂散，莲花再到终南山求晋中子相助，可惜哪吒已等不及莲花回来，众人伤心不已！
+
+飞虎夫妇二人到黄颜住处，想强行带走女儿，黄颜不愿随飞虎回家，更责飞虎以奸计害二人，飞虎要黄颜作出抉择，黄颜最终与飞虎堂前三击掌，从此再非黄家人，父女恩情断及生死再不相干！</plot>
+  <runtime>24</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1052</width>
+        <height>714</height>
+        <durationinseconds>1447</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>16_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>审判</title>
+  <originaltitle>Episode 27</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id>2399101</id>
+  <uniqueid default="false" type="tmdb">1460715</uniqueid>
+  <uniqueid default="false" type="trakt">1435913</uniqueid>
+  <uniqueid default="true" type="tvdb">2399101</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>展博玲姐婷婷穿上写着控诉黑社会标语的衣服，站在街上无声抗议。引起社会关注。丁蟹一边一边的练习要在庭上说的话，神经紧张。又在报纸上看到方家人抗议黑社会的新闻，有人提议要求恢复死刑，更觉受刺激，自认自己会是香港第一个再被吊死的人，于是跑去厕所企图自杀。事后他告诉儿子们他要自辩，四个小蟹都认为丁蟹选择自辩就完了，但丁蟹却充满自信。龙纪文不死心再次跑到台湾去找周济生帮忙。周济生还是不理她。文去看父亲，发现父亲又病的不轻。丁蟹出庭选择自辩，奇怪言论引来大家议论纷纷。法官告诉他要慎重考虑是否要自辩，因为一旦入罪，将被判环首死刑（香港法律的死刑程序是一旦被判死刑将报英女皇然后改判无期），但丁蟹一意孤行。丁家四蟹决定如果父亲被判有罪，就要杀死方家全家。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1078</height>
+        <durationinseconds>1322</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.27_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 27 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1078</height>
+        <durationinseconds>1322</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.27_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>宋江兵打大名府</title>
+  <originaltitle>宋江兵打大名府</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>62</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026679</uniqueid>
+  <uniqueid default="false" type="trakt">7308165</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>卢俊义和石秀被捉拿，在牢里受尽折磨。燕青和杨雄、戴宗联系上，戴宗以梁山泊的名义在大名府散发无头告示，扬言若是敢动卢俊义、杨雄二人，梁山必会派兵来打大名府。大名府内人心惶惶，梁中书与新上任的王太守下令暂且留住两人性命，另一方面写表申奏朝廷，奉书呈上蔡太师知道此时，同时叫大名府军马出城下寨防备梁山英雄。戴宗赶回梁山通报卢俊义、石秀被抓的情况。宋江下令千里兵发大名府，解救二人。宋江梁山泊点将，大兵浩浩荡荡开向大名府。李逵做先锋，第一战，大名府守将李成大败。梁山兵强马壮，大名府军兵无法迎敌，龟缩在城里死守。双方实力悬殊。见状，梁中书向蔡京发出求援，要求蔡京派兵支援大名府。得到消息后，蔡京派河北、山东精锐精兵一万五千人，战马三千，由关胜作为统领指挥使。郝思文为前锋，宣赞为后合，兵分两路，一路打向梁山，另一路负责伏击回援的梁山部队。宋江得知梁中书派人求援，并从戴宗处得知关胜除带兵马向大名府驰援，另有一路官军向梁山泊杀去。面对官军围魏救赵的计谋，宋江只得回援梁山，另留一部分兵马围困大名府。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2658</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E62 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="62" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:57 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 27 集</title>
+  <originaltitle>Episode 27</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486681</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>靖澜告诉小玉卢杞因为自己的婚事为了给自己出气让人写了告密函将王家一举拿下。卢杞来找小玉商量渤海郡细作前来大唐又喜欢李益的文采定会趁机来偷。希望小玉帮忙将崇敬寺的李益叫到紫檀殿来居住。小玉的要求是要知道纳兰东的去处并且事成后要帮忙李益。慈瑞知道此事后担心卢杞阴险稍有差池就被其陷害，但小玉还是让浣纱准备好厢房。李益在紫檀殿住了些日子却没有细作前来，这一天楚王前来无端的询问纳兰东的消息。小玉觉得此事有些奇怪。在杜意浓处有一位高丰高大人愿出万金求得李益墨宝，杜意浓来紫檀殿找小玉及李益商量，李益答应往前承欢阁。待高丰来到承欢阁与李益见面时埋伏好的韦博文便出现了。但没想到高丰劫持了李益，但韦博文为了抢得功劳根本没有在乎李益的生死，李益被捅了一刀倒在承欢阁内。小玉好似有所感应。小玉和浣纱出门前往承欢阁半路碰到高丰出手拿下，待问韦博文李益在何处时却回答不知道。小玉和浣纱赶到承欢阁见到了重伤的李益。人被带回到了紫檀殿。韦博文在杨炎面前邀功，在高丰身上找到一张纸条得知渤海郡很在意汾阳王的生死。卢杞提出将计就计让郭子仪装死骗得渤海郡来犯，然后一举拿下。卢杞和韦博文前来拜会郭子仪，郭了仪答应下来，不过离家女眷得知卢杞奇丑无比躲起来观看卢杞，卢杞走后郭子仪大怒指出如果郭家有一天破败必有今日得罪卢杞有关。晚上浣纱劝小玉就该和李益在一起纳兰东也不知道什么时候能回来，浣纱拉着小玉要去找李益，路上慈瑞出现问小玉想清楚没有，小玉转身回房。秋阳来接李益回崇敬寺，李益想与小玉告别被慈瑞拦下。慈瑞还让樱桃将皇袍放在李益的包袱内，让李益认为小玉和纳兰东还有联系知难而退。秋阳在收拾包袱时果然看到了皇袍但没有吱声。杜意浓告诉小玉郭兆儒愿为她脱籍并娶了她做正室夫人。正说着话时鲍彩凤前来求小玉救救莫玥。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1333</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep27.20131010.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20131010 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>1010</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1333</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep27.20131010.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1010" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

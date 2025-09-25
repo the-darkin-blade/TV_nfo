@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>揭阳岭宋江逢李俊</title>
+  <originaltitle>揭阳岭宋江逢李俊</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>36</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026653</uniqueid>
+  <uniqueid default="false" type="trakt">7308139</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>秦明回城被拒，得知已被满门抄斩的噩耗，立誓报仇，打马回到清风山。王英刘唐等人却向他说出了“为留秦明入伙，假扮他的模样去攻打青州城，不想祸及他家小”的原委，宋江大怒，要将王刘二人斩首。刘唐向大家说明晁盖盛情，秦明为二人求情，赦了死罪。宋江又与秦明做媒，娶了花荣的妹妹。众人将秦明一家惨祸归咎于知府昏聩，刘知寨恶毒，议定攻打清风寨，接取花荣家小。众好汉攻破清风寨，王英擒了刘高夫人，欲纳之为妻，却被燕顺一刀结果了性命，王英就要与燕顺拼命，被宋江劝服。为避官军围剿，宋江建议众好汉投奔梁山，大家一致赞成。宋江守信，执意发配江州，众人苦留不住，宋江连夜下山。翌日大家筹备投奔梁山，宋江在路上为刘唐所缚，刘唐向他陈明晁盖盛情，宋江允诺上梁山与晁盖一会。花荣前来护送，路遇吕方郭盛争斗，花宋邀二人同赴梁山，二人欣然应允。宋江到梁山与晁盖畅叙别情后，即前往江州。途中被等着接应他的李俊等人误认，下药麻翻，后救醒。宋江继续前往江州，又遇到薛永与当地恶霸穆春争斗，宋江劝其退避，二人一同前往江州，被穆春带人追至江边，得遇船家张横。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2675</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E36 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="36" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

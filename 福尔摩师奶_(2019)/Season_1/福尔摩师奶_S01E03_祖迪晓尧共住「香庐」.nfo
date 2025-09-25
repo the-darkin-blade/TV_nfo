@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>祖迪晓尧共住「香庐」</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>福尔摩师奶</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1727085</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>油麻地再有凶案，间接证明在囚的祖迪清白，德英与一夫要求释放祖迪。高官白威廉指控菲腊勾结海盗，祖迪震惊。晓尧被包租公赶走及鸨母强逼卖身，祖迪出于内疚，倾囊替晓尧还债，却因身无分文饿昏街头。祖迪醒来已被一夫所救，并为她在天井屋「香庐」租下一室与晓尧暂住，祖迪才知错怪一夫。祖迪难以适应「香庐」众生相，惟顾念与晓尧无家可归而强忍，晓尧感激。祖迪向包租婆妹娣借钱遭留难；妹娣看到一夫对祖迪照顾有加，甚妒忌。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2644</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>TVBOXNOW 福爾摩師奶 EP03_H265.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

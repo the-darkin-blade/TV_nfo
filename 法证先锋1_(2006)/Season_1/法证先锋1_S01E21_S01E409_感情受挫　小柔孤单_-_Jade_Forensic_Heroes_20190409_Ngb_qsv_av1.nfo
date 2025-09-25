@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>感情受挫　小柔孤单</title>
+  <originaltitle>Episode 21</originaltitle>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id>4155088</id>
+  <uniqueid default="false" type="tmdb">1828889</uniqueid>
+  <uniqueid default="false" type="trakt">1489404</uniqueid>
+  <uniqueid default="true" type="tvdb">4155088</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小柔感情虽然再度受挫，但她并无意给彦博任何机会，独个儿离开……
+
+Mon 重新做人，努力学习电脑，更主动替泽琛制作以作家身分的个人网页，刚巧离港医病多时的 Tracy 即将回港，二人便相约到骄阳社为她庆祝。
+
+江韵琴母子被发现死于家中，警方怀疑他们是服食安眠药及烧炭自杀，彦博在屋中搜查时发现母子二人与少聪的合照，调查之下，发现二人竟然是少聪前妻与儿子。
+
+小柔对少聪的冷淡反应极为不满。及后她更查到韵琴早已患有严重的抑郁，彦博质疑韵琴能否计划自杀行动，再加上原来在二人死前，少聪曾为二人购买巨额保险，受益人竟是少聪自己，更令人怀疑少聪教唆韵琴自杀。
+
+Bonnie 向韵琴母子献花，令小柔生疑，经调查后，竟发现她竟是导致少聪与韵琴离婚的第三者。可是， Bonnie 原来也被少聪骗财，她更向小柔表示，曾目睹少聪教导韵琴自杀方法及程序，小柔以为可以将少聪绳之于法，怎料……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E21.20190409.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Forensic Heroes 20190409 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>409</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E21.20190409.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="409" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

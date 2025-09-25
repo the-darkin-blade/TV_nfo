@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>Day05 我答应你，我以后会吃花椰菜！</title>
+  <originaltitle>Day05 我答应你，我以后会吃花椰菜！</originaltitle>
+  <showtitle>小资女孩向前冲</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>4202993</id>
+  <uniqueid default="false" type="tmdb">873155</uniqueid>
+  <uniqueid default="false" type="trakt">878071</uniqueid>
+  <uniqueid default="true" type="tvdb">4202993</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>童话故事里的王子总是会及时出现拯救公主，虽然杏仁不是公主，但是子奇无心的大手一挥，意外帮杏仁扛下打破红酒的所有责任。然而身无分文的子奇都自身难保了，昂贵红酒的赔偿费用，子奇将如何负担？子奇的情义相挺，让杏仁很感动，然而假红酒的秘密埋藏在心中，在良心和梦想之间挣扎的杏仁，最后会怎么选择？在京师百货打拼四年，却因为无心的意外，杏仁的一切努力瞬间被打回原点；子奇为了挽留杏仁，祭出的恐龙大绝招，是否能让杏仁改变心意？温暖的家是在外游子的避风港，需要沉淀的杏仁，回到三峡老家，回到妈妈的幸福怀抱；而子奇千方百计向乐乐要到杏仁老家的地址，意外现身的子奇，将在杏仁老家掀起什么风波？　　是福是祸？是祸躲不过！历经一连串厄运之后，失落的杏仁要如何度过低潮？就让子奇陪伴杏仁等待转机的出现吧！</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TTV Main Channel</studio>
+  <studio>Sanlih E-Television</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2661</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj Office Girls Ep05 Hdtv 1080I H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>入云龙斗法破高唐</title>
+  <originaltitle>入云龙斗法破高唐</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>51</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026668</uniqueid>
+  <uniqueid default="false" type="trakt">7308154</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>柴进因放走了李逵，柴进在饱受折磨后随同全家老小被打入大牢，等候发落。与此同时，李逵火速赶回梁山求救，刚进入梁山不想却和朱仝冤家路窄，朱仝仍因李逵误杀小衙内之事耿耿于怀，三言两语之后二人大打出手，终在宋江等人的调解下冰释前嫌。宋江得知柴进为救李逵身陷囹圄，为救柴进便率大兵逼近高廉城，高廉摆出失传已久的八卦阵，打得梁山措手不及，宋江出师不利，在吴用的推荐下，宋江派戴宗前去请公孙胜出师破阵，李逵自告奋勇随戴宗前行。一路上李逵因贪杯被戴宗捉弄得好不狼狈。二人来到公孙家中，不想却吃了闭门羹，商量之后终于二人用计叩开了公孙胜的大门。得知二人的来意之后公孙胜一口回绝，戴宗苦苦哀求，公孙胜终被戴宗感动，答应出师破阵。宋江在公孙胜的帮助下大破敌军，高廉告书求援，宋江等人将计就计，扮作援军骗开了城门，乘胜追击，高廉大兵溃不成军。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2669</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E51 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="51" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

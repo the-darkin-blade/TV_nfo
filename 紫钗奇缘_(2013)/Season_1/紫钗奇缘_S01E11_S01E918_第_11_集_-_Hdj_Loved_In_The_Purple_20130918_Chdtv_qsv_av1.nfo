@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 11 集</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486665</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小玉担心李益双亲会反对两人的亲事，纳兰东劝小玉是嫁给他双亲还是嫁给李益，只要两人感情好就可以了。小玉见纳兰东劝人一套一套便问纳兰东还有什么事能够难住他。纳兰东心中最大的难题便是小玉，这又怎么对小玉说起来。两人在街上正说着话的时候突然一辆马车闯来，纳兰东赶紧抱着小玉躲开，小玉好像有了一点特别的感觉。李益回乡祭祖的那一天小玉并没有前来相送，樱桃却送来了一封信并请李益离开长安后再拆开。信中小玉表达了自己的担忧害怕李益双亲阻止婚事。长安县令罗承忠前来紫檀殿求小玉帮忙，前几日地震县里损失严重，来上都又求见不着周衍，李益高中便是占了罗县令的名额所以前来求小玉帮忙。小玉带着罗县令来见杜意浓求他帮忙，杜意浓当场爽快的答应下来。韦博文现在正是编写各地灾情，杜意浓要利用这个机会不但可以帮到罗大人最好还能让周衍丢了官。在皇上面前楚王，杨炎及卢杞都为灾区之事前来。杨炎提出开仓放粮，纳兰东指出灾区百姓并不缺粮食只是房屋倒塌严重如果能捐银那是最好的。杨炎竟然先皇上从自身做起缩减开资，卢杞又提出凡五品以上官员皆都捐款。皇上将发放款项之事交给了卢杞，本来皇上是要将此事交给纳兰东，这一点杨炎几个都看出来。出了皇宫后楚王三人都怀疑皇上和纳兰东的关系。小玉在门外听到了纳兰东和靖澜的对话，知道了纳兰东喜欢自己。纳兰东希望靖澜保守这个秘密。纳兰东发现了一个问题赈灾银两已经发送数天却还有很多人没有领取，罗大人告诉卢杞及纳兰东现在的户口薄是救的很多人已经不在了。罗大人希望卢杞可以陪自己到官家猪圈看看。罗大人很为难县中养了很多猪用于宫中祭祀，但宫中所用甚小大批根本无用。纳兰东提出除了祭祀所用其它可分给乡民，卢札也是当场拍板。周衍果然被杨炎赶回家去并把京兆尹的官位给了韦博文。杨炎再次向皇上提缩减宫中用度，要每年拔出50万两供皇上使用。这五十万两不但包括宫中所用还有其它宗室也包括在内。因为杨炎的提议宁国公主已经把原来很多侍女送走，纳兰东更是连住的地方都没有。靖澜知道纳兰东的情况后来找小玉，靖澜有个住处又怕纳兰东知道是自己的不肯住所以来找小玉帮忙和纳兰东说。小玉带着纳兰东去看房子，就在紫檀殿隔壁但浣纱嘴快还是说出了房子是靖澜的。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1335</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep11.20130918.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20130918 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>918</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1335</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep11.20130918.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="918" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

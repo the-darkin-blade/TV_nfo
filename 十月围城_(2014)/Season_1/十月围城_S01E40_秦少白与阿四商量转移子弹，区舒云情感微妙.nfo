@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>秦少白与阿四商量转移子弹，区舒云情感微妙</title>
+  <originaltitle>秦少白与阿四商量转移子弹，区舒云情感微妙</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>40</episode>
+  <id>4938218</id>
+  <uniqueid default="false" type="tmdb">2728583</uniqueid>
+  <uniqueid default="false" type="trakt">1306676</uniqueid>
+  <uniqueid default="true" type="tvdb">4938218</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>秦少白来找阿四还是商量通过英国商人的途径转移子弹到革命党手里的事情，阿四说他想办法说服区巡抚，区巡抚就是认钱，应该能搞定。区舒云到制造局找阿四，扮成日本客商急找阿四的秦少白不期而遇。区舒云原本想告知他假怀孕，话到嘴边又说不出口。秦少白没话找话，只能恭喜区舒云有喜了。秦少白心里其实很不舒服，他知道自己没有资格不舒服，所以更不舒服。秦少白的态度刺激了区舒云。老太太放出分家的口风。大家议论纷纷，这家要怎么分？夏荷无意间听到李玉庵和李重甲说什么下毒，不知他们要干什么。阿四为阿纯被救感谢区舒云，区舒云发现阿纯并没有把假怀孕的事说给阿四，疑惑。区舒云说了遇见秦少白的情况，阿四察觉区舒云提到秦少白时刻意冷淡的语调，难道区舒云真的放弃爱情，要跟自己过日子？二人关系多重微妙！区舒云心里过不去，终于说出那天晚上二人其实什么都没发生，她已经告诉了阿纯。阿四暴怒，你凭什么撒这样的谎？！阿四反应之激烈超过区舒云预想，她道歉，安慰，阿四却一把推开她，要立刻去见阿纯！一开门，李重甲站在门口，不知道是否听见了刚才的吵架。夏荷躲在暗处，确认了李重甲和李玉庵是要害阿四，焦虑万分，她该怎么办？阿四没有见到阿纯，人去楼空。李重甲陪阿四出去赴宴。夏荷思前想后，在最后一刻去找李老太太告密。 铁山到教堂看望自己的孩子，李念慈因家事混乱，无人倾诉，因不知铁山的真实身份，把他当做了知己，倾诉家中琐事。 阿四，李重甲，李玉庵三人在酒楼，阿四举起了毒酒准备一饮而尽。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2647</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>heb</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep40_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="40" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

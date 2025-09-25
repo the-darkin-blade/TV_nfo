@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 5 集</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>三个女人一个「因」</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2547913</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>骁勇到以因家，遇愁擘擘现身，以为撞鬼吓晕，自此面对以因常出现幻觉。绮思与兰茜就以因与骁勇的婚事，跟骁勇的兄长会面。名叫庄源的男子走近绮思，表示于美国修读现代舞，曾欣赏绮思全部的演出录影，惊为天人。小豆约骁勇见面，希望他劝以因放弃以焦虑症作辩护策略。东佳发觉以因一提「焦虑症」，愁擘擘便现身。以因与小豆争执时她想到另一抗辩理由，与东佳追截刚送出的差利精神报告。菠椰现身截回报告，却令骁勇误会以因鬼上身。</plot>
+  <runtime>29</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1756</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade Threesome Ep05-Ep06 20180304 Hdtv 1080I H264 2Audio-Chdhktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第 6 集</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>三个女人一个「因」</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2547914</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>菠椰与东佳成功追截文件，菠椰大赞东佳适合当大律师。菠椰事后并没有离开，她到酒吧区消遣期间更撩事斗非，累东佳受伤。骁勇突然想起以因驾电单车的模样，以为以因撞邪被鬼缠身，要求东佳以黑狗血替她驱鬼。东伶到律师楼上班，与东佳遭一班狂徒大撒溪钱，溪钱上印有东佳与东伶的模样，还写上恐吓字句。原来盛强与曼联球迷曼三冠赌气，输了不认账，更连累一家人遭网上欺凌。东佳欲以方正律师楼名义向曼三冠发律师信，以因拒绝。</plot>
+  <runtime>29</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1756</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade Threesome Ep05-Ep06 20180304 Hdtv 1080I H264 2Audio-Chdhktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Threesome 20180304 2Audio Chdhktv qsv av1</title>
+  <originaltitle/>
+  <showtitle>三个女人一个「因」</showtitle>
+  <season>1</season>
+  <episode>304</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>29</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1756</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade Threesome Ep05-Ep06 20180304 Hdtv 1080I H264 2Audio-Chdhktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="304" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>彦博心思　观人于微</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>4155082</id>
+  <uniqueid default="false" type="tmdb">1828883</uniqueid>
+  <uniqueid default="false" type="trakt">1489392</uniqueid>
+  <uniqueid default="true" type="tvdb">4155082</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>彦博见小柔对着小刚管束过严，令他做事缺乏自信，所以略施小计，令她改变对小刚的管束，泽琛见彦博竟然轻易摆平小柔，暗暗称奇。
+
+小柔与彦博得知高通喜欢粤曲戏宝，竟不约而同努力为他寻找，令二人的接触机会增加。
+
+彦博送小柔到兴中家，怎料发生失窃事件，幸彦博机智，瞬间便发现原来是两名菲佣监守自盗，彦博更发现兴中家中不少古玩字画也是贗品，令兴中大为愤怒。
+
+高通与泽琛见近日彦博与小柔来往甚密，欲撮合二人，令二人啼笑皆非。
+
+兴中经营非法勾当，更哄使兴隆成为代罪羔羊，晋升他为公司总经理，结果因为货仓被盗而东窗事发，兴隆身为公司总经理，因涉嫌贩卖贼赃而被警方扣查。
+
+兴隆思前想后，决定找兴中理论，但欲无法找到他，最后从兴中秘书口中得知他正要出海，所以便赶往游艇会找兴中……
+
+海边发现浮尸，死者竟是兴中，而经调查后发现，原来兴隆曾与兴中在游艇会发生口角……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E15.20190403.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Forensic Heroes 20190403 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>法证先锋1</showtitle>
+  <season>1</season>
+  <episode>403</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1582</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Forensic.Heroes.E15.20190403.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="403" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

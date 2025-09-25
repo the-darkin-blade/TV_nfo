@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李重甲威胁阿四，区舒云持枪对峙不成</title>
+  <originaltitle>李重甲威胁阿四，区舒云持枪对峙不成</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id>4938213</id>
+  <uniqueid default="false" type="tmdb">2728578</uniqueid>
+  <uniqueid default="false" type="trakt">1306580</uniqueid>
+  <uniqueid default="true" type="tvdb">4938213</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李重甲手握孙中山的信，威胁阿四道：第一，你为了大伯的遗志要留下来，我佩服；第二，牵扯家族的利益，我不会告发你；第三，你打算为革命党做事，可我是大清的人，你做的事不要让我抓住把柄……与此同时，区舒云忽然出现，用手枪指住了李重甲！李重甲毫不惊慌，若无其事继续道，我不会支持，也不会反对，但你们不要越界把我们家往深渊里拉，否则……说话间李重甲轻易地夺下了区舒云手里的枪！阿四和区舒云大惊。李重甲却把那封信给烧了，说你们好自为之，走了。当年被老太太逐出家门的老纨绔李玉庵回来了，在大哥李玉堂灵前哭得那叫一个痛。老太太心软了，将其留在李家。阿四一字不落地复述孙中山的那封来信，秦少白深受感动。阿四说自己不懂革命，留下来是因为答应了李老爷，要把李老爷想做的事做完。秦少白提醒阿四小心，李重甲惯于两头下注，做不倒翁。临走，阿四跟秦少白说，区小姐留在李家是为了你，你总得有个打算。秦少白说革命任务大于一切。阿四回家，转述秦少白的话，区舒云听不进去，追问秦少白在哪。阿四只好说了地址。区舒云夺门而出。区舒云来到革命党接头的布行。她相信秦少白就在屋里，执拗地等着，可秦少白始终没有出来。与此同时，阿四去见阿纯，阿纯其实就在楼上但躲着阿四未见。阿纯认为阿四将成为真正的李总办，她开始怀疑自己是阿四的唯一障碍！制造局宴席。“李总办”风风光光，应对官、商、外国人等方方面面。区舒云竟出现了，一身高贵靓丽的总办夫人装束，与阿四珠联璧合，极撑场面－－底下却是两颗苦涩的心。李重甲一身戎装，默默地看着二人。李重甲接到铁山急召，赶去，只听一纸命令，他被解除一切职务！李重甲要见铁山，铁刚不让见，李重甲的肩章直接被捋掉了。阿四与区舒云大醉回屋互诉衷肠。早上醒来，阿四发现自己竟睡在床上。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2645</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep35 (Fix)_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

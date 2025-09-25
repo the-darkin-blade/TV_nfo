@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 20 集</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486674</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李家和霍家算是把两人的婚事定了下来，但小玉却没有快乐的感觉反而还是心事重重的样子。靖澜和小玉为了化解纳兰东和李益间的误会特意安排了一场相遇让两人化解隔阂，不过就苦了纳兰东掉到河中。纳兰东和靖澜到郊外游玩不想却遇到了慈瑞和莫征被人抓起来。两人每人竟然欠下赌债五万两。慈瑞回到紫檀殿后将自己欠下的赌债的事说了，原来慈瑞和莫征是赌选花魁而且买的是许如是，所以慈瑞才故意剪坏了小玉的衣服。慈瑞又将莫征和自己一样欠下赌债的事告诉了小玉。小玉到莫玥问她们打算怎么办，鲍妈妈说莫玥已经朱泚写信但远水解不了近渴啊，后天就是偿还赌债的日子了。莫玥要嫁给宰相元载为妾。慈瑞和小玉没有办法，慈瑞带着紫钗要卖于意浓，但意浓却表示自己也无力。丹净帮忙说话让意浓卖于其它的一些达官贵人。丹净把紫钗卖的钱交给了慈瑞，慈瑞想知道紫钗卖于何人但丹净也不知道一切都是意浓所办。李父带着李益拜访杨炎，刘济正在杨炎处，杨炎问刘济玉门关那边如何，杨炎要李益参军到刘济处共抗胡人。李益要到玉门关，小玉要陪嫁到河西，这一切让两人自觉再无希望。纳兰东和两人喝了很多的酒。李益喝醉了。纳兰东问小玉如果那天李益没有犯上会不会跟自己走。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1332</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep20.20131001.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20131001 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>1001</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1332</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep20.20131001.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1001" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

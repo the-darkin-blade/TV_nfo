@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿四揭露沈千总与小丁之死有关，李重甲阴谋重重</title>
+  <originaltitle>阿四揭露沈千总与小丁之死有关，李重甲阴谋重重</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>54</episode>
+  <id>4938233</id>
+  <uniqueid default="false" type="tmdb">2728598</uniqueid>
+  <uniqueid default="false" type="trakt">1307889</uniqueid>
+  <uniqueid default="true" type="tvdb">4938233</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>铁山身边的沈千总的一枚玉佩引起阿四注意，那块玉佩化成灰阿四都认得，是小丁从未离身的宝贝。这个沈千总本来是区巡抚的卫队长，后来投靠了铁山。小丁之死的线索又浮现出来，通过暗中查访，阿四基本可以判断是这个铁山身边的沈千总奉李重甲之命，去杀了小丁。翌日，阿四派曹三德把沈千总被绑架。三元里郊外，阿四审问沈千总，沈千总交代李重甲给他重金杀小丁等事。隔壁阿四安排秦少白旁听。秦少白警惕，起义行动更改，切断李重甲和所有革命行动的联系。原定的起义没有爆发，铁山的屠杀计划落空，阿四一颗心落地。铁山对李重甲很不满。李重甲心里确定这回是栽在阿四手里，只告诉铁山，革命党起疑，须重新取得信任。李重甲设法约出秦少白，一张利嘴慷慨激昂，秦少白也含糊了。李重甲见起效，起身离去。秦少白重新思考，只有向前看，阿四和李重甲两人都要考察。将军府后花园，一声巨响，马车爆炸。一个兵丁穿着铁山的衣服浑身漆黑地从车上下来，抖胳膊动腿，居然没事。李重甲说这是专门从德国买回来的高科技炸药，光打雷不下雨。炸弹一响，就对外宣称铁山重伤，李重甲成为革命党的英雄，革命党必轻敌冒进。铁山承认，李重甲的计谋的确高明。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2651</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep54_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="54" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

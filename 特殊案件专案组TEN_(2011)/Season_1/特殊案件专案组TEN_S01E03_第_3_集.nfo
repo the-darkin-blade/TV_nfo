@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 3 集</title>
+  <originaltitle>미모사</originaltitle>
+  <showtitle>特殊案件专案组TEN</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>4430682</id>
+  <uniqueid default="false" type="tmdb">1003476</uniqueid>
+  <uniqueid default="false" type="trakt">960249</uniqueid>
+  <uniqueid default="true" type="tvdb">4430682</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>'개코'라는 별병을 가진 백도식의 후배 형사가 누군가에게 일곱 번이나 찔린채 잔혹하게 살해된다. 죽은 형사는 잇따른 자살 사건에서 타살의 의혹을 제기하고 추적 중이었다. 한편, 사건 현장에서 특수사건전담반은 "놀리 메 탄게레"라 쓰여있는 라틴어로 쓰여진 메시지와 화분을 발견한다. "건드리지 마라"는 뜻을 가진 이 글귀는 예수 그리스도가 마리아에게 남긴 부활의 메시지! 새로운 스타일의 연쇄살인마가 등장한 것인가?</plot>
+  <runtime>78</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>OCN</studio>
+  <studio>Studio Dragon</studio>
+  <dateadded>2025-09-15 20:28:51</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>856</width>
+        <height>480</height>
+        <durationinseconds>4733</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E03.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

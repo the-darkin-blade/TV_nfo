@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>为见巧芝　方法尽出</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>2251851</id>
+  <uniqueid default="false" type="tmdb">569235</uniqueid>
+  <uniqueid default="false" type="trakt">577902</uniqueid>
+  <uniqueid default="true" type="tvdb">2251851</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>明轩为了与Janet Bin联络不断致电给巧芝，但她却不断推辞不肯帮忙；晓琳突然要求巧芝跟进与医疗集团的投资计画，怎料对方的负责人竟是明轩……
+
+浩然执行任务时与歹徒枪战，浩然神勇不断击倒犯人，当剩下与最后一人擎枪对峙时，浩然凭经验说看出歹徒的手枪型号，亦留意到对方开枪的次数，指对方已把子弹用尽要他投降；当浩然走近歹徒身旁时，对方的手枪却可发射……
+
+美诗误会　明轩杀人
+
+这边厢浩然的上司宝荣竟因被打劫而在警署报案；原来自Janet Bin消失后，众歹徒竟变本加厉，更视警察如无物。宝荣在盘问犯人时竟被犯人胁持，这时浩然等人赶到，身为神枪手的他欲在警署内开枪对付歹徒，岂料众目睽睽下，被击中的竟然是宝荣……绰雅与好友诉苦，说自从浩然提出了订婚后却一直没有行动；六神无主的绰雅竟找玄学家商量如何令自己早日成婚，结果更打算假装怀孕……绰雅托好友在晚上致电回家让浩然得知自己怀孕一事，但浩然却阴差阳差接了下属的电话而赶着离家，令绰雅以为浩然即使得知她已怀孕，但仍置她不顾。为了宣传整容诊所，明轩与伟信担任直播电视节目的嘉宾，但因为没法与Janet Bin联络而心情恶劣的明轩却在节目中胡言乱语，结果更令自己与伟信在观众前大出洋相。美诗晚上回到整容诊所，当她致电给伟信时，竟发现电话声是由伟信的车尾箱所传出；而当美诗回到诊所时，却发现诊所一片凌乱，亦发现地上有血迹。美诗发现烂醉如泥的明轩睡在一旁，面上亦有血迹……美诗从种种迹象推断，明轩可能把伟信杀死然后藏尸在车尾箱内；为了协助明轩脱罪，美诗竟把诊所的一切收拾妥当，然后更把伟信的车驶到海旁，然后把车掉进海里……
+
+结婚冲喜　对抗厄运
+
+美诗终被警方请去协助调查，但这边厢，以为失踪了的伟信竟在明轩家中出现……绰雅为了报复浩然，竟偷偷把浩然配枪的子枪取去。浩然捣破制毒工场时，想不到下属启发竟然遇事入院；启发对他苦劝，说大家自从私下调查Janet Bin后，所有下属都遇上不幸事件受伤，而下一个牺牲者很大机会轮到浩然，更着他想办法让自己「冲喜」一下以对付这「邪门」事。浩然回到家，突然向绰雅提出结婚，令她喜出望外；明轩与浩然在电梯中相遇，更因发现对方情有所归而互相祝福……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E14.20180529.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Fly With Me 20180529 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>529</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E14.20180529.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="529" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

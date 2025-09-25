@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>波士早晨</title>
+  <originaltitle>波士早晨</originaltitle>
+  <showtitle>波士早晨</showtitle>
+  <sorttitle/>
+  <year>2018</year>
+  <top250>0</top250>
+  <ratings/>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>电讯公司市场部秘书路在林深明办公室生存之道，只求公事上做好本份。业界精英许立乔空降市场部，令市场部与销售部的竞争更趋白热化，在林亦因重遇前夫立乔而大受冲击！在赵宇彤被卷入立乔与上司及公司其他高层的纷争，同时还要应付秘书职级内的明争暗斗。在林偶然下得悉当日离婚的真相，终於原谅立乔。公司权力变动，立乔登上营运总监之位。在林却发现立乔跟秘书姚洛施情感暧昧，二人关系再次陷于胶着……</plot>
+  <tagline/>
+  <runtime>40</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"109693"}</episodeguide>
+  <id/>
+  <imdbid/>
+  <tmdbid>109693</tmdbid>
+  <uniqueid default="true" type="tmdb">109693</uniqueid>
+  <premiered>2018-08-08</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Comedy</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <actor>
+    <name>黄智贤</name>
+    <role>Xu li qiao</role>
+    <profile>https://www.themoviedb.org/person/1192984</profile>
+    <tmdbid>1192984</tmdbid>
+  </actor>
+  <actor>
+    <name>陈慧珊</name>
+    <role>Lu zai lin</role>
+    <profile>https://www.themoviedb.org/person/1223045</profile>
+    <tmdbid>1223045</tmdbid>
+  </actor>
+  <actor>
+    <name>洪永城</name>
+    <role>Kang cheng yu</role>
+    <profile>https://www.themoviedb.org/person/2214358</profile>
+    <tmdbid>2214358</tmdbid>
+  </actor>
+  <actor>
+    <name>李子雄</name>
+    <role>Song li qin</role>
+    <profile>https://www.themoviedb.org/person/25249</profile>
+    <tmdbid>25249</tmdbid>
+  </actor>
+  <actor>
+    <name>李佳芯</name>
+    <profile>https://www.themoviedb.org/person/2178314</profile>
+    <tmdbid>2178314</tmdbid>
+  </actor>
+  <actor>
+    <name>张致恒</name>
+    <profile>https://www.themoviedb.org/person/125106</profile>
+    <tmdbid>125106</tmdbid>
+  </actor>
+  <actor>
+    <name>樊奕敏</name>
+    <profile>https://www.themoviedb.org/person/1132172</profile>
+    <tmdbid>1132172</tmdbid>
+  </actor>
+  <actor>
+    <name>吕珊</name>
+    <profile>https://www.themoviedb.org/person/1334858</profile>
+    <tmdbid>1334858</tmdbid>
+  </actor>
+  <actor>
+    <name>李璧琦</name>
+    <profile>https://www.themoviedb.org/person/3197912</profile>
+    <tmdbid>3197912</tmdbid>
+  </actor>
+  <actor>
+    <name>赵希洛</name>
+    <profile>https://www.themoviedb.org/person/2448430</profile>
+    <tmdbid>2448430</tmdbid>
+  </actor>
+  <actor>
+    <name>杜大伟</name>
+    <profile>https://www.themoviedb.org/person/1836712</profile>
+    <tmdbid>1836712</tmdbid>
+  </actor>
+  <actor>
+    <name>胡渭康</name>
+    <profile>https://www.themoviedb.org/person/1156272</profile>
+    <tmdbid>1156272</tmdbid>
+  </actor>
+  <actor>
+    <name>苏恩磁</name>
+    <profile>https://www.themoviedb.org/person/3390465</profile>
+    <tmdbid>3390465</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

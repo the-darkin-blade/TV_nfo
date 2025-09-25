@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:37:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 3 集</title>
+  <originaltitle>마지막 수업</originaltitle>
+  <showtitle>特殊案件专案组TEN</showtitle>
+  <season>2</season>
+  <episode>3</episode>
+  <id>4779539</id>
+  <uniqueid default="false" type="tmdb">1003485</uniqueid>
+  <uniqueid default="false" type="trakt">960258</uniqueid>
+  <uniqueid default="true" type="tvdb">4779539</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>여지훈의 경찰대 스승의 갑작스런 자살 사건, 하지만 평소 생전의 고인의 캐릭터와는 전혀 맞지않는 상황. 주변 증거들은 조작된 자살 사건으로 사건을 몰고가고...이 과정에서 고인이 관여된 20년전 살인 사건이 떠오른다.</plot>
+  <runtime>56</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>OCN</studio>
+  <studio>Studio Dragon</studio>
+  <dateadded>2025-09-15 20:28:51</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>856</width>
+        <height>480</height>
+        <durationinseconds>3387</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S02E03-E04.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="2"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第 4 集</title>
+  <originaltitle>중독자 Part 1</originaltitle>
+  <showtitle>特殊案件专案组TEN</showtitle>
+  <season>2</season>
+  <episode>4</episode>
+  <id>4779540</id>
+  <uniqueid default="false" type="tmdb">1003486</uniqueid>
+  <uniqueid default="false" type="trakt">960259</uniqueid>
+  <uniqueid default="true" type="tvdb">4779540</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>강원랜드 카지노 인근 주택에서 벌어진 일가족 살인 사건. 유일한 용의자는 카지노 앵벌이 강씨. 하지만 사건 현장은 조작의 느낌이 강하다. 풀리지 않는 사건을 풀기 위해 서울의 TEN팀이 투입되고 독사 백도식은 1년여만에 다시 TEN팀과 조우한다.</plot>
+  <runtime>56</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>OCN</studio>
+  <studio>Studio Dragon</studio>
+  <dateadded>2025-09-15 20:28:51</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>856</width>
+        <height>480</height>
+        <durationinseconds>3387</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S02E03-E04.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="2"/>
+  </episode_groups>
+</episodedetails>

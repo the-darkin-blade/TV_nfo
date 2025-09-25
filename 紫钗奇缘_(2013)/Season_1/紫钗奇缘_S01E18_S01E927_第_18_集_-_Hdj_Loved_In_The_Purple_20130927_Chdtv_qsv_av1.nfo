@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 18 集</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486672</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>纳兰东拿着霓裳羽衣曲的残谱到了紫檀殿，李龟年看届时激动反常求纳兰东期望能够让留在宫中的二哥能够出来三兄弟重聚一起修正这霓裳羽衣曲。纳兰东请宁国公主出头使得李鹏年，李鹤年，李龟年三兄弟重逢。李龟年让小玉就以霓裳羽衣曲出赛。宁国公主叫来小玉碰头。宁国公主问小玉若是和李益难成眷属会不会思考纳兰东而且提示小玉李家仅仅期望能够找到在宦途能够协助李益的人。三位老乐工将曲子修正了大概九成能够用做扮演。慈瑞和鲍母亲也为小玉缝制了霓裳羽衣，但李龟年看往后却指出舞衣不可，当年杨贵妃的舞衣是用上好的越姬乌丝栏素缣缝制的，鲍母亲对慈瑞说她正巧不是收藏了一块吗?慈瑞收藏的那块正巧送给李益写盟心诗送给小玉了。鲍母亲容许必定再帮小玉选一块布料。纳兰东找到李益告之这次选花魁别有诡计会陪着自个娘亲陪嫁河西，但李益却不信任纳兰东反指纳兰东是不想小玉下嫁李家然后趁虚而入。李益纳兰东将工作通知了小玉，小玉还心存梦想，纳兰东通知小玉如今宫内郡主衣裳每天在赶制，但底子没有其它郡主。小玉指出若是真的是这样杨炎不应让意浓也参与竞赛的啊，小玉为了脱籍只好放手一搏。李夫人来责怪慈瑞怎样还让小玉和李益交游而且提出小玉必定不能变成郡主，若是小玉变成郡主李益必定会求皇上赐婚。慈瑞反说若是小玉变成郡主李益一个小小的校书郎凭什么求皇上赐婚，待小玉变成郡主时和纳兰东的喜贴必定会送到贵寓。李夫人见慈瑞满意的姿态恶狠狠的对慈瑞说小玉实为霍王女儿如今却沦落风尘，若是事开她这关照不力的罪名或许会问斩，怎么还快乐得起来。到了竞赛的日子慈瑞本悄悄破坏了小玉的羽衣却没想到小玉还有一套备用。真实竞赛时在杨炎的协助下许如是和罗芊芊都没出如今竞赛现场，只要长安三名花。杜意浓第一个上台但扮演却不及平常的水准，意浓下来时谎报自个手伤还没有彻底康复。莫玥的扮演相同出了疑问。正本不应赶来的许如是却由于靖澜的相助及时赶到，小玉让许如是先歇息自个首要上台扮演。小玉的扮演没有瑕疵很完满，但接下来许如是扮演也令人震惊，一曲把世人的心情都带入到歌曲的意境。通过票选小玉和许如是的成果居然同票，到了最要害的一票宁国公主。宁国公主让纳兰东帮自个把票添上，杨炎走到纳兰东身边通知他若是真是霍小玉中选就会替代宁国公主去河西成亲。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1334</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep18.20130927.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20130927 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>927</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1334</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep18.20130927.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="927" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

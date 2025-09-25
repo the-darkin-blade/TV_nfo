@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 34 集</title>
+  <originaltitle>Episode 34</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486688</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小玉一行躲到了原来的丫环青儿那里。小玉问浣纱将来孩子出生打算怎么办。浣纱表示如果生了男孩就还给杨家，如果是女孩就自己养着。宁国公主带着霍王妃入宫，离开时遇到太子，宁国公主让太子赶紧给霍王妃下跪请霍王妃告之生母淑妃下落。纳兰东与靖澜准备出关被刘济拦下，刘济奉命留下靖澜，刘济又告诉两人过几日李益会到可一同出关。两人暂时留了下来　李益到来后一样不同意靖澜跟随，靖澜没办法只好留下不过告诉纳兰东自己就留在玉门关等他回来。纳兰东才走便有皇家侍官前来有一封密函交于纳兰东，靖澜为了纳兰东这次不走也要走了。李益与纳兰东离开的路上告诉纳兰东真正被杨炎侮辱的是浣纱现在正遭卢杞追杀。纳兰东这才明白为何李益对靖澜态度冷淡。靖澜追上了纳兰东，密函中告之纳兰东淑妃确实是在河西。到达河西后纳兰东见到了淑妃，不过淑妃并不承认自己的身份。纳兰东拿出密信交于淑妃。纳兰东承认了自己的身份。纳兰东问淑妃在洛阳时是否生了一名孩儿，淑妃表示自己在大唐只有一个儿子就是太子李适。纳兰东的这一希望又破灭了，重要是自己和小玉怎么办。纳兰东喝醉了告诉靖澜老天就是在耍自己，自己越想得到的就越是要夺走。浣纱的孩子出生了是一个男孩。这一日村子里又来收粮青儿和牛雄被打，小玉赶过来看时遇到了朱泚。此翻朱泚收粮后便要去上都，皇上病重卢杞有求于他。朱泚劝小玉此次同自己一起回去。小玉又求朱泚帮忙找人将浣纱送到杨家。浣纱抱着孩子与小玉分别，慈瑞告诉浣纱如果杨家承认就在杨家享福，如若不行便回来。朱泚与小玉一同回到了上都拜见了卢杞，卢札问浣纱下落，小玉谎称孩子夭折又有朱泚帮忙卢杞也不能再多追究。小玉陪同朱泚来找莫玥，莫玥自觉配不上朱泚不肯相见，小玉在外劝莫玥怎么出来见一面。朱泚不在意莫玥的过去当场便向鲍妈妈提亲。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep34.20131021.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20131021 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>1021</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep34.20131021.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1021" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

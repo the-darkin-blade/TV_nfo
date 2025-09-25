@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>金莲醉诱武二郎</title>
+  <originaltitle>金莲醉诱武二郎</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026641</uniqueid>
+  <uniqueid default="false" type="trakt">7308127</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>潘金莲见武松回家忙殷勤服侍，又是换披风鞋袜，又是端茶递水。一面又将做好的新衣给他试穿。武松没想到这是她借机亲近，只当兄嫂体贴爱护，心中感动。武大回家，见到叔嫂二人谈论衣服颜色，觉得家庭温暖，十分欣慰。被潘金莲打到头的那一人名叫西门庆，多有家产，贪爱美色，被潘金莲的容貌迷的如痴如狂，求助潘金莲的邻居王婆。王婆在街上摆个卖茶的铺子，见西门庆三番五次来偷看潘金莲，心中有意从中赚一笔，将潘金莲的家底都告诉了西门庆，西门庆听说潘金莲竟然是三寸丁武大郎的娘子，更是坚定了要将她勾搭到手的决心。武大悄悄告诉潘金莲，要给兄弟武松孤身一人，他要给他找一门好亲事，让他在阳谷县成家立业，潘金莲忙说叔叔有我们兄嫂，怎么会是孤苦一人呢。武大却觉得兄嫂还是比不过妻子，必须让武松早早开枝散叶。潘金莲又说叔叔年少不用着急，但武大主意已定。大雪，武松回家路上去接哥哥武大。武大却坚持要将炊饼卖完才回家，并托武松将新买的首饰带回去给潘金莲。潘金莲早早预备下酒菜等武松回家，看到武松拿来的首饰欢喜无限，但听到是武大所赠顿时意尽阑珊，打叠百般本事讨好武松。武大卖完了炊饼回家路上特地来到王婆家中，托王婆给弟弟武松寻一门好亲事，王婆听着武大提出的条条款款，敷衍着他。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2648</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E24 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

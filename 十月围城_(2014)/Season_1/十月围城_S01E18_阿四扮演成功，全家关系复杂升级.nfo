@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>阿四扮演成功，全家关系复杂升级</title>
+  <originaltitle>阿四扮演成功，全家关系复杂升级</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id>4938196</id>
+  <uniqueid default="false" type="tmdb">2728559</uniqueid>
+  <uniqueid default="false" type="trakt">1306149</uniqueid>
+  <uniqueid default="true" type="tvdb">4938196</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>阿四是假的，可全家这份热络劲挺真。阿四为成功地扮演了李重光，扛过生死劫不禁有些得意。祖孙三人感受到真正的天伦之情。区舒云对阿四另眼相看，阿四也忽然觉得区舒云不那么讨人厌了，甚至有几分可爱，二人关系更近了一层。区舒云再不客气，逼阿四带自己去找秦少白， 阿四得到李玉堂承诺，以李重光要回英国完成学业的名义把他送回香港。阿四答应区舒云以“陪读”身份同行，等到了香港，一定帮她找到秦少白。阿四看望阿纯，阿纯已经完成了第二次手术，只等拆线。阿四告诉阿纯，李玉堂把香港的一个商铺送给了他，阿四又开始畅想和阿纯在一起的美好未来。李玉堂和一个人秘密见面了，对方竟是秦少白。原来，李玉堂经此大劫，痛定思痛，决定真正参与革命，要把机械厂即将制造的子弹秘密提供给革命党。秦少白感激之余，和李玉堂分析各方势力对机械厂的期待，李玉堂如何在夹缝里生存，并保护好自己。当务之急是找到一个合适的帮手，能摆平几方关系。秦少白向李玉堂建议让阿四试试，陈诉理由，李玉堂坚决反对。一位革命党人被捕，用以联络新军起义的花名册被抄，铁山得知在新军中的革命党人都用“保亚票”（相当于同盟会党券）联络，他连夜派人去军营搜查保亚票。革命党人于镇伟逃跑时被李重甲拦住，并让人在兵营门口挂出一个大箱子，要士兵们悄悄把保亚票投进箱子，担保他们无罪。李重甲呈上一满箱子保亚票，铁山大为欣赏李重甲，说要重用，提名其做新办的华南制造局总办！区巡抚和李玉堂商量要推李重光做制造局总办的事，李玉堂尽力解释让重甲当总办是一样的，区巡抚指出重甲已经暗中投靠了铁山，趁李玉堂在狱中企图出卖机械厂，听得李玉堂心里直打鼓。李玉堂说李重光与区舒云要出国求学，区巡抚说想出国没门，区舒云更不能走！李玉堂傻了。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2657</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep18_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

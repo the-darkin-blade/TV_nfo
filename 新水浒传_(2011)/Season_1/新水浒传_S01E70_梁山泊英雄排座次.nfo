@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>梁山泊英雄排座次</title>
+  <originaltitle>梁山泊英雄排座次</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>70</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026687</uniqueid>
+  <uniqueid default="false" type="trakt">7308173</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>张清为拜谢宋江，领着一行人马势如破竹攻破东昌府，首建奇功。石碣村的家畜纷纷病倒，众人百思不解，张清使人请来家乡的兽医皇普端为石碣村的病畜治病，并加入梁山。此时，公孙胜来到石碣村称有天神驾到，在公孙胜的指引下，李逵领着石碣村村民挖出了一块石碑，石碑上刻有梁山的一百零八将，并详细的写明了天罡星三十六人，地煞星七十二人，而村中的牲畜也随公孙胜所预测的那样神奇的痊愈，众人纷纷称奇，宋江顺势悬起“忠义”牌匾，挂起“替天行道”杏黄大旗，在忠义堂为一百单八将排座次，祭天谢神，歃血为盟。李逵在同宋江、吴用饮酒时方知这都是宋江等人事先布置好的，并无天神降临之说，宋江想借此为梁山造势，以为将来朝廷诏安做准备，李逵一听招安只说，一脸不悦的离开。宋江则在公孙胜和吴用的建议下准备于重阳节开赏菊大会，借机与众兄弟说招安之事。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2647</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E70 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="70" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

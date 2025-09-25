@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>洪太尉误走妖魔</title>
+  <originaltitle>洪太尉误走妖魔</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1633571</uniqueid>
+  <uniqueid default="false" type="trakt">7308104</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>北宋年间，宋徽宗在位，朝廷奸臣当道，民不聊生，宋徽宗受奸臣蒙蔽，斥巨资运送“神功昭运石”进京。途经郓城县，遇到前来替县官接引“神功昭运石”的宋江。宋江不识官、吏等级之分，被押送的官员赶下马去，尾随队伍前行。恰好运送“神功昭运石”的队伍之中，有一位道人，正是入云龙公孙胜。公孙胜得知这个刀笔小吏正是闻名山东的及时雨宋江，便有心结识，趁四下无人的时候，向宋江讲了一段往事。嘉佑年间，宋仁宗派洪太尉前往龙虎山，请张天师来朝，却发现张天师不在道观，而是在龙虎山顶上的茅舍之中，无奈，洪太尉只得上山去请张天师。洪太尉路遇白虎、大蟒，正犹自惊吓，一牧童却现身告知洪太尉，张天师已得知宋仁宗有请，早驾鹤去了，洪太尉不必再登山。洪太尉下山来，迁怒住持道长---既然张天师能算到圣上旨意，何苦为难他受此苦难。主持道长却点破，那牧童正是张天师。无奈洪太尉怒火中烧，不信住持道长所言，执意要找出张天师所在。洪太尉四处搜索不找，却找到了大唐洞玄国师镇压魔鬼的伏魔殿。住持道长反复劝告洪太尉，殿内镇压一百单八天罡地煞魔星，万万不可开门。洪太尉不听劝阻，一意孤行，最终放走了那一百单八天罡地煞魔星。公孙胜点破，宋江便是那一百单八魔星之一，要宋江与他一道劫取给蔡太师运送的生辰纲。无奈宋江生性耿直，识破了公孙胜的“道法”，硬 要押送公孙胜前去报官。不想公孙胜武功甚高，宋江无法擒住公孙胜，直到朱仝、雷横寻来，公孙胜才逃走。公孙胜虽然没能劝动宋江窃取生辰纲，宋江却在官府面前不肯出卖公孙胜，无意间竟得罪了大名府官员，郓城县官虽想袒护宋江，却不敢得罪大名府，只有派出朱仝雷横，四处搜捕公孙胜。朱仝和雷横奉命分头搜捕公孙胜，却误抓了正在灵官殿里睡觉的赤发鬼刘唐。雷横想要拿刘唐充当公孙胜交差，幸亏宋江及时寻来，道出刘唐并非公孙胜，并提议借道东西村的托塔天王晁盖的家稍事休息，再回县衙。晁盖虽未曾与宋江等人见过面，却神交已久。晁盖私下见了刘唐，见刘唐并非歹人，又是来投奔自己，便拟定让刘唐认自己做舅舅的解救方法。宋江来时，故意将招文袋丢在莲藕田里，不想一时三刻未过，晁盖便带庄客寻来招文袋，宋江赞叹晁盖无所不能。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2670</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E01 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

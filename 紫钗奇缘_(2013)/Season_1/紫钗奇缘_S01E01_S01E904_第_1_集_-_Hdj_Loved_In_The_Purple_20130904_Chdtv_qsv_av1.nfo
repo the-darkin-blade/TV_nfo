@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:46:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 1 集</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2486655</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>唐代宗年间霍小玉被迫陪嫁宁国公主和亲突厥。若有再生缘，定不负相思念。这是霍小玉临别前对纳兰东说的最后一句话。听到这一句，纳兰东泪流满面。两年前唐大历十年腊月二十三祭灶日。纳兰东在赶回皇宫时骑马差点撞到霍小玉，这是纳兰东和小玉的初次见面。纳兰东赶回皇宫便是为了救皇上，祭灶王的这一天皇宫内出现了刺客要刺杀皇上。纳兰东前来拜见娘亲宁国公主。宁国公主乃纳兰东养母。宁国公主拿出一封信交于纳兰东，纳兰东看过后心生欢喜是自己的结拜兄弟李君虞李益，现在住在崇敬寺。四大才子不服李益才华要与李益比试琴，棋，书，画。结果四大才子没有一项能与李益相比。京兆尹周衍几次要请小玉到府中表演小玉都没有去，这次见小玉上门周衍要强行将小玉留下。周衍告诉小玉自己父亲只是久病不愈想让父亲高兴一下希望对病情能有所好处。周衍请到了长安三花魁为自己父亲贺寿。小玉，莫玥，杜意浓。杜意浓表演了舞艺，莫玥唱了一首歌，小玉不做表演念了一首李益的诗。周老爷很喜欢莫玥唱歌，周衍说原来妹妹未嫁时寿宴一直由妹妹唱歌，小玉在一旁插言让周老爷认作莫玥为干女儿，周老爷高兴的答应了。寿宴结束三女相约一起到崇敬寺酬神。杜意浓告诉了两人这根本同周衍和杨炎的一个赌局，杨炎不相信周衍为齐聚长安三花魁。小玉和青儿在回去的路上见街上有人表演挤进去观看，结果这个异国女子乎塞拉在表演胸口碎大石时晕了过去。小玉好心的把乎塞拉带回了家。听到乎塞拉父母双亡身世可怜，小玉将乎塞拉留下来做自己的贴身丫环。纳兰东陪着母亲宁国公主到崇敬寺拜佛。小玉，杜意浓和莫玥也是这一天前来。杜意浓故意和宁国公主扛起来，小玉和莫玥拉走杜意浓。三女游园时被几个流氓纠缠，纳兰东出手相救。纳兰东看到小玉时两人都认出对方，不过小玉却不友好。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1296</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep01.20130904.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Hdj Loved In The Purple 20130904 Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>紫钗奇缘</showtitle>
+  <season>1</season>
+  <episode>904</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>Shandong TV</studio>
+  <studio>北京小马奔腾影视公司</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1296</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.Loved.In.The.Purple.Ep01.20130904.Hdtv.1080I.H264-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="904" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

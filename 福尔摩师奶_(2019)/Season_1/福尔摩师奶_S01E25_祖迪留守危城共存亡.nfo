@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>祖迪留守危城共存亡</title>
+  <originaltitle>Episode 25</originaltitle>
+  <showtitle>福尔摩师奶</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1727808</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>(大结局)鼠疫肆虐，疫苗短缺，世杰、游池证实受感染，晓尧隔空鼓励游池振作。政府下令封城，菲腊劝祖迪及晓尧离开，更承认丁月被杀前二人曾发生争执……熊财散播鼠疫病毒，并自制假药发配给街坊。一夫发现高明留下之信件，有惊人发现。一夫在满街尸体前忏悔，一切皆被祖迪听见，承诺与他留守危城共存亡。大批街坊涌至「香庐」抢夺疫苗，妹娣带走疫苗，一夫赶往营救。祖迪命熊财交出真正疫苗；逃狱的素嘉带走熊财，匿藏货仓内……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:22</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2650</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>TVBOXNOW 福爾摩師奶 EP25_H265.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

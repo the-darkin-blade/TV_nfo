@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>濒死体验　顿悟回港</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>1623461</id>
+  <uniqueid default="false" type="tmdb">1992252</uniqueid>
+  <uniqueid default="false" type="trakt">1576509</uniqueid>
+  <uniqueid default="true" type="tvdb">1623461</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>菲律宾警察在郊外发现欢畅，把他送往医院救回一命。欢畅遇上青云在医院不断向人出售自己的电话，欢畅终向青云买下，令她有本钱再入赌场赌钱。欢畅改变初衷决定回港。正初感好奇，欢畅说出濒死之时，旧事不断涌现，使他顿觉白费了多年光阴，因此希望追回失去的亲情和找回弟弟。福荣把失去知觉的云送进医疗室，原来青云只是疲累过度而睡着，最后正初把青云与欢畅送回香港。飞机刚到港青云便收到追数公司和银行的电话，欢畅回到旧居时，发现已变成了商业大厦，连家人去向也不清楚而呆住了。青云被欢畅身上的数万元所吸引，强行要他租住自己的家，更强夺了欢畅的钱还卡数。青云带欢畅到自己居住的垃圾屋，发现这里有位隐蔽青年来富是同屋主。欢畅在打听父母下落时，遇上偷回收衣服的青云，却同被警察追赶。青云把卖旧衣所赚的钱与欢畅平分，更随即到金行选购生日礼物给婆婆。欢畅得悉青云的父母死于意外后，更决心欲寻回自己双亲。欢畅终幸运地寻到老街坊，但见到的却只有父母的骨灰，令他激动得跪地痛哭。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1586</width>
+        <height>1080</height>
+        <durationinseconds>2674</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep03.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

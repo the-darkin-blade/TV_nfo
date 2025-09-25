@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>永昌盛竟不入工会名单</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>初五启市录</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3225408</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>振邦和耀祖奉命与提供允杰消息的小胡接头。二人带下属到茶楼接见小胡，虽然对情报来源有怀疑，但多番提出质疑都得到合理的解释，于是决定随小胡上山找寻允杰。
+
+山上渐渐烟雾弥漫，小胡突然袭击一行人。振邦开枪射杀小胡，平息了事件。然而，继尧心系于爱儿，斥责二人没有确认允杰消息的真伪。无法得到允杰的消息，继尧难掩悲痛心情。美玲安慰继尧，劝喻他不要太劳神，继尧仍坚称命中注定有一子，必能寻回允杰。
+
+宝宝顺利　嫁入唐家
+
+百年不理绍业及其他亲友反对，执意迎娶宝宝过门。自此，宝宝以唐家三夫人身分管理百年的酒庄。宝宝又与百年向洋人签下十年洋酒代理，更特意请雅媛品尝。雅媛提醒宝宝十年代理经营权风险甚高，宝宝则反驳酒庄生意由百年打理，与雅媛无关，雅媛始觉宝宝蛮有手段。
+
+宝宝亦刻意讨好唐家上下各人，深知玉卿热爱戏曲，请京剧大师回来指导，又知道礼和钟情电影，送他电影海报和纪念品。飞见宝宝已经飞上枝头变凤凰，知道机不可失，恃自己答应为她守秘密，要求她替永昌盛转介更多生意，宝宝趁这机会指责飞以不存在的证据要胁她，但也念在儿时的情分上，同意把更多生意交给花地码头。
+
+苏飞雅文　形同陌路
+
+飞决定乘永昌盛越渐兴旺的大势，重新参与「广州有组织及劳动工人总工会」的活动，并打算在大会上参选理事，于是偕大青、芬、一钊与虎到洋服店订制新衣服。飞见芬对洋装爱不释手，豪爽地要送给她，叫芬到试衣室试穿。飞听到芬大叫，以为她有危险，便赶到试衣室救人，但误闯雅文所在的试衣室，更被雅文侮辱。
+
+飞曾被雅文利用过，没想到雅文当作与他毫不相识，甚至露出鄙弃的神情。飞没有当场发难，事后则下定决心，他朝必定出人头地，以一雪前耻。
+
+帮会地位　风光不再
+
+飞等人浩浩荡荡出席广州工会的选举活动。龙哥见众人一身制服打扮，讥笑他们有如茶楼伙记。原来永昌盛已多年没有向工会缴付会费，因此工会的名单中早已没有纪录。一钊即时缴付会费，并报名参选理事。飞一行人自诩永昌盛历史悠久，又得到长辈权叔支持，有信心重投工会后能顺利担任要职。
+
+点票开始，永昌盛没有任何选票，反而龙哥的帮会祥泰遥遥领先。最后一张由权叔投给永昌盛的票，无奈因写错字而被视为废票。
+
+继尧抱病　无力掌政
+
+继尧多年努力寻找爱子，但从未带来好消息，终于忆子成疾，无力执掌政事……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>960</width>
+        <height>544</height>
+        <durationinseconds>2645</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language/>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>The.Day.Of.Days.Ep09_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

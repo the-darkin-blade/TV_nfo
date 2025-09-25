@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>十月围城</title>
+  <originaltitle>十月围城</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <sorttitle/>
+  <year>2014</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>3</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>20世纪初，国内外局势动荡不安。羸弱衰败的满清帝国勉勉强强扶正了最后一位皇帝宣统登台，而在王朝四野，革命的呼声愈加高涨。在此激流湍动的威望时刻，各方势力激烈碰撞，此消彼长，千万人的身家性命被卷入这个前所未有的巨大漩涡之中。革命党领袖孙中山召集同盟会成员云集香港，商议举行反清活动。该消息被清廷获悉，于是密令广东将军铁山（胡东 饰）刺杀孙中山。出身商人家庭的留学生李重光（钟汉良 饰）在保护孙中山的行动中牺牲，与之偶然交错而改变命运的车夫阿四（钟汉良 饰）则在李父玉堂（吴刚 饰）的要求下假扮重光。  　　冲突过后，铁山和李家的仇恨似乎更加激烈，而阿四也在命运的推动下，一步步成长为足以担当家国大业的男子汉……</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"87645","imdb":"tt4559518","wikidata":"Q16690007","tvdb":"283971"}</episodeguide>
+  <id>283971</id>
+  <imdbid>tt4559518</imdbid>
+  <tmdbid>87645</tmdbid>
+  <uniqueid default="false" type="tmdb">87645</uniqueid>
+  <uniqueid default="false" type="imdb">tt4559518</uniqueid>
+  <uniqueid default="false" type="wikidata">Q16690007</uniqueid>
+  <uniqueid default="true" type="tvdb">283971</uniqueid>
+  <premiered>2014-06-27</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <studio>Bona Film Group</studio>
+  <country>中国</country>
+  <tag>fake identity</tag>
+  <tag>romance</tag>
+  <tag>historical fiction</tag>
+  <actor>
+    <name>钟汉良</name>
+    <role>Wang A'Si / Li Chong Guang</role>
+    <profile>https://www.themoviedb.org/person/1183233</profile>
+    <tmdbid>1183233</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Xiaoxiao</name>
+    <role>Qu Shu Yun</role>
+    <profile>https://www.themoviedb.org/person/2994486</profile>
+    <tmdbid>2994486</tmdbid>
+  </actor>
+  <actor>
+    <name>吴刚</name>
+    <role>Li Yu Tang</role>
+    <profile>https://www.themoviedb.org/person/1086844</profile>
+    <tmdbid>1086844</tmdbid>
+  </actor>
+  <actor>
+    <name>吴孟达</name>
+    <role>Qu Zhao Xin</role>
+    <profile>https://www.themoviedb.org/person/70437</profile>
+    <tmdbid>70437</tmdbid>
+  </actor>
+  <actor>
+    <name>张晓龙</name>
+    <role>Li Zhong Jia</role>
+    <profile>https://www.themoviedb.org/person/2519300</profile>
+    <tmdbid>2519300</tmdbid>
+  </actor>
+  <actor>
+    <name>景岗山</name>
+    <role>Qin Shao Bai</role>
+    <profile>https://www.themoviedb.org/person/237821</profile>
+    <tmdbid>237821</tmdbid>
+  </actor>
+  <actor>
+    <name>胡东</name>
+    <role>Tie Shan</role>
+    <profile>https://www.themoviedb.org/person/1436140</profile>
+    <tmdbid>1436140</tmdbid>
+  </actor>
+  <actor>
+    <name>甘婷婷</name>
+    <role>Fang Hong</role>
+    <profile>https://www.themoviedb.org/person/1183234</profile>
+    <tmdbid>1183234</tmdbid>
+  </actor>
+  <actor>
+    <name>王子子</name>
+    <role>Ah Chun</role>
+    <profile>https://www.themoviedb.org/person/1291383</profile>
+    <tmdbid>1291383</tmdbid>
+  </actor>
+  <actor>
+    <name>戴春荣</name>
+    <role>Xu Shi</role>
+    <profile>https://www.themoviedb.org/person/1236265</profile>
+    <tmdbid>1236265</tmdbid>
+  </actor>
+  <actor>
+    <name>李宗翰</name>
+    <role>Fu Qi</role>
+    <profile>https://www.themoviedb.org/person/1356429</profile>
+    <tmdbid>1356429</tmdbid>
+  </actor>
+  <actor>
+    <name>严敏裘</name>
+    <role>Granny Li</role>
+    <profile>https://www.themoviedb.org/person/2994490</profile>
+    <tmdbid>2994490</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

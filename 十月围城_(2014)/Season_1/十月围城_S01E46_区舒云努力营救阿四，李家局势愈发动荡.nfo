@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:48:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>区舒云努力营救阿四，李家局势愈发动荡</title>
+  <originaltitle>区舒云努力营救阿四，李家局势愈发动荡</originaltitle>
+  <showtitle>十月围城</showtitle>
+  <season>1</season>
+  <episode>46</episode>
+  <id>4938225</id>
+  <uniqueid default="false" type="tmdb">2728590</uniqueid>
+  <uniqueid default="false" type="trakt">1306796</uniqueid>
+  <uniqueid default="true" type="tvdb">4938225</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>区舒云回到李家，李家已乱成一团。李重光谋反被抓，李重甲下落不明。死牢里的革命党陆续被处决。阿四心知这回必死无疑。阿纯与区舒云来探监，说死也要等阿四出来，区舒云说一定想办法救阿四。区巡抚到底没能平安致仕，反成了死囚，看着女儿来看望，区巡抚偷偷给了区舒云一张纸条。制造局被铁山全面军管。李重甲经审查并无参与乱党的证据，但也暂被遣散回家待命。这不过是他和铁山演的过场戏罢了。李重甲得知区舒云已经使钱去牢里见过阿四和区巡抚了，特别留意区舒云对自己的态度。区舒云自李重甲冒险救秦少白之后，完全视他为亲密战友，李重甲放了心。李重甲劝区舒云先救人，尤其要先救区巡抚，才有可能救阿四。区舒云觉得条条在理，把区巡抚的话都告诉了李重甲，二人一起到阿四书房寻找账本。但李重甲把与总督有关的账目全都秘密销毁。－－李重甲根本不希望区巡抚有任何获救机会，此时区巡抚和阿四都已失去利用价值，李重甲只需踩着铁山和革命党两条船就行了。李重甲默默地看着区舒云，心想这个女人也快要属于自己了。区舒云又去探视阿四和区巡抚被拦住，给钱都没用－－李重甲暗中使了坏。区舒云连总督府大门都进不去。去求父亲旧属，一个个视她如瘟疫。茫然间忽然被拉走，原来是换了装（怕被抓）的巡抚师爷。师爷说，你爹之所以弄到这步，就是总督向铁山出卖的，他哪会见你，现在唯一机会是去北京求摄政王，也不知有没有用，给了两个故交高官的名址匆匆走了。  李玉庵打着使钱捞人的旗号又回到李家。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Bona Film Group</studio>
+  <dateadded>2025-09-03 21:46:35</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2646</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj 十月围城 Ep46_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="46" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

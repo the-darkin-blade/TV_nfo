@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:12:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>趁父昏迷　说出真相</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>2251791</id>
+  <uniqueid default="false" type="tmdb">569230</uniqueid>
+  <uniqueid default="false" type="trakt">577896</uniqueid>
+  <uniqueid default="true" type="tvdb">2251791</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>俊邦到医院探望昏迷不醒的伯驹，而他更与助理在伯驹面前不讳言自己的野心；他更像示威般向伯驹说出自己是绑架他的主谋。当文礼到医院探望父亲时，却只顾与女性朋友谈电话，更夸下海口说自己快将有巨额金钱供自己挥霍。文礼看到母亲凤卿来到病房，立即讹称自己有公事电话需倾谈而离开病房；凤卿独坐在丈夫的病榻旁，竟开始埋怨伯驹，说他为何不一早便把公司的权力分予自己……  浩然巧计　惨被破坏  永晖向巧芝诉苦说不满浩然视他与伯驹的绑架案有关；永晖看到浩然忍不住质问他，浩然亦说出在案件水落石出前是不会放弃任何的调查线索……凤卿早上与儿子们吃早饭时，特意问俊邦是否在股市上失利及文礼是否私下收起部分赎金，两人立即否认；这时浩然的下属来到容家，更通知他们，说有绑匪突然苏醒更成功逃离医院。俊邦的助理气急败坏到他的办公室，说收到逃脱了的绑匪传来的勒索短讯……俊邦衡量得失后决定派助理把逃亡费交予绑匪，但原来这一切都是浩然安排，目的就是想找出绑架的幕后主脑是谁。巧芝为了替永晖洗脱嫌疑及帮助浩然，以Janet Bin的身分捉拿俊邦助手，但结果竟又是让对方昏迷不醒，将浩然的整个计划完全毁掉；巧芝提出欲以证人的身分来指证俊邦，但却发现自己因为来历不明而没法成为证人……躲在有富的小卖店长嗟短叹的巧芝，竟又看到浩然出现……巧芝以Janet Bin的朋友身分代「她」向浩然道歉，浩然指责任并不在她，而两人更相约吃晚饭，令巧芝兴奋不已；因为伯驹昏迷不醒，俊邦与文礼均磨刀霍霍，准备裁掉对方派系的职员，另一方面，凤卿请来私家侦探，调查永晖的身世……整天被不同的人指责打骂，最后更被巧芝赶离家的永晖，在探望昏迷的伯驹时忍不住说出自己的心底话；伯驹终苏醒过来，但想不到他竟把前来探望的永晖赶出病房……  可怜永晖　无家可归  在凤卿的生日会上，凤卿宣布伯驹苏醒的消息外，亦说出自己将暂代公司主席一事；而文礼与俊邦在众员工及凤卿面前，竟说两人将通力合作把公司办得更好……无家可归的永晖每晚不断乘搭通宵巴士，早上则回公司梳洗；但终被同事发现他没有更换过衣衫……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1321</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E08.20180518.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Fly With Me 20180518 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>飞女正传</showtitle>
+  <season>1</season>
+  <episode>518</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1321</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Fly.With.Me.E08.20180518.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="518" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

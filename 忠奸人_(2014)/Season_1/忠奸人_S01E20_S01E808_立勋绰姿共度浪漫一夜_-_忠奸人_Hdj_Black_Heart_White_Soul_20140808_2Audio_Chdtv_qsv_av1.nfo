@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 21:47:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>立勋绰姿共度浪漫一夜</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>4955459</id>
+  <uniqueid default="false" type="tmdb">1984060</uniqueid>
+  <uniqueid default="false" type="trakt">1306286</uniqueid>
+  <uniqueid default="true" type="tvdb">4955459</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>慧英与立勋到酒楼饮茶，碰巧遇见哲行等人，哲行便邀请慧英及立勋一起同席用餐。在席间，哲行得知慧英的阶级观念极重，故察觉到立勋一直没有向绰姿示爱。
+
+哲行分析后判断，立勋恋情的最大障碍应是慧英。哲行回家后便将自己的发现告知美贞，美贞认同哲行的想法，便决定举行火锅大会，并邀请慧英与绰姿一同出席，希望藉此能让两人能够加深了解。
+
+另一方面，哲行却暗中邀请哲明一起出席火锅聚会，并告知其弟绰姿并没有男朋友，哲明闻言后亦表现兴奋。
+
+哲行借醉　直斥慧英
+
+火锅大会在哲行的家中举行，刘淼亦带新男友出席聚会，而绰姿及慧英等人亦应约出席。在席上哲明为了夺得绰姿芳心，便努力向绰姿大献殷勤。在众人酒酣耳热之际，哲行竟突然恃着醉意怒斥慧英食古不化，以致立勋不敢追求绰姿。
+
+立勋见事情变得一发不可收拾，便带哲行先行回房休息。美贞发现绰姿因为感到气氛尴尬而决定先行离开，哲明见状即紧跟绰姿身后，立勋感到绰姿有危险，便即时追出去寻找她。
+
+立勋追出去后，即发现哲明对绰姿纠缠不休，立勋见状即上前出手保护绰姿，并告诉哲明自己是绰姿的男朋友。绰姿闻言后大受感动，两人之后更驾车到山上观看流星雨，共度了浪漫夜晚。而慧英亦察觉到哲行及美贞的用心，但同时也认为哲行的斥责不无道理，故同意立勋与绰姿交往。
+
+启源为了讨嘉莉的欢心，便安排节目为嘉莉庆祝生日，殊不知哲行早已预计到启源会为嘉莉庆祝生日，故安排私家侦探跟踪启源，并成功收集到启源与嘉莉偷情的证据。
+
+哲行掌握启源偷情的证据后便独自拜访以铿，并将嘉莉背夫偷汉的罪证交给以铿，以铿大为火光，但即以高额报酬奖励哲行，并对他更为重用。
+
+启源嘉莉　突然遇袭
+
+为了嘉莉的幸福，启源开始部署对付以铿的计划，敏晖知道后即替启源感到担心。
+
+两人一起外出时，却在停车场被一群恶汉围殴。虽然启源并没有受到致命伤，但却察觉到以铿已经发现自己与嘉莉的奸情。而嘉莉方面，亦因为奸情被以铿发现而受到以铿毒打，嘉莉自此变得终日诚惶诚恐。
+
+翌日以铿发现传媒竟然大肆报道嘉莉与以铿婚变的消息，便即向哲行了解原委，哲行认为是启源故意向传媒发布消息，以迫使以铿让步。
+
+提出证据　强迫离婚
+
+以铿一直重视面子，故即安排记者会并强迫嘉莉出席，以澄清两人婚姻生活正常……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1332</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep20.20140808.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>忠奸人 Hdj Black Heart White Soul 20140808 2Audio Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>忠奸人</showtitle>
+  <season>1</season>
+  <episode>808</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-03 21:40:47</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1332</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[忠奸人].Hdj.Black.Heart.White.Soul.Ep20.20140808.Hdtv.1080I.H264.2Audio-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="808" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

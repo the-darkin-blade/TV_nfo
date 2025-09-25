@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>台湾</title>
+  <originaltitle>Episode 30</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id>2399131</id>
+  <uniqueid default="false" type="tmdb">1460718</uniqueid>
+  <uniqueid default="false" type="trakt">1435919</uniqueid>
+  <uniqueid default="true" type="tvdb">2399131</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>何贱全身瘫痪，坐着轮椅到狱中去看丁蟹。何贱沉痛控诉儿子和孙子的罪行，诅咒儿子和孙子，告诉他方家兄妹在地下不会放过他们的。丁蟹十分害怕，变得疑神疑鬼。龙成邦劝龙纪文对展博的生死想开点。龙纪文接到警局的电话，才知道阮梅来了台湾。两人像老朋友一样谈笑，讲着展博的种种。两人都坚信展博没有死，一起寻找展博的下落。丁氏兄弟贿赂医生，“诊断”说丁蟹有癌症，丁蟹被保外就医。消息传到台湾，阮梅和龙纪文认为展博会关注香港的消息，决定去卖港版杂志的店打听他的消息</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1407</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.30_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 30 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1407</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.30_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

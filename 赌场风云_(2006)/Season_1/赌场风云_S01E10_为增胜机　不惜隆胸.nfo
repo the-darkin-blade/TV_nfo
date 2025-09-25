@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>为增胜机　不惜隆胸</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>赌场风云</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>1623531</id>
+  <uniqueid default="false" type="tmdb">1992286</uniqueid>
+  <uniqueid default="false" type="trakt">1576527</uniqueid>
+  <uniqueid default="true" type="tvdb">1623531</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>来富随正初到菲律宾，福荣带他到处参观，遇上参加百家乐小姐珠美，更惊为天人。珠美被其他佳丽作弄，令私下加胸垫之事曝光。珠美不忿，回家问父要钱隆胸，却被当作笑话看待。来富在荷官面试时，因紧张不能介绍自己。欢畅知来富受挫折后，竟欲赶去菲律宾，得青云阻止，并提醒要让弟弟自己克服问题，更要他减肥后才去见来富。欢畅致电给正初要他代为照顾来富，正初反而要求欢畅助青云接手婉莹丈夫的二手衫店，希望她有寄托不再沉迷赌博，青云亦因此对正初更有好感。珠美偷偷拿父亲的木雕变卖筹钱隆胸，被父发现追赶，却又遇上来富替她解困。珠美怕独自做手术，硬拉来富相伴。珠美知道来富因紧张考不好荷官后，教他不要看他人眼睛，只需注视对方鼻尖，再以玩手绳减压，令来富信心大增。青云接手二手店后生意不俗，她欲到菲律宾向正初道谢，却被欢畅误会赌瘾发作。来富第二次面试时，因用了珠美建议的办法，果然成功当上见习荷官。众人替来富庆祝时，青云竟借意试探正初是否对自己有好感，但正初却说出「女人烂赌的样子很难看」之说。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:26</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2671</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Dicey.Business.Ep10.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

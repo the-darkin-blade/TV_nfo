@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:19:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>终章</title>
+  <originaltitle>Episode 40</originaltitle>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>40</episode>
+  <id>2399231</id>
+  <uniqueid default="false" type="tmdb">1460728</uniqueid>
+  <uniqueid default="false" type="trakt">1435948</uniqueid>
+  <uniqueid default="true" type="tvdb">2399231</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>6月7日，星期一，股市开盘。丁蟹和展博都亲自下场。展博对自己充满信心。双方在僵持一段时间后，恒生指数开始攀升，联交所内一片欢呼。原来大亨韦家诚托市，随后另两个大亨也开始入货，恒指升两千多点。接着中东叛乱政府向联合国投降，在一连串的利好消息刺激下，股市一片大好。丁蟹终于一败涂地，负债达一百亿，还要被黑手党追杀。丁蟹拉4个儿子一起跳楼，亲手推下益利旺，孝面对 自己的父亲轻轻笑了笑，自己跳下大楼，展博目睹这一切，感欣慰。丁蟹由于绊住绳索，留下一命，苟延残喘。龙纪文质问展博是不是自己买升而让她父亲买跌，展博说会把那些亏掉的钱还给他的，龙纪文木然离去，不断想起她曾经对父亲发过的誓。原来龙成邦听到消息后心脏病发而死。新闻又报导周济生被江湖人物寻仇击毙于大街上。展博去看丁蟹，丁蟹仍不知悔改，一辈子只能活在自己的世界中。陈滔滔终于解出了叶天临终时所说的股票必胜法的含义，告诉了展博，所谓股票必胜 法只是“及早离去”四个字。展博和阮梅一同去拜祭了亲人。两人去郊外，谈笑中，阮梅在展博怀中慢慢闭上了眼睛。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1414</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.40_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="40" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>1992 Tvb 大时代 默认粤语音频 40 qsv av1</title>
+  <originaltitle/>
+  <showtitle>大时代</showtitle>
+  <season>1</season>
+  <episode>1992</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-15 18:24:23</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1414</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>1992.Tvb.大时代.1080P.默认粤语音频.40_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1992" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

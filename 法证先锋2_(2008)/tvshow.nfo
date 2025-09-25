@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-15 20:18:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>法证先锋2</title>
+  <originaltitle>法證先鋒II</originaltitle>
+  <showtitle>法证先锋2</showtitle>
+  <sorttitle/>
+  <year>2008</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>7.6</value>
+      <votes>8</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>法政部的高级化验师Tim Sir（欧阳震华 饰）学识广博，有赖于他高超的物证检验手法，屡破奇案。手下兼好友阿Sam（林文龙 饰）亦是一名出色的法医，最近他准备和相恋多年的女友汀汀（钟嘉欣 饰）正准备结婚。阿Sam的好友Ivan（郑嘉颖 饰）刚从英国回来，在一次炸弹危机中安全引爆了炸弹了，令到Tim Sir对他另眼相看。  这时，扫毒组的高级督察马帼英（佘诗曼 饰）和一班手下正在追查香港大毒枭戴贵，戴贵逼走了香港的另一个毒枭石头勇而独霸了整个香港市场。正当扫毒组和法证组合力追寻到戴贵的手下和国外毒贩交易，准备将得意洋洋的戴贵捉捕时，戴贵所乘坐的汽车竟然爆炸了。恰巧这时汀汀和Tim Sir的女友——重案组高级督察小柔（蒙嘉慧 饰）经过，爆炸令汀汀死去，小柔重伤。正准备结婚的阿Sam闻之消息后悲痛欲绝。  帼英调到了重案组任职，她怀疑戴贵的爆炸案是石头勇回来报...</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"15281","imdb":"tt1527374","wikidata":"Q2237690","tvdb":"84393"}</episodeguide>
+  <id>84393</id>
+  <imdbid>tt1527374</imdbid>
+  <tmdbid>15281</tmdbid>
+  <uniqueid default="false" type="tmdb">15281</uniqueid>
+  <uniqueid default="false" type="imdb">tt1527374</uniqueid>
+  <uniqueid default="false" type="wikidata">Q2237690</uniqueid>
+  <uniqueid default="true" type="tvdb">84393</uniqueid>
+  <premiered>2008-05-19</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <tag>forensic science</tag>
+  <actor>
+    <name>欧阳震华</name>
+    <role>Ko Yin-Bok (Timothy / Tim Sir)</role>
+    <profile>https://www.themoviedb.org/person/552085</profile>
+    <tmdbid>552085</tmdbid>
+  </actor>
+  <actor>
+    <name>佘诗曼</name>
+    <role>Ma Kwok-Ying (Bell / Madam Ma)</role>
+    <profile>https://www.themoviedb.org/person/123643</profile>
+    <tmdbid>123643</tmdbid>
+  </actor>
+  <actor>
+    <name>林文龙</name>
+    <role>Koo Chak-Sum (Sam / Dr. Koo)</role>
+    <profile>https://www.themoviedb.org/person/550946</profile>
+    <tmdbid>550946</tmdbid>
+  </actor>
+  <actor>
+    <name>郑嘉颖</name>
+    <role>Yeung Yat-Sing (Ivan)</role>
+    <profile>https://www.themoviedb.org/person/1140044</profile>
+    <tmdbid>1140044</tmdbid>
+  </actor>
+  <actor>
+    <name>蒙嘉慧</name>
+    <role>Leung Siu-Yau (Nicole / Madam Leung)</role>
+    <profile>https://www.themoviedb.org/person/25248</profile>
+    <tmdbid>25248</tmdbid>
+  </actor>
+  <actor>
+    <name>钟嘉欣</name>
+    <role>Lam Ding-Ding</role>
+    <profile>https://www.themoviedb.org/person/146654</profile>
+    <tmdbid>146654</tmdbid>
+  </actor>
+  <actor>
+    <name>曹永廉</name>
+    <role>Sum Hung</role>
+    <profile>https://www.themoviedb.org/person/1223053</profile>
+    <tmdbid>1223053</tmdbid>
+  </actor>
+  <actor>
+    <name>郭少芸</name>
+    <role>Mok Suk-Woon (Yvonne)</role>
+    <profile>https://www.themoviedb.org/person/224061</profile>
+    <tmdbid>224061</tmdbid>
+  </actor>
+  <actor>
+    <name>郑俊弘</name>
+    <role>Leung Siu-Kong (Fred)</role>
+    <profile>https://www.themoviedb.org/person/2415152</profile>
+    <tmdbid>2415152</tmdbid>
+  </actor>
+  <actor>
+    <name>杨秀惠</name>
+    <role>Ling Sum-Yee (Josie)</role>
+    <profile>https://www.themoviedb.org/person/1240093</profile>
+    <tmdbid>1240093</tmdbid>
+  </actor>
+  <actor>
+    <name>陈芷菁</name>
+    <role>Lam Pui-Pui</role>
+    <profile>https://www.themoviedb.org/person/1253376</profile>
+    <tmdbid>1253376</tmdbid>
+  </actor>
+  <actor>
+    <name>高钧贤</name>
+    <role>Mok Ching-Hong (Wilson)</role>
+    <profile>https://www.themoviedb.org/person/1240854</profile>
+    <tmdbid>1240854</tmdbid>
+  </actor>
+  <actor>
+    <name>梁烈唯</name>
+    <role>Ching Wai-Shing (Edwin)</role>
+    <profile>https://www.themoviedb.org/person/1143685</profile>
+    <tmdbid>1143685</tmdbid>
+  </actor>
+  <actor>
+    <name>陈美诗</name>
+    <role>Fong Miu-Na (Formula)</role>
+    <profile>https://www.themoviedb.org/person/134994</profile>
+    <tmdbid>134994</tmdbid>
+  </actor>
+  <actor>
+    <name>惠英红</name>
+    <role>Cheng Lai-Ling</role>
+    <profile>https://www.themoviedb.org/person/84205</profile>
+    <tmdbid>84205</tmdbid>
+  </actor>
+  <actor>
+    <name>罗乐林</name>
+    <role>Ma Kam-To</role>
+    <profile>https://www.themoviedb.org/person/1191924</profile>
+    <tmdbid>1191924</tmdbid>
+  </actor>
+  <actor>
+    <name>卢宛茵</name>
+    <role>Kwok Yee-Fan</role>
+    <profile>https://www.themoviedb.org/person/1395247</profile>
+    <tmdbid>1395247</tmdbid>
+  </actor>
+  <actor>
+    <name>黄祥兴</name>
+    <role>Ma Kwok-Wang (Ben)</role>
+    <profile>https://www.themoviedb.org/person/2071064</profile>
+    <tmdbid>2071064</tmdbid>
+  </actor>
+  <actor>
+    <name>吕珊</name>
+    <role>Connie</role>
+    <profile>https://www.themoviedb.org/person/1334858</profile>
+    <tmdbid>1334858</tmdbid>
+  </actor>
+  <actor>
+    <name>于洋</name>
+    <role>Leung Hing-Lung</role>
+    <profile>https://www.themoviedb.org/person/119438</profile>
+    <tmdbid>119438</tmdbid>
+  </actor>
+  <actor>
+    <name>谷峰</name>
+    <role>Ko To</role>
+    <profile>https://www.themoviedb.org/person/229302</profile>
+    <tmdbid>229302</tmdbid>
+  </actor>
+  <actor>
+    <name>李雨阳</name>
+    <role>Lau Tsun-Sek (Terence)</role>
+    <profile>https://www.themoviedb.org/person/1350166</profile>
+    <tmdbid>1350166</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-15 20:17:48</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

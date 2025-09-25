@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>宋公明义释双枪将</title>
+  <originaltitle>宋公明义释双枪将</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>68</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026685</uniqueid>
+  <uniqueid default="false" type="trakt">7308171</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>郁保四和王定六在寨中养伤，为查明董平的身世，负伤前往其故乡河东上党郡。宋江为破城大费周折却收效甚微，史进自告奋勇前去城中打探消息，原来东平府中有史进的相好，宋江使人备齐金银送史进入城。史进来到行院人家李瑞兰的家中，将金银赠与李后禀明来意，谁知李母勾结官府将史进拿下，史进身陷囹圄，宋江不得不派顾大嫂扮作史进老仆混进牢中，待月尽夜里应外合救起出狱，谁知史进记错时日，提前越狱，再生风波。与此同时，宋江诱敌深入，活捉了董平，郁保四和王定六从河东上党郡归来，拿出证明董平身世的玉佩，董平认贼作父，感慨之下遂加入梁山，与众好汉结义。在董平的帮助下，宋江一行顺利攻破城门，程婉儿在得知董平的身世后羞愧难当，悬梁自尽。此时，卢俊义传书告急，宋江急忙班师援助卢俊义。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2673</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E68 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="68" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

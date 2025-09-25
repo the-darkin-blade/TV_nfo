@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>吴用换命说众虎</title>
+  <originaltitle>吴用换命说众虎</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>55</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026672</uniqueid>
+  <uniqueid default="false" type="trakt">7308158</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>呼延灼双鞭挥向白虎山，白虎山孔氏兄弟不敌，危难之际花荣救下孔亮，而孔明却被呼延灼活捉。与此同时，慕容派其爪牙张统制企图二龙山拉拢杨志、鲁智深等人，宋江、吴用一行人也随即赶往二龙山。宋江欲将二龙山好汉纳为梁山所用，而杨志却对吴用阻挠其夺取生辰纲之事耿耿于怀，吴用为了化解此结甘愿自尽，在众人的阻拦下把自己伤成重伤。鲁智深对杨志之举颇有微词，并将对宋江投毒之人误认为杨志，杨志怒而离去。慕容得知后派人离间杨志和二龙山未果，孙二娘劝杨志回寨也被其回绝。此时，花荣带着孔亮来到二龙山，得知了事情经过，鲁智深为求自保，坐视不理，而宋江则决定拉拢桃花山一同抗击呼延灼，宋江一行人来到桃花山，周通等人起先不愿对抗呼延灼，宋江阐明利害关系，但周通念及和呼延灼兄弟情义明知不妥仍然一口回绝，宋江等人只得悻悻离去。白虎山大胜，知府慕容想用美人月儿犒赏呼延灼，哪知被呼延灼义正言辞的一口回绝，慕容一面暗骂呼延灼，一面又巴结他出兵围剿桃花山，呼延灼考虑再三为大局着想答应出兵，慕容窃喜。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2646</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E55 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="55" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

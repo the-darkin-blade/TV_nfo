@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:00:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>王婆贪贿说风情</title>
+  <originaltitle>王婆贪贿说风情</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026642</uniqueid>
+  <uniqueid default="false" type="trakt">7308128</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>潘金莲将自己喝过的半杯残酒递给武松，武松栗然而惊，一把推开了她，拔腿就走。潘金莲缠上去再三挑逗，武松忍无可忍，痛骂潘金莲不知廉耻。潘金莲大哭大闹起来。正好武大回家，潘金莲不但不怕，反到在武大面前状告武松调戏嫂嫂。武大并不相信她，只当她闹脾气，好言抚慰，潘金莲不依不饶闹起来，武松再也看不下去，摔门而去。西门庆再次来到王婆茶馆，终于将自己的心思挑明，要王婆帮自己把潘金莲弄上手。王婆推三阻四，只是不肯点头。西门庆百般哀求，更表示以后要给王婆养老送终，并许给她十两银子做谢金。王婆终于松口，让西门庆明日送来绫罗绸缎一用，西门庆眉开眼笑的答应了。西门庆转身就去衙门送礼，借口有重礼送往东京蔡京处，让知府相公派武功高强的武松护送，知府相公答应让武松立即起程。王婆这边也去武大家找到潘金莲，哀求潘金莲给自己做一套送终的老衣。潘金莲见她说的可怜，只得答应过明日就来裁制。武松得知自己即日起程前往东京，放心不下哥哥武大，特到家中细细叮嘱他不要和人纠纷，不管有什么大事，只等他回来作主，武大一一答应。武松又用话钳制嫂嫂潘金莲，暗示要她放规矩一点。潘金莲勃然大怒，拂袖而去。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1076</height>
+        <durationinseconds>2664</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E25 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

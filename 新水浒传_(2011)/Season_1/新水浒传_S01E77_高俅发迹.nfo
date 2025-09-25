@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-03 22:01:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>高俅发迹</title>
+  <originaltitle>高俅发迹</originaltitle>
+  <showtitle>新水浒传</showtitle>
+  <season>1</season>
+  <episode>77</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2026695</uniqueid>
+  <uniqueid default="false" type="trakt">7308180</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>梁山好汉大败童贯大军，卢俊义擒下童贯的两员大将却没能擒下童贯。赢了此战，宋江依然担心破坏了将来的招安大计，遂决定把擒来的朝廷大将放了回去。招安一事已过，大战过后，梁山上下一派祥和。众好汉在一起吃酒谈天说地，不禁谈到了朝廷的大奸臣高俅。史进给众好汉讲述了高俅的发迹史。高俅原本只是市井流氓，只因为踢得一脚好球，深得爱好踢球的端王的赏识。随后宋哲宗驾崩，端王即位，便把只会踢球的高俅提为了太尉重职。宋徽宗一直将梁山视为心头大患，不得已只得认命高俅前往梁山讨贼，高俅虽不愿但也不能抗旨不尊，于是开始备战。梁山众兄弟也做好了迎敌准备，大战一触即发。高俅一踏上梁山地界，面对他的就是老相识林冲，仇人相见分外眼红，林冲将高俅军打得七零八落。激战正酣，精通水战的梁山好汉们更是痛击高俅军，朝廷军队丢盔弃甲。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Tianjin Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Anhui Television</studio>
+  <studio>Shandong TV</studio>
+  <studio>山东电视台</studio>
+  <studio>天津北方电影集团</studio>
+  <dateadded>2025-09-03 21:40:44</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1076</height>
+        <durationinseconds>2675</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>All Men Are Brothers E77 1080I Hdtv H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="77" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
