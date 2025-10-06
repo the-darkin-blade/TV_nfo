@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:09:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 17 集</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>侠客行</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2494447</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>中玉甜言奉承自在，说服自在救出他与珊瑚等人。与此同时，史婆婆率领破天与阿綉攻上雪山派，万里等人不敌，放出毒烟。
+
+中玉等人刚逃出囚牢，即吸入毒烟晕倒，破天及时相救，中玉破天相见，大感愕然。
+
+原来史婆婆乃自在之妻，史婆婆当年因与自在斗气离家出走，救回阿綉。此际众人重聚，推敲出一切乃万里欲夺掌门之位之奸计，众人逼问万里说出幕后主使人之际，一神秘人突出现，杀万里后逃去。
+
+石清夫妇寻中玉至雪山派，与中玉重聚之余，更认回破天乃失散多年之儿子，加上中玉与四女成婚，一片喜气洋洋。
+
+张逍李遥向各大掌门派奖善罚恶令，破天、中玉及珊瑚俱接令。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1560</width>
+        <height>1072</height>
+        <durationinseconds>2722</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E17.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

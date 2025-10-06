@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 5 集</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">543583</uniqueid>
+  <uniqueid default="false" type="tvrage">477159</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宝怡知道国光翻阅她的私人信件才知道此事，拿起电话报警说国光严重侵犯她的私隐权。国光完全拿她没办法，以为扣起她的零用钱，便会乖乖留在家并最终返回美国念书。可惜，事与愿违，因为宝怡想到与希敏一起，便不用花一毫子也可去街。希敏不想国光犯禁锢罪，所以带了宝怡去玩瑜伽。而且，瑜伽学校老板咏诗更请了宝怡做助理，那么她便不用靠国光也可生活！
+
+虽然国光反对宝怡出外工作，但避免与希敏再度吵架，就此了事，但却准备通知父亲此事。无意间，宝怡知道了大官的地址，突然登门拜访，把他吓了一跳。但是大官知道希敏因宝怡的问题与国光有点不咬弦，所以也尝试了解宝怡，希望可助他们纾缓问题。原来，宝怡因为生长在重男轻女的家庭，所以常常被父亲打打闹闹，长大后认识了一名美国大学的地质学教授，最后更与他双双私奔去。可是，到了美国，才知道教授已婚，并被其妻打骂，宝怡迫于无奈才出手还击，最后被驱逐出境。大官知悉后，通知希敏，才知宝怡非国光想像般坏！
+
+一日，宝贝上瑜伽学校找宝怡，而通叔又接着上来找女儿，见女儿教男人做瑜伽，觉得不三不四，硬要女儿离开，宝怡死也不肯，最终又上了大官的家。希敏见宝怡甚听大官的话，所以托大官让她暂时寄居。大官无奈地接受！
+
+通叔想知道宝怡的下落，但希敏死也不肯讲。通叔决定在国光家住下来，直至宝怡返家为止！通叔不理希敏反对，请了十三公等围村居民返家打麻雀，可是并不是由媳妇照料他们，而是比女人更贤淑的国光！十三公无意间在家中找到一份丧权辱「男」的结婚协议书，通叔一看数十条不平等条约，一气之下又再度晕倒！</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>1332</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E05.20180430.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Just Love 20180430 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>430</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>1332</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E05.20180430.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="430" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

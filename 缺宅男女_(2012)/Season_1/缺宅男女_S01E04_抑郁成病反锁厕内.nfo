@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>抑郁成病反锁厕内</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444959</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>笑兰突然收到鼎瞻集团所发的律师信，表示已拥有超过八成业权而将进行拍卖唐楼；笑兰的如意算盘无法打响，即将责任再推落嘉安身上，指他当日应收取宏瞻的赔偿，嘉安只得重申会照顾嘉康一家的生活住宿。嘉康的单位被拍卖后，只好搬回美玲家与各人同住，斗室的空间又再增添人口，显得更为狭小。嘉安让出大房给弟弟一家，令嘉康自觉连累家人。
+
+朗翘为夫　无私付出
+
+朗翘与嘉安搬到小房间，但朗翘毫不介意地表示一家人应互相帮助；笑兰经常占用洗手间使朗翘大感不便，嘉安只好陪太太到公厕解决需要，朗翘无奈地表示会忍耐下去。朗翘想起嘉康应有数十万卖楼赔偿，因此提出希望嘉安能向嘉康提出，取回昔日借给嘉康买楼时当首期的十多万，嘉安为难地表示难以启齿。嘉安打算把装修豪宅的垃圾收拾妥当后，便不再替宏瞻工作。
+
+嘉安决定　接受挽留
+
+采贻与蔓华到豪宅视察，采贻十分喜欢嘉安替她装修的画室，蔓华于是再劝嘉安留下。火燊突然受伤流血，蔓华立即替他包扎伤口，令众人感受到蔓华亲切的一面。嘉安知众人为生活频扑，遂答应蔓华会完成整个工程。蔓华将采贻的改变告知宏瞻，宏瞻感谢蔓华的协助。嘉乐陪伴老板到高级食肆见客时遇上中医教授的助手，嘉乐从她口中得知，教授肯到港医治嘉康全赖宏瞻安排。
+
+朗翘向夫　大吐苦水
+
+美玲一家人吃饭时嘉康心神恍惚，但众人却不以为然；美玲见朗翘常与笑兰为使用洗手间而烦恼，故特意买下一痰罐给朗翘让她解决问题，朗翘被弄得啼笑皆非。朗翘只有回到房间内才敢向嘉安唠叨有关日间的生活琐事，嘉安虽明白妻子苦况，却又无可奈可。笑兰在大房内享受嘉安留下的舒适床褥，自我陶醉地诉说回到美玲家后所得到的优待，但嘉康坐在一旁却未有反应。
+
+宏瞻欣赏　认真家乐
+
+嘉康听到笑兰厚颜地任意取用家中各人之物，终忍无可忍大发雷霆，吓得笑兰也呆住了。宏瞻找嘉乐工作的公关公司协助新楼盘的销售工作，因此嘉乐再有机会与宏瞻见面；宏瞻留意嘉乐的举动，觉得她工作认真。
+
+有买楼客人垂涎嘉乐的美色，借买楼为名邀约嘉乐，但她不为所动；宏瞻把一切看在眼中，觉得嘉乐纯朴又可爱。宏瞻与嘉乐在茶餐厅相遇，嘉乐终鼓起勇气问宏瞻为何要出手相助……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1078</height>
+        <durationinseconds>2688</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>04_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

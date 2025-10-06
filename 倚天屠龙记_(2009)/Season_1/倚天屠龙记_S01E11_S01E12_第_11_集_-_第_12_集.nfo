@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 11 集</title>
+  <originaltitle>第 11 集</originaltitle>
+  <showtitle>倚天屠龙记</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>2126501</id>
+  <uniqueid default="false" type="tmdb">2032627</uniqueid>
+  <uniqueid default="false" type="trakt">1285099</uniqueid>
+  <uniqueid default="true" type="tvdb">2126501</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>张无忌心中感激，将自己的身世告诉朱长龄。朱长龄没想到原来眼前这位小兄弟就是恩人之子，诚恳地提出愿送张无忌回冰火岛去。张无忌答应。张无忌平生从未像现在这样高兴过，连朱九真也日日陪着他。某夜，张无忌睡熟后，朱九真点了他五处穴道后离去。张无忌觉得奇怪，冲破穴道尾随她而去。在树林中，张无忌偷听到朱长龄等人的对话，明白他们不过是要利用他去冰火岛抢夺屠龙刀而已。张无忌夺路而逃，藏在草中，见朱家父女、武家师徒在自己面前作戏，更感世态炎凉，一心求死。他从草中窜出，让朱、武等人不必再演戏，随之向悬崖冲去。朱长龄紧随其后，一跃抓住他的背心，却与张无忌一同坠入万丈深渊。急速坠落时，朱长龄攀住峭壁上的一处树枝，费劲全力攀上一处平台，并救下张无忌。可惜那处平台却并无逃生之路，如无救援，不出几日人就非饿死不可。眼看自己要命丧黄泉，朱长龄迁怒于张无忌，张无忌年幼身小，快速爬入一个狭长的洞口，而朱长龄却被卡断了一根肋骨。水果、瀑布、游鱼，那山洞之中竟别有一番天地，张无忌乐得自在逍遥。一日，他发现一只受伤的白猿，为其诊治时从它腹中发现四本奇书。仔细一看，竟然就是当年求而不得的《九阳真经》。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>1080-12-11</premiered>
+  <aired>1080-12-11</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Wenzhou TV</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Heaven.Sword.And.The.Dragon.Sabre.Ep11-12.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第 12 集</title>
+  <originaltitle>第 12 集</originaltitle>
+  <showtitle>倚天屠龙记</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>2126521</id>
+  <uniqueid default="false" type="tmdb">2032628</uniqueid>
+  <uniqueid default="false" type="trakt">1285241</uniqueid>
+  <uniqueid default="true" type="tvdb">2126521</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>五年之后，张无忌身上的寒毒尽去。他运起锁骨功，从洞中出来，但不料却再中朱长龄的奸计，跌下山崖。张无忌摔断了腿，躺在跌落处，动弹不得。朱长龄的境况却也不比张无忌好：他一心想进洞去取《九阳真经》，却卡在洞中，进退不得。一个极其丑陋的少女经过，可怜张无忌，给他几个饼吃，与他结为朋友。张无忌为避麻烦，谎称自己叫曾阿牛，并道出自己曾被朱九真所骗。丑陋少女一怒之下，毁了朱九真的容貌，朱九真看到镜中的自己，登时被吓得气绝。卫壁和武青婴追杀丑陋少女，丑陋少女要求临死之前见上“阿牛哥”一面。张无忌感激丑陋少女对自己的情意，答应娶她为妻，并将她从一干名门正派人士的剑底救下。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>1080-12-11</premiered>
+  <aired>1080-12-11</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Wenzhou TV</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Heaven.Sword.And.The.Dragon.Sabre.Ep11-12.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

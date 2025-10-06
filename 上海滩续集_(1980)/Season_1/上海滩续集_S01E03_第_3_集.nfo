@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 3 集</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>上海滩续集</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2493288</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>炸弹爆炸，力受了伤。燕燕往医院探望力，巧遇云志，由于燕燕对云志已存仰慕之心，故态度特别和善，但云志似不在意，只当她是女人一个。医院中，力向燕燕暗示爱慕之情，但燕燕反应冷淡。祥贵查出炸弹之事乃是激进的反日学生所为，遂奉力命对他们略施教训。
+
+一日，祥贵偶遇郭秋霞，印象殊深，并展开追求。另一方面，马会骑师因拒绝作弊而遭人暗算，力因为愿追究此事而得到马会董事之位。祥贵得力助手保收了云志一笔钱，随意找尸首代替杀文强之凶手，却被称已为文强报仇；事情终遭祥贵发觉，祥贵本应允保守秘密，但深思之后，觉其不妙，带保往见力澄清一切，岂料保于作贼心虚下先发制人，欲杀力，但混乱纠缠中，保终为祥贵枪杀。力知道了事情的线索，到云志家去与云志对质，云志直认不讳。与此同时，玲与力感情虽然恶化，却为他产下一子。</plot>
+  <runtime>39</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1076</height>
+        <durationinseconds>2364</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E03.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

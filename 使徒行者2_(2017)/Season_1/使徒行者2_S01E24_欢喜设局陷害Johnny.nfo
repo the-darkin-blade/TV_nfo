@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>欢喜设局陷害Johnny</title>
+  <originaltitle>Episode 24</originaltitle>
+  <showtitle>使徒行者2</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">4039198</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>淑梅发现嘉莉似是受了伤，便向卓凯报告，卓凯关心嘉莉的伤势。淑梅为了寻找少锋，竟犯险前往福和酒家，天堂出现救了淑梅，最终淑梅为了帮助少锋，把所知的事告知天堂。卓凯得知欢喜逃去，知有大事发生，决定请好友兼O记的康道行出手相助。欢喜主动与Johnny见面并刺激他，令Johnny对欢喜动杀机……嘉莉放假到别处散心，卓凯到来陪伴，鼓励她追寻自由，走回正途。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2629</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E24.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

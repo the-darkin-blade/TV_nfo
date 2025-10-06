@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>水落石出真凶自尽</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>少年四大名捕</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>2305561</id>
+  <uniqueid default="false" type="tmdb">389778</uniqueid>
+  <uniqueid default="false" type="trakt">398202</uniqueid>
+  <uniqueid default="true" type="tvdb">2305561</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>真凶惊涛被众人追至悬崖边，他更说出处心积虑行凶是为了报父母之仇。惊涛说毕欲杀净一，却连累追命同堕悬崖；最后幸得铁手与正我之助，令惊涛打消寻死之念，决定将当年的惨剧公诸天下。铁手工作完成，却因清廉而遭同僚排挤；幸铁手得父亲铁斧与妹妹游冬支持，决定到开封追随正我。
+
+众人回程时，遇上有杀手以闪电手法杀害青花帮帮主杜威；追命欲在正我等人面前表现轻功，竟请缨追踪这杀手；但最后无功而回。
+
+破天领帮众拜祭杜威时，大连盟盟主凌落石亦到场致祭；破天当众指落石是幕后黑手，为的是想吞并青花帮的地盘。破天为阻止大连盟统一江湖，决定全力寻找传闻宋太祖曾颁下的「武林密令」。
+
+正我回到开封，发现再有忠臣被奸臣蔡京陷害。追命回开封与恋人小透见面，却发现她将嫁给富豪当四姨太；铁手到开封觅得正我，但却发觉神捕司重开无期。
+
+正我得无戏提点，借献画之名，向宋徽宗提出手头已有线索可寻回开国宝藏；徽宗得知后大喜，更答允如事成之后让神捕司重开。追命欲对付富豪，却发现他与小透被杀；追命更被视为凶手。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1080</height>
+        <durationinseconds>2685</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Four.Ep03.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

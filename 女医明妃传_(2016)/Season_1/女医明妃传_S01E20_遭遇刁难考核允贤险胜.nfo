@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>遭遇刁难考核允贤险胜</title>
+  <originaltitle>遭遇刁难考核允贤险胜</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>5527091</id>
+  <uniqueid default="false" type="tmdb">1176448</uniqueid>
+  <uniqueid default="false" type="trakt">2159634</uniqueid>
+  <uniqueid default="true" type="tvdb">5527091</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>允贤荣升司药女官 刁难考核允贤险胜程十三叔侄的下作手段确实难住了允贤，但在最后一刻，正直的刘院判还是为允贤站了出来。在所有太医面前，他郑重地将允贤收作了关门弟子。不论世人对女子持何等偏见，经此一番，刘院判都已经从心底承认了允贤的能力和品格，心甘情愿地想将衣钵传予这个坚强勤勉的小女医。有了刘院判的承认，允贤终于顺理成章地成为了一名宫中女医。英宗更是为她赐下了六品的司药之职，为允贤提供了一个名正言顺的理由留在宫中，实现她的行医之愿。面对英宗无微不至的关怀，允贤也并非没有察觉到他对自己的感情，宫中愈传愈盛的流言蜚语更是让允贤再也无法故意忽视。皇后娘娘待她一直亲如姐妹，她的宽厚照顾给了允贤在皇宫之中为数不多的温暖。也正因为如此，允贤更不想因为自己而影响了帝后的感情。为了表明心迹，允贤郑重地找到了皇后谈心，甚至不惜赌咒发誓，自己对英宗绝无男女之情。大度善良的皇后选择了相信允贤，在她的心中，英宗的幸福是比任何事情都要重要的。另一边的太医院中，程十三的挑拨令程村霞对师父生出了更大的不满。这对以小人之心度君子之腹的叔侄，心中更是认定了刘院判对允贤的认可是缘于他对皇上的讨好奉承。心中的肮脏令他们眼中看到的世界也是同样污秽不堪，为了赶走允贤，二人又是计上心来。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1327</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E20.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>志彬胁持雪晴</title>
+  <originaltitle>Episode 23</originaltitle>
+  <showtitle>使徒行者2</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">4039197</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>少锋向淑梅说出对她并无感觉，淑梅伤心。天堂知道去找少锋晦气，两人大打出手。嘉莉以代理人身份到集团开会，斯敏带领她熟习环境，嘉莉却不慎睡着了。志彬回家时受到神秘人偷袭受伤入院，卓凯前来探望，志彬感动并懊悔不已。志彬跟随卓凯到警署往见启发，突然支开卓凯并胁持雪晴。嘉莉与斯敏商讨招揽Mr.White的旧客人，而江湖人物King是关键，嘉莉竟独自见他。King说要向Mr. White还恩，即举枪指向嘉莉。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2632</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E23.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

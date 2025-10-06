@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>有健楚君合营饭店</title>
+  <originaltitle>Episode 34</originaltitle>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id>6919027</id>
+  <uniqueid default="false" type="tmdb">1743636</uniqueid>
+  <uniqueid default="false" type="trakt">3254413</uniqueid>
+  <uniqueid default="true" type="tvdb">6919027</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>有健离港前，不忍放弃楚君的感情，突改变初衷，决继续留港发展。楚君以为有健一时意气，反刻意逃避有健追求。有健为建立楚君的信心，在家附近另找铺位，与她合营「君健饭店」，以求安稳平淡生活。
+
+少玲失意之际，受到日富的鼓励与开解，彼此间建立深厚感情。
+
+「君健」开张之日，志文在公司大派咭片宣传。美欣为挽回有康兄弟感情，着志文送花篮道贺，并要求与有康往光顾，但有康坚拒前往。
+
+倪坤出席「倪氏」大型度假村开幕招待会，被记者问及其公司商业丑闻之事，尴尬，幸楚君解围，令倪坤对楚君另眼相看。
+
+楚君驾车不慎撞倒有健好友刘中正。中正要求楚君赔汤药费，被楚君以为乘机敲诈，双方争持不下。刚巧有健至，替二人解围。
+
+少玲早产诞下男儿，日富替她欢喜之余，向少玲暗示愿意承担抚养母子二人的责任，但少玲不想拖累日富，劝他另寻理想对象。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1564</width>
+        <height>1080</height>
+        <durationinseconds>1326</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E34.20181216.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Looking Back In Anger 20181216 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>1216</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1564</width>
+        <height>1080</height>
+        <durationinseconds>1326</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E34.20181216.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1216" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

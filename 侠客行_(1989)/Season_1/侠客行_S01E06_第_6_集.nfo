@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:09:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 6 集</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>侠客行</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2494436</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>珊瑚为救中玉而受伤，在慕容白及侍剑相助下，四人终于逃脱，暂躲避于五毒教之分舵。
+
+倪婆婆为向天行报仇，命冬儿以美色引诱慕容白，欲伺机杀他，以此引天行出现，慕容白中计，形势危殆之际，中玉挺身相救，慕容白逃脱，倪婆婆大怒，欲杀中玉泄愤，但终被中玉打动而放过他，但却命冬儿立下毒誓，不准她再见中玉。
+
+中玉暗中找冬儿，用计引得冬儿瞒着倪婆婆与他同游，时天行袭击倪婆婆，众人因欠缺冬儿而未能施展丝带阵，倪婆婆唯带家人暂避，因此而与冬儿失散。
+
+冬儿失去倪婆婆等人踪影，大感旁徨，中玉带她投靠珊瑚，并求得珊瑚助冬儿寻找倪婆婆之下落。
+
+冬儿不满慕容白对她痴缠不休，中玉遂向慕容白讹称已与冬儿私订终身，珊瑚听到，信以为真，大感失望。
+
+冬儿见珊瑚多日来仍未能找到倪婆婆之下落，以为她故意留难，二人一言不合起争执，中玉偏帮冬儿，珊瑚一怒毒伤冬儿。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1080</height>
+        <durationinseconds>2785</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E06.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

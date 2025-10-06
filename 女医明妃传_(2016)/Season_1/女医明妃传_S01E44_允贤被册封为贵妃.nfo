@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>允贤被册封为贵妃</title>
+  <originaltitle>允贤被册封为贵妃</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>44</episode>
+  <id>5546386</id>
+  <uniqueid default="false" type="tmdb">1176481</uniqueid>
+  <uniqueid default="false" type="trakt">2159658</uniqueid>
+  <uniqueid default="true" type="tvdb">5546386</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>正如汪氏父女所料，为了破坏允贤名誉而夸张散播出去的传言果然激怒了朱祁钰。他无法忍受自己的女人竟曾在异国与贼寇为伍甚至成婚，却全然忘记了那个柔弱的女子如何扛过艰辛病痛，辗转千里只为回到他的身边。允贤真的不懂，从前那个无条件信任自己，包容自己的祁钰为什么会变成了如今这个模样。做惯了皇帝的他已经不再愿意施舍给爱人一丝多余的耐心，对方的任何拒绝不逊也都会轻易勾起他的怒火。为了讨好爱人，朱祁钰不惜许下了废掉皇后另立允贤的承诺，他更告诉允贤，自己赐予汪美麟的圣女果其实是令她避子的工具。屋内私语的二人却不知道，他们的谈话已然被躲在门外的皇后全听了去。汪美麟不愿相信这一切阴谋都是她掏心掏肺爱着的皇上所为，自欺欺人的她将一切罪过都归在了允贤头上，将她恨到了骨头里。御药房忽然迎来了一位气势汹汹的嬷嬷，叫喊着允贤在瓦剌失去了贞洁，上来便要脱下她的衣服检查。争执之中，允贤手中的金钗陡然割伤了她的脖颈，一时间血流如注，允贤眼前一片模糊，关键时刻，多亏了朱祁钰的及时赶来才总算将她救了回来。这一切的始作俑者自然非汪美麟莫属。在她的谋划下，告饶的嬷嬷顺理成章地在朱祁钰面前污蔑了允贤一番，更将所有责任都推在了孙太后头上。唯一出乎她意料的，就是朱祁钰对允贤的维护，他竟当场亲手将嬷嬷击杀，更严令所有人不得再传允贤之事。接连传来的密报终于将朱祁钰的信任消耗殆尽，关键时刻，汪美麟笑里藏刀的几句“美言”也成了压死骆驼的最后一根稻草，朱祁钰彻底对允贤的清白产生了怀疑。趁此时机，汪美麟又提出了册封贵妃之事，这贤良大度的模样瞬时得到了皇帝的敬爱。在朝堂上提出的册立允贤之事毫不意外遭到了大臣们的激烈反对。朱祁钰一怒之下，竟将直言敢谏的老臣贬下了大殿。如此一来，便正合了汪国公独霸朝堂的心愿，而这一切也正是汪氏父女的阴谋。宫中沸沸扬扬的传闻终究还是摧垮了朱祁钰的信任，即便对着伤势未愈、身子虚弱的允贤，他也依旧没有软下心肠。就连允贤失望之下的自请出家，也被他看作了无理取闹，甚至不愿再花一点时间陪在允贤身边。与倔强执拗的允贤不同，汪美麟却是利用时机，取悦男人的高手。趁着朱祁钰与允贤怄气的时机，她又将自己的柔顺体贴大大展现了一番。如此一来，两个妃子的表现高下立判，皇帝自然轻轻松松便被汪美麟俘获。倔强的允贤不肯轻易服输，面对朱祁钰的主动示好也依旧是冷面相对，如此一来，两个人之间的关系再一次降到冰点，陷入僵局。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1324</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E44.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="44" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

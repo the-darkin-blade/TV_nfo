@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>也先决意成全允贤英宗</title>
+  <originaltitle>也先决意成全允贤英宗</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>40</episode>
+  <id>5540389</id>
+  <uniqueid default="false" type="tmdb">1176477</uniqueid>
+  <uniqueid default="false" type="trakt">2159654</uniqueid>
+  <uniqueid default="true" type="tvdb">5540389</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>脱不花看不惯英宗为了允贤而意气消沉，对英宗说，允贤根本不会在意他，英宗情急之下，打了脱不花一个耳光。脱不花为英宗动手打了她去向也先告状，也先为了安抚脱不花，下令抽英宗二十鞭子，脱不花不肯，只是让也先下令将英宗关进山洞。帖木儿将英宗关进去之后，让英宗一切小心。也先得知允贤逃跑，气愤不已，去庙中请教喇嘛大师。大师告诉他，允贤就像是渴望自由的大雁，将她关在笼子里，只会让她毁灭，也先听后大为触动。从喇嘛庙回去后，也先带允贤骑马去看日出，并向允贤描述了他的政治理想，也先问允贤想要金丝雀还是大雁，允贤说要大雁，因为大雁总是知道自己该往哪飞。也先再一次向允贤确认心意，问允贤到底愿不愿意嫁给他，允贤说愿意，否则她也不会留在瓦剌，还说他们二人成亲之后，也先就是她的丈夫，她自然会敬他、爱他。也先与允贤大婚，婚礼上，除了允贤，众人喝了酒之后都昏倒了，允贤趁乱逃走，但有一侍女一直跟着允贤，直到出现了一个蒙面人将侍女蒙昏。蒙面人带允贤去与英宗会合，还未摘下面巾允贤就识出她就是脱不花，其实允贤早已凭蒙面人身上香草汁的味道判断出她是脱不花，否则也不会贸然跟着她走。脱不花将通关令牌交给二人，助他们顺利通了关。脱不花回到营中，却发现大哥也先早已清醒过来，脱不花坦白是自己在大家喝的酒里加了曼陀罗花粉，得知允贤与英宗已经逃走，也先并不打算再将其追回，而是想放他们自由，并说自己已与允贤喝过交杯酒，已经心满意足。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E40.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="40" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

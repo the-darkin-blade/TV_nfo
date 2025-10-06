@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:57:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>痴情绝顶「小蜜蜂」强势出击！</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>难兄难弟</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>1245161</id>
+  <uniqueid default="false" type="tmdb">1728774</uniqueid>
+  <uniqueid default="false" type="trakt">3724950</uniqueid>
+  <uniqueid default="true" type="tvdb">1245161</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>任白在码头发现船桨，恐怕谢源与宝珠有意外，划船出海寻找，当她们发现谢源与宝珠之际，所乘之小艇也入水。任白见宝珠与谢源的感情未有进展，再向他表示宝珠身患怪病，并希望他假扮宝珠男友，阻止佐治追求，使宝珠可以专心侍奉母亲。芳芳与谢源吵架后，收到「小蜜蜂」送的音乐盒，正当芳芳感疑惑之际，听到有人在门外弹奏音乐盒内的音乐，弹琴者是李奇。李奇亦向芳芳直认自己是「小蜜蜂」，刚巧谢源拿着钵仔糕往找芳芳，看见李奇向芳芳追求，大为震惊之下静悄悄离去，却未听到芳芳坚决拒绝李奇的爱意。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1348</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Old.Time.Buddy.E15.20171129.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Old Time Buddy 20171129 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>难兄难弟</showtitle>
+  <season>1</season>
+  <episode>1129</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>1348</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Old.Time.Buddy.E15.20171129.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1129" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

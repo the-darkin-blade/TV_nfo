@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>李华暗恋有康</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>4575263</id>
+  <uniqueid default="false" type="tmdb">1743608</uniqueid>
+  <uniqueid default="false" type="trakt">3254360</uniqueid>
+  <uniqueid default="true" type="tvdb">4575263</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李华被劫匪抢劫，眼镜破裂，加上其父迟迟未把生活费寄来港，令她身无分文，迫于午餐捱饿，终体力不支晕倒，幸被有健见到，送她往诊所求医。
+
+有健交钱予有康，着他带李华配新眼镜。李华见有康对自己关怀体贴，芳心暗喜。有康听到耀明从世邦处得到的内幕消息，用助学金投资在一只股票上，终获厚利，顿对世邦心服。
+
+有健青梅竹马老友何日富一直对少玲有好感，虽然时常戏弄她，但碍于自己一无是处，未敢向她示爱。日富加入电视台工作，找有健拍节目，并要找三个人相同「八字」的人，有健欣然答应。
+
+有健在特辑中结识了富家女倪楚君与一着名时装设计家，发现二人「八字」虽同，但彼此际遇不同，顿感自卑。
+
+志文不值李华入住其家后，抢去秀云的宠爱，时常刻薄戏弄她，李华终忍受不住离去。其后经有健等劝解下，终跟有健回家。
+
+有健与有康参加世邦的演讲。世邦演词中，提出一直以来以能证死芬芳的案件引以为荣，遂触起有健愤怒，当众侮辱世邦一顿。其后有健被有康制止，令演讲不欢而散。</plot>
+  <runtime>582</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1068</height>
+        <durationinseconds>34971</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E06.20181116.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Looking Back In Anger 20181116 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>1116</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>582</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1068</height>
+        <durationinseconds>34971</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E06.20181116.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1116" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

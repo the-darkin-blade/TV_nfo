@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>四阿哥陷害永琪</title>
+  <originaltitle>四阿哥陷害永琪</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>66</episode>
+  <id>6779895</id>
+  <uniqueid default="false" type="tmdb">1556767</uniqueid>
+  <uniqueid default="false" type="trakt">3104739</uniqueid>
+  <uniqueid default="true" type="tvdb">6779895</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>皇上深夜和璎珞谈论起格格和阿哥，埋怨她不该荒废了永琰的学业，自古皇子都应该文武全才，璎珞却只顾着带皇子、公主们到处胡闹。璎珞却说永琰是自己的儿子，自己有权管教。璎珞告诉弘历，他只想永琰快乐，但弘历仍然想要永琰有出息，五阿哥也要亲自教导十五阿哥。袁春望设计叫四阿哥暗恨五阿哥，挑起皇子争端。永琪当众演练火器，谁料鸟铳突然爆炸，永琪重伤。永琪的右腿严重受创，昏迷不醒，太医对他腿上的伤似乎也无能为力。璎珞怀疑有人制造意外，她前往现场调查，傅恒为她讲解鸟铳的使用方法，璎珞似乎感到了什么。璎珞想继续调查，但永琪为弘历考虑，他痛恨幕后黑手，也感到自己不再是皇上宠爱的优秀皇子，但他不想再引发血雨腥风，拒绝继续调查。继后安慰弘历，弘历却对继后起了疑心。弘历将阿哥们软禁调查，永珹坐立不安，担心自己曾让太监尽忠去破坏鸟铳的事情泄露。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2631</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep66.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="66" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

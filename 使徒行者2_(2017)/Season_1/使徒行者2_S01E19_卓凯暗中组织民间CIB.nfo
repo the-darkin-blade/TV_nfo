@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>卓凯暗中组织民间CIB</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>使徒行者2</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">4039192</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>卓凯欲找寻可担任刑事情报工作的好帮手，在被退辞的警队档案中物色人选，相继找上前女警罗小丝、能自制器材的佘乐成，及善于模仿声音的李文雄。三人在卓凯的诚意邀请下答应成为他的「民间CIB」。天堂渐渐喜欢上淑梅，知道淑梅购买电单车头盔，以为淑梅买来送给自己，转眼却发现淑梅买来送给少锋。卓凯突然收到一条自称是瑞权失联卧底寄来的讯息，又声称找到杀害瑞权的枪械……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2634</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E19.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

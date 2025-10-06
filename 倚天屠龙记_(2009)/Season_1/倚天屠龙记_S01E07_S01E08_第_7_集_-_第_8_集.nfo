@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 7 集</title>
+  <originaltitle>第 7 集</originaltitle>
+  <showtitle>倚天屠龙记</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>2126441</id>
+  <uniqueid default="false" type="tmdb">2032623</uniqueid>
+  <uniqueid default="false" type="trakt">1284510</uniqueid>
+  <uniqueid default="true" type="tvdb">2126441</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>各大门派见此人伦惨剧，自觉心虚，下山而去。张三丰等众人还来不及悲伤，又要立即面对新的危机：张无忌身中寒毒，命在旦夕。张三丰和门下弟子轮流为张无忌运功疗伤，但这只能治标；治本之法，惟有研习少林的绝学《九阳真经》。为保爱徒遗孤，张三丰放下身段，带着张无忌前往少林，但少林却碍于门户之见，不肯授受。张三丰无奈，只好带着张无忌原路返回。途中偶遇被元兵欺负的船家，救下幼年周芷若和明教中人常遇春。常遇春感张三丰救命之恩，愿带张无忌前往蝴蝶谷，找明教神医胡春牛处治疗。张三丰答应一试。胡青牛以只医明教中人为由，拒绝为张无忌医治，常遇春一怒之下，也拒绝让胡神医医治自己。僵持之中，胡青牛发现张无忌的伤势实在太过奇特，心里痒痒，便留下了张无忌，打算医好他再杀了他。张无忌与常遇春感情甚笃，自学医书治好了常遇春。而张无忌也发现胡青牛脾气古怪，实在是因为当年他被华山掌门鲜于通背叛，妹子胡青羊也因此而死所致。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>1080-08-07</premiered>
+  <aired>1080-08-07</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Wenzhou TV</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Heaven.Sword.And.The.Dragon.Sabre.Ep07-08.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第 8 集</title>
+  <originaltitle>第 8 集</originaltitle>
+  <showtitle>倚天屠龙记</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>2126451</id>
+  <uniqueid default="false" type="tmdb">2032624</uniqueid>
+  <uniqueid default="false" type="trakt">1284638</uniqueid>
+  <uniqueid default="true" type="tvdb">2126451</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>一日，胡青牛突然称自己身染天花，要张无忌与其他弟子到谷外去避难。张无忌不肯，要留在谷中照顾“师傅”。不料来求诊之人络绎不绝，除了崆峒派的简捷、华山派的薛公远之外，竟有还有带着个小女孩的纪晓芙。胡青牛闭门不出，只好暂由张无忌充当大夫。但众人的伤却反复不愈，张无忌发现是胡青牛暗中下毒。张无忌感念纪晓芙当年抚慰之恩，让她不要继续服药。纪晓芙告诉张无忌，所有这些名门正派弟子都是被一个行为古怪的老婆婆所伤，并要他们拿着金花来蝴蝶谷找胡青牛。张无忌觉得不对劲，到胡青牛处想问个究竟，却被他呵斥，但其实意在让张无忌赶紧逃命去。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>1080-08-07</premiered>
+  <aired>1080-08-07</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Wenzhou TV</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Heaven.Sword.And.The.Dragon.Sabre.Ep07-08.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

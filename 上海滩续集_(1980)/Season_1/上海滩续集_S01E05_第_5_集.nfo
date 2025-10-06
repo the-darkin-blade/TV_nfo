@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 5 集</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>上海滩续集</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2493290</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>力热烈追求燕燕，对她诸般迁就、奉承。唯燕燕对力的印象依然不及对云志的好。另一方面，力与玲的感情益形恶化。
+
+一日，力带国强往吃冰淇淋，在冰淇淋店中，国强首次遇到郭秋霞，彼此均留下深刻印象。
+
+燕燕与月琪合作开办了电影公司，招考演员之日，流氓生等捣乱，幸得投考者之一的郭镇昌将他们打退。昌终于被取录，满怀高兴，岂料其父郭祖贤对此事深表反感。燕燕对昌甚为欣赏，并决定起用他为男主角。月琪及燕燕雄心勃勃，将全副心血放于电影公司中，岂料重重波折，她们所筹拍的数部影片之角色被人毁容，而昌又被生等报仇击伤，至令拍摄工作被迫中止，损失惨重，而燕燕则负债累累。 力知道燕燕的经济陷于危机，欲施援手，但遭燕燕拒绝。债主纷纷追讨欠债，迫不得已之下，燕燕遂向云志求助。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1080</height>
+        <durationinseconds>2709</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E05.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

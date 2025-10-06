@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>璎珞抓内鬼</title>
+  <originaltitle>璎珞抓内鬼</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>6773147</id>
+  <uniqueid default="false" type="tmdb">1556712</uniqueid>
+  <uniqueid default="false" type="trakt">3096616</uniqueid>
+  <uniqueid default="true" type="tvdb">6773147</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>皇后邀请愉贵人游园，正好看到嘉嫔和高贵妃也在。愉贵人怕狗，看到高贵妃的宠物犬雪球瑟瑟发抖，想要提前告退，却被高贵妃拦下说话。嘉嫔趁机向看护雪球的小太监使了个眼色，小太监放出雪球，惊到了愉贵人，璎珞见状挺身而出，赶跑雪球，救下愉贵人。回到储秀宫后，高贵妃气恼嘉嫔利用自己为她的儿子谋福利，嘉嫔巧言令色，称是为贵妃着想，先行一步除掉愉贵人免除后患。并说用雪球惊吓愉贵人只是第一步，后招早已埋下。愉贵人受到惊吓，璎珞替皇后送珍珠粉去永和宫给她压惊，发现愉贵人身边的宫女芳草被嘉嫔收买，用有毒的贝壳粉调换了愉贵人服用的珍珠粉。愉贵人气急，要找嘉嫔对质，璎珞劝说她暂且隐忍，准芳草将功折罪，静待时机好让嘉嫔人赃并获，可芳草却急于戴罪立功，没有按照璎珞的吩咐回禀嘉嫔，露出马脚被嘉嫔察觉。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2622</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep11.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

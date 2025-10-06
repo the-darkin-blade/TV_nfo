@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>英宗回归众人相迎威胁被迫退位</title>
+  <originaltitle>英宗回归众人相迎威胁被迫退位</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>42</episode>
+  <id>5540391</id>
+  <uniqueid default="false" type="tmdb">1176479</uniqueid>
+  <uniqueid default="false" type="trakt">2159656</uniqueid>
+  <uniqueid default="true" type="tvdb">5540391</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>朱祁钰和汪国公的窃位意图已是司马昭之心——路人皆知。前来救驾的石亨等人均劝说英宗发兵讨伐逆党，夺回帝位。面对这样的提议，英宗心中很是犹豫，他既迫切地想要重回帝位，另一方面又不愿与曾经同心同德的皇弟刀兵相见。此时，又是允贤的一语点醒了英宗。对朱祁钰的信任是允贤劝说的基础，但同时她更不希望看到的是英宗听信片面之词，而为此背上杀弟逼宫的骂名。在她心中，英宗永远是大明真正的皇帝，他应该用最光明正大的方式重归宝座。其实石亨此人并非真的关心英宗，他所在意的实为自己的拥立之功。这样一个狠辣果决，极擅揣摩上意的臣子，实非可用的贤才。在允贤的劝说下，英宗终于下定决心取消逼宫，选择堂堂正正地回京。就这样，朱祁镇在于东阳等人的护送之下，大张旗鼓地回到了京城。迎接他的除了忠心耿耿的一众老臣，还有许多敬爱他的平民百姓。然而面对皇兄的突然归来，朱祁钰却没有表现出他口中所道的喜悦。为了显示出自己才是真正的皇帝，他乘着全副的天子銮驾来到了相会之地。在场众人自然都看得清楚朱祁钰的这番举动背后的含义。两位黄袍加身的“皇帝”乍然相见，这诡异的场面令气氛一时间尴尬到了极点。此时，多亏了钱皇后的出现才总算暂时打破了僵局。突如其来的暴喜令本就久病虚弱的钱皇后晕倒在了朱祁镇的怀里，众人急忙匆匆将她送回了宫中救治。终于与日思夜想的爱人见面，朱祁钰心中的喜悦瞬间冲淡了一切，他迫不及待地拉着允贤诉说衷肠。尽管从未忘怀两人之间的感情，但长久的分离以及这些日子以来与英宗的患难与共还是令允贤感到了一丝疏离与陌生。与纯善的允贤和朱祁镇不同，汪国公这只老狐狸早就想好了英宗回归的应对之策。汪美麟趁着钱皇后出宫相迎的机会，以太后的名义抱走了小太子，更借此威胁逼迫英宗放弃复位，退居南宫。无奈之下，英宗只得宣布退位，他心中将这一切阴谋都归在了朱祁钰的头上。然而这一次，英宗却是有些错怪他了。虽然朱祁钰已经起了贪恋权位的心思，但尚未泯灭的良心还在束缚着他的行为，不会做出这样违徳背道之事。其实，这一切阴谋的始作俑者都是汪国公与吴太妃。多亏了朱祁钰，小太子才总算平安归来。见到儿子的一刻，英宗终于决定放弃争斗。为了大明的稳定和百姓的安危，他愿意舍弃帝位。想到允贤即将入宫，此生也许都再难相见，英宗不禁心如刀绞，此时的他失去了皇位，也即将失去一生的挚爱。原本只是想要认真的道别，谁知他为允贤拭泪的一幕却恰好被朱祁钰看在了眼中。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1309</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E42.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="42" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

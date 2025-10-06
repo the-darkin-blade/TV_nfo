@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>四大名捕硬闯大牢</title>
+  <originaltitle>Episode 24</originaltitle>
+  <showtitle>少年四大名捕</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id>2305781</id>
+  <uniqueid default="false" type="tmdb">389799</uniqueid>
+  <uniqueid default="false" type="trakt">398223</uniqueid>
+  <uniqueid default="true" type="tvdb">2305781</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>小刀高兴地与冷血在山林生活，冷血按正我要求在指定日子送小刀回城，小刀才知自己只是人质。小刀在山林内发现奄奄一息的落石，冷血才知正我身陷险境。落石托冷血好好照顾小刀后重伤死去。神捕司被解散，追命家人与若飞逃出京城，游冬发现遗漏了造给追命的鞋，折返时被官兵捉去；小骨此时亦追上若飞等人。
+
+无情与芷妍在山中村落避世，无情提出与芷妍结为夫妇，芷妍答应。无情发现父亲用来包裹婴儿时自己的襁褓布，暗藏绝世神兵的设计图，于是将之描绘出来。铁手在市集发现芷妍的踪影，追至山中把芷妍打伤；无情出现打伤了铁手。芷妍明白无情对自己的爱意，但仍偷去设计图离开。无情自暴自弃借酒浇愁，冷血等人觅得他，说出正我危在旦夕。
+
+无情知大错已铸成，决心与众人救正我脱险。蔡京按草图制造出绝世神兵，更以整村村民性命试剑；芷妍看见蔡京的冷血与神兵的威力后大感心寒。
+
+芷妍接获蔡京的命令，要毒杀牢内的正我及游冬等人。芷妍主动见正我，更说出蔡京会在徽宗祭天之日造反。芷妍按蔡京吩咐在饭菜内下毒杀死众人；四大名捕亦硬闯大牢，但蔡京早布下天罗地网……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1914</width>
+        <height>1080</height>
+        <durationinseconds>2687</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Four.Ep24.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

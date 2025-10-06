@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 11 集</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>433882</id>
+  <uniqueid default="false" type="tmdb">2299425</uniqueid>
+  <uniqueid default="false" type="trakt">1595936</uniqueid>
+  <uniqueid default="true" type="tvdb">433882</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雅言与雅思深感被母亲玩弄，不约而同赶回家欲责问筱柔，但两人却发现父母均外出，只净下雅瞳与英姐在家。两姊妹不断在雅瞳面前大说母亲不是，但两人最后均明白母亲的用心，接受自己失败的现实，三姊妹亦互相安慰。长胜为了取得与苏敏的合作关系，不惜撇下与雅言的仇怨而聘用了她。世基因钻石链一事对怀德抱有恨意，长胜提议利用启发挑战怀德。长胜邀启发见面，更说助他与怀德打官司。原来启发的父亲福荣占有怀德的宝珠公司四成股份，为了让启发合法地拥有资金，长胜说出斥资购入启发身上的玉佩。雅思决定申请破产，而雅言为省钱而将单位放租，康家众人再次住在一起。众家人担心雅思接受不了回复平凡，用尽方法令她振作。另一方面，三姊妹为了不让父母成为亲戚的话柄，决定一起参加亲戚的婚宴，令父母亲大感安慰。筱柔风尘仆仆刚自四川回港，却又要女儿们翌日陪她到大佛游览。原来她到四川就是为了觅得野生鲜笋，因此令世万的元配太太郭婉仪大感高兴。婉仪更邀请筱柔参加自己的画展。画展当天，筱柔特意安排众女儿与不同的男士认识。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>珠光寶氣.The Gem Of Life.2008.Ep11.1080I.Hdtv.H264.Ac3.2Audio_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 20 集</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>上海滩续集</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2493305</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>云志击中装有炸弹的桌球，炸弹爆炸，云志重伤，意大利领事虽欲救云志，却遭力的手下阻止，力出现，见云志重伤，知大仇已报，兴奋非常，但此时燕燕赶至，云志见自己虽然快将死去，但仍对燕燕表示伪装之爱意，目的是打击已握胜券的丁力。燕燕信以为真，哭着冲出领事馆。
+
+力虽杀死云志，但对燕燕与自己的误会深感不安，闷闷不乐，闲荡街上之时，刚见到教堂拆卸重建，力忽然记起燕燕曾许下的诺言！假若力能取得教堂顶上的十字架，她便会给他机会。于是力发狂的找寻那十字架，然而，当他背着十字架来到燕燕家，向燕燕求婚时，燕燕依然拒绝他，力茫然。另一方面，祥贵见力无心将全部生意交予自己打理，把心一横，遂买凶欲杀了力，却反被力杀死。</plot>
+  <runtime>39</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.56</aspect>
+        <width>1728</width>
+        <height>1080</height>
+        <durationinseconds>2347</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E20.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

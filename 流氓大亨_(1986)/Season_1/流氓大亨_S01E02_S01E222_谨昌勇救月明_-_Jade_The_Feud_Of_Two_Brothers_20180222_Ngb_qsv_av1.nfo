@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:58:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>谨昌勇救月明</title>
+  <originaltitle>Episode 2</originaltitle>
+  <showtitle>流氓大亨</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1743859</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>谢家对月明此不速之客大表冷淡，各人均藉词有事未能抽身接车。怎料当月明无奈只身摸至谢家门口时，不幸遇上色魔，欲向她大肆施暴。刚巧谨昌至，与色魔纠缠一轮，身受轻伤，月明幸免于难。
+
+谨昌与月明留院时，彼此话甚投契，阿娥睹状醋意大生。创世等对谨昌仍存偏见，不时对他冷嘲热讽，谨昌唯一笑置之。
+
+富家子钟伟舜自幼深受母亲梁美屏及继父钟赞所溺爱，养成傲慢不可一世的性格。留学回港后，欲利用其精明头脑才干，在其老父食品厂大展拳脚。
+
+美屏为巩固亲子伟舜的地位，一方面刻意纵容钟赞之子伟贤，形成其性格乖张任性，不能成材。更间接鼓励长子伟南醉心摄影，令他对继承父业野心不大。
+
+月明寄居谢家后，由于她打扮行为土气十足，兼且霸占了创世的房子，令他对月明甚为反感。况且，当她跻身在这大男人主义的家庭中，被迫身兼主妇之职，负责料理全家大小杂务，根本未有机会接触社会。
+
+谨昌无意中撞破伟舜违例驾驶，伟舜心生不忿，反恶人先告状，诬告谨昌恶言恐吓，令谨昌大感气结。其后上司发现证据不足，取消控诉，但却将他调至山顶警署复职。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1568</width>
+        <height>1078</height>
+        <durationinseconds>1312</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Feud.Of.Two.Brothers.E02.20180222.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade The Feud Of Two Brothers 20180222 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>流氓大亨</showtitle>
+  <season>1</season>
+  <episode>222</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1568</width>
+        <height>1078</height>
+        <durationinseconds>1312</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Feud.Of.Two.Brothers.E02.20180222.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="222" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

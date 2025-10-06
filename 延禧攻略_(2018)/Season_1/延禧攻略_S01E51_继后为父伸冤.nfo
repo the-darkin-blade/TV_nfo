@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>继后为父伸冤</title>
+  <originaltitle>继后为父伸冤</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>51</episode>
+  <id>6779878</id>
+  <uniqueid default="false" type="tmdb">1556752</uniqueid>
+  <uniqueid default="false" type="trakt">3104708</uniqueid>
+  <uniqueid default="true" type="tvdb">6779878</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>继后求情长跪不起，并将那尔布多年来的所作所为告诉弘历，将那尔布的善举与苦衷一一表达，弘历深受震动，决定赦免那尔布的死罪，但为了平息灾民怨愤，要将那尔布流放宁古塔。继后为那尔布准备护膝和皮草，托弘昼带去监狱。弘昼兴冲冲带着赦免圣旨赶到监狱，却发现那尔布早被人所杀，他们所做的一切努力终告失败。继后得知父亲在牢中死去，为父亲的冤屈痛苦，她指出太后为了掩盖自己亲信的罪行而使得那尔布做了替死鬼，皇上龙颜大怒。那尔布之死，令继后深深明白当了皇后远远不够，她还缺少更多的权力，她伤感至极，痛彻心扉。为了延伸自己的权力，她不惜利用弘昼的感情，将他的力量为自己的版图谋划，为自己谋取利益。愉妃带着永琪来看望璎珞，璎珞第一次见到当年被自己救下的少年，态度逐渐软化。愉妃趁势提出重修旧好的请求，璎珞默许。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2625</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep51.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="51" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

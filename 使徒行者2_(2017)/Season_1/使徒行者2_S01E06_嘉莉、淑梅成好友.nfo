@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>嘉莉、淑梅成好友</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>使徒行者2</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">4039171</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>欢喜率众到德信的高级会所恭贺开张，宣布已成立福和，并在西贡开设海鲜酒家。少锋主动提出要跟随欢喜，欢喜安排少锋随挞Q，打理海鲜酒家的泊车档。嘉莉与淑梅于街上遭蒙面人袭击，淑梅尽力帮助嘉莉，二人亦因这次事件成为朋友。卓凯察觉嘉莉似不简单，另一方面，嘉莉对淑梅的身份仍有怀疑……卓凯到福和酒家，劝欢喜返回正途，欢喜反邀卓凯加入福和。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2623</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E06.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:32 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 16 集</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>上海滩续集</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2493301</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>镇昌伤重入院，镇昌母悲恸欲绝，而镇昌终于不治死去，燕燕因镇昌之事对云志怨恨，而且态度冷淡。镇昌出殡之日，镇昌母及秋霞均对燕燕现出敌视态度，而探长谓要剖尸找寻弹头，幸得力出面阻止，镇昌尸才得「保全」。镇昌命案审判之日，云志获无罪释放，镇昌母激动，以发簪刺伤敌，而自己则被送入院治疗。燕燕于医院中遇云志，云志使出手段，二人终于言和。
+
+云志收买杀手杀立法委员兼大银行家钱承祖，却又要杀手不可杀他，其实这只是他的诡计之一。力为了利益，在车站救了被人行刺的钱，并邀他入住力宅。钱初对力之好意不大接纳，但渐渐却以力为友。
+
+钱自小染上鸦片烟瘾，力劝他戒掉，并聘名医为他诊治。岂料，钱之近侍忠却暗中送鸦片与他，但卒为力察觉，并禁止所有人接近钱之房间。钱无鸦片可吃，狂性大发，一日，忠及钱之秘书恐吓守门员，得入钱房中。忠被云志收买，以花瓶重伤钱之要害，然后再击伤自己，却将责任推于钱身上。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1076</height>
+        <durationinseconds>2699</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E16.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

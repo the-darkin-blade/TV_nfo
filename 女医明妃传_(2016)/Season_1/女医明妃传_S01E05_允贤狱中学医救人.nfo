@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>允贤狱中学医救人</title>
+  <originaltitle>允贤狱中学医救人</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>5527076</id>
+  <uniqueid default="false" type="tmdb">1176431</uniqueid>
+  <uniqueid default="false" type="trakt">2159619</uniqueid>
+  <uniqueid default="true" type="tvdb">5527076</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>牢狱之中，众多犯人都身患疾病而无从医治，善良的允贤虽然身陷囹圄自身难保，仍然忍不住为她们把脉诊病。小马子借送饭的契机向还在软禁中的郕王传递消息，郕王得知允贤的遭遇，坚信允贤一定是蒙冤入狱，并派小马子带着他的玉佩去刑部找他的旧识，传话一定要查明事情真相，尽力还允贤清白。皇上发现郕王没有如约去永庆庵，怀疑又是王振在其中动了手脚，王振否认，皇上遂派人去寻找郕王下落。允贤托狱卒去家里拿药，好为狱中的病人治病，狱卒收了允贤的东西却言而无信，不但没有给允贤送药，反而讥笑允贤身为大家闺秀却即将公堂受审。莽撞的宫女冲撞了王振，王振的手下正要重罚宫女，却被路过的钱皇后看见并阻挠，王振仗着皇上对他的信任与依赖，即便对待皇后也是怠慢轻视，而贤淑的钱皇后对时常挑唆皇上的王振也多有不满但又无可奈何。允贤在狱中医治的大姐突然昏死过去，允贤以为自己拼尽全力救人却仍然于是无补，正伤心不已，狱中送饭的罗大娘将一桶冷水浇到已经昏死过去的病人身上，允贤疑惑不解，罗大娘又叫允贤就地取材制药给病人服用，这以指甲、蚯蚓等看似污秽之物制成的药，给病人服用之后竟大有成效，允贤心中大为惊异，原来罗大娘竟是一名药婆，允贤想向罗大娘学习看病救人的本事 ，罗大娘见允贤心地善且立志成为一名女医，一口气教给允贤不少实用的治病“土”方。郕王以答应考虑太后的安排作为交换条件请求母亲吴太妃对允贤施以援手。公审时，允贤请求传唤徐夫人的侍女询问，得知徐夫人此前早因身子不舒服而服用过惠民药局的万大夫万宁开的药，二人开的药一个滋阴，一个振阳，这两批药会否相冲呢？下了公审之后，太医院的村霞将公审情形说与叔叔即太医院陈院判分析，二人发现，徐夫人的死与允贤其实并无多大干系，而恰恰要归咎于惠明药局的万宁，但这个万宁是由陈院判亲自推荐到惠民药局的，如今归罪于他就是砸了自己的招牌，于是，为了保住自己的声誉，陈院判决心包庇万宁，而不准侄子村霞在公堂之上为允贤说话。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1324</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E05.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

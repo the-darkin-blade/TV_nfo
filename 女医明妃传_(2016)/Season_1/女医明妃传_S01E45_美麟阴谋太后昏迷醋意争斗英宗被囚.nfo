@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>美麟阴谋太后昏迷醋意争斗英宗被囚</title>
+  <originaltitle>美麟阴谋太后昏迷醋意争斗英宗被囚</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>45</episode>
+  <id>5546387</id>
+  <uniqueid default="false" type="tmdb">1176482</uniqueid>
+  <uniqueid default="false" type="trakt">2159659</uniqueid>
+  <uniqueid default="true" type="tvdb">5546387</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>多亏了小马子的忠心直言才总算令朱祁钰想起了与允贤初见时的两情相悦，终于心软下来，主动向允贤服了软认了错。正如程村霞所说，心病还需心药治，允贤的病症只有朱祁钰的软语温存才医治得好。冷静下来的朱祁钰终于恢复成了过去谦谦君子的模样，敞开心扉的一番表白也成功赢回了允贤的心，两个人重归于好。朱祁钰与汪氏父女的阴谋使得满朝文武皆将囚禁英宗的罪过算在了孙太后的头上，御史言官纷纷弹劾。气急败坏的孙太后彻底与朱祁钰撕破了脸面，甚至不惜用逼迫退位威胁他，最终还多亏了汪美麟的从中调停才算暂时平息了二人之间一触即发的战火。正当三人说到处置汪国公之际，孙太后忽然发病倒地不起，而这一切的始作俑者正是汪美麟。她在日常献给姨妈的饮食中悄悄掺入了无色无味的毒药，就这样在不知不觉中将太后逼入了绝境。汪美麟梨花带雨的哭诉表白将自己的心狠手辣全数变成了对朱祁钰的忠心挚爱。她这完美的演技又一次成功骗过了皇帝，令他非但没有怪罪她反而心生感动。然而汪美麟的阴谋还远不止此，他将英宗与朱祁钰同时引向了出宫探亲的允贤那里，不出意外地顺利制造了一场醋意翻涌的争斗。允贤对英宗的维护激起了朱祁钰的愤怒与妒忌，而英宗的倔强挑衅更是加深了他的恨意。曾经的兄友弟恭如今已经荡然无存，成为了皇帝与阶下囚的这对兄弟再也没有了往日的平等与理解。在朱祁钰的心中，他的皇兄再也不是那个对自己恩重如山的大哥，而只是他的情敌与争夺皇位的对手。有了权力在手，他人便仿佛成了轻易可以碾死的小虫，朱祁钰命人将英宗制住，狠狠地还了他一个巴掌。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E45.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="45" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

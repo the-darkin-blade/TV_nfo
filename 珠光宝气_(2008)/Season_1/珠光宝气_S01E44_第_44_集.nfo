@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:40 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 44 集</title>
+  <originaltitle>Episode 44</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>44</episode>
+  <id>433914</id>
+  <uniqueid default="false" type="tmdb">2299458</uniqueid>
+  <uniqueid default="false" type="trakt">1596026</uniqueid>
+  <uniqueid default="true" type="tvdb">433914</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>被世万指责了一顿后，贺峰特意赶到青岛，欲劝儿子放弃挑战世万。但哲男坚持自己没有做错，反指父亲懦弱不敢挑战世万。这边厢雅言主动与雅思倾谈，欲托妹妹请贺峰出面阻止哲男，雅思为难不已。翌日，在青岛的长胜与哲男均准备出发竞争排污工程合约时，哲男却突然接到神秘电话，令他即时赶回香港。长胜顺利投得工程合约，得世万大力赞赏。当哲男赶回香港后仍联络不上妻子，只得通知警方及康家众人。晚上雅瞳竟平安回到家中，早上雅言到雅思的画廊欲与妹妹为雅瞳之事讨论时，却想不到筱柔竟早已在画廊中等候她们。泰禾替公司运送钻石时，在驾车时发现神智不清的子凌在路旁。泰禾下车欲协助她，但吃了迷幻药的子凌神志不清下竟上了泰禾的车，最后两人更连人带车堕海受伤。青杨等人赶到医院，泰禾不顾自己伤势只懂嚷着钻石遗失了。雅瞳被连番事件困扰混乱不堪，幸得怀德对她加以开解。子凌探望泰禾，主动向他道歉，更对他说出自己的秘密。怀德探望启发提出欲协助他更生，但却换来启发粗暴的对待。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>44_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="44" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

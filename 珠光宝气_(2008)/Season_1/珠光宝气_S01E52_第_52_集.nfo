@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:43 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 52 集</title>
+  <originaltitle>Episode 52</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>52</episode>
+  <id>433922</id>
+  <uniqueid default="false" type="tmdb">2299466</uniqueid>
+  <uniqueid default="false" type="trakt">1596041</uniqueid>
+  <uniqueid default="true" type="tvdb">433922</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>之澄突然发觉长胜失去踪影，亦发现他的行李不见了，芳心大乱的之澄欲赶至机场，却被雅言阻止。原来一切都是雅言所为，因她看穿了之澄发现长胜心中仍想念自己，但雅言强调自己对长胜已再无感觉。日东助雅言约长胜喝酒，长胜明言视对方为兄弟更喝至大醉，日东亦向醉了的长胜说出心底话。雅言与日东离开回港后，长胜的心中似是有所改变。怀德特意约青杨见面，更提出与他合作营办大生意，青杨感激不已。雅言与日东回到香港后，日东发现雅言似乎有事隐瞒而饱受压力，当他向雅言询问时，雅言却突然大发脾气。子凌在发型屋理发时，发觉发型师离开后久久未回，之后她发现该发型师正替雅思理发。子凌接受不了竟为此与雅思及筱柔口角，却反被筱柔等抢白一番。雅思与筱柔乘扶手电梯时，电梯竟突然停下，雅思竟因失去平衡而向下堕，同一时间雅言亦在家受伤。经医生检查后发现她没有大碍，更发现她已怀有身孕，众人得悉后高兴不已。泰禾得悉雅思受伤与子凌有关后责备子凌，两人关系变差。雅言得日东协助瞒过家人自己受伤之事，更前往探望雅思。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>52_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="52" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

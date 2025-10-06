@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>璎珞丧礼救顺嫔</title>
+  <originaltitle>璎珞丧礼救顺嫔</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>59</episode>
+  <id>6779886</id>
+  <uniqueid default="false" type="tmdb">1556760</uniqueid>
+  <uniqueid default="false" type="trakt">3104722</uniqueid>
+  <uniqueid default="true" type="tvdb">6779886</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>弘历来到延禧宫，探望璎珞，见璎珞因抄血经而伤及身体，又替她心疼。璎珞巧施妙计，成功留宿弘历，弘历虽答应留宿，但不愿与璎珞近身。而璎珞却想办法向弘历解释自己害怕怀孕生子的因由，博得了皇上的同情与怜惜，重新得宠。然而第二日一早，弘历便已不见踪影。小全子探知皇上一大早就赶去丽景轩与顺嫔用早膳，使得璎珞气得厉害。璎珞一早去继后那里，就看着纳兰淳雪、小嘉妃等人都团聚到继后身边，谈论起受宠的顺嫔，个个咬牙切齿，众人试图结盟对付顺嫔，继后也说顺嫔使得皇上纵情声乐，不得留她。璎珞则乐得看她们为了争宠而不择手段，坐山观虎斗。弘历故意送顺嫔来延禧宫学规矩，璎珞冷待顺嫔，顺嫔却毫不在意，热情如初。顺嫔认定璎珞本性善良，只是假意对自己冷脸。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2632</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep59.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="59" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

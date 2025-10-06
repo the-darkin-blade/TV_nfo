@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>皇上继后生嫌隙</title>
+  <originaltitle>皇上继后生嫌隙</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>67</episode>
+  <id>6779896</id>
+  <uniqueid default="false" type="tmdb">1556768</uniqueid>
+  <uniqueid default="false" type="trakt">3104740</uniqueid>
+  <uniqueid default="true" type="tvdb">6779896</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>永珹向弘历告状，谁料经过查证，送来的酒菜根本无毒，而珍儿也称自己染了风寒，今夜从未离开承乾宫。永珹百口莫辩，成为伤害五阿哥的第一凶手，被弘历软禁。弘历虽然惩罚了永珹，却也没有放松对继后的怀疑，继后深知经此一事，再也难以赢得弘历信任。璎珞为弘历惋惜，短短数日，弘历的两个儿子相继出事，她暗示弘历永琰的危险，弘历表示他绝不会让永琰受到伤害，并册封五阿哥为荣亲王。继后受到打击，卧病在床。宫女云香在袁春望的挑唆之下，将一朵花插在头上。继后见云香花枝招展，不禁大怒，将其责罚。弘历前来看望，却撞上她正在责罚云香，弘历心中不悦，表面宽慰。继后严酷责罚云香，惩戒她的争奇斗艳。第二日，宫女云香离奇自尽，继后得知弘历已知此事，继后大怒。太后听闻继后的宫女自尽，大为不满。璎珞的两个公主尽得太后喜爱准备一同带去南巡，继后的处境却岌岌可危。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2628</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep67.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="67" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

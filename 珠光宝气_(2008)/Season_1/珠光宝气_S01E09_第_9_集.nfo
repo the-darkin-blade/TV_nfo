@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 9 集</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>433789</id>
+  <uniqueid default="false" type="tmdb">2299423</uniqueid>
+  <uniqueid default="false" type="trakt">1595934</uniqueid>
+  <uniqueid default="true" type="tvdb">433789</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>旺角报摊的档主启发，对怀德所开的珠宝店特别讨厌，其怪行更是众所周知。青杨探望女儿，说出自己已决定重回珠宝厂，要女儿不用担心还钱给他。青杨更说因为没办法帮助女儿解困而感心痛，令雅思愧疚不已。哲男女友看了报道后提出分手，反造就了贺峰与哲男一起打网球，父子两人亦终冰释前嫌。雅瞳担心父母的财政，幸泰禾已替她觅得新工作在怀德的珠宝店当售货员。筱柔邀约三姐妹回家吃饭，雅思到家后放下支票，说将逐步还款给母亲后便离去。雅瞳追出，更要雅思将支票收回，因不想再被妹妹欺骗，雅思忍不住情绪爆发泪洒街头。世基到珠宝公司欲将长胜所赠的钻石加进自己的钻石链上，但经青杨检验后，却发觉链上有两颗钻石是仿制品，但青杨误会怀德不欲得罪世基，因此对世基说带来的钻石全是真品。雅瞳到珠宝店上班，启发认出了她就是与哲男传绯闻的美女。筱柔到雅思家，欲将女儿存入的款项归还时，却听到雅思的朋友说她经济陷入困境，建议她申请破产。启发对雅瞳一见钟情，不顾自己已有女朋友，仍不断借机接近她。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>珠光寶氣.The Gem Of Life.2008.Ep09.1080I.Hdtv.H264.Ac3.2Audio_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>栋仁开始善用超能力助人</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>栋仁的时光</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1512532</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>栋仁吻兆基续命，奇怪他被吻后未有立即晕倒，而是完成心中所想才晕倒，推测敏琦晕倒后躺卧石澳是有事要做。飞毅从蛛丝马迹确认栋仁所说，劝潮岸推却该项目，怎料潮岸的构思被对方接纳，对方代表谭七又是黑社会小混混，不敢再推。栋仁从敏琦说话中领悟到，应善用时间及超能力帮助身边人圆心愿，找来兆基创作年轮木雕作品，又可助咖啡室解决主题墙问题。咖啡室开张日，光酥伯伯送礼到贺，瑞楠突然拿出证据，声称自己是咖啡室老板……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stealing Seconds Ep07 20180424 Hdtv 720P X264 2Audio_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Stealing Seconds 20180424 2Audio qsv av1</title>
+  <originaltitle/>
+  <showtitle>栋仁的时光</showtitle>
+  <season>1</season>
+  <episode>424</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stealing Seconds Ep07 20180424 Hdtv 720P X264 2Audio_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="424" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

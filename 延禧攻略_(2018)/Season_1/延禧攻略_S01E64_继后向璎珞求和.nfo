@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>继后向璎珞求和</title>
+  <originaltitle>继后向璎珞求和</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>64</episode>
+  <id>6779893</id>
+  <uniqueid default="false" type="tmdb">1556765</uniqueid>
+  <uniqueid default="false" type="trakt">3104737</uniqueid>
+  <uniqueid default="true" type="tvdb">6779893</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>顺嫔丧心病狂，行刺皇上，傅恒替皇上挡过袭击，皇上将顺嫔拘禁，璎珞因此重新博得皇上的恩宠。太后因顺嫔一事迁怒璎珞，璎珞却已身怀有孕，成功避过太后惩罚，再度成为紫禁城最受宠的妃嫔。袁春望因为欺凌延禧宫主位受到严厉惩罚，珍儿心痛不已。璎珞去到丽景轩，她告诉沉壁她的三个兄长皆被杀、被流放。沉壁指出璎珞在此次事件中谋划的棋局，桩桩件件都在自己的谋算之内，璎珞成了赢家。袁春望在慎刑司挨板子，小全子道出他与璎珞上演的苦肉计，袁春望震惊。小全子告诉他，璎珞决定饶他一命，这是璎珞对他最后的成全。珍儿为袁春望求情，继后答应再给他一个机会，但要他去延禧宫请罪。袁春望跪在延禧宫，璎珞视而不见。继后再度驾临延禧宫，试图与璎珞求和，而璎珞巧言相对，与继后达成和平共处的协议，紫禁城有了一段平静祥和的日子。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2631</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep64.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="64" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

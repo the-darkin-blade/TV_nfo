@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:57:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>奸计失灵徐基报复</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>难兄难弟</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>1245051</id>
+  <uniqueid default="false" type="tmdb">1728763</uniqueid>
+  <uniqueid default="false" type="trakt">3724939</uniqueid>
+  <uniqueid default="true" type="tvdb">1245051</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>徐基偶然发现宝珠爱吃，特邀请她共晋大餐，并落迷晕粉在饮品内，但最后被宝珠弄泻。山打根乐队失场，由谢源、李奇与乔峰假扮上台乱唱，台下众人虽感难听，但怕被人耻笑自己不懂外语歌，都不敢造声。徐基再次带宝珠吃饭，成功让她饮下迷汤。台上三人见半晕状态的宝珠，三人突然停唱，上到酒店房间救宝珠。还承诺宝珠不将此事宣扬。徐基拍戏时痛殴李奇，大家也看不过眼，乔峰与谢源上前替李奇解围，徐基被众人打一番。谢源、李奇、小东、芳芳与小峰结拜为兄妹。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1566</width>
+        <height>1078</height>
+        <durationinseconds>1378</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Old.Time.Buddy.E04.20171114.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Old Time Buddy 20171114 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>难兄难弟</showtitle>
+  <season>1</season>
+  <episode>1114</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1566</width>
+        <height>1078</height>
+        <durationinseconds>1378</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Old.Time.Buddy.E04.20171114.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1114" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

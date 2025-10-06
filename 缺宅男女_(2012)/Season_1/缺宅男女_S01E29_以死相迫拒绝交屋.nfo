@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>以死相迫拒绝交屋</title>
+  <originaltitle>Episode 29</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444986</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>冠峰闻得嘉乐是为了帮助自己还债才会与宏瞻发生关系，大受刺激下驾车横冲直撞，结果失控撞入荒废的木屋内；冠峰经过撞击后迷糊地走出车厢，整个人又因脚步不稳而跌下山坡昏迷过去。
+
+嘉乐担心冠峰会出意外，遂四处找寻他的踪影，可惜仍是无功而返；嘉乐焦急地到冠峰的大宅寻找他，丽婵告知冠峰还没有归家，嘉乐得悉后心急如焚。
+
+嘉乐采贻　合作寻人
+
+嘉乐将冠峰失踪一事告知采贻，两女决定一起到郊外寻找冠峰下落；寻找时天突然下起大雨，采贻被大雨淋得全身湿透，更不小心滑倒地上。嘉乐见状明白采贻已不能再继续进行搜索，只好扶起她一起到警署求助。警方表示冠峰失踪时间未满四十八小时而不能受理，两人只得无奈离开。采贻病得头昏脑胀，仍坚持要为冠峰喂饲金鱼，嘉乐见状只好在旁边照顾她。
+
+嘉乐独力　发现线索
+
+采贻吃药睡着期间，嘉乐收到警方的通知，指已找到冠峰的座驾；嘉乐赶到现场后却发现只有车子，冠峰仍不见踪影，嘉乐更是心乱如麻。冠峰此时在山坡下彷佛听到搜救自己的叫声，但因仍在昏迷间无力叫喊，终错失被拯救的机会。
+
+嘉乐没有放弃寻找冠峰，独自在漆黑的郊外以手电筒作照明四处寻找，终让她发现了树枝上挂了冠峰衣服的布絮……
+
+性情突变　朗翘不解
+
+采贻接到嘉乐的通知后立即赶往医院，当冠峰悠悠苏醒过来时，却看见拥抱自己的人竟是采贻，心中不禁闪过一丝惆怅。
+
+嘉安按照医生吩咐定时吃药，朗翘心中其实十分担心嘉安的病情；嘉安有感而发表示眼睛虽看不清事物，但现在却可以用心看透一些以前忽略了的东西，令朗翘大惑不解。这时嘉康致电兄长，要嘉安处理自己新接洽回来的装修工程，嘉安气上心头狠狠地说出自己不会工作，将要好好休息。
+
+为了居屋　兄弟反目
+
+朗翘听到嘉安一反常态后大感愕然；嘉安送朗翘离开时，听见各街坊为加租之事而议论纷纷，炳欲联合各人抗议示威，但嘉安表示业主合法加租无权阻止，众人亦只好大叹倒楣。嘉安齐集各弟妹讨论居屋业权之事，笑兰以为将顺利获得居屋，岂料嘉安在业权转让申请上写上自己的名字，令嘉康与笑兰大感诧异。嘉安合情合理地表示居屋多年以来也是由他供款，新业主理所当然是自己；笑兰发烂指是自己出钱赎回楼宇，不肯交回。笑兰辩斥不了嘉安的理由，竟表示情愿同归于尽，嘉安两人的兄弟情亦随之决裂……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1874</width>
+        <height>1072</height>
+        <durationinseconds>2686</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>29_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>疫病之谜竟是人为</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>少年四大名捕</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>2305621</id>
+  <uniqueid default="false" type="tmdb">389784</uniqueid>
+  <uniqueid default="false" type="trakt">398208</uniqueid>
+  <uniqueid default="true" type="tvdb">2305621</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>无情病发更胡乱攻击众人，最后终被制服。  芷妍检查后发现她染上了不知名怪病，正我于是要众人到据称是传播这怪病的村庄查探；而芷妍为了寻觅师傅龙医师亦一同出发。众人到达后却发现官府已将该处列为疫村，不准进入。
+
+众人运用神捕司的权力入村，但官府却只让他们用七天时间解决危机，不然便会烧村。村中鲁医师努力替村民治病，但却对芷妍的建议不置可否。无情调查时感染了疫症，但芷妍却只能稳定病情无法医治。七日之期限将满，官兵亦准备在日出后烧村灭病；铁手与若飞跟踪鲁医师，竟发现他竟有一秘密地下医坊，而且更养了一条怀疑引起疫症的大狗……
+
+为了协助查标局诈骗案，小刀愿意以身犯险，躲在标箱内调查贼人的大本营。而在两名神捕追命及冷血的保护下，标箱还是被抢走。无情失踪，最后更病发攻击众人，幸得众人将他制服，让芷妍让他饮下药汤。事件终圆满解决，经历此事后，无情开始接受铁手等人为同僚。
+
+另一边协助调查标局诈骗案的小刀，不慎被山贼发现，还差点被施暴。幸得冷血及时出救走小刀，但两人却被重重包围……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2671</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Four.Ep09.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

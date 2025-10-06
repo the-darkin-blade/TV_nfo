@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 47 集</title>
+  <originaltitle>Episode 47</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>47</episode>
+  <id>433917</id>
+  <uniqueid default="false" type="tmdb">2299461</uniqueid>
+  <uniqueid default="false" type="trakt">1596034</uniqueid>
+  <uniqueid default="true" type="tvdb">433917</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>因世万的公司被ICAC调查，直接影响了购入世万公司股票的长胜。另一边厢世万亦安排部署以稳定人心。青杨股市投资失利，世基得悉后建议他跟随自己参加基金经纪的牌局，希望取得内幕消息以收复失地。Sharon约哲男见面欲送他名贵袖口钮，但哲男拒收反赠以名贵钻石手表。雅思回画廊时，发现Sharon与哲男有不可告人之秘密欲私下处理时，却被前来欲借用妹妹人脉协助长胜的雅言听到。雅言欲通知雅瞳，但雅思竟以拒绝协助雅言来阻止她通知雅瞳。之澄主动联络雅言问及长胜情况，雅言指应对长胜有信心。长胜前往乌克兰时在机场遇上之澄，当他听到泰国机场有爆炸案后，因担心先出发而在泰国转机的雅言安危导致他哮喘病发，之澄把一切看在眼中。受雅思所托，雅瞳成功在哲男母亲生忌当天偕丈夫回家与贺峰吃饭。正当长胜以争取东欧4G牌照而力挽狂澜之时，却收到消息，牌照已成功被哲男投得。贺峰在绍铭前称赞儿子时，绍铭坦言贺峰悄悄地为儿子暗中出了不少力。雅言请求之澄出资协助长胜度过难关，之澄却提出条件。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>47_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="47" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

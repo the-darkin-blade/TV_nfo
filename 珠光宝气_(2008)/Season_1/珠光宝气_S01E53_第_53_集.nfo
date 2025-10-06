@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:43 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 53 集</title>
+  <originaltitle>Episode 53</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>53</episode>
+  <id>433923</id>
+  <uniqueid default="false" type="tmdb">2299467</uniqueid>
+  <uniqueid default="false" type="trakt">1596042</uniqueid>
+  <uniqueid default="true" type="tvdb">433923</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>贺峰约苇庭见面，更提出与苇庭联手合作，一起竞投越南的基建工程，但被苇庭一口拒绝。长胜与下属开会议，强调这次与越南基建工程乃之澄集团注资后的首项重要投资，一定要好好与苇庭合作，以胜过贺峰的集团。另一方面，长胜亦与之澄结婚，之澄婚后亦跟随长胜回香港定居。雅言婚后辞职离开长胜公司，但竟在超级市场与长胜相遇，两人却相对无言。贺峰决定要争夺越南的基建工程，派哲男主理此事。哲男为了赢长胜，不惜使计约越南代表在上海见面。长胜收到消息后出手阻止，更成功与越南代表联络上，最终取得工程合约。但当长胜等人准备大展拳脚之时，却发现情况有变。成为了越南工程成败关键的贺峰两父子，不禁为胜过长胜等人而庆祝。筱柔发现雅言婚后性情大变，对怀孕的雅思照顾有加，不禁大表安慰。子凌因欲私下离境被拘留，更因此遇上不快事。饱受惊吓的她，幸得哲男出手相助。长胜在会议上提议在越南工程上与贺峰的集团合作，苇庭想不到泰川亦赞成，因此拂袖而去，但当苇庭在办公室教训泰川时，却突然晕倒。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>53_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="53" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

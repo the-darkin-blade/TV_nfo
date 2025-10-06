@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>紫禁城敲丧钟</title>
+  <originaltitle>紫禁城敲丧钟</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>40</episode>
+  <id>6779859</id>
+  <uniqueid default="false" type="tmdb">1556741</uniqueid>
+  <uniqueid default="false" type="trakt">3104681</uniqueid>
+  <uniqueid default="true" type="tvdb">6779859</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>皇后伤心欲绝，失了神志，大失威仪。她向弘历吐露满腔的哀怨与伤痛，声泪俱下，弘历也不禁为之动容，但仍告诫她谨记身份与责任。随即，边疆战事骤起，弘历暂时收了伤心，紧急召见各位大臣议事。傅恒请求让皇后出宫休养，弘历严加斥责，拒绝将皇后送出宫。尔晴出人意料地来探望皇后，而璎珞仍在照顾着魏清泰，对宫中发生的一切毫不知晓。尔晴走后，皇后吩咐明玉去准备膳食。明玉被支开后，皇后孤身一人上了角楼，心中念着她一路走来，登上皇后之位与内心理想的冲突与错位，站上角楼之巅，她俯视着紫禁城夜景，为了向往已久的自由，一跃而下。璎珞回宫，听到了紫禁城的丧钟响起，得知皇后崩逝，恍惚地回到长春宫灵堂，明玉怪责璎珞没有及时赶回，璎珞回想起皇后的音容笑貌，伤心难过，悲痛欲绝。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2621</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep40.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="40" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 66 集</title>
+  <originaltitle>Episode 66</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>66</episode>
+  <id>427519</id>
+  <uniqueid default="false" type="tmdb">2299480</uniqueid>
+  <uniqueid default="false" type="trakt">1596056</uniqueid>
+  <uniqueid default="true" type="tvdb">427519</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>贺峰发现雅思教褓姆玩魔术给儿子玩，更发现太太讹称筱柔生病而深夜外出。当雅思回家时，贺峰终忍不住指雅思隐瞒自己与人有染，雅思极力否认，但怒火中烧的贺峰全听不入耳。为了阻止两人争吵，刚在贺家的雅言介入，更指贺峰误会了一切。虽然事件暂被压下，但贺峰着绍铭与Norman派人全面监视雅思。雅思的助理Norman看到她公事两忙耗尽心力，竟突然向雅思示爱。雅言请雅瞳合作骗贺峰，雅瞳大惑不解拒绝合作。雅言约Norman见面要他不应心存幻想，Norman反指自己被调至菲律宾是她所为。长胜回公司时发现之澄竟将收购了的股分出售，长胜要太太解释为何阻止自己对付雅思，但之澄却没法说出理由，长胜大为光火拂袖而去。晚上雅思将好消息告诉贺峰，却只换来冷言冷语。雅思向雅言说出，收到消息说Norman在菲律宾被控藏毒。筱柔冤枉英姐，两人各不相让下英姐竟提出辞职，青杨等不知如何是好。长胜扬帆出海拒绝上班，而日东与之澄工作时发现她身体抱恙。长胜赶回家后得知之澄病发，答允与她一起到法国医治。雅言探望之澄，反被之澄冷言相向。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>66_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="66" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

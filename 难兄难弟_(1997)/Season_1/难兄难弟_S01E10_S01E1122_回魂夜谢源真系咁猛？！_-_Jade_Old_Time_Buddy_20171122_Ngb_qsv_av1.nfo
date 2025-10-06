@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:57:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>回魂夜谢源真系咁猛？！</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>难兄难弟</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>1245111</id>
+  <uniqueid default="false" type="tmdb">1728769</uniqueid>
+  <uniqueid default="false" type="trakt">3724945</uniqueid>
+  <uniqueid default="true" type="tvdb">1245111</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李奇向宝珠表露他对芳芳的爱意，宝珠误以为他是谈自己。谢源辗转之下到达南洋，几经转折终于找到阿珍，兴致勃勃将新衫送给她，眼里尽是未来幸褔光景。话口未完，已见腹大便便的阿珍拖着丈夫介绍给他认识，谢源失望不已。阿萍问米，被问米婆欺骗，得知谢源已死，不禁流泪，自爆爱上了谢源。谢源回魂夜，谢家预备谢源喜爱的美食在大厅，各人即关上门，谢源却回来了。电影公司知道谢源未死，即时举行记者招待会，向公众解释，芳芳与谢源手牵手出席记者招待会，甜在心头。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1076</height>
+        <durationinseconds>1372</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Old.Time.Buddy.E10.20171122.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Old Time Buddy 20171122 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>难兄难弟</showtitle>
+  <season>1</season>
+  <episode>1122</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1076</height>
+        <durationinseconds>1372</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Old.Time.Buddy.E10.20171122.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1122" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

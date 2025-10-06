@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>璎珞替明玉出气</title>
+  <originaltitle>璎珞替明玉出气</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>56</episode>
+  <id>6779883</id>
+  <uniqueid default="false" type="tmdb">1556757</uniqueid>
+  <uniqueid default="false" type="trakt">3104717</uniqueid>
+  <uniqueid default="true" type="tvdb">6779883</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>面对璎珞指出的种种理由，袁春望终于承认了，他坦承内心对于璎珞的违背誓言之恨。继后任命袁春望为大总管，袁春望平步青云。弘历命撤掉令妃绿头牌，去承乾宫看望继后，继后精心安排，令弘历体察她的一片深情，夫妻二人重归于好。令妃失宠，纳兰淳雪借机在宫中甬道欺凌明玉，幸被经过的海兰察阻止。海兰察为受伤的明玉上药，替璎珞和明玉鸣不平，海兰察与明玉感情突飞猛进。海兰察与皇上商议政事的间隙，为令妃求情，受到弘历迁怒，被罚俸一年。吴书来心有不甘，准备报复袁春望却被反制，不得不交出温淑夫人的绝笔信以求自保。璎珞发现明玉受欺，不动声色，以血经讨好太后，成功博得太后信任。纳兰淳雪指出璎珞用纸粗糙，璎珞却趁此指出她所用纸张价值不菲，太后劝她还是以朴素之心抄写经书为好。纳兰淳雪诅咒璎珞，璎珞当众惩罚纳兰淳雪，狠狠震慑后宫众人。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2631</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep56.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="56" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

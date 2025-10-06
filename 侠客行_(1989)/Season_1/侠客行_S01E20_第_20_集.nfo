@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:09:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 20 集</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>侠客行</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2494451</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>丁璫为替不三不四赎罪，以全身内力输入破天体内，破天得以痊愈，但丁璫则因此而四肢残废。
+
+破天中玉同练侠客神功，但因中玉不能集中精神而未有所成。
+
+海石闯进无名谷内，杀石清夫妇，但因受石阵所困，唯有退走，但声称若破天不屈服，便残杀武林。
+
+中玉见父母惨死，悲愤之余，专注练武，终与破天心灵相通，练成侠客神功。
+
+破天及中玉为恐牵连珊瑚等人，着慕容白用计骗走众女，然后才与海石决战，众女发现，连忙赶返，见破天中玉正与海石恶斗，破天中玉不敌，陷入险境。
+
+到底破天及中玉能否打败海石？</plot>
+  <runtime>42</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1076</height>
+        <durationinseconds>2567</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E20.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

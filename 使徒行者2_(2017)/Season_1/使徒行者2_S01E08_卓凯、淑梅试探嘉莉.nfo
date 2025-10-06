@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>卓凯、淑梅试探嘉莉</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>使徒行者2</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">4039173</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>天堂替嘉莉送外卖时竟看见淑梅，原来她已成为嘉莉的私人助理。嘉莉匆忙离开会所后来到一大牌档前，德信突然出现登上其车，说出她到此的目的，嘉莉错愕仍坚持要完成心愿。在卓凯的协助下，少锋成功从德信的毒仓夺走蓝冰，欢喜命少锋将毒品交给猜Fing。卓凯跟踪猜Fing，得知欢喜毒仓位置，即联络志彬带队到毒仓抓人。淑梅发现嘉莉曾在棱智财务工作，卓凯与淑梅合作试探嘉莉，但嘉莉的戒心极强……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2620</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E08.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 12 集</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>上海滩续集</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2493297</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>云志与燕燕感情进展很快，云志并送钻戒给燕燕。力得悉此事，往质问燕燕，燕燕承认对力并无深切爱意，但力误以为燕燕嫌弃自己有妻儿，遂要求玲离婚，但玲以带走旭作为要胁，力母爱孙心切，阻止力离婚。
+
+力溺爱旭，并教他学习烧枪。一日，玲带旭往餐厅与朋友聊天，遇上云志，二人交谈甚欢。玲得知力对云志的恨意，竟然主动引诱云志，云志虽对玲没有特别好感，但见玲自动投怀，也乐得接受。玲与云志之间的私情，成为上海的公开秘密，报纸均以此作为新闻。力对玲严加责备，但玲充耳不闻。燕燕亦质问云志，云志为免失去燕燕，破坏计划，决定与玲摊牌。
+
+一天，玲偕云志同往力的别墅，旭亦同往。正当云志与玲摊牌时，旭竟取去云志之手枪玩弄，像平时一样，他将手枪指向自己，然后发枪。「砰」的一声，旭倒卧血泊中。同时力亦赶至，见旭受重伤，立刻抱着他狂奔往医院，但因为耽误太久，旭终不治逝世。</plot>
+  <runtime>39</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1072</height>
+        <durationinseconds>2342</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E12.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

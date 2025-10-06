@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 54 集</title>
+  <originaltitle>Episode 54</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>54</episode>
+  <id>433924</id>
+  <uniqueid default="false" type="tmdb">2299468</uniqueid>
+  <uniqueid default="false" type="trakt">1596044</uniqueid>
+  <uniqueid default="true" type="tvdb">433924</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>当雅言正整理购买给雅思未出世婴孩的礼物时，之澄突然到访。之澄向雅言说出长胜自婚后便只懂埋首工作，令她感到自己无法可令长胜更爱护她。长胜藉与贺峰打高尔夫球拉拢他，希望能争取在越南工程的合作，终得到贺峰善意的回应。贺峰遇上哲男，特意提点他与子凌保持距离，但哲男不置可否。康家三姊妹在餐厅共聚时遇上子凌，子凌竟主动趋前向雅思道歉。雅言看到子凌拉着雅思不放，担心妹妹之余更怒火中烧，众人推撞期间哲男刚好出现。泰川尝试说服苇庭与贺峰合作，却被她训斥了一顿。泰川私下见医生做检查，欲捐肝给苇庭，晚上他更与长胜商量。泰禾与子凌见面，泰禾为雅思受伤而责骂子凌之事道歉，子凌亦大方接受。想不到两人闲谈间，突然有人向子凌泼镪水，幸得泰禾助她脱险。晚上哲男回家时遇上贺峰与雅思，哲男觉得子凌受伤是雅思所为，贺峰为妻子出言相护。有消息流传青杨再次在股市大败欠债，哲男得悉后主动协助他解围。哲男与雅瞳到康家吃饭时，突然收到不明来历的照片，最终令雅瞳伤心不已。青杨要哲男离开康家，更说出不会接受他的协助。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>54_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="54" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

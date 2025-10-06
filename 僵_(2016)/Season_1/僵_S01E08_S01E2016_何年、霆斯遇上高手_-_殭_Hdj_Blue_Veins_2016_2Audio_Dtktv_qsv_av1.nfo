@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:00:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>何年、霆斯遇上高手</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>僵</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2301050</uniqueid>
+  <uniqueid default="false" type="trakt">12243544</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>活着鼓励梦南不要放弃做正常人，梦南回想起当年有一次受伤，被身为医生、年轻的紫红救了，二人还成为好友。她又想起十年前梦瑶父母被僵尸咬死，她救回梦瑶。当时梦南为要成为正常人，在紫红的协助下找到传说中「飘泊的荷兰人」留下的泉水，喝光后即陷入昏迷，当她醒来后已经把前事忘掉。
+
+梦南决定离开紫红，去学习控制自己的特性。临走时她致电向紫红道别，二人依依不舍。霆斯与何年都参加了地极拳赛，金坚把代表随意门精神的战衣交给他们，并训示他们不论赢输，以切磋武艺为先。
+
+梦南深受血瘾折磨
+
+拳赛揭幕战中，霆斯轻易胜出；梓诚面对撒旦，大败而回，险些性命不保。霆斯三人看见撒旦的身手，知道他并不好惹。下场由何年与撒旦对决，何年等人去请教金坚有何对策，但金坚叫他们自己去解决问题，只说出「知己知彼，百战百胜」。
+
+梦南受着血瘾折磨，非常痛苦，不停挣扎就像瘾君子一样，活着从旁支持。何年等人不停重看撒旦的比赛片段，终发现对方破绽。何年等人决定以其人之道，还治其人之身。但金坚知道后大为震怒；他教训众人要光明磊落，不能用旁门左道的功夫。
+
+梦南感激活着的帮助，令她对生存重拾希望，她想知道活着帮她的目的，是不是爱上她，但活着直言与此事无关。翌日，活着不见梦南，却发现有僵尸出没的痕迹。活着在附近的街道上发现了梦南和一名交通意外死者，正当梦南失控地走近死者之际，活着出手阻止，这时死者突然站起来。
+
+何年、霆斯拆解撒旦「武装」
+
+何年遵从金坚的教诲，以正式的功夫去对付撒旦，可是他左思右想都想不出方法。何年在出场前，誓言一定会光明正大地比赛；金坚却提醒他比赛必须公平。何年在比赛时，只是一直闪避撒旦的重拳，完全没有还击之力。霆斯边看边思考应对方法；幸好直到最后一刻，霆斯即想到对策。何年解除对手「武装」后，轻易胜出。
+
+下场比赛，霆斯等人看见太平出现，大为震惊。霆斯看到太平的气息更觉非常奇特，认为他并不像一般人，金坚则指他杀气特别强。
+
+太平扬言杀死霆斯
+
+想不到太平一出手，不出两三秒钟便把对手打死。他离开拳赛时，扬言要打死霆斯这个叛徒。霆斯非常害怕，但仍作强装镇定，金坚直言太平的力劲不像普通人。
+
+梦南想为死者Albert完成心愿，去到大学欲把乐谱转交给死者女友Paula，可惜对方不在……</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1309</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[殭].Hdj.Blue.Veins.Ep08.2016.Hdtv.H264.1080I.2Audio-Dtktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>殭 Hdj Blue Veins 2016 2Audio Dtktv qsv av1</title>
+  <originaltitle/>
+  <showtitle>僵</showtitle>
+  <season>1</season>
+  <episode>2016</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1309</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[殭].Hdj.Blue.Veins.Ep08.2016.Hdtv.H264.1080I.2Audio-Dtktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2016" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

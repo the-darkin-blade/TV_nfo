@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:00:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>何年、霆斯决定何月命运</title>
+  <originaltitle>Episode 32</originaltitle>
+  <showtitle>僵</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2301084</uniqueid>
+  <uniqueid default="false" type="trakt">12243589</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>龙珠想起上次见何月时曾听到笛声，查书后终于被他在古书中找到一种特制陶笛。龙珠急召所有人，将自己杀死僵尸的过程告诉大家，心情大喜的龙珠还向众人指出，如果运用陶笛，有机会引何月现身。
+
+这时活着发现龙珠的状态不妥，原来他已受了重伤。霆斯照龙珠的吩咐吹响陶笛，结果何月真的出现，众人大喜。可是何月突然向霆斯袭击，原来凌风也出现了，活着即上前对付凌风。
+
+阮冰劝梦瑶放手
+
+何月被带回医院，古禄指已向院方解释，因此不会被追究，但众人却要面对一个重要决定，霆斯与何月年都难以定夺。梦瑶在教堂内不停想念活着，并坚信她与活着是宿世姻缘。阮冰见她执迷不悟而心痛，于是带梦瑶去见伤害过自己的男人，并把心底话告诉梦瑶，劝她对活着放手。
+
+凌风要求阮冰协助，遭阮冰拒绝。何月从医院偷走，并不停追杀活着。何年决定遵从医生的建议，不想何月继续辛苦下去，但霆斯拒绝，坚信有方法医好何月，二人因此大打出手，而何年无意中打碎了霆斯的陶笛。
+
+何年坦言不想何月再被人控制，霆斯坦言舍不得何月离去。霆斯为陶笛的事向活着道歉。活着明白霆斯想尝试不同方法寻找转机，又坦言早知霆斯把陶笛修复好，只是不揭穿他。
+
+凌风出手对付梦南
+
+众人对何月非常不舍，但活着指这是上天的安排，人始终控制不了。活着坦言，所有已离去的人，都长活在他心中。
+
+梦瑶约见梦南，梦南以为她想通了，但梦瑶直指她抢走活着，叫她立即离开活着，成全自己。梦南要梦瑶冷静，但梦瑶却愈发激动。这时凌风出现指梦南是叛徒，指要立即杀了她。活着及时出现，打走了凌风，但梦南已身受重伤。活着见到梦瑶，认定是她设下的陷阱，非常憎恨她。
+
+梦南梦见奇异世界
+
+梦南受伤昏迷，活着全心全意照顾她，活着指自己每次都梦见以前的景象，发现数百年来，他们都活在同一个时空。不论是在明朝，或是近代，他们都曾相当接近。活着坦言多年来，都未能正式相遇，直到现在相识相恋，全是命运使然。
+
+梦瑶想探望梦南，但被活着赶走，并指不会再让任何人伤害梦南。梦瑶非常内疚，知道自己欠活着与梦南太多，决定要作出补偿。那边厢，梦南梦见自己去到一处满是颓垣，街上空无一人的地方。她来到一堵墙前，墙壁突然崩塌，并涌来一班僵尸。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1308</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[殭].Hdj.Blue.Veins.Ep32.2016.Hdtv.H264.1080I.2Audio-Dtktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>殭 Hdj Blue Veins 2016 2Audio Dtktv qsv av1</title>
+  <originaltitle/>
+  <showtitle>僵</showtitle>
+  <season>1</season>
+  <episode>2016</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1308</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[殭].Hdj.Blue.Veins.Ep32.2016.Hdtv.H264.1080I.2Audio-Dtktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2016" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

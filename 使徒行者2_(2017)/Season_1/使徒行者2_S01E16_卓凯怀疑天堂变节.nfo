@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>卓凯怀疑天堂变节</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>使徒行者2</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">4039182</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>天堂烧掉警员委任证，向卓凯与淑梅直言不想再当警察。欢喜将伪钞卖给曾向棱智借贷的曾先生，警方商业罪案调查科怀疑棱智财务牵涉伪钞案，淑梅被带走问话，Mr.White知道后对德信施压。志彬劝杨咏离开棱智，杨咏答应。嘉莉悄悄回来拆弹，德信感动并下令杀曾先生。少锋早一步放走曾先生，想不到天堂和飞机赶至追杀，天堂对曾先生开枪并推下海。卓凯认定天堂已变节。欢喜欲取代德信洗黑钱，透过中间人约会Mr. White。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2627</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E16.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

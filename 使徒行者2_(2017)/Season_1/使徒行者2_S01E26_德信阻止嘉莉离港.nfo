@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>德信阻止嘉莉离港</title>
+  <originaltitle>Episode 26</originaltitle>
+  <showtitle>使徒行者2</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">4039200</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>嘉莉准备离开香港，与淑梅告别时谈及对德信的感觉，淑梅似有所悟。卓凯派淑梅、天堂调查幕后大黑警一事，原来雪兰认识雪晴母亲，兰姨答应相助调查雪晴的过去，经过兰姨调查后，两人发现雪晴曾有一黑道男友大只豪。德信怀疑斯敏出卖自己，德信打算除去她之前向她查问，怎料斯敏有恃无恐！德信拦阻嘉莉离港，告知一个震惊消息。卓凯怀疑乐成是叛徒，命速龙调查。嘉莉到动物园散心，将一切事告知卓凯，又说感到痛不欲生。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2611</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E26.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

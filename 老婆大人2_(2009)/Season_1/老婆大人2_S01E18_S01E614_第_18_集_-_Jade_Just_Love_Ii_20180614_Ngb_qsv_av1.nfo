@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 18 集</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>老婆大人2</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3668084</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>希敏指宝怡若被起诉，有可能前途尽毁，国光此刻才知事态严重；宝怡找志坚要求到他家暂住，志坚无奈答应。时富与锭英带备补品到探望受伤护卫，但却被赶走；希敏责备时富之行为，更指时富有可能被控骚扰证人。希敏在网上查看示威当日之影片，终被她寻获一学生所拍下之片段。
+
+希敏证实宝怡无罪，宝怡感激更衷心向她道歉。高天举行试酒会，介绍在山与秀秀认识；在山对秀秀有好感，更主动提出参与秀秀的健康舞班。德云发现有新追求者出现，欲向在山施下马威。凯彤为赚钱买名牌手袋时遇上色狼，幸得德云及时出现替她解围；凯彤回家指时富私吞亡父留给她的遗产，时富气得说出一直养育凯彤的金钱实际是由他支付。时富因众人对他有偏见而借酒浇愁，却因此不慎堕楼。国光与希敏看到时富堕楼之新闻后，立即赶往医院，但希敏却见时富与护士谈笑风生。
+
+秀秀与高天及惠娟同住，始发觉自己对她们的事一无所知；希敏得知后把父母之喜好与习惯向秀秀说明。秀秀见高天生日将至，欲替他庆祝，但结果却弄至高天与惠娟不欢而散。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1876</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.Ii.E18.20180614.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Just Love Ii 20180614 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>老婆大人2</showtitle>
+  <season>1</season>
+  <episode>614</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1876</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.Ii.E18.20180614.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="614" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

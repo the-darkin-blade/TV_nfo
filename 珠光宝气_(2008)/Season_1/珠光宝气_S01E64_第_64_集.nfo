@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 64 集</title>
+  <originaltitle>Episode 64</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>64</episode>
+  <id>427462</id>
+  <uniqueid default="false" type="tmdb">2299478</uniqueid>
+  <uniqueid default="false" type="trakt">1596054</uniqueid>
+  <uniqueid default="true" type="tvdb">427462</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>长胜得悉子凌被送院之事，因涉案者是将出卖股分给自己的超叔之儿子Samson，长胜欲联络超叔却失败。子凌被泰禾兄弟送进医院，婉仪等到达后却反责怪他们让传媒得知此事情，两人百辞莫辩。世万到达之后，更请泰禾等离开。回苇庭的大宅后，泰川心情恶劣，觉得有负苇庭的嘱托，泰禾只好努力开解弟弟。怀德约青杨吃饭，向他解释泰禾为何隐瞒与子凌是朋友之事。贺峰拜祭苇庭时竟与雅瞳偶遇，两人吃饭时雅思匆匆赶至，雅思认为哲男借姐姐之口在她背后说三道四，竟主动与哲男见面，两人更针锋相对。绍铭欲离港却被贺峰阻止，绍铭解释因掌握了贺峰被绑架的真相，为免左右为难决定离开。泰禾在网球场等待出院后的子凌，泰川竟出现说陪伴兄长，这时子凌亦出现，更说自己有能力面对事件，令泰禾安慰不已。哲男在路上遇见世万，世万说自己已无心争斗。贺峰约哲男见面，哲男以为是有关公事，但想不到竟是向他质问被绑架之事。泰禾向弟弟查问为何子凌突放弃指证，泰川强调与自己无关。泰川终得超叔之助，重新稳坐CEO之位。泰禾因子凌之事不敢与青杨见面，雅瞳只有好言相劝。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>64_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="64" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

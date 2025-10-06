@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:57:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>痴男傻女为乜要私奔？</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>难兄难弟</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id>1245261</id>
+  <uniqueid default="false" type="tmdb">1728777</uniqueid>
+  <uniqueid default="false" type="trakt">3724953</uniqueid>
+  <uniqueid default="true" type="tvdb">1245261</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>芳芳见宝珠面红红，好心问她健康状况，宝珠突然晕倒，被送入医院。宝珠以为芳芳知道实情，便一五一十向她道出有了身孕的事实，芳芳立即找相熟医生替她检查，方知是一场误会。宝珠本来想告诉李奇，但见他细心照顾，亲自烫鱼汤给她喝，未敢相告。奇对珠极好，竟上门向微提亲，可惜珠对母说并无此事，奇疑。峰想出办法趁拍完戏时约奇消夜，目的是想他与源修好，二人饮了一杯便解决了仇恨。源与奇合资所买的大马票中了头奖，但奇不知马票收在甚么地方。奇失去头奖马票一心「走佬」。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1566</width>
+        <height>1074</height>
+        <durationinseconds>1345</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Old.Time.Buddy.E18.20171204.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Old Time Buddy 20171204 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>难兄难弟</showtitle>
+  <season>1</season>
+  <episode>1204</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1566</width>
+        <height>1074</height>
+        <durationinseconds>1345</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Old.Time.Buddy.E18.20171204.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1204" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

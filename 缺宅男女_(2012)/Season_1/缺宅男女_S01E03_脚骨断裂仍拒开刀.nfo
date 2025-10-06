@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>脚骨断裂仍拒开刀</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444958</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>Ben应笑兰要求再次提高收购价，嘉康与嘉安见赔偿满意，立即答应出售物业，惟独笑兰不发一言。当嘉安离开后，笑兰即要嘉康反口不卖；嘉康为顾面子，终决定听取妻子意见，在签约时失踪。嘉安在鼎瞻集团前等候多时也未见弟弟出现，焦急得不停致电给他；当嘉安得知嘉康改变主意，令嘉安摸不着头脑。美玲过分溺爱嘉安的女儿巧琳，令朗翘心生怨言。
+
+美玲朗翘　婆媳纷争
+
+爱玲在教导巧琳时处处与朗翘唱反调，朗翘暗自生气却又只得哑忍。美玲看到朗翘暗中将她炮制给巧琳的腩肉即食面丢弃，对朗翘之举大感不满。美玲故意请冠峰回家吃饭，更刻意炮制多油高脂大餐，朗翘明白美玲有心向她示威。朗翘因吃了美玲所制的高脂大餐而肚子不适，嘉安看见心痛不已；朗翘趁机向嘉安数落美玲，将不满全发泄在嘉安身上，令他左右做人难。
+
+嘉康笑兰　当众示威
+
+嘉安为化解婆媳间的纷争，特意一早购买早餐让一家共享，朗翘明白丈夫心意，再次与美玲和好。嘉安致电找嘉康，才得知他正高举横额，与笑兰在鼎瞻集团外示威；嘉安大为震惊更立即赶到现场。嘉康与笑兰在传媒前大数宏瞻不是，宏瞻处变不惊从容应付。嘉安怕怀孕中的笑兰有危险，力劝弟弟带笑兰回家。宏瞻指责Ben，他表示会出手平息风波。
+
+蔓华努力　协助宏瞻
+
+蔓华得知宏瞻需要找合作夥伴，于是为他安排与富豪卓先生打网球联络感情，宏瞻对蔓华的长袖善舞大为欣赏。蔓华怕嘉康的抗议事件会使宏瞻对嘉安感不满，故提议撤换另一位装修师傅，但宏瞻表示自己公私分明不用多此一举。
+
+关家各人谈论嘉康进行抗议一事，美玲担心嘉康一家会遭报复，更会影响到嘉安正进行的装修工程；嘉安只得无奈表示只有随遇而安，朗翘更表态支持丈夫。
+
+嘉康被撞　脚骨断裂
+
+笑兰在家中洗头时突然断水，嘉康更惊见有大量冥通出现在大门，嘉康恍然明白是遭人恐吓。嘉康怒不可遏，欲捉拿放冥通的流氓，一直从家门追至大街上；正当嘉康冲出马路之际，却被流氓的私家车撞个正着。
+
+嘉安急忙将弟弟送往医院治疗，嘉康得悉要开刀动手术医治脚骨断裂，竟大表激动。嘉安看到嘉康遇上无妄之灾，心感气愤又担心。嘉安到鼎瞻集团找宏瞻算账，宏瞻提出愿赔偿五十万医药费。
+
+嘉安一怒　撕碎赔偿
+
+嘉安以为宏瞻恃财欺压而拒收金钱，更怒撕支票……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1874</width>
+        <height>1072</height>
+        <durationinseconds>2690</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>03_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

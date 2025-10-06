@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>食家现身　挑战至嬴</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>鱼跃在花见</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2620723</uniqueid>
+  <uniqueid default="false" type="trakt">7447919</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>突然分手　打击甚大
+
+当至嬴晚上回到慕容家时，发现姜羌在客厅中等候自己，至嬴把失落的心情收起，欲以笑脸与姜羌谈话时，姜羌竟突然发火，更指自己不会与他结婚；姜羌向至嬴说出自己感到后悔，因为发现至嬴只是个「废人」……当至嬴解释自己一切的努力都是为了姜羌时，反令她反感，指责至嬴不思进取，更把意寿司搞得一塌糊涂；被赶走的至嬴带着姜羌送给自己的寿司碟回到思寿司，为自己的不长进而气愤的至嬴把碟子打破……
+
+至嚣发现　思茏怀孕
+
+至嚣约思茏吃晚饭，但却发现思茏带同至宝出席；至嚣不满之下将怒意发泄在至宝身上，思茏只得带至宝离开……晚上思茏在家中收到至嚣道歉的留言，但她已无心理会；翌日思茏到诊所检查胎儿，更拍下超声波照片。当医生问思茏有关婴儿父亲有没有遗传病等问题时，思茏反向医生询问有关人工流产的事情。思茏离开诊所时发现至嚣已在楼下等候；当至嚣送思茏回家时，思茏因孕吐要至嚣停车，至嚣替思茏取药时发现了婴儿的超声波照片。
+
+至嚣没法从思茏口中问出到底谁是婴儿生父，于是晚上特意拜访至宝，更从至宝口中得知两人是分房休息；这时思茏回家，发现至嚣竟向至宝说出思茏将会成为母亲，不禁怒责至嚣。思茏发觉至嚣只视自己为一只向鱼家复仇的棋子，不禁伤心不已；亦匡约思茏见面，指他从至宝口中得知思茏怀孕。思茏向亦匡说出自己欲与至嚣一起，但亦答应雍容照顾至宝；发现思茏如此善良，亦匡亦坦白说出，他已令思茏与至宝的婚姻失效。
+
+至嚣为伤害了思茏而感后悔之时，思茏突然出现；至嚣欲向思茏解释之前因自己妒忌至宝而说了伤害她的话，但想不到思茏竟向至嚣说，与他将各不相欠，两人关系亦告终止；思茏表示自己将离开香港，因此托至嚣好好照顾至宝……至嚣没有想到思茏竟会离弃自己，喝得烂醉后回家，当映月看到儿子满面通红时，竟一声不响便步出客厅；发现连母亲也不理会自己的至嚣大受打击，但这时一块温暖的热毛巾放到至嚣的额上……
+
+得到启发　重新振作
+
+在寿司店中度宿的至嬴，发现至宝竟到来找他；当至嬴得知思茏离开后，只得边做寿司边陪弟弟，但至嬴却从中重拾制作美食的乐趣。至嬴决意与至宝一起到孤儿院替院童做寿司，想不到却得到启发而重新振作……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2682</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>鱼跃在花见 Ep18_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:53:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>「不留名」成代罪羔羊</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>我的野蛮奶奶</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>2624401</id>
+  <uniqueid default="false" type="tmdb">2500816</uniqueid>
+  <uniqueid default="false" type="trakt">1434753</uniqueid>
+  <uniqueid default="true" type="tvdb">2624401</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>「不留名」被捕，始揭发「不留名」就是茂春本人，此事亦惊动皇上，皇上一怒之下要斩茂春，不过经众人求情后，皇上下令给三日时间捉拿逃脱的普释归案了解案情。
+
+原来绵伦府上的惨案全是关胜所为。绵伦利用关胜引出「不留名」后，欲杀人灭口时，关胜突然发难杀光所有人，受伤的普释胁持灵珊逃走，混乱间，普释将灵珊打至重伤至死。自此，关胜狂性大发，将所有责任归咎于茂春上，他除杀掉普释断去为茂春翻案的线索外，更捉走铄兰与十一，引茂春逃狱和灵珊进行冥婚，更杀死甯老太的鹦鹉，引茂春到断头崖见面。
+
+茂春与关胜展开大战，茂春不敌，铄兰见茂春危急，发挥「野蛮」本色怒责关胜，令他产生幻觉跳崖自尽。众人回城后，皇上对茂春私自逃狱怒不可遏，下令提早斩杀茂春……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:08</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2691</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Wars.Of.In-Laws.Ep19.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

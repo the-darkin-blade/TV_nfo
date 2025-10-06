@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:43 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 51 集</title>
+  <originaltitle>Episode 51</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>51</episode>
+  <id>433921</id>
+  <uniqueid default="false" type="tmdb">2299465</uniqueid>
+  <uniqueid default="false" type="trakt">1596040</uniqueid>
+  <uniqueid default="true" type="tvdb">433921</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>世万召开饭局，众富豪均托词缺席，但想不到世基亦没有出现。世万心灰意冷决定到文慧家中松一口气，但想不到却给他遇上文慧出轨的证据。婉仪藉子凌之助约世基见面，当她正教训世基为何置兄长不顾之时，佩嘉收到电话说世万突然被送院。子凌等人赶到医院，更认为世万中风与文慧有直接关连，但文慧却否认。 苇庭与泰川讨论，认为贺峰将会把注意力集中在青岛的建设上，于是决定找长胜与之澄集团合作，投资有关越南的基建工程。日东与雅言在度蜜月期间，突然到法国探望长胜与之澄。原来两人借蜜月之便继续为公司工作，而到法国见长胜亦是为了公事。之澄见长胜感到不悦，主动要求两人留下小住数天。正忙得不可开交的哲男发现雅瞳突然出现，更要求与他一起午餐。原来雅瞳早已约了贺峰与雅思，父子边吃饭边谈回往事，相处融洽。雅思请姐姐考虑加入励群会协助自己，但雅瞳仍只是考虑。子凌探望世万，发现他中风后性情变得更暴躁。励群会慈善拍卖油画，子凌竟突然出现与雅思竞投，更以五百万胜出，但想不到回家后，婉仪拒绝付款。之澄特意带日东出外购物，让长胜与雅言有机会独处。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>51_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="51" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

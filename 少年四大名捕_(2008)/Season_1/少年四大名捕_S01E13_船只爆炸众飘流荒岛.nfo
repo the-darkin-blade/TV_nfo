@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>船只爆炸众飘流荒岛</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>少年四大名捕</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>2305661</id>
+  <uniqueid default="false" type="tmdb">389788</uniqueid>
+  <uniqueid default="false" type="trakt">398212</uniqueid>
+  <uniqueid default="true" type="tvdb">2305661</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>铁手巡逻时发现有人在赌坊生事，但见若飞没有动辄与人打架，更听到她说会报官举报，忍不住称赞她。
+
+蔡京与徽宗微服出巡作乐时，竟遇上江湖打斗，几乎伤及他；原来这一切是蔡京设计，令皇上觉得有设立武林盟主的必要，因此决定在王爷赵昌的月照山庄举行擂台比武以选出统一江湖的帮派。神捕司被委派担任维持比武的安全；当众人出发时，破天、冷血与无情等人同船，但途中船只爆炸，众人下落不明。若飞得悉此消息后，竟不问情由欲对付落石，却被小骨打败险死剑下，幸得铁手赶至相救。幸无情及早发现炸药令众人及时逃生，因此幸存者均飘流至一荒岛上。
+
+擂台比武正式开始，但破天失踪，若飞临阵代父比武更侥幸获胜；铁手力劝武功不高的若飞放弃比武，却遭她拒绝。孤岛上的幸存者秦帮主突然被杀，令众人怀疑岛上有凶猛野兽出没。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1080</height>
+        <durationinseconds>2685</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Four.Ep13.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

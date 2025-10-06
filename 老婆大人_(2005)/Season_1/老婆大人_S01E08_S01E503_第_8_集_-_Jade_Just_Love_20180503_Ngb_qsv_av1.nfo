@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 8 集</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">543590</uniqueid>
+  <uniqueid default="false" type="tvrage">477155</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>希敏决定做全职主妇，众人哗然，连通叔都不敢相信。但自恃聪明的希敏，相信读法律难不到她，凑仔也不会很难！国光却知希敏看轻做主妇的难度，于是拜托妈妈代为照顾一下！可是通叔却认为若希敏有人帮助的话，最终也做不成为主妇，下令老婆和宝贝返围村，自己却留下督促媳妇做真女人！
+
+希敏正在处理放大假前最后一宗案件，从一名患有自闭症的儿童身上，领悟到做父母的真正责任，开始觉得决定返家凑仔的决定是正确的。
+
+宝怡发现戴官是希敏前度男友，更一厢情愿地认为他对大嫂仍余情未了。可是，戴官死口不认，觉得事过境迁，现在两人只是朋友及同事关系，别无其他。当然，宝怡「机灵过人」，口说要向大哥告发此事，但心却想戴官顺她的心意行事！戴官为怕宝怡将事情闹大，答应助她完成三个不违道德及不犯法的愿望！宝怡得呈！
+
+通叔要希敏负责全家的起居饮食，虽然不算挑剔，但已令希敏头也大了！但是，好胜的希敏却对老爷说，如果她做不到一名理想的媳妇，就任由他处置！晚上，国光给老婆一份详尽的凑仔和家务天书。这一刻，希敏才知打理家头细务比读法律还要难十倍！宝怡的第一愿望是要戴官陪他玩，但外表严肃的主任裁判官玩过山车，的确难以想像，此情景还差点被国光撞见！
+
+希敏依着国光给的买餸清单往街市购物，终于知道边凑阿B边买餸是很困难，更发现老公在街市很出名，人人都知他有一名叻老婆，令希敏感动不已！为了报答国光，她与阿B去商场买芝士蛋糕给老公。可是，希敏只是转一转身，就不见了阿B！</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E08.20180503.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Just Love 20180503 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>503</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E08.20180503.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="503" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:58:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>伟舜追求学宁</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>流氓大亨</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1743860</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>钟赞为替伟舜在上流社会中建立知名度，特设豪宴招待名流。怎料钟赞自发迹后，仍不脱市井粗鄙作风，惹来不少毁誉，无意中开罪了合股人宋永然，令场面尴尬不堪。
+
+谨昌被调上山顶后，发现其上司竟为创世，被他多次联同一干同事戏弄，谨昌惟默默忍受。
+
+伟舜被董事长永然安排在永赞面厂充当副厂长一职，遇上学宁，被其清纯美貌所吸引，向她展开热烈追求。另一方面，伟南亦在派对中无意间邂逅学宁，惊为天人，但因生性害羞，不敢示爱。
+
+学仁不慎破坏家中音响器材，恐被谨昌揭发，欲向友人筹钱，不果。其后遇上伟贤，一时贪念，正想乘机偷取其银包，被伟舜及时发觉，将他捉拿警署，幸证据不足，未能将他治罪。
+
+谨昌对学仁罪行大表激愤，向他痛打一轮。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1564</width>
+        <height>1080</height>
+        <durationinseconds>1290</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Feud.Of.Two.Brothers.E03.20180223.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade The Feud Of Two Brothers 20180223 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>流氓大亨</showtitle>
+  <season>1</season>
+  <episode>223</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1564</width>
+        <height>1080</height>
+        <durationinseconds>1290</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Feud.Of.Two.Brothers.E03.20180223.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="223" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

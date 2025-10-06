@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 29 集</title>
+  <originaltitle>Episode 29</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id>433900</id>
+  <uniqueid default="false" type="tmdb">2299443</uniqueid>
+  <uniqueid default="false" type="trakt">1595974</uniqueid>
+  <uniqueid default="true" type="tvdb">433900</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>虽然雅瞳喊破喉咙，但因引擎声响令哲男未有听到内容，原来哲男这天晚上出海，是特意替视作自己妹妹的子凌庆祝生日。泰川正式在珠宝厂上班，为庆祝特意请哥哥及青杨出外吃饭。青杨在途中遇上志球，两人更因此当街纠缠起来。青杨指志球要雅思当代罪羔羊，志球竟当街承认，泰川更乘机将罪证拍下。泰川晚上与众人喝酒时，发觉有电视台监制加入。原来电视台欲举办一个让年轻人创业的真人骚节目，而他想邀请子凌参加，子凌为了证明自己是有实力之人决定参加，而在一旁冷眼旁观的泰川，心中有着另一番打算。节目正式举行，更邀得苇庭担任主评判，在云云参加者中，泰川竟也是其中一分子。泰禾发现弟弟突然辞职不干，不禁大为痛心更忍不住责骂他，但泰川坚持说自己是为了两兄弟有更好的将来。长胜自失恋后整个星期躲在澳门赌钱，日东不忍主动去劝阻他。公司同事对长胜因失恋自暴自弃之事议论纷纷，更有传言公司前景将不乐观。雅言担心长胜，欲向他的助理打听详情时，却又发现事情的真相。原来这一切是长胜的计划，借失恋而令哲男轻敌，终在商场上又一次胜过哲男。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>29_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

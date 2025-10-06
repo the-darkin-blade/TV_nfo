@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 67 集</title>
+  <originaltitle>Episode 67</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>67</episode>
+  <id>427673</id>
+  <uniqueid default="false" type="tmdb">2299481</uniqueid>
+  <uniqueid default="false" type="trakt">1596057</uniqueid>
+  <uniqueid default="true" type="tvdb">427673</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>日东发现雅言私下查问Norman在菲律宾意外身亡之事，看到雅言一脸难过的样子，日东不禁向她查问当中原委。绍铭意气风发在贺家出现，更向雅思说出她已被监视。之澄往找雅言，说出自己已用尽方法去阻止长胜，更请她不要夺去长胜，雅言听后不明她所指何事。雅思在画廊工作之时，雅言出现向她质问。筱柔到公司见雅思，说欲开分店。英姐离开康家前夕，筱柔仍只顾着联络客人毫无挽留之意，英姐伤心不已。少好约儿子长胜吃饭，席上之澄亦出现。少好要求长胜好好照顾太太，长胜毫无反应。当两人独处时，之澄再向长胜道歉，更哀求丈夫原谅自己当年所设的计画，但长胜仍执意离开。哲男参加泰川的演讲会，但目的却是绍铭。哲男提出工作上遇上的难题，更要求绍铭不要受人影响对付自己。长胜主动约见泰川，更提出向他借股票对付雅思，泰川不禁心动。哲男使计发现绍铭出卖他，令绍铭不得不离职。正当筱柔准备将公司扩充之际，青杨竟通知太太，已把能帮助发展的大生意推掉，亦坚决否决了筱柔欲扩充开分店之事，深深不忿的筱柔欲私下追回生意。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>67_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="67" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

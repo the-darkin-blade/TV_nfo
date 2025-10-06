@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>流氓捣乱嘉安受伤</title>
+  <originaltitle>Episode 30</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444987</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宏瞻因瞒着蔓华欲带嘉乐到外地结婚，而令蔓华意外小产，蔓华为此大受打击；蔓华自失去胎儿后如行尸走肉，对宏瞻不瞅不睬，令他大感内疚。采贻劝兄长不要再迷恋嘉乐，免得失去幸福家庭，可惜宏瞻对妹妹的劝告听不入耳。
+
+嘉安在荒废的农地买下了一间烂屋，决心要把烂屋变成可住人的居所，以免却再遇上被业主加租而迫迁的困境。
+
+嘉安决意　独力修屋
+
+丁海等人合力替嘉安将建筑及装修材料运到农地，丁海更提议众人合力助嘉安建设，但嘉安却婉拒众人好意。朗翘到达后看到大量装修材料，即明白到嘉安决定在此地居住，不禁皱眉起来。
+
+嘉安向妻子保证将有能力化腐朽为神奇，可建立起属于自己的家园；朗翘亦不想打击嘉安的信心，只得给他支持。嘉康见兄长搬入郊区而让出居屋，提议把积蓄送给嘉安。
+
+朗翘爆发　斥责笑兰
+
+笑兰看着金钱，竟表示要留给女儿未来参加游学团之用；朗翘无意中听见两人对话，替嘉安大感不忿；朗翘忍无可忍，在大庭广众下大骂他们自私，更将嘉安患上暴盲症一事说出，嘉康夫妇听后既愕然又惭愧。笑兰查得嘉安所住的是破屋，于是集合关家各人一同到农地合力为嘉安建设家园。嘉安看见早前因居屋令关系恶劣的一家人又再和好如初，心中满是欣慰。
+
+忠伟要求　朗翘选择
+
+忠伟接送朗翘与巧琳探访嘉安，朗翘虽落力帮忙，但却从没有表示会搬回与嘉安同住；巧琳的小手被蚊虫叮得又红又肿，朗翘紧张地要求忠伟陪她们去看医生，嘉安看在眼中，大感不是味儿。
+
+忠伟送朗翘回家时再提及朗翘与嘉安之间的感情问题，忠伟再认真地要朗翘好好考虑是否还会与嘉安一起，但朗翘仍未能在嘉安与忠伟之间作出抉择。宏瞻接到蔓华的邀请回到大宅，蔓华竟高姿态地与卓先生一起出现。
+
+蔓华反击　宏瞻技穷
+
+卓先生开门见山地表示会为蔓华讨回公道，决定与其他富豪一同撤资，不再参与鼎瞻集团的豪宅项目。宏瞻不满遭卓先生威胁，仍强撑表示可独力完成项目。蔓华故意暗示自己与卓先生有暧昧，更要求宏瞻与自己离婚，但宏瞻坦言不会答应……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1912</width>
+        <height>1074</height>
+        <durationinseconds>2679</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>30_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

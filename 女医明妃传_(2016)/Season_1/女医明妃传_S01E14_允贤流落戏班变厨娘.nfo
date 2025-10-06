@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>允贤流落戏班变厨娘</title>
+  <originaltitle>允贤流落戏班变厨娘</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>5527085</id>
+  <uniqueid default="false" type="tmdb">1176442</uniqueid>
+  <uniqueid default="false" type="trakt">2159628</uniqueid>
+  <uniqueid default="true" type="tvdb">5527085</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>皇上向钱皇后讲述他与允贤之间的的相识经过，并因允贤“早逝”的事情伤心不已，钱皇后提醒皇上说不信徐侍郎一人就能如此周全地谋划追杀杭纲一家的事情，此事应当有人背后指使，皇上听了皇后的劝解，打起精神开始调查此事，并将嫌疑放到了汪国公身上，但又苦于缺乏证据而不能将汪国公定罪。祁钰因允贤的意外“身亡”卧病在床，汪美麟听说祁钰生病来祁钰府上探望，祁钰心知肚明，杭家的事定与汪美麟等人脱不了干系，于是让人赶她出去。吴太妃为了让祁钰喝药跪在祁钰床前磕头，祁钰只得将药喝了下去，但就算身上的病能用药医，心病却不是一碗药就能喝好的。允贤落水后随着水流漂到了淮阴，被南戏班从河上救起，花旦陈碧娘及戏班里的王道士对允贤悉心照料，为了给允贤看病，王道士当掉了允贤身上的细软，幸好还留下了那支祁钰送的“灵芝钗”。允贤自觉前途未卜，请王道士给自己算了一卦，卦象显示允贤家中的祸事皆因一个女子而起，并说此女日后还会有断子之痛，其亲人若要解祸当要远离此女，该女自己则须心智坚定才能自我解祸。允贤请求碧娘将她收留在戏班子里，碧娘见允贤身世可怜就一力应允了下来，并让允贤在戏班子里帮忙做些杂事。王道士几句话直戳允贤痛处，将允贤惹哭，碧娘则向允贤解释，王道士本就是要故意惹哭允贤，好让允贤开开食欲多吃些东西，不仅如此，碧娘还告诉允贤，上次在刘员外家，王道士之所以戏弄允贤将允贤弄成花脸，其实是为了防止允贤的花容月貌被那些风流好色的公子哥觊觎，不想允贤惹祸上身。听了碧娘的解释，允贤才明白王道士其实是个刀子嘴豆腐心的大好人，于是去向王道士道谢。允贤在戏班里做厨娘，却苦于厨艺不精，而平日里见王道士对于饮食颇有见解，遂请求王道士教她做菜，王道士看似不耐烦，却还是认真地授艺于允贤。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1326</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E14.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

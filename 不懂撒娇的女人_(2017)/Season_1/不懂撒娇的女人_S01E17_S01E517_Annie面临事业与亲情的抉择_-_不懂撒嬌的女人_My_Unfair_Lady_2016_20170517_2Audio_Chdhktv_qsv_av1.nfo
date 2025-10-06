@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:00:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>Annie面临事业与亲情的抉择</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>不懂撒娇的女人</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2001732</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>虾米仔画了一幅图画送给Annie，Annie满心欢喜，承诺会将图画贴在办公桌上。Hanson相约Annie及Oscar两位经理出来，商议结盟，各自在老板面前互相称赞对方，大家均得益。Annie最初犹豫，最终被说服。
+
+午饭时间，Annie趁办公室没人时，贴出儿子的画作然后拍照。Hanson发现立即阻止她将画作贴出，指这样会影响老板对她的印象，间接影响了曾称赞对方的自己，Oscar在旁劝止但无效。
+
+Hanson甚或带Annie到凌敏房间，威吓说若她想升为总经理，便要像凌敏一样断六亲。为示决心，Hanson要Annie立即将儿子的画作碎掉。
+
+日晖、念深想法一致
+
+禹勤悉心打扮，原来她为了赚外快，与姊妹一同出席Speed dating做媒。另一边厢，日晖因之前曾替傲星制作过VR短片，现则拼命向不同界别行业的人士推介VR技术，可是一无所获。
+
+念深于上海观察多日，认为Match making最有潜力，可是郭力质疑这点子已非首创。晚上日晖向禹勤表明不想她再出席任何Speed dating活动，两人争执期间，日晖突然想到Match making可加入VR的元素。岂料就在此时收到念深的来电，问日晖可有兴趣合作，将VR配合Match making。
+
+亲情事业 选择两难
+
+虾米仔突然要求Annie将画作交还，因为学校要他们介绍母亲最爱的图画。晚上Annie匆匆返回公司，在碎纸堆寻找儿子画作的纸碎，可惜遍寻不获。
+
+Oscar突然出现，拿着已还原的画作，Annie才放下心头大石。二人在海边闲逛，Oscar坦言曾因工作忽视了父母的需要，也错过了见老父的最后一面，而母亲临终前也煲了汤给自己喝。
+
+Annie才想起某天Oscar喝了自己的住家汤后痛哭，原来就是想起母亲。Oscar希望凭自身经历，劝Annie千万不要因为工作放弃亲情。
+
+Oscar出手协助Annie
+
+虾米仔之父表示已辞去内地工作，并打算与未婚妻重新组织家庭，劝Annie放弃虾米仔的抚养权。Annie于是要求Oscar陪伴儿子玩耍，希望藉此增加争取抚养权的机会。可是二人突然收到俊杰通知，要返回公司开会。Annie急急回公司，而Oscar藉口返回内地拜祭不出席，实质在替Annie照顾虾米仔。… ...</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1310</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>不懂撒嬌的女人.My Unfair Lady.2016.Ep17.20170517.1080I.Hdtv.H264.2Audio-Chdhktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>不懂撒嬌的女人 My Unfair Lady 2016 20170517 2Audio Chdhktv qsv av1</title>
+  <originaltitle/>
+  <showtitle>不懂撒娇的女人</showtitle>
+  <season>1</season>
+  <episode>517</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1310</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>不懂撒嬌的女人.My Unfair Lady.2016.Ep17.20170517.1080I.Hdtv.H264.2Audio-Chdhktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="517" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

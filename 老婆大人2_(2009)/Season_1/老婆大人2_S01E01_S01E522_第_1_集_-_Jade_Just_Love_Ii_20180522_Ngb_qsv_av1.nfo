@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 1 集</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>老婆大人2</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3330838</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>高希敏和葛国光带儿子葛彦祖去幼稚园参加入学面试，但两人到达才知道原来父母和小朋友都需要分开接受面试。和校长面试时，希敏对儿子的事情其实不熟悉，幸得国光解围。另一边厢的彦祖向老师表示家务都是由父亲负责，老师不信，指他讲大话，彦祖遂嚎啕大哭。
+
+国光头痕希敏被杂志封为「风云裁判官」。希敏判决一宗违例泊车案件时，成功在车主呈堂照片的暗角发现婚礼的花车原来防碍了水龙头，于是指出当时票控车主的警员有理，令上诉的车主无言而对。国光开发的儿童游戏被客人指太益智，该客人要求他加入暴力元素，国光不快，但国光的拍档照样答应。
+
+锭英惹祸辈份极高的「十三公」葛德云回乡，他听到一班工程人员欲拆葛氏祠堂，幸希敏出现阻止了冲突，且原来对方只是要拆附近的「池塘」，但已令德云因而敌视希敏。希敏和国光的新居完工，两人向锭英表示即将迁走，锭英不快，德云借故指责希敏。锭英被误会刻意用长者八达通卡乘搭港铁，其实八达通卡只是葛父的遗物，她长期收在袋内，因而惹上官非。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1874</width>
+        <height>1080</height>
+        <durationinseconds>1322</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.Ii.E01.20180522.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Just Love Ii 20180522 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>老婆大人2</showtitle>
+  <season>1</season>
+  <episode>522</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1874</width>
+        <height>1080</height>
+        <durationinseconds>1322</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.Ii.E01.20180522.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="522" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

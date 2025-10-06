@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>锦绣造谣陷害</title>
+  <originaltitle>锦绣造谣陷害</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>6773141</id>
+  <uniqueid default="false" type="tmdb">1556705</uniqueid>
+  <uniqueid default="false" type="trakt">3096608</uniqueid>
+  <uniqueid default="true" type="tvdb">6773141</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>贵妃百般试探无果，以为璎珞当真是个傻子，无奈放人。贵妃身边的嘉嫔却觉得璎珞并非真傻，对她存了一丝戒备之心。宫女所里，见璎珞久久未归，吉祥十分担心，锦绣却造谣璎珞是跟人私会去了，吉祥气急，跟她争执了起来。这时，璎珞回来，若有所思地看了众人一眼，不发一言的径直躺下休息。次日，璎珞找上玲珑，指出是她向高贵妃告的密，玲珑一口否认，被璎珞狠狠教训一顿，内心更加嫉恨。收拾完玲珑后，璎珞去找方姑姑，想看看能不能从她那里查到关于姐姐死因的蛛丝马迹，谁知却一无所获。因为锦绣造谣璎珞与乾清门侍卫有染，谣言越来越旺盛，甚至张嬷嬷都找上了璎珞询问情况，璎珞否认后，决心将计就计，彻底从根源杜绝谣言。于是她故意深夜出门被锦绣发现，锦绣告诉了方姑姑，方姑姑因跟璎珞接二连三的过节对她恨之入骨，因此嘱咐锦绣盯紧璎珞，有消息及时汇报。随后，锦绣发现璎珞与侍卫庆锡私相授受，没过多久，锦绣发现璎珞不仅闻到鱼腥就恶心呕吐，甚至腰身都粗了一圈。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2615</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep05.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

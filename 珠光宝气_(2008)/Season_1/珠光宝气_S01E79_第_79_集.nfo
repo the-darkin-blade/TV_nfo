@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 79 集</title>
+  <originaltitle>Episode 79</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>79</episode>
+  <id>434857</id>
+  <uniqueid default="false" type="tmdb">2299493</uniqueid>
+  <uniqueid default="false" type="trakt">1596069</uniqueid>
+  <uniqueid default="true" type="tvdb">434857</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>日东收到消息说哲男公司将接下新界北工程，但雅言却有信心让长胜取得。在以哲迅为名的慈善基金筹款会上，雅言与雅思见面，更提出怀疑哲迅之死是与哲男有关的假设。另一方面，哲迅的主诊医生与雅思谈论如何帮助其他病童时，说出哲男早已得悉哲迅患有过敏症之事。雅言要求长胜调开日东，以免他阻止夺得新界北工程的计画。长胜打拳发泄时，听到拳馆主人谈及当年憾事。雅瞳到哲男家一起包饺子时，却不慎弄掉了戒指。哲男助她寻回，但看到那幸福指环时，哲男不禁想起了自己如何对待启发，当下内疚不已。雅思尝试走哲男抱哲迅到医院的途径，欲调查哲男是否有尽心协助，结果她却认为哲男有害死自己儿子的嫌疑。哲男夜访怀德，向他说出屈存在心中的秘密。泰禾自珠海回港，泰川与兄长饭聚时，责备泰禾仍与子凌见面，泰禾解释与子凌见面是因她将与家人移居美国。晚上泰川打开电邮，看子凌寄给他的道歉信，筱柔的病情日益严重，雅瞳只好努力照顾母亲。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>79_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="79" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

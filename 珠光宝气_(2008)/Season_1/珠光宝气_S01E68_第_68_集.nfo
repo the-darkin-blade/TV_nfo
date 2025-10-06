@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 68 集</title>
+  <originaltitle>Episode 68</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>68</episode>
+  <id>427838</id>
+  <uniqueid default="false" type="tmdb">2299482</uniqueid>
+  <uniqueid default="false" type="trakt">1596058</uniqueid>
+  <uniqueid default="true" type="tvdb">427838</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>筱柔担心自己真的有机会患病，特与青杨一起去见医生进行检查。筱柔决意在工作岗位退下，青杨乘机提出两人一起退休，将公司交予雅瞳打理。雅思努力为丈夫奔走，但贺峰却毫不体谅，说她施计对付自己信任的绍铭与Norman，更明言不再相信她。饱受委屈的雅思，只好在睡着的儿子身旁以泪洗面。雅思得悉泰禾将回港，欲致电通知他可能有事发生。在公司私有化大会上，长胜暗示会阻挠雅思。雅思以为长胜只是说说而已，但在股东投票时，竟发觉长胜的手段。雅瞳发现雅言辞职并失去联络，于是直接找日东询问姊姊的下落。泰禾与子凌吃饭时，子凌提点他不应与雅思过从甚密，雅瞳到画廊见雅思，当她了解事情欲通知泰禾可能有危险时，却被雅思阻止。泰川接到消息兄长受伤，但泰禾竟说不知是受何人袭击。长胜为了胜过雅思，而将自己的一切的财产做抵押，而他却发现股价有大变动，令他面临困境。日东劝之澄不要在商场上针对长胜，但却遭她拒绝。对于贺峰的无理取闹，雅思终忍不住与他争吵起来。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>68_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="68" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

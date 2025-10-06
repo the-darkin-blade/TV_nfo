@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:53:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>铄兰怒极入宫暂住</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>我的野蛮奶奶</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>2624321</id>
+  <uniqueid default="false" type="tmdb">2500808</uniqueid>
+  <uniqueid default="false" type="trakt">1434736</uniqueid>
+  <uniqueid default="true" type="tvdb">2624321</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>铄兰出现并大闹婚礼，极恨丰德隐瞒成亲之事。丰德唯有承诺以后不见巧巧，可惜巧巧因大受刺激病重，丰德于是再次瞒着铄兰前往探望，但惜被揭发，铄兰怒极搬入宫中暂住。
+
+甯家上下担心铄兰一怒之下道出十一身世，因而犯上欺君之罪要诛九族，于是茂春父子二人唯有到宫中自首，丰德连带假成亲之事向皇上坦白一切。皇上听罢此事后怒极要杀丰德。此时，铄兰及皇后出现并为丰德等人求情，而皇后亦认为顾及皇族体面，不应把事情闹大，结果皇上依皇后之议，要山贼们到矿场当苦工赎罪，直到铄兰觉得满意为止，令丰德更加愧对巧巧。
+
+茂春对十一等人在矿场当苦工觉得非常心痛，茂春唯有找铄兰求情，但铄兰却要茂春娶灵珊为妾侍服侍她，而灵珊亦对茂春早有意思，茂春唯有无奈同意。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:08</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2690</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Wars.Of.In-Laws.Ep11.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

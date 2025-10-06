@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>允贤巧言相劝太后放权</title>
+  <originaltitle>允贤巧言相劝太后放权</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>5527088</id>
+  <uniqueid default="false" type="tmdb">1176445</uniqueid>
+  <uniqueid default="false" type="trakt">2159631</uniqueid>
+  <uniqueid default="true" type="tvdb">5527088</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>身为女子的允贤相比于其他太医有了许多近身问诊的机会，这也使得允贤对于太后的病情可以作出更为准确详尽的判断。允贤利用自身优势做出的美味药膳令久在病中，成日里尽是食些苦涩汤药的太后食指大动，满意非常。而允贤作出的并无大病的诊断更是大合太后的心意。心情甚佳的太后毫不吝啬地赐下了不少封赏，而允贤也趁机用此顺利收买了太后身边的侍女玉香。温良孝顺的皇后始终陪侍在太后身旁，也见到了允贤为太后诊病的整个过程。对于这个年纪轻轻的女医，皇后并未抱有丝毫成见，反而很是欣赏她的另辟蹊径，更是对允贤给予了厚望。一心想要快点见到郕王的允贤总是想方设法地接近他所居住的北五所。然而宫女玉香却及时地制止了允贤的这种贸然之举，她告诉允贤，只有待她医治好了太后娘娘，她这有违宫规的愿望才有实现的可能。从与玉香的闲谈中允贤得知，太后娘娘虽然表面上脾气不好，实则却是个善良心软轻易不动杀念的人。利用这一点，允贤成功地把握住了太后的脾性，甚至插科打诨地逗笑了太后，将聆听训诫承受怒火的皇后娘娘解救了出来。虽然头痛有所缓解，但太后的眼疾适中未能痊愈。利用祝由之法，允贤将日日操心朝政不肯休息的太后劝得清修静养了三日，一番看似神鬼的施法，竟真的成功医好了太后的眼疾。允贤的稀奇治法被宫人们传得神乎其神，以程十三为首的太医们更将对她的祝由之术视为装神弄鬼，故弄玄虚。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1320</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E17.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

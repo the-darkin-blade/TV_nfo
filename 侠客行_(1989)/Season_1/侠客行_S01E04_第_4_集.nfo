@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:09:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 4 集</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>侠客行</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2494434</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>丁璫见破天不肯相认，以为他有心作弄，在他肩膊大咬一口后离开，破天被丁璫美貌所吸引，大感迷惘。
+
+中玉为一农妇救醒后，流落江湖，遇天魔教、白万剑及珊瑚等为争夺玄铁令而恶斗，机缘巧合下，中玉夺得玄铁令，被谢烟客捉去。
+
+中玉知玄铁令甚为有用，不肯轻易求烟客替他办事，烟客气结之余，误中中玉之计，被中玉逃脱。
+
+中玉天行狭路相逢，天行欲捉中玉，为珊瑚所救，但中玉已受重伤，珊瑚遂送他上天山寻找冰心雪莲替他疗伤。
+
+丁璫与破天相聚，不三误认破天乃中玉，把破天捉去，交予万剑，石清夫妇赶至相救，不敌，烟客突然出现，抢走破天。
+
+海石追寻破天下落，遇中玉，误认他是破天，将他带回长乐帮。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1544</width>
+        <height>1080</height>
+        <durationinseconds>2773</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E04.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

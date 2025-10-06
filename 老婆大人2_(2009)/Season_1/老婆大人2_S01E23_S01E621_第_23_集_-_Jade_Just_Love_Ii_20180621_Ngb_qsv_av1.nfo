@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 23 集</title>
+  <originaltitle>Episode 23</originaltitle>
+  <showtitle>老婆大人2</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3668089</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>国光见秀秀以希敏的打扮在家中出现感愕然，更差点误会她是希敏。希敏在东莞寻得时富之居所，却得悉他受伤送院；希敏邀请时富回港一起生活，时富感动。秀秀悉心照料国光，国光虽说不出有何不妥之处，但总觉秀秀的举动奇怪。志坚为帮助前女友出头而得罪豪，豪施苦肉计让自己受伤令志坚被捕。
+
+宝怡得知志坚又再惹事端，决定向志坚提出分手。德云找秀秀饭聚，向她表示与凯彤合不来，秀秀反鼓励他不要放弃自己想要的东西。国光入院检查，因怕太太担心而不告诉希敏，秀秀自告奋勇说替国光安排一切。德云在医院内看诊时，发现秀秀竟以葛太的身分陪伴国光，不禁大表奇怪。德云向秀秀查问，秀秀只得把国光患有脑瘤之事说出。希敏与时富提早回港，德云向希敏说出真相，希敏与时富赶至医院；秀秀见希敏突然出现极不高兴，而希敏看见秀秀打扮得与自己一样大表震惊。
+
+希敏无意中听到秀秀与心理医生的对话，怀疑她旧病复发；高天与惠娟安排秀秀见精神科医生，秀秀竟离家出走。国光在公园寻获秀秀，向她多番劝解，但秀秀不接受现实更把国光推跌。</plot>
+  <runtime>138</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1874</width>
+        <height>1080</height>
+        <durationinseconds>8317</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.Ii.E23.20180621.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Just Love Ii 20180621 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>老婆大人2</showtitle>
+  <season>1</season>
+  <episode>621</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>138</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1874</width>
+        <height>1080</height>
+        <durationinseconds>8317</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.Ii.E23.20180621.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="621" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

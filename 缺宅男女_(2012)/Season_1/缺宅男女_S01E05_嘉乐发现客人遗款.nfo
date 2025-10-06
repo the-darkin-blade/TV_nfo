@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>嘉乐发现客人遗款</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444960</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>朗翘回到家中时发现早前刚洗好的衣物全被放置在她的房间内，正当朗翘摸不着头脑之际，笑兰却施施然地出现；笑兰认为风干衣物的地方狭小，只有将朗翘一家的衣物放回她的房间内，才可腾出空地方让她晒晾衣物，朗翘听得气煞不已。祖贵与巧琳又为小事起争执，笑兰即维护女儿祖贵并再出言单打，朗翘按捺不住与她理论；美玲偏帮怀孕的笑兰，令朗翘大感委屈。
+
+抑郁源头　担心生计
+
+嘉荣带嘉康看心理医生，终查出嘉康的抑郁源头来自经济压力，众人为让他稳定情绪，劝他不需要为钱担心。嘉乐明白朗翘哑忍笑兰的霸道而饱受委屈，遂乘机向笑兰劝谏一番，希望她能自律，但笑兰却认定嘉乐偏帮朗翘。嘉安为尽快储得置业首期，日以继夜地工作，即使胃部不适仍强忍。朗翘本想向丈夫发泄心中委屈，但当知道嘉安要加班工作，只好将怨气吞回。
+
+冠峰提议　女友同居
+
+冠峰与嘉乐到离岛过二人世界，嘉乐乘机向冠峰宣泄情绪，冠峰更明白结婚前必须有周详的置业计画。嘉安辛苦工作回家，得悉女儿需要书桌做功课，即答应亲自制作一张给巧琳。美满时光转眼即逝，冠峰与嘉乐又要离开离岛，回到现实世界；冠峰经详细考虑后，向嘉乐提议共赋同居，以减轻嘉乐家中人口负担。嘉乐将冠峰的想法告知家人，美玲却大表反对。
+
+嘉安质问　冠峰心意
+
+美玲认为冠峰与嘉乐只可结婚不可同居，嘉乐只得打消念头；嘉安私下约冠峰见面，直问冠峰为何不选择结婚，冠峰随即表示未储够买楼的金钱，也不敢随便对嘉乐许下终身承诺。嘉安明白冠峰另有自己打算，也不好再争持下去。
+
+嘉乐与嘉安散步时，嘉乐得悉嘉安与冠峰见面，即紧张地表示冠峰并没有唆摆自己搬走。嘉安要嘉乐提醒冠峰不要过分沉迷在股票上赚钱，免一失足成千古恨。
+
+同事献勤　另有所图
+
+公关公司同事Daisy忽然向嘉乐献殷勤，原来Daisy以为嘉乐与宏瞻有不寻常关系，希望嘉乐能助她转职到鼎瞻集团作地产代理。嘉乐一脸认真地表示与宏瞻并不熟络，令Daisy自讨没趣。宏瞻接受女记者June访问，宏瞻为讨好June即阔绰地送上名贵手表，希望June能在文章上发表对鼎瞻集团有利的新闻，但June却娇嗲地试探宏瞻有否进一步发展的可能……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1076</height>
+        <durationinseconds>2673</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>05_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

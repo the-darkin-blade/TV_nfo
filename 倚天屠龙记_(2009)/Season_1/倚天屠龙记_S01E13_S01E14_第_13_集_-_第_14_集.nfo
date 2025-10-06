@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 13 集</title>
+  <originaltitle>第 13 集</originaltitle>
+  <showtitle>倚天屠龙记</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>2126541</id>
+  <uniqueid default="false" type="tmdb">2032629</uniqueid>
+  <uniqueid default="false" type="trakt">1285395</uniqueid>
+  <uniqueid default="true" type="tvdb">2126541</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>不一会儿，峨眉派丁敏君带着门下弟子又再次前来，其中竟然有张无忌的旧相识周芷若。周芷若与丑陋少女过招，不分胜负，遂又离去。丑陋女子以为“阿牛哥”见了漂亮姑娘便忘了自己，大为恼怒，但不一会儿又高兴了起来。张无忌感叹这姑娘性子这般古怪，问其姓名，她回答叫蛛儿，蜘蛛的“蛛”。蛛儿搭建牛棚，悉心照顾“阿牛”。张无忌也得知她是因为练习“千蛛万毒手”的邪门武功才变得丑陋不堪。蛛儿的身世坎坷，又一心记挂着一个曾经咬了她一口的负心郎，张无忌与她同病相怜，也不计较她性格古怪。峨眉派灭绝师太为徒弟出气而来，她一招之内便将蛛儿的腕骨拧断，并命人做两个雪橇拖了蛛儿和张无忌走。当周芷若近身时，张无忌忍不住将自己的真实身份告知，引来蛛儿嫉妒。峨眉派等众人急急行军，途中遇见四个身穿白袍的明教中人。穿白袍者不是静字派尼姑的对手，自杀身亡，但所放的几只鸽子却逃了一只，原来那是通知天鹰教来光明顶救急的信鸽。张无忌本想救了蛛儿救走，此刻发现原来六大门派将几日之后合攻光明顶，遂打定主意留下来，伺机而动。月夜，驼铃声不断，如鬼哭、如狼嚎。峨眉派众女子不得安睡，次日清晨发现身边竟然多出来一个青衣男子，那男子武功甚高，轻功尤其了得，对阵灭绝师太手中倚天剑都不占下风，并咬死了峨嵋派弟子静虚。灭绝师太认出此人就是明教四大法王之一的青翼蝠王韦一笑，对“魔教”仇恨更深。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>1081-02-13</premiered>
+  <aired>1081-02-13</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Wenzhou TV</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Heaven.Sword.And.The.Dragon.Sabre.Ep13-14.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第 14 集</title>
+  <originaltitle>第 14 集</originaltitle>
+  <showtitle>倚天屠龙记</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>2127051</id>
+  <uniqueid default="false" type="tmdb">2032630</uniqueid>
+  <uniqueid default="false" type="trakt">1285546</uniqueid>
+  <uniqueid default="true" type="tvdb">2127051</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>殷梨亭遇峨眉众人，蛛儿打听张翠山消息时得知张无忌 “死讯” 痛哭，张无忌方知其心意。灭绝师太辱骂张无忌父母，众人因信号救援宋青书，后卷入名门正派与明教、天鹰教的混战。灭绝师太制服明教三旗欲斩其右臂，张无忌阻止并打赌接她三掌，接两掌后重伤，蛛儿求周芷若相助。殷野王现身威胁，天鹰教弓箭手暗藏，灭绝出掌却被张无忌内力震退。众人散去后，揭示蛛儿是殷野王之女（张无忌表妹，因杀庶母离家），殷野王欲捉她，韦一笑救走蛛儿，张无忌追赶不及，后遇布袋和尚说不得被装入布袋带走。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>1081-02-13</premiered>
+  <aired>1081-02-13</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Wenzhou TV</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Heaven.Sword.And.The.Dragon.Sabre.Ep13-14.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

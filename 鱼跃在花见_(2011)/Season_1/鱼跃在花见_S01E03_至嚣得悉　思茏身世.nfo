@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>至嚣得悉　思茏身世</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>鱼跃在花见</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2620703</uniqueid>
+  <uniqueid default="false" type="trakt">7447904</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>至嬴拣鱼　创造奇迹
+
+慕容澄约至嬴到鱼市场，提出考验至嬴，更指自己只会与懂拣鱼的人合作。至嬴努力下拣得一尾大鱼，但慕容澄却指他选错了；慕容澄把鱼切开欲向至嬴解释他失败之原因，但竟发现鱼肚中藏有早前掉下海的小佛像……
+
+虽然觅回小佛像，但慕容澄仍不肯答应帮忙，只提出再给至嬴一次机会，要他用这条鱼制成美食让他享用；至嬴听后欲致电给兄长请他到日本帮忙，却被慕容澄没收了电话……
+
+姜羌帮忙　弄巧反拙
+
+慕容澄借出自己的家中厨房让至嬴使用，至嬴想通鱼腩并不是答案，但苦思下仍无结果，只好努力回想起至嚣的工作方法；回过神来的至嬴发现眼前只剩下一个鱼头，更发现姜羌把鱼已切得支离破碎，无法从中取出最好吃的部分；看到姜羌并不了解自己犯下的错误而不停说出不同的鱼头烹煮法时，至嬴受到启发突然灵机一触，但姜羌却不认同至嬴的选择而离开……
+
+至嬴与姜羌再次会合后到慕容澄指定的日式小店找他，姜羌助至嬴把寿司交予慕容澄吃，而他吃后说出很美味，但却说至嬴欺骗自己，因为这寿司应是出自北海道最顶级寿司师傅；至嬴叫屈，但却突然醒觉应是姜羌偷龙转凤……被慕容澄赶走的至嬴埋怨姜羌，但她坦言说出为了找出最好吃的寿司已花了不少钱。两人不欢而散，至嬴却发现姜羌掉了刚收到的生日礼物手链；至嬴再到旅馆欲把手链归还，却发现姜羌的父母竟带着行李离开……
+
+姜羌的父母得知至嬴已得知他们与姜羌的关系后，更托至嬴把利是交给姜羌；至嬴回到早前与姜羌争吵的地方，见她正努力寻找手链，于是把手链还给她时，硬着头皮说出姜羌父母破产逃亡的事……当姜羌以为至嬴开玩笑，却看到至嬴把姜羌父母的利是取出，而姜羌亦收到母亲传来的短讯……哭累了回旅馆睡了一晚的姜羌，离开房间时，竟发现至嬴原来通宵在房外守候自己。
+
+至嚣思茏　关系大进
+
+当慕容澄把小佛像放回昔日收藏的地方时，姜羌竟突然前来替至嬴说项；慕容澄提出要姜羌在他的家中找出收藏的小佛像……姜羌喝着慕容澄煮的粥，一面说出自己刚遇到的不幸时，慕容澄听后竟不自觉地替她打气；至嬴再次拜访慕容澄，得悉他终答应当月泷纱的买手……雍容因没法成功对付至嚣等人，将怒气发泄在思茏身上；下班后的思茏步至海旁散心时，发现至嚣致电给自己……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2683</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>鱼跃在花见 Ep03_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

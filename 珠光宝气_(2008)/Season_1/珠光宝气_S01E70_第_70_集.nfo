@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 70 集</title>
+  <originaltitle>Episode 70</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>70</episode>
+  <id>430012</id>
+  <uniqueid default="false" type="tmdb">2299484</uniqueid>
+  <uniqueid default="false" type="trakt">1596060</uniqueid>
+  <uniqueid default="true" type="tvdb">430012</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>泰川与子凌接泰禾出院后，为方便子凌照顾兄长，泰川特意整理家中客房让子凌留宿，但泰禾却感尴尬。泰川晚上与子凌饮酒时特意提醒她，如真的对泰禾有好感就要多作主动，子凌只得支吾以对。为了雅瞳是否担任贺峰所成立的基金委托人之事，哲男约雅瞳见面，但哲男所提出的意见，却令雅瞳大吃一惊。启发努力研读钻石鉴定课程，怀德特意私下借出高价钻石让他研究学习，启发感激不已。怀德向启发提议调他到总公司工作，启发却以自己未够准备而推却。Parco突然约启发见面，更向他说出怀德要他到总公司的原因。启发约雅瞳吃饭，中途发现有狗仔队追踪他们。为了助雅瞳减压，启发竟带她参加限时竞食，晚上雅言问妹妹对启发的悉心支持有否感动。日东约雅言见面后向她说出，自己已查出长胜自我放逐的地方。青杨在电视上看到志球回港后接受调查，筱柔在街上遇见志球，更将志球打伤。众女儿赶到医院，发现筱柔竟说出因看见志球与其他女性鬼混才出手打他。众姐妹质问父亲为何不将母亲的病情说出，令青杨心中的怒火爆发。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>70_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="70" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

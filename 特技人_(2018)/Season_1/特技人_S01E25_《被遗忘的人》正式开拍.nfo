@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:54:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>《被遗忘的人》正式开拍</title>
+  <originaltitle>Episode 25</originaltitle>
+  <showtitle>特技人</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2302188</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>(大结局)昊荣决定放手让儿子追梦，而《被遗忘的人》终可以开拍，但美姝拒绝演女主角，电影意义尽失，知行与秦臻大感失望。秦臻称拍电影是一大群人为同一目标奋斗，令美姝有点心动，心乱的美姝到父母墓前求指引。大志准备了求婚戒指，悄悄放入杯装蛋糕，怎料美姝把所有蛋糕放入外卖袋，大志气急败坏的从蛋糕中找寻戒指，并即时向美姝求婚！电影拍摄煞科飞车特技场口时，大志发现煞车系统有异，并快将冲向悬崖……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:08</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2593</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade The Stunt Ep25 End 20180907 Hdtv 1080I H264-Chdhktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

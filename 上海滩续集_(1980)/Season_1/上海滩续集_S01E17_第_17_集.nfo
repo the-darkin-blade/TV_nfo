@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 17 集</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>上海滩续集</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2493302</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>力被钱之秘书指为杀钱之凶手，而忠又突然失踪，力无可辩护。数天后，忠之尸体被人发现，力更含冤莫白。力终于想通，知道从车站的爆炸事件开始，一切都是阴谋，遂派祥贵往捉拿车站中行刺钱之凶手，但当祥贵找到时，二人已死。
+
+一日，燕燕往找云志，刚遇云志出门，遂跟踪他，即目睹他与祥贵合作杀死钱之秘书，并识破杀钱之阴谋乃云志主使。燕燕质问云志，二人终不欢而散，燕燕更决定与云志分手。汪将燕燕、云志分手告诉力，力大喜。力往找燕燕，要求燕燕与他合作杀云志，燕燕拒绝，但经云志再次一激后，燕燕毅然答应力之要求约云志，然而，燕燕约会云志不成功，计划被迫取消。
+
+力为避嫌疑，故派国强作代表往参加杭州银行之开幕礼，祥贵妒忌非常。另一方面，云志与祥贵拟好计划，要置国强于死地，力、燕燕及国强不知情，跌入陷阱，国强终为力亲手杀死，至力发觉时，国强已返魂无术了。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1076</height>
+        <durationinseconds>2594</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E17.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

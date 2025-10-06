@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 39 集</title>
+  <originaltitle>Episode 39</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>39</episode>
+  <id>433910</id>
+  <uniqueid default="false" type="tmdb">2299453</uniqueid>
+  <uniqueid default="false" type="trakt">1596000</uniqueid>
+  <uniqueid default="true" type="tvdb">433910</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>青杨整理新店的文件时，发现原来贺峰特意买下单位转租给自己开店。青杨最初愤怒非常，但得筱柔提醒，了解到这也是女儿雅思因曾骗了父亲毕生积蓄而欲作补偿之举。青杨思前想后，主动约贺峰与女儿吃饭。青杨在席上将事件说明白，提出接受贺峰的帮助，但将交回合市价的租金。雅言安排长胜与之澄见面，原来之澄欲投资国内的婚礼服务，因此向长胜征求意见，而两人商谈时，长胜与之澄更拍下婚纱照。雅言与之澄谈到感情问题时，解释现在之澄身分特别，会令异性却步，所以鼓励之澄向心仪对象采取主动。雅言发现之澄喜欢长胜，因此制造机会给两人。之澄与长胜到上海公干，之澄刻意示好，但长胜却呼朋唤友破坏气氛。伯棠发现妹妹钟情长胜，忍不住出言劝阻，更说长胜只为金钱接近她。长胜与秘密来港的Richard倾谈在杜拜的发展大计，想不到消息竟泄漏。雅言发现消息泄露是因Richard的手信转赠给哲男，于是与妹妹提出在家不提公事的协议。Joey怀疑日东有新欢，主动提出分手更掌掴了他。日东借分手之事离开香港，原来是前往杜拜调查。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>39_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="39" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

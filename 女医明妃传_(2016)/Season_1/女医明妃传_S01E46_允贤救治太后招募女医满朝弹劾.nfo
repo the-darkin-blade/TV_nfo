@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>允贤救治太后招募女医满朝弹劾</title>
+  <originaltitle>允贤救治太后招募女医满朝弹劾</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>46</episode>
+  <id>5546388</id>
+  <uniqueid default="false" type="tmdb">1176483</uniqueid>
+  <uniqueid default="false" type="trakt">2159660</uniqueid>
+  <uniqueid default="true" type="tvdb">5546388</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在宫女的劝慰下，允贤终于认清了如今真正的形势。皇帝已非过去的郕王，她不能再用一生一代一双人的准则来要求他了。最终，允贤的适度认输轻松便赢回了朱祁钰的心，两个人重归于好。只是此时允贤的心中，他们的感情已再不是过去那样的纯粹和热烈了，甚至为了讨好皇帝，她要逼着自己演戏取悦对方。虽然表面上骗过了皇帝，但允贤的内心还是无限惦念着朱祁镇与钱皇后的安危。为了能尽一份绵力，允贤将许多御赐的珠宝偷偷由父亲奶奶带出宫去周济他们。机智的允贤还在许多北地战友的帮助下，将银钱吃食偷偷投掷到了南宫的高墙之内，解了英宗等人的燃眉之急。在玉香的恳求下，允贤来到了仁寿宫中为太后诊脉，并发现了其中的蹊跷。玉香将皇后的阴谋与一切事情的来龙去脉都告予了允贤，这些残酷的真相令允贤心惊肉跳。尽管太后曾经那样伤害过她，但本着一颗正直的医者仁心，允贤还是决定暗中为她救治。太后病情潜移默化的改善自然瞒不过程村霞的眼睛。汪美麟的暗中迫害其实也少不了他的推波助澜。而程村霞这样的助纣为虐只是源于对太后的仇恨，因为她曾那样无情地处死了程十三。虽然表面上强硬不化，但程村霞仍然拥有着一颗尚未泯灭的善良内心。允贤的晓之以理动之以情终于打动了程村霞，使他加入了帮助太后复原的行动。允贤一月之内承幸五次的记录令皇后醋意大发，她将这个抢了自己爱人的狐媚子恨到了骨子里。为了彻底消灭这个情敌，她决定向老谋深算的父亲求救。朱祁钰对英宗的执意囚禁引起了满朝文武的反对。朝堂之上，直言敢谏的老臣不顾朱祁钰的怒火，将他的暴虐成性、刚愎自用彻底披露了出来。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1322</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E46.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="46" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

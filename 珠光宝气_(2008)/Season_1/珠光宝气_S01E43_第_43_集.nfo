@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:40 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 43 集</title>
+  <originaltitle>Episode 43</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>43</episode>
+  <id>433913</id>
+  <uniqueid default="false" type="tmdb">2299457</uniqueid>
+  <uniqueid default="false" type="trakt">1596020</uniqueid>
+  <uniqueid default="true" type="tvdb">433913</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雅言回到家后，向雅瞳歇斯底里地责骂哲男，幸得英姐与筱柔出言令她冷静下来。雅瞳回家后质问哲男是否曾派人袭击长胜，哲男想不到妻子竟不信任自己而大受打击，愤而离家买醉。雅言与日东到医院探望长胜，想不到长胜竟认为袭击自己的人应该不是哲男派来的。Sharon在街上发现哲男汽车停泊在路旁，更发现他醉倒车中，Sharon竟借机与哲男拍下亲密照。长胜偕日东及雅言到青岛视察，说出世万要他接下青岛工程的种种因由，长胜更说出此事险阻重重，能全身而退也属万幸。泰川获苇庭聘用后欲买新居，泰禾与弟弟看楼盘时被误会为泰川的下属，泰禾发现泰川欲买豪宅单位时更吓一跳。泰川正式上班，却被下属排挤。子凌参加泰川公司举办的派对时遇溺，晚上佩嘉向泰川透露，子凌对水恐惧的理由。绍铭向哲男透露，贺峰主动将一些工程转让给世万的公司负责，是为了平息世万的不满。哲男无法理解父亲为何对世万处处忍让，终与父亲大吵一场。哲男突飞往青岛抢了长胜的排污工程，世万气得到画廊质问贺峰。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>43_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="43" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

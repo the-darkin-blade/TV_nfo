@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>尚姿背景被揭露</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>栋仁的时光</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1512540</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>飞毅的宣传计划因健身公司涉及不良销售而被搁下，他深信尚姿在背后从中作梗。尚姿意外看到弟弟尚正在咖啡室出现，翌日尚正便辞职。栋仁发现自己比德琛早一步认识敏琦，敏琦始知德琛一直在骗她，二人情到浓时，栋仁想吻却不敢吻。栋仁犹豫是否要对敏琦坦白。飞毅施计让尚正送咖啡到来公司，揭露尚姿背景。栋仁遭谭七电击后，再次感头晕，向尚正索吻续命后，尚正梦游般四处行走被车撞倒昏迷，栋仁亦同时感到被撞击及心脏停顿……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stealing Seconds Ep15 20180504 Hdtv 720P X264 2Audio_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Stealing Seconds 20180504 2Audio qsv av1</title>
+  <originaltitle/>
+  <showtitle>栋仁的时光</showtitle>
+  <season>1</season>
+  <episode>504</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stealing Seconds Ep15 20180504 Hdtv 720P X264 2Audio_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="504" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

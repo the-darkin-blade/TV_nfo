@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 18 集</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">543582</uniqueid>
+  <uniqueid default="false" type="tvrage">477148</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>国光签了分居书，一年后将正式离婚！两人各行各路，但当国光见希敏失魂落魄差点撞车时，却担心不已！戴官在街上碰见希敏，知道她如有人在旁，一定会将情绪收得很紧，所以特地行开，让她嚎哭一会！
+
+Yoyo觉得国光终有一日会回心转意，为免多生枝节，逐步教他如何疏远希敏！国光思绪紊乱，竟然对Yoyo唯命是从！因为爱女被骗，高天要收回多媒体公司，如国光想继续事业，只能买下股份。Yoyo得知，叫拿督妈咪出钱入股公司，令自己能与国光一起工作，希望朝夕共对，燃起爱火！另一方面，AK仍想与Yoyo重修旧好，但却受冷淡对待！AK怀疑Yoyo有新欢，命国光查出奸夫是谁！
+
+宝贝和绽英发现戴官与希敏近日过从甚密，觉得有必要用绝招令国光和希敏破镜重圆！宝贝计仔多多，居然想到利用通叔促成好事，可是却要牺牲妈妈的贞节！
+
+在围村酒楼上，绽英在众目睽睽下，突然向通叔发难，还口口声声说要离婚，更二话不说便搬到希敏家中暂住！国光得悉，立即上希敏家安慰母亲，乘机与希敏和阿B共聚天伦之乐！可是，在Yoyo教唆下，通叔不甘受辱，决定与绽英离婚，并要与希敏争夺阿B的抚养权！</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1586</width>
+        <height>1080</height>
+        <durationinseconds>1326</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E18.20180517.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Just Love 20180517 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>517</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1586</width>
+        <height>1080</height>
+        <durationinseconds>1326</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E18.20180517.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="517" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

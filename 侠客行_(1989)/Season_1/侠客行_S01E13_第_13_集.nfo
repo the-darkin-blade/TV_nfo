@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:09:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 13 集</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>侠客行</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2494443</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>中玉以毒掌伤南宫逸，自称侠客岛专使，危言耸听一番，逼使南宫逸放走众人。冬儿在中玉婉言开解下，亦抛开心中郁结，与中玉重修旧好。
+
+海石寻至桃源谷，南宫逸讹称谷中人乃中玉所杀，海石救他回长乐帮。
+
+海石追截中玉等人，抢走珊瑚、冬儿及侍剑，中玉与丁璫逃脱，遇众帮派中人，误会中玉真是侠客岛使者，甘愿任他差遣。中玉往摩天崖，要烟客履行诺言，救出珊瑚等，烟客答允。
+
+石清失妇闻得海石召开武林大会公审石破天，遂相信破天不是中玉，带他赴会查明真相。
+
+阿綉与史婆婆遇破天，误会他为中玉，掳他返回紫烟岛，二人发现破天品性纯厚，才相信他并非中玉，史婆婆更收他为徒，教他金乌刀法。
+
+中玉率众帮，加上谢烟客，联手救珊瑚等不果，石清夫妇赶至，与中玉相认。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1076</height>
+        <durationinseconds>2762</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E13.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>美欣赏识有康</title>
+  <originaltitle>Episode 26</originaltitle>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id>4575283</id>
+  <uniqueid default="false" type="tmdb">1743628</uniqueid>
+  <uniqueid default="false" type="trakt">3254405</uniqueid>
+  <uniqueid default="true" type="tvdb">4575283</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>秀云对有康与志文为虎作伥之事，一直大力反对。有康因与秀云发生争执后，竟拉拢志文搬出云家，令秀云倍感孤单。
+
+有健刑满前夕，对前途顿生旁徨之感，再加上恐怕倪坤缺乏照顾，内心矛盾不堪。
+
+有健出狱后，眼见家庭已给有康弄至支离破碎，大表伤心，而秀云因拒绝有康经济上的帮助，退休后作粗重工作，有健决收拾心情重找工作，独自照顾秀云。
+
+加敏计划陪其母到马来西亚与父团聚，着有康跟他往该地发展，但有康自觉刚开始在「佳美」攀上高职，不舍放弃多年心血。加敏只好改变主意继续留港。
+
+有康见有健生活艰辛，欲安排他另干高职，但有健坚拒接受。
+
+楚君与有健重逢，内心矛盾不堪，加上她发现有健计划与李华结婚，倍感心酸。
+
+世邦独女美欣自外国学成归来，替父打理业务，她生性心高气傲，虽对有康颇为赏识，但表面却时常刁难，令有康大感尴尬。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1080</height>
+        <durationinseconds>1324</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E26.20181207.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Looking Back In Anger 20181207 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>1207</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1080</height>
+        <durationinseconds>1324</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E26.20181207.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1207" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

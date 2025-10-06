@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 75 集</title>
+  <originaltitle>Episode 75</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>75</episode>
+  <id>431584</id>
+  <uniqueid default="false" type="tmdb">2299489</uniqueid>
+  <uniqueid default="false" type="trakt">1596065</uniqueid>
+  <uniqueid default="true" type="tvdb">431584</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>子凌到泰禾家中探访，却发现不见了他，泰川向子凌说出，兄长因视网膜剥落需动手术。晚上泰禾在医院熟睡时，雅思悄悄的到来探访。青杨见雅瞳刻意埋首工作以忘记启发之死，在买午餐给她时，提议她给自己放假休息。启发好友与雅瞳见面，托她交回怀德私下给予帮助创业的支票，亦令雅瞳得知启发被警方调查的真相。雅言协助长胜集资而风尘仆仆，当她看见长胜为重振声威而废寝忘食，忍不住出言关心，但长胜却爱理不理。雅言回家时遇上雅瞳，姊妹为了启发之事起争执。为了此事，雅言到雅思家向她质问，却刚好被正以摄录机记下外孙样子的筱柔拍到此事。晚上青杨在摄录机上看到女儿的争执，不禁心痛非常。怀德回港后探望青杨，离开时特意与雅瞳单独谈话。怀德代启发将雅瞳遗失了的幸福指环交回给她，亦向她说出启发死前对感情的看法。筱柔误会了当天是与丈夫的结婚纪念日，青杨与英姐惟有隐瞒事实。雅思回家探望母亲，但筱柔竟视她为「客人」。筱柔担心自己的病况将变得严重，青杨只得努力安慰。夜静人深时，筱柔取了青杨的摄录机。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>75_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="75" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

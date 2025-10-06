@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 22 集</title>
+  <originaltitle>Episode 22</originaltitle>
+  <showtitle>老婆大人2</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3668088</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>警方得到证据决定起诉时富到报馆纵火；希敏陪时富录取口供，才知时富曾到报馆后楼梯撒尿后离去。志坚答应时富担任辩护律师，更建议他尽快找出人证；时富否认控罪，但法官拒绝让他保释候审。希敏为父亲到便利店寻找证人，可惜无功而回。秀秀向心理医生说出不满，医生提议秀秀到精神科检查，但遭她拒绝。
+
+希敏几经辛苦终觅得时富曾在便利店买东西的证据，但志坚说出此证据不足令时富脱罪。宝贝无意中偷听到有记者被贵利追债一事，立即通知志坚；志坚要该记者出庭作证却被他拒绝，但志坚略施小计终令他就范。时富终无罪释放，希敏衷心感谢志坚的协助。志坚再向宝怡道歉，两人终和好如初。德云在餐厅内遇上在山约会别的女子，立即上前大骂在山一脚踏两船，经在山解释后德云始知是误会。希敏经司法覆核后证实没有偏私可复职；秀秀得知国光脑内有肿瘤，提议国光向太太隐瞒，国光同意。
+
+时富为怕再连累希敏，决定回乡长住不回香港；希敏决定寻找时富下落，拜托秀秀代为照顾国光与彦祖。秀秀到国光家悉心照顾两人，更开始戴上假发，决心把自己打扮成希敏的模样。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1327</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.Ii.E22.20180620.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Just Love Ii 20180620 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>老婆大人2</showtitle>
+  <season>1</season>
+  <episode>620</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1327</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.Ii.E22.20180620.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="620" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

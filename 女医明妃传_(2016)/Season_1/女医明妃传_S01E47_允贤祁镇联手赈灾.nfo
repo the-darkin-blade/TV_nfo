@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>允贤祁镇联手赈灾</title>
+  <originaltitle>允贤祁镇联手赈灾</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>47</episode>
+  <id>5546389</id>
+  <uniqueid default="false" type="tmdb">1176484</uniqueid>
+  <uniqueid default="false" type="trakt">2159661</uniqueid>
+  <uniqueid default="true" type="tvdb">5546389</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>允贤的闯殿加上英宗的维护使得朱祁钰心中的妒忌和不满更加深了一分，然而他心中对允贤的感情还是没有彻底泯灭，为了施以惩治，他决定将允贤禁足于万安宫内。经此一番，允贤已经彻底对朱祁钰失去了信心，往日的感情也几乎消耗殆尽了。此时的京城之中，却是忽然疫病大起，一时间，疫情迅速蔓延至全城，百姓们纷纷吐血病倒，找不到医治之法。太医院在会民药局的协同之下，迅速采取了行动。然而出乎所有人意料的是，由于党派的争斗，五城兵马司统领白晋竟下令封闭了京师大门，还派人不断砸毁药锅，一时间京城之中哀鸿遍野，尸体遍地。极速蔓延的疫情竟有了进入宫中的势头。面对如此棘手的局面，在皇后与太后的撺掇之下，朱祁钰竟放弃坐镇，产生了独自出逃避疫的念头。离开之前，他还没有忘记着人带上允贤一起，只是用人不淑，他竟将此任务交到了皇后的手上。汪美麟自然不会放弃这个谋害允贤的机会，在她的授意之下划船带领允贤登岛避疫的小太监将所乘的木舟故意破坏，争执之中，允贤与宫女双双落入水中。多亏了过路女医的及时救助，允贤才总算拣回了一条命。允贤明白这是有人不愿自己上岛才有的一番意外。既然无法上岛，那么允贤正好借此机会加入了防控疫情的队伍当中。面对束手无策的太医们，允贤将自己在瓦剌学得的蒙古药方推荐给了大家。在这样危急的时刻，也唯有死马当作活马医了。太医们采纳了允贤的方法，没想到竟真的有了效果。允贤这位贵妃的出现也大大振奋了民心，就这样，在众人的协同努力之下，疫情防治进行得井井有条。关键时刻，英宗又一次及时地出现在了允贤的面前。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E47.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="47" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

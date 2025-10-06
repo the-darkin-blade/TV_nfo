@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:57:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>芳芳为荷里活斩断情丝？</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>难兄难弟</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>1245281</id>
+  <uniqueid default="false" type="tmdb">1728778</uniqueid>
+  <uniqueid default="false" type="trakt">3724954</uniqueid>
+  <uniqueid default="true" type="tvdb">1245281</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>兰撞破奇「走佬」通知源，源马上找他，李奇致电宝珠，想向她讲个明白，明早就会游水返中国大陆，宝珠相信他没有独吞马票奖金。二人忽然听到门外警察劝他们投降，李奇以为宝珠告密，伤心之下打算自首，却发觉原来绑匪三狼的贼窝就在隔离，警方要拉的不是自己。奇发誓没有独吞奖金，源也信他。源向芳求婚，芳答允。罗对芳说有机会去荷里活拍戏，但合约列明不能结婚，源、奇等软硬兼施威迫片商改合约，却搞出「大头佛」。芳决定放弃去荷里活拍戏的机会，与源结婚。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1568</width>
+        <height>1074</height>
+        <durationinseconds>1359</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Old.Time.Buddy.E19.20171205.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Old Time Buddy 20171205 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>难兄难弟</showtitle>
+  <season>1</season>
+  <episode>1205</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1568</width>
+        <height>1074</height>
+        <durationinseconds>1359</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Old.Time.Buddy.E19.20171205.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1205" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

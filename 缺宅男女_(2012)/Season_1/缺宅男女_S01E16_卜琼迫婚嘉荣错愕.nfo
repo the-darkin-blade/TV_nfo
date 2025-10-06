@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>卜琼迫婚嘉荣错愕</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444972</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>嘉乐自与宏瞻发生了关系，感到既内疚又后悔；嘉乐打算到教堂洗礼，希望减轻痛苦，但神职人员却拒绝了她这突然举动，令嘉乐更感失望与无助。嘉乐走到冠峰家见他，要求男友陪伴自己；冠峰以为嘉乐爱得痴缠，未有为意她的反常举动。冠峰向宏瞻汇报股票投资情况，看到宏瞻为销售楼盘而忙个不停，更以为嘉乐的失魂落魄是来自工作压力。
+
+宏瞻发现　情牵嘉乐
+
+采贻多日未见冠峰出现，决定发送电邮给他，希望能助他解决债务问题；冠峰感激采贻关心，于是致电向她道谢，采贻为此心中更是珍惜冠峰这个朋友。另一方面，陈好不断向采贻追问感情问题，不自觉地令采贻增添了不少压力。宏瞻与蔓华欲亲热时，脑海中不停闪现出嘉乐的样子，结果未能全情投入；宏瞻自知嘉乐已占去自己心中一半的地位，对着蔓华亦只感到无奈。
+
+嘉乐辞职　宏瞻挽留
+
+嘉乐担心冠峰有机会知道自己不忠一事，心中整日萦绕百般问题，不禁心烦意乱。嘉乐决定向宏瞻辞职，希望能与他再没有瓜葛关系；宏瞻不舍嘉乐，只好以安抚的方式暂时将嘉乐留在公司。嘉乐分不清未来的方向，亦只有暂且顺从宏瞻的意愿继续留在鼎瞻集团工作。嘉乐对冠峰心中有愧，为了弥补过错，与冠峰更是痴缠，而嘉乐只有依偎男友时才感到有安全感。
+
+嘉安夫妇　无法收楼
+
+嘉安为法庭下禁制令一事与黄氏夫妇对质，黄太表示不想卖楼，更正办理离婚手续，因此紧决不肯履行卖楼合约。嘉安与朗翘看见黄氏夫妇在大庭广众下争吵不休，亦大感无奈。关家各人担心嘉安买楼一事，朗翘坚决不肯放弃单位，但又不想付律师费与前业主对簿公堂，夫妇两人为此大伤脑筋。黄先生夫妇与嘉安夫妇分别接到通知，指单位发生火警；嘉安与朗翘看见黄氏夫妇拼命救火，亦明白两人心中十分在意这个单位。
+
+成人之美　获得赔偿
+
+朗翘不想黄氏夫妇离婚收场，只好答应取消双方的买卖合约；黄先生感激两人的体谅，即愿付十万元赔偿嘉安夫妇的损失。朗翘看见多得了十万元赔偿，即淡然地表示终遇上好心有好报。嘉安送朗翘上班时遇上忠伟，嘉安不想因买楼不成而在忠伟面前失威，故不欲与他交谈更急步离开。笑兰作动更穿羊水，嘉康与美玲急得立即送她到医院分娩；笑兰痛楚难当，要求丈夫送她往私家医院剖腹产子，嘉康只有答允……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1078</height>
+        <durationinseconds>2682</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>16_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

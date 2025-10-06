@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 74 集</title>
+  <originaltitle>Episode 74</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>74</episode>
+  <id>431199</id>
+  <uniqueid default="false" type="tmdb">2299488</uniqueid>
+  <uniqueid default="false" type="trakt">1596064</uniqueid>
+  <uniqueid default="true" type="tvdb">431199</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>因不知启发遇上意外，雅言约见启发的朋友，劝他们回内地发展中药生意，更说可安排让启发偷渡。青杨陪伴怀德到医院，怀德不断自责要启发回港发展，最终令启发遇上意外丧生。哲男为助启发受伤入院，雅思到医院探望。雅思坦言探望之事只是公关工作，不欲将二人不和之事公开，哲男亦反唇相讥，两人不欢而散。怀德决定暂回加拿大探望儿子，泰禾到雅瞳的公司把启发生前曾寄给雅瞳的信件给她，雅瞳终忍不住崩溃痛哭。泰禾约子凌喝酒，他边流着泪边向子凌诉说自己对爱情的冀盼与失望。看到泰禾真情流露，子凌心中百感交集。世万接受访问，提到自己已无心争斗。但他私下竟提出要子凌接近泰川，子凌拒绝更求世万放下仇恨，却遭他掌掴。 子凌在街助人时受轻伤入院，竟遇上世万因中风而入院。婉仪向孙女说出，原来有公司向世万追讨欠债。泰禾发现自己受袭之后视力日渐衰退，但他仍没有打算向雅思说出此事。泰禾得悉原来是雅思的集团欲向世万追讨欠债，主动拜托雅思高抬贵手。泰川为完成兄长欲助子凌的心愿，私下找雅思与她谈条件。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>74_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="74" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

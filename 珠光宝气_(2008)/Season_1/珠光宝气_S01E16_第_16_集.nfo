@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 16 集</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>433887</id>
+  <uniqueid default="false" type="tmdb">2299430</uniqueid>
+  <uniqueid default="false" type="trakt">1595946</uniqueid>
+  <uniqueid default="true" type="tvdb">433887</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雅言向长胜报告，若能邀得着名女歌手叶菲复出演唱，对方将更乐意让出演唱会场地，长胜只得同意。绍铭向哲男辞职，贺峰即时要绍铭回母公司协助自己。长胜突然要众人出发往上海开会，令雅言大惑不解。哲男在上海遇上长胜等人，知道他是前来与王夫人开会，与自己争夺新加坡的赌权。为了争取在新加坡拥有极好人脉关系的王夫人信任，哲男与长胜均努力推销。但长胜得雅言之助，以着名女歌手叶菲复出之事抢得先机。青杨遇上怀德邀请回港作证的老员工福伯，得知福荣当年亏空公款之事，但福伯却突然心脏病发入院。雅思安排名媛拍摄时有名贵鞋失窃，雅思认为是名媛所为与她理论，但却被对方反唇相讥。工作上饱受挫折的雅思不想家人担心，只得私下找泰禾诉苦。青杨发现自己一直错怪怀德而内疚不已，在筱柔支持下，青杨出庭讲述与福伯见面时所知的真相，却被辩护律师所刁难质疑，证供最终被推翻。贺峰得知雅思受到传媒负面新闻打击，特意到艺术馆见她，雅思受鼓励后回复信心。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>16_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

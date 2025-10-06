@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>允贤忆起曾陷害之人</title>
+  <originaltitle>允贤忆起曾陷害之人</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id>5527095</id>
+  <uniqueid default="false" type="tmdb">1176452</uniqueid>
+  <uniqueid default="false" type="trakt">2159638</uniqueid>
+  <uniqueid default="true" type="tvdb">5527095</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>程十三的无耻抄袭大获成功，一时间京城之中竟是一书难求，药膳更是于贵族之中流行起来。在于夫人的整寿宴上，允贤才无意之中得知了此事，惊怒之下她立刻找到程十三理论。村霞也对叔叔的卑劣行径十分不耻，但为了程氏一族的安危，村霞还是拉下脸来向允贤道歉，甚至不惜下跪请求原谅。善良的允贤也不忍心看到师兄如此，心软之下答应给他三天时间撤回书稿，登门谢罪。可是允贤不会想到，自己在与程十三的理论之中竟不慎暴露了自家祖传的七珍归元丸一事。正是通过这点，程十三与汪国公终于得知了允贤的身世。当年谭家献上的御药将太后害得再不能生育，这不共戴天之仇令太后在得知了允贤的身世之后，立刻对她生出了无限的厌恶与仇恨。在程十三的挑拨之下，太后立刻答应了对允贤的再一次陷害。利用允贤对刘妃的诊治，太后将嫔妃小产、谋害皇嗣的罪名栽在了允贤的头上。危急时刻，又多亏了英宗及时驾临。他不惜与太后撕破脸面，也要力保允贤的安全。可是人算不如天算，太后等人使出的李代桃僵之计竟然碰上了世间罕见的斜飞脉，为允贤留下了切实的白纸黑字之据。眼看着阴谋即将暴露，惊恐万分的刘妃竟然临阵倒戈，将太后幕后黑手的真相全盘招认了出来。被当场戳穿的太后立时羞愤难当，可是碍于颜面，她只得咬紧牙关绝不承认，将所有责任都推卸在了程十三与刘妃身上。眼看着程十三就要被治罪，太后顾念旧情之下，还是为他拖延了时间，给了他出宫逃命的机会。得知叔叔的遭遇，村霞走投无路之下只得去向允贤求情，却不想竟无意之中暴露了叔叔虎口处长有胎记一事，而这也自然牵扯出了十几年前的谭家血案。得知程十三真面目的太后当场决定赐死这个卑鄙小人。谁知曹吉祥竟当场拔刀令程十三血溅当场，从未见过如此血腥场面的太后不禁大惊失色，中风昏迷。出乎所有人意料的是，程十三的死竟只是个假象，奄奄一息的他醒来之时已经身处东厂的大牢，而他侥幸生还的原因只是因为王振还想从他口中撬取更多太后的秘密。原本程十三还为了村霞的前程不愿张口，可是在小人眼中，亲情也同样脆弱得不堪一击。曹吉祥简简单单的一番挑拨，便将程十三的心防彻底击破，老老实实地将自己所知全盘托出。恶人全数伏法，允贤的太平药膳方也终于得以出版，受益良多的百姓们对这免费的利民之策都赞不绝口。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1326</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E24.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

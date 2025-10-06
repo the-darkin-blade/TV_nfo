@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>嘉莉推荐淑梅上位</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>使徒行者2</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">4039178</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>欢喜被迫拿出验钞机以证清白，猜Fing不满炮仗故意陷害欲教训他，被欢喜阻止。嘉莉交托淑梅代她到棱智核数，淑梅发觉分行经理谭经理有异，进行跟踪，天堂突然出现眼前，还助她入侵谭经理的电脑。志彬与杨咏再到日本料理店，互相确认心意，正式拍拖。谭经理离任，嘉莉推荐淑梅接任其职务，德信同意。卓凯查到杀手的暗杀计划，赶返会所营救嘉莉，幸有德信在旁挺身保护嘉莉。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2634</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E13.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

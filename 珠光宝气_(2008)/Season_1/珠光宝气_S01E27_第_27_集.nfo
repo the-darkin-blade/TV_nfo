@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 27 集</title>
+  <originaltitle>Episode 27</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id>433898</id>
+  <uniqueid default="false" type="tmdb">2299441</uniqueid>
+  <uniqueid default="false" type="trakt">1595971</uniqueid>
+  <uniqueid default="true" type="tvdb">433898</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>泰禾之弟泰川在意大利进修完毕回港，泰禾接弟弟回家时，竟发觉弟弟私下整容隆鼻。康家众人欢迎泰川，更对他整容之事毫无反对。泰禾安排泰川面试，交际手腕高超的泰川在众同事间得到极好评价。晚上泰川与意大利的同学聚会时，首次认识到子凌，但子凌对他却没半点好感。雅瞳决定放弃当哲男秘书，到日系公司上班。筱柔在宋家与婉仪打麻将后在门外遇上子凌，子凌辱骂筱柔，筱柔反击令子凌收口。筱柔与哲男见面退还贺峰送给雅思的钻戒，而她向哲男说出雅瞳只是一时之气没有答应上班，哲男亦大方释怀。雅瞳到高级餐厅吃饭，世万的三姨太文慧突然出现，当众指责雅瞳勾搭其丈夫。雅瞳万分尴尬下，幸哲男出现替她解围。雅言被急召往见长胜，于是放下工作赶与他见面。但原来长胜只是想雅言陪自己度假，令她不满渐生。筱柔见雅瞳为新公司拼博劝她放弃，想不到雅瞳的公司却被哲男收购了。长胜约青杨与筱柔吃饭却迟到，长胜到达后竟出手阔绰地送厚礼给两人。雅言因身上的花粉令长胜哮喘发作，幸日东出现替他急救。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>27_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

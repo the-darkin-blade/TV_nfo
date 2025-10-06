@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:32 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 21 集</title>
+  <originaltitle>Episode 21</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id>433892</id>
+  <uniqueid default="false" type="tmdb">2299435</uniqueid>
+  <uniqueid default="false" type="trakt">1595955</uniqueid>
+  <uniqueid default="true" type="tvdb">433892</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>早上雅言发现日东已在酒店大堂，原来他为了观察被少好打伤的老翁而通宵留守。青杨发现泰禾在自己家中，明白他想与工干两星期后回港的雅思见面，因此鼓励他到机场接雅思。雅思见泰禾的出现表示高兴，但却说出要回公司，只请他将行李送回家。苇庭赞赏雅思表现，更欲重用她。哲男开会时，发现贺峰正出发到其公司，为了躲避父亲在街留连的哲男遇见雅瞳，两人吃午饭之际，哲男得悉她回复单身后，坦言说出替她高兴。雅瞳的旧朋友因情困找她商量，雅瞳替她解决事情后得到启发，欲设计出意念独特的结婚戒指，更得青杨支持。泰禾特意找雅思见面，说免费得到女高音演唱会门券欲约她观赏，但被拒绝。原来因为贺峰早约了雅思，他更包了整个会场来看该位女高音的表演，而两人更正式成为情侣。雅言得悉长胜再次承办叶菲的复出演唱会，竟提出减人工重新加入公司。雅言从日东处得悉，长胜为再得到此计画，不惜向王夫人卑躬屈膝。雅言得悉后大为感动，更主动约会长胜更欲替他煮晚餐，却只弄得厨房满目疮痍。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>21_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

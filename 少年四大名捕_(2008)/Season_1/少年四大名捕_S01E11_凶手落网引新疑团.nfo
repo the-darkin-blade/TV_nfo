@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>凶手落网引新疑团</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>少年四大名捕</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>2305641</id>
+  <uniqueid default="false" type="tmdb">389786</uniqueid>
+  <uniqueid default="false" type="trakt">398210</uniqueid>
+  <uniqueid default="true" type="tvdb">2305641</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>犯人被捕，当审问时，这人说出自己只是渔民，因得到一箱武器才会犯事。神捕司众带犯人到家取那箱武器时，却突然遭人暗算，整箱武器更被夺走。原来是蔡京派人夺取武器，而他更证实这批就是成鼎天当年打做的兵器。嫣红约正我见面，欲提点他飘雪可能是内奸；但当正我与嫣红跟踪飘雪时，终发现……
+
+无情觉得对成家的武器似有印象，为寻找成家被灭门之事，私下到寺中调查却一无所获；原来是无戏派人通知住持请他隐瞒。蔡京约见落石父子鉴赏成家的武器，实则是威迫落石尽快统一江湖。
+
+若飞发现帮众陈九与飞虎帮的少帮主在街上打架，气愤下将他赶出帮会。落石父子发现受伤的少帮主；为挑起与蓝天帮纷争，落石竟杀害他而嫁祸给蓝天帮。
+
+落石假意代飞虎帮出面向破天要人，但实则欲要两帮相残；当两帮正大打出手之际，神捕司却介入平乱。又借此理由，要小骨到处捣乱蓝天帮的地盘；为阻两帮当街火并，铁手将若飞与小骨同时拿下押回神捕司。铁手将若飞与小骨押回神捕司后，破天与落石分别派人马到神捕司要求放人；</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2679</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Four.Ep11.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

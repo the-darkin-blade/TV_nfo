@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>璎珞花园偶遇皇后</title>
+  <originaltitle>璎珞花园偶遇皇后</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id>6776886</id>
+  <uniqueid default="false" type="tmdb">1556730</uniqueid>
+  <uniqueid default="false" type="trakt">3101713</uniqueid>
+  <uniqueid default="true" type="tvdb">6776886</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>张管事来视察工作，看到璎珞把恭桶刷的十分干净，刚表扬了她，甚至想让她去做一些轻松的工作，就有人来对他耳语，他脸色一变，又将璎珞骂了一顿。离开时看到袁春望，张管事对他动手动脚，被璎珞看在眼里。张管事对袁春望别有所图，趁璎珞送饭的机会下药，幸好璎珞及时回来，打晕了张管事。璎珞与袁春望合力将张管事塞入粪车，伪造他偷偷出宫的假象。半夜，璎珞听宫女们哭诉张管事的恶行，心生厌恶，打算斩草除根，结果撞上袁春望。之后，璎珞在宫中除草劳作时，皇后经过宫中甬道时看到她被嬷嬷责罚却目不斜视无动于衷，璎珞心情复杂。随后，袁春望因为和璎珞一起处置了张管事，跟他十分亲近，口无遮拦让璎珞十分恼恨，璎珞与他针锋相对，两人在争执中互相依靠，反而变得更加亲近。</plot>
+  <runtime>42</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2558</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep29-Ep30.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>重阳宴皇后遇险</title>
+  <originaltitle>重阳宴皇后遇险</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id>6776892</id>
+  <uniqueid default="false" type="tmdb">1556731</uniqueid>
+  <uniqueid default="false" type="trakt">3101714</uniqueid>
+  <uniqueid default="true" type="tvdb">6776892</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>众人纷纷躲避蝙蝠的攻击，无暇顾及其他。娴妃一直护着太后，引来太后对她的关注。皇后在慌乱中与明玉分开，高贵妃趁乱将皇后推下御景亭，并自伤了手臂。皇后掉下高台，流产昏迷。高贵妃却以右臂受伤为名，成功避开众人的怀疑。皇上龙颜大怒，明玉战战兢兢，被尔晴劝离长春宫，免得被皇上迁怒。傅恒听到消息后，跟海兰察一起赶到长春宫。傅恒担心皇后，进去探望，海兰察看到明玉一脸自责，出言安抚。明玉思考再三，决定去向璎珞求援。太后见皇后昏迷不醒，高贵妃又受了伤，就将管理后宫的事情交给了娴妃。辛者库内，璎珞看到明玉慌慌张张赶来，叫住她大概了解情况后，猜测一切都是高贵妃所为，拉着明玉一起回长春宫探望皇后，谁知在门口遇到了太医和傅恒，停下脚步，一口回绝了明玉，更与长春宫划清界限，令众人对她误会重重。傅恒闻言不愿死心，追了上去，璎珞故意在他面前流露出对皇后的恨意，傅恒惊疑不定。</plot>
+  <runtime>42</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2558</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep29-Ep30.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

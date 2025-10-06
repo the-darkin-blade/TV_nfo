@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:57:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 16 集</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>难兄难弟之神探李奇</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1938549</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>芳芳请谢四帮忙洽谈签约事宜，其后还聘请他当经理人。谢四献计以「香口胶女郎，凤凰传说」作宣传口号，果然大受欢迎，还成立了歌迷会。Lina不忿芳芳唱片销得，自资出唱片，可惜无人问津。
+
+邵聪与一自称陈铁坚的中年女人约会，原来她是芳芳的亲生妈妈，希望见芳芳一面，邵聪无奈答应。
+
+芳芳难以接受铁坚是自己生母的事实，铁坚感心酸。邵聪道出当年铁坚是位歌女，遇人不淑而生下芳芳，然后独自到南洋找负心汉。芳芳恨她不负责任，拒绝相认。
+
+老鼠叔四处涂鸦，还写上黑玫瑰的生平事迹，雷劲和李奇争相寻找他收料，幸好双双与宝珠早一步将他送返大陆居住。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1078</height>
+        <durationinseconds>1354</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Old.Time.Buddy.To.Catch.A.Thief.E16.20180104.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Old Time Buddy To Catch A Thief 20180104 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>难兄难弟之神探李奇</showtitle>
+  <season>1</season>
+  <episode>104</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1078</height>
+        <durationinseconds>1354</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Old.Time.Buddy.To.Catch.A.Thief.E16.20180104.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="104" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

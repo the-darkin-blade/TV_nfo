@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 30 集</title>
+  <originaltitle>Episode 30</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id>433901</id>
+  <uniqueid default="false" type="tmdb">2299444</uniqueid>
+  <uniqueid default="false" type="trakt">1595979</uniqueid>
+  <uniqueid default="true" type="tvdb">433901</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>苇庭担任评判的创业真人骚正式开始，除子凌外，泰禾与泰川亦获选为参赛者，他们更被编入同一组。泰禾参加节目演出而影响工作，其他员工因泰禾要临时放假受到影响，因此不满而投诉，但青杨与怀德则努力替泰禾说好话。第一场比赛在星期天早上正式开始，苇庭交予两队伍各五万元，要他们在十二小时内将这五万元作资本赚钱。子凌提出在网上拍卖限量版名牌手袋，但最终却没法从朋友手中取得该手袋作拍卖。泰川则因判断错误，竟购入冒牌货而导至队伍蚀钱。泰禾最终想出办，但仍没法力挽狂澜，队伍败阵更令一人被淘汰出局。雅瞳发现哲男借公事带自己到上海约会，大感不满更提出要划清界线，强调只是朋友关系。雅瞳在酒店吃早餐时遇上怀德，怀德以自己往事鼓励她不要因怕受伤，而放弃丰富自己人生的机会。回到香港后哲男再要求雅瞳一起赴宴，雅瞳误会他重施故技欲辞职。宴会上雅瞳听到助养的山区女孩遇难消息，伤心不已的她，终向哲男说出心底话。另一边厢，贺峰与雅思竟以夫妇名义一起回港。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>30_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

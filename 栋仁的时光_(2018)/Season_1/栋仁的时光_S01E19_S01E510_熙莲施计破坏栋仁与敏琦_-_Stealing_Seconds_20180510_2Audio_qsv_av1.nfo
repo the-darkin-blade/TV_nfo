@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>熙莲施计破坏栋仁与敏琦</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>栋仁的时光</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1512544</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>光酥伯伯揍了栋仁一顿，要求他赔偿所失，栋仁未有说出真相。熙莲提出建议说可替他取回失去的。飞毅失去三项铁人赛的宣传工作，请栋仁援手，栋仁宣布正式辞职。栋仁得知德琛曾报名参与三项铁人赛，决定替他参赛完成心愿。比赛日，栋仁临近终点时体力透支倒地……光酥伯伯表面上原谅了栋仁，其实是配合熙莲的计谋，不过光酥伯伯重拾完整记忆，才知错怪好人。敏琦终解开心结，接受栋仁并主动吻他，此时熙莲竟拿着电枪袭击敏琦……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stealing Seconds Ep19 20180510 Hdtv 720P X264 2Audio_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Stealing Seconds 20180510 2Audio qsv av1</title>
+  <originaltitle/>
+  <showtitle>栋仁的时光</showtitle>
+  <season>1</season>
+  <episode>510</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stealing Seconds Ep19 20180510 Hdtv 720P X264 2Audio_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="510" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

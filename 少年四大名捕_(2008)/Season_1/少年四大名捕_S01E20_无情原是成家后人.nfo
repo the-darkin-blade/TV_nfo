@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>无情原是成家后人</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>少年四大名捕</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>2305741</id>
+  <uniqueid default="false" type="tmdb">389795</uniqueid>
+  <uniqueid default="false" type="trakt">398219</uniqueid>
+  <uniqueid default="true" type="tvdb">2305741</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>无情偕芷妍再次探访行空寺住持，终从他口中得悉自己乃成家后人。虽有大连盟与神捕保护，太监童贯终被杀手偷袭击毙；但众人在童贯身旁，觅得可洗脱铁手嫌疑的竹简。但小骨说出朝廷已颁下密令提早处决铁手；幸追命以轻功拼命赶路，将证据与尸首带给无戏，及时阻止铁手成为刀下亡魂。
+
+铁手险死还生，家人更劝他早日与若飞成亲；无情质问正我为何隐瞒自己的身世，正我解释不想让无情背负成家血海深仇成长外，亦怕江湖中人得悉有成家后人在世，会为争夺成家的武器追踪而至。正我亦向无情说出坚信成、霍两家应是被人设计陷害而互相残杀。
+
+冷血成功追踪到凶手，众捕快前往追捕时，想不到芷妍亦已派人追杀该人。凶手刚打退芷妍等人，铁手亦刚赶至与他大战；但几轮交手后，竟发现他是昔日教导自己武功的师傅。
+
+原来凶手就是铁手的哥哥霍正；当年为了逃避追捕，他虽觅得弟弟亦不敢与铁手相认。无情与铁手向正我质问是否早知两人身世，正我只得说出真相。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1080</height>
+        <durationinseconds>2674</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Four.Ep20.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

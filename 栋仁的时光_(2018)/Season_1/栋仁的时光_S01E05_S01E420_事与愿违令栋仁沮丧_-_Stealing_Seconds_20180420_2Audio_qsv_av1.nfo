@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>事与愿违令栋仁沮丧</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>栋仁的时光</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1512530</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>栋仁义助望天的秘书叶雅诗，引来好感，让他初尝恋爱滋味，意外的一吻得知对方渴求天长地久的恋爱，自知未能做到。栋仁辞职后不断为潮岸及茵茵发声，顶撞尚姿，又连累飞毅被冷待，却发觉心中所想与现实有很大落差。熙莲在工厦开设钢管舞室，栋仁为完成学习新兴运动的心愿报名。敏琦要求瑞楠交出咖啡室锁匙，想起咖啡室是德琛心血，表明不能放弃。敏琦收到德琛预早为她准备的惊喜，忆起与德琛的缘分及求婚一刻，后悔之前错怪了他。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stealing Seconds Ep05 20180420 Hdtv 720P X264 2Audio_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Stealing Seconds 20180420 2Audio qsv av1</title>
+  <originaltitle/>
+  <showtitle>栋仁的时光</showtitle>
+  <season>1</season>
+  <episode>420</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stealing Seconds Ep05 20180420 Hdtv 720P X264 2Audio_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="420" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

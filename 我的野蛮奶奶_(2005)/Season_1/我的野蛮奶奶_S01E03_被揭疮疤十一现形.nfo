@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:53:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>被揭疮疤十一现形</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>我的野蛮奶奶</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>2624241</id>
+  <uniqueid default="false" type="tmdb">2500800</uniqueid>
+  <uniqueid default="false" type="trakt">1434720</uniqueid>
+  <uniqueid default="true" type="tvdb">2624241</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>十一被揭文盲秘密，铄兰要求茂春休妻，十一瞬即还击指铄兰犯上七出之条，令铄兰哑口无言。十一被揭疮疤后原形毕露，但茂春与甯老太却欣赏十一的率直，令十一心中有愧。
+
+振灾慈善会终于如期举行，铄兰有感十一目不识丁，害怕失礼人前，结果将十一锁进房内，但十一为夺皇爷令牌救父使计出席，席间更不慎弄破铄兰衣裙，令铄兰不能与王爷合奏，十一唯有代替上阵。突然侠盗「不留名」出现，指皇爷为富不仁，要洗劫慈善会。混乱间，「不留名」救走十一，十一道出自己身世，「不留名」教她只要赢得御前表演比赛，就可以要求特赦山贼等人，原来「不留名」正是茂春本人，更对师傅表白开始爱上十一。
+
+十一决定依「不留名」建议参加御前比赛，更为讨好铄兰冒雨长跪道歉。另边厢，茂春两叔父竟然下注十一输掉御前比赛，铄兰为免十一失礼于人前，反对十一参赛……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:08</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2690</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Wars.Of.In-Laws.Ep03.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

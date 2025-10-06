@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 19 集</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>上海滩续集</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2493304</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>云志失踪的消息传来后，力立刻派祥贵等追查他的下落，但每当祥贵等查到一些可以提供消息的人物欲向他们调查时，他们均被杀死。丁力得到消息，知道云志乃是乘黄包车离开云志家的，便悬红找寻那车夫，岂料，当车夫致电力，告知自己的下落后，亦为人所杀。
+
+另一方面，祥贵与云志仍保持联络，而祥贵却与流氓洪合作，讹称云志已远赴欧洲，骗了力万多元。与此同时，祥贵由地产转名契上查知云志乃匿藏于意大利领事馆中，向力报告，力遂派杀手暗杀云志，却反被云志所杀。祥贵唯利是图，转而助力杀云志。力知云志喜欢桌球这种玩意，遂于桌球安装炸弹，由祥贵引云志上当。岂料，力将云志快死之消息告诉汪，汪却转告已返回上海的朱，由于朱对云志亦未彻底心死，迅速赶往告诉云志。云志不知底蕴，为祥贵所骗而憎然不知，而力之计划亦成功在即了。</plot>
+  <runtime>38</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1076</height>
+        <durationinseconds>2300</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E19.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

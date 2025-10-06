@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>允贤妙手救郡主亦被识破身份</title>
+  <originaltitle>允贤妙手救郡主亦被识破身份</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id>5540381</id>
+  <uniqueid default="false" type="tmdb">1176463</uniqueid>
+  <uniqueid default="false" type="trakt">2159646</uniqueid>
+  <uniqueid default="true" type="tvdb">5540381</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>允贤所在的俘虏营中，忽然迎来了一位神秘的萨满，名曰寻药竟要剖出人的心脏为郡主急救。一时间，为了保护同伴的俘虏们与瓦剌人打成一片。此时，又是挺身而出的允贤挽救了所有生死边缘的同伴。允贤绞尽脑汁，利用手中仅有的材料制成了一道“灵药”，将状若疯癫连程十三都放弃了的郡主硬是拉回了死亡线。允贤那一颗纯粹的医者之心令她即使面对生病的敌人，也是一视同仁，全力以赴。经次一番，也先也终于发现了允贤的女子身份，更认出了这位曾救过自己一命的“活观音”。为了感念她的救命之恩，也先答应了允贤面见英宗的要求。历经生死磨难的允贤与英宗终于相逢，这无边苦难中的唯一慰藉让两个人都体会到了连日来的第一次欣喜。此时为了鼓励英宗，允贤与他约定生死与共，努力活到逃出瓦剌，重返大明的那天。对于允贤这个医术超群又性烈如火的小女子，一向热爱征服的也先大感兴趣。借由允贤照料英宗的愿望，也先更是顺势将这个有趣的小女医留在了自己身边。此时的大明朝堂也正为了瓦剌来袭的消息而焦躁混乱着。胆小如鼠的汪国公竟想出了弃都逃跑，避难南京的主意。多亏了于东阳的极力劝诫，才总算暂时止住了如潮水般涌来的无耻附议。尽管刚愎自用，但此时的太后却展现出了她最为伟大刚强的一面。在她心中，即便倾尽天下之力，也要保住京师，保住朱氏王庭。太后的动情高呼也深深地打动了郕王，他郑重宣誓必定与北京城共存亡。另一边的瓦剌王庭中，允贤顺利地收服了天真烂漫的脱不花郡主，更从她那里为同伴们争取到了许多的麦谷粮食。可令允贤做梦也没有想到的是，她无时无刻不在关心保护着的同伴竟在她回归之时狠狠地在自己心上插了一刀。来在得知允贤的女子身份之后，迂腐无知的士兵们仿佛忽然为大明的失败找到了理由。对女子根深蒂固的偏见令他们将兵败被俘的责任通通怪罪在了允贤头上，将她视作了不详的扫把星。过去的并肩奋斗与允贤的救命之恩也全然被抛在了脑后。看着允贤泪眼朦胧的委屈模样，一旁的英宗也不禁心痛难当。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1317</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E32.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>笑兰建议骗综援</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444968</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>嘉安一觉醒来忽感腰痛，朗翘劝丈夫往找医生诊治，但嘉安却不以为然。朗翘欲争取时间温习考试，故常提早回到银行看参考资料；放工时，各同事相约一起去喝酒消遗，但朗翘却以温习为由推却应酬。忠伟看朗翘在银行上网温习，才得知她为了省钱而没有在家中安装电脑。朗翘与嘉安到茶餐厅吃饭时，朗翘又拿出饭盒将饭菜留下部分作翌日午餐，嘉安看在眼中，心中满是歉意。
+
+嘉安为妻　觅得电脑
+
+朗翘收到女儿来电，母女两人只能凭电话沟通，嘉安明白碍于情势而令母女分离，亦大感无奈。朗翘上班时看见Annie竟在晚上消遣的地方也能找到客户，对自己更没信心。嘉安为朗翘找来一台二手电脑，但刚刚开机便立刻坏掉，令朗翘空欢喜一场。宏瞻到「嘉楠道10号」视察工程进度，宏瞻与嘉安闲谈时，得悉嘉安并没有接下新的装修工作，即建议他应自己开设公司。
+
+冠峰发现　被人偷拍
+
+宏瞻明言嘉安年纪渐大，总不能每每只靠体力劳动赚钱，嘉安觉得宏瞻所言甚是，却又拿不定主意。宏瞻到大学找采贻，打算与妹妹一起回家；但采贻表示要四出拍照片来做功课。
+
+采贻独自在热闹的都市中拍照，竟让她发现了一对有趣的情侣，采贻立即将两人的一举一动都偷拍下来；冠峰突然感到好像有人在偷拍自己，却又找不到偷拍者在何方，甚感奇怪。
+
+笑兰不满　被人讽刺
+
+原来采贻所偷拍的情侣正是冠峰与嘉乐，更觉甜蜜的两人是很好的拍摄题材。嘉乐因加薪幅度理想而多给了家用，笑兰听到各人谈论金钱问题时，即要嘉康回房陪她睡觉；笑兰在嘉康面前指嘉乐等人有心讽刺他俩没有收入，更提议嘉康与自己假离婚以骗综援金，嘉康觉得妻子的想法离谱，要笑兰打消念头。
+
+嘉康与朋友百爪余聚旧，百爪余告知嘉康有欧洲客人欲要电子零件，却又找不到门路购买。
+
+嘉康决定　转卖图利
+
+嘉康闻得能赚上丰厚利润，不禁为之心动。百爪余离去后，嘉康觉得机不可失，即主动向货主陈信示好，表示需要一批电子零件。陈信爽快地表示可带嘉康到他的厂房参观，嘉康感到自己终于遇上贵人，高兴不已；嘉康随陈信参观出品后，即要求百爪余助自己联络该欧洲客户。嘉康为求尽快完成交易，一方面收取了欧洲客户的订金，另一边厢则立即存钱给陈信请他生产货品，希望在短时间内赚取利润……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1914</width>
+        <height>1072</height>
+        <durationinseconds>2687</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>12_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

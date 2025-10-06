@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 17 集</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>老婆大人2</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3668083</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>时富发现只得自己被蒙在鼓里，因此认为希敏嫌弃自己；希敏见时富没有动静反觉安心。德云要时富与记者合作要医院赔偿，但时富表示放弃。秀秀带希敏拜祭亡母，希敏知当年因时富发现秀秀没有血缘关系后抛妻弃女，更不想与时富相认；时富偷偷到幼稚园探望彦祖。
+
+国光发现此事，大方让时富与彦祖到公园玩耍，可惜两人同因对花粉敏感而被送院治理。希敏赶往医院，指国光不应让儿子与时富见面，时富无意中听到感心痛。志坚安排国光到协助调解协会当专家顾问，为雇主及雇员作庭外调解；国光凭冷静与耐性，终完成工作。时富思前想后终决定改掉恶习，希望女儿会对自己改观；希敏在书店闲逛时，看见时富将图书放入袋中，竟通知店员指时富偷书。志坚与宝怡被唱作组合渔夫邀请出席保护古树之音乐会，两人答应支持。
+
+宝怡生日当天期望会与志坚有个难忘约会，但志坚竟带她参加保护古树抗议行动。因抗议行动引起混乱，宝怡被牵连入伤人案中，检控处要她暂停所有工作。希敏指责宝怡，令她离家出走，国光亦因此与希敏吵架。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1327</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.Ii.E17.20180613.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Just Love Ii 20180613 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>老婆大人2</showtitle>
+  <season>1</season>
+  <episode>613</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1327</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.Ii.E17.20180613.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="613" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

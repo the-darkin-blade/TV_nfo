@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:04 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>突被封楼无家可归</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444971</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宏瞻眼见嘉乐为债项问题烦恼，即教她连串的解决方法；但嘉乐认为冠峰会因为自尊心而不接受宏瞻的帮助，宏瞻了解后便决定以另类的方法出手协助。嘉乐与冠峰吃饭时，将宏瞻想找投资顾问一事告知男友，冠峰被嘉乐游说一番后，决定亲自向宏瞻自荐；宏瞻细听冠峰对有机食品股的分析后，提出将一笔资金给冠峰投资，而宏瞻更指明这是对他的一个考验。
+
+理想新居　火速签约
+
+嘉安与朗翘积极地四出找新居所，终从地产经纪介绍下找到一合适又超值的楼房，朗翘为免夜长梦多，立即签下临时买卖合约。嘉安与朗翘的美梦成真再可成为业主，不禁对未来充满希望。嘉安事业与家庭也事事如意，意气风发到银行接朗翘下班，更邀请朗翘的同事参加新居入伙时的派对。嘉安与朗翘到家俬店，看见琳琅满目的货品大为兴奋；朗翘认为自置物业必定不能马虎装修，决定挑选品质最好的家俬。
+
+卜琼不舍　再次示爱
+
+嘉荣自向卜琼拒绝爱意后，不停地逃避与卜琼接触，以免双方感到尴尬；但工作时，嘉荣却无可避免地要与卜琼对话，嘉荣见卜琼表现得若无其事，也不禁暗赞她大方。下班时，卜琼主动找嘉荣交谈，卜琼的一番询问下，她竟认定嘉荣其实对自己仍有感情，嘉荣只得连忙否认，但卜琼这时已主动拥抱着嘉荣，令他不禁呆立当场。
+
+冠峰成功　清还债项
+
+嘉康的债主愿意庭外和解，嘉安与朗翘又置了新居，关家各人为一洗颓气而高兴不已。宏瞻召见嘉乐，他把一张五十万的支票予嘉乐，说明是因为股票赚钱而分给冠峰的佣金；嘉乐紧握支票高兴得激动不已，更感激宏瞻一次又一次的相助。冠峰终清还所有债项，于是与嘉乐大吃一顿以庆祝。冠峰告知嘉乐遇上好运，原来有幕后大户大手把他早前推介给宏瞻的股票推高价位，才令冠峰赚上丰厚利润。
+
+嘉乐得知　宏瞻恩泽
+
+嘉乐在公司遇上宏瞻，即向他查问有关股票暴升一事，宏瞻淡然地向她解释，嘉乐听得既错愕又动容。嘉乐不欲欠宏瞻这么大的恩情，宏瞻反而表示没有想过要嘉乐的报答，更指因要赶回国内看楼盘而向她道别。嘉乐目送宏瞻的坐驾远去，心中感觉复杂。嘉安一家人到新居验楼，嘉安与前屋主正式交收，朗翘拿了新居门匙后雀跃万分，心中即盘算将来能与女儿一起居住的美好生活。
+
+嘉安入伙　即被迫迁
+
+Mike愤然责骂嘉乐将两个新楼盘书的资料错调，看见自己犯下重大错误，嘉乐难辞其咎……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1078</height>
+        <durationinseconds>2686</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>15_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 42 集</title>
+  <originaltitle>Episode 42</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>42</episode>
+  <id>433912</id>
+  <uniqueid default="false" type="tmdb">2299456</uniqueid>
+  <uniqueid default="false" type="trakt">1596017</uniqueid>
+  <uniqueid default="true" type="tvdb">433912</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>世万向世基诉苦，说青岛的发展计画因国家执行了的新环保措施而影响利润，最后两人决定解雇现在承包的排污公司，再聘新合作夥伴。世万因留在青岛而没法出席四姨太卓凝的硕士毕业礼，为此卓凝有机会与旧情人聚旧。长胜发现此事，只得提醒这位世万的四姨太要顾及自己身分，莫与别的男子过从甚密。世万提醒世基，要好好处理与身为贺峰外父的青杨之关系，于是世基邀约青杨吃饭，主动向他为前事道歉，更说出将购买一条价值五百万的钻饰。泰禾提醒师父小心，但青杨却认为没有问题。青杨发现启发不再露宿在天桥底，因此向太太问及是否曾私下见过启发。筱柔坦言说自己曾告诫启发，因这是母亲照顾女儿的责任。哲男回港后向雅瞳说出，有公司极欣赏雅言，欲请太太安排雅言与该公司见面。雅言出席时，竟发现长胜亦在该地方出现，原来这一切都是哲男的安排。之澄的集团突然搁置与长胜的合作，雅言从日东处得悉事件的来龙去脉后，主动找之澄替长胜解释。世万约长胜见面，欲请长胜接手青岛排污工程，之后长胜被袭击受伤入院，坊间传言是哲男所为。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>42_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="42" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

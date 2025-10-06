@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>嘉安要求妻子保守秘密</title>
+  <originaltitle>Episode 24</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444981</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>嘉乐被蔓华痛斥后，羞愧得漫无目的地在街上游荡，脑中不停响起蔓华责骂自己的声音。嘉乐想起了自己与宏瞻种种的快乐时刻，泪水不停流出，感到又痛苦又委屈。宏瞻早上回到公司便看见嘉乐的辞职信，发现嘉乐将宏瞻所送的钻石颈链一并奉还，明白嘉乐要与自己划清界线。嘉乐决心要避开宏瞻，决定搬回美玲家暂住，笑兰见状大感不妙。
+
+笑兰担心　嘉乐长居
+
+笑兰惟恐嘉乐搬回美玲家后会长居，即语带嘲讽地指嘉乐不应为小事与冠峰分手，嘉乐因旧事被重提而伤心不已。美玲虽不知女儿因何要搬回家中暂住，但对爱女还是照顾有加，令嘉乐再次感到窝心的温暖。嘉乐在母亲的关心开解下，终令一直抑压的情绪崩溃，拥着美玲痛哭。冠峰多天未有在公司与嘉乐相遇，于是向Daisy打听，终得知嘉乐辞职一事。
+
+嘉乐离职　冠峰担心
+
+冠峰担心嘉乐，再到关家楼下等候她；嘉乐看见冠峰出现，既愕然又紧张，嘉乐把离开宏瞻的决定淡然地告诉冠峰，冠峰听后心情矛盾。宏瞻回到家中发现蔓华把钻石颈链扯断，不禁心下一沉；蔓华终按捺不住直指宏瞻与嘉乐有染；宏瞻表明对妻子的重视，会不分彼此爱护两人，蔓华被宏瞻的歪理气得双目通红。卜琼收到房委会通知面试，立即通知嘉荣。
+
+为得公屋　强迫辞工
+
+卜琼得悉两人的入息总额超过申请公屋的上限，即以自己人工比嘉荣高为理由，要他辞掉会所的工作，嘉荣不满，拒绝辞职；卜琼私下代嘉荣向经理请辞，当嘉荣得悉后反客为主，反令卜琼失去工作，让她气恼不已。朗翘为嘉安的官司担心非常，嘉安请妻子不要在美玲面前透露自己犯上官非一事。笑兰心直口快，差点在席间说出了嘉安秘密。嘉乐觉朗翘心神彷佛而感不安，于是请朗翘饭后一起散步，更追问朗翘为何心烦。
+
+蔓华宏瞻　关系恶劣
+
+朗翘终将嘉安会被控接赃一事和盘托出，嘉乐才明白事态严重。嘉乐惊惶失措下只想到宏瞻能相助解决问题，但当想到又要与宏瞻接触，不禁又再犹豫。
+
+宏瞻突然看见嘉乐出现，立即紧张得拉着她，指不让嘉乐再离开；当宏瞻看见嘉乐委屈的样子，明白她又再遇上难题而不得不与自己相见。蔓华念及多年夫妻感情，仍希望宏瞻能回到自己身边，遂苦心劝丈夫放弃嘉乐，但她发现宏瞻并不打算放下与嘉乐的感情，夫妻关系变得更为恶劣。
+
+为助嘉安　丁海自首
+
+丁海从内地回港，好友们把嘉安犯上官非一事相告，丁海才明白自己闯下大祸……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1078</height>
+        <durationinseconds>2688</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>24_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

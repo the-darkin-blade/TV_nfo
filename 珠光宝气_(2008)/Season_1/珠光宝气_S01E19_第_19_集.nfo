@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 19 集</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>433890</id>
+  <uniqueid default="false" type="tmdb">2299433</uniqueid>
+  <uniqueid default="false" type="trakt">1595950</uniqueid>
+  <uniqueid default="true" type="tvdb">433890</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>凭着福荣写的退股书之助，怀德终胜出官司，终于清醒的雅瞳亦搬回家，更衷心向母亲道歉。筱柔正安慰女儿之际，启发竟在楼下叫嚣，筱柔忍不住与他当面对质，要他面对现实。因启发败诉，长胜决定停止对他的经济资助及收回他的一切，启发受不了此事而袭击长胜，最终更被警方拘留。启发为得到长胜支持，跟随他上游艇更甘心像小丑般被玩弄，同行的雅言因此得悉长胜是援助启发的幕后支持者。长胜为了拉拢王夫人，决定将叶菲开办复出演唱会计画全权送予王夫人，雅言得悉后即时提出辞职。苇庭决定将贺峰在布吉度假村开幕典礼的联络工作交予雅思，令她大喜过望。启发与好友大鱼大肉后却发现没钱，被亲友离弃外更被打，雅瞳竟出现帮助他。苇庭与贺峰对雅思在布吉的工作大感满意之时，世万的三姨太文慧因得知世万与二姨太在度假村，因此突然自香港赶到开幕典礼的会场，雅思用尽方法令她不与二姨太碰面。晚上，文慧为报复特意作弄雅思，贺峰把一切都看在眼中。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>19_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

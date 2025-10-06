@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 4 集</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>433784</id>
+  <uniqueid default="false" type="tmdb">2299418</uniqueid>
+  <uniqueid default="false" type="trakt">1595913</uniqueid>
+  <uniqueid default="true" type="tvdb">433784</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>哲男正与新女伴享受晚餐之际，长胜竟突然一身侍应装扮出现，他说因赛艇败阵，特意服侍哲男进餐。替哲男打理游艇兼为赛艇高手的游日东，与众昔日一起学厨的师兄弟饭聚后，竟遇上长胜。长胜原来曾学厨亦是日东的师兄弟，两人在长胜家畅谈旧事，长胜更以同门之谊请他协助自己。哲男得悉日东欲辞职协助长胜，主动挽留他却不果。志球的经济状况变坏，雅思为了掩饰没钱买鞋，不惜扮作脚伤不能穿高跟鞋。青杨听到消息有珠宝店欲顶让，虽心动但资金不足。志球从筱柔的口中得知此事，竟说乐意合股注资，令她大感安慰。泰禾努力游说青杨回公司复职，但因青杨欲开店而不为所动。富添致电给雅言约见，但雅言为了与长胜商讨有关旗下演员拍戏之事，宁推迟与富添的约会，但最后却被长胜作弄令她掉进泳池。看到浑身湿透狼狈非常的雅言，富添忍不住说对她将工作放于家人之前的态度大感失望，更提出分居。大受打击的雅言看到醉倒的长胜，竟忍不住用高跟鞋痛殴他。筱柔与雅瞳得知志球和雅思骗了青杨的金钱私用，只好提出隐瞒暂不让青杨知道真相。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>珠光寶氣.The Gem Of Life.2008.Ep04.1080I.Hdtv.H264.Ac3.2Audio_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

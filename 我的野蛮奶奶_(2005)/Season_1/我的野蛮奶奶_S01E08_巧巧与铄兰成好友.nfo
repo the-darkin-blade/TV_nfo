@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:53:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>巧巧与铄兰成好友</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>我的野蛮奶奶</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>2624291</id>
+  <uniqueid default="false" type="tmdb">2500805</uniqueid>
+  <uniqueid default="false" type="trakt">1434731</uniqueid>
+  <uniqueid default="true" type="tvdb">2624291</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>某日，巧巧在街头救了铄兰一命，二人顿成莫逆。铄兰向巧巧道出皇上近日沈迷由逊妃呈上的西洋玩意而怠政，巧巧献计呈上腐乳给皇上，向皇上劝谏黄河灾情和百姓的苦况。
+
+另边厢，自从法华寺事件后，十一对「不留名」念念不忘而冷落了茂春，他唯有加倍关心十一，以致忽略绣坊工作令生意受损，十一非但不感动，还指责茂春是「蛀米大虫」，没有男子气概。茂春唯有再化身成「不留名」，向十一吹嘘自己「悲惨」的身世，证明自己是一个冷酷无情的人，希望十一死心，可惜十一听过「不留名」的「身世」非但没有疏远「不留名」，还表示更愿意成为「不留名」的朋友，令茂春哭笑不得。
+
+皇上开始疏远逊妃，逊妃寂寞难耐下向绵伦假以辞色，两人互相款曲。而且原来当日指示贼匪掳劫少女就是绵伦本人，目的是交换不列颠的洋货专利权，事败后更迁怒「不留名」。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:08</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2691</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Wars.Of.In-Laws.Ep08.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

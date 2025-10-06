@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>敏琦缺席惹悔婚疑云</title>
+  <originaltitle>Episode 2</originaltitle>
+  <showtitle>栋仁的时光</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1512527</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>栋仁苏醒过来，发现身在医院，病因不明。翌晨赶紧出院，出席同学周德琛的婚礼，怎料新娘失踪，伴娘江雪凝认为是德琛对婚礼筹备爱理不理所致，最终婚礼取消。栋仁为手上项目的开幕礼酒会而苦恼，得知德琛即将开幕的咖啡室就在公司楼下，而且愿意赞助，解决没有预算的难题。失踪两天的敏琦在石澳醒过来，回家向父母解释自己没有悔婚念头，却解释不了这两天发生了甚么事。栋仁差点猝死，意外吻了兄弟徐飞毅即好转，却令对方昏迷……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stealing Seconds Ep02 20180417 Hdtv 720P X264 2Audio_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Stealing Seconds 20180417 2Audio qsv av1</title>
+  <originaltitle/>
+  <showtitle>栋仁的时光</showtitle>
+  <season>1</season>
+  <episode>417</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stealing Seconds Ep02 20180417 Hdtv 720P X264 2Audio_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="417" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

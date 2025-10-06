@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>姜羌请求　代存宝贝</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>鱼跃在花见</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2620705</uniqueid>
+  <uniqueid default="false" type="trakt">7447905</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>至嚣刻意　疏远思茏
+
+心情沉重的至嚣回家时，发现满脸笑容的弟弟与母亲正迎接自己；映月说出至嬴已完成任务聘得买手，因此特意煮了满桌美食。至嚣无言地自厨房取出啤酒；至嚣并没有因成功请得慕容澄的事而高兴，反而要求弟弟陪自己喝酒。当思茏致电给至嚣时，至嚣竟刻意不去接听，而另一边的思茏，却因联络不上至嚣而为是否应该订票看戏之事感困惑；翌日思茏到寿司店，把一封信托荣田转交至嚣……
+
+至嬴思茏　终于相认
+
+至嬴倒垃圾时，发现垃圾筒中竟有戏票，于是便将它据为己有；晚上思茏在戏院内发现有人突然坐到自己的身旁，因以为是至嚣而欲握对方的手，却发现来人竟是至嬴……至嬴忍不住跟随思茏离开戏院，更趁机向思茏说出昔日事，终令思茏想起两人原是旧识。从谈话中至嬴得知思茏仍是独身，不禁暗自高兴；回到家中的至嬴，翻箱倒笼寻回昔日思茏帮助自己换得的摇摇，更尝试开始练习。
+
+因为无法与至嚣连络上，思茏主动到寿司往找他，问他为何自那天晚上后便突然疏远她，想不到至嚣竟说出……失落的思茏离开寿司店时，竟看到至嬴在公园练习摇摇；至嬴发现思茏心情低落，坚持要她看自己表演摇摇，而在远处的至嚣竟默默地看着他们……晚上至嚣看到弟弟在练习摇摇，忍不住问他小时候暗恋的人是否就是思茏，至嚣更指思茏是雍容的人，不应接近。
+
+寿司店众人收到慕容澄寄来的海鲜，至嚣更发现慕容澄处理海鲜的秘诀，因此特意致电给他……雍容带城中名人及影星曲琪到月泷纱吃寿司，一众传媒亦闻风而至。曲琪食物中毒入院，指是因为吃了月泷纱的寿司，因此食环署的职员到寿司要求带走食材检验，而至嚣亦判断需要停业数天。虽证明寿司店符合卫生标准，但人客减少了；至嬴为增加客源，瞒着兄长私下扮作「寿司Buddy」到街上派传单……
+
+为振名声　参加比赛
+
+至嬴派传单时与姜羌相遇，更请她到寿司店欣赏兄长的手艺；至嚣发现弟弟竟在街上派传单宣传，不禁大怒。为了重新打响月泷纱的名声，至嚣决定参加电视台举行的「速度寿司比赛」，为了胜过上届冠军，至嚣以极端的方法练习捏寿司……至嚣到医院检查因练习而弄伤的手部时，偶然听到思茏为了自己，竟到医院托人打听空缺，欲辞去服侍雍容的高薪职位……比赛结束，至嚣数目上落败，但判评唐奥却指赛果有误……姜羌突然致电给至嬴，更指自己的店被打劫；至嬴赶至，但姜羌竟指不欲报警……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2691</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>鱼跃在花见 Ep04_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>铁手放弃神捕令牌</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>少年四大名捕</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>2305671</id>
+  <uniqueid default="false" type="tmdb">389789</uniqueid>
+  <uniqueid default="false" type="trakt">398213</uniqueid>
+  <uniqueid default="true" type="tvdb">2305671</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>当飞虎帮主与落石在擂台比武时，落石迅即击败对手，但他仍刻意将他杀死。赛后各帮派人心惶惶，落石更出现恐吓他们，令不少帮派归顺大连盟而放弃擂台比试。若飞与落石比武当天，若飞遭神秘人袭击受伤；蔡京准备宣布落石成为盟主时遭嫣红阻止，更要求等待至比武大会原定结束之日才公布盟主谁属。
+
+孤岛上众人突然中毒混身麻痹；此时真凶竟出现将破天打伤……铁手与追命调查若飞受袭，铁手觅到重要证据；原来袭击若飞的人竟是嫣红；正我向嫣红质问情由，她坦言是不想若飞枉死及替正我争取时间搜索破天等人。
+
+比武闭幕之日，蔡京宣布落石成为武林盟主之际，破天终赶回擂台与落石较量；两人一决生死时，破天却在占优的情况下受伤身亡。落石成为武林盟主后，明目张胆对付反对蔡京的官员。
+
+若飞在蓝天帮提出替父亲报仇之际，小骨竟带同人马出现。原来帮众已投靠了大连盟，更将若飞赶出蓝天帮；铁手欲带若飞离开京城，却反被她击晕。大勇被收买，于若飞欲行刺落石之时倒戈相向。铁手放弃神捕令牌，孤身潜入大连盟欲救若飞离开。同时冷血、无情、追命亦赶到助铁手一臂之力。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1908</width>
+        <height>1080</height>
+        <durationinseconds>2690</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Four.Ep14.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

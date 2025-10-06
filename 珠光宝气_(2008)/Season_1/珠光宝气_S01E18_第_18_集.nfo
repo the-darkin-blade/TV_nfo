@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 18 集</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id>433889</id>
+  <uniqueid default="false" type="tmdb">2299432</uniqueid>
+  <uniqueid default="false" type="trakt">1595949</uniqueid>
+  <uniqueid default="true" type="tvdb">433889</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>晚上筱柔看见有男士驾车送雅瞳回家，因此向女儿打听是否结识了男朋友。雅思首天上班便成功与自视甚高的苇庭秘书打好关系，令苇庭赞赏她。怀德探望康复中的徐福，从他口中得知福荣当年写下的退股书，有机会流落至南非。因此怀德决定到当地寻找，青杨亦因多年来错怪怀德之事向他道歉。长胜与贺峰饭聚，原来长胜一直与哲男打对台，全是贺峰欲教育儿子的计画。雅言与日东喝酒诉苦，看到喝得烂醉如泥的雅言，日东只得带她回自己家中照顾。醉后的雅言竟对日东投怀送抱，但他却坐怀不乱。虽然雅瞳要启发配合，但启发送雅瞳至家门前被筱柔发现，筱柔更责怪女儿自私，不理会双方正对簿公堂中。怀德回港向青杨说出已取得退股书，但不想破坏福荣的名誉，欲以三千万与启发和解，但启发却一口拒绝。雅瞳害怕母亲的责备，竟私自搬到酒店居住。筱柔查问有关启发的事时，遇上关静晕倒，筱柔相助，送关静入院，更因此得悉启发的恶行。关静向雅瞳说出一切后，雅瞳约启发见面，终明白启发一直都在欺骗她。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>18_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:32 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 14 集</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>上海滩续集</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2493299</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>力自宴会出来，心情极差，喝得酩酊大醉，而弄至心脏剧痛，入院医治。因力的身体不妥，无法料理各种生意上的事务，遂将大权交予祥贵。祥贵独揽大权，隐瞒着力，擅自改组公司，并命国强往搬货。力得悉此事后，不动声息，重新操纵大权，并派国强往银行工作。
+
+国强工作表现出色，深获好评，岂料一天，银行发生劫案，由于国强是夹万锁匙保管人，责任遂落于国强身上。幸得力出尽办法，捉到劫匪，找回失款。力见国强及秋霞相恋已久，便作主为他们订婚。衡量之下，祥贵宁取事业而弃爱情，为了令国强离开上海，祥贵暗中主使一批绑匪，于国强、秋霞订婚之日，绑架秋霞，并替他俩置备回广东的车票，迫他们回乡。但祥贵所买的两张车票，却为力之手下偶然发觉，顿生怀疑，而力亦终获悉此事，在车站截住国强及秋霞。</plot>
+  <runtime>37</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1564</width>
+        <height>1080</height>
+        <durationinseconds>2256</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E14.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

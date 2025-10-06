@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>斯敏秘密约见卓凯</title>
+  <originaltitle>Episode 27</originaltitle>
+  <showtitle>使徒行者2</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">4039202</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>卓凯派小批及雀屎跟踪斯敏，轻易被悉破，斯敏要求与卓凯见面。启发通知德信有人调查雪晴母亲，德信承诺会对付那人。雪兰受到德信手下以刀指吓，情急下天堂出手救人，却引起了德信的疑心。欢喜在少锋帮助下得知大黑警真正身分。德信与King看准乌兹尔国出现货币危机，计划洗黑钱图利；另一方面，欢喜亦看准了是次发大财机会，准备参一脚。斯敏向卓凯细说对付德信原因，坦言无意对付嘉莉，并打算交出控制器，怎料被德信捷足先登。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2633</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E27.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

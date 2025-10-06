@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>计划成功赚得钜款</title>
+  <originaltitle>Episode 21</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444977</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>朗翘因巧琳失踪之事，令抑压多时的不满爆发，要求嘉安向宏瞻讨回金钱；看见妻子的认真令嘉安不得不前往找宏瞻，但当嘉安真的见到宏瞻时，又不敢将要求宣之于口，结果嘉安只得逞强说只是找嘉乐吃饭。嘉乐与兄长多时未见，嘉安得知妹妹安好，终于安心下来。嘉安估计冠峰到鼎瞻工作纯綷是为了欲与嘉乐复合，更自告奋勇表示要助两人重拾旧欢。
+
+采贻冠峰　甜蜜约会
+
+嘉乐难以明言与宏瞻的种种纠葛，更怕嘉安会愈帮愈忙。嘉乐提及朗翘有否留意楼盘一事，嘉安不想妹妹再为他们操心，只好堆起笑脸找个藉口了事。嘉安为哄回朗翘，特意买下鲜花赠予妻子向她赔罪；朗翘熟知丈夫个性根本不会低声下气向宏瞻讨钱，亦只得原谅他。采贻带冠峰到咖啡室看她喜欢的「蒙罗丽莎猫」挂画，希望冠峰也可分享自己看画时的喜悦。
+
+蔓华要求　宏瞻休息
+
+冠峰向采贻提及要做计划书给宏瞻一事，采贻竟能为计划书提出意见，令冠峰喜出望外。冠峰成功游说宏瞻在上水投资建小型豪宅，斗志更是高昂。冠峰得宏瞻授权可聘请员工助他实行计画，他即时拉拢Sam帮忙；Sam看见冠峰为向上爬而改变了不少，冠峰自信地表示要适应世界的转变。蔓华为宏瞻弄了一桌佳肴，更得丈夫赞赏。宏瞻夫妻在闺房闲话家常，蔓华要求宏瞻减轻工作多陪伴自己。
+
+美玲难忍　笑兰嚣张
+
+宏瞻心知自己因嘉乐出现而冷落了妻子，遂提议两人一起外游，蔓华听后心甜不已。笑兰自生产完后即将儿子交给美玲照顾，自己则舒服地躺在家中休养身体；美玲年纪渐大，照顾孙儿感到吃力，但笑兰未有理会美玲的辛苦，还对她如工人般使唤。美玲终忍无可忍与笑兰大吵一顿后离开关家；美玲走到嘉安家向他们大数笑兰不是，嘉安气得替母亲出头。
+
+笑兰提出　出外工作
+
+美玲暂住在嘉安狭小的套房中甚觉不便，更想起嘉安是为了让嘉康一家而委屈自己，更大感心酸。
+
+笑兰对美玲出走一事毫不着紧，嘉康气得强带笑兰到嘉安家向美玲道歉。笑兰在嘉安等人面前跪地向美玲认错，即借势撒野指嘉康未能了解家庭主妇的辛酸，笑兰竟提出自己也可出外工作，更决定要入职嘉安的装修公司，朗翘听后大感愕然。
+
+笑兰为要做出成绩，特意回到围村找亲戚朋友协助，结果成功为嘉安找来数十万元的生意……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1078</height>
+        <durationinseconds>2682</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>21_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

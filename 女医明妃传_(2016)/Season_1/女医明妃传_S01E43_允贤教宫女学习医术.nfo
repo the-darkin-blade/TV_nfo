@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>允贤教宫女学习医术</title>
+  <originaltitle>允贤教宫女学习医术</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>43</episode>
+  <id>5540392</id>
+  <uniqueid default="false" type="tmdb">1176480</uniqueid>
+  <uniqueid default="false" type="trakt">2159657</uniqueid>
+  <uniqueid default="true" type="tvdb">5540392</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>羽翼渐丰的朱祁钰在汪国公等人的支持下，越来越不服从孙太后的管制。这位克己奉公的太后自然见不得他们对英宗的暗中迫害，无奈惩治不了皇帝便将怒气都撒在了吴太妃的头上。这样一番动作更加深了朱祁钰对她的憎恨，一时间，两方已成水火之势。另外一边，汪皇后却是将自己的争宠演技发挥到了极致，一番梨花带雨的请罪哭诉彻底将自己从胁迫英宗的罪行中摘了出来。她装出的宽厚贤良模样彻底骗过了朱祁钰，既表白了忠心又打消了他对汪家的不满。同一时间，允贤也终于在朱祁钰的坚持下住进了皇宫之中。美梦成真的朱祁钰难以抑制心中的狂喜，时时刻刻期待着两个人未来的幸福生活。可是他的表白却没有等来允贤的回应，此时的允贤心中还在惦记着南宫之中的英宗与钱皇后。原本就对他们二人的关系心怀疑虑的朱祁钰，看到她如此心不在焉的样子，顿时醋意大发，妒火一下子便冲昏了头脑。如今的朱祁钰已非过去的郕王，做惯了说一不二的九五至尊，任何人的一点不逊不从都会激起他的怒火。对允贤刻意施展的耐心终于在这一刻消耗殆尽，他暴怒着惩罚了宫女丁香，不顾允贤的眼泪甩袖离开。和倔强从不知服软的允贤不同，汪皇后却最是懂得利用时机抓住男人的心。怒气冲天的朱祁钰碰上柔顺如水的皇后，自是干柴烈火，一夜春宵。这位聪明的皇后实在是左右逢源的高手，她的完美演技不仅获得了皇帝的认可，更是在太后姨妈面前占尽了便宜，将她哄得笑逐颜开，稳稳坐定了自己皇后的宝座。另外一边，心软的允贤也与主动示好的朱祁钰重归于好。为了哄得心上人的欢喜，朱祁钰爽快答应了允贤重启御药房的请求，更允她在宫中甄选司药宫女。允贤这样一番大张旗鼓的动作自然逃不过皇后的眼睛。原本就恨她入骨的汪美麟再也无法忍受，害人之心顿时又起，这一次她将目标锁定在了瓦剌身上。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1324</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E43.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="43" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

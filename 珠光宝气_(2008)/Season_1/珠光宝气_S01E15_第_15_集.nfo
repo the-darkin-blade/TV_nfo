@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 15 集</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>433886</id>
+  <uniqueid default="false" type="tmdb">2299429</uniqueid>
+  <uniqueid default="false" type="trakt">1595944</uniqueid>
+  <uniqueid default="true" type="tvdb">433886</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>当启发以为成功阻止关静之际，雅瞳竟突然折返，幸日东等帮忙下将真相掩饰过去。世基与长胜饭聚之时，遇上世万与他的三姨太文慧，四人饭聚后，长胜得到与文慧合作开办演唱会的机会。长胜要求雅言在两个月内举办演唱会，雅言坦言没可能觅得场地。长胜以答应她如成功便签下新艺人，让雅言接下此工作。日东明白演唱会之事令雅言甚为难，特意带他到拳会打拳发泄。启发送上名贵钻石并提出与雅瞳交往，但却遭她拒绝。哲男与婉仪饭聚之时遇上世万等人，双方言词间各不相让，最后不欢而散。雅言对觅场地之事苦无对策，只得留在公司苦思。日东替雅言送来即食面，却令她发现可以觅得场地的方法。雅言更高兴得赠了日东一吻。雅言向长胜报告有方法觅场地之事，但长胜亦发现哲男有空出的演唱会场地。长胜虽采用雅言的计画，但仍特意向哲男请求让出场地。世万借拍卖聚会向贺峰施压，要他说服儿子让出场地。但哲男一意孤行，竟一掷数千万请着名男高音开演唱会也不将场地让出。贺峰忍不住责骂儿子过分自我，不顾大局，哲男却指父亲在世万前过分软弱。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>15_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 76 集</title>
+  <originaltitle>Episode 76</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>76</episode>
+  <id>432128</id>
+  <uniqueid default="false" type="tmdb">2299490</uniqueid>
+  <uniqueid default="false" type="trakt">1596066</uniqueid>
+  <uniqueid default="true" type="tvdb">432128</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雅言正式成为了新公司的CEO，日东及回巢的旧下属亦开始进行让长胜复出的准备。泰禾手术成功，泰川接兄长出院。泰川与世基相约吃饭谈工作，泰川在等待世基时，调侃世基之子恩齐只懂声色犬马不思振作，恩齐不忿出言反击，说他根本不清楚世万回港另有目的，更说世万与子凌两爷孙满肚密圈。子凌终鼓起勇气对祖父说出不会协助他复仇，世万大受打击。满怀歉疚的子凌，对出院后的泰禾照顾得无微不至。另一方面，泰川的下属亦向他报告世万回港后的作为。长胜得志球之助购入上市公司，让雅言登上CEO之位。庆功宴上，雅言大方地与志球祝酒交谈。散席后长胜问雅言为何与康家有偌大仇怨的志球合作，而雅言的答案令长胜甚为满意。日东私下约志球见面，哲男的旧女友叶婷探望他，更替情绪低落的哲男打气。泰川终得悉世万的动机，竟主动到世万家与他对质。世万没有了子凌协助，欲拉拢忠心的老员工珅，却竟被拒绝。因激动而心脏不适的世万到医院就诊，竟在急院室中遇上了雅思的儿子。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>76_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="76" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

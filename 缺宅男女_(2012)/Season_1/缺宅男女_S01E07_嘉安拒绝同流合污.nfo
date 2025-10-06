@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>嘉安拒绝同流合污</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444962</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>嘉乐陪笑兰作产前检查，笑兰回家后即高兴地告知美玲自己所怀的是男婴，笑玲兴奋得笑逐颜开。笑兰自恃腹中孩儿而对各人更加肆意使唤，嘉荣虽看不过眼，却总要忍下来。嘉安与朗翘逛街时经过婴儿用品店，两人商量应买甚么礼物送予嘉康作为贺礼。嘉安看上了一张婴儿床，但朗翘表示家中没地方可放下大婴儿床；但当两人回家时却看见一张婴儿床放在客厅。
+
+笑兰游说　嘉乐同居
+
+家中各人对摆放婴儿床一事颇有微言，嘉康劝笑兰把床退回，但笑兰却不肯就范；笑兰以将诞下关家第一个男孙为由，更要留下婴儿床，美玲为顺从笑兰意思终答应她的要求。夜深时分，笑兰见嘉乐一人，即劝她搬出与冠峰同居，嘉乐却明白笑兰别有用心；笑兰未能劝服嘉乐搬走，即气结地回到房中向丈夫诉苦，表示儿子出世后连放床的地方也没有。
+
+笑兰搞事　朗翘受难
+
+笑兰看到嘉康表示现状就是如此，随即一脸认真地提出想嘉安一家搬出自行租房居住，嘉康见妻子竟生出如此无良的念头即大力反对。笑兰装可怜不得要领，即大发脾气指丈夫不理儿子死活。笑兰赌气地硬要把婴儿床推入房中，险生意外。笑兰故意大吵大闹引起各人注意，嘉安为了安抚笑兰，答应翌日助她收拾杂物。朗翘买菜回家时，发现自己的私人物品被弃置在垃圾房。
+
+嘉安不忍　妻子受苦
+
+原来笑兰趁朗翘不在家时把她的物品丢弃，而将自己的杂物搬到朗翘房间内；朗翘忍无可忍与她理论，但美玲又再偏帮笑兰令朗翘气愤不已。嘉安回家时发现房间内杂物多得寸步难行，朗翘只有把一切告知丈夫。
+
+当朗翘以为嘉安会劝自己忍让时，岂料嘉安竟决定将搬出租屋另住；朗翘冷静下来细想，却反而踌躇起来，认为这是笑兰要迫他们搬走的奸计；于是朗翘把心一横誓要与笑兰对着干不肯让出房间。
+
+冠峰买楼　远离父亲
+
+冠峰四出寻居屋单位，终让他找到合意的楼盘；冠峰将买下单位一事告知母亲，但丽婵却毫不兴奋；丽婵虽明白冠峰有孝心，但当冠峰明言不会再与丁海同住时，丽婵露出一脸失望。
+
+冠峰新居入伙，相约嘉乐到其家中吃饭，正当气氛热闹非常时，丁海突然到访；冠峰冷淡地向丁海下逐客令，令丁海大为难受……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1876</width>
+        <height>1072</height>
+        <durationinseconds>2685</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>07_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

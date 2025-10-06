@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 3 集</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>连城诀</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2549049</uniqueid>
+  <uniqueid default="false" type="trakt">10877337</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>长发等夺走唐诗选辑，念笙突围而逃，临终把神照经及连城诀交予丁典，丁典决替念笙守孝，延迟与霜华结婚。
+
+长发、震山及达平三人为独占唐诗选辑而各怀鬼胎，各出奇谋，长发终夺得唐诗选辑逃去。
+
+退思得悉念笙把秘岌告知丁典，遂利用霜华，使丁典居于凌家，退思向丁典多番打探，但丁典守口如瓶。
+
+退思为到荆州寻宝，不惜自毁家园，博取丁典信任，使他答允同赴荆州。
+
+退思约震山见面，命他找回唐诗选辑，丁典发现，得知退思真面目，激愤离去。
+
+退思利用霜华引丁典现身，以毒药迷晕了丁典将他囚禁。</plot>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1548</width>
+        <height>1076</height>
+        <durationinseconds>1407</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lin Shing Kuet Ep03 1989 Hdtv 1080I H264 Ac3 Jade-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Lin Shing Kuet 1989 Jade Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>连城诀</showtitle>
+  <season>1</season>
+  <episode>1989</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>23</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1548</width>
+        <height>1076</height>
+        <durationinseconds>1407</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lin Shing Kuet Ep03 1989 Hdtv 1080I H264 Ac3 Jade-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1989" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

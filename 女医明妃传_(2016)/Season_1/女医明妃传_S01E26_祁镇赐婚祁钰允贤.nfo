@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>祁镇赐婚祁钰允贤</title>
+  <originaltitle>祁镇赐婚祁钰允贤</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id>5527097</id>
+  <uniqueid default="false" type="tmdb">1176455</uniqueid>
+  <uniqueid default="false" type="trakt">2159640</uniqueid>
+  <uniqueid default="true" type="tvdb">5527097</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在允贤的激将之下，英宗终于战胜了自己的心魔，堂堂正正地走出了寝宫。他立下誓言，为了自己的帝王尊严更为了挚爱的皇后与尚未出世的皇子，定要与孙太后斗争到底。回过神来的英宗终于决定为郕王与允贤赐婚，哪知圣旨未落，太后竟携吴太妃信步而来，将众人喝止在了当场。她们手中竟握有先皇遗旨，将郕王的赐婚之权夺回了太妃手中。郕王再也无法忍受母妃一再的出尔反尔，被逼到极限的他竟当场立下重誓，此生只娶允贤一人。被朝政与太后折磨得焦头烂额的英宗此时又从王振口中得到了一个馊主意——御驾亲征。虽然王振将亲征瓦剌的好处描述得天花落坠，但亲征毕竟是动辄生死的大事，这一次英宗还是没有被轻易说动。此时的战场之上，原本处在颓势的瓦剌军队却忽然探得明军粮仓被烧，霎时之间便扭转了战局。前方的接连战败使得大明损兵折将，危机之时，成国公与杭纲自愿请命带兵出征。只是杭纲的出征也迟迟未能带来胜局，反而让英宗等来了再一次大败的消息，而战败的原因竟是杭纲临阵通敌。一时之间，杭家满门获罪被捕下狱，允贤自然也未能幸免。心急如焚的郕王无处可求，无奈之下只得向汪国公求助。哪知平日里笑脸相迎的老狐狸这一次却彻底暴露了本性，竟将平日里拼命巴结奉承的王爷拒之门外。趁此时机，大太监王振又一次吹起了御驾亲征的耳风，只是心乱如麻的英宗此时满心满眼都是允贤，哪里还能做得了这样大的决定。看透了英宗心思的王振决定从允贤身上下手。大牢之中，他提出了救允贤出牢的条件，那就是劝说英宗御驾亲征。出乎他意料的是，允贤虽是小小女子，心中的忠义与家国之念却是远超他这个权臣的。为了英宗的安危与朝廷的稳定，允贤断然拒绝了王振的提议。太后眼看便要将允贤治罪，走投无路的郕王只得听从了吴太妃的“良策”，向汪国公提亲。守株待兔已久的父女二人自然顺利答应，眼看婚礼三日之后便要举行。汪国公这只老狐狸还算守信，允贤与祖母很快便被释放出狱。再次相见的二人执手相看泪眼，可是允贤却不知道，她眼前这个憔悴却强作笑颜的爱人为自己做出了多大的牺牲。纵使被心中的巨石压得快要窒息，此时郕王还没有办法讲出残酷的真相。他只能一遍又一遍地告诉允贤，无论发生任何事情，都要等他信他。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1315</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E26.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

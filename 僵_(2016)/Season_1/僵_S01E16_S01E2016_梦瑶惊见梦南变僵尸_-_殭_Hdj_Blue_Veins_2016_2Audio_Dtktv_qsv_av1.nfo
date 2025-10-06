@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:00:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>梦瑶惊见梦南变僵尸</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>僵</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2301067</uniqueid>
+  <uniqueid default="false" type="trakt">12243552</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>庞杰一直被困在密室，感到非常苦闷，但应天除了叫他不停打针外，根本没有理会他的感受。应天的高压手段令庞杰非常不满，幸好颖儿及时出现，化解了父子的争执。
+
+应天偷看颖儿的电脑，她坦言只想打好父子二人关系，岂料应天指责她多事。颖儿拍下了何年小说中的场景，希望带给庞杰看。自从大停电后，霆斯与何年想活着教他们捉僵尸的功夫，活着示范了飞银仔的绝技，指学懂这招才有资格捉僵尸。
+
+活着教授掟银绝技
+
+活着教霆斯、何年掟银仔的窍门，前题是要十二小时前不喝水。霆斯与何年二人不停练习，但总是不中。这时梦瑶经过，把大停电的经过告诉众人，并指是活着救她回家。
+
+梦瑶邀请活着参加毕业典礼，但当活着知道梦瑶是梦南的妹妹后，即拒绝出席。龙珠问谁人收到姻缘石，霆斯、何年却一头雾水。龙珠把梦瑶买姻缘石的事告诉他们，并叫他们努力追求她。
+
+梦南花了很多钱，买了名贵颈链给梦瑶作为毕业礼物。梦南看见梦瑶非常高兴，喜极而泣。梦瑶见梦南又买了龙凤手镯给自己，大感惊讶，梦南指其心上人可能早已出现，只是未遇上。
+
+梦南把餐碟还给活着，并在墙上留下印记便离开了。活着看见墙上的图画，亦生不舍之情。毕业礼的宴会上，众人都祝贺梦瑶，让她有个美好回忆。
+
+梦南在梦瑶前变身
+
+霆斯与何年同时送姻缘石给梦瑶，但梦瑶不知如何是好。梦南与紫红见到梦瑶长大，都非常高兴，热泪盈眶。梦瑶终于可以开心说话，紫红与梦南都极度感动。
+
+突然，一班飞虎队员冲入会场，众人大吃一跳。当警员以为已把匪徒制服时，僵尸却突然出现把警员杀死。僵尸要袭击梦瑶，霆斯与何年挺身而出却被打伤。这时，梦南变成僵尸保护梦瑶。梦瑶见梦南变成僵尸，惊恐万分，不敢接近她。梦南伤心，只能无奈离开，并请求活着代为照顾梦瑶。
+
+三旧友百年后再聚
+
+活着把银哨子交给梦瑶，说只要听到哨子一响，他就会出现。梦南后悔让梦瑶看见自己变僵尸。梦瑶不肯回家，而且满脑子都是僵尸的影像。活着劝她回家，解释梦南本性善良，有别于其他僵尸。这时候梦瑶才知道，只有她一人被蒙在鼓里。
+
+梦南希望梦瑶忘记自己，重新过生活，但活着却希望给梦瑶一些时间，让她慢慢去接受。他坦言五百年前，自己与僵尸是天敌，但现在竟能做朋友。「夜吾夜」来了一位神秘客人，他衣衫褴褛，满脸灰尘。霆斯及何年都不敢招呼他……</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1305</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[殭].Hdj.Blue.Veins.Ep16.2016.Hdtv.H264.1080I.2Audio-Dtktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>殭 Hdj Blue Veins 2016 2Audio Dtktv qsv av1</title>
+  <originaltitle/>
+  <showtitle>僵</showtitle>
+  <season>1</season>
+  <episode>2016</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1305</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[殭].Hdj.Blue.Veins.Ep16.2016.Hdtv.H264.1080I.2Audio-Dtktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2016" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

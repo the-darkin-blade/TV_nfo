@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:00:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>禹勤爆发多年不满</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>不懂撒娇的女人</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2001728</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>禹勤要日晖先行离开后再央求凌敏，但凌敏态度决绝。禹勤想不到凌敏为了要Hanson加盟，不惜牺牲自己。禹勤发怒向凌敏翻起儿时的旧账，毅然辞职离开公司。
+
+翻新商场计划遭遇阻滞，念深欲找俊杰商谈不果。原来俊杰已前往上海，还独自一人乘坐地铁，品尝街头小吃。俊杰探望上海的老朋友郭力，他认为所有商机都在日常生活中发现。
+
+念深遍寻俊杰不获，反而在街上遇到郭力。郭力告知俊杰已离开上海，邀请念深吃街头小吃。
+
+发现凌敏 医疗报告
+
+大威上门质问凌敏为何赶走禹勤，但见凌敏咳嗽不断，便寻找药物给她，结果无意中发现了凌敏的医疗报告。大威私下拜托娇倩帮忙，找医生了解报告内容。
+
+对于Hanson回巢，公司势力重新整顿，傲星众同事均议论纷纷。Oscar以四朝元老的身份替大家分析形势，说凌敏走势凌厉，他们应该站回她那一边。
+
+大威在公司突然刻意回避凌敏，凌敏追问下才知道大威偷看了医疗报告。大威忍不住痛哭起来，还向凌敏下跪。凌敏愕然，只道若想补偿便离她远一点。
+
+田蜜被迫承认私情
+
+念深从上海返港，大威在停车场已急不及待向他请辞。念深一脸狐疑，追问下才得知原来凌敏曾接受手术。念深回到办公室见凌敏身体不适，上前关心遭拒绝。念深向凌敏查问手术原因，但她没有正面回答。
+
+兆通太太在兆通西装袋找到一枚女性耳环，误以为田蜜与老公有私情，相约田蜜出来面谈，狠狠掌掴她。田蜜最初否认，可是百辞莫辩，最后只好承认。
+
+闷闷不乐的田蜜步出餐厅时遇见念深，要求他陪伴她吃雪糕泄愤。为答谢念深的陪伴，田蜜轻吻了他，还道会以她私人助理的身份，助念深一把。
+
+念深随身带旧日匙扣
+
+念深返回办公室，见凌敏累得睡了，便脱下外套披在她身上。凌敏醒来，看到念深外套，未及细想，已收到田蜜的讯息，说Ladies First计划改由念深与她共同负责。
+
+凌敏气上心头，正要去了解时，从念深外套袋掉落M字钥匙扣，惊讶。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1305</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>不懂撒嬌的女人.My Unfair Lady.2016.Ep13.20170513.1080I.Hdtv.H264.2Audio-Chdhktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>不懂撒嬌的女人 My Unfair Lady 2016 20170513 2Audio Chdhktv qsv av1</title>
+  <originaltitle/>
+  <showtitle>不懂撒娇的女人</showtitle>
+  <season>1</season>
+  <episode>513</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1305</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>不懂撒嬌的女人.My Unfair Lady.2016.Ep13.20170513.1080I.Hdtv.H264.2Audio-Chdhktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="513" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

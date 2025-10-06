@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>雪夜智斗狼群饥寒交迫陷绝路</title>
+  <originaltitle>雪夜智斗狼群饥寒交迫陷绝路</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>38</episode>
+  <id>5540387</id>
+  <uniqueid default="false" type="tmdb">1176471</uniqueid>
+  <uniqueid default="false" type="trakt">2159652</uniqueid>
+  <uniqueid default="true" type="tvdb">5540387</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>英宗带领众士兵节省口粮，屯下了一些粮食，士兵们也已经将刀剑磨好，只等合适时机逃出战俘营，回到北京。小马子向代宗回报允贤在瓦剌王庭安然无恙，吃得饱，穿得暖，代宗疑惑为何允贤身为战俘却可以衣食无忧，小马子在于东洋的提前授意下，骗代宗说也许是因为允贤医术高明所以得以谋生，代宗因此甚感欣慰。于东洋也是考虑到允贤的名节，才不得不让小马子隐瞒于代宗。皇后汪美麟给代宗送去用石斛做的药膳，代宗由此想到自己曾与允贤因一株铁皮石斛而相识，皇后向代宗解释自己没有害过允贤，并将一切罪责推到了其婢女碧草身上。说话间，皇后突然晕倒，代宗赶紧叫人传来太医，经太医院程村霞诊断，皇后已有了三个月的身孕，听到外甥女怀上了皇子，孙太后大喜，当即封陈村霞为太医院院判，还下令大赦天下。太上钱皇后得知汪美麟怀上了皇子，担心自己和英宗的孩儿太子之位不保，又担心皇后和孙太后的人加害于她和太子，向于东洋大人哭诉。于东洋见太上皇后身子有些不利索了，问丁香这是怎么一回事，丁香告诉于大人，自从英宗被俘，太上皇后整日以泪洗面，又总是跪在观音菩萨面前祈祷，跪累了，就斜趴着，日子久了，眼睛就渐渐不行了，连一条腿也不便利了。草原上大雪封门，英宗他们断了粮食，</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E38.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="38" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

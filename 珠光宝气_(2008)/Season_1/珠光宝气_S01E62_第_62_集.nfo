@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 62 集</title>
+  <originaltitle>Episode 62</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>62</episode>
+  <id>433932</id>
+  <uniqueid default="false" type="tmdb">2299476</uniqueid>
+  <uniqueid default="false" type="trakt">1596052</uniqueid>
+  <uniqueid default="true" type="tvdb">433932</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>启发欲将西藏觅回的戒指还给雅瞳，到康家时却发现她不在，反又再被筱柔教训。众人发觉雅瞳一夜未归大为紧张，但最终还是暂不报警。雅言直接回公司向妹妹查问，到底雅瞳失踪之事是否与她有关，雅思丈八金刚摸不着头脑，直言与自己无关系。雅思正百思不得其解时，答案却竟自行浮现。雅瞳虽平安，但却迁怒于雅思。当雅瞳遇上哲男时，二话不说就托哲男送她离开。看到哲男仍不断游说自己到警署作供，雅瞳终于爆发，指责哲男只是想借自己对付雅思。风尘仆仆的泰川回家，发现哥哥私下买礼物送给女性朋友，更认为泰禾开始拍拖。但泰禾矢口否认，只说是朋友生日而已。泰禾在工作时，终于查出泰禾口中的好朋友竟就是子凌。雅思约泰川吃饭，但泰川想不到长胜亦出现。原来雅思特意同时邀约两人，更出言要两人先解决私下不和之事，才会与他们商谈合作之事。苇庭主动约贺峰见面，贺峰以为是重新谈合作之事，但想不到苇庭竟以朋友身分教训他，令贺峰大感没趣。苇庭带泰川到印尼小岛上怀缅昔日种种，而在她人生的最后光景，竟让她看到一直想看见的现象。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>62_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="62" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

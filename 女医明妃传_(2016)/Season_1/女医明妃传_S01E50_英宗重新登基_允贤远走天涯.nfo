@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>英宗重新登基 允贤远走天涯</title>
+  <originaltitle>英宗重新登基 允贤远走天涯</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>50</episode>
+  <id>5546392</id>
+  <uniqueid default="false" type="tmdb">1176487</uniqueid>
+  <uniqueid default="false" type="trakt">2159664</uniqueid>
+  <uniqueid default="true" type="tvdb">5546392</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>除夕当天，祁钰与允贤、吴太后及太上皇一家相聚团员，本是阖家欢喜之际，吴太后却屡屡阴阳怪气地讽刺上皇、指责允贤，祁钰因而气恼不已，又吐了血。除夕之夜，下起了雪，允贤站在宫殿外看雪，上皇走到允贤身边，忆起那年在允贤家的后院与允贤一起雪中起舞，同赏烟花，共度除夕，并用脚在雪上写下朝鲜语“扎基亚”，对允贤道了声珍重，后回自己宫中与妻儿团圆。除夕之夜，允贤一直守在祁钰身边，入夜已深，祁钰突然开始止不住地大口吐血，允贤急忙给他扎针止血，并让人速去请程村霞，可还是晚了一步，祁钰一命呜呼。祁钰在除夕之夜病逝，吴太后认定是允贤医术不精才害死了自己的儿子，要让允贤殉葬，允贤则因为太过悲伤，又被吴太后推到在地，不幸小产。孙太后及静慈师太以“允贤性命受到威胁”作为诱饵，设计让英宗复位，孙太后还主动解开了与英宗多年的误会，向他说明所谓的“杀母之仇”不过是王振当初为了取得他的偏信而编造的谎言。英宗重新登基，下令废除殉葬制度，实行女医制度。允贤放不下祁钰与她还未出世的孩子见济的死，无法面对英宗的一片深情，也厌倦了宫中战战兢兢的生活，离开皇宫远走天涯，寄情山水，悬壶济世。其师兄程村霞亦卸官做了游方郎中，与允贤在民间重逢，叮嘱允贤写完她那本《女医杂言》一定要给他留一本。钱皇后去世后不久，太子见深即皇位，英宗终于得以卸下心中重担，到宫外去寻找允贤，希望与她共度余生。在允贤及医女们的共同努力下，也在英宗的盛德感召下，明朝不仅官方建立了女医制度，世人亦渐渐地接受了女子行医，女子患病不用再受限于男女大防，隐疾得治，性命也因此大为增长。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1327</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E50.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="50" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

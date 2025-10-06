@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>皇上得疥疮</title>
+  <originaltitle>皇上得疥疮</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>6773175</id>
+  <uniqueid default="false" type="tmdb">1556720</uniqueid>
+  <uniqueid default="false" type="trakt">3096635</uniqueid>
+  <uniqueid default="true" type="tvdb">6773175</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>高贵妃巧妙利用这次机会对皇上诉说衷肠，赢得弘历谅解。与此同时，皇后在长春宫门口苦等弘历不至，深感失望。次日，璎珞在御花园发泄心中对皇上辜负了皇后的不满，遇到傅恒，璎珞向他替皇后鸣不平，出言不逊，被傅恒劝阻。随即，璎珞因百般查探姐姐死因却一无所获，越发焦躁。弘历深夜批阅奏章，身体不适，召太医前来诊治，发现他患了疥疮。皇后不顾传染危险，执意要搬入养心殿亲自照料弘历，原本她让明玉随行，可明玉却将此差推给了璎珞。璎珞为了调查皇上身边的亲信，查探姐姐的真正死因，于是同意跟明玉调换差事，跟随皇后一道搬去了养心殿。璎珞替皇上上药，皇上十分反感，拒绝了璎珞。可李玉粗手笨脚弄痛了皇上，皇上恼怒，璎珞告诉皇上养心殿伺候的多半都是太监，如果他坚持，那么只好请皇后来替他上药了。皇上无奈，只好让璎珞继续。皇上涂了药之后依然燥热瘙痒难耐，皇后衣不解带地照顾了他整整一晚上，璎珞见状，十分动容。璎珞试探李玉，询问乾清宫夜宴当晚曾经离席的宗室，可惜一无所获。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2595</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep19.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

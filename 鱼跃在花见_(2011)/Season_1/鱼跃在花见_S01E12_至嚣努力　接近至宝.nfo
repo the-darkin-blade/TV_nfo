@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:40 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>至嚣努力　接近至宝</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>鱼跃在花见</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2620715</uniqueid>
+  <uniqueid default="false" type="trakt">7447913</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>姜羌出力　协助解围
+
+名食评家唐奥与刘丽到意寿司试食，令大批传媒闻风到访；当刘丽看见至嬴奉上的比目鱼寿司时，主动问他鱼肉是否新鲜，但至嬴指这鱼需放置了一两天才会更美味，刘丽问他理由时，至嬴竟哑口无言；看到无人替至嬴解围，姜羌只得凭自己丰富的饮食经验，代至嬴解释个中原委，更反指刘丽不懂欣赏美食。而当唐奥与刘丽吃下至嬴的寿司后没法批评，但刘丽竟指酱油毫无鲜味……
+
+火速成名　至嬴兴奋
+
+寿司店打烊后至嬴与众职员一起庆功，姜羌指责慕容澄不出手助徒弟解困，嘉穗代他说出原因；当庆功宴散席后，慕容澄忍不住质问至嚣，为何身为兄长竟不出手帮助弟弟，而至嚣的答案令慕容澄不禁狐疑……至嚣趁下午休息时与思茏约会，思茏喜孜孜地指姜羌替至嬴解困之事被杂志大肆报道，必然可替意寿司作免费宣传；但至嚣却冷淡地表示看了报道才前来的客人没有水准……
+
+当至嚣问思茏有否继续受到雍容的迫害，思茏指雍容以为她已与至嚣分手，因此对她的态度亦改善了；两人漫步时，至嚣发现月泷纱已换上了另外的名字，忍不住向思茏说出，自己与月泷纱一定会卷土重来。在至宝二十八岁的生日会上，雍容发现当自己把玩具送给至宝时，儿子并没有如往昔日般兴奋，反而说出自己已「大个仔」，打算将自己的玩具给有需要的小朋友；而至宝反而更向雍容送上亲手绘画的感谢咭……姜羌向慕容澄说出，自己因与刘丽斗嘴而大出风头，被传媒争相访问，于是她趁机撰写食评更投稿给饮食杂志。
+
+原来姜羌是投稿给日本的饮食杂志，最终更被刊登；意寿司的日本代表山下先生约至嬴兄弟会面，因姜羌所写的食评在日本引起回响，而山下先生更收到消息，在世界享负盛名的「水莲花饮食指南」将派人到香港秘密试食，更指意寿司榜上有名；至嬴得知后兴奋不已，但至嚣听后心中却不禁感到酸溜溜……慕容澄在寿司吧中发现有高手所切的萝卜丝，因此特意试探至嚣是否已康复，但至嚣却指自己手伤未愈。
+
+至嚣出手　破坏试食
+
+至嚣看见弟弟不懂处理鱇鱼康鱼，特意细心教导弟弟，令至嬴感激不已。有人在店打烊时慕名而至，独自剩下收搭的至嚣趁机偷偷招呼客人，但却被客人指味道不及至嬴。饮食指南的试食员扮作顾客前来吃寿司，但最终却败兴而回。至嚣向弟弟直认，是自己故意把茶冲得浓，以影响意寿司的评价……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2685</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>鱼跃在花见 Ep12_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

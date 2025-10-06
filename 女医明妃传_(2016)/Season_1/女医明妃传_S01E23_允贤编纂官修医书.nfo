@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>允贤编纂官修医书</title>
+  <originaltitle>允贤编纂官修医书</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>5527094</id>
+  <uniqueid default="false" type="tmdb">1176451</uniqueid>
+  <uniqueid default="false" type="trakt">2159637</uniqueid>
+  <uniqueid default="true" type="tvdb">5527094</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>白日里自己的冲动险些伤到了皇后和孩子，自责与愧疚令英宗只好借酒消愁。虽然贵为天子，可这高处不胜寒的孤独却也是常人无法体会的。允贤的安慰非但没有减轻英宗的痛苦，反而帮他再一次回忆起了自己的无能与失败。酒力的促使下，英宗竟纵容着自己将允贤紧紧地拥在了怀中，负气一般将自己的爱恋妒忌通通讲了出来。震惊之下，允贤慌忙想要挣脱。扪心自问，对于这个始终爱护自己支持自己的男人，允贤并非全无情意。只是想到一往情深的郕王，想到待自己亲如姐妹的皇后，允贤绝不可能允许自己踏出友情的边界。她的理智拒绝终于将英宗拉回了现实。自己的一时冲动也令英宗懊悔不已，他明白这一次真的到了该放手的时候。回到寝宫，望着皇后恬静的睡颜，他终于想清楚了谁才是真正应该属于自己的爱人。尽管英宗及时取消了对汪国公的刺杀计划，但死里逃生的汪国公却不会轻易放过这个机会。他将此次的遇险添油加醋，在太后面前大书特书了一番，果然顺利地让太后燃起了对英宗的不满，准备发起废帝行动。对朝堂之间的诡谲暗涌一无所知的允贤已经在陆续做着离开皇宫，返回郕州的准备了。父亲和奶奶的进京相见也令允贤雀跃不已。知晓大义的杭纲得知女儿的决定，竟然劝她留在皇宫。在他看来，此时朝局如此危急，英宗正是身处艰难的时刻。对于杭家，皇帝是有再造之恩的，因而作为臣子，此时临阵脱逃决非忠义之举。父亲的建议也正合了允贤的心思，原本就对宫中的种种放心不下的她决定留在京城，思虑再三，她也将自己的想法告知了郕王。允贤的晓之以理动之以情，也令郕王感受到了自己的责任，不论作为臣子还是弟弟，他都不该选择自私的逃避。另外一边，汪国公的阴谋仍然没有停下。在他的煽动下，太后竟然动起了皇子换太子的心思，而这混乱皇室血统的罪恶执行者也自然非程十三莫属。此时的英宗还对这些阴谋一无所知，他与允贤正在愉快地策划着属于英宗一朝的官修医书的编纂。为了帮助英宗与太后争取民心，允贤精心编写出了一本药膳集锦，若能免费分发给百姓，那必将是一番伟大的功绩。允贤的太平药膳方得到了刘院判的大力赞赏，连程村霞都开始对自己的偏见产生了怀疑。然而程十三却依然没有改变他卑鄙狡猾的本性，他竟然使出了抄袭以后率先发表的龌龊手段。另一边，在郕王的协助下，瓦剌与大明的良马交易终于达成，这也对英宗的军队筹备起了不小的作用。同时，瓦剌的使团也即将进京考查贡市，英宗命郕王负责此事。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1323</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E23.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

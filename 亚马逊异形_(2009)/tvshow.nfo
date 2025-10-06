@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:09:32 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>亚马逊异形</title>
+  <originaltitle>Aliens of the Amazon</originaltitle>
+  <showtitle>亚马逊异形</showtitle>
+  <sorttitle/>
+  <year>2009</year>
+  <top250>0</top250>
+  <ratings/>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>全世界第一部以「角蝉」为主题的科学记录片，堪称是大自然最为巧夺天工的惊人之作－角蝉。来自新热带的角蝉一族鲜为人知，然而却堪称是大自然最为巧夺天工的惊人之作。无论是把角蝉看作迷你异形，或是生物多样性的最佳例证，它们神秘又奇妙的造型已让科学界百思不得其解。
+
+　　角蝉奇特的外型有如活生生的艺术品，前额上令人叹为观止的突出物不仅是大自然的神来之笔，更展现极端的拟态行为。它们彷佛是科幻电影中的虚构生物，但同时却又百分之百真实地生活在热带雨林的树冠和各树层中。由于角蝉极端罕见并且难以寻觅，直到今日都未曾被仔细研究或拍摄。过去的田野调查已发现它们的某些生活行为，但却仍没有更为深入的完整研究。
+
+　　《亚马逊的迷你怪兽》制作团队以无比毅力寻觅这些谜样昆虫的踪影，并成功拍摄史上首部以角蝉为主题的科学记录片。一群来自各地的学者带着顶尖的摄影装备，深入厄瓜多的热带雨林展开刺激的探险，不仅精彩记录奇异的雨林生态、发掘前所未见的生物万象，更呈现各种稀奇古怪的声响，并解开昆虫学上一大谜团。</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"254448"}</episodeguide>
+  <id/>
+  <imdbid/>
+  <tmdbid>254448</tmdbid>
+  <uniqueid default="true" type="tmdb">254448</uniqueid>
+  <premiered>2009-01-01</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Documentary</genre>
+  <studio/>
+  <country>中国</country>
+  <tag>amazon rainforest</tag>
+  <tag>nature documentary</tag>
+  <tag>natural wonder</tag>
+  <tag>small animals</tag>
+  <tag>animals &amp; nature</tag>
+  <tag>animal documentary</tag>
+  <actor>
+    <name>Patrick Landmann</name>
+    <profile>https://www.themoviedb.org/person/4714908</profile>
+    <tmdbid>4714908</tmdbid>
+  </actor>
+  <actor>
+    <name>Thierry Berrod</name>
+    <profile>https://www.themoviedb.org/person/1589628</profile>
+    <tmdbid>1589628</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>动武相迫　阻止泄秘</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>鱼跃在花见</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2620710</uniqueid>
+  <uniqueid default="false" type="trakt">7447909</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>至嚣姜羌　私下对话
+
+看着至嚣抛下自己洒脱离开，思茏欲追回他；但思茏跑下梯级时不慎跌伤，至嚣毫不留恋没有回头；至嬴买东西离开时发现思茏，至嬴真诚地向思茏表现关心，令思茏禁不住相问为何不恨她；听到至嬴坦言对思茏父亲之死的看法，思茏不禁为至嬴的善良而感动。至嬴劝她可先回香港等至嚣取胜，但思茏却坚持自己要与他谈个明白才会心息。另边厢姜羌一直追问失忆的千代子，但她却完全没理会姜羌……
+
+至嚣顺利　打入决赛
+
+在旅馆散步的至嚣发现姜羌像是欲打千代子，忍不住出手阻止，但姜羌反而指责他。至嚣终明白姜羌是为了寻找亲生父母的消息，而缠绕着千代子；至嚣问姜羌为何不将此事告知至嬴，想不到姜羌说不想正集中精神比赛的至嬴分心……至嚣兄弟一起享受露天浸谷时，至嬴向兄长说遇上思茏一事，更向他转述思茏会一直等他回心转意；至嚣问弟弟的感觉，竟然协助暗恋的对象复合，更向他说出姜羌到北海道寻亲之事……
+
+因没法从千代子身上打听到妻女消息，慕容澄只得在居酒屋中喝闷酒，这时至嬴偕兄长及姜羌出现；原来至嬴欲托慕容澄在是次比赛中替他们寻找食材。但当至嚣看到慕容澄不客气的态度后，心高气傲的至嚣便拂袖而去；一直在旁看着事情发展的嘉穗，除提出会到场替他们加油外，更说出有关看到萤火虫便可愿望成真的传说……另一方面，独自一人的思茏竟收到雍容的电话。
+
+争夺海外经营权的比赛开始，一共有来自世界各地的九位寿司师傅参赛，而比赛将分为三人一组，每组一人出线进入决赛。而至嚣兄弟一组的第一道比赛题目为「山葵」；当至嚣试出比赛用的山葵是上等之物后，为了令它的味道更突出，至嚣用上了小火炉……
+
+第二道题目则是「醋饭」，兄弟两人合作下，两道题目都顺利取得了满分；第三道题目是考验「刀法」，大会给参赛者一块极难切的鱼肉，但至嚣终想出办法而顺利出线。
+
+发现真相　努力隐瞒
+
+比赛结果有四队同分，因此需进行附加赛以淘汰一队；姜羌被萤火虫吸引离开会场，最终竟给她找到母亲的坟墓。另一方面，慕容澄亦被萤火虫所带领，因而发现了妻子的坟墓，而他更在墓前检到一只耳环；比赛再次进行时至嚣因看到思茏得到启发，成功判断出醋饭上曾放了甚么材料。至嚣向思茏说出心底话，两人更过了缠绵一夜……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2686</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>鱼跃在花见 Ep08_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

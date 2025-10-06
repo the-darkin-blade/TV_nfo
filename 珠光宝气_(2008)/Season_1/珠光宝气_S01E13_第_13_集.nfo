@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 13 集</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>433884</id>
+  <uniqueid default="false" type="tmdb">2299427</uniqueid>
+  <uniqueid default="false" type="trakt">1595941</uniqueid>
+  <uniqueid default="true" type="tvdb">433884</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雅瞳被困公司不能回到宴会，雅思亦顺利与田锐见面，两人更有机会共舞。当怀德在晚宴说出感谢致词时，启发突然出现，更当众说出要告怀德以取回股份，令场面大乱。青杨见故人之后竟是雅瞳的朋友，急忙与他相认更留下联络。田锐欲请雅思吃消夜时，雅思发现公司火烛，担心被困在当中的雅瞳安危。原来雅瞳早已平安回到家中，雅思亦放下了心头大石。筱柔发现青杨对与启发相遇之事大感兴奋，青杨说出感谢启发父亲福荣的照顾，所以想帮助启发以报恩。怀德与老臣子Paco及律师研究启发突然提出诉讼之事，感觉启发突然暴富实属不寻常，经商议后决定与启发对簿公堂。泰禾发现雅思与田锐正式交往，心中替她高兴。启发约青杨、雅瞳及众家人吃饭，席上筱柔与雅言看到启发的言行，亦看穿他对雅瞳的企图，两人私下交流，均不赞成雅瞳与他交往。为了协助启发打官司，长胜派日东负责联络他，更叮嘱启发不能泄漏长胜当他支持者之事。青杨与启发拜祭启发的父母后，两人在酒吧喝酒时，突然有人殴打启发。早上怀德欲请青杨替他约启发见面，但青杨指怀德找人殴打启发。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>13_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

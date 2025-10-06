@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>允贤被骗险赴鸿门宴</title>
+  <originaltitle>允贤被骗险赴鸿门宴</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <id>5540382</id>
+  <uniqueid default="false" type="tmdb">1176465</uniqueid>
+  <uniqueid default="false" type="trakt">2159647</uniqueid>
+  <uniqueid default="true" type="tvdb">5540382</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>英宗自然不会眼睁睁看着允贤受辱，为了心上人的清白与尊严，他拼着失去人心的风险也要护允贤周全。英宗的慷慨陈词令在场的士兵们都不禁自惭形秽。英宗一次又一次的维护令允贤生出了无限的感动。他在这样危难悲惨的时刻，却仍将自己放在首位，这样的真挚情感怎能不令人动容。允贤深深望进英宗的眼底，将自己的希望与温暖竭尽所能地传达给他，实践他们生死与共的誓言。同处瓦剌王庭，允贤与程十三这对刻骨仇敌终于还是等到了见面的一天。自以为得势的程十三在允贤面前大方厥词，却没想到此时在也先的心中，允贤的地位早已远远超越了自己，任凭他如何挑拨，一时之间也是难以奈何允贤了。只是关心则乱，程十三利用郡主所施的挑拨还是在一定程度上影响了也先的判断。为了以防万一，他还是暂时将允贤调离了妹妹身边。面对也先的不信任，允贤虽然不屑但仍保持着最刚毅的气节。她痛斥了程十三这种卖主求荣之徒的无耻，更告诉也先，企图依靠此等德行之人开拓伟业，实为天方夜谭。将郡主视作掌上明珠的也先绝对不会想到，此时自己妹妹的一颗芳心已然悄悄暗系在了俊美威武的英宗身上。天真烂漫的郡主在日日的观望与相处之中，已经彻底恋慕上了这位异国的君王。经过一番调查，也先终于查明了程十三的底细，认清了他的真实面目。同一时间，他的心中也涌起了对允贤的愧疚与好感。为了缓和关系，也先主动寻到了允贤的看诊处要她为自己诊治。长期的操劳与争斗其实将也先的身体损耗得很厉害，刚一摸脉允贤就发现了端倪。尽管对也先这个敌人实在产生不了什么好感，但本着一视同仁的医者之心，允贤还是真心实意地为他作出了诊治。都说英雄难过美人关，也先这个驰骋草原的英雄也确确实实地被允贤这个小女子深深地吸引住了。她出于医者本能而给予的关怀言语深深地融化了也先那颗冰冷的心。习惯了以强硬示人的也先已经许久不曾体会到这样细小的温暖了，一时间，竟是深深地迷恋在了其中。夜半无人之时，他偷偷来到允贤的营帐之外，望着她发呆的可爱面庞沉醉不已。趁着也先外出的机会，瓦剌汗王设下了一场鸿门宴，将英宗请上宴席实则却是为了侮辱他取乐。但机智的英宗却不为所动，反倒用毫不在意的淡定态度将敌人惹得恼羞成怒。就在此时，允贤竟一身盛装翩然而至。原来，她也是被汗王的诡计骗到的此处。淡定的允贤深知此时无处可逃，反倒不卑不亢地向英宗行礼，将一群不明真相的瓦剌人震在了当场。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1327</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E33.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="33" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

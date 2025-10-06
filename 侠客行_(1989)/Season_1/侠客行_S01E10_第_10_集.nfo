@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:09:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 10 集</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>侠客行</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2494440</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>中玉等对天行突然离去大感奇怪，慕容白向天行追问因由，天行说出当年与冬儿母亲之一段情，并揭穿冬儿乃其女儿。
+
+慕容白不忍天行父女相残，带冬儿与天行相认，冬儿一时间不能接受，大受刺激，向珊瑚倾诉一番。
+
+冬儿往找天行，欲与他同归于尽，天行虽及时发觉，但感女儿竟对自己下杀手，自觉罪孽深重，自尽而死。
+
+冬儿感怀身世，自感有愧中玉，加以疏远中玉。而中玉在慕容白力劝下，终答允担任天魔教教主。
+
+破天练成天魔神功，告别烟客后下山，烟客心中虽感不舍，表面上却冷淡对待。
+
+破天遇石清夫妇，石清夫妇误认他是破中玉，以为他病后失忆，对他细心照料。
+
+张逍李遥往找中玉，要他代送一串佛珠上少林，中玉心中虽不愿，亦无奈答允。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1558</width>
+        <height>1072</height>
+        <durationinseconds>2812</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E10.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

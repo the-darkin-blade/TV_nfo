@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 48 集</title>
+  <originaltitle>Episode 48</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>48</episode>
+  <id>433918</id>
+  <uniqueid default="false" type="tmdb">2299462</uniqueid>
+  <uniqueid default="false" type="trakt">1596036</uniqueid>
+  <uniqueid default="true" type="tvdb">433918</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>集团因受到不利消息困扰而股票下挫，世万不欲被股东摆免而急谋对策。这时长胜出现欲向世万提出新合作计画，但世万坦言不欲与竞投不到4G牌照的长胜合作。长胜为了套现维持运作，不惜出售心爱的游艇。子凌遇见泰川被上司欺压，但竟没有乘机落井下石讽刺泰川，令佩嘉惊讶不已。与泰禾成为了朋友的子凌，特意向泰禾提及自己不再与泰川作对之事，而子凌专心工作原是受泰禾影响。得知弟弟工作压力甚大，泰禾只得尽量开解他。泰川发现上司有出卖公司利益之嫌，特意设局套出真相。泰川成功将证据交给苇庭。长胜因公司出现问题而忧心不已，而他欲约日东与雅言吃饭却被拒绝，之后长胜竟发现日东与雅言态度亲昵。日东向长胜解释，说两人早已相恋，但长胜没法接受此事。长胜向雅言表露心迹，但雅言竟拒绝。雅言心绪不宁撞车受惊，日东与长胜赶至，长胜看到雅言抱紧的竟是日东。长胜回澳门与母亲吃饭，而之澄突然出现，更提出可协助长胜度过难关。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>48_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="48" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

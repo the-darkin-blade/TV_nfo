@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>荔枝宴出意外</title>
+  <originaltitle>荔枝宴出意外</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>6773148</id>
+  <uniqueid default="false" type="tmdb">1556713</uniqueid>
+  <uniqueid default="false" type="trakt">3096618</uniqueid>
+  <uniqueid default="true" type="tvdb">6773148</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>璎珞摆脱嘉嫔的人的纠缠后，发现荔枝树被毁，深知如果不想办法，自己只有死路一条，还会连累皇后丢了颜面。她果断赶去永和宫，劝说愉贵人去参加荔枝宴上，并故意引走了雪球。荔枝宴上，皇后借由千秋节礼物的赏赐，赠金给娴妃解困，娴妃十分感动。随后，愉贵人的出现让高贵妃和嘉嫔心下不安。很快，鲜荔枝树被抬到会场，皇后准备亲手采摘，打开红绸，雪球跳出来，现场一片混乱，并再度惊吓到了愉贵人。面对愉贵人苦苦向自己求救，又看到荔枝树被“雪球所毁”，再加上纯妃等人的意有所指，弘历震怒。高贵妃因教唆恶犬伤害愉贵人，毁掉福建岁贡，被罚一年宫份。嘉嫔同样受到牵连，降为贵人、禁足三月。皇后在听罢璎珞将事情真相的回禀后，喜欢璎珞能言善辩，聪明果断，决定从此后教她读书习字，世间道理。海兰察奉旨处置雪球，璎珞向海兰察讨要，声称要杀之泄愤，海兰察乐得不用卷入高贵妃的愤怒当中，开心的交给她，被傅恒看到。傅恒责怪海兰察奸诈，海兰察却不以为意，反而担心璎珞下不去手，傅恒看着璎珞的背影，笃定璎珞没有表面看上去那么简单。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2662</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep12.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:54:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>神雕侠侣</title>
+  <originaltitle>神雕侠侣</originaltitle>
+  <showtitle>神雕侠侣</showtitle>
+  <sorttitle/>
+  <year>2014</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>6.7</value>
+      <votes>13</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>杨过（陈晓 饰）是杨康之子，于偶然之中被郭靖（郑国霖 饰）和黄蓉（杨明娜 饰）夫妇收留，然而杨过虽有极高的武学天赋却生性顽劣四处招惹是非闯下大祸，郭靖夫妇无奈之下将他送往全真教，希望师傅能够好好调教。
+
+　　无法忍受苛刻森严的教规和苦不堪言的日子，杨过决定逃跑，却在误打误撞之中闯入了禁地古墓之中，在那里邂逅了恍若天人的小龙女（陈妍希 饰），就这样，杨过成为了小龙女的徒弟，修习古墓派武功，随着时间的推移，杨过和小龙女之间渐渐产生了超越于师徒之上的感情。李莫愁（张馨予 饰）的闯入使杨过和小龙女被卷入了剪不断理还乱的江湖纷争之中，他们所要面对的，不仅是明争暗斗腥风血雨，还有漫长的十六年的别离</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"68871","imdb":"tt12485864","tvdb":"289864"}</episodeguide>
+  <id>289864</id>
+  <imdbid>tt12485864</imdbid>
+  <tmdbid>68871</tmdbid>
+  <uniqueid default="false" type="tmdb">68871</uniqueid>
+  <uniqueid default="false" type="imdb">tt12485864</uniqueid>
+  <uniqueid default="true" type="tvdb">289864</uniqueid>
+  <premiered>2014-12-03</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <genre>Action</genre>
+  <studio>Hunan Television</studio>
+  <country>中国</country>
+  <tag>china</tag>
+  <tag>romance</tag>
+  <tag>wuxia</tag>
+  <actor>
+    <name>陈晓</name>
+    <role>Yang Guo / Yang Kang</role>
+    <profile>https://www.themoviedb.org/person/1192909</profile>
+    <tmdbid>1192909</tmdbid>
+  </actor>
+  <actor>
+    <name>陈妍希</name>
+    <role>Xiao Long Nu</role>
+    <profile>https://www.themoviedb.org/person/126777</profile>
+    <tmdbid>126777</tmdbid>
+  </actor>
+  <actor>
+    <name>毛晓彤</name>
+    <role>Guo Fu</role>
+    <profile>https://www.themoviedb.org/person/1697058</profile>
+    <tmdbid>1697058</tmdbid>
+  </actor>
+  <actor>
+    <name>韩东君</name>
+    <role>Wu Xiuwen</role>
+    <profile>https://www.themoviedb.org/person/1541647</profile>
+    <tmdbid>1541647</tmdbid>
+  </actor>
+  <actor>
+    <name>宗峰岩</name>
+    <role>Ouyang Feng</role>
+    <profile>https://www.themoviedb.org/person/2296493</profile>
+    <tmdbid>2296493</tmdbid>
+  </actor>
+  <actor>
+    <name>杨蓉</name>
+    <role>Mei Chaofeng</role>
+    <profile>https://www.themoviedb.org/person/1258369</profile>
+    <tmdbid>1258369</tmdbid>
+  </actor>
+  <actor>
+    <name>赵樱子</name>
+    <role>Cheng Ying</role>
+    <profile>https://www.themoviedb.org/person/2062754</profile>
+    <tmdbid>2062754</tmdbid>
+  </actor>
+  <actor>
+    <name>张馨予</name>
+    <role>Li Mochou</role>
+    <profile>https://www.themoviedb.org/person/1048435</profile>
+    <tmdbid>1048435</tmdbid>
+  </actor>
+  <actor>
+    <name>张萌</name>
+    <role>Liu Yinggu</role>
+    <profile>https://www.themoviedb.org/person/1612556</profile>
+    <tmdbid>1612556</tmdbid>
+  </actor>
+  <actor>
+    <name>张丹峰</name>
+    <role>Dugu Qiubai</role>
+    <profile>https://www.themoviedb.org/person/2080701</profile>
+    <tmdbid>2080701</tmdbid>
+  </actor>
+  <actor>
+    <name>张雪迎</name>
+    <role>Guo Xiang</role>
+    <profile>https://www.themoviedb.org/person/1258373</profile>
+    <tmdbid>1258373</tmdbid>
+  </actor>
+  <actor>
+    <name>邬靖靖</name>
+    <role>Gongsun Lu'e</role>
+    <profile>https://www.themoviedb.org/person/2062755</profile>
+    <tmdbid>2062755</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-25 20:49:08</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

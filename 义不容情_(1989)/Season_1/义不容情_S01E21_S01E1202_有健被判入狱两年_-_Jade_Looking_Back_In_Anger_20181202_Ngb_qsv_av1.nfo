@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>有健被判入狱两年</title>
+  <originaltitle>Episode 21</originaltitle>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id>4575278</id>
+  <uniqueid default="false" type="tmdb">1743623</uniqueid>
+  <uniqueid default="false" type="trakt">3254400</uniqueid>
+  <uniqueid default="true" type="tvdb">4575278</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>世邦与耀国到灵堂拜祭俊杰。楚君见耀国表现不安情绪，暗觉疑惑，连忙向有健追问内情，始揭发有健代有康顶罪之事，劝有健挺身指证有康。
+
+有健向家人透露有康所为，并声言不再为他顶罪。有康以家人经济威胁，有健不为所动。有康走投无路之下，竟狠心离开香港。有健不忍有康前途尽毁，在法庭上承认控罪，终于罪名成立，被判入狱两年，家人均替他不值。
+
+楚君明白有健苦心，代他向倪坤求谅，但倪坤误会楚君因钟情于有健，偏帮外人，父女再起冲突。
+
+有康回港后，因家人皆不值其所为，合力排斥他，令他甚为难受。
+
+有健入狱后，因不值恶棍杜金水欺压彭济、刘中正及苏华龙等，与金水发生冲突。金水对他怀恨于心，施计陷害有健，累他被收押「水饭房」，刚巧遇上日富被调守该监，二人相遇别有一番滋味。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1076</height>
+        <durationinseconds>1311</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E21.20181202.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Looking Back In Anger 20181202 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>1202</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1076</height>
+        <durationinseconds>1311</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E21.20181202.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1202" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

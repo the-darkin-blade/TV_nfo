@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 1 集</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">543573</uniqueid>
+  <uniqueid default="false" type="tvrage">477163</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>国光送老婆大人希敏返裁判处工作，在停车场碰到下属检控主任昕昕送早餐给希敏，可是正直的希敏不为所动，更命令昕昕立即上楼，准备开庭！昕昕手忙脚乱，遗下两份上堂文件在国光的车上！国光觉得事态严重，不理身分，抱着BB走入法庭交文件给老婆！可是BB是不能进入法庭，希敏想也不想，便下令庭警带国光两父子离开，否则控告他藐视法庭！
+
+葛德云被控让狗只随处咬伤人！德云说自己并非故意放狗，只是有人撩狗只才遭咬伤。可是希敏觉得他疏忽照顾狗只才有意外！德云不服，希敏唯有到渔农护理处做实验，测试德云是故意让狗只咬人！德云最终敌不过着名女钉官的辩证，被判有罪！
+
+BB已经半岁大，依国光乡例，要一家大细返村为孩子点灯！希敏极不愿意入围村，但为了儿子亦无办法！点灯仪式开始，女人不能入祠堂，希敏只能隔门观看。其实，她是怕了围村「点地公」十三公，因为他便是当天她曾钉死的罪犯！可是，十三公故意说出一些对BB不利的说话，企图引希敏破坏仪式，然后藉机再大骂一番！希敏爱子深切，居然上当，因为心慌意乱冲入祠堂，不小心弄翻了所有祭品！家公德通怒不可遏，要她向十三公斟茶认错！但希敏死不愿意，更与十三公争论「女人不可入祠堂」的论题！幸好，最后国光妹妹宝贝聪明伶俐，讹称BB要饮奶，打发了一场辩论！
+
+扁头村居民被检控非法聚赌，德通是其中一名重要证人，不过此案却由公正无私的希敏做裁判！村民以为希敏是围村的媳妇，便会以和为贵，但她却反而加控家公也有参与赌博，弄到满庭风雨！休庭期间，村民居然在庭外大闹希敏是「痴线婆」，刚巧被主任裁判官智雄听到，应为村民有辱裁判官的声誉，要落案控告他们……希敏见智雄大公无私得如此厉害，也有点愕然！</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E01.20180424.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Just Love 20180424 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>424</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E01.20180424.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="424" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

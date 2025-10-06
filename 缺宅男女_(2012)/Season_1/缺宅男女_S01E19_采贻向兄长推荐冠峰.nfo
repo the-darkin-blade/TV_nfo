@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>采贻向兄长推荐冠峰</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444975</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>冠峰醉后苏醒过来便见采贻陪在自己身旁，不禁大表错愕；冠峰恍然明白是采贻一直照顾烂醉如泥的他，既感激又尴尬。冠峰将取消婚约一事告知采贻，采贻不禁替两人无法结合感到可惜，得知冠峰痛苦的心情，只好努力安慰他。
+
+冠峰沉重地向丽婵说出已取消婚事，丽婵不明原因，指不应因小事而放弃两人大好感情，冠峰只感唏嘘却不欲多言。
+
+冠峰旷工　惨被辞退
+
+冠峰打算重新振作投入工作，岂料因无故旷工而遭辞退，只能悲叹祸不单行。冠峰离开公司时与嘉乐碰个正着，但两人还未交谈，采贻突然出现，原来她欲送回冠峰留在酒店的锁匙包。
+
+冠峰闪出一丝歪念，以其人之道还自其人之身，遂不理嘉乐的注视随采贻走上私家车绝尘而去。采贻闻得冠峰被公司辞退，不禁替他担心。嘉乐不明冠峰早前的举动，决定向他问个明白。
+
+嘉乐拒绝　说出真相
+
+冠峰为向嘉乐报复反击，指采贻是在网上认识，更讥讽嘉乐一番；嘉乐要求与冠峰重新开始，但冠峰拒绝，令她伤心痛哭。朗翘从嘉乐口中得悉两人分手一事，朗翘认为嘉乐应向冠峰明言真相，令冠峰得知能清还债项全因嘉乐相助，但嘉乐指不想再伤害冠峰的自尊心，坚决不让朗翘将事情公开。嘉乐未能面对家人产生的压力，打算独自搬出居住，嘉安答应助她劝服美玲。
+
+嘉荣卜琼　互诉情史
+
+美玲对嘉乐的感情事不欲多言，只表示嘉乐要好好照顾自己，嘉乐感激母亲体谅。于嘉荣见嘉乐最终也是与冠峰分手收场，也大感可惜。嘉荣有所启发而向卜琼询问她的恋爱史，卜琼要求公平互相交代，嘉荣只好尴尬地表示卜琼是自己第一个女朋友，卜琼听后心甜不已。丁海等得悉冠峰取消婚事，感到无奈。嘉安关心冠峰，亦想知他有否向家人提及嘉乐不忠一事，但原来丁海与丽婵全不知情。
+
+嘉康主动　招揽生意
+
+嘉康提醒嘉安，公司只余下少量装修工程，嘉安表明就算没有工作也不会向宏瞻求助。
+
+另一方面，丁海的无心之言，令嘉康心感戚戚然，于是决定独自一人到公屋街道上派传单宣传，希望能多接工程。
+
+嘉康以极平价装修套餐作招徕，结果引来黑社会的滋扰，嘉康更遭大汉挥拳殴打。
+
+朗翘在工作时听到有客户欲把手上单位放盘，即有所行动；朗翘将找到好楼盘一事告知嘉安，嘉安心下一沉……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1078</height>
+        <durationinseconds>2685</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>19_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

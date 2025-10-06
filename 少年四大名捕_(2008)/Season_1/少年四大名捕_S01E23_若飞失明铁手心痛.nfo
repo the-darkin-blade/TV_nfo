@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>若飞失明铁手心痛</title>
+  <originaltitle>Episode 23</originaltitle>
+  <showtitle>少年四大名捕</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>2305771</id>
+  <uniqueid default="false" type="tmdb">389798</uniqueid>
+  <uniqueid default="false" type="trakt">398222</uniqueid>
+  <uniqueid default="true" type="tvdb">2305771</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>神捕司各人担心无情会出事，四出寻找他；但正我却不闻不问，令众人对正我反感。蔡京到访神捕司与正我商谈，正我指辛苦经营神捕司只为利益，蔡京听后大为欣赏。追命通知铁手无情失踪，更说出正我已倾向助蔡京等事，但铁手只关心若飞的伤势。若飞伤势好转苏醒，但却发现双目失明大受打击。
+
+小骨向落石汇报找不到小刀，落石指正我已捉拿了小刀。小骨劝落石向蔡京报告，但落石怕小刀被杀而不答应，更硬把小骨绑上昆仑山不让他向蔡京告密。无戏向徽宗说出收到告密指蔡京谋反；王爷收到正我的通知，指徽宗欲查谋反之事，大惊下要蔡京提早起事。
+
+追命在市集内遇见正我，跟踪他后发现正我与蔡京勾结。追命对正我为权力而造反感失望拒绝加入，正我只得将追命刺死。蔡京定下出兵之日，要芷妍尽早在无情身上找出绝世神兵的制造方法。
+
+芷妍偷偷从大牢救走无情，更带他离开。小骨杀死了护送他到昆仑山的随从，赶向蔡京告密，蔡京要小骨大义灭亲杀死落石。正我到王爷的军营打算揭穿蔡京的真面目，却反中了蔡京的陷阱；追命家人发现追命原来尚生存……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2674</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Four.Ep23.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

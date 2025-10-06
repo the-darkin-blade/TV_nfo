@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 26 集</title>
+  <originaltitle>Episode 26</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id>433897</id>
+  <uniqueid default="false" type="tmdb">2299440</uniqueid>
+  <uniqueid default="false" type="trakt">1595969</uniqueid>
+  <uniqueid default="true" type="tvdb">433897</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雅言虽得悉日东的秘密，但亦答应帮他守密。长胜为了挽留日东不让他辞职，竟主动到拳馆与他提出打赌。长胜要求日东如不能在十分钟内击倒他，便要收回辞职信。长胜在遍体鳞伤下终得日东答应留下。翌日雅言从长胜口中得悉此事，但当她前往探望日东时，却发现他欲搬走。雅言几经努力，成功说服日东复职。在雅思安排的艺术展览中，贺峰突然到场。雅思与他四目交投，但贺峰却视若无睹。筱柔到场后发现有记者，于是特意要雅思陪她离开以避风头。 晚上雅思与母亲分析与贺峰的关系时，始发现筱柔只是表面上支持自己，但实际质疑两人不会有好结果。启发经审判后罪成，需入狱十一个月。哲男收到医生联络，误以为父亲身体出现毛病，立刻飞车赶至了解情况，却原来是哲男操劳过度肝功能指数下降需留院检查。贺峰照顾儿子时，与他分享心底话。雅曈不断收到启发的信件，而关静竟出现请她探望启发。雅思在离港前夕发现不见了电话，急得不顾一切就跑出街外，家人明白她是想等候贺峰的来电。 雅瞳探望启发，原来是为了劝他不要再写信扰骚自己。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>26_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

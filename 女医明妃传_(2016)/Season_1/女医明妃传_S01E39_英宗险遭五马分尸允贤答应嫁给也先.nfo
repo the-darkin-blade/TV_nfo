@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>英宗险遭五马分尸允贤答应嫁给也先</title>
+  <originaltitle>英宗险遭五马分尸允贤答应嫁给也先</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>39</episode>
+  <id>5540388</id>
+  <uniqueid default="false" type="tmdb">1176473</uniqueid>
+  <uniqueid default="false" type="trakt">2159653</uniqueid>
+  <uniqueid default="true" type="tvdb">5540388</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>英宗为了庇护众士兵逃亡，甘愿自己留下来束手就擒。小马子叫醒惊梦中的代宗，向他汇报了皇后娘娘小产的噩耗，代宗去看望皇后并对她进行了一番言语安慰，代宗走后，汪美麟向其父汪国公忏悔，是不是因为自己那日为了撇清与允贤被害一事的关系，不惜以自己腹中的小皇子发誓，才会导致小皇子还未出世便已夭折。也先抓回英宗，非常愤怒，下令将英宗五马分尸，允贤被绑在树上不能动弹，脱不花向为了救英宗，谎称自己肚子里有了他的孩子，也先并不相信，还是一定要对英宗施行车裂之刑。最后，还是允贤的一番话打动了也先，也先这才放过了英宗。允贤在也先面前一直哭着，也先为了安慰允贤说会答应她的一切要求，也先原本以为允贤会让他放英宗回北京，可允贤并没有提出这个要求，而只是让也先放了所有被俘的大明士兵，并暗示自己愿意嫁给也先，于是也先爽快地答应了允贤的要求，还为自己可以娶到允贤大为欢喜。脱不花质问允贤为何要为了保全英宗而不惜嫁给她大哥，还指责允贤对英宗有私情，允贤一番民族大义、朋友真情说得脱不花哑口无言，但脱不花仍说允贤看不清自己的心。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E39.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="39" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

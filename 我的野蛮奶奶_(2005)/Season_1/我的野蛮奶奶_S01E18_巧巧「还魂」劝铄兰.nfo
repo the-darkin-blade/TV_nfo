@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:53:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>巧巧「还魂」劝铄兰</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>我的野蛮奶奶</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id>2624391</id>
+  <uniqueid default="false" type="tmdb">2500815</uniqueid>
+  <uniqueid default="false" type="trakt">1434751</uniqueid>
+  <uniqueid default="true" type="tvdb">2624391</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>茂春想尽办法哄铄兰回府，但铄兰以为自已害死巧巧，坚拒接济；十一假扮发现巧巧尸体，引开绵伦监视，另一方面让巧巧现身向铄兰说明真相，化解铄兰内疚之心。
+
+铄兰虽然搬回和丰德同住，但感到巧巧与丰德情投意合，有心撮合二人，亲笔写下休书和丰德离婚。可是丰德直言由始至终只爱铄兰，令铄兰感动，两夫妻和好。
+
+铄兰眼看儿子与媳妇因自已的事而整天争吵，便出好心，相约他们二人郊游，还与丰德夹计，假扮他们二人「遇险」，证明二人仍关心对方，结果成功让茂春与十一和好如初。
+
+灵珊自假成亲一事后患上失心疯，关胜唯有做苦工筹钱买药。原来，关胜的真正身分是普释师兄「血手麻四」，普释捉走灵珊威胁他对付不留名，「不留名」赶至现场，只看到遍地尸体和大批官兵……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:08</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2690</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Wars.Of.In-Laws.Ep18.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

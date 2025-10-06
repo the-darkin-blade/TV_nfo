@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 9 集</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">543579</uniqueid>
+  <uniqueid default="false" type="tvrage">477153</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>国光赶到商场，希望老婆能冷静下来，回想事发经过，可是就算保安开了失踪广播，还是没有儿子的下落。五时正，阿B够钟食奶，如果不吃奶，他便会哭，所以国光希望能找到儿子的哭声！幸运地，他们在停车场找回阿B！经此惊魂事件，希敏终于「的起心肝」学凑仔，决心要做一个负责任的妈妈！
+
+日光日白，Yoyo、咏诗、宝怡和希敏玩完瑜伽后，在街上见到AK与一名美少女亲密地从酒吧走出来！
+
+原来此女子名Eva，与AK一起在孤儿院长大，最近被检控醉酒驾驶后撞伤途人，找了他做辩护律师。刚巧，庭上的控检官又是Yoyo。可是，Yoyo的老毛病又来了，居然在庭上向AK大兴问罪之师，查询有关他与Eva的行踪，两人将感情事搬上法庭！戴官见两人感情用事，警告他们若再违犯庭上守则，会向律师公会投诉二人的专业操守！
+
+其实，AK发现此案另有文章，而且Eva更隐暪一些重要细节，希望能助身在加拿大的男朋友脱罪！最终，Yoyo知道了AK与Eva没有任何越轨行为，与他和好如初！两人上了国光家吃饭，但通叔见希敏所煮的餸菜即不满，于是他们陪他上街吃馄饨面，原来经过了一星期，希敏的厨艺仍不能入口！不过，国光仍吃得津津有味，因为他知道老婆的爱心才是最好味！
+
+希敏觉得老公不是做生意的材料，但他仍做成第一宗生意！可是当他想与Simon庆功时，才知道公司的幕后老细根本是高天，一切都是由他控制！不过，高天仍说是赏识他的才华才投资组多媒体公司！国光不想希敏发脾气，便将此事隐暪下去！另外，国光更发现公司秘书Debbie竟是高天的女朋友之一，还要为他保守秘密！晚上，Debbie饮醉酒，高天着国光送她回家，不幸被希敏发现！</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>1327</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E09.20180504.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Just Love 20180504 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>504</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>1327</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E09.20180504.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="504" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

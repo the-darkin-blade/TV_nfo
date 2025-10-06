@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>皇后产皇子允贤诊病施恩</title>
+  <originaltitle>皇后产皇子允贤诊病施恩</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id>5540380</id>
+  <uniqueid default="false" type="tmdb">1176461</uniqueid>
+  <uniqueid default="false" type="trakt">2159645</uniqueid>
+  <uniqueid default="true" type="tvdb">5540380</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>郕王登基，汪美麟的凤凰梦终于成真，按说她也该心满意足，安稳下来了。可这位蛇蝎美人的野心却还不止于此，为了将敌人赶尽杀绝，她竟动起了伤害钱皇后的心思。在她的有意惊扰之下，钱皇后果然不幸早产。但人算不如天算，这提早降生的婴孩不仅是位皇子，更是一条健康有力的生命。借小皇子之口，钱皇后将自己的所愿所望皆讲予了慌忙前来探望的郕王听。尽管身为天子，此时的郕王却并未生出任何贪恋权位之意。为了安下皇嫂的心，他竟当场宣旨立刚出世的小皇子为太子，更发下毒誓，如若自己生出一丝夺位之心，必定落得早死无子的下场。问心无愧的郕王当然不会惧怕任何毒誓，但一旁的汪美麟却是如遭雷击，愣在了当场。这草草立下的誓言仿若为她量身打造一般，直戳她心中罪恶的深渊。此时的瓦剌王庭中，乍然得知大明已然改弦更张的消息，连伯颜帖木儿这个莽汉也不禁为英宗的被弃感到可悲。但这消息更令也先感到郁闷的是英宗利用价值的丧失，为了弥补损失，他决定不再犹豫，立刻着手准备进攻北京。另外一边，机缘巧合之下，允贤救下了瓦剌统领难产的妻子。这救命之恩令良心未泯的统领给予了允贤许多关照，连一旁的大明军士们也都跟随受益少吃了很多苦头。瓦剌王庭之中，身为太师却权势滔天的也先实际上也与瓦剌汗王有着极深的矛盾与暗斗。酒宴之上，大汗故意利用程十三的医术，激起了两人之间的矛盾。尽管也先实际上已然掌握了瓦剌部落的统治之权，但碍于血统的低劣，却还是难以真正赢得大汗之位，只得暂居人下。冲动的伯颜帖木儿将酒宴上积攒下来的怒气全数撒在了与英宗的比武之上，可是令他做梦也没有想到的是，这位看似文弱的囚徒皇帝竟然几招之内便轻轻松松地制住了自己。这一场比武令单纯的武夫伯颜彻底改变了对大明皇帝的看法，英宗的“以静制动，以小搏大”理论更是使他彻底折服，心甘情愿将这个敌人当作了真正的朋友。另外一边的也先却没有弟弟的闲情雅致，一心准备攻打北京的他正在全力逼迫英宗发布他所需要的诏书。意志坚定的英宗自然不会妥协，气急败坏的也先竟然下令将他投入了暗无天日的地洞之中。英宗之事尚未了结，也先又遇上了一桩更为棘手的险情。他的亲妹妹脱不花郡主竟被疯狗咬伤，持续发病危在旦夕。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E31.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

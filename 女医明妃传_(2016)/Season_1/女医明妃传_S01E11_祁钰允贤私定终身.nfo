@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>祁钰允贤私定终身</title>
+  <originaltitle>祁钰允贤私定终身</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id>5527082</id>
+  <uniqueid default="false" type="tmdb">1176439</uniqueid>
+  <uniqueid default="false" type="trakt">2159625</uniqueid>
+  <uniqueid default="true" type="tvdb">5527082</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>皇上在朝堂之上主持重修大堤之事，并打算将监察使一职指派给王振，太后坚决反对，称王振现已身兼数职，若再担任监察使重任，难免分身乏术，顾此失彼，汪国公了解太后意图，举荐郕王朱祁钰担任监察使，而自认为与祁钰亲近的太后亦同意此提议，皇上假意反抗，赌气将杭纲封为四品将军。其实皇上正想给祁钰谋个好差事，太后此举只不过好让他顺手推舟。下朝后，程十三故意挑拨，说武官中参与抗灾的并非只有杭纲一人，但偏只有他一人升官，恐怕是得益于他那个被称为“活观音”的女儿，还说兴许皇上在永庆庵见了允贤一面就看上了她也不一定，杭纲羞愤不已，回到家更加坚决地要将允贤早日嫁出去，还请了媒婆给允贤说媒。几个小孩在允贤家门口唱起“活观音，救人命”的歌谣，紫苏知道老爷听了之后一定会更加生气，赶忙制止，后询问得知他们之所以唱此歌谣，是希望允贤听到后继续去治病救人。杭父竟气急败坏到想将允贤随意嫁出家门，允贤绝不愿意就此嫁与自己甚至都没有见过的人，将“红巾”挂到绣楼外，祁钰见到“红巾”以为允贤已经答应了他们之间的婚事，到杭家与允贤偷偷会面，允贤一时不敢袒露自己的心思，只说是受父亲四处请人做媒所逼，实在无可奈何，于是想与祁钰一起商量对策，祁钰则告诉允贤他早已私下将杭父请人说媒的事情摆平，允贤不必为此忧心。祁钰问允贤自己是否是她的无奈之选，允贤立即否认，并向祁钰坦诚她早在祁钰将自己从惊马上救下之时就已对他芳心暗许，如今之所以不敢草率答应祁钰的“求婚”，则是害怕祁钰受自己现在名声恶劣所累，更担心祁钰转而后悔，祁钰再次向允贤坚定地表明心意，两情相悦的两人就此私定终身。汪美麟私下拜访吴太妃，吴太妃本就因汪美麟是太后唯一的亲侄女，其父汪国公又是朝廷重臣而对她格外抱有好感，看出汪美麟对郕王的一片情谊，吴太妃便想促成祁钰和汪美麟之间的姻缘。汪美麟将允贤在永庆庵给病人治病，罔顾男女大防，并且遭受众人议论的事告诉吴太妃，吴太妃为此对允贤心生排斥。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1327</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E11.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

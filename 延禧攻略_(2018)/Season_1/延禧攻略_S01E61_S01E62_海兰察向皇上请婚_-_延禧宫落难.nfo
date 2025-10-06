@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>海兰察向皇上请婚</title>
+  <originaltitle>海兰察向皇上请婚</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>61</episode>
+  <id>6779888</id>
+  <uniqueid default="false" type="tmdb">1556762</uniqueid>
+  <uniqueid default="false" type="trakt">3104730</uniqueid>
+  <uniqueid default="true" type="tvdb">6779888</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>沉璧心疼璎珞，请求太后免抄血经，道出失血过多会伤及璎珞身体，甚至会早亡，此举反而引起太后对璎珞的不满。璎珞送来血经，却被太后拒之千里之外，令璎珞不安。海兰察坚持迎娶明玉，不惜向弘历请婚，但明玉告诉海兰察，当初的相爱只是对他的利用。明玉意识到婚事势在必行，对日渐临近的婚期极为忧伤。继后将康熙帝的古琴调试，准备有机会献给弘历，不想十二阿哥趁人不备，顽皮弄坏，继后发怒，乳母连忙带走十二阿哥，继后对十二阿哥恨铁不成钢，幸得弘昼劝慰。顺嫔在甬道遇见正在责罚福康安的傅恒，无意间掉落了手帕，手帕的绣样却和傅恒的荷包一样。璎珞精心为明玉筹备婚礼，准备了精致美艳的嫁衣，明玉忧心忡忡。沉璧偶遇傅恒，说起傅恒的自律以及压抑，傅恒却她交浅言深而颇为不快。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2646</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep61-Ep62.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="61" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>延禧宫落难</title>
+  <originaltitle>延禧宫落难</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>62</episode>
+  <id>6779890</id>
+  <uniqueid default="false" type="tmdb">1556763</uniqueid>
+  <uniqueid default="false" type="trakt">3104732</uniqueid>
+  <uniqueid default="true" type="tvdb">6779890</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>璎珞回到明玉房间仔细查证，发现一套陌生的金器，而明玉自尽的金剪，便是其中之一，璎珞怀疑上了沉璧。璎珞预备将一切告知弘历，却被弘历拒之门外，璎珞匆匆带着金剪赶赴丽景轩质问沉璧，沉壁说自己一切都是为了保护璎珞。璎珞逼问沉壁，沉璧面对璎珞，竟然要一死以证清白，二人争执之间，沉璧受伤。这一幕被赶来的太后撞见，太后误会璎珞要责罚她。继后探望受伤的顺嫔，顺嫔主动寻求继后的合作，继后表示赞赏。继后将延禧宫下人全都送去慎刑司拷问，小全子也背叛了璎珞。袁春望掌管延禧宫，小全子也成了他的走狗。延禧宫空空荡荡，每顿的膳食也只是清水一碗。纳兰淳雪向沉璧示好，送她药材还姐妹相称，却被沉璧讥讽。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2646</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep61-Ep62.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="62" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

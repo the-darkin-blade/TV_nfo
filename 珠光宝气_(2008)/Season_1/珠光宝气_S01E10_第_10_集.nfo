@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 10 集</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>433794</id>
+  <uniqueid default="false" type="tmdb">2299424</uniqueid>
+  <uniqueid default="false" type="trakt">1595935</uniqueid>
+  <uniqueid default="true" type="tvdb">433794</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>长胜与夺得外国影后荣誉的苏敏饭局，席上苏敏说出因有雅言的支持才能成功。长胜遇上昔日学厨同门，更被对方指责他害日东被青岛警方拘留。长胜查出原来当天因赛艇失败而打烂人家车窗后，竟是日东被捕。长胜突改变工作行程回到澳门与母亲饭聚，更脱下商场中冷漠的面具，对母亲照顾周到。长胜到达后顺利将事件解决救出日东，原来事主为贪更多赔偿特意折返报警，而日东被捕后却完全没有供出长胜等人，因此只得被囚。长胜欲付出六十万补偿却被日东拒绝，日东更说出昔日对长胜的情谊，长胜不作声色但已被感动。筱柔与好友淑贞茶聚时被顽童扰骚，欲教训他时却意外发现他是富添与外遇所生的儿子。大雨滂沱，行人隧道水浸，看到无助的雅瞳，启发特意背她涧水穿过，令她大为感激。启发得悉雅瞳将调至其他店铺实习，大感失落。启发偕女友在高级餐厅吃饭，当他饮醉后更说自己本是珠宝店少东，但父亲的股分被怀德骗去。雅言收到短讯后赶到机场，终发现富添有外遇之事。筱柔更传真致各传媒，公开说出向雅思追讨四百万之欠债。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>珠光寶氣.The Gem Of Life.2008.Ep10.1080I.Hdtv.H264.Ac3.2Audio_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

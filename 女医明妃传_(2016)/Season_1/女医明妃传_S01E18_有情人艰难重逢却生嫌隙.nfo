@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>有情人艰难重逢却生嫌隙</title>
+  <originaltitle>有情人艰难重逢却生嫌隙</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id>5527089</id>
+  <uniqueid default="false" type="tmdb">1176446</uniqueid>
+  <uniqueid default="false" type="trakt">2159632</uniqueid>
+  <uniqueid default="true" type="tvdb">5527089</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>皇上将允贤从御药房救出，允贤这才知道原来自己之前交的那个好朋友“郑齐”竟是当今皇上。皇上派人将允贤还活着的消息通知祁钰，祁钰得知心爱之人历劫生还，立即恢复了精神，健步如飞赶到殿上与允贤相见，二人重逢相拥。皇上早知二人两情相悦，于是召来祁钰的母亲吴太妃，打算给祁钰赐婚，吴太妃以为皇上是要给祁钰和安和君主汪美麟赐婚，喜出望外，连连答应，可见了允贤，吴太妃才明白过来原来皇上这是要给祁钰和允贤赐婚，坚决拒绝，称允贤曾上过公堂，有失清誉，且曾抛头露面给男人诊病，有违妇德，故宁愿抗旨也绝不让允贤成为自己的儿媳。吴太妃因赐婚的事情在殿上晕倒，允贤当即为吴太妃把脉发现太妃的身子并无大碍根本就是假装晕倒，但允贤并未戳破吴太妃的把戏。吴太妃回到住所，太医刘平安为其诊病亦觉得吴太妃身子并无什么毛病，可就在这时，太后却带着程十三来给吴太妃看病，吴太妃给程十三使眼色，程十三则支开众人借诊病之名，行给太妃出主意之实。太后斥责祁钰“见色忘孝，是为大耻”，祁钰因此而心生愧疚。祁钰听了太妃的贴身太监的建议，想让允贤改名换姓，以此掩饰允贤真实身份，改名换姓原是耻辱之事，可允贤为了不让祁钰为难，勉强答应，祁钰也向允贤保证以后再不会让允贤受一点委屈。允贤求见皇上，虽说了自己或将改名换姓的事情，却并非要为自己叫屈，而是借此说出杭家多年前的那桩旧案，并请求皇上彻查此事，找出真凶，为杭家平反冤情，恢复她谭家旧姓。祁钰带允贤正式拜见母亲，吴太妃表面答应重新看待允贤，见了允贤却又对允贤横加侮辱，说她清白有辱，不守妇德，还禁止允贤以后再研习医术，行医治病，允贤满腹委屈，忍无可忍，说太妃若是看不惯她习医行医，她也不会勉强嫁入郕王府，说完转身离去。祁钰埋怨允贤在母亲面前态度强硬，还表明虽同意允贤继续研习医术，但不愿意允贤以后再出去给人治病，允贤质问祁钰是否忘了当初在绣楼对她说过的话，许下的承诺——支持她的医学梦想。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1317</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E18.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

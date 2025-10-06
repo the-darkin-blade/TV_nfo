@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>官迫民反酿成悲剧</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>少年四大名捕</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>2305611</id>
+  <uniqueid default="false" type="tmdb">389783</uniqueid>
+  <uniqueid default="false" type="trakt">398207</uniqueid>
+  <uniqueid default="true" type="tvdb">2305611</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>为了寻回铁手等人，追命想出利用半疯的田嫂；田嫂更误会了小刀是自己的弟妇。无情跟踪村民翠翠，发现她私下与女娲娘娘见面，当众村民欲以毒烟杀害被困山洞中的铁手与官员等时，幸得田嫂带领，追命与冷血成功救回众人。无情发现了女娲娘娘作祟之谜，但混乱中田嫂却不幸丧命。首谋者承认一切都是因为官员过分欺压村民而惹起之祸。为了阻止蔡京屠村，众神捕竟合演一场「女娲显灵赠宝」，终成功让蔡京放过村民。
+
+经历天石村之事后，众人亦因此得悉了冷血的悲惨身世；正我将天石村的宝石交予皇上，更借机说出贪官藉此欺压百姓之事，令徽宗下旨要蔡京停止采石献宝。
+
+嫣红的姊妹丧父，特意来到京城探望，却遇到债主李老板临门，红决定为姊妹摆平欠债，晚上偷偷闯入李家但被正我发现。正我答应会调查此事。神捕司查得李老板过去的每趟标都会被劫，他们怀疑李老板自「盗」自演。
+
+飘雪的好朋友到开封探望她时，竟染上了怪病突然死去，飘雪伤心不已，她的朋友突然复活变成了丧尸更欲袭击她。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2685</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Four.Ep08.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

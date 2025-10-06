@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>也先追求爱人允贤拒婚</title>
+  <originaltitle>也先追求爱人允贤拒婚</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>37</episode>
+  <id>5540386</id>
+  <uniqueid default="false" type="tmdb">1176470</uniqueid>
+  <uniqueid default="false" type="trakt">2159651</uniqueid>
+  <uniqueid default="true" type="tvdb">5540386</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>天真烂漫的脱不花郡主拥有着草原姑娘所有的美好品质，热情奔放的她将自己的爱恋心意全数讲给了英宗听。虽然没有得到心上人的回应，但倔强的她还是不愿放弃。为了满足心上人的愿望，脱不花带着英宗来到了一处有水有山的无人峭壁。在这秘密的地方，英宗终于实现了见到允贤的愿望。短暂的会面之中，英宗将众人筹备的逃跑计划通知给了允贤。为了表明心意求娶美人，也先特意为允贤献上了一只白雁为礼，出乎他意料的是，允贤竟利用自己的医者身份将这只白雁放回了天空面对允贤的委婉拒绝，也先虽然有些伤心，却绝不会就此放弃。此时在他的眼中，允贤宛然已是一位菩萨般的美人了。为了彻底征服这位奇女子，也先彻底收起了自己的野蛮暴躁，决定放下身段将她认真追求到自己身边。还在努力逃跑的英宗等人绝对不会想到，此时的大明皇宫之中，阴险狡诈的汪国公却正在朱祁钰耳边吹着阻止他们归京的阴风。若说世人有谁不爱权利，那还是郕王时的朱祁钰绝对算得上其中翘楚。只是一旦登上了高位，品尝到了权力的滋味，再想放弃那就真的可说是难上万分了汪国公寥寥数语一番挑拨，就轻轻松松动摇了朱祁钰的决心。连他也忍不住开始怀疑自己，是否真的甘愿让位于人，做回那个低人一等的小小亲王呢。此时在瓦剌王庭之中，也先对允贤的无限宠爱果然招来了许多的流言蜚语。迷信的蒙民们很容易便受到了阿噶多等人的刻意误导与煽动。霸气的也先却看不得心上人受到一点点的委屈，他将这些作乱之人狠狠地抽上鞭子，以儆效尤。他就是要让草原上的所有人都知道，允贤是属于他也先的女人。只是就算再有耐心，也先本性中的暴躁无情也是很难改变的。一次又一次的表白被拒终于耗光了这个莽汉仅存的一点耐心。为了挫挫允贤这个不知天高地厚的小女子身上的傲气，也先一怒之下将允贤贬到了战俘们辛苦劳作的淘金河中。就这样，允贤离开了养尊处优的好生活，加入了英宗等人吃不饱穿不暖的劳工队伍。面对吃尽苦头的允贤，英宗自然是心痛不已。也许只有日日相见的欢喜可以抚慰二人备受苦痛的心了。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1318</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E37.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="37" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

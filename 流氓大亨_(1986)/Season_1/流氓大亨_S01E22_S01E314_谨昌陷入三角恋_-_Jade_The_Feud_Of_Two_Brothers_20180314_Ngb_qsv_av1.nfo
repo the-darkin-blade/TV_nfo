@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:58:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>谨昌陷入三角恋</title>
+  <originaltitle>Episode 22</originaltitle>
+  <showtitle>流氓大亨</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1743885</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>谨昌不甘受电视台中人白眼，宁自资摆档卖牛杂，可惜祸不单行，走鬼被捉，致令血本无归，楚翘睹状欲出援手，但谨昌生性倔强，不轻易接受别人好意。
+
+学仁眼见其兄日以继夜辛勤工作以维持家计，大为感动，决痛改前非，一方面努力读书以博取优越成绩，另外更尽量抽时间兼职帮补家计，淑梅见他浪子回头，聊表安慰。
+
+谨昌自觉与月明生活方式截然不同，形成彼此阶级悬殊，内心甚为难受，遂故意避开月明。返之，楚翘在其逆境中，患难见真情，不时对他鼓励与开解，二人渐为投契。
+
+月明恐长此下去，会与谨昌感情起变化，在事业与爱情中难于取舍，进退两难之际，求助于楚翘。楚翘自觉身份尴尬，未敢向她提供意见。</plot>
+  <runtime>20</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1568</width>
+        <height>1076</height>
+        <durationinseconds>1232</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Feud.Of.Two.Brothers.E22.20180314.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade The Feud Of Two Brothers 20180314 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>流氓大亨</showtitle>
+  <season>1</season>
+  <episode>314</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>20</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1568</width>
+        <height>1076</height>
+        <durationinseconds>1232</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Feud.Of.Two.Brothers.E22.20180314.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="314" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

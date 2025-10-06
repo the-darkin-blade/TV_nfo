@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>有健有康不和</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>4575264</id>
+  <uniqueid default="false" type="tmdb">1743609</uniqueid>
+  <uniqueid default="false" type="trakt">3254365</uniqueid>
+  <uniqueid default="true" type="tvdb">4575264</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>有康恐得罪世邦，立追向他道歉。有健见其弟为着名利，竟甘心与证死亲母的世邦攀上关系，大感不满。耀明对有健含恨于心，竟以财势压在大学食堂老板上，着他辞去有健。有健大表失落，只好日以继夜当的士司机维持生计。
+
+有健因继续拍摄电视特辑，而与楚君接触很多，发觉虽然她是富家千金，但生性随和豪爽，于是二人惭成好友。楚君幼年丧母，得其父倪坤视为掌上明珠，悉心栽培她成为上流社会中出类拔萃的人，可惜倪坤性格过于专横，而不理别人感受，由此引起楚君对他反抗之心。
+
+楚君表面看来似游戏人间性格，但内心空虚非常。当她遇上风趣的有健时，常主动缠着他，令他啼笑皆非。
+
+世邦脱离司法界后，跟随表兄倪坤学习营商，却处处受其掣肘，心中暗对倪坤不服。
+
+有康看到有健所拍的特辑，直斥他在众人面前表露自己成就不如人，有健老羞成怒，双方再起冲突。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1566</width>
+        <height>1076</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E07.20181117.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Looking Back In Anger 20181117 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>1117</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1566</width>
+        <height>1076</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E07.20181117.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1117" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

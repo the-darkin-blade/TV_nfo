@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:40 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 45 集</title>
+  <originaltitle>Episode 45</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>45</episode>
+  <id>433915</id>
+  <uniqueid default="false" type="tmdb">2299459</uniqueid>
+  <uniqueid default="false" type="trakt">1596031</uniqueid>
+  <uniqueid default="true" type="tvdb">433915</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>怀德突然失去踪影，警方接手调查后向各人取口供。雅瞳遇上启发后约他倾谈，她更说相信启发并没有绑架怀德。但两人见面之事却被传媒拍下，幸得哲男出手帮助，将此事压下。贺峰到印尼小岛散心，苇庭突然出现，原来苇庭亦对世万的专横态度不满，更问贺峰是否真的甘心长期屈于他之下。长胜不欲雅言与家族间产生更多冲突，调任她协助日东争取东欧4G电讯牌照之事，雅言感激他的细心。世万与卓凝在青岛旅游时，突然向她暗示自己未必选择有血缘的人为接班人，更说安排她进入集团工作。泰川突然收到上司命令，要求暂停筹办一切与世万集团的工作，因苇庭决定向世万打收购战。雅思不满丈夫与苇庭过从甚密而发脾气，但贺峰竟不退让。雅瞳因启发之事与哲男争执，哲男心情低落喝闷酒与Sharon遇上，两人最后上了哲男的游艇。泰禾覆诊时看到苇庭入院，泰川得悉后主动探望。当他见到苇庭时，更说出有传媒在医院出现而被他打发。绑架之事东窗事发，启发不欲受牵连欲逃亡回内地，但却临时折返寻找失去消息的怀德。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>45_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="45" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

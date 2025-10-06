@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>珠光宝气</title>
+  <originaltitle>珠光寶氣</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <sorttitle/>
+  <year>2008</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>1</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>白筱柔（李司棋 饰）和丈夫康青扬(姜大卫 饰)育有三个美丽却个性不一的女儿，分别是康雅言（邵美琪 饰）、康雅瞳（黎姿 饰）、康雅思（蔡少芬 饰）。白筱柔自小精心培养三个女儿使得她们都出类拔萃，并盼望她们最终能得到一个富贵安稳的归宿。终于，白筱柔的三个女儿都即将嫁入豪门， 康雅言结交了富豪高常胜（林保怡 饰）、康雅瞳则与富二代贺哲男（陈豪 饰）相恋、康雅思则要嫁给富商贺峰（岳华 饰）。然而，贺峰的另一个身份竟是贺哲男的父亲，而高常胜是贺家生意上的竞争对手。错综复杂的利益关系背后有多少不可告人的秘密？三姐妹能否得偿所愿的嫁入豪门？</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"6093","imdb":"tt1330600","tvdb":"83932"}</episodeguide>
+  <id>83932</id>
+  <imdbid>tt1330600</imdbid>
+  <tmdbid>6093</tmdbid>
+  <uniqueid default="false" type="tmdb">6093</uniqueid>
+  <uniqueid default="false" type="imdb">tt1330600</uniqueid>
+  <uniqueid default="true" type="tvdb">83932</uniqueid>
+  <premiered>2008-10-20</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <tag>socialite</tag>
+  <tag>wealthy family</tag>
+  <actor>
+    <name>李司棋</name>
+    <role>Pak Siu Yau</role>
+    <profile>https://www.themoviedb.org/person/1587473</profile>
+    <tmdbid>1587473</tmdbid>
+  </actor>
+  <actor>
+    <name>邵美琪</name>
+    <role>Hong Nga Yin (Sylvia)</role>
+    <profile>https://www.themoviedb.org/person/1173600</profile>
+    <tmdbid>1173600</tmdbid>
+  </actor>
+  <actor>
+    <name>黎姿</name>
+    <role>Hong Nga Tung (Constance)</role>
+    <profile>https://www.themoviedb.org/person/67224</profile>
+    <tmdbid>67224</tmdbid>
+  </actor>
+  <actor>
+    <name>蔡少芬</name>
+    <role>Hong Nga Sze (Jessica)</role>
+    <profile>https://www.themoviedb.org/person/87948</profile>
+    <tmdbid>87948</tmdbid>
+  </actor>
+  <actor>
+    <name>姜大卫</name>
+    <role>Hong Ching Yeung</role>
+    <profile>https://www.themoviedb.org/person/65986</profile>
+    <tmdbid>65986</tmdbid>
+  </actor>
+  <actor>
+    <name>陈豪</name>
+    <role>Ho Zit Nam (Terrence)</role>
+    <profile>https://www.themoviedb.org/person/551869</profile>
+    <tmdbid>551869</tmdbid>
+  </actor>
+  <actor>
+    <name>林保怡</name>
+    <role>Ko Cheung Sing (Calvin)</role>
+    <profile>https://www.themoviedb.org/person/552084</profile>
+    <tmdbid>552084</tmdbid>
+  </actor>
+  <actor>
+    <name>岳华</name>
+    <role>Ho Fung (Martin)</role>
+    <profile>https://www.themoviedb.org/person/94972</profile>
+    <tmdbid>94972</tmdbid>
+  </actor>
+  <actor>
+    <name>黄宗泽</name>
+    <role>Ho Tai Chun (William)</role>
+    <profile>https://www.themoviedb.org/person/144586</profile>
+    <tmdbid>144586</tmdbid>
+  </actor>
+  <actor>
+    <name>王喜</name>
+    <role>Ho Tai Wor</role>
+    <profile>https://www.themoviedb.org/person/1178563</profile>
+    <tmdbid>1178563</tmdbid>
+  </actor>
+  <actor>
+    <name>陈鸿烈</name>
+    <role>Sung Sai Man (Philip)</role>
+    <profile>https://www.themoviedb.org/person/936716</profile>
+    <tmdbid>936716</tmdbid>
+  </actor>
+  <actor>
+    <name>马海伦</name>
+    <role>Sung Kwok Yuen Yi (Margaret)</role>
+    <profile>https://www.themoviedb.org/person/1081493</profile>
+    <tmdbid>1081493</tmdbid>
+  </actor>
+  <actor>
+    <name>朱慧敏</name>
+    <role>Man Wai (Mandy)</role>
+    <profile>https://www.themoviedb.org/person/127433</profile>
+    <tmdbid>127433</tmdbid>
+  </actor>
+  <actor>
+    <name>钟嘉欣</name>
+    <role>Sung Tze Ling (Elise)</role>
+    <profile>https://www.themoviedb.org/person/146654</profile>
+    <tmdbid>146654</tmdbid>
+  </actor>
+  <actor>
+    <name>于洋</name>
+    <role>Sung Sai Kei (James)</role>
+    <profile>https://www.themoviedb.org/person/119438</profile>
+    <tmdbid>119438</tmdbid>
+  </actor>
+  <actor>
+    <name>何炜晴</name>
+    <role>Ching Suk Jing</role>
+    <profile>https://www.themoviedb.org/person/1269910</profile>
+    <tmdbid>1269910</tmdbid>
+  </actor>
+  <actor>
+    <name>黎宣</name>
+    <role>Chan Siu Ho</role>
+    <profile>https://www.themoviedb.org/person/2429574</profile>
+    <tmdbid>2429574</tmdbid>
+  </actor>
+  <actor>
+    <name>郭少芸</name>
+    <role>Sum Chi Ching</role>
+    <profile>https://www.themoviedb.org/person/224061</profile>
+    <tmdbid>224061</tmdbid>
+  </actor>
+  <actor>
+    <name>关礼杰</name>
+    <role>Derek Chan</role>
+    <profile>https://www.themoviedb.org/person/1276972</profile>
+    <tmdbid>1276972</tmdbid>
+  </actor>
+  <actor>
+    <name>黄德斌</name>
+    <role>Sunny Yau</role>
+    <profile>https://www.themoviedb.org/person/70108</profile>
+    <tmdbid>70108</tmdbid>
+  </actor>
+  <actor>
+    <name>刘丹</name>
+    <role>Suen Wai-Tak (Ryan)</role>
+    <profile>https://www.themoviedb.org/person/1133980</profile>
+    <tmdbid>1133980</tmdbid>
+  </actor>
+  <actor>
+    <name>陈秀珠</name>
+    <role>Yu Wai Ting (Melissa)</role>
+    <profile>https://www.themoviedb.org/person/1318187</profile>
+    <tmdbid>1318187</tmdbid>
+  </actor>
+  <trailer>plugin://plugin.video.youtube/play/?video_id=baWpT-69AOM</trailer>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

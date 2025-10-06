@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>追命被派寻找宝画</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>少年四大名捕</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>2305571</id>
+  <uniqueid default="false" type="tmdb">389779</uniqueid>
+  <uniqueid default="false" type="trakt">398203</uniqueid>
+  <uniqueid default="true" type="tvdb">2305571</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>追命在狱中受私刑时，正我将他救回；正我更答应替追命翻案，但要他到江州牢营救一名得悉藏宝画行踪的犯人谷云扬，追命只得照办。正我得悉最后一幅画的所在地，要求无情与铁手共同合作；众人出发时遇上蓝天帮众人，得知他们亦想夺取宝画；女医师桑芷妍采药时遇险，幸得铁手出手相救。
+
+众人到达藏画者韩彬的家时，却发现蓝天帮与飞虎帮已到达，更为了争夺主动权而大打出手。此时芷妍突然出现，更制止众人向韩彬迫问藏宝画一事，原来韩彬患上了怪病；而醉心医术的芷妍是他的主治医师。追命在狱中无法查出云扬是谁，而追命在狱中结识的大头自认是云扬；原来他因被狱长选为私斗对象，因不想枉死而请追命帮助。
+
+追命查证了云扬身分后突然打伤了他，原来是藉此代他出战。帮众们向韩彬苦苦相迫，韩彬交出一个隐藏了多年的谜语，更说当中藏有他最重要的秘密。
+
+原来韩彬一直挂念离开多年的女儿花，铁手得悉后主动去寻找她；但花得悉父亲病重后却拒绝探望他。幸若飞出现协助，终令父女俩再重聚。韩彬感谢无情等人相助，特以宝画相赠；追命成功带云扬逃狱，最后更不惜跳崖避过追兵。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2679</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Four.Ep04.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

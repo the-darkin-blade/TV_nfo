@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 77 集</title>
+  <originaltitle>Episode 77</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>77</episode>
+  <id>432448</id>
+  <uniqueid default="false" type="tmdb">2299491</uniqueid>
+  <uniqueid default="false" type="trakt">1596067</uniqueid>
+  <uniqueid default="true" type="tvdb">432448</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雅瞳从种种事情中，明白到自己对哲男仍有感觉，但却因不了解对方心意而保持距离，两人在会议时遇上，也只得装作客气。雅思突然回家探望母亲，但看到筱柔用作唤回记忆所收藏的照片中，竟有着志球与她的合照时，欲把照片撕下。雅瞳为阻止而与妹妹争吵，英姐看不过眼，解释筱柔把照片留着的原因。因遗下饰物在哲男家，叶婷再拜访哲男。正借酒浇愁的哲男欲送她到机场，提议让自己小休片刻。饱受压力的雅思，回忆起贺峰在世时常助她解决问题，令她充满安全感的美好回忆时，竟收到有消息说儿子突然失踪。原来世万私下拐带了雅思的儿子，意图对贺家报复。筱柔的记忆发生错乱，回到当年贺峰被绑架的时候。青杨努力安抚，但她仍致电给雅思。面对儿子消息全无的雅思，对母亲的来电仍得装作平常。世万欲进行报复之时，却遇上消声匿迹了的卓凝。得叶婷制造机会，哲男竟与雅瞳一起吃晚饭。世万的太太婉仪看到了失踪了整天的丈夫回家，激动得对世万说出自己有多需要他，世万不禁老泪纵横。哲男发现有人将弟弟送到他的家中，哲男立刻送弟弟往医院。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>77_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="77" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

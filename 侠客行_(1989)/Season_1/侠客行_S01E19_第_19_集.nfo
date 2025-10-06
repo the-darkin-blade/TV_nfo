@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:09:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 19 集</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>侠客行</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2494449</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>海石要中玉等人臣服于他，否则大开杀戒，妙谛大师认出海石之身份。原来海石当年是少林小僧，一偶然机会下，夺得「侠客行」武功最后一句诗，凭其聪颖，推敲出前面诗句之武功，因而练成「侠客神功」，加上多年功力，其武功遂更高于破天。
+
+破天等人不肯屈服，海石欲杀众人，烟客故意放走众人，并自我牺牲，让破天等以目睹海石之「侠客神功」最后一招，破天大为感动，在众人掩护下，躲于密室，修练「侠客神功」最后一招。
+
+中玉在丁璫哀求下，偷往救不三不四，但不三不四已降服于海石，作内应令海石找到破天等人藏身之所，重伤破天，众人逃入无名谷内，为无名派所救，但破天已经脉尽毁，四肢残废。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1080</height>
+        <durationinseconds>2704</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E19.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

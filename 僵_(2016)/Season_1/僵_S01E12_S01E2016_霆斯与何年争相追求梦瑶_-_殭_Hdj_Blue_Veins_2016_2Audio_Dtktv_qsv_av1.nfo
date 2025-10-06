@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:00:12 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>霆斯与何年争相追求梦瑶</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>僵</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2301059</uniqueid>
+  <uniqueid default="false" type="trakt">12243548</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>活着把梦南的失忆原因，告诉紫红，紫红坦言活着对梦南非常重要，希望梦南不会再想起伤心事，请活着帮忙。活着出现在梦南的楼下，令她感到既惊讶又兴奋。活着带梦南到森林，陪她一起看萤火虫，梦南觉得非常浪漫。
+
+活着给霆斯与何年重大考验，他们为了完成这场考验，要在街上左穿右插。活着为了让梦南忘记过去，刻意陪她玩了一晚。梦南相当兴奋，因为活着的陪伴是自己一直的心愿。
+
+爱子心切不顾禁忌
+
+应天发现颖儿偷偷探望庞杰，他非常愤怒，要把颖儿杀死。这时他见到庞杰的香囊，即回想起以前的一段往事。
+
+何年希望友人画下他与梦瑶，可以整日看她的画像。草稿完成后何年遇到霆斯与梦瑶在餐厅，不禁醋意大发。何年一直跟踪他们，当霆斯送了梦瑶回家后，他突然出现在霆斯面前，指责他对梦瑶不礼貌。两人互相指骂火药味浓，霆斯又发现何年在草稿画上丑化自己。双方忍无可忍比赛分胜负。
+
+当二人的决斗进行得如火如荼之际，何年突然声东击西，返回梦瑶楼下。此时，何年发现梦瑶上了梓诚的车。霆斯与何年合作把梓诚打了一身后，把他藏在车尾箱内。
+
+为追梦瑶何年出招
+
+梦瑶从花店出来，不见梓诚，即问何年二人，但他们都谎称看不见他。霆斯与何年都扬言不会放弃梦瑶，二人决定公平竞争。何年为了追求梦瑶，花了很多心思。他见到梦瑶手机上有一张雪景照，猜想她是喜欢落雪的。
+
+何年想尽办法在街上制造落雪的效果，令梦瑶感到很浪漫。在他们正在享受这个人工美景之际，有一小童被吓得大哭，何年更被途人责骂。
+
+为求真相自拍记录
+
+梦南来到「夜吾夜」，见活着在修补外墙。她独坐在一旁看着活着专心地工作，已经非常高兴；其实在梦南心目中，只要静静地陪在他身边，都已是一种幸福。活着修补好外墙，梦南却嫌外墙单调，于是为外墙增添图案及色彩。
+
+翌日，梦南醒来，发现手上有油漆，于是拿出偷偷放在衣服的摄录器。当她翻看昨晚的影片时，见到与活着的油墙片段，既惊讶又开心。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1310</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[殭].Hdj.Blue.Veins.Ep12.2016.Hdtv.H264.1080I.2Audio-Dtktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>殭 Hdj Blue Veins 2016 2Audio Dtktv qsv av1</title>
+  <originaltitle/>
+  <showtitle>僵</showtitle>
+  <season>1</season>
+  <episode>2016</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1310</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[殭].Hdj.Blue.Veins.Ep12.2016.Hdtv.H264.1080I.2Audio-Dtktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2016" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

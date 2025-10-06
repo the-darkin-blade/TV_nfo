@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>允贤至祁钰家彻夜方归</title>
+  <originaltitle>允贤至祁钰家彻夜方归</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>5527081</id>
+  <uniqueid default="false" type="tmdb">1176438</uniqueid>
+  <uniqueid default="false" type="trakt">2159624</uniqueid>
+  <uniqueid default="true" type="tvdb">5527081</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>杭纲听说了“活观音”的事，担心允贤名誉受损，赶到永庆庵将允贤带回家中，不许她再出家门，允贤因上次顺天府公堂受审的的事情已经闺誉受损，这次在永庆庵医治霍乱，被灾民美誉为“活观音”的事又闹得沸沸扬扬，杭纲唯恐太后因此将目光放到允贤身上，继而察觉杭家的真实背景。允贤被父亲关进绣楼，不得出闺房半步，祁钰不得已“夜访”杭府，潜入允贤闺阁，祁钰并非苟且猥琐之辈，只因母亲吴太妃意外感染霍乱后连日治疗仍不见效，祁钰遂想“夜请”允贤到其家中为母亲诊病。返回时，二人同乘马车，第一次互诉衷肠。允贤回到家中，正巧被父亲发现彻夜外出，女子彻夜未归是有失名节的大事，杭纲一怒之下将允贤关入地牢，不给饭食。祁钰得知允贤因他而被父亲重罚，隐藏身份到杭府，向杭纲解释允贤昨晚是受王公公邀请进宫为贵人医治急症，杭纲这才将允贤放出地牢。杭纲见允贤缕出纰漏，担心允贤名节再受损，决心将允贤嫁出去。奶奶与允贤谈话，说允贤既受陌生男子邀请去其家中彻夜方归，那么该男子若是重情重义就应三媒六聘迎娶允贤，方可为允贤保住名节。放心不下允贤，来允贤家中探听情况的祁钰，在窗外听到奶奶对允贤说的一番话，遂向允贤示明心意，称同意奶奶的说法，愿意三书六聘娶允贤为妻，允贤若是同意，就将“红巾”挂到绣楼外让他看见。祁钰与祈镇商议，太后既有意扶他为新君，他便不好再与皇上过分亲近，当着外人最好刻意保持距离，假装不和，而实际上却相互帮衬。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1322</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E10.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

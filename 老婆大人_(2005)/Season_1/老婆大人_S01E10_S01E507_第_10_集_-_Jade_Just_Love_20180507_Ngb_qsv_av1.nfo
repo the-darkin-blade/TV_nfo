@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 10 集</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">543586</uniqueid>
+  <uniqueid default="false" type="tvrage">477152</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>希敏相信国光与Debbie光明正大，还陪老公送她回家。可是，一班姊妹却不表认同，尤其咏诗怀疑国光是扮猪食老虎，要希敏小心！但希敏对自己有信心，还骂咏诗对爱情甚有顾虑，很难找对像！咏诗一气之下自爆了钟意戴官的秘密！宝怡听到，觉得又有新玩意，立即打电话要戴官买一打香槟色玫瑰上瑜伽室找他。戴官为了尽快还清愿望，答应了！不过，他却不知已被宝怡利用，咏诗、希敏和Yoyo还以他俩正在拍拖！
+
+希敏告诉国光宝怡与戴官拍拖的事，但他却奇怪为何戴官会与后生女谈恋爱，怀疑他是玩弄宝怡的感情，决定找戴官问清楚！某天，国光约戴官做运动，因为心急求个明白，不幸在跑步机跌下来，还弄伤了足踝，幸好经戴官解释，全因为宝怡贪玩伪造拍拖的消息，国光才舒了一口气！过两天，国光与高天往上海参加交易会，通叔知道这是一个教希敏做主妇的良机！
+
+宝怡得罪了一名瑜伽学生，咏诗要宝怡无论如何都要求该学生勿退会。可是，宝怡却不肯就范！宝贝知道了，代她求学生，可是却不予受理，反被告指她滋扰！宝怡知大事不妙，还拍心口保证妹妹会无事，可惜却愈闹愈僵！最后，得到希敏教路，宝贝才脱罪！经此一役，宝怡更听希敏说话，还答应回家与爸爸吃饭，更搬离戴官的家与咏诗同住！
+
+国光早了两天返家，因为要与老婆庆祝结婚一周年纪念。希敏无意间见到国光买了一条钻石颈链，以为是送给她的，所以悉心打扮赴约。可是，国光只是送了一盒CD，希敏怀疑老公有外遇，在洗手间嚎哭。之后她碰见戴官，心情未平复的她，毫不犹豫便伏在他膊上再哭起来，可是却被国光见到此情景！</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E10.20180507.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Just Love 20180507 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>507</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E10.20180507.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="507" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

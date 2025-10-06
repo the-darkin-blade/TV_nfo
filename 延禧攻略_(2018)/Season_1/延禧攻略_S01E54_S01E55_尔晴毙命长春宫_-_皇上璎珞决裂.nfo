@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>尔晴毙命长春宫</title>
+  <originaltitle>尔晴毙命长春宫</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>54</episode>
+  <id>6779881</id>
+  <uniqueid default="false" type="tmdb">1556755</uniqueid>
+  <uniqueid default="false" type="trakt">3104714</uniqueid>
+  <uniqueid default="true" type="tvdb">6779881</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>弘历正为璎珞最近对自己不冷不热而烦心，璎珞就用弘历赏赐的云狐皮做了帽子送给弘历，讨得弘历的欢心。琥珀被罚跪甬道边终于晕倒，明玉将琥珀带回延禧宫，琥珀向璎珞请求宽恕，为了示好，不惜将尔晴当年所作所为和盘托出。明玉讲述了尔晴是如何将自己怀了皇上骨肉的事告知先皇后，被激怒的先皇后称所有人都背叛了自己，伤心欲绝。璎珞和明玉听闻后，震惊不已，使得先皇后致死的竟是尔晴，璎珞也因为记恨起了弘历。亲蚕礼，尔晴求见弘历，向弘历控诉傅恒，并赌咒发誓说福康安是富察家的骨血，弘历答应尔晴的请求，尔晴十分得意，弘历却对尔晴往事重提的举动心生厌恶。璎珞派人将尔晴押来，明玉愤怒至极，指出先皇后对众人的恩情，而尔晴却恩将仇报，简直如同豺狼之心。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2646</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep54-Ep55.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="54" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>皇上璎珞决裂</title>
+  <originaltitle>皇上璎珞决裂</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>55</episode>
+  <id>6779882</id>
+  <uniqueid default="false" type="tmdb">1556756</uniqueid>
+  <uniqueid default="false" type="trakt">3104716</uniqueid>
+  <uniqueid default="true" type="tvdb">6779882</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>弘历出宫散心，回来后在神武门发现太监悄悄变卖宫中珍品药材，皇上命海兰察彻查此事，而由继后却偏偏安排的吴书来也通过内务府搜查御药局。皇上因御膳不对胃口，想起张东官被送去了延禧宫，又想起璎珞杀害尔晴一事，不禁怒从心起却还是打算去延禧宫，但是被继后拦了下来。吴书来发现叶天士的秘密药录，竟记载着令妃悄悄服用避子汤，继后引皇上前来，就是告知皇上此事，弘历大发雷霆，前往延禧宫质问璎珞，璎珞坦言是自己利用皇上，就是为先皇后报仇，并且如今要替先皇后为皇上讨一个公道。弘历震怒，直言自己是一个帝王，帝王本就无情，二人就此决裂。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2646</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep54-Ep55.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="55" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:58:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>谨昌打黑市拳赛</title>
+  <originaltitle>Episode 23</originaltitle>
+  <showtitle>流氓大亨</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1743886</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>正当月明甘愿为爱情而牺牲如日方中的事业之际，谨昌突向她声言不忍再拖累下去，忍心向她提出分手，令她当场悲痛欲绝。
+
+月明为表明自己意志坚决，当着记者声言婚后退出娱乐圈，令众人大表惊愕，无奈谨昌去意甚坚，决绝拒与月明重订婚约，令她万念俱灰。
+
+钟赞自将一切业务大权交伟南后，发觉他缺乏经验，办事不力，业务每况愈下，对他大为失望。况且伟舜为从新建立钟赞信心，更不惜施苦肉计，令钟赞顿生怜悯，渐渐大权移交其手上，使伟舜暗暗欢喜。
+
+伟舜逐渐将行政大权得到手后，威胁钟赞移交永赞股权，钟赞顿大为震怒，当场刺激过度爆血管病死。
+
+后舜、屏经调查后，发觉二人共得钟赞遗产的四分三，内心禁不住喜悦，立与伟南反目。
+
+方家见伟南自学宁受伤后，每日均送咭慰问，对他大为反感，不时均下逐客令。后竟发现他毕竟亦被伟舜害得鸡毛鸭血，彼此同仇敌忾，对他渐为谅解。
+
+谨昌为投一工厂饭堂经营，竟不惜作打黑市拳比赛，楚翘闻讯极力阻止，不果。后得楚翘在场打气，谨昌终赢得奖金，但却带来满身重创。</plot>
+  <runtime>20</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1068</height>
+        <durationinseconds>1243</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Feud.Of.Two.Brothers.E23.20180315.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade The Feud Of Two Brothers 20180315 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>流氓大亨</showtitle>
+  <season>1</season>
+  <episode>315</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>20</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1068</height>
+        <durationinseconds>1243</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Feud.Of.Two.Brothers.E23.20180315.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="315" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

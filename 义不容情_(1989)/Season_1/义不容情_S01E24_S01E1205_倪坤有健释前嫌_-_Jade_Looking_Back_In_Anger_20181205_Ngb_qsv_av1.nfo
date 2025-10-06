@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>倪坤有健释前嫌</title>
+  <originaltitle>Episode 24</originaltitle>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id>4575281</id>
+  <uniqueid default="false" type="tmdb">1743626</uniqueid>
+  <uniqueid default="false" type="trakt">3254403</uniqueid>
+  <uniqueid default="true" type="tvdb">4575281</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李华因李立与家人发生争执，迫于接他来港居住，因而增加她的生活负担。
+
+少玲初时并未能接受方红自私的性格，逃避与她亲近。其后终体谅其悲惨遭遇，答应在不公开的环境下维持母女关系。
+
+金水等因不满倪坤心高气傲，合计攻击他。有健看不过眼，阻止金水等继续欺负倪坤。倪坤虽得知有健非杀俊杰真凶，但仍对他无多大好感。其后得有健于狱中处处照顾，大为感动，与他展开友谊。
+
+方红有意补偿当年对少玲不负责任的所为，处处为她设想。另一方面，少玲亦深受其母影响，更懂得追求名利之道。
+
+有康为求进一步巩固在「佳美」的地位，且知道耀国对少玲有非份之想，藉此拉拢二人结识。少玲亦乐得藉此宣传自己。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1562</width>
+        <height>1080</height>
+        <durationinseconds>1310</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E24.20181205.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Looking Back In Anger 20181205 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>1205</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1562</width>
+        <height>1080</height>
+        <durationinseconds>1310</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E24.20181205.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1205" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

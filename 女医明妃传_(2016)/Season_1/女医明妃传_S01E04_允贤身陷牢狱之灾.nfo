@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>允贤身陷牢狱之灾</title>
+  <originaltitle>允贤身陷牢狱之灾</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>5527075</id>
+  <uniqueid default="false" type="tmdb">1176430</uniqueid>
+  <uniqueid default="false" type="trakt">2159618</uniqueid>
+  <uniqueid default="true" type="tvdb">5527075</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>郕王的耿直与坚持终于激怒了太后，她一气之下派人将郕王关了起来。 一旁的汪美麟见此情形心痛不已，万分焦急之下意欲去向太后求情。然而老谋深算的汪国公却拦住了她的去路。为了女儿的皇后之位更为了汪家的富贵前程，在他看来，此时关一关郕王并非不是一件好事。此时，这一切纷乱的幕后黑手王振虽在永庆庵门前扑了空，未能如愿捕获本应前往与英宗会面的郕王。但是贼心不死的他可不会就此罢手，满面的阴毒笑容都透露着他欲将这池夺嫡之水搅得更浑的心思另一边的允贤也平白遭遇了一场小祸。只说这一日，紫苏忽然慌慌张张地跑来向允贤报告徐侍郎上门为儿子提亲的消息。震惊的允贤急忙赶到正厅，毫不犹豫便拒绝了徐大人的请求，感到脸面大失的徐侍郎勃然大怒。甩手便走的徐侍郎立刻点燃了杭纲心中的一腔怒火，他毫不留情地便将所有愤怒通通发泄在了女儿身上。委屈的允贤望着对她永远只有责骂而无理解的父亲，终于难过地流下了泪水。几日后，允贤便在义母家中偶遇了徐侍郎夫人。出乎她意料的是，善解人意的徐夫人非但没有怪罪她那日的拒婚之事，反而大大地安慰了她一番。难以推却盛情，也是在自己行医救人的小小愿望推动之下，允贤又暂时忘却了奶奶的叮嘱，为咳嗽不止的徐夫人开下了一剂甘草干姜水。让允贤没有想到的是，这无心之下的善举却为自己招来了一桩大祸。半月之后的一天深夜，杭府大门忽然被人拍得震天响，而闯门的竟是带着火把家丁的徐侍郎 。甫一见面，徐侍郎便厉声指责允贤害死了自己的夫人。这晴天霹雳般的消息瞬时让在场的所有人惊呆了。被震怒击昏了头脑的杭纲狠狠地扇了允贤一个巴掌，他真的不懂自己这个女儿为何如此不守妇道，时时都要惹是生非。其实年幼允贤的无心之失始终折磨着杭纲的心，那份怨恨与不甘随着时间的推移日日累积，已经彻底侵占了他的心。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E04.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

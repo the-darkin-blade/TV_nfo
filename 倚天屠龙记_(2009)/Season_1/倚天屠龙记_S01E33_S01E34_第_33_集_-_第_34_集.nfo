@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 33 集</title>
+  <originaltitle>第 33 集</originaltitle>
+  <showtitle>倚天屠龙记</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <id>2127271</id>
+  <uniqueid default="false" type="tmdb">2032649</uniqueid>
+  <uniqueid default="false" type="trakt">1286743</uniqueid>
+  <uniqueid default="true" type="tvdb">2127271</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>张无忌与赵敏往大都去查询谢逊周芷若下落，一路上争争吵吵，赵敏质问张无忌为何从没有怀疑过周芷若杀蛛儿，张无忌责她诬蔑周芷若，赵敏又坦言拖延时间无非是想跟他多聚片刻。张无忌对赵敏有情，几次愤怒之余都下不了手。返回丐帮的宋青书惊见周芷若，宋青书决定加入丐帮，并在陈友谅的保证下与周芷若完婚。张无忌既然对赵敏下不了手只有留书离开，途中发现明教暗号，循线而去见到朱元璋，并得知丐帮在卢龙城，为新近的六袋宋长老完婚，张无忌直接反应是宋青书乃快马加鞭的赶去卢龙城。日落余晖……喜烛已点燃……斗大的囍字相当刺眼……就在宋青书与周芷若拜堂时，张无忌赶来，当场愿意为救周芷若喝下毒药，周芷若看在眼里感动在心。就当张无忌要喝药时，杯子被打落。接着一黄衣少女带着众女出现，手持打狗棒的少女自称丐帮帮主史火龙之女史红石，说亲眼看见陈友谅及成昆杀死火龙。陈友谅见事败，带宋青书逃走。周芷若得知张无忌与赵敏曾见面，醋意大发，张无忌答应带她上武当向张三丰禀明婚姻。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>1082-11-02</premiered>
+  <aired>1082-11-02</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Wenzhou TV</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Heaven.Sword.And.The.Dragon.Sabre.Ep33-34.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="33" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第 34 集</title>
+  <originaltitle>第 34 集</originaltitle>
+  <showtitle>倚天屠龙记</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id>2127281</id>
+  <uniqueid default="false" type="tmdb">2032650</uniqueid>
+  <uniqueid default="false" type="trakt">1286757</uniqueid>
+  <uniqueid default="true" type="tvdb">2127281</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>张无忌为解决赵敏的事先往大都，就在张无忌与周芷若入城不久，赵敏骑马尾随于后。于住宿前，蛛儿发现陈友谅拖着一辆拖板车，车上装置一个大麻袋，隐约可看出麻袋里装的是一个人，基于好奇乃往查探。回到汝阳王府，赵敏得悉陈友谅投靠父王并带来范遥见面礼，更令赵敏惊讶的是哥哥王保保竟然没死，原来她被七王爷设计了。经此事后，赵敏非常冷静，设法以其人之道还之其人之身。赵敏求见七王爷，以三寸不烂之舌说服王爷，要确实达到杀一儆百的成效，斩范遥需出榜公示，并由七王爷亲自监斩以立威。投宿的张无忌获悉范遥被斩之事断定乃赵敏通风报信。次日，在往刑场的途中张无忌埋伏救范遥，赵敏蒙面协助，小王爷不幸丧命，为此七王爷一病不起。张无忌到酒家遇见赵敏在饮闷酒，叫她忘记自己，赵敏含泪吻向他。张无忌惊见周芷若看到二人接吻，追出解释，周芷若责他见一个爱一个，拂袖而去。张无忌发现周芷若吊颈自杀，周芷若指他忘不了赵敏，又凄然说出曾向师傅发毒誓不会嫁他，张无忌怜惜地说尽快成婚。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>1082-11-02</premiered>
+  <aired>1082-11-02</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Wenzhou TV</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Heaven.Sword.And.The.Dragon.Sabre.Ep33-34.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>嘉安夫妇努力寻新居</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444973</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>嘉乐与冠峰决定结婚，关家各人得悉喜讯，亦替两人高兴；美玲看到各子女也成家立室，高兴得眉开眼笑。嘉乐虽达成与冠峰结婚的愿望，但当想到宏瞻的出现令她与冠峰的结婚蒙上阴影，心中总是忐忑不安。嘉安要冠峰亲自将结婚一事告知父亲，丁海希望冠峰能过二人世界，即提议要丽婵搬回公屋居住；冠峰闻言极力反对，丁海心中大感难受。
+
+嘉乐冷漠　宏瞻无奈
+
+冠峰与嘉乐逛街时，终认真地问嘉乐为何有结婚的冲动，嘉乐看见男友一脸情深，不敢向他说出真相；两人在玩具店外看见大屋模型，不禁憧憬未来美满的婚姻生活，享受甜蜜的温馨时光。宏瞻看见冠峰送嘉乐上班，而嘉乐的冷漠令宏瞻明白她刻意要与自己保持距离。嘉乐明白既然在宏瞻的公司工作，总要认真面对宏瞻，嘉乐暗自警惕只能把宏瞻视作上司。
+
+采贻期待　约会冠峰
+
+宏瞻见嘉乐当前事没有发生，更与自己疏远的态度，感到既难过又心痛。蔓华发现丈夫不像往日般积极陪卓先生等富豪到夜总会应酬，心中不禁大感疑惑。采贻将冠峰邀约自己一事告知陈好，陈好即以为采贻与冠峰发展感情，而采贻只害羞地表示两人只是朋友。采贻满心期待与冠峰约会，冠峰告知她自己快将结婚一事，采贻亦替他感到高兴。
+
+嘉康入职　惹来怨言
+
+嘉康到嘉安的装修公司上班，为博取表现常私自给予客人优惠价作装修，惹来丁海等人对其做法不满，因担心嘉安会接得蚀本工程。朗翘替丈夫大感不值，更埋怨嘉安不该让嘉康到公司工作。
+
+嘉安与朗翘到马鞍山参观新推出的小型楼盘，朗翘看见人山人海，才惊觉要找合适的楼房是如此不易，需要激烈的竞争。
+
+嘉安回到装修公司所在的商场时，看见区议员与多名商户抗议示威，更被众人围攻他助纣为虐，托高商场租金。
+
+嘉安成为　加租帮凶
+
+嘉安立即查看自己与宏瞻所订立的租约，才得知自己成为了业主抬高租金的帮凶；嘉安找宏瞻算账，更在他面前怒把租约撕毁。
+
+嘉安大义凛然地表示不应成为帮凶，但朗翘却认为嘉安投下资金开铺，不应因一时意气令自己蚀钱。宏瞻无意中听见嘉乐与冠峰去试婚纱礼服，彷如晴天霹雳；宏瞻跟踪两人，看见嘉乐对冠峰所露出的幸福笑容时，顿时妒火中烧。
+
+宏瞻出现　接近嘉乐
+
+冠峰与嘉乐试毕婚纱后，两人便甜蜜地散步回家；冠峰将嘉乐送到关家楼下，一脸依依不舍地离开，但当嘉乐转身正欲走进大厦之际，惊见宏瞻出现在眼前……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2681</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>17_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

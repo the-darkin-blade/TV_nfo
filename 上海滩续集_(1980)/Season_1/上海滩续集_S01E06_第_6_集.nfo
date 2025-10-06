@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 6 集</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>上海滩续集</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2493291</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>燕燕向云志借贷不遂，失望、旁徨；就在此时，月琪通知她已有人代为清还债务，燕燕还以为是云志，但当她知道是力时，快乐的心情顿消。力向燕燕表白心意，并带她回家看儿子旭，但燕燕对力的感觉仍不及云志。
+
+郭镇昌受伤，燕燕常加照顾；岂料，报纸却将他们之间的关系大加渲染，作为新闻，郭祖贤看了，十分愤怒，往宿舍找燕燕，要她与昌解约，但燕燕不允，而昌亦坚拒。祖贤见要求不被答允，遂收买流氓往片场捣乱。昌见状，深思熟虑，终于自动与燕燕解约，但祖贤已下令他和母亲弟妹搬出自己买给他们的屋子。
+
+另一方面，祥贵对郭秋霞追求，但秋霞已心有所属，对国强印象极佳。一日，三人约同郊游，祥贵发现秋霞对国强比对自己好，十分嫉妒。后来，更获悉秋霞与国强暗中约会，更为愤怒，便故意将国强调到货仓当守卫。
+
+云志请力合作运毒，但力鉴于对许文强的承诺，断然拒绝。但当云志的合作伙伴被人带货捉去时，力竟出面解围。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.66</aspect>
+        <width>1728</width>
+        <height>1068</height>
+        <durationinseconds>2763</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E06.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

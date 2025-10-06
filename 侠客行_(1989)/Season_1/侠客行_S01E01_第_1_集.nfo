@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:09:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 1 集</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>侠客行</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1322148</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>众武林人士争夺玄铁令而展开连场恶斗，终由丁璫夺去，被马东鹤穷追，丁璫遇石中玉，把玄铁令交予他，欲摆脱二人后再取回，谁料璫、玉见面时，东鹤等人追至，欲杀璫、玉，石清闵柔夫妇及时相救，丁璫逃去东鹤认出石清夫妇身份，亦大惊逃去。
+
+易天行得知石清夫妇下落，追杀之，石清夫妇携玉逃亡，闵柔为保中玉安全，带中玉上雪山派，求得白自在收留他，自在更命封万里教中玉武功。
+
+中玉暗中把玄铁令留在闵柔身上，当石清夫妇力战天行不敌时，谢烟客出现，向闵柔收回玄铁令，并助她打退天行。
+
+万里对中玉严厉管束，中玉甚不满，一日，更偷偷下山，误闯无名谷，遇倪冬儿。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1076</height>
+        <durationinseconds>2730</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E01.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

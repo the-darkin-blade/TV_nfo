@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>无情、正我发现真相</title>
+  <originaltitle>Episode 22</originaltitle>
+  <showtitle>少年四大名捕</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>2305761</id>
+  <uniqueid default="false" type="tmdb">389797</uniqueid>
+  <uniqueid default="false" type="trakt">398221</uniqueid>
+  <uniqueid default="true" type="tvdb">2305761</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>蔡京为王爷引见相命先生，他指王爷可登上帝位。正我以小刀的安危要胁落石当内应。正我与无情再次检查霍正的尸首，发现他是被牛毛针插入血管而死的；无情想起破天死时的反应与霍正一样，认为二人为同一人所杀。蔡京与落石见王爷，蔡京为他引见一相命先生，他指王爷有机会当皇帝。有官员发现落石的大连盟私运火药，蔡京为保秘密将所有官兵杀死；更带王爷参观兵器制造场展示实力。
+
+落石见小刀对冷血用情太深，决定把小刀嫁到岭南，更要小骨到昆仑山学艺；原来落石不欲子女被蔡京作反之事牵连。小骨知落石的意图后却大表反对，但终屈服。冷血与追命游说铁手回神捕司，但铁手拒绝，令追命的信心也动摇。
+
+冷血在小刀出嫁时抢花轿，把小刀带到深山中，小刀高兴以为冷血想与自己私奔。落石手下回报有官兵家属要求神捕司展开调查，却原来是正我的计谋。正我引落石追至城门并展示小刀的嫁妆，更要胁落石在蔡京身旁担任内应。
+
+若飞无意中发现芷妍暗中收藏的铁拳手套，芷妍发觉后击伤若飞并杀死傻福。铁手在芷妍房外看见血字。无情私下揭穿芷妍的身分，她坦白承认一切。芷妍再约无情见面，竟将他捉去，更迫无情说出家传兵器「绝世神兵」的秘密。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1874</width>
+        <height>1080</height>
+        <durationinseconds>2682</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Four.Ep22.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

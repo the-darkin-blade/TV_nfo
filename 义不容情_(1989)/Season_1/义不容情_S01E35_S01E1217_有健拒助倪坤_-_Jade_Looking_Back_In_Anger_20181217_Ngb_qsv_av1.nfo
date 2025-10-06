@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>有健拒助倪坤</title>
+  <originaltitle>Episode 35</originaltitle>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id>6919028</id>
+  <uniqueid default="false" type="tmdb">1743637</uniqueid>
+  <uniqueid default="false" type="trakt">3254414</uniqueid>
+  <uniqueid default="true" type="tvdb">6919028</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>世邦与数大集团合作投办有线电视，并委任有康为统筹经理。耀国不服，向世邦大事理论，反被世邦教训一顿。
+
+倪坤眼见「佳美」发展神速，心有不甘，欲重振「倪氏」声势跨越「佳美」，可惜年老无力，终答允楚君所求，批准有健助他打理业务，怎料有健自觉学识不够，坚拒接受好意，令楚君大为失望。
+
+「君健」分店开张，美欣强要与有康光顾，以图与有健打好关系，但当兄弟二人见面时，如同陌路，令美欣白费心机。
+
+有健因大厨被酒楼以厚薪拉拢跳槽，面临人手短缺，大感烦恼之际，忽然灵机一触，将饭店改装为火锅店，着中正向传播界大事宣传，果收意想不到的佳绩。
+
+志文结识女友林秀文，向她展开追求，但秀文早被夜校戚老师看中，向她大献殷勤，令志文大感气结。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1080</height>
+        <durationinseconds>1314</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E35.20181217.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Looking Back In Anger 20181217 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>1217</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1080</height>
+        <durationinseconds>1314</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E35.20181217.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1217" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

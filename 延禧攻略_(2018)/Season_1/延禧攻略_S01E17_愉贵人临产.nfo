@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>愉贵人临产</title>
+  <originaltitle>愉贵人临产</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>6773168</id>
+  <uniqueid default="false" type="tmdb">1556718</uniqueid>
+  <uniqueid default="false" type="trakt">3096629</uniqueid>
+  <uniqueid default="true" type="tvdb">6773168</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>璎珞去查看姐姐出事那天宫中进出人员的名册，被傅恒阻止。见璎珞依旧执着于寻找杀害姐姐的真相，傅恒苦劝无果，只好决定暗中相助。月圆之夜，皇后在庭院里思念逝去的儿子，愁眉不展，璎珞想法子逗皇后开心，跟明玉追闹时，皇上驾到，斥责璎珞不懂规矩大呼小叫行为无状。皇后忙替璎珞辩解，并挥退璎珞和明玉，将皇上迎进殿内。皇后受弘历所托，将愉贵人接入长春宫待产，明玉尔晴强烈反对，璎珞也苦劝皇后，皇后却将自己的想法告诉璎珞。看着皇后温文尔雅贤良淑德的样子，璎珞想起了自己的姐姐，潸然泪下。皇后随太后去礼佛，留明玉璎珞照看长春宫。明玉排挤璎珞，不让她插手宫中事宜。璎珞见状，也不欲与她多争辩，只是尽心做好自己的分内之事。深夜，愉贵人突然临产，惊了长春宫众人。明玉守在愉贵人身边，不让璎珞靠近。随即，愉贵人生下一个浑身金黄的男婴，众人皆惊。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2648</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep17.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

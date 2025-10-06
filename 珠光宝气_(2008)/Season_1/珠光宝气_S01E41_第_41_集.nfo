@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 41 集</title>
+  <originaltitle>Episode 41</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>41</episode>
+  <id>433911</id>
+  <uniqueid default="false" type="tmdb">2299455</uniqueid>
+  <uniqueid default="false" type="trakt">1596016</uniqueid>
+  <uniqueid default="true" type="tvdb">433911</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雅瞳与哲男结婚后往巴黎度蜜月，但因哲男需公干离开，雅瞳只好独自游法。雅瞳回港后与家人饭聚，席上英姐要雅瞳要留意丈夫，但雅瞳只一笑置之。想不到哲男在上海偶遇前女朋友，两人更私下饭聚。贺峰约雅瞳吃饭，更坦言说出雅思没有出席婚礼的理由，但贺峰坚信「家人」的关系将是牢不可破。因参加晚宴，雅瞳在高级发型屋遇上子凌。子凌正以康家与贺家的混乱关系羞辱雅瞳时，雅思突然出现，更代雅瞳教训了子凌一顿。雅思解释是特意到来与姐姐结伴出席晚宴。晚上康家父子与贺家姊妹一起吃饭，四人更言谈甚欢。哲男与雅思在厨房相遇，哲男出言感谢雅思在发型屋替太太解困。雅思回应只是不想亲人受辱，两人终达成协议，在贺峰及雅瞳前维持友好关系。启发虽露宿街头，私下却当水货客赚钱。青杨在驶经天桥底时发现启发，除了努力鼓励他．更邀请他参加新店的开幕。青杨的钻饰店开幕，贺峰父子特意出席参加剪彩，令传媒蜂拥而至。筱柔发现启发在远处眺望开幕，不动声色地找启发见面。筱柔开门见山地向启发说明，着他不要对雅瞳心存幻想，要他彻底死心。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>41_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="41" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

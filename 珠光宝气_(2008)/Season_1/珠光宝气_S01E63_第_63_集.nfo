@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 63 集</title>
+  <originaltitle>Episode 63</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>63</episode>
+  <id>433933</id>
+  <uniqueid default="false" type="tmdb">2299477</uniqueid>
+  <uniqueid default="false" type="trakt">1596053</uniqueid>
+  <uniqueid default="true" type="tvdb">433933</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>泰禾与怀德谈论工作时，发现世万太太的首饰竟出现在眼前，怀德解释是世万打算将相关的收藏拍卖。子凌放学时看到世万与婉仪提早自美回港，更说拍卖完成后便举家迁往美国。子凌提出欲留在港继续学业。泰川回家吃饭，更提议出资让兄长开珠宝店，但泰禾拒绝，更说出不喜欢弟弟承继了苇庭一切之事。世万珍藏的拍卖会上，泰川刻意在竞投上压过长胜，子凌主动向泰川致谢，但泰川刻意保持距离。贺峰得悉世万回港后担心不已，雅思欲劝无从。泰川发现有大股东出售公司股票，欲约对方见面，但想不到长胜竟出现。长胜明言收购行动之目的就是要将泰川踢下CEO的位置，泰川被杀过措手不及。启发正开解没法帮助弟弟的泰禾时，却接到电话说泰川醉倒酒吧中。雅言因工作而令身体变差入院，令雅思得悉雅言两年前曾小产一事。泰禾求长胜不果，启发欲打圆场反而惹上官非。雅言得悉前因后果，刚出院便请长胜放过启发。子凌往找泰川，向他说出泰禾如何担心他。泰川思前想后决定回家替哥哥办生日，兄弟两正说笑间，却接到子凌求助的电话。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>63_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="63" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

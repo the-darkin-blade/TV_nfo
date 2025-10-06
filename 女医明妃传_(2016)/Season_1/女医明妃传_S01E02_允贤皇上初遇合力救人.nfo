@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>允贤皇上初遇合力救人</title>
+  <originaltitle>允贤皇上初遇合力救人</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id>5527073</id>
+  <uniqueid default="false" type="tmdb">1176426</uniqueid>
+  <uniqueid default="false" type="trakt">2159616</uniqueid>
+  <uniqueid default="true" type="tvdb">5527073</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>奶奶得知允贤不但在俆府擅自施针救人，还给徐太夫人开了药方，奶奶让允贤背药方，发现允贤用药有所偏差，急忙示意紫苏到徐府，让徐府换掉药方，好在徐府早已采用新药方，允贤得以逃过一难。虽然并未铸成大错，但允贤还是为徐太夫人的病许久未好利索而感到自责。允贤到永庆庵祈福，教庵内尼姑以燕子窝和油帮人治恶疮，住持静慈师太见其妙手仁心邀其内坛进香。于家夫人小产，于大人虽与夫人情深意重，但却拘泥于男女有别而不肯为其夫人请男大夫看诊，于夫人的婢女遂来到永庆庵求救，得知前来进香的允贤懂医理便求允贤随她去救人，允贤不仅医者仁心，且十分敬重于大人的官品为人，欲前往救人，但又碍于父亲的训诫不敢贸然行事，纠结不已。这时，突然出现在庵内的纨绔公子元宝，却毅然决定出手相助，鼓动允贤同其驾马车前往于家救人。允贤一开始并不信任元宝为人，且碍于规矩礼节有所犹豫，静慈师太说服两人一同前往。见元宝一路嬉戏调笑，允贤点了他的麻经，元宝生气之下让随从停下马车，好似忘了要去救人，允贤愤而下了马车，打算徒步去救人。允贤用一番正义之辞指责元宝，被允贤的善良和正义打动的元宝更加坚定了去救人的决心，强行将允贤扛上马车。允贤为于夫人施针止血之后，开出药方，两袖清风的于大人因为其中的一味药材“阿胶”颇为昂贵而苦恼，见此情形，元宝随手给出一个金元宝让其解燃眉之急，而刚直不阿的于大人却一昧拘于旧礼，不但不受反而要开门送客。元宝、允贤同于大人这个“老顽固”据理力争，最终说服了于大人接受二人的帮助。 返回的途中，元宝为于大人受到孙太后最宠幸的太监压制打击而打抱不平，允贤误以为元宝是因犯了事而得罪了孙太后，建议元宝去请求汪国公这样的太后亲信去为其说情，元宝听了却异常愤怒。此时的允贤并不知道眼前的这个纨绔公子元宝就是那个世人眼中荒唐的皇帝，更不明白元宝心中对于太后的不满和厌恶。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1319</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E02.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

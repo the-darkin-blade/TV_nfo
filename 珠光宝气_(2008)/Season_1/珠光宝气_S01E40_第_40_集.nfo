@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 40 集</title>
+  <originaltitle>Episode 40</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>40</episode>
+  <id>430307</id>
+  <uniqueid default="false" type="tmdb">2299454</uniqueid>
+  <uniqueid default="false" type="trakt">1596008</uniqueid>
+  <uniqueid default="true" type="tvdb">430307</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>晚上哲男突然到康家楼下见雅瞳，原来只为想见雅瞳一面。雅瞳为了支持公事繁多的男友，特意在车上结红丝带替他打气。雅言收到消息说哲男已成功拉拢Richard，双方将签下合作意向书，大急下赶往通知长胜，但想不到长胜请雅言通知雅瞳，说查出杜拜的Richard其实是个骗子。 雅瞳收到消息后立刻提醒哲男，但他却认为这只是长胜的招数，仍执意签约合作。苇庭与贺峰吃饭时，世万突然加入，更在席上说出Richard是骗子一事，更借意揶揄哲男成为了香港商界的笑柄。Richard骗了哲男金钱之事曝光，而哲男更「人间蒸发」不知去向，令雅瞳担心不已。雅言向长胜质问，是否刻意要自己通风报讯而令哲男不能自拔，长胜只得哑子吃黄莲。哲男不能面对自己失败逃到青岛，雅瞳追随而至，更在他的游艇上结满红丝带替他打气。哲男感动不已，决定与雅瞳结婚。苇庭推荐雅思筹办活动，却暗中埋下问题让雅思面对，幸得婉仪协助解决问题。泰川加入苇庭公司，却遇上苇庭不适而送她入院。启发出狱后潦倒街头，更得悉雅瞳与哲男结婚之事。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>40_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="40" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

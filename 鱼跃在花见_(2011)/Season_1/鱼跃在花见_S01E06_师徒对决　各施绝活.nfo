@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>师徒对决　各施绝活</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>鱼跃在花见</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2620707</uniqueid>
+  <uniqueid default="false" type="trakt">7447907</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>无知姜羌　徒步回家
+
+把身上仅有的五十元钞票乘巴士的姜羌，在蒙眬中被司机唤醒，原来她已到了天水围总站；惊惶失措的她只得靠一双脚徒步走数小时回家。当她倦得倚在墙边，感到饥寒交迫之际，突然有一流浪汉把饭盒递到她的面前……好不容易地姜羌与至嬴遇上，但她仍责怪至嬴不信任自己；看到这样子的姜羌，至嬴只得顺她意答话。当至嬴要求回到两街之隔的家时，姜羌竟说倦得要乘的士，至嬴最后只得背她……
+
+至嬴发觉　兄长恋情
+
+当至嬴与姜羌回家之际，谈到至嚣失刀之事，姜羌突然说出她拥有相近的柳刃刀，至嬴听后大喜过望；至嬴带姜羌及柳刃刀赶回厨房，向至嚣赔罪。至嚣初指一般刀是没可能替代自己用惯的柳刃刀，但当他把锦盒打开后，却发现原来姜羌所收藏的刀与自己是出自同一刀匠之手，不禁惊喜不已。在至嚣试刀之际，至嬴与姜羌一边试吃至嚣切下及切碎的鱿鱼边闲聊，至嚣却因此得到启发，尝试用新方法调制鱿鱼……
+
+晚上至嬴在房中画漫画，更幻想思茏看到漫画后了解自己的心意；至嚣发现弟弟又沉进了妄想世界，忍不住认真与他谈及思茏之事。至嚣向弟弟说出，虽然至嬴至今仍喜欢思茏，但或只是童年感觉的延续；而至嚣更鼓励弟弟，男性在事业有成时，才会得到女性的欣赏云云……
+
+月泷纱下午休息的时间，至嚣约思茏在外见面，更将新制成的鱿鱼寿司让她品尝；但这边厢至嬴却决定找思茏表白。
+
+至嬴亲眼看见兄长与思茏拥抱在一起，瞬间明白一切的至嬴气得高声指责至嚣，然后掉头便走；但想不到在不远处，坐在车中的雍容却看到这一幕……从后一直跟踪至嬴的姜羌，躲在一旁看着失落的至嬴坐在公园，想不到至嬴主动叫她现身；当至嬴回家时发现兄长一直在大堂等候自己，至嚣欲向弟弟解释但至嬴态度强硬。看到弟弟的反应，至嚣竟说出可以为兄弟情放弃与思茏的恋情……
+
+努力游说　取消比赛
+
+晚上姜羌发现至嬴在天台上焚烧旧物；至嚣在店中工作时至嬴主动走到兄长身边，两人最终和好如初。另一方面，雍容向思茏提议，要她接近至嬴……思茏向映月说出，如至嚣胜出比赛，雍容将不会放过他，映月听后担心不已。得知此事的至嬴欲到帝煌集团与雍容商量时，却发现弟弟至宝亦在。至嬴没法说服雍容取消比赛，更在她口中得知至宝变成今天模样的原因……至嬴尽最后努力劝兄长放弃比赛，可惜无法成功……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2690</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>鱼跃在花见 Ep06_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

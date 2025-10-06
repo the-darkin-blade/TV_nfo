@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:58:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>楚翘力寻真相</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>流氓大亨</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1743866</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>正当控辩双方陈词后，众陪审员感到表面人证物证俱在，学仁面临败讼时，谨昌大为激动，竟在法庭内理直气壮为其弟申辩，终唤起一陪审员宋楚翘的正义感。
+
+楚翘经深思熟虑后，发现案件疑点甚多，深信学仁乃无辜，竟主动克服一切阻难，说服其余陪审员继续研讨。众人皆被其热诚所动，连夜抽丝剥茧，将疑点逐一攻破，楚翘大表安心。
+
+谨昌见自己未能替学仁洗脱罪名，内心悲痛万分，精神极为颓丧。创世终体谅其真正为人，对他大起怜悯，二人顿化敌为友。
+
+翌日，当陪审团退庭商议完毕后，楚翘等一致认为学仁罪名不成立，当庭释放，令方家各人喜极而泣。
+
+钟赞获悉学仁无罪被释，心有不值，以为楚翘被贿所致，向她侮辱一番，楚翘反一笑置之。
+
+原来楚翘为永然独生女，由其公赵志远口中所得，误会其父早年因冷落母亲，致令她抑郁而死，造成楚翘对永然有种无形的抗拒。加上她不满其父专横性格，自小栖居志远家，间接养成其反叛性格处处与其父冲撞，彼此无法沟通。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1072</height>
+        <durationinseconds>1260</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Feud.Of.Two.Brothers.E07.20180227.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade The Feud Of Two Brothers 20180227 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>流氓大亨</showtitle>
+  <season>1</season>
+  <episode>227</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1072</height>
+        <durationinseconds>1260</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Feud.Of.Two.Brothers.E07.20180227.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="227" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 1 集</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>433581</id>
+  <uniqueid default="false" type="tmdb">1979446</uniqueid>
+  <uniqueid default="false" type="trakt">1595900</uniqueid>
+  <uniqueid default="true" type="tvdb">433581</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>城中举行盛大时装表演，着名经理人康雅言成功替旗下女星苏敏争取到入场券，希望藉此增加她的知名度。另一方面，名媛康雅思却因为苏敏与自己丈夫杨志球正被传绯闻，而尽力阻止她进场，但最终雅言成功带苏敏到场。看到众记者围绕苏敏采访，雅思只好硬着头皮主动与苏敏表示友好，努力在传媒前辟谣。康青杨回家途中遇上交通挤塞，更发现是妻子白筱柔的坐驾遇上轻微意外。雅言与雅思两姐妹回家探望父母青杨与筱柔，但雅言看到雅思给父母家用时过分阔绰而不满。雅思则责怪雅言带苏敏出席时装表演，两姐妹差点再起争吵。青杨收到消息，有人将他当年打造给三名女儿的其中一件钻石胸针卖出，不禁担心三年前与家人吵翻，与恋人礼奇到加拿大结婚的二女雅瞳。雅思突然接到雅瞳的电话，原来雅瞳已回港，更向雅思求助。雅思向母亲说出已借了一百万给二姐，但筱柔揭穿雅思只为自己打算才借钱给二姐，更要求雅思中止借钱给雅瞳。雅瞳发现支票不能兑现，改请求泰禾帮助，要他扮作有钱人与礼奇争夺自己。筱柔特意约雅瞳与礼奇吃饭，雅瞳满心高兴地与丈夫应约。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>珠光寶氣.The Gem Of Life.2008.Ep01.1080I.Hdtv.H264.Ac3.2Audio_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

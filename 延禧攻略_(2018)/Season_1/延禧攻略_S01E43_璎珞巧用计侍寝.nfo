@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>璎珞巧用计侍寝</title>
+  <originaltitle>璎珞巧用计侍寝</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>43</episode>
+  <id>6779864</id>
+  <uniqueid default="false" type="tmdb">1556744</uniqueid>
+  <uniqueid default="false" type="trakt">3104690</uniqueid>
+  <uniqueid default="true" type="tvdb">6779864</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>继后默许璎珞被抬举，珍儿对此十分不解，继后告知她所做的一切是为了给纯贵妃树立一个敌手。愉妃与纯贵妃交好，纯贵妃暗中提醒愉妃先除掉魏璎珞，愉妃答应。璎珞入住延禧宫，纯贵妃将从前长春宫的宫女全都派到延禧宫伺候。琥珀以下犯上、出言不逊，当众给璎珞难堪，明玉恼她，她却仍不知错，明玉对此十分气恼，璎珞开解明玉，提醒明玉，她们要在宫中步步小心谨慎。璎珞入住延禧宫后，发现不论是餐食、待遇都饱受冷遇，连手下的奴才都不服管教，明玉连连抱怨，璎珞见明玉恢复如常，决定主动出击。璎珞去看望太后，装扮成男装绘声绘色地读石头记，引起太后兴趣，正好撞上弘历，被弘历斥责不守规矩。随后，璎珞去满一个月后，便称病不去。弘历感到奇怪，特意去延禧宫探望，恰好撞上琥珀奚落主子，弘历严惩琥珀以儆效尤，延禧宫人人自危。原来璎珞一早吩咐明玉，叫琥珀近身伺候，就是让她怠慢自己，才有机会惩戒于她。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2631</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep43.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="43" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

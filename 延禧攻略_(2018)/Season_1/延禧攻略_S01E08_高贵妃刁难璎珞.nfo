@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>高贵妃刁难璎珞</title>
+  <originaltitle>高贵妃刁难璎珞</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>6773144</id>
+  <uniqueid default="false" type="tmdb">1556709</uniqueid>
+  <uniqueid default="false" type="trakt">3096611</uniqueid>
+  <uniqueid default="true" type="tvdb">6773144</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>张嬷嬷知道璎珞要被调去长春宫，十分担心她因为自己倔强的脾气受苦，璎珞反过来安抚张嬷嬷。璎珞进了长春宫后，明玉摆出大宫女的架子，对她各种训诫。恰好傅恒来看皇后，璎珞趁机露出那枚玉佩引起了傅恒的注意。傅恒向璎珞讨要玉佩，两人交谈时被明玉撞见。明玉素来倾慕傅恒，因此对璎珞更加深恶痛绝，百般刁难，甚至还唆使长春宫其他宫女疏远璎珞。不仅如此，她还在皇后面前百般中伤璎珞躲懒，皇后对此将信将疑。次日一早，璎珞识别前晚有月晕，认定将有大雨，提醒明玉照管好皇后心爱的茉莉花，明玉不以为意，还将璎珞好一通训斥，谁知当夜真的天降大雨，璎珞抢先一步遮挡茉莉，使得花儿免受风雨摧残，被皇后看在眼里，对明玉有些失望，明玉心中越发气闷不平。高贵妃来给皇后请安时，看到璎珞在院子里忙碌，想起之前她装傻充愣糊弄自己，气不打一处来，让人割掉她的舌头泄愤。璎珞拼命挣扎，惊动了皇后。皇后态度坚决地护着璎珞，高贵妃碰了一鼻子灰，讪讪离开。随后，璎珞将自己与高贵妃的过节告诉皇后，皇后得知璎珞竟敢戏弄高贵妃，不禁莞尔。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2660</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep08.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

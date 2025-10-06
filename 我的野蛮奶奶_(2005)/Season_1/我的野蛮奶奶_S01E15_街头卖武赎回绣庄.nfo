@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:53:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>街头卖武赎回绣庄</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>我的野蛮奶奶</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>2624361</id>
+  <uniqueid default="false" type="tmdb">2500812</uniqueid>
+  <uniqueid default="false" type="trakt">1434744</uniqueid>
+  <uniqueid default="true" type="tvdb">2624361</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>铄兰要巧巧在五日内用钱赎回绣庄，更买下全城丝线令巧巧没法做生意。田满想出到街头卖武表演赚钱，此事亦惊动皇上，皇后便提议举行御前刺绣比赛，为铄兰出气。
+
+比赛当日，铄兰一方面命丰荣、丰贵收买评判，更以「十二金钗」跳刺绣舞娱宾，另一方面则向巧巧提供劣质丝线，力图左右赛果。虽然巧巧以双面绣针法绣出前后两朵几可乱真的鲜花，但评判却判铄兰大胜，「凤朝凰」被封为「天下第一绣」。田满等人不甘赛果被内定，便更改客栈内的菜色名称，讽刺铄兰的「劣行」。铄兰知道此事后大发雷霆，更扬言要放火烧死田满一家。
+
+巧巧在画舫内为一富商刺绣，却在江上让她无意中发现绵伦及逊妃的奸情，铄兰追至向巧巧兴师问罪，二人争吵期间，绵伦竟放火烧毁画舫，巧巧走避不及葬身火海。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:08</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2685</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Wars.Of.In-Laws.Ep15.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

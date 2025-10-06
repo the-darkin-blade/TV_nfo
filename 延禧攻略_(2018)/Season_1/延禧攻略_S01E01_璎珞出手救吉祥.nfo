@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:32 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>璎珞出手救吉祥</title>
+  <originaltitle>璎珞出手救吉祥</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>6772358</id>
+  <uniqueid default="false" type="tmdb">1530139</uniqueid>
+  <uniqueid default="false" type="trakt">3095912</uniqueid>
+  <uniqueid default="true" type="tvdb">6772358</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>乾隆六年二月初二，魏璎珞随其他待选宫女一道入宫。在从等候殿选的一众秀女面前经过时，其中一名待选宫女吉祥不小心打翻了水桶，弄脏了秀女乌雅青黛的衣裙。乌雅氏勃然大怒，要重罚吉祥时，璎珞挺身而出，巧用香粉替乌雅氏的莲花鞋底添彩，救下吉祥。皇上、皇后和高贵妃三人一道主持殿选。高贵妃对皇后言语不敬，十分僭越，皇后却浑不在意。随即，她见皇上眼中只有皇后，对皇后愈加嫉恨。殿选时，高贵妃附和着皇上对众秀女一起评头论足。轮到乌雅氏时，她的步步生莲引起了众人的注意。就在她得意万分时，皇上震怒，以妖媚惑主为由命人将她叉出宫去，甚至将她的家人一并问罪，让等候的秀女们一阵心惊肉跳。随即，皇上兴致缺缺，在将与乌雅氏一道入宫的纳兰淳雪留用后，匆匆离开。高贵妃也随之告退，留皇后一人在此主持殿选。与此同时，待选宫女们正被考核绣工。吉祥因之前被乌雅氏惩罚而伤了手，不小心让绣绷沾上了血。她向交好的玲珑求助，却被玲珑婉拒。走投无路之时，璎珞又一次对她伸出援手，将自己未绣完图样换给了吉祥，助她渡过难关，两人也因此结交。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2617</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep01.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 31 集</title>
+  <originaltitle>Episode 31</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id>433902</id>
+  <uniqueid default="false" type="tmdb">2299445</uniqueid>
+  <uniqueid default="false" type="trakt">1595980</uniqueid>
+  <uniqueid default="true" type="tvdb">433902</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>哲男与雅瞳正式成为一对，哲男大方地在街上亲吻雅瞳，反让她担心两人相恋之事被传媒炒作。雅思度假完毕回港后约家人饭聚，席中贺峰更以雅思丈夫身分出现，筱柔气得拂袖而去。众人回到家中，青杨劝筱柔接受此事却不得要领，雅思盛怒中说出，筱柔其实只想撮合哲男与雅瞳，故此不支持她。哲男得悉贺峰在外地与雅思结婚后不禁猛烈反对，两父子不欢而散，贺峰更气得昏倒当场。哲男发现雅瞳没有上班，特致电给她说雅思之事不会影响二人间的恋情。雅思到医院探望贺峰，但被哲男粗暴对待，更将汤打翻。雅瞳不欲左右做人难，主动提出分手却被哲男拒绝。雅瞳与哲男两人纠缠之际，却被前来探病的筱柔发现。雅瞳等回家后，英姐通知她们筱柔已气得搬到青杨珠海宿舍暂住。贺峰出院，主动提出要与雅思一起面对传媒，公布两人关系。雅瞳单独到珠海与筱柔见面，更主动说出放弃恋情成全雅思与贺峰。哲男决定离职自立门户，他约见雅瞳提出要她到新公司与他一起打天下，却遭她拒绝。雅言发现雅瞳为了妹妹而放弃恋情后，气得向母亲大兴问罪。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>31_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

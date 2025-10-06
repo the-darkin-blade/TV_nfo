@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>璎珞重回紫禁城</title>
+  <originaltitle>璎珞重回紫禁城</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>58</episode>
+  <id>6779885</id>
+  <uniqueid default="false" type="tmdb">1556759</uniqueid>
+  <uniqueid default="false" type="trakt">3104719</uniqueid>
+  <uniqueid default="true" type="tvdb">6779885</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>车驾之中，太后向璎珞坦言自己并未真的生病，又分析了当前的局势，指出璎珞手段还是略显稚嫩，太后的悉心倾谈，令璎珞欣慰。圆明园内，璎珞陪伴太后，过着悠闲惬意的生活，却并未忘记紫禁城里的弘历，一封封家书的往来，令弘历渐渐忘了从前的不快，思念起璎珞来。太后长居圆明园期间，继后接连生下两位阿哥，风光无限，大权在握。圆明园里，太后提醒璎珞不要过于贪恋悠闲的生活，却忽视了来自紫禁城的隐患，劝她要懂得保护自己。傅恒出征归来，得知尔晴死讯十分惊讶，立刻赶赴圆明园。璎珞本以为他是来质问尔晴之死，但傅恒却不以为意，他带来了一个特别的消息：一位绝色美人入宫了，湖广总督的女儿，弘历亲自为她取名沉璧。傅恒劝她早日回宫，否则今后的紫禁城更加势力复杂，难以出头了。璎珞辞别太后，启程回紫禁城。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2627</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep58.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="58" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

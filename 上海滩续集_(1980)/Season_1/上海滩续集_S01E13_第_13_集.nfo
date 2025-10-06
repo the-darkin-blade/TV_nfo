@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 13 集</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>上海滩续集</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2493298</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>力因旭之死，精神大受打击，变得痴痴呆呆，终日将自己关在房内，伴着旭尸体，更拒绝人将旭尸首抬走。但后经燕燕劝解，力终于软化，并为旭举行丧礼。力对云志恨之刺骨，派人暗杀他，玲欲通知云志，却为力发觉。旭死去，玲与力的关系亦告完结，玲被迫迁出力宅。由于镇昌机警，暗杀云志的杀手行动失败，但镇昌却因救云志而受伤。
+
+力被邀出任鱼市场总经理，力答允，云志却心深不忿，着燕燕笼络渔行商，试图令力落台。云志苦心计划，终令渔民杯葛鱼市场。祥贵见形势不妙，自作主张杀死大渔商于乔，岂料于乔之死更引起民情汹涌，频频示威，力终被迫辞职。云志继续进行其计划，鱼市场终改为官民合办，而鱼商李森则出任总经理。燕燕益感云志之阴险，也渐觉自己的愚蠢。在鱼市场的开幕酒会上，力与燕燕再度相逢，但力对燕燕的热情却已大减。</plot>
+  <runtime>42</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1078</height>
+        <durationinseconds>2529</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E13.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

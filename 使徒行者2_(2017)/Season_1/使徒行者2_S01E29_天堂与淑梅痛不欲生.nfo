@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>天堂与淑梅痛不欲生</title>
+  <originaltitle>Episode 29</originaltitle>
+  <showtitle>使徒行者2</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">4039206</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>卓凯指少锋遇险后无法联络天堂，淑梅往找天堂了解背后真相，却见他喝得烂醉如泥。天堂向卓凯坦白事件，卓凯认定他没有做错。欢喜约见卓凯，交出雪晴的手机，希望助他揪出黑警势力。德信与King商量洗黑钱事宜，天堂方知德信还有第二批钱，而欢喜亦找到合夥人洗黑钱。卓凯希望嘉莉帮忙寻找斯敏，嘉莉推敲出是德信所为，答应试探德信。欢喜拜祭亡妻，卓凯指已得知欢喜身份秘密，劝他收手，欢喜不以为然，声言一定会竭尽全力复仇。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2635</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E29.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

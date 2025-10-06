@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:58 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>缺宅男女</title>
+  <originaltitle>缺宅男女</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <sorttitle/>
+  <year>2012</year>
+  <top250>0</top250>
+  <ratings/>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>此剧被称为TVB版《蜗居》。
+
+　　大哥关嘉安是装修判头（苗侨伟 饰）和家庭主妇妻子施朗翘（郭羡妮 饰）是对中年柴米夫妻，二人日夜劳碌只求存钱买房有一个安稳的家。但嘉安为救生意失败的二弟关嘉康（梁烈唯 饰）渡过难关，除了把置业计划一推再推，朗翘亦受牵连做回上班族；三妹关嘉乐（钟嘉欣 饰）不忍加重大哥的负担，唯求助上司高宏瞻（谢天华 饰），孰料演变成一场不道德的交易，男友丁冠峰（吴卓羲 饰）怒然提出分手。至于属于“月光族”的四弟关嘉荣（罗仲谦 饰）则不甘受束缚，宁愿薪金月月清也不愿承担买楼的责任……
+
+　　最终，安居置业成了关家一场永不完结的恶梦。到底爱一个人应坚持自己还是放开自己，才能拥抱最终的幸福？ ©豆瓣</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"109488","tvdb":"254612"}</episodeguide>
+  <id>254612</id>
+  <imdbid/>
+  <tmdbid>109488</tmdbid>
+  <uniqueid default="false" type="tmdb">109488</uniqueid>
+  <uniqueid default="true" type="tvdb">254612</uniqueid>
+  <premiered>2012-01-03</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <actor>
+    <name>苗侨伟</name>
+    <profile>https://www.themoviedb.org/person/236075</profile>
+    <tmdbid>236075</tmdbid>
+  </actor>
+  <actor>
+    <name>郭羡妮</name>
+    <profile>https://www.themoviedb.org/person/1223071</profile>
+    <tmdbid>1223071</tmdbid>
+  </actor>
+  <actor>
+    <name>谢天华</name>
+    <profile>https://www.themoviedb.org/person/21912</profile>
+    <tmdbid>21912</tmdbid>
+  </actor>
+  <actor>
+    <name>滕丽名</name>
+    <profile>https://www.themoviedb.org/person/1223072</profile>
+    <tmdbid>1223072</tmdbid>
+  </actor>
+  <actor>
+    <name>吴卓羲</name>
+    <profile>https://www.themoviedb.org/person/1222249</profile>
+    <tmdbid>1222249</tmdbid>
+  </actor>
+  <actor>
+    <name>钟嘉欣</name>
+    <profile>https://www.themoviedb.org/person/146654</profile>
+    <tmdbid>146654</tmdbid>
+  </actor>
+  <actor>
+    <name>梁烈唯</name>
+    <profile>https://www.themoviedb.org/person/1143685</profile>
+    <tmdbid>1143685</tmdbid>
+  </actor>
+  <actor>
+    <name>黄智雯</name>
+    <profile>https://www.themoviedb.org/person/1255464</profile>
+    <tmdbid>1255464</tmdbid>
+  </actor>
+  <actor>
+    <name>罗子溢</name>
+    <profile>https://www.themoviedb.org/person/237032</profile>
+    <tmdbid>237032</tmdbid>
+  </actor>
+  <actor>
+    <name>陈自瑶</name>
+    <profile>https://www.themoviedb.org/person/1240092</profile>
+    <tmdbid>1240092</tmdbid>
+  </actor>
+  <actor>
+    <name>贾晓晨</name>
+    <profile>https://www.themoviedb.org/person/78254</profile>
+    <tmdbid>78254</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

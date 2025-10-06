@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>嘉贵人抢子</title>
+  <originaltitle>嘉贵人抢子</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>6773165</id>
+  <uniqueid default="false" type="tmdb">1556716</uniqueid>
+  <uniqueid default="false" type="trakt">3096627</uniqueid>
+  <uniqueid default="true" type="tvdb">6773165</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>祭祀分肉之时，怡亲王的肉中被查出含有盐巴，皇上勃然大怒，治了他大不敬之罪，革职查办关进了宗人府。随后，侍卫们手里的肉也接受了检查，但是没有查出异常，皇上深感欣慰。璎珞见傅恒没被捉到，有些意外。祭祀结束后，傅恒叫住璎珞，璎珞坦言是自己告发了怡亲王，目的就是为了给他一个教训，让他知道不是每次犯错都能逃过一劫。傅恒百感交集，犹豫再三后，质问璎珞给自己盐包意欲何为。璎珞承认自己是为了给姐姐报仇，并逼问傅恒是否杀害姐姐的凶手，傅恒否认，璎珞不信，争执中用匕首刺伤了傅恒。皇后因璎珞告发怡亲王一事召见她，准备敲打敲打她，璎珞却误以为皇后知道自己伤了傅恒要惩罚她，谁料傅恒根本未将受伤一事告知任何人，只是将发现璎珞告发怡亲王一事告知皇后，让皇后好生管教。皇后责罚璎珞抄写一百遍“宽容”二字，明玉对此十分不满。受皇后所托，璎珞带着参汤去探望傅恒。傅恒再次向璎珞发誓自己绝非伤害璎宁之人，并答应帮助她一同寻找凶手，璎珞动容。两人感情有所进展，气氛暧昧，海兰察闯进来，璎珞有些难为情，匆匆离开。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2631</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep15.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

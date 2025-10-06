@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:00:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>活着让金坚死而无遗憾</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>僵</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2301052</uniqueid>
+  <uniqueid default="false" type="trakt">12243545</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>梦南回到香港后即遇到一宗神秘杀人案，霆斯认为死因是失血过多，而梦南却知道是僵尸所为。梦瑶问梦南是否与活着吵架，但梦南直言两人的世界观完全不同，不能融洽相处。紫红为梦南之事操劳，梦南非常感动。
+
+太平又再次轻易获胜更把对方活活打死。金坚坦言未见过人有如此劲力，但龙珠却怀疑太平是僵尸。主持人宣布下一场将由随意门与太平门展开对决，太平表示要杀掉随意门所有人。
+
+龙珠调查太平身分
+
+金坚担心霆斯与太平的比赛，活着问他何不弃权，金坚回应武者总会遇到比自己更强的对手，所以不能退缩。玲梅查出曾有人在地极拳赛见到僵尸，龙珠指历代拳赛冠军，都已失踪。玲梅要求与龙珠一同捉僵尸，两人扮作记者去为太平拍照。
+
+太平饮了拳赛老板的宝药后，充满力量，老板叮嘱饮药过程要保密，不要让人看见。比赛开始，何月等人都抢着应付太平，岂料活着突然出现，代表随意门出战。金坚倏然发现一个秘密；他去「夜吾夜」前，向众徒儿说出自己的心底话。
+
+金坚与在生相聚，金坚指能重遇故友感到非常高兴。在生煮了他喜欢吃的食物，准备与他痛饮一番。金坚羡慕在生能行侠仗义，他为了令在生愿意收何年等人为徒，决定与在生进行一场比赛。
+
+金坚离世徒儿不舍
+
+金坚死后，徒弟们都非常伤心。霆斯在处理金坚的文件时，都只能勉强工作。梦南想代替霆斯处理文件，但被他拒绝，并坚持要为金坚做最后一件事。何年与何月在认尸时，更是泣不成声哭成泪人。
+
+晚上，活着请求梦南帮忙。他来到金坚的尸体前，希望与他打最后一场。梦南为了实现他的梦想，用了异能令金坚再生。他们二人作最后一次比试，打得相当尽情。时间已过，金坚已经再没有遗憾。
+
+调查之中遇上巨变
+
+龙珠与玲梅偷偷跟着太平，要查出他们是否僵尸。他们见太平上了一辆私家车，龙珠决定改变计划，但玲梅却不知他说甚么。龙珠想听到太平在说甚么，于是，他想走上前，偷听他的对话。岂料玲梅立即阻止他，并指利用高科技即可听到太平的一言一语。
+
+太平质问老板，为何自己会变成僵尸，指宁愿做回普通人也不想成为僵尸。但老板坦言，已经不能回头，一齐都成定局。突然龙珠与玲梅见到一片火光，玲梅被眼前的景象，吓至脚软。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1309</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[殭].Hdj.Blue.Veins.Ep09.2016.Hdtv.H264.1080I.2Audio-Dtktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>殭 Hdj Blue Veins 2016 2Audio Dtktv qsv av1</title>
+  <originaltitle/>
+  <showtitle>僵</showtitle>
+  <season>1</season>
+  <episode>2016</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1309</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[殭].Hdj.Blue.Veins.Ep09.2016.Hdtv.H264.1080I.2Audio-Dtktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2016" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

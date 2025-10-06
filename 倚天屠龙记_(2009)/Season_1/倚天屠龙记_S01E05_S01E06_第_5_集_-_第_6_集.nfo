@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 5 集</title>
+  <originaltitle>第 5 集</originaltitle>
+  <showtitle>倚天屠龙记</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>2124881</id>
+  <uniqueid default="false" type="tmdb">2032621</uniqueid>
+  <uniqueid default="false" type="trakt">1284211</uniqueid>
+  <uniqueid default="true" type="tvdb">2124881</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>一切准备就绪，张翠山携妻带子登船启程，而谢逊为避中土之群仇，决定继续留在冰火岛上。海上，张翠山一家遇见张挂着天鹰教大旗的船：天鹰教正与一干正派人士刀剑相向，而武当二侠俞莲舟也在其中。张翠山与二哥十年之后重逢，激动不已。原来张翠山和殷素素失踪之后，武林之中几乎所有人都在寻找他们的下落，王盘山一劫后，各门派都来找天鹰教的麻烦，要个解释；但天鹰教为得屠龙刀，故意将谢逊夺刀的消息封锁，因而双方十年来干戈不断。名门正派当即追问谢逊下落，殷素素故意大骂谢逊，并声称他已死在自己手下，张无忌年少不经事，脱口反驳，坏了殷素素的计谋。张翠山无奈，以须得先拜见恩师为由，三个月之后再给群雄交代。俞莲舟虽不甚满意带殷素素回武当，但也不便拆散一对夫妻。回武当的一路，走得殊不平坦，与谢逊结仇的、觊觎屠龙刀的，都来与张翠山等人为难。终于在一次与元兵的交手中，张无忌被其中一武功高强者掳走。殷素素虽然焦急万分，可暂时却也无奈。宋元桥等人得到张翠山的消息，前来会合，兄弟多年失散，重逢自然高兴万分，只可惜处处暗藏着危机。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>1080-06-05</premiered>
+  <aired>1080-06-05</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Wenzhou TV</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Heaven.Sword.And.The.Dragon.Sabre.Ep05-06.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第 6 集</title>
+  <originaltitle>第 6 集</originaltitle>
+  <showtitle>倚天屠龙记</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>2126431</id>
+  <uniqueid default="false" type="tmdb">2032622</uniqueid>
+  <uniqueid default="false" type="trakt">1284379</uniqueid>
+  <uniqueid default="true" type="tvdb">2126431</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>众人回到武当之时，恰逢张三丰百岁寿诞，爱徒失而复得，本是第一等的喜事，但以少林空字辈大师为首的各大门派，以贺寿之名，行追问谢逊下落之实。张翠山据理力争，但空智不肯就此轻轻放过，要与武当比试武功。武当七侠欲以“真武七截阵”取胜，由俞岱岩口授武功与殷素素。殷素素不敢接近俞岱岩，但仍旧被他认出，她就是当年托付龙门镖局送他回武当之人，而也正是殷素素以细针射伤了他！张翠山得知正是自己的妻子害了三哥，万念俱灰，向师傅托孤之后举刀自刎。躲在人群中的张无忌见父亲身死，拼命尖叫，被张三丰救下，交与殷素素。殷素素抱着张无忌，假意将谢逊的下落告知后，也自杀身亡。临死前，殷素素警告张无忌：千万不要相信女人，越是漂亮的女人越会骗人。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>1080-06-05</premiered>
+  <aired>1080-06-05</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Wenzhou TV</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Heaven.Sword.And.The.Dragon.Sabre.Ep05-06.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

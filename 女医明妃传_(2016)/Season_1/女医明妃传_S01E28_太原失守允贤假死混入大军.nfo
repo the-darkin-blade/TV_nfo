@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>太原失守允贤假死混入大军</title>
+  <originaltitle>太原失守允贤假死混入大军</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id>5527099</id>
+  <uniqueid default="false" type="tmdb">1176457</uniqueid>
+  <uniqueid default="false" type="trakt">2159642</uniqueid>
+  <uniqueid default="true" type="tvdb">5527099</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>因为手握太原守将邓演私开铜矿的罪证，也先胸有成竹地开赴太原。果不其然，瓦剌军队没有遇到任何有效抵抗，便轻易拿下了本该固若金汤的太原城。此时的大明朝堂之上，英宗却又在与太后斗法。为了汪国公的罪行一事，二人又一次撕破了脸面，在满朝文武面前争执起来，支持双方的两派大臣也是各抒己见，争论不休。正当众人于朝堂之上争执不休之际，前方太原失守的军报竟突然传来。这一次的噩耗终于彻底激发了英宗的御驾亲征之意。任是太后与满朝文武再如何阻拦，也是难以动摇他的决心分毫了。此时的英宗意气风发，还在为自己拿回了调兵堪核与兵部大权而兴奋雀跃，全然没有想到刀兵无眼的战场之上将有何种危险与不幸在等着他。看着出征之时满面兴奋一派天真的皇上，于东阳心中不禁生起万般的无奈。一支缺粮少药，以太监为大将军的军队实在很难让人看到胜利的希望。此时却没有人知道，允贤心中正承受着怎样的煎熬。原来汪美麟那日的威胁竟不止于周围亲朋的安全。为了父亲的平安归来，允贤心中即便有再多的不甘不舍，也只得顺从她的心意，准备自裁。最后关头，多亏了丁香的及时出现才将允贤从生死边缘拉了回来。这一次，皇后娘娘又为允贤想出了一个绝妙的两全之策——假死离宫。不明真相的郕王却真的以为爱人已然离世，亲眼看到了尸身的他更是对这噩耗深信不疑。悲痛欲绝之下，郕王又一次急火攻心，吐血昏迷。可是郕王不会想到，正当他忍受死别之苦的时候，允贤却已偷偷加入了亲征大军之中，与英宗惊喜重逢了。军队之中，英宗对允贤的关怀依然无微不至，连一旁的将军都看得有些目瞪口呆。有了允贤这位美名远扬的神医相助，军旅艰苦的士兵们也是受益良多，再不必惧怕伤病的困扰。在她与英宗的合力鼓舞之下，一时间明军竟是军心大振，喊声震天。由于汪国公的把控，兵部供给大军的补给药品少之又少。不顾允贤的阻拦，对王振盲目信任的英宗还是将药品采买的重任交到了东厂手中。手握重金的王振自然不会放过这个大发横财的机会，从中狠狠捞了一笔。行进的明军终于遭遇了瓦剌军队。身为瓦剌猛将的勃颜帖木儿虽贵为也先亲弟，却是身先士卒，于战场之上大杀四方，连英宗都忍不住赞叹他的英勇。原本在高处观战的英宗到底还是年轻冲动，一时间受不住敌人的激将，竟要亲自下场与勃颜帖木儿比试。听闻此语，在场众人都不仅大惊失色，慌忙阻止。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E28.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

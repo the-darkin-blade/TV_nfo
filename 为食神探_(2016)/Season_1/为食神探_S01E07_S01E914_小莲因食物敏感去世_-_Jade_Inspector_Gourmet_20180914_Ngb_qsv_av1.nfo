@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:53:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>小莲因食物敏感去世</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>为食神探</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2300929</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>麦犀与爱娇为寻找犬只，到流浮山工作但一无所获。二人正准备离开之际，麦犀收到富豪会所调酒师的来电，希望麦犀私下帮忙修正保安仪器。
+
+麦犀带爱娇到现场，叫爱娇把闭路电视影片倒回前两日。麦犀看到力勤与友人的一举一动，原来他们不是有亲密关系，而是画面上出现了第三个人。
+
+小莲发现力勤秘密
+
+力勤为小莲安排了烛光晚餐，小莲非常感动。烛光晚餐的食物全都是力勤主理，都是小莲最喜欢的食物。
+
+秀娜在另一间餐厅见客，客人指希望知道对象会否为他生儿育女。秀娜以为对象是另有其人，可是当客人私自为秀娜准备食物时，才发现客人的调查对象正是自己。秀娜发难打了客人一拳，各有受伤送院。当去到医院后秀娜才发现错过了小莲的电话，留言中小莲指自己发现了力勤一个秘密。
+
+秀娜在医院看见发现紫萦与力勤在一起，即上前偷听，骇闻小莲竟然因为吃到荞麦，引发食物敏感去世。
+
+麦犀回到侦探社，尝遍每种食物，看看能否想出甚么。嘉嘉仍然觉得力勤是深爱小莲，但得基直指这一餐是力勤刻意安排。
+
+得基发现重大秘密
+
+爱娇指她和麦犀翻看录影片段时，发现力勤与名媛Mandy有染，但接近Mandy前，要先接近力勤友人Kelvin。麦犀指要得基出手，得基轻易地接近Kelvin，但差点被他性骚扰，幸好他人急智生把对方灌醉。
+
+得基来到舞池，见到高仁的手下一直跟踪他，得基偷偷进行反跟踪，却发现了一个重大秘密。
+
+麦犀试过餐厅内所有酱汁，但都没有荞麦成份，他怀疑有厨师换了所有酱汁以求毁尸灭迹。突然间，有大批警察出现要搜查侦探社，并指有人收藏了一个重要证物。警员们把整间侦探社彻底搜查过，但都搜不出甚么。
+
+麦犀找出杀人酱料
+
+嘉嘉想继续调查小莲死因，秀娜立即拒绝，因为这会动用侦探社的资源。可是嘉嘉誓言不会放弃，要还小莲一个公道，并请得基及麦犀一同帮忙。
+
+麦犀由国华安排偷偷进入肇事餐厅的厨房，寻找害死小莲的食物，当麦犀想将证物拿走时，大维出现要求麦犀交出证物。大维认定麦犀想拿走的必然是破案关键，再加上手头的多项证据，派人召力勤来问话。
+
+得基来见Mandy，被她发现是私家侦探，得基把偷拍了的影片给Mandy看，她看后只好与得基提出交易条件。… ...</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1300</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Inspector.Gourmet.E07.20180914.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Inspector Gourmet 20180914 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>为食神探</showtitle>
+  <season>1</season>
+  <episode>914</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1300</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Inspector.Gourmet.E07.20180914.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="914" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

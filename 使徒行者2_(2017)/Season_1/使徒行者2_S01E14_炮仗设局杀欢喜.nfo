@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>炮仗设局杀欢喜</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>使徒行者2</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">4039179</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>嘉莉回首前尘，内心郁结重重，得卓凯开解。卓凯得知嘉莉的真正身份，对她感同情。炮仗动议再印伪钞，欢喜反对，众人表决惟少锋没有表态。炮仗招揽少锋支持他，还告知打算向欢喜下手。少锋最终出手救欢喜，身中多刀重伤，欢喜坚持要救回其性命。天堂发觉淑梅身份神秘，跟踪她到安全屋，差点与卓凯打个照面。炮仗卖伪钞予另一黑帮头目火鸡，志彬率队前来拘捕众人。炮仗与火鸡成功逃离现场，怎料……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2627</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E14.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

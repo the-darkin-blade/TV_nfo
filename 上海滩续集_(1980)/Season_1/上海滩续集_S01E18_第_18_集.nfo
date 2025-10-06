@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 18 集</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>上海滩续集</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2493303</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>力在祥贵等陪同下，回到家中，时秋霞与力母在，力木然说出国强之死讯，秋霞晕倒。秋霞发狂似的，找力欲替强报仇，经力一番解释，才稍安静下来。力母亦因伤心过度，病倒床上。力悲愤非常，着祥贵出尽办法要杀死云志。力母谓天理循环，劝力此后不要再杀人，但力坚次要替强报仇，力母遂以入斋堂要胁力，力终于屈服。
+
+燕燕往找力，力拒见，后二人在教堂中相遇，燕燕向力解释，但力依然不原谅燕燕。经过汪月祺的一番劝解，力恍然大悟，与燕燕前嫌冰释，燕燕并警告力提防祥贵，力却不以为然。另一方面，燕燕与云志真真正正的分手，燕燕更把云志送给她的戒指还给云志。燕燕对上海心灰意冷，离开上海往外散心。力也决定偕母回乡养病，并把所有生意的代管理权交予祥贵。就在力家中，众人为力及母饯行之日，母却突然病发去世。力眼见世上唯一的亲人亦已死去，对云志之憎恨更添百倍，矢言要杀云志，但云志失踪的消息却于此时传出。</plot>
+  <runtime>42</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1076</height>
+        <durationinseconds>2521</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E18.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

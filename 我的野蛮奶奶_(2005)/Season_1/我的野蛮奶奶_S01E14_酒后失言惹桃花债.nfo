@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:53:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>酒后失言惹桃花债</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>我的野蛮奶奶</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>2624351</id>
+  <uniqueid default="false" type="tmdb">2500811</uniqueid>
+  <uniqueid default="false" type="trakt">1434742</uniqueid>
+  <uniqueid default="true" type="tvdb">2624351</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>茂春为再与十一吵架而借酒浇愁，醉倒间竟误向灵珊表示「爱意」。在婚礼上，灵珊不肯悔婚，茂春只好坦然当众说出，只视灵珊为妹，灵珊无地自容竟要自尽，幸好终能获救。
+
+铄兰为报复命人在客栈放蛇，更找来另一批山贼「恐吓」田满等人，可是田满等人皆为捉蛇能手，而且请回来的山贼更是田满的江湖兄弟，反过来迫铄兰承诺不再生事。
+
+由于丰德与巧巧合作的布画大获好评，皇上于是再命二人以刺绣作画回礼给法兰西国，奉旨在皇宫中见面，铄兰害怕二人日久生情，竟然寸步不离监视，可是丰德认为他们光明正大，就算以旧日称呼对方亦无不可，激得铄兰怒不可遏。
+
+丰德发现「凤朝凰」绣坊出现劣货，追寻下竟然发现原来丰荣、丰贵所为。丰荣、丰贵于是将丰德打本给巧巧开绣庄的事告诉铄兰，铄兰一怒下走到绣庄捣乱。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:08</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2684</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Wars.Of.In-Laws.Ep14.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>祈镇暗助允贤脱罪</title>
+  <originaltitle>祈镇暗助允贤脱罪</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>5527077</id>
+  <uniqueid default="false" type="tmdb">1176432</uniqueid>
+  <uniqueid default="false" type="trakt">2159620</uniqueid>
+  <uniqueid default="true" type="tvdb">5527077</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>允贤在狱中继续向罗大娘学习治病救人的知识。皇上因找不到祁钰而心情郁闷，到宫外喝得酩酊大醉，正要回宫之时，遇见来城隍庙为允贤祈福的紫苏，得知允贤因替人诊病而入狱。开庭再审时，徐夫人婢女突然不承认是徐夫人自己未说清病症，一口咬定允贤明知徐夫人全部病情还是开错了药方。还好有王夫人出面为允贤作证，说明徐夫人当日确实没有向允贤提及腹泻之事，可太医院村霞不但不说明实情，反而在公堂之上暗指允贤没有问清楚病人全部病症及之前用过什么药就随意开药方才让徐夫人白白丧命，允贤还是难逃被判有罪的命运。山穷水尽之时，王振突然出现在顺天府，言语中好像与允贤相识，并说自己吃了允贤的药几十年的老毛病都好了。村霞慑于王振的威望有所松口，说允贤不是大夫，“开错药”的事尚且算情有可原，徐侍郎亦不敢不给王振面子，改口称其夫人是死于自己胡乱吃药，与允贤无关，并为自己告错了人向允贤赔礼道歉。在王振的帮助下，允贤被当庭释放。可允贤一介闺阁小姐，怎么会和王振这个东厂头目扯上关系呢？杭纲也因此心存疑虑且大为懊恼，生怕朝廷中人因此而怀疑他与东厂来往密切。至于王夫人之所以出庭为允贤作证则是因为听了允贤的建议，认真找大夫换了方子吃药后，怀上了身孕，遂对允贤心存感激，为其出庭作证。村霞在公审之上是非不分恶意陷害允贤的事被其师父知道后，其师命他长跪反省——是要与其叔父程十三长袖善舞，还是继续跟随师父努力磨炼，踏实学医。太后得知王振公堂之上欺辱命官，责怪钱皇后对皇上劝谏失责。而受了王振的气颜面扫地的徐侍郎竟将怒气撒到了与允贤关系密切却又身份卑微的罗大娘身上，将其一顿乱棍打死，允贤到罗大娘坟前祭拜，认为自己真是天生不祥之人，当初因为自己受了小人教唆无意害了谭家，使祖父蒙冤，哥哥丧命，如今又因徐夫人的事牵连了罗大娘致其惨死，允贤悲痛不已。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1326</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E06.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

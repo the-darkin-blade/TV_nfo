@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>老婆大人</title>
+  <originaltitle>老婆大人</originaltitle>
+  <showtitle>老婆大人</showtitle>
+  <sorttitle/>
+  <year>2005</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>7.5</value>
+      <votes>2</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>裁判法院法官高希敏（宣萱 饰）是个出名的钉官，铁脸无私，公正严明。潜意识里希敏不相信男人，也不相信婚姻！却想不到一次意外的邂逅，她竟然闪电结婚！令她改变初衷的，不是高大威猛的事业型男人，却是个喜欢打理家头细务凑仔煮饭的小男人葛国光（陈锦鸿 饰）。原因竟是因为一次酒后缠绵，却发现希敏怀了自己的骨肉，并打算堕胎，国光竭力阻止，并向希敏求婚，被一口拒绝。希敏为了断绝国光的纠缠，故意订立了一份非常苛刻的婚前协议书，以为用这方法可以吓走国光，想不到国光竟然毫不犹豫，立即签署！并立誓遵守协议书所有条文，令希敏大为感动，终于答应与国光结婚，并生下小儿子，开始了三小口子的幸福家庭。然而始终磨难不断。</plot>
+  <tagline/>
+  <runtime>60</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"15949","tvrage":"14531","tvdb":"290247"}</episodeguide>
+  <id>290247</id>
+  <imdbid/>
+  <tmdbid>15949</tmdbid>
+  <uniqueid default="false" type="tmdb">15949</uniqueid>
+  <uniqueid default="false" type="tvrage">14531</uniqueid>
+  <uniqueid default="true" type="tvdb">290247</uniqueid>
+  <premiered>2005-05-09</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <actor>
+    <name>宣萱</name>
+    <role>高希敏</role>
+    <profile>https://www.themoviedb.org/person/230777</profile>
+    <tmdbid>230777</tmdbid>
+  </actor>
+  <actor>
+    <name>陈锦鸿</name>
+    <role>葛国光</role>
+    <profile>https://www.themoviedb.org/person/548050</profile>
+    <tmdbid>548050</tmdbid>
+  </actor>
+  <actor>
+    <name>唐诗咏</name>
+    <role>葛寶怡</role>
+    <profile>https://www.themoviedb.org/person/1237978</profile>
+    <tmdbid>1237978</tmdbid>
+  </actor>
+  <actor>
+    <name>李施嬅</name>
+    <role>梁昕昕</role>
+    <profile>https://www.themoviedb.org/person/1178843</profile>
+    <tmdbid>1178843</tmdbid>
+  </actor>
+  <actor>
+    <name>邓健泓</name>
+    <profile>https://www.themoviedb.org/person/63588</profile>
+    <tmdbid>63588</tmdbid>
+  </actor>
+  <actor>
+    <name>王杰</name>
+    <profile>https://www.themoviedb.org/person/1499573</profile>
+    <tmdbid>1499573</tmdbid>
+  </actor>
+  <actor>
+    <name>李思捷</name>
+    <profile>https://www.themoviedb.org/person/232771</profile>
+    <tmdbid>232771</tmdbid>
+  </actor>
+  <actor>
+    <name>袁彩云</name>
+    <profile>https://www.themoviedb.org/person/3541260</profile>
+    <tmdbid>3541260</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

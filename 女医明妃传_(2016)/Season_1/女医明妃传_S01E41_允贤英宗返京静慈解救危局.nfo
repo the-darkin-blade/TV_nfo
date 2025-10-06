@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>允贤英宗返京静慈解救危局</title>
+  <originaltitle>允贤英宗返京静慈解救危局</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>41</episode>
+  <id>5540390</id>
+  <uniqueid default="false" type="tmdb">1176478</uniqueid>
+  <uniqueid default="false" type="trakt">2159655</uniqueid>
+  <uniqueid default="true" type="tvdb">5540390</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>天无绝人之路，树洞中濒死的允贤被一队过路的朝鲜商人救了下来。为了让他们帮忙寻找朱祁镇，允贤哭着苦苦哀求，甚至不惜拿出了身上的所有盘缠。最终在众人的合力之下，终于发现了昏倒在雪地中的英宗。使出浑身解数，允贤才终于将朱祁镇从死亡线上拉了回来。为了感激商人们的救命之恩，允贤用自己的医术帮这群常年奔波的旅人解决了许多棘手的病症。跟随商队，允贤二人终于回到了乡镇之中。经过了又一次的生死考验，尤其是雪夜之中的那次告白，允贤与朱祁镇的感情在不知不觉中又加深了一分。汪国公的追杀始终没有停止，东厂番子们把守在各个城门手拿画像严密检查过路的每一个人。为了逃过岗哨，机智的允贤将朱祁镇扮成了身长恶疮的病人。这一招轻而易举便骗过了粗心大意的看守。死里逃生之后，英宗也开始为自己那夜的冲动表白感到有些后悔。为了缓和两个人之间略显尴尬的气氛，他主动提出希望允贤忘了那晚的事，而这也恰恰正合了允贤的心意，两个人又重新退回到了朋友的位置。此时的皇宫之中，太后得知了朱祁镇遭遇刺杀的消息。没有想到，这个一直憎恶英宗的太后竟然是皇宫中第一个心疼他瓦剌受辱，期待他平安归来的人。尽管这一次的追杀并没有朱祁钰的直接参与，但他的不闻不问还是暴露了他不愿看到皇兄归来的真相。太后的质问直击中了朱祁钰心中最丑恶的要害，当惯了九五之尊的他已然不愿放弃这原本不屑的权位了。另外一边的允贤与英宗还在辛苦的返乡之路上奔波。所剩无几的盘缠让允贤伤透了脑筋，为了先照料未愈的朱祁镇，她根本无暇顾及自己日渐虚弱的身子。所幸天无绝人之路，允贤机缘巧合之下竟遇上了她流落民间的师父刘平安。在他的帮助之下，病痛交加的两人终于有了暂时安全的落脚之处。刘平安外出送信之际，躲避在屋中的允贤与英宗还是不幸暴露了行踪，正当官兵杀来，眼看无路可逃之际，空中竟突然射来一片箭雨，将官兵们纷纷射杀在了当场。原来，正是刘平安的及时报信请来了静慈师太带来的援兵。看似平凡的静慈师太原来拥有着先皇嫡后的尊贵身份，这也解释了她与英宗亲如母子的原因。在静慈师太的接应下，于东阳与石亨也终于见到了英宗。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1318</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E41.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="41" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

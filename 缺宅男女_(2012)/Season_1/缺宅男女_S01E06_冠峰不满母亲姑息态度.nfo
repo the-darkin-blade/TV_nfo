@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>冠峰不满母亲姑息态度</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444961</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>嘉乐收到丁海通知立即前往医院探望嘉安，嘉安责怪丁海多此一举，嘉乐即表示兄长不应为工作而疏忽自己的健康。嘉安不想朗翘等担心，要求嘉乐替他保守秘密。
+
+嘉安与嘉乐回到家中，嘉乐差点被四处乱放的鞋弄至跌倒，笑兰乘机又埋怨地方狭小。巧琳帮忙收拾鞋子后手指发痒，笑兰看到后即把祖贵拉开，指巧琳毫不注意清洁。
+
+巧琳患病　笑兰发难
+
+嘉安与朗翘发现巧琳手掌起了红疹，立刻带她求诊，医生证实巧琳患上疥疮。笑兰后悉巧琳患上传染病，即大惊小怪地表示怕巧琳四处传播病毒，要求到酒店暂住一天确保胎儿健康。嘉安无可奈何下只好答应支付酒店费用，笑兰毫不客气选择入住主题乐园酒店，令朗翘气结。翌日嘉康一家回到家中，笑兰竟友善地买礼物给巧琳，令朗翘大感奇怪…
+
+宏瞻聘请　嘉安拒绝
+
+嘉安终替宏瞻完成豪宅装修工程，宏瞻满意嘉安的手工，特多付一笔奖金给嘉安分派给工人；宏瞻的旧楼翻新工程需要有人助他装修顶层的高级服务式住宅，宏瞻希望将工程交托给嘉安负责。但嘉安因早前为旧楼收楼问题而与宏瞻关系恶劣，故此推却了工程，但宏瞻却希望他能再作考虑。嘉安拿着报酬高兴地回家，更亲自挂上新买的鞋袋，要求各人保持衞生不再染病，但笑兰又出言嘲讽。
+
+冠峰发现　母亲秘密
+
+宏瞻夫妇与采贻、陈好入住豪华大宅，一家乐也融融；宏瞻与蔓华大谈采贻的恋爱问题，令采贻感到十分尴尬。冠峰与嘉乐回家时，看见丽婵行色匆匆地离开，冠峰弟妹随即将母亲到医院探望小孩一事告知冠峰。
+
+冠峰怒气冲冲地赶到儿童病房，当他看到丽婵正细心照顾着同父异母的弟弟时，令他气煞不已。冠峰指母亲没有必要去理会丁海的私生子，但丽婵不想他吓怕了小朋友，要儿子不要理会。
+
+大庭广众　责斥父亲
+
+冠峰劝不了母亲，于是找父亲算账，在大庭广众下大数丁海不是，令丁海大为难堪；嘉安见冠峰对父亲不敬，忍不住出言教训了他一顿。冠峰心痛母亲的忍让，嘉乐只好默默地支持他；冠峰为免丽婵再受委屈，决定尽快买屋让母亲及弟妹搬离公屋，嘉乐知这非最佳选择，但也不与冠峰争拗。宏瞻与嘉乐在庆功饭聚中碰面，宏瞻欣赏嘉乐的工作能力，于是开出优厚条件，希望她能加盟旗下公司。
+
+弟妹成长　嘉安欣慰
+
+嘉乐的上司Mike得悉此事后，怕失去大客户而给嘉乐升职加薪，令她喜出望外。嘉乐推却了宏瞻的好意，宏瞻虽失望却对她更是欣赏……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1078</height>
+        <durationinseconds>2682</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>06_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

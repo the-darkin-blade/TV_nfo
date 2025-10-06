@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 8 集</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>433788</id>
+  <uniqueid default="false" type="tmdb">2299422</uniqueid>
+  <uniqueid default="false" type="trakt">1595930</uniqueid>
+  <uniqueid default="true" type="tvdb">433788</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>筱柔入院，雅言前往探望，更发现富添已曾探望，但他没有向筱柔说出分居之事。雅瞳被困海上，被迫协助哲男打理游艇苦不堪言。雅言因与雅瞳失去联络大发雷霆，更威胁说要报警指哲男拐带，但却遭绍铭轻松打发了她。雅思发现家中已无恒产，银行更告之志球尚欠四百多万利息，泰禾听后欲助无从。雅思鼓起勇气到医院探望母亲，却被雅言向她追讨骗了父母的金钱以支付手术费。哲男在海上病倒，雅瞳努力照顾他，更因节省淡水而尽少喝水。珠宝拍卖会上，世基的前妻淑贞刻意与世基竞投一颗钻石，但最终却被长胜投得，但原来长胜是世基好友，更将此钻转送给他以报答世基融资给他炒股票。哲男与雅瞳回到深圳，却发现大批传媒已守候在码头，更拍下两人在游艇上的照片。雅言准备雅瞳的证件接她回港，但上司却要她顺道取回菲林。富添在雅言出发前约她见面，请她签下离婚协议。长胜遇见哲男，便急不及待说出贺峰已出手阻止哲男收购之事。雅言回程时收到长胜电话，他说已在她车上的菲林插赃藏毒，令她被迫将未冲晒的菲林打开，但最终发现又被他戏弄。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>珠光寶氣.The Gem Of Life.2008.Ep08.1080I.Hdtv.H264.Ac3.2Audio_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

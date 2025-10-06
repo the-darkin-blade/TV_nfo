@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>加敏向有康逼婚</title>
+  <originaltitle>Episode 28</originaltitle>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id>4575285</id>
+  <uniqueid default="false" type="tmdb">1743630</uniqueid>
+  <uniqueid default="false" type="trakt">3254407</uniqueid>
+  <uniqueid default="true" type="tvdb">4575285</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>加敏自觉已泥足深陷，迫有康与她结婚，否则便向美欣坦言二人关系。有康苦恼之余，假意答应婚事，并答应与加敏往马来西亚见其家人。康、敏到马来西亚后，欲临时悔婚，遭加敏强烈反对。有康只好勉强向加敏的父母提亲，家人均大表欣喜。
+
+有健机缘巧合下重遇金水，获悉其友人有大排档出让，激发起其雄心，可惜筹不足资本，苦恼不已。其后得楚君暗中相助，遂展开其事业。
+
+加敏发现有康仍常与美欣通电话，内容缠绵不堪，酷意大生，迫有康立刻向美欣宣布二人婚事，有康不加理会。其后有康受加敏的舅父恐吓，终不敢再提与加敏分手之事。加敏伤心之余，竟萌轻生之念，刚巧有康赶至，美言相骗，令她对有康重获信心。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1564</width>
+        <height>1080</height>
+        <durationinseconds>1323</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E28.20181210.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Looking Back In Anger 20181210 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>1210</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1564</width>
+        <height>1080</height>
+        <durationinseconds>1323</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E28.20181210.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1210" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

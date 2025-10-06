@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 20 集</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">543589</uniqueid>
+  <uniqueid default="false" type="tvrage">477150</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>国光返公司见到Yoyo受伤，以为是希敏知道自己与Yoyo有染而伤人，更骂了她一顿！但希敏表示只想找到害阿B的元凶，对两人之事全无兴趣！Yoyo讹称妈妈会告希敏伤人，逼国光早日带阿B与她往大马结婚！为了希敏，国光勉强答应。临上机一刻，希敏才知道国光为了自己才远走大马，决定自首，这也是唯一方法可以再见阿B。
+
+王官再度审理希敏的伤人案，希敏一出庭便承认自己得知了国光与Yoyo有染时，加上知道了Yoyo有心害阿B生病，令自己失了儿子的抚养权，导致心情激动，在情绪不稳定下，弄伤了Yoyo。可是，王官却知道国光曾在庭上公开说从来不爱希敏，既然丈夫从不爱自己，就算得知他与其他女人有染，又何须激动呢？实在令人难以置信！
+
+国光听到此，知道再继续下去只会对希敏不利，决定上庭作证！他说根本一直只爱希敏一人，当天在庭上为了帮希敏脱罪，才作假证供！
+
+可是，国光的证供前后不夹，王官根本不知敦真敦假，判国光的证供无效之余，还加控他藐视法庭！国光无奈，可幸是在公司找到一名清洁女工，知道Yoyo曾做手脚，才可令希敏轻轻一推她，便令自己弄伤双手！可是，女工有智障，担心出庭有麻烦，不过戴官有信心，只要是真相，一定能帮希敏……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1586</width>
+        <height>1080</height>
+        <durationinseconds>1331</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E20.20180521.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Just Love 20180521 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>521</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1586</width>
+        <height>1080</height>
+        <durationinseconds>1331</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E20.20180521.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="521" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

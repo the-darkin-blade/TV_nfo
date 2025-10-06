@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 11 集</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">543588</uniqueid>
+  <uniqueid default="false" type="tvrage">477151</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>国光见到老婆伏在戴官肩膊上哭泣，虽然有点不悦，但仍强忍怒气，上前询问何事，不过希敏只说是身体不适，想立即回家。途中，希敏说在餐厅见到Debbie，但国光支吾以对，回避问题，更没有说出钻石颈链的去向！回家，希敏以最快速度制造一份分居书，正想交给国光签署时，发现他正在细心照顾阿B，开始怀疑究竟老公有外遇，是否自己一手造成呢？最终，将分居书放回房中。
+
+希敏与Yoyo玩瑜珈，突然身体不适。Yoyo帮她拿毛巾时，发现了分居书。听了希敏陈述后，Yoyo发现事有跷蹊，因为国光根本不是拈花惹草的男人，并将此事告诉AK。AK似乎知道内情，并劝戒希敏，如果想国光回心转意，最好方法便是讨好通叔，因为国光最听父亲的说话！
+
+其实，希敏也不觉得老爷太难顶，决定由今天开始，做一名孝顺的乖媳妇，变身「白燕」，并决定举家搬回围村居住。国光见老婆突然性情大变，完全摸不着头脑！初时，希敏也不太习惯围村的清静生活，但当发现自己的专业知识可以为村民解决不少问题后，渐渐也发现自己是一名「鲮械嫂」！咏诗入围村为希敏添置护肤品时，与十三公发生争执。而且，十三公的圣斑纳爱犬大嚿饭居然自动跟了咏诗返家，两人要对簿公堂！
+
+一天，阿B突然叫了一声：「妈」！希敏开心不已，更觉得放弃事业，做全职家庭主妇是值得的，决定向戴官正式递上辞职信，并上国光公司，与Debbie摊牌。希敏直接了当要Debbie交回老公给他时，国光却叫老婆不要轻率行事。Debbie发现希敏误会，正想说出真相，高天突然闯入房……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>1327</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E11.20180508.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Just Love 20180508 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>508</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>1327</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E11.20180508.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="508" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

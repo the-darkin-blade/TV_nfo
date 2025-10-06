@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 50 集</title>
+  <originaltitle>Episode 50</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>50</episode>
+  <id>433920</id>
+  <uniqueid default="false" type="tmdb">2299464</uniqueid>
+  <uniqueid default="false" type="trakt">1596039</uniqueid>
+  <uniqueid default="true" type="tvdb">433920</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>早上泰禾正问及泰川工作的情况时，电视新闻突传来苇庭身患重病的消息。贺峰往找哲男，希望儿子在两公司合并的签约仪式上出现，但哲男拒绝。两公司正式合并，世万更赞赏贺峰识时务，将来会重酬他。苇庭约见贺峰，终得悉是贺峰为了阻止她以资金协助哲男消除合并危机，特发放她有重病之消息令其集团股价下挫。另一边厢与之澄留在法国的长胜，得悉公司的股价因之澄公司注资的消息而回升，不禁松了一口气。觉得被父亲出卖了的哲男意兴阑珊，更向雅瞳提出补度蜜月，世万突然向婉仪提出，欲带卓凝到上海祭祖，婉仪认为世万此举是欲将卓凝正式带入门当宋太，大受打击哭成泪人。但当天晚上，世万却发现卓凝突然失踪。同一时间，市场突有消息说4G技术出现问题，更因此直接影响4G牌照的实行，但世万的心思只集中于卓凝身上，更为了她赶到青岛。事情明朗化后，贺峰成为大赢家。在励群会的会议上，因婉仪退任，众人推举雅思成为新会长。哲男向雅瞳坦言原来自己并不了解父亲，苇庭到印尼小岛上散心，更对泰川说将这岛卖给贺峰。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>50_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="50" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

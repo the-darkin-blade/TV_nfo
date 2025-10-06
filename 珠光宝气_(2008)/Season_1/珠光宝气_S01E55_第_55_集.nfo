@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 55 集</title>
+  <originaltitle>Episode 55</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>55</episode>
+  <id>433925</id>
+  <uniqueid default="false" type="tmdb">2299469</uniqueid>
+  <uniqueid default="false" type="trakt">1596045</uniqueid>
+  <uniqueid default="true" type="tvdb">433925</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>子凌伤愈后与泰禾吃午饭，子凌更托泰禾替朋友打造首饰，泰禾答允。青杨拒绝哲男的协助后为了偿还欠款，不惜担任带领客人到赌船的工作。筱柔探望在励群会工作的雅思，欲与她讨论子凌受伤一事。雅思忍不住指责为何母亲不信任自己之时，筱柔却收到警方联络，青杨被指涉及经营高利贷而给带返警署。筱柔因青杨私下隐瞒欠债之事愤怒不已，最后更将丈夫赶下车。雅言见母亲气得欲离家，出言与母亲分析现况，虽然雅瞳努力安慰父亲，但自责非常的青杨还是决定不回家留在公司度宿。子凌主动到画廊见雅思，更向她说出会用尽方法对付康家，雅思表面镇定但心中却忐忑不安。雅思约雅瞳外出参观某人的婚礼而令雅瞳想通，终决定原谅哲男。雅瞳回家与筱柔倾谈，得悉母亲坦白不甘心原谅青杨。雅瞳听后说出将原谅哲男，亦希望母亲能够原谅父亲。 医生通知泰川的肝脏适合捐赠给苇庭，反令他大吃一惊。泰川与长胜商量欲退出，反被长胜教训了一顿。雅瞳满心欢喜到法国找哲男打算说出原谅他，但想不到她竟发现子凌和哲男发生关系。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>55_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="55" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

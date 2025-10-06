@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>为助至嬴　誓得鱼王</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>鱼跃在花见</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2620721</uniqueid>
+  <uniqueid default="false" type="trakt">7447917</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>为忘寿司　进行特训
+
+姜羌通知至嬴，指至嚣竟任由意寿司自生自灭，只专心经营重掌的月泷纱，而山下先生决定收回经营权；众人得知后要求至嬴立即赶回香港处理，但至嬴竟抵受不了这突然其来的压力……至嬴被众人迫得急了，竟说自己想放弃做寿司；慕容澄得知后气得把至嬴带去寺庙，更要求住持大师教至嬴坐禅，助他「忘记寿司」，但结果是至嬴因没法忘记而不断受到主持的杖打……另一方面看见月泷纱回复旧观的至嚣，则意气风发……
+
+映月得悉　至嚣恶行
+
+思茏接掌帝煌集团后安排至嚣成为集团总裁；在集团会议上至嚣提出大展拳脚的计画，指欲收购月泷纱周遭的商铺，然后打造一条可媲美兰桂坊的地标胜地。亦匡听后指至嚣的建议与辉煌生前的经营方针有异，因此提出反对，但至嚣竟高调地与亦匡争执，最后亦匡选择辞职；这时映月刚好到集团欲找儿子吃饭，至嚣发现接待员因不认识映月而对她不客气，竟气得要把她辞退，而刚准备离开的亦匡亦向映月说出至嚣的所作所为……得知一切的映月相约思茏见面，想不到思茏竟向她说出下嫁至宝是自己的意思，并不觉委屈，思茏更说因为自己欠至嚣太多……姜羌欲探望至嬴但又忐忑不安，没法下定心肠找她；这时慕容澄出现更向女儿说出自己亦曾有这种心情，就是当年自己追求姜羌母亲的时候……得到父亲鼓励姜羌终于和至嬴见面，至嬴向姜羌说出指经过修行后反而更忘不了寿司，因此姜羌带至嬴去吃寿司，当至嬴再把寿司吃进口中，竟忍不住流下泪来……
+
+在家中等候消息的慕容澄与嘉穗，终看到姜羌带着重新振作的至嬴出现；当慕容澄得知至嬴欲立即回港时，便立刻要嘉穗订三张机票，而嘉穗明白慕容澄对自己并不在意，心中感暗伤痛。在收拾行李准备到机场前，姜羌特意制造机会让嘉穗与慕容澄说出心事……至嬴终回到香港，在致电给母亲时发现映月竟到了庵堂暂住；至嚣到庵堂欲接母亲回家，但映月却指自己在庵堂是为了替至嚣赎罪；这时至嬴亦赶到庵堂，却发现兄长已在……
+
+再赴日本　以表诚意
+
+看到母亲与兄长不欢而散，心情低落的至嬴只得在慕容澄家前等候姜羌；至嬴向她说出自己有家归不得的情况，更提出欲到慕容家暂住；姜羌为支持至嬴，特意送上具义意的蓝色寿司碟子给至嬴。思茏到寿司店找至嚣详谈，但他却推说自己工作繁忙，思茏只得把发现自己怀孕的事吞回肚中……至嬴与慕容澄与山下先生见面，请他放弃将经营权取回……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2689</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>鱼跃在花见 Ep16_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

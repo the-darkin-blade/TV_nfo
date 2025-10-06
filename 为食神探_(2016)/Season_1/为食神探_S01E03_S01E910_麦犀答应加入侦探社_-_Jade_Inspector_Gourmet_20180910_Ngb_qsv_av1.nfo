@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:53:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>麦犀答应加入侦探社</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>为食神探</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2300925</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>为了寻找麦犀回来，得基与嘉嘉到新界的小村落寻人。两人来到村落后见到麦棠，麦棠竟然说不知道谁是麦犀。得基再三追问，麦棠仍然记不起。幸好李亚彩出现，她指麦棠没有记性，所以麦犀经常欺负他。
+
+这时得基继续追问麦棠，这才记起麦犀曾传了一张照片给他。得基二人来到照片中的回收店，终于找到麦犀，但是他的神情非常古怪，得基为了保护嘉嘉，即叫她不要接近麦犀。
+
+鸡蛋仔成加盟条件
+
+嘉嘉指代表侦探社拜见，邀请麦犀加入，但麦犀一口拒绝。嘉嘉并未有放弃，再三请求麦犀加盟。麦犀突然叫嘉嘉去买饭，而得基却另有任务。得基见到麦犀与嘉嘉一同吃饭盒，自己则要整木头车，不禁愤怒非常。
+
+得基把木头车整好后，麦犀再有任务委派他们，要他们去找全香港最好的鸡蛋。嘉嘉千辛万苦终于找到麦犀想要的鸡蛋，但是鸡蛋仔档主康哥却不满意。麦犀指如果找不到康哥要的鸡蛋，吃不到他亲手造的鸡蛋仔，他是不会去侦探社的。
+
+嘉嘉在网上搜查到康哥的报道，而得基在照片中则见到很面善的女生。几经波折，麦犀心愿已了，即跟得基二人回侦探社。
+
+麦犀答应加盟，但有一个条件，就是要侦探社包食宿，秀娜一口答应，答应可住在得基的家中。得基听到后非常不满，因为他所住的地方只是间旧唐楼。秀娜指得基是厨师，麦犀可以直接吩咐他煮食。得基实在不敢相信，秀娜竟然要自己服侍麦犀。
+
+得基为查案差点撞车
+
+深夜麦犀不停叫得基煮东西给他吃，令得基非常不满，但合约上写明包伙食，得基只能忍气吞声。
+
+秀娜收到一宗工伤的案件，要查出受伤的傻超是否诈骗，得基一心想与嘉嘉拍档，但秀娜却安排他与麦犀一组，得基十万个不愿意。
+
+得基从远处观察傻超的一举一动，仍未见有可疑。突然有两名妇女骚扰得基，他为了追究她们，差点被汽车撞倒。女司机痛骂完得基后，即把傻超带走。得基欲追上前，却不见了麦犀。
+
+爱娇辣椒哥斗食辣
+
+得基二人在火锅店见到傻超与女司机岑爱娇，他们正在与黑社会人马辣椒哥讲数。得基与麦犀静静坐在一旁，眼见爱娇与众人讲数讲得面红耳赤，差不多要打架，但麦犀仍然非常冷静没有丝毫紧张。爱娇知道即使不能为傻超取得应得的赔偿，但都要给辣椒哥施下马威，所以她决定与辣椒哥比赛吃辣椒。他们一面吃，麦犀反而看得非常紧张，就像自己在吃一样。… ...</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1306</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Inspector.Gourmet.E03.20180910.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Inspector Gourmet 20180910 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>为食神探</showtitle>
+  <season>1</season>
+  <episode>910</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1306</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Inspector.Gourmet.E03.20180910.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="910" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 73 集</title>
+  <originaltitle>Episode 73</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>73</episode>
+  <id>430565</id>
+  <uniqueid default="false" type="tmdb">2299487</uniqueid>
+  <uniqueid default="false" type="trakt">1596063</uniqueid>
+  <uniqueid default="true" type="tvdb">430565</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雅言与长胜吃早餐时，告知他新公司装修完成后可到那边工作。但打算东山再起的长胜却要雅言继续当CEO，自己则负责在幕后策画。雅瞳从雅言口中，得知启发被警方调查之事可能与哲男有关，竟到他家中大兴问罪，哲男看到前妻的行为心痛不已。雅瞳向怀德诉苦，启发偶然下听到雅瞳只视他为好友之事，不禁大受打击。筱柔突然到雅思公司找雅言，但却完全不记得雅言早已辞职，雅思的助手只得带筱柔到画廊等待雅思。搬到日东家暂住的雅言，被日东问及与长胜有否复合的机会，但雅言坦白说出现在只想协助长胜重出江湖。青杨要三姐妹回家详谈，原来青杨发觉筱柔的病情变得严重，为了不想妻子为女儿之间的事操心，因此他立下规举，要女儿们回到家后要在母亲前扮作和睦，更要求雅言搬回家中居住。哲男欲在美国发展的计画不被雅思与雅瞳同意，不禁大为失望。启发明白自己受官非缠身，再不可以在钻石界发展，特与好友筹备中药生意，但因此得悉自己惹上官非之真相。启发约哲男见面时遇上意外，哲男将他救出车外。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>73_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="73" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

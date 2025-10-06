@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:00:08 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>霆斯与随意门藕断丝连</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>僵</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2301041</uniqueid>
+  <uniqueid default="false" type="trakt">12243538</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>梦南喂猫时重遇活着，不禁喜出望外，之后跟随活着返回「夜吾夜」食堂。梦南埋怨活着当日失约，活着解释因亲人离世，回来接手食堂。梦南上洗手间时，活着感应到凌风的出现，即时追出，并留下出去买菜的字条。
+
+梦南出来后不见活着，在厨房自行切菜，自得其乐。另边厢，活着与凌风再次拼个你死我活；每当凌风受伤，梦南都有奇怪感觉。当活着回来后，梦南惊见他满身鲜血，上前扶他即晕倒在梦南身上。
+
+霆斯不受金坚重视
+
+翌日活着醒来，发现自己仍躺在食堂的地板上。梦南正为他准备早餐时，收到霆斯通知有尸体需要处理。
+
+梦南回到殓房，发现女性尸体颈上有两个血洞，梦南再次使用异能让死者何小雯讲出凶手是谁。霆斯知道凶手不是何年，即放下心头大石。霆斯怀疑凶手是僵尸，梦南却不相信。
+
+霆斯往金坚家，想告知何年很快会被释放。霆斯见金坚不适，即主动帮他擦背。擦背时，霆斯不停指金坚偏心只爱锡何年，结果被金坚赶走。霆斯一人在海边饮闷酒，觉得金坚一直都看不起自己。
+
+何月接何年回家时，看见梦南晕倒街上，即时为她针灸。何年致电给霆斯，霆斯以为他胁持了梦南，答应与他比武。霆斯来到老地方，即叫何年释放梦南。原来梦南已经醒了，但不想离开，她想知道霆斯与何年，谁胜谁负。
+
+活着暗中出手相助
+
+二人比武时，梦南问何月谁人会胜出，何月指二人各有缺点。霆斯与何年拳来脚往，胜负未分。活着突然从后出现，梦南惊喜；活着看着二人拆招，随口点评，指出二人错处。活着从何月口中得知，何年与霆斯曾是同门师兄弟之事。比试中途，太平门掌门陈太平突然出现，他指骂霆斯身为太平门弟子，却用随意门的功夫。太平侮辱随意门，何年与何月深深不忿，可是都打不过太平。这时何月不知从哪里得来的力量，竟然可把太平打走，何月心知有高人帮忙。
+
+何月向金坚描述，自己受到花生撞击才会打走太平。金坚解释高手能精气神合一，运劲在花生之上，并指自己年轻时曾经遇见过。
+
+梦瑶成学会新成员
+
+梦瑶乘飞机回港，途中被僵尸恶梦而惊醒。梦瑶回到香港，梦南与紫红都去接机。梦南担心梦瑶有事，令梦瑶感到窝心。
+
+灵异学会的会所被泰拳学会霸占了一半，玲梅即找何月商量。泰拳学会的办事人指他们已得到校方批准，并声言如果她们找不到第三位会员，灵异学会就被解散……</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1301</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[殭].Hdj.Blue.Veins.Ep03.2016.Hdtv.H264.1080I.2Audio-Dtktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>殭 Hdj Blue Veins 2016 2Audio Dtktv qsv av1</title>
+  <originaltitle/>
+  <showtitle>僵</showtitle>
+  <season>1</season>
+  <episode>2016</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1301</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[殭].Hdj.Blue.Veins.Ep03.2016.Hdtv.H264.1080I.2Audio-Dtktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2016" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

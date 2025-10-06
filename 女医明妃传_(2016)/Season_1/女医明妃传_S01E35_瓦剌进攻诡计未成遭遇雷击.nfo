@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>瓦剌进攻诡计未成遭遇雷击</title>
+  <originaltitle>瓦剌进攻诡计未成遭遇雷击</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id>5540384</id>
+  <uniqueid default="false" type="tmdb">1176467</uniqueid>
+  <uniqueid default="false" type="trakt">2159649</uniqueid>
+  <uniqueid default="true" type="tvdb">5540384</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>瓦剌一路烧杀抢掠，迅速直逼京城。大明士兵与百姓的痛苦哀嚎终于激醒了一直如行尸走肉般的英宗。趁此时机，允贤赶忙利用小皇子的诞生与朱祁钰的坚定帮英宗重新燃起了生的希望。眼见一步步地靠近京城，返回故乡，允贤心中对朱祁钰的思念也越来越重。连水中的倒影都仿佛是二人曾执手许诺的风景，只可惜这美丽的回忆也同虚幻的倒影一样一触就破，只留涟漪回荡心中。此时的皇宫之中，仿佛有心灵感应一般，出征在即的朱祁钰也在望月兴叹，想念着他心中已经故去的爱人。然而造化弄人，也许朱祁钰自己都不会想到，也是在这一夜，他出于怜悯而终于给了汪美麟一个早该属于她的新婚之夜。也因此永远地打破了自己与允贤曾经许下的誓言。第二日一早，瓦剌人果然如期而至，一路兵临北京城下。出乎也先意料的是，这一次他胸有成竹的进攻却没有迎来预想的胜利。原来，早有准备的大明将士已经准备好了火铳火炮在等待着他们。眼看瓦剌伤亡惨重，无奈之下也先终于搬出了自己的杀手锏——英宗，逼迫明军打开城门迎回他们的皇帝。大明将士乍然之间见到被俘异乡的前任皇帝，顿时大感意外，一时间竟有些不知该如何是好了。两军僵持之际，也先将程十三推了出来劝降明军。这个无耻之徒竟然颠倒黑白，将郕王与于东阳诬陷成了秘谋篡位的罪魁祸首。出乎所有人意料的，原本看似病弱的英宗竟突然之间奋起，夺下瓦剌人手中兵刃将程十三这个叛国之徒斩杀当场。为了大明，此时的英宗已将自己的生死置之度外。他不惧颈上的刀剑，鼓励所有大明士兵绝不要顾及自己，只需全力杀敌。受此鼓舞，城上的朱祁钰也瞬间燃起了斗志，他身先士卒，带领士兵奋勇拼杀，誓要救回皇兄。眼看诡计失效，也先顿时起了杀念，正当他高举屠刀砍向英宗的瞬间，天竟劈下一道响雷将他击倒在了当场。眼见主将倒下，失去了主心骨的瓦剌军立刻慌了手脚，成了一盘散沙。趁此时机，明军乘胜追击，惊鸿一瞥中，朱祁钰竟看到了允贤死而复生的身影。尽管拼死追赶，但他还是未能赶在瓦剌援军之前救回英宗与允贤。瓦剌军队带着奄奄一息的也先奔驰而回。面对伯颜帖木儿的跪地恳求，允贤与英宗本想拒绝，怎奈他的一番晓以利害终究还是打动了允贤的一颗医者仁心，答应为也先诊治。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1323</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E35.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

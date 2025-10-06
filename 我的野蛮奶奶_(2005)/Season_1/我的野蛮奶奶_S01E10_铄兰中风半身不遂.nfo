@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:53:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>铄兰中风半身不遂</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>我的野蛮奶奶</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id>2624311</id>
+  <uniqueid default="false" type="tmdb">2500807</uniqueid>
+  <uniqueid default="false" type="trakt">1434734</uniqueid>
+  <uniqueid default="true" type="tvdb">2624311</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>大夫证实十一没有身孕，而甯老太及茂春极力维护十一，再加上丰荣、丰贵两夫妇在旁煽风点火，激得铄兰中风致半身不遂。十一非常内疚，承诺会无条件照顾铄兰。
+
+自此十一服侍铄兰所有起居饮食外，还独力满足铄兰多番的无理要求。但某天十一无意中发现，原来铄兰只是装病，目的只是戏弄她。虽然十一向茂春透露实情，可惜茂春根本不相信，还叫灵珊代为照顾铄兰。十一于是想到在房外制造浓烟，令铄兰以为失火主动「现形」。事件被揭发后，甯家上下对铄兰装病大为愤怒，可是铄兰却绝不认错，还归咎于众人对她态度变差，更加憎恨十一。
+
+铄兰欲促成巧巧与「云大哥」的婚事。于是命巧巧迫丰德成亲，丰德找大夫诊断出成亲乃医治巧巧的唯一方法，于是合力上演一幕假婚事，可是成亲当日铄兰却突然出现……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:08</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2679</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Wars.Of.In-Laws.Ep10.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

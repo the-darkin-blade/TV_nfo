@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>少玲甘作耀国情妇</title>
+  <originaltitle>Episode 25</originaltitle>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>4575282</id>
+  <uniqueid default="false" type="tmdb">1743627</uniqueid>
+  <uniqueid default="false" type="trakt">3254404</uniqueid>
+  <uniqueid default="true" type="tvdb">4575282</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>方红欠下贵利赔偿。少玲为助方红还债，迫于向有康求助。有康籍此游说少玲成为耀国的情妇，少玲无奈答应。
+
+秀云无意中发觉少玲为钱甘作耀国的情妇，大为震怒，声言与少玲断绝关系。其后方红亲向秀云求情，仍未改变其原则。有康为平息秀云的怒意，以为给她一笔巨款作补偿，但秀云拒绝接受。
+
+彭济因女友移情别恋，甚表痛心，竟萌轻生之念，幸得有健等开解，对生命重获信心。
+
+志文预科毕业后，开始踏足社会工作，但因资质能力所限，无甚所为。有康欲提携他在「佳美」工作，却被秀云强烈反对。
+
+志文的亲生父母当年到日本工作，因秀云曾搬迁多次，故彼此失去联络。多年后，文父发迹回港，欲登报寻回志文，果被志文看到，主动联络父母。
+
+志文与家人团聚后，与兄妹格格不入，反被认为另有企图，施以白眼。志文大受打击，决离开父母，找寻出人头地之法。志文终经不起有康拉拢，决入「佳美」跟随耀国，令秀云大受刺激。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1566</width>
+        <height>1080</height>
+        <durationinseconds>1312</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E25.20181206.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Looking Back In Anger 20181206 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>1206</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1566</width>
+        <height>1080</height>
+        <durationinseconds>1312</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E25.20181206.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1206" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

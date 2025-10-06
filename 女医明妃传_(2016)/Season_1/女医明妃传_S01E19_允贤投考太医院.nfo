@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:19 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>允贤投考太医院</title>
+  <originaltitle>允贤投考太医院</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>5527090</id>
+  <uniqueid default="false" type="tmdb">1176447</uniqueid>
+  <uniqueid default="false" type="trakt">2159633</uniqueid>
+  <uniqueid default="true" type="tvdb">5527090</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>伤心失望的允贤只能独自疗伤。她没有等来爱人的道歉安慰，反而等来了郕王的一番埋怨。郕王不懂允贤的坚持，更不明白医术对于允贤的重要。他心里所想的只是如何劝住母妃，渡过当下的危机，迎娶允贤入门。面对郕王的不理解，原本就一直在默默承受的允贤终于爆发了。委屈的女人和心烦意乱的男人碰撞在一起，只能制造更大的矛盾。宫女丁香适时地阻止了两人的争吵，只是矛盾虽然搁置，郕王与允贤心上都已有了深深的裂痕。没有了爱人的庇护与牵绊，留在皇宫之中对于允贤也失去了意义，她想到了出宫，只是英宗却不舍得放她离开。为了可以日日见到允贤，更为了助她实现梦想，英宗提议允贤以女医身份加入太医院。开始还有些胆怯犹豫的允贤在英宗的鼓励下终于坚定了信心，决定为自己的医者之梦放手一搏。而刘院判也同意了允贤的请求，只要她能通过考核，便可以进入太医院中拜自己为师，学习医术。此时的郕王对于允贤的决定尚且一无所知。可怜的他也正身陷爱情与孝道的两难选择。来自母亲与爱人的逼迫将他压得快要喘不过气。趁此时机，聪明的汪美麟用她的楚楚可怜之姿，成功地博取了郕王的同情，营造出了自己贤良大度的假象。乍然得知允贤之事，郕王实在不懂，她为何要在此时参加太医院的考核，为二人原本就困难重重的婚事雪上加霜。满腔怒火前来理论的他不仅没能见到允贤，反而被宫女丁香以一句“燕雀焉知鸿鹄之志”顶得哑口无言。另外一边，连日来苦学钻研的允贤顺利地通过了太医院的笔试考核，获得了一等的好评。可是阴险的程十三却不会就这样轻易放过了允贤。卑鄙狡猾的他伙同程村霞对允贤提出了一系列生涩难解的刁难问题。可让这两个卑鄙之徒做梦都不会想到，允贤不仅精通医术，更是个机智冷静的女子，他们准备的诸多难题都没能考倒允贤，反而令在场之人都看到了允贤的高超实力。为了逼允贤放弃，最后一道实症之题，程十三叔侄二人竟将针灸所用的铜人换成了真人男子。他们更是提出了位于两股之间的腰腧之穴，要求允贤施针。这令人尴尬的无理要求令在场的太医们都惊呆了，允贤一时陷入了两难。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1326</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E19.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

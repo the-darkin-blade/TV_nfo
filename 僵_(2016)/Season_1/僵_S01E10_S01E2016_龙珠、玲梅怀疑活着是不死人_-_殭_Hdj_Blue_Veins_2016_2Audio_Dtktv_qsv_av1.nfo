@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:00:11 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>龙珠、玲梅怀疑活着是不死人</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>僵</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2301055</uniqueid>
+  <uniqueid default="false" type="trakt">12243546</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>徒弟们在金坚的墓前发誓，会打理好随意门。他们回到随意门看见活着，活着宣布会成为三人的师父，继续教他们武功，但最重要是培养锄强扶弱的侠义精神；但结果他们被安排为食店做宣传。
+
+扬言各行各路的梦南来到「夜吾夜」，活着感错愕。梦南说为之前的事来寻找答案，活着听得一头雾水，直言答案已在给她的碟上，梦南却把那件事忘记了。梦南在家中寻找，终于找到那只餐碟，伤心起来。
+
+玲梅龙珠测试活着
+
+龙珠不停翻看之前的影片，欲找出片中黑影是谁；玲梅尝试用新魔法，希望得到一些启示，龙珠则用中国传统方法寻人。龙珠与玲梅来到「夜吾夜」，见到霆斯与何年进行人体发电；这时活着的身影映在墙上，玲梅立即把这个身影拍下。
+
+龙珠与玲梅为了证明活着是不死人，计划检查他的基因，看看与现代人有否不同，还想用砖头袭击他，看看他有何反应。结果全部计划都失败，并且摆了个大乌龙。
+
+梦南再到「夜吾夜」追问活着的答案，活着再次坦言两人永远不可能是情侣，梦南却觉得他在说笑。梦南回到家后，再次找到那只餐碟，又再一次伤心欲绝。翌日早上，梦南如常起身，开心的上班，竟对昨晚的事全无记忆。
+
+梦瑶得到颖儿赏识
+
+梦瑶要去应征研究助理一职，玲梅觉得非常难过，因为灵异学会将会只剩下她一人。何月安慰她，指将来会有新会员加入。玲梅帮二人占卜，却占得何月的爱情运程不顺，双方好像被东西阻挡，反之梦瑶很快便会找到意中人。
+
+梦瑶进行笔试时被提问考起，只是呆坐不懂回答。笔试只剩下三分钟，她突然想到一个办法。罗颖儿主持面试，她一见到梦瑶的试卷，觉得很奇怪，并要求梦瑶为试卷解释。当她阅读了梦瑶的答案后，感到相当满意。
+
+一时贪玩遗失用具
+
+应天正在开发新药，当他从颖儿手上得到最新的药理报告，得知药物的稳定性方面仍需要进行临床实验。何年在街头做宣传时突然收到电话，何月邀约一起吃火锅。何年与霆斯一时贪玩，把宣传用品放在后巷便离开。
+
+火锅大会上，除了庆祝灵异与泰拳学会合并外，还要庆祝梦瑶找到新工作。霆斯与何年都抢着恭喜她，二人开始互相敌视对方，岂料梦瑶与梓诚相谈甚欢，二人即耍手段分开他们。霆斯与何年回到后巷欲取回宣传用品，所有用品都不见了。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1307</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[殭].Hdj.Blue.Veins.Ep10.2016.Hdtv.H264.1080I.2Audio-Dtktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>殭 Hdj Blue Veins 2016 2Audio Dtktv qsv av1</title>
+  <originaltitle/>
+  <showtitle>僵</showtitle>
+  <season>1</season>
+  <episode>2016</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1307</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[殭].Hdj.Blue.Veins.Ep10.2016.Hdtv.H264.1080I.2Audio-Dtktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2016" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

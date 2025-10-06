@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 1 集</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>上海滩续集</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2458346</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>话说许文强被人所杀，丁力十分伤心，誓要为他报仇。力之手下祥贵查悉杀文强乃扳头帮所为；而杀文强者乃他们雇请回来之法国杀手，力下令杀死他们，杀手终在与祥贵追杀下死去。
+
+另一方面，力接获消息，谓汪月琪将返上海，力兴奋，他极想知道程程的消息。月琪出码头时，人潮挤拥，行李及眼镜跌了，幸得朱燕燕帮忙。力第一眼见到燕燕，已深深被她的明艳外表吸引。力获知程程因文强死讯即进修道院，十分失望。  月琪往拜祭文强，才知道力对文强尚存有深厚友情，因力每日均送两次鲜花到坟前。
+
+力与月琪参观燕燕之个人画展，恰遇祥贵追杀三杀手至会场，祥贵杀二人，一人逃脱，力见现场混乱状，尴尬非常。</plot>
+  <runtime>35</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1074</height>
+        <durationinseconds>2115</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E01.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

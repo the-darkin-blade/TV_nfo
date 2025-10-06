@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 32 集</title>
+  <originaltitle>Episode 32</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id>433903</id>
+  <uniqueid default="false" type="tmdb">2299446</uniqueid>
+  <uniqueid default="false" type="trakt">1595982</uniqueid>
+  <uniqueid default="true" type="tvdb">433903</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>贺峰约苇庭见面吃饭，更为迟了向老朋友通知再婚之事而道歉，苇庭欣然接纳。贺峰明白苇庭对雅思的评价不好，于是努力说项希望她祝福自己的婚事。苇庭不想好朋友失望，大方地答应替他筹备婚礼。雅思回到公司向苇庭销假及辞职，苇庭向雅思提问有关婚礼的规模时，雅思说只想低调处理，令苇庭大为赞赏。贺峰约长胜饭聚，向他查问是否曾出手阻止哲男将手上的贺峰公司股分出售，长胜坦言市场上没有人想得罪贺峰。刚巧哲男与下属前来吃饭，当他看到父亲与长胜密谈心感不快。哲男与长胜在洗手间相遇，两人为了贺峰竟又针锋相对起来。哲男因为资金不足而无法大展拳脚，有下属提议将贺峰公司的股分以低价售给新加坡的王夫人，哲男无奈下只得答应。比赛第二回合开始，泰禾与子凌为了布置示范单位的主题而起争执。哲男再次提出复合，雅瞳要求他放弃一切与她离开香港，但哲男无法做到。在布置比赛单位时，子凌得悉泰禾暗恋雅思的秘密后，竟用药迷倒他。传媒收到消息说因雅思出嫁，泰禾失恋自杀。众人对质时，子凌恃自己的身分掌掴雅思，想不到泰禾看见后竟出手掌掴子凌。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>32_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

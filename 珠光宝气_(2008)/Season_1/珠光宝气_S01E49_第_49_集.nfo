@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 49 集</title>
+  <originaltitle>Episode 49</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>49</episode>
+  <id>433919</id>
+  <uniqueid default="false" type="tmdb">2299463</uniqueid>
+  <uniqueid default="false" type="trakt">1596037</uniqueid>
+  <uniqueid default="true" type="tvdb">433919</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>世基偕青杨参加基金经纪的牌局，结果内幕消息没取到但青杨却在赌局中惨败，最后只能让世基助他代还欠款。泰禾欲向青杨谈论工作时，发现青杨竟拥有世万三姨太的钻石链，更发现他原来正制作仿造品。青杨向泰禾解释这是世基托他制作以抵消欠款，泰禾劝阻师父不要自毁商誉时，筱柔竟偕雅瞳与哲男出现。婉仪与众阔太在名店购物时遇上文慧，文慧竟倚仗自己有身孕，公开讥讽婉仪，想不到婉仪却选择忍耐。筱柔与阔太茶聚时，得悉文慧将与世万出席赛马活动，筱柔心中暗感不妙。哲男果然利用文慧的首饰来令世万受辱，亦因而连累青杨公司。哲男约筱柔喝茶，特意为此事道歉及奉上支票，但他亦请筱柔保守秘密不让青杨及雅瞳得知。日东到青杨店中选购结婚戒指，更主动说出是用来买给雅言的。世万约贺峰饭聚，他主动要求注资到哲男的公司，贺峰无奈答应。贺峰将合并之事与哲男商量，哲男痛斥父亲。雅思亦要求丈夫放弃合并，但贺峰竟一意孤行。泰川送文件到苇庭家，更因她不适而送苇庭进睡房。雅言与日东成婚之日，亦是长胜离开香港之时。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>49_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="49" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>事业低潮　无法振作</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>鱼跃在花见</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2620722</uniqueid>
+  <uniqueid default="false" type="trakt">7447918</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>投得鱼王　获得认同
+
+得慕容澄好友之助成功投得日本一鱼王的至嬴等人，把鱼王送到寿司店门外；这时各地人士得到消息，有外籍人士首次投得日本一，于是纷纷出现观看，而传媒亦争相采访。至嬴依照慕容澄的教导请各同行进入寿司店，然后当众表现刀法切鱼，更将刺身分予众人分享；当各师傅品尝过至嬴的手艺后，竟一起拍掌称赞他。姜羌与慕容澄父女在街上闲逛，当话题谈到慕容澄极爱惜当年姜羌所有的鲤鱼旗时，父女俩竟决定一起制作新的鲤鱼旗。
+
+至嚣提出　兄弟再战
+
+至嚣特意举行传媒试食会以提高知名度，但席上有记者问及他对至嬴的意寿司名声大振之感想时，至嚣指月泷纱比意寿司优胜多，更指是自己教至嬴造寿司，因此不认为他能胜过自己；这时有记者说有人通风报讯，指当年辉煌欲派两子其中一人到日本学艺而让他们比赛，而至嬴是故意让至嚣胜出，至嚣听后不禁大怒……至嚣特意找弟弟质问有关消息泄露之事，但他却发现众人正替映月庆祝生日。
+
+至嬴否认是自己通风报讯，至嚣便指应是亦匡泄露消息；为免兄长把事情闹大，至嬴坦言当年比赛时真的有刻意动了手脚。至嚣听后指弟弟侮辱了自己，要求与至嬴再一次比赛，这时映月出言欲平息事件……日本国宝级运动员长泽预约了到意寿司吃饭，但因长泽欲吃特别的马面鱼，因为四处也没有货源，因此至嬴只得向唐奥取鱼；至嬴离开的与至嚣相遇，至嚣得知弟弟在唐奥处购入马面鱼后，竟默不作声……
+
+因长泽到访，传媒一直拍摄至嬴制作寿司的过程，但至嬴为了急于把寿司送给长泽吃，竟然忽略了试食；忙了一整天的至嬴到姜羌开设的乌冬店吃面，当两人打情骂悄之际，至嬴突然把当时姜羌附托给自己保管的旋转木马还给她，更指姜羌已重新回到幸福的起点……两人正温馨不已时，至嬴收到电话指长泽因吃了马面鱼而食物中毒入院；当至嬴赶到医院时，长泽的经理人指将会追究到底……
+
+不理生意　只顾爱情
+
+意寿司被勒令暂停营业，思茏与至宝前来探望至嬴，至嬴发现思茏面色有异，因此要送她去看医生，思茏为了让他释疑，只有向他说出自己怀孕之事。
+
+至嬴前往探望母亲时，发现映月竟答应回至嚣家，令他失落不已。至嬴不思振作，只管与姜羌四出游玩，最终更当众向姜羌求婚。山下先生提出如意寿司生意不达标，便会把经营权收回。至嬴与姜羌拍婚纱照时，看到传媒把长泽食物中毒之事大肆渲染，不禁心情低落。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2656</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>鱼跃在花见 Ep17_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

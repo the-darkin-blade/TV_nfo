@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 6 集</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">543585</uniqueid>
+  <uniqueid default="false" type="tvrage">477158</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>通叔入院，一醒便大骂老婆常常宠坏儿子，令他成为一名超级典型的老婆奴，通嫂在丈夫面前，只能食死猫！十三公和村长还在希敏家，更想召集村民前来看看这荒天下之大谬的结婚协议书，幸好亚基警告他们希敏可能会告他们擅闯私人地方，把他们吓走！通叔发脾气，赶了老婆仔女出房，但却接受希敏的劝告做心脏检查，幸好结果正常！
+
+国光送通叔返扁头村开乡事会议，但在门外便听到村民正在开大会研究那份协议书！通叔的尊严何在，国光还被小童唱：「葛国光，老婆奴，卖身无前途」！通叔觉得无地自容，决定举家搬往市区与儿子同住，帮儿子起革命，誓要助他做回一个真正的男人，命儿子第一件要戒的事便是凑仔！所以在家时，就算阿B哭过不停，通叔都不准国光抱他，一定要希敏放下手头工作出来凑仔！但希敏迟迟不出来，国光不忍心阿B嚎哭不止，竟主动抱起他，通叔大闹儿子毫不争气，无得救，骂他是「住家男人猪肠粉」！
+
+大官突然要希敏放假一天，因为明天他要主审希敏那位抛妻弃女的爸爸高天的案件，但希敏觉得无须避开他。两人最终在庭外相见，但希敏没有与爸爸打招呼。国光受父亲之命出外创一番事业，但他总是挂心希敏照顾不到阿B。为了阿B不会饿坏，国光在早上离家前已经准备好阿B一日的粮食，这样希敏便可安心返工，阿B可由祖母照顾。通叔终于明白，国光根本不想做一名像自己般的大男人！
+
+国光从外母口中，知道了外父是富豪高天。亚基告诉国光，可以往裁判处找外父，希望外父有办法教他甚样令希敏做回一名正常的女人！不过，高天也没有办法，但想见阿B一面！国光夜里偷运阿B出外，被希敏发现他与父亲见面！希敏闹国光暪着自己去见这名「衰人」，赠了老公一巴掌！</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E06.20180501.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Just Love 20180501 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>501</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E06.20180501.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="501" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

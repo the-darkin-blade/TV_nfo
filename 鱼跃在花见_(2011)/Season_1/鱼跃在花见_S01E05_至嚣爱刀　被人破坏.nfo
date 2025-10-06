@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>至嚣爱刀　被人破坏</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>鱼跃在花见</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2620706</uniqueid>
+  <uniqueid default="false" type="trakt">7447906</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>思茏义助　至嬴感动
+
+至嬴回家时，发现思茏竟在管理处出现；思茏把记忆卡交给至嬴，指这是雍容的录音，将可协助他们解困，至嬴感激之余亦担心思茏，但她却指不用担心。雍容回到帝煌集团时，发现大批传媒已在守候；这时至嚣出现，更指是他约众传媒到此有事宣布，之后至嚣当众播出雍容对付至嚣等人的录音……至嚣更向众传媒公开，雍容执着于对付自己的原因是因为他是辉煌私生子。
+
+得知真相　思茏混乱
+
+至嚣得势不饶人，主动向雍容提出比赛，指如果输了便把月泷纱的招牌交出，但胜出后却要雍容不再骚扰他们。雍容吩咐亦匡调查为何至嚣能取得录音，思茏主动向雍容说出是自己出卖她，并向她递上辞职信。想不到雍容没有发怒，反而指思茏为了至嚣而牺牲自己并不值得。思茏大惑不解，雍容缓缓问她，当年思茏的父龙因意外被车撞死后，是否有人给了一大笔钱给思茏母亲……
+
+混乱不已的思茏到秀馨工作的地方，打开电话显示出至嚣的相片，向母亲查问当年是否相中人把支票交给她；从秀馨处得到肯定的答案后，思茏既伤心又气愤……这边厢至嬴被传媒烦扰，气得把电话关掉；这时至嚣回家，至嬴出言指责，但至嚣却直认自己没有做错，更解释把事件张扬是为了阻止雍容继续对付月泷纱；至嬴忍不住说明白兄长欲运用公众压力，但现在却反先压跨了母亲……
+
+思茏茫然地在街上流连，而至嚣因明白母亲与弟弟不认同自己所为，亦在街上闲荡；思茏在橱窗倒影离远看见至嚣，刻意回避对方，而至嚣看见思茏的背影后，亦特意转身离开，但结果两人竟再重遇。思茏要至嚣陪自己喝茶，更问他有没有事要向自己解释或是道歉，但固执的至嚣却只再一次伤害了思茏……思茏再次回到冷家，向雍容说出要为自己的父亲讨回公道。至嬴与姜羌重遇，姜羌更向至嬴出示一条迷你仓的锁匙……
+
+姜羌寄住　至嬴家中
+
+姜羌指自己已把暂居的店铺退租，因此需找地方住；但至嬴看见姜羌为省钱竟欲租住单人套房，于心不忍下招待姜羌到家暂住。映月热烈欢迎，但姜羌却指至嬴安排的天台屋太小，令他哭笑不得；晚上吃饭时，姜羌指映月的菜式不够美味，因食材不是最好云云……至嚣得知雍容聘请了自己的师傅刘守正后，特意与师傅见面，两人更针锋相对；姜羌在天台屋发现至嬴小时候暗恋他人的秘密……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2685</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>鱼跃在花见 Ep05_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

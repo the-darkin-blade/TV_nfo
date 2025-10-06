@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 7 集</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">543584</uniqueid>
+  <uniqueid default="false" type="tvrage">477156</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>希敏见到国光带阿B见衰人高天，怒气中烧，下令衰人不能行近她一百米内。希敏怒气未息，国光不敢返家，唯有留在外父家一会儿。突然间，Ada上门找高天，但高天已睡着，国光见势色不对才与阿B返家。半夜时分，AK来电说高天殴打Ada！原来，高天有梦游病，常常在无意识下做错事。AK想找希敏妈妈出庭帮高天脱罪，但希敏不让母亲再见衰人，决定亲自出庭助高天。
+
+希敏上庭助父亲脱罪一事见报，通叔才知亲家是香港十大首富，希望媳妇能搭路接见，乘机叼光，但希敏当然懒理他们！通叔自大，相信穿上西装，与老婆带着咸鱼菜干等围村土产见高天，他一定会感动！果然不出通叔所料，高天见到姻亲非常开心，还跟他们返回围村见十三公等人！经被村民识破儿子是老婆奴一事后，通叔今次坐着豪华房车返家，真是光宗耀祖！经过在庭上多次对垒，Yoyo和AK正式堕入爱河。
+
+高天知道女儿有婚姻恐惧症全因他而起，但亦不知如何教女婿驯服女儿，唯有请国光加入其公司工作补偿，但国光婉拒了。高天见希敏，望她能给国光多一点私人时间，但希敏反觉得他多事，返家后更骂国光不尊重她，赶他出家。夜栏人静，国光在街上碰到多年不见的同窗好友Simon。
+
+翌日早上，国光没有做早餐，反而穿上西装返工。原来昨夜与Simon商量后，决定合组多媒体公司。希敏见国光突然如此坚决，怀疑与自己有关，开始考虑是否应做回一名真女人。所以，她决定放大假，就算戴官说正推荐她做主任裁判官，但也想尝试做全职主妇，更想看看凑仔的乐趣！</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>1321</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E07.20180502.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Just Love 20180502 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>502</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>1321</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E07.20180502.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="502" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

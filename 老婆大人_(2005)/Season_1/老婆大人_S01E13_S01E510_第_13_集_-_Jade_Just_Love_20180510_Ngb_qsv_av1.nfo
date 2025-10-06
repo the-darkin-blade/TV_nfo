@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 13 集</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">543572</uniqueid>
+  <uniqueid default="false" type="tvrage">477143</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>国光跌伤了脚，但希敏看也没看他，便与戴官急急离开医院！国光不理伤势，狂追老婆，希望能讨个明白，可是希敏没有解释便愤而离开，戴官觉得希敏如此硬颈，不利婚姻，但屈强的她并没有理会劝告！Diana在家凑阿B，高天突然造访，而白赖仁又再上来向Diana求婚！两男结果大吵大闹，希敏回家便赶了两人离去！两人一起下楼，但一出电梯，在门口等候的AK发现高天被白赖仁打到口肿面肿！
+
+虽然高天表面被打，但白赖仁也昏迷在电梯内，Yoyo决定起诉高天伤人罪。但AK为博表现，竟然要Yoyo撤消控罪，Yoyo坚决不肯！
+
+戴官放假，入了围村钓鱼，见到希敏也回扁头村，原来她想与国光讲和！可是，当国光见二人一起时，以为他们刻意一起入围村钓鱼激自己，大吵大闹，希敏见这无理取闹的小男人，不理反对与戴官一起钓鱼，满足国光的猜忌心！回程时，希敏发现昔日与戴官一起在围村种下的黄皮树已长大，非常开心！而咏诗为了令大嚿饭食饭，决定与十三公扮拍拖吸引它的注意！
+
+国光从宝怡中得知，老婆最近喉咙不舒服。他为了维护好老公的形象，准备上她家慰问，但遇上戴官拿着黄皮探望希敏！就在楼下，希敏、国光和戴官三人相遇，再加上无故前来的宝怡，情况有点尴尬，但凭宝怡的机灵，说成是国光买黄皮探望希敏，令他俩和好如初！可是，戴官却有点神伤！</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1580</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E13.20180510.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Just Love 20180510 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>510</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1580</width>
+        <height>1080</height>
+        <durationinseconds>1330</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E13.20180510.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="510" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

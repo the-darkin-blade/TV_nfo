@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 19 集</title>
+  <originaltitle>第 19 集</originaltitle>
+  <showtitle>倚天屠龙记</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>2127111</id>
+  <uniqueid default="false" type="tmdb">2032635</uniqueid>
+  <uniqueid default="false" type="trakt">1286157</uniqueid>
+  <uniqueid default="true" type="tvdb">2127111</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>张无忌决定于明教教众上少林找出真凶，途中偶遇女扮男装的赵敏。赵敏英姿飒爽，家常便饭似地命令手下将欺负汉人的五十名蒙古官兵尽数杀死。更奇的是，她身上竟还佩带着原本属于灭绝师太的倚天剑。明教众人正猜测时，赵敏手下前来递上拜帖，请明教教主刀绿柳山庄一叙。明教教众与赵敏把酒言欢，但山庄之内却似处处透着玄机，而倚天剑就挂在聚会的厅堂之上。赵敏打趣张无忌被武功平平的周芷若所伤，是因她长得太美了；张无忌不善言辞，竟然窘迫得泼了手里的酒。赵敏借口离开，周颠忍不住拔出倚天剑，却发现是檀木做的。杨逍认为这女子有古怪，建议大家赶紧离开。离去不久，教众出现中毒症状！张无忌明白是檀木剑与池中荷花混合而成的毒，须得用池中荷花才能解除。他飞奔回绿柳山庄摘取花茎，但赵敏百般阻挠，张无忌宅心仁厚，中计与她一起跌入机关。张无忌情急之下用挠脚底之法，逼迫赵敏放行。赵敏对张无忌心生好感。张无忌离去之时，蒙古兵偷偷来袭，所幸小昭指挥四旗，救了众人。蒙古兵来使，鸣金收兵，并呈上赵敏给张无忌的黄金盒子。盒子内藏珠花，张无忌顺手将它给了小昭。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>1081-08-19</premiered>
+  <aired>1081-08-19</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Wenzhou TV</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Heaven.Sword.And.The.Dragon.Sabre.Ep19-20.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第 20 集</title>
+  <originaltitle>第 20 集</originaltitle>
+  <showtitle>倚天屠龙记</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>2127121</id>
+  <uniqueid default="false" type="tmdb">2032636</uniqueid>
+  <uniqueid default="false" type="trakt">1286285</uniqueid>
+  <uniqueid default="true" type="tvdb">2127121</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>服下解药后，明教教众同上少林，却发现少林寺空无一人，而金刚罗汉像后竟刻着“先诛少林，后灭武当，惟我明教，武林称王”。张无忌心下大骇，快马加鞭与韦一笑先赶往武当，其他人等紧随其后。途中，张无忌发现一少林和尚，暗自跟踪。上了武当，那自称空相的和尚，求见张三丰，而张无忌则扮作道童。空相在张三丰面前假意哭诉少林已经覆没在“魔教”手上，却趁机痛下杀手，张无忌就算近在咫尺也不及营救！就在这时，赵敏假扮明教教主“张无忌”，带着“明教教众”，前来“拜访”。张三丰临危不乱，授俞岱岩一套太极拳，欲死战到底，以保武当一脉。张无忌心下将太极拳记熟，后随张三丰和俞岱岩一同到正殿接见明教教主“张无忌”。赵敏要武当投降朝廷，却被张三丰断然拒绝。这时，真正的韦一笑、说不得、杨逍、殷天正皆已到场，给了赵敏之鹰犬一个下马威。赵敏挑衅武当无人，张无忌替张三丰出场，以刚学之太极拳力克阿三，阿二，又现学太极剑，力克阿大。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>1081-08-19</premiered>
+  <aired>1081-08-19</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Wenzhou TV</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Heaven.Sword.And.The.Dragon.Sabre.Ep19-20.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

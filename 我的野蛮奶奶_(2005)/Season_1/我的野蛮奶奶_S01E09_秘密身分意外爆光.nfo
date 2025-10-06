@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:53:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>秘密身分意外爆光</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>我的野蛮奶奶</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>2624301</id>
+  <uniqueid default="false" type="tmdb">2500806</uniqueid>
+  <uniqueid default="false" type="trakt">1434733</uniqueid>
+  <uniqueid default="true" type="tvdb">2624301</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>茂春对十一「迷恋」「不留名」大伤脑筋，于是化身「不留名」借故调戏她，但十一表示只爱茂春，更在混乱中更揭开「不留名」面罩，两夫妻顿时变得如胶似漆。
+
+龙巧巧某天在街上看到爱郎「云大哥」的背影，但始终追不上，晕倒在客栈外，众山贼认定她的失心疯又再发作。但原来所谓「云大哥」正是丰德本人，二人某天终于在街上遇到。丰德发觉巧巧等了他二十年，还失心疯地冒他名字写信给自己，不忍告诉巧巧已成亲多年的事实，还继续与她交往。但某夜却被茂春与十一撞破他们在街上闲逛，丰德向茂春等坦言他与巧巧的关系，并希望众人替他隐瞒铄兰。
+
+然而，十一认为丰德应该娶巧巧过门，于是当着铄兰面前揶揄他，在混乱中竟不愤跌倒在地，恰巧被茂春收买的大夫远游由儿子看诊，不知就里揭露十一没有身孕的秘密。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:08</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2692</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Wars.Of.In-Laws.Ep09.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

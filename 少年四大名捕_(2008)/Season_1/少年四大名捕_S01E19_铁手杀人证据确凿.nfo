@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:40 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>铁手杀人证据确凿</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>少年四大名捕</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id>2305731</id>
+  <uniqueid default="false" type="tmdb">389794</uniqueid>
+  <uniqueid default="false" type="trakt">398218</uniqueid>
+  <uniqueid default="true" type="tvdb">2305731</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>若飞继续煮宁神茶给铁手喝，亦亲自通宵看护他；但睡着了的若飞醒来后发现铁手失踪；而她四出寻找时，却发现一外型与铁手相似的人行凶杀人。早上铁斧发现儿子倒在家门前，更发现铁手穿上染满血污的衣服及手持一把断剑。在公堂上铁手坚持自己无罪，但在蔡京向皇上力陈下，终被判秋后处决。
+
+铁斧看见儿子被判秋后处决，复又发现游冬欲悬梁自尽；铁斧虽救回女儿，但竟因悲伤过度欲与女儿一起自杀。追命的家人阻止铁斧，而追命却说要与游冬一起寻死；终成功令游冬重拾求生意志。
+
+无情发现在数年间亦有贪官被拳术高手以私刑打死，认为可能是杀蔡绦的同一人；于是以与蔡京狼狈为奸的太监童贯为饵，引杀手现身。凶手果然出现，但他的武功比铁手更高，无情更因此受伤。芷妍为无情疗伤时，发现杀手所发的暗器与埋藏在无情腿中廿年的铁蒺藜竟同出一辙。
+
+无情将暗器给金九龄检查，得悉是铁面判官霍道玄的暗器，亦发现之前拜访的住持应知道两家灭门的秘密。正我往边城替铁手觅证据时，竟遇上王爷与嫣红，原来王爷已当上茶马司。落石父子运货时，发现蔡京输入大量硫磺是为了铸造兵器。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2670</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Four.Ep19.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

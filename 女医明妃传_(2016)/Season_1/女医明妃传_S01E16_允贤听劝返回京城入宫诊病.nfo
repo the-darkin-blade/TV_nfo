@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>允贤听劝返回京城入宫诊病</title>
+  <originaltitle>允贤听劝返回京城入宫诊病</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>5527087</id>
+  <uniqueid default="false" type="tmdb">1176444</uniqueid>
+  <uniqueid default="false" type="trakt">2159630</uniqueid>
+  <uniqueid default="true" type="tvdb">5527087</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>郕王一病不起，此时太后面对的是一个即便废掉了英宗也无人可立的尴尬局面。老谋深算的汪国公想出了一个主意，那就是让太后在英宗的子嗣之上使一把力，到时便可效仿太皇太后，辅佐皇孙上位。对于汪国公的提议，太后深以为然，很快便行动了起来。一日，英宗的御膳恰好被前来诊脉的刘院判瞧见，他的一番忠才令英宗意识到，连日来自己都在进用太后刻意安排的壮阳发热之食。从粥中查出的催情药粉更是让英宗勃然大怒，即刻便抓住了下手的小太监前去太后宫中兴师问罪。争执之中，英宗的一个拂袖竟是无意之下将太后扫倒在地，流血昏迷。迟迟未能苏醒的太后令英宗自责不已。说到底，英宗还是一个善心未泯的少年，面对王震适时的趁乱挑拨，他没有丝毫动起杀念，反而决定待太后醒来，自己就不再执着于与她的弑母之仇。顾念旧情的英宗想要和解。此时的允贤并不知晓宫中的风云诡谲，但她的身上也在爆发着一场巨大的改变，以至于影响了她未来一生的命运。允贤误以为道长为前来求医的病患们开出的药方都是骗人的把戏，却没想到那些看似神神叨叨的治法都是充满了医经内涵的救人良方。读罢医书才恍然大悟的她跪在地上向道长认错，更真诚地求他收自己为徒。因为学医，允贤失去了太多重要的东西，这一切让她束手束脚再不敢行医施药。然而道长的一番质问终于惊醒了允贤，也让她明白，只有穷尽己力普济众生才是一名医者此生最重的使命，最好的归宿。大雨滂沱之中，跪在冰冷地面上的允贤做了深刻的反省，也终于从重重牢笼之中解放出了自己。信步而至的道长欣慰地看到了允贤眼中重新闪现的神采光芒，轻轻将伞遮在允贤头顶，这默默之举已是代表着他的接纳与承认。道长向允贤讲述了他所擅长的祝由之术。那些看似装神弄鬼的灵符神汤，绝不仅仅是愚人使诈的骗术，它们对目不识丁的普通百姓们来说更像是一剂心药。就如医经里所写的，信则医，对于混迹江湖的平民医者们来说，只有先让百姓相信，化解了他们心中的怀疑，再施以实药，才是最有效的医治之法。道长的一番真知灼见令允贤茅塞顿开，也为她开启了一扇通往更广阔世界的崭新大门。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E16.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

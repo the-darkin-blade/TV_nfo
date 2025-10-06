@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>无情、芷妍发现疑点</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>少年四大名捕</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>2305601</id>
+  <uniqueid default="false" type="tmdb">389782</uniqueid>
+  <uniqueid default="false" type="trakt">398206</uniqueid>
+  <uniqueid default="true" type="tvdb">2305601</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>天亮后众人在石林中验尸，发现不少疑点，令无情不相信是女娲显灵。众神捕在村中调查却无收获，无情要求村长交出失踪者名单；当村长交出名单后，无情却指名单上的人有杀害官员的嫌疑。众村民大呼冤枉之时，有人在溪边发现了失踪村民的尸体。另一方面追命等人在应奉局受尽款待……
+
+前来协助查案的若飞竟与铁手在石林中迷路；两人吸入迷烟，醒后发现被囚密室中。案情毫无进展加上铁手与若飞失踪，无情向村长宣布放弃调查，回京请罪；但无情只是假装离开，更要追命与冷血乔装入村内调查。
+
+冷血在调查时遇上村民田嫂，她看见冷血时竟指他是自己弟弟；而冷血更发现田嫂竟拥有与自己一样的玉佩。悄悄折返的无情发现司马大人与村民翠翠是情侣；无情欲从他们口中迫问真相不惜恐吓他们，但却无功而回。正我与无戏欲到天石村协助，却发现蔡京亦带兵马出现；原来蔡京欲血洗天石村。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1080</height>
+        <durationinseconds>2675</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Four.Ep07.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

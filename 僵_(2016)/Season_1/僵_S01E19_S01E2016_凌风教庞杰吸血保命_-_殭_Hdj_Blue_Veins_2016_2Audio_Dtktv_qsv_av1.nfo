@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:00:14 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>凌风教庞杰吸血保命</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>僵</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2301071</uniqueid>
+  <uniqueid default="false" type="trakt">12243559</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>何月拒绝了梓诚的爱，并指已有心上人。活着见何月的掟银功夫非常好，便帮助她提升级数，觉得何月武功天分最高。龙珠为玲梅测字，测出来的结果竟非玲梅所料。
+
+霆斯在「夜吾夜」找到姻缘石，即问活着是谁人所送。霆斯与何年得知真相后非常失望又伤心。玲梅知道梦瑶人在荷兰而为她占卜，想了解她的近况。但塔罗牌显示的并不多，众人非常担心。这时何月想去荷兰见梦瑶，众人附和。
+
+发现梦瑶创作天分
+
+活着收到荷兰寄来的包裹，拆开一看后发现是梦瑶改良过的炸虾丸器。梦瑶在荷兰生活安定重过新生活，但她最挂念的，正是活着。紫红把梦瑶的所在地址，告诉给何年等人，希望他们能确认梦瑶平安。何年承诺只要找到她，立即会报告情况。
+
+众人找到地址但找不到梦瑶，在街上四处寻觅亦遍寻不获。这时霆斯带来了寻人纸鹤，想藉此找到梦瑶。玲梅把紫红的颈巾带给梦瑶，梦瑶一边看，一边挂念着紫红。霆斯劝她回香港，但梦瑶坦言需要多一些时间。
+
+庞杰忍不住被困的寂寞，打穿了密室的墙，发现了凌风。凌风带他离开密室，却在门外遇上颖儿，庞杰求凌风不要杀她。
+
+应天追踪凌风去向
+
+凌风紧张地寻回他的戒指，但在应天办公室却找不到，凌风不禁大发雷霆。应天收到消息后，并没有大怒，反而异常冷静。因他知道凌风的目的是戒指，所以不会伤害庞杰。另一边厢，应天能从戒指中，得知凌风在何处。
+
+应天跟着戒指的指示来到殓房，但他所找到的不是凌风，而是梦南。活着也到达殓房，可惜梦南已不知所终。庞杰明白自己即将死去，但他感到非常快乐，因他坦言能死在天空下，像一个人，已经心满意足。
+
+梦瑶念念不忘活着
+
+庞杰觉得自己死得有价值，凌风见状后觉得庞杰相当特别，为了保存他的性命，凌风决定教庞杰吸血。
+
+何年众人带梦瑶四周游玩，但却发现她心事重重并不尽兴。霆斯与其他人只顾着自己去玩，不久便发现梦瑶不在。众人非常担心，但遍寻不获，多次致电给她却没有回覆。其实梦瑶最挂念的，只有活着一人，但每当想起他与梦南一起的模样，便相当心痛。她拿出活着送给她的银哨子，思念着他。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1303</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[殭].Hdj.Blue.Veins.Ep19.2016.Hdtv.H264.1080I.2Audio-Dtktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>殭 Hdj Blue Veins 2016 2Audio Dtktv qsv av1</title>
+  <originaltitle/>
+  <showtitle>僵</showtitle>
+  <season>1</season>
+  <episode>2016</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1303</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[殭].Hdj.Blue.Veins.Ep19.2016.Hdtv.H264.1080I.2Audio-Dtktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2016" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

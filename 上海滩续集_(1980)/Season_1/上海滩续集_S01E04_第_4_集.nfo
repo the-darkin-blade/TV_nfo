@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:28 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 4 集</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>上海滩续集</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2493289</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>力往找云志对质，云志直认，二人僵持之下，力拿他没办法；但想起文强对自己之恩情，力发誓要尽己所能，为文强报仇。
+
+玲产下儿子，力依然将她冷落，玲悲愤，谓要带同儿子离开力家。但力母爱孙心切，不单出面调停，且更自愿搬出力家，以成全他们。夜里，力自斟自饮至醉意重重，无意中在玲面前吐露对燕燕有爱意，玲愤怒、悲哀。
+
+云志再约力，力拒绝，原来力早已收买了杀手刘往杀云志；岂料快将成事之时，力欲致电通知云志，刘的刺杀行动终于失败，且更被杀。
+
+文强之表弟国强远来找文强，知其死讯，失望非常；拜祭之后，正欲离去之际，却遭祥贵截住，带往见力，力惊闻他与文强之关系，欣慰无比，并留强在上海，答应供给他读书及工作机会。
+
+力对燕燕展开追求攻势，有燕燕出现的地方，力亦定必在场，弄得燕燕啼笑皆非。</plot>
+  <runtime>42</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1076</height>
+        <durationinseconds>2540</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E04.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

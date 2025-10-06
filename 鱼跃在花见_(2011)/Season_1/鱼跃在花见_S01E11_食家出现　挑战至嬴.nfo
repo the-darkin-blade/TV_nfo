@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>食家出现　挑战至嬴</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>鱼跃在花见</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2620714</uniqueid>
+  <uniqueid default="false" type="trakt">7447912</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>制造机会　父女合照
+
+众人在寿司店庆功，至嬴感谢众人的支持外，更为至嚣与思茏再次复合而高兴；当至嚣问及姜羌寻找亲人的进展时，姜羌除说出发现母亲已死，更当众说出母亲是因对父亲失望才带自己离开，因此不打算寻父；至嬴不想慕容澄伤心，于是提出与大家合照留念，更特意安排姜羌与慕容澄两人合照。
+
+散席后至嬴特意与慕容澄走在一起，原来他欲说服慕容澄回香港协助自己，但却无功而回。
+
+思茏与母　关系改善
+
+姜羌收拾行李回港时，发现没精打采的至嬴出现，姜羌担心他仍为至嚣与思茏成为情侣之事而放不下，怎知原来至嬴只是想请求姜羌协助自己说服慕容澄；至嬴看到心中松了一口气的姜羌爽快答应，不禁大乐。至嚣送思茏回酒店时，看见思茏的电话频频响但她却不愿接，至嚣问是否雍容来电，更请她接下电话；被雍容痛骂一顿的思茏向至嚣说回港后将辞职，但反被至嚣阻止，指她需要照顾病中的母亲与无业的弟弟。
+
+正快乐地边钓鱼边欣赏与女儿合照的慕容澄，发现至嬴与姜羌一起出现后便立刻收起笑容，姜羌指至嬴欲与慕容澄合照，想不到至嬴突然向慕容澄下跪拜他为师，而姜羌更把这一刻拍摄下来……至嚣兄弟回港后与母亲一起吃饭，想不到至嚣竟在饭桌上用自己的伤开玩笑……天台屋因下雨而漏水，当姜羌要至嬴协助时，至嬴却收到慕容澄的来电；至嬴借机将姜羌的困境向慕容澄夸大……
+
+思茏到医院探望母亲，发现弟弟早已陪在秀馨身旁；思茏吩咐弟弟把自己带来的暖袋取出给母亲，但思朗反要姐姐自己交出；当护士带秀馨回病房后，思朗向思茏说出打算回港就读，但思茏要弟弟不用担心金钱的问题，这时思朗问姐姐为何突然有巨款让母亲做手术，手术期间却留在北海道……思茏与雍容见面，更被她骂走，指不会再录用她……
+
+为见爱女　回港居住
+
+雍容发现至宝心爱的扭计骰竟是至嚣兄弟所赠，竟气得把它摔烂；伤心不已的至宝竟为此离家出走。思茏在商场遇上至宝要求玩具店职员替他修理扭计骰，思茏见状特意送他新的扭计骰，更通知雍容接回至宝；雍容见儿子对思茏言听计从，终让思茏复职。慕容澄回港，更找至嬴陪他购衣柜，至嬴说穿衣柜是想买给姜羌的；至嬴与慕容澄软硬兼施，终令姜羌答应搬到慕容澄的家居住。姜羌发现至嬴对自己搬走之事大为冷淡，心感不满，但原来……意寿司正式在香港开张，与雍容关系良好的两位食评家突然造访，至嬴明白来者不善……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2691</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>鱼跃在花见 Ep11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

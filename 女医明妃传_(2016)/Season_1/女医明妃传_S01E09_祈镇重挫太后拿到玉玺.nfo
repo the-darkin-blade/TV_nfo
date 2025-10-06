@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>祈镇重挫太后拿到玉玺</title>
+  <originaltitle>祈镇重挫太后拿到玉玺</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>5527080</id>
+  <uniqueid default="false" type="tmdb">1176437</uniqueid>
+  <uniqueid default="false" type="trakt">2159623</uniqueid>
+  <uniqueid default="true" type="tvdb">5527080</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>朝堂之上，几个小官“供认”黄河毁堤之事确是受太后指使，太后反驳，说皇上让几个鸡毛小官诬陷于她，于是皇上命人将范弘——这个太后最倚重的太监带上殿来，并将范弘认罪画押的供纸放到太后面前，太后无可辩驳，但范弘大喊自己是屈打成招，后气绝，死前喊冤，百官也心存疑虑，但仍有众多官员支持皇上。皇上通过“毁堤事件”几乎扳倒太后，拿回玉玺，到永庆庵向静慈师太“报喜”，并带来大量医治霍乱的药材，但静慈师太一眼就看出皇上此行还另有心思。郑齐正与允贤聊天，小厮前来报告其夫人得知他前往重疫区，心急如焚，催他回去，允贤因此而知道郑齐已经成婚。万宁对允贤怀有偏见，故意道出允贤的女子身份，灾民因此而误解允贤，不但不感激允贤的救命之恩，反而将她指作医婆，大加唾弃，不愿再让允贤医治，允贤百口莫辩。而这时来路不明的“朝鲜商人”（瓦剌人）却愿意让允贤医治，但惠民药局的人却针对允贤不肯给让允贤抓药，无奈之下，允贤就地取材制成偏方，竟真的治好了“朝鲜商人”。灾民知悉此事，又一窝蜂地去请允贤为他们诊病，允贤面对大起大落，不骄不躁，说惠民药局的大夫医术高明，也一定能治好大家的病，于是一半灾民又自动分流到惠民药局的大夫们那边去，这些大夫们也因此对允贤有所改观。允贤煎药时扇子着了火，差点烧到自己，万宁及时提醒允贤当心，并为自己曾经误解针对允贤道歉，还虚心向允贤讨教治病“偏方”，二人自此化干戈为玉帛。祁钰受皇上诏令运送粮食进京赈灾，并临时调整计划率先送粮食到永庆庵救急。听说永庆庵外有一位公子正在分发粮食，紫苏和允贤以为是郑齐又来输送物资，遂跑去看看热闹，到了之后，才发现原来这次来的是朱公子朱祁钰，祁钰见允贤戴着他送的珠花，心内欢喜。祁钰与允贤约定再见，并将自己的随身香包赠送给允贤。面对祁钰和郑齐两个人分别赠送的香包，允贤将郑齐送的香包收进了柜子，而将祁钰的香包拿在手中，少女情怀悸动着。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>1314</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E09.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 11 集</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>上海滩续集</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2493296</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>力破坏了云志的计划后，云志被日军诸多责难，终于离开上海。力得悉云志已离上海，异常兴奋，往告诉朱，并向朱求婚，但朱依然拒绝。正当力意气风发之时，云志忽然出现，令力既疑惑又愤怒。
+
+云志自回上海后，不断对燕燕展开激烈追求，燕燕心情恍惚，但始终拒绝云志之爱意。在一次袁厅长举办的舞会上，力及燕燕同往，岂料却于会中遇到云志，并得悉他将与袁厅长之女结婚，燕燕感悲痛，就在此时，云志再度向燕燕示爱；正当他们情意绵绵之际，却被人发觉，至令场面尴尬。燕燕对云志开始信服时，镇昌却从云志口中知道追求燕燕的原因，是为了向力报复，镇昌往告诉燕燕，燕燕恍如晴天霹雳。云志再次访燕燕时，燕燕拒之于门外，但在云志一番甜言蜜语后，燕燕又重投云志怀中。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1080</height>
+        <durationinseconds>2611</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E11.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

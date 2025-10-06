@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>允贤徐府救人挨家法</title>
+  <originaltitle>允贤徐府救人挨家法</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>5527071</id>
+  <uniqueid default="false" type="tmdb">1176424</uniqueid>
+  <uniqueid default="false" type="trakt">2159615</uniqueid>
+  <uniqueid default="true" type="tvdb">5527071</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>大明中期，程朱理学兴盛，礼教苛严，女子地位低下，贵族女子不得抛头露面，即使生病，也要谨遵男女有别，以致于隐疾难治，而女子从医则更是容易被世人议论为“三姑六婆”，名声不雅。明英宗朱祁镇继为皇位，孙太后辅政，英宗年少荒诞，亲信东厂太监头目曹吉祥，孙太后以此为由迟迟不肯归政。徐侍郎家大摆寿筵为太夫人贺寿，实则是以贺寿为由为徐家公子挑选儿媳，各家小姐争相展现才艺，安和郡主汪美麟才艺出众，赢得众人喝彩，只有谭允贤一人不为所动。代父送礼的允贤被徐府院子里的一株药草铁皮石斛吸引，在采摘药草的时候，婢女紫苏被陌生男子挟持，允贤发现对方身中剧毒，性命垂危，不但不计前嫌，反而施以援手，将铁皮石斛赠给对方解毒。原来这名陌生男子是铖王朱祁玉，孙太后想将铖王立为新君，曹吉祥唯恐东厂地位因此受到撼动，遂背着皇上派人追杀铖王。东厂的人闯入徐府搜捕，混乱中，徐太夫人突然中风，众人皆手足无措，唯有通于医理的允贤镇定施救，施针放血，及时救回徐太夫人的性命。汪美麟在其父汪国公的授意下假装晕倒避人耳目，随后偷偷找到铖王，将其藏在自己的轿中带出徐府。救了人受到众人高度赞扬的允贤回到家却招来父亲的一顿家法，因允贤违反了“族人不得从医”的家训——谭家祖上为御医，却因被奸人陷害而遭遇灭顶之灾，允贤的爷爷为了庇护家人上吊自杀，以此谢罪，允贤的哥哥也在逃亡的途中不治丧命。谭家从此改名换姓，换为杭姓，允贤的父亲也因此入军职，以期立下军功早日晋升，在朝堂上为家族洗清冤屈。虽有家训如此，但允贤天资聪颖且热衷学医，允贤的奶奶亦不忍谭家医学自此失传，遂默许允贤自幼随其学习医理。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E01.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>至嚣选用　劣鱼参赛</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>鱼跃在花见</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2620700</uniqueid>
+  <uniqueid default="false" type="trakt">7447902</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>至嚣至嬴　各制寿司
+
+至嬴在码头钓鱼时收到母亲映月的电话催促，于是使出绝招钓得乌头鱼；至嬴回到家把乌头鱼起出鱼扣部分，欲与母亲炮制的炒饭合制成「鱼扣炒饭寿司」，但因炒饭没有黏性，至嬴没法捏出漂亮的寿司。这边厢，是日休息的高级寿司店「月泷纱」的寿司吧前，一级寿司师傅至嚣，正努成完成一盘美丽得如艺术品般的寿司；这时至嬴与映月亦到达寿司店，为了把「鱼扣炒饭寿司」放入至嚣所制的寿司内，至嬴竟吃了至嚣的寿司……
+
+为解封杀　提出比赛
+
+映月带两位儿子到达鱼辉煌的墓前，拜祭逝世不久的丈夫，原来至嚣与至嬴是辉煌的私生子，因正室不让他们参加辉煌的丧礼，因此三人至今才到墓前拜祭。想不到这时辉煌的正室冷雍容折返，更在辉煌的墓前大骂三人……听到母亲不断被雍容攻击，至嚣忍不住向雍容说出，辉煌早把鱼家祖传的戒指送了给映月，令雍容气愤不已；雍容的看护赛思茏看不过眼，出言指责至嚣……
+
+与兄长不同，只是初级寿司师傅的至嬴突然向至嚣询问，指雍容的看护甚为面善，终想起她就是昔日的旧友「小龙女」；下属荣田通知至嚣，指致电向供应商订货时，发现没法订到任何高级海鲜，而荣田更指已查知每间供应商已与雍容所主持的帝煌集团签了独家合约，因此如要继续经营下去，便只得向帝煌取货……至嚣与至嬴兄弟直闯到帝煌集团与雍容对质，最后双方更同意用寿司比赛一决恩怨。
+
+双方决定以辉煌最喜爱的Tai（鲷鱼）作寿司比赛的主菜；映月在吃晚饭时向至嚣说出，其实自己不介意放弃寿司店甚至辉煌送的戒指，但至嚣指自己根本不会输……当听到至嚣说欲到北海道找师弟协助买入比赛用的鲷鱼时，至嬴突然说出店铺不能没有兄长座镇，因此自己很乐意「代兄出征」；至嬴在往北海道的飞机上，因意外被提升到头等机舱，更因此认识了对味道非常讲究的富家女姜羌。
+
+至嬴巧遇　买鱼高手
+
+姜羌因失去了隐形眼镜，因此向不懂日文的至嬴提议，由她当至嬴的翻译，而至嬴则照顾她直至取得新眼镜；雍容使计令月泷纱的高级鲜鱼卖得清光，之后却请来众名人帮衬，欲借机打击至嚣……至嬴在鱼市场中发现绝世高人慕容澄，竟可用以物换物的方式得一尾鲷鱼。至嬴偶然见到慕容澄重视的鲤鱼旗竟掉在姜羌头上，于是竟威胁慕容澄帮助自己……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2692</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>鱼跃在花见 Ep01_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

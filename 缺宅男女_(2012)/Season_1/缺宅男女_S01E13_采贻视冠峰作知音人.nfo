@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>采贻视冠峰作知音人</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444969</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>朗翘大清早便回到银行，希望利用公司的电脑瞭解美国股市的动向，以便与客户有交流话题。忠伟拿出一部颇新款的手电电脑交予朗翘，表示自己想买新电脑，所以可将旧的转借给她使用，朗翘虽又忧又喜，但仍对忠伟的帮忙表示感激。
+
+Annie把一切看在眼中，即向忠伟试探是否仍对朗翘有意，忠伟不置可否。蔓华与宏瞻巡视业务时，见嘉安腰患发作，蔓华即提议他到自己开设的美容健康中心作职业治疗。
+
+没法融入　嘉安自卑
+
+朗翘带着忠伟送的电脑回家，嘉安禁不住问有关电脑的来历，朗翘只得如实相告。嘉安要朗翘代自己上网搜查甚么是职业治疗，朗翘才意识到丈夫的腰痛又再发作，立即着紧地为嘉安按摩。朗翘欲与各同事融洽相处，答应与众人到酒吧消遣，趁机将同事介绍予嘉安认识。因嘉安不懂交际，未能融入各人的话题中，不觉自惭形秽。
+
+蔓华劝说　嘉安创业
+
+嘉安到健康中心作职业治疗时与蔓华谈及家事，蔓华竟像宏瞻一样要他考虑开设装修公司，嘉安听后决定认真计画一番。嘉安夫妇回美玲家吃饭时，问到有关嘉康的情况，嘉康即满有自信地表示已有工作计画，正进行一些小生意交易，众人闻言一愕；嘉康直言工字不出头，嘉安同意更表示自己也打算开设装修公司当老板，众人替嘉安与嘉康的发展大计感到高兴。
+
+嘉安解释　创业理由
+
+嘉安与朗翘散步回家时，朗翘终问起嘉安为何有开公司的决定；嘉安坦诚地表示了要尽快改善生活环境外，亦不想朗翘在同事面前抬不起头，嘉安想令朗翘的同事能羡慕她找到一个有承担的好老公，朗翘感受到丈夫对自己的宠爱，更是心甜。嘉安到鼎瞻集团找宏瞻协助找铺位，宏瞻闻得嘉安下定决心，亦替他感高兴。嘉康自交钱给陈信后，却不能与他联络上，于是找嘉荣陪伴一起到厂房找他。
+
+嘉康发现　遇上骗子
+
+当两人到达深圳厂房后，女接侍员竟表示不知陈信是何人，嘉康大闹厂房后才惊悉被骗徒诈骗，顿时呆若木鸡。嘉康将不能如期交货的消息通知百爪余，余即告知嘉康将要面对巨额赔偿，嘉康自知大祸临头沮丧不已。嘉康将坏消息告知笑兰，笑兰惊慌得想致电给嘉安，要他帮忙解决问题，但却被丈夫阻止。嘉乐从笑兰口中得悉嘉康被骗财一事，即安慰嘉康，表示会想办法替他筹钱还债……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1874</width>
+        <height>1072</height>
+        <durationinseconds>2677</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>13_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

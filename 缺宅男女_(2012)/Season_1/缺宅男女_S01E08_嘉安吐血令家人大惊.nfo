@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>嘉安吐血令家人大惊</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444964</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>宏瞻驾车送嘉安回家，嘉安真诚地向宏瞻道歉，两人终成为朋友；嘉乐担心兄长有意外，独自走到屋苑楼下等待嘉安回家，却看见宏瞻送嘉安回来。宏瞻见嘉乐对兄长的健康甚是紧张，不知不觉间对善良的嘉乐好感更深。
+
+冠峰回旧居拿取杂物时，惊见丽婵在旧居中打扫；冠峰感到丁海只把母亲当作工人般使唤，对父亲怨恨更深。
+
+冠峰不满　母亲选择
+
+丽婵见儿子对父亲诸多不满，终忍不住替丁海说好话；冠峰认为母亲不肯离开父亲是作贱自己，气得拂袖离开。
+
+冠峰将丽婵隐瞒自己回旧居替丁海做家务一事告知嘉乐，但嘉乐对冠峰的偏执甚有保留；嘉乐指出其实丽婵与丁海仍感情深厚，冠峰不该强迫丽婵要与丁海断绝关系。冠峰觉嘉乐说话有理，于是亲自往找丁海，要他放弃国内的家庭重新回到丽婵身边。
+
+丁海放弃　和解机会
+
+丁海明白这是父子和好的大好机会，但他却表示不可放弃年幼儿子。Mike带同嘉乐应酬客Victor，想不到Victor对嘉乐甚感兴趣，更藉词希望能与嘉乐单独约会，嘉乐大惊下拒绝。Mike怕嘉乐得罪客人，即带她一旁训示，而宏瞻刚好听到两人的对话。Victor再次向嘉乐作出邀请，宏瞻忽然出现手拉着嘉乐，嘉乐大吃一惊更不知所措。宏瞻送嘉乐回家时，嘉乐心中不断盘算着…
+
+宏瞻试探　嘉乐心意
+
+宏瞻趁机向嘉乐试探心意，嘉乐表明只爱冠峰一人；宏瞻害怕把嘉乐吓走，只好表示一切也只为助她解困，嘉乐听后放下心头大石。
+
+巧琳被祖贵欺负，即致电向嘉安诉苦，嘉安表示回家后会处理问题。嘉安回到家时即听到众人又为祖贵与巧琳两小孩的事而争论，笑兰再次使计指巧琳撞到她的肚皮令她动了胎气，嘉安无奈下只有责打巧琳以示教训。嘉乐明兄长心痛女儿，故与他一起到公园散步开解他。
+
+嘉安入院　要求保密
+
+嘉乐向嘉安明言，笑兰所做的一切只为想嘉安一家搬走；嘉安回到房中看见朗翘与巧琳受尽委屈，决定找地方搬出。
+
+午夜时，嘉安胃痛难忍，走到洗手间内吐出大滩血水，朗翘与嘉康等人吓得惊惶失措。嘉安为不想母亲与小孩受惊，只叫朗翘偷偷送自己往医院；朗翘从医生口中，才得知嘉安因过度操劳而患上胃溃疡。嘉安吩咐妻子不要告知美玲自己要留院做手术一事，朗翘无奈答应。
+
+笑兰过分　嘉康掌掴
+
+嘉康内疚因自己的事而累及兄长，更要他照顾自己一家生活，嘉荣亦自责未有能力为嘉安分担压力……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2675</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>08_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

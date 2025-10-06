@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 8 集</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>上海滩续集</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2493293</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在「抗日救国会」的领导下，抗日情绪高涨，到处都有殴斗事件发生。一日，力与「抗委」人员举行会议，在半强迫的情形下，力解散「抗」会。祥贵查得消息，汇北码头将会有几艘木货船，开出公海，偷运一批日本突击队到上海。云志约见力，迫力保守此秘密，力勉强答应；但力心有不甘，通知中国军队，于是日本突击队上岸时，便遭受中国军的袭击，全部歼灭。
+
+中日签订和约，上海显得较前太平。签约之夜，力与燕燕漫步街头，力再向燕燕示爱，但燕燕谓要力将教堂顶的十字架拿下来，才作考虑，力遂向神父哀求，但神父坚拒。和约虽定，日军却反约，轰击闸北区与十九路军激战。上海形势非常混乱，到处都是难民，力母慈悲为怀，收容难民于家中。一日，力回家不见旭影踪，心急如焚，四出寻找，原来旭夹杂在力母家，混于难民儿童中。月琪劝燕燕将停止拍戏之片场改为难民中心，燕燕答允，并决定义演筹务经费，力帮助推销戏票。</plot>
+  <runtime>41</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1564</width>
+        <height>1076</height>
+        <durationinseconds>2510</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E08.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

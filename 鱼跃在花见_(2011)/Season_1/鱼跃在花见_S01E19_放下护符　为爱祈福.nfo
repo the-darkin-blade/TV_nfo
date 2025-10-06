@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>放下护符　为爱祈福</title>
+  <originaltitle>Episode 19</originaltitle>
+  <showtitle>鱼跃在花见</showtitle>
+  <season>1</season>
+  <episode>19</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2620724</uniqueid>
+  <uniqueid default="false" type="trakt">7447920</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>暗中出手　挑战至嬴
+
+为了达成唐奥一小时的限期，至嬴终想出如何在有限时间内把食水净化，以煮出美味醋饭的方法；唐奥吃下素卷（净饭卷）后，不禁赞赏至嬴的应变能力。但当唐奥开始进食至嬴的制作的寿司时，竟未吃便指至嬴处理寿司时犯错，之后扬长而去……至嬴发觉所言非虚，但却没有因此事而感气馁，反而安慰众人要继续努力提供优质食物，慕容澄却指其实是唐奥私下动了手脚；慕容澄回到家，指自己已看穿是女儿请唐奥出手挑战至嬴……
+
+至嚣诚意　感动思茏
+
+唐奥再次到意寿司进食，这次至嬴在准备充足下，细心地替唐奥制作出一道又一道美味的寿司；发现无法挑剔的唐奥，竟突然谈到手上的茶……至嬴在唐奥离开后发现他遗下了电话，于是赶出门外交还，想不到竟发现姜羌与唐奥正一起倾谈；当唐奥离开后有记者访问两人，但至嬴在记者面前说出自己与姜羌已无关系……为了寻找思茏，至嚣放下工作到北海道，不断到两人曾郊游留下美好回忆的景点寻找，终让他得见思茏。
+
+思茏看到至嚣却对他冷言相向，至嚣向思茏忏悔，但思茏却指两人无缘；至嚣坚持要与她复合，思茏因此提出一个约定，指两人将在此分手，如在日落前能够再相遇，便答应与至嚣重新开始……至嚣四出寻觅思茏却无功而回，失望的他回到昔日两人一起观看漫画的露天茶座时，天色开始暗下来；当至嚣站在露台看开始降下片片雪花时，竟发现了思茏的身影……慕容澄不理解为何至嬴每星期也抽时间到孤儿院，于是随他一起参观……
+
+慕容澄发现至嬴替院童制作的寿司「古灵精怪」，忍不住即场表现制作寿司，但结果院童看到慕容澄制作的精美寿司后却不屑一顾，更指只喜欢吃至嬴的寿司……慕容澄师徒两人回到意寿司后，至嬴指在孤儿院的经验，令他制寿司的造艺又再提升了一层，更即席制作新式寿司让慕容澄品尝。慕容澄到乌冬店探望女儿，更特意带了寿司慰劳姜羌；当姜羌吃得津津有味时，慕容澄说出这是至嬴创作的新式寿司。
+
+不被控告　至嬴感激
+
+映月与两位儿子再一起吃饭，看到兄弟再能融洽相处，不禁喜极落泪；而至嚣亦重提兄弟再次比试之事，而至嬴亦爽快答应。至嚣与唐奥见面，托他协助筹办一场比赛；当唐奥得知他是与至嬴比赛后，不禁指这是至嚣毕生最强的对手……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2689</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>鱼跃在花见 Ep19_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="19" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

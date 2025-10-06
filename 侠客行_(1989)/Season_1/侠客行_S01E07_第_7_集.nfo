@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:09:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 7 集</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>侠客行</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2494437</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>中玉宁死也不肯向珊瑚低头，带冬儿四出求医，却徒劳无功，原来珊瑚根本未向冬儿下毒，但为逼中玉屈服，错手令中玉喝下百毒归心酒，无药可救，中玉大怒，与冬儿离去。
+
+破天依照画在泥公仔身上之线点而练成内功而不自知，当他练功走火入魔，烟客不忍而出手相救，发现破天身怀内功，疑惑不已。
+
+不三不四遇中玉与冬儿一起，状甚亲密，大感不满，抢走冬儿。丁璫追踪而至，向中玉逼婚，中玉坦言命不久矣，丁璫仍甘心下嫁。
+
+慕容白救出冬儿，往找中玉，却见中玉与丁璫正拜堂成亲，冬儿伤心而走，中玉恐冬儿会为情自尽，抛下丁璫，追寻冬儿解释，丁璫气愤不已。
+
+中玉向冬儿解释，冬儿明白一切后，答允与中玉远走高飞，但中玉却毒发晕倒，为珊瑚救回五毒教。
+
+珊瑚与冬儿为中玉着想，和平共处，合作细心照顾中玉，时不三不四与丁璫闯关，要捉中玉，珊瑚、冬儿及持剑联手对抗。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1558</width>
+        <height>1076</height>
+        <durationinseconds>2805</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E07.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

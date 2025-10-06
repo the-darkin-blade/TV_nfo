@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 71 集</title>
+  <originaltitle>Episode 71</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>71</episode>
+  <id>430320</id>
+  <uniqueid default="false" type="tmdb">2299485</uniqueid>
+  <uniqueid default="false" type="trakt">1596061</uniqueid>
+  <uniqueid default="true" type="tvdb">430320</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>筱柔一心与病魔对抗，而当她看到青杨为帮助她而努力，英姐亦特意回康家照顾自己等事，不禁大为感动。青杨特意学习用摄录机将筱柔的一举一动拍下，筱柔感激之余，亦向丈夫说出为何之前要努力将公司办好的原因。雅瞳正式出任基金委托人，雅思亦特意请前高级警务人员Herman加入，实为准备应付。公司欲将4G牌照转售，但雅瞳与哲男支持继续经营。关静约启发见面，原来是送上结婚请帖。雅言与妹妹回家时向雅瞳问及，出任委托人的真正理由。之澄突然约雅言见面，原来她决定离开香港，并已变卖部分资产，她将剩下的大屋锁匙交托给雅言，请她转交长胜。因为放弃出售4G牌照，哲男只得壮士断臂大量裁员，更影响了公司股价。雅瞳出席会议时，因压力太大而病得不能上班。雅思与哲男私下商量雅瞳是否合适继续当委托人，结果仍是不欢而散。青杨见女儿烦恼不已，只得说支持她的任何决定。启发约雅瞳见面，更出尽办法让雅瞳放松，但想不到却让跟踪在后面的哲男看到一切。日东发现雅言无条件照顾长胜，不断给钱让他挥霍，不禁对长胜大感失望。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>71_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="71" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

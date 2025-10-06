@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>英宗落敌圈套明军惨败</title>
+  <originaltitle>英宗落敌圈套明军惨败</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id>5527100</id>
+  <uniqueid default="false" type="tmdb">1176458</uniqueid>
+  <uniqueid default="false" type="trakt">2159643</uniqueid>
+  <uniqueid default="true" type="tvdb">5527100</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>英宗的亲自下场竟将勃颜帖木儿打得大败而逃，一时间军心大振，连英宗都不禁为自己的神勇感到万分惊喜。此时再添上王振的夸张逢迎，英宗更是大感受用，真的将自己看作了无敌的战神。允贤与樊忠却都对白日里发生的怪事很是怀疑。他们想不明白，为何原本还能大杀四方的勃颜帖木儿一遇到英宗就突然败下阵来了呢。第二日的大同之战果然又是以英宗的大胜告终，一时间整个明军都禁不住沸腾了。可是他们不会想到，这一切看似美好的胜利竟都是属于也先的阴谋。瓦剌看似仓皇的溃败竟都是故意展示给明军的假象，而此时的瓦剌主力已将真正的目标对准了大明王朝的所在——北京。凡事反常即为妖，莫名而来的胜利令允贤与樊忠心中的不安愈加强烈。可是此时，已被胜利冲昏了头脑的英宗却对他们的忠告不以为意，再加上王振的有意挑拨，英宗更是不愿深究。在此时，大营之外忽然传来了混乱的喊叫，打开帐门，映入眼帘的却是漫天的火光。远处安放粮草的大帐竟全部起火，大惊失色的英宗尚未来得及施救，便迎面看见了瓦剌军队留下的条幅，其中的鄙夷嘲讽竟将他看成了一个彻头彻尾的傻瓜。深受刺激的英宗心中的冲动怒火又被点燃，刚愎自用的他再听不进任何人的劝阻，执意追击瓦剌。只能靠双腿奔跑的士兵如何追得上骏马奔驰，单枪匹马之下英宗竟险些被俘。对战之中，也先轻松便将英宗击倒在地，他的愚蠢更是被也先深深鄙夷了一番。此时的明军可谓是兵困马乏，缺粮少药。如今最该做的事情便是守住大同宣府两大重镇，切断瓦剌进军京城的必经之路。可是为了一己私利，王振竟又向英宗提出了转道蔚州这样自寻死路的馊主意。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1324</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E29.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

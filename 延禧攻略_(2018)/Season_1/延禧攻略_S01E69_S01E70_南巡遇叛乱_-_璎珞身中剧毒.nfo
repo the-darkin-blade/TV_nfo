@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>南巡遇叛乱</title>
+  <originaltitle>南巡遇叛乱</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>69</episode>
+  <id>6779898</id>
+  <uniqueid default="false" type="tmdb">1556770</uniqueid>
+  <uniqueid default="false" type="trakt">3104742</uniqueid>
+  <uniqueid default="true" type="tvdb">6779898</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>乾隆第四次南巡开始，御舟经扬州之时，盐商豪绅在河岸搭建戏台，供太后弘历取乐。临走，精挑细选数名才艺双绝的瘦马送到船上。弘历观赏歌舞取乐，继后忠言劝谏，被弘历斥责，而璎珞巧言劝解，弘历遣散歌姬，继后心中更加不满。弘昼再次劝说，继后答应他的计划。璎珞请来叶天士，为永琪断骨再接。断骨再续，危急万分且疼痛难忍，璎珞万分焦急又怕因此出现意外犹豫不决，而永琪却坚持断骨再续，他一定要能够重新站起来。谁料叶天士的药引被换，原本要放出的专食腐肉的腐虫却变成了危险的毒虫。太后的舱房同时起火，弘历赶赴救援太后，并命李玉去接永琪和璎珞。弘历闯入火海，火势越来越大，再也未能出来，弘昼以为弘历葬身火海，暗暗得意。深夜白莲教众徒从水中浮出，趁势袭击，弘昼借由船上生乱，迅速控制局势。火势汹涌，继后产生悔意要救皇上，弘昼却将她击晕。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2593</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep69-Ep70.End.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="69" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>璎珞身中剧毒</title>
+  <originaltitle>璎珞身中剧毒</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>70</episode>
+  <id>6779899</id>
+  <uniqueid default="false" type="tmdb">1556771</uniqueid>
+  <uniqueid default="false" type="trakt">3104743</uniqueid>
+  <uniqueid default="true" type="tvdb">6779899</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>被问责的继后表白多年深情，表明她对弘历的爱，她对弘历的忠贞。继后指责璎珞只是一直在利用弘历，她不爱弘历，而弘历却沉迷于她，令自己万分痛心。弘历指责继后权欲心重，继后称她对弘历恨意万分，继后愤然断发，皇上与太后大怒，被遣送回宫，从此幽禁。璎珞指出是袁春望策划了一切，拆穿袁春望身世，指出他是先帝当年流落在外时宠幸的农家女的儿子。袁春望称自己就是要毁掉皇上与太后的一切。璎珞指出是他偷换了叶天士的腐虫，使得自己深重剧毒，皇上对璎珞怜惜不已。太后指雍正并无私生子流落在外，并将他所做的一切都是一场空，袁春望发疯。皇上要杀掉袁春望，太后却出面制止。皇上起驾回宫，璎珞却中毒已深，吐血不止。海兰察带来解毒丹，服用后的璎珞恢复了好多，而他却说傅恒为了替她采草药，身中瘴气，又坚持作战，终于战死沙场。璎珞闻之，悲痛万分。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2593</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep69-Ep70.End.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="70" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>正我努力营救众人</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>少年四大名捕</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>2305681</id>
+  <uniqueid default="false" type="tmdb">389790</uniqueid>
+  <uniqueid default="false" type="trakt">398214</uniqueid>
+  <uniqueid default="true" type="tvdb">2305681</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>正当铁手与若飞被重重围困之际，无情等人突然出现；为助铁手，三人更放弃了神捕令牌，以普通人身分与大连盟开战。危急关头时正我赶到，凭机智将众人自落石手上带走；正我更说若飞已被逐出蓝天帮，因此不受江湖规则所约束。最后若飞所犯之事只受了官府的杖罚，铁手更安慰她说不会离弃她。
+
+无情替芷妍修长箫，更怕她深夜迷路而点灯相迎。傻福自蓝天帮取回破天遗物，铁手发现破天受伤的衣服血迹有异样，于是交给无情保管，好让由正我翌日检查。晚上无情发现有人夜闯房间而放出暗器，但却发觉误伤了芷妍；无情替芷妍裹伤时，她竟主动说出喜欢自己。
+
+正我检查破天衣服证实没有异样，铁手却感觉衣服像是被换过，欲向收藏的无情提问时，却发现他喜欢上芷妍之事。追命欲向众人表现自己是情场老手的一面，可惜却出丑人前。
+
+冷血在城外看守时，发现变节的大勇欲运货物进城；得追命及小刀之助，成功发现他们欲偷运私盐。金国使节到京拜访，皇上特请大连盟与神捕司一起赴宴；落石为铲除冷血，特意要他在朝上舞剑，该金国使节认出他曾是刺客。冷血逃出皇宫，正我追踪而至欲说服他回宫调查；冷血拒绝更不自觉地出手伤了正我。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1880</width>
+        <height>1080</height>
+        <durationinseconds>2691</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Four.Ep15.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

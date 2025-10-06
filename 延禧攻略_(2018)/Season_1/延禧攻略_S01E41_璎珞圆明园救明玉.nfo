@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>璎珞圆明园救明玉</title>
+  <originaltitle>璎珞圆明园救明玉</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>41</episode>
+  <id>6779861</id>
+  <uniqueid default="false" type="tmdb">1556742</uniqueid>
+  <uniqueid default="false" type="trakt">3104687</uniqueid>
+  <uniqueid default="true" type="tvdb">6779861</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>金川莎罗奔生乱，惹来龙颜大怒，生死攸关之际，傅恒请求出征。尔晴不想让傅恒离开，跟他大闹，傅恒拆穿她是担心他战死后危及到她现有的地位，两人再一次不欢而散。临行前，傅恒前往圆明园看望璎珞，却始终在暗中观察，没有现身。一直以来，娴皇贵妃代管宫务，上下敬服。后太后向弘历提起立后一事，说娴皇贵妃体察弘历健康，又统领宫务有功，劝说弘历立其为后。弘历思虑再三，决定册封娴皇贵妃为继后。娴皇贵妃终登皇后之位，想起死去的额娘，感到悲从中来，又扬眉吐气，得意不已。太后要在圆明园举办放生典礼，弘历与太后、众妃嫔亲临圆明园，璎珞期待着与明玉重逢。谁知明玉看到璎珞，却当众给她难堪，璎珞对此颇为困惑。袁春望知道后劝说璎珞不要再靠近明玉，可璎珞却不相信明玉的改变。深夜之时，璎珞偷偷见到明玉，才发现对方似有苦衷，可明玉仍不肯说出真相，璎珞洞悉破绽，才得知明玉受纯贵妃要挟，要她远离璎珞。明玉似乎受到纯贵妃的伤害，变得如同惊弓之鸟，她告诫璎珞要小心纯贵妃，称她不会放过璎珞。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2624</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep41.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="41" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>上海滩续集</title>
+  <originaltitle>上海灘續集</originaltitle>
+  <showtitle>上海滩续集</showtitle>
+  <sorttitle/>
+  <year>1980</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>7.0</value>
+      <votes>1</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>自剷除所有幫會勢力後，許文強、丁力雙雙成為上海大亨，控制整個上海。及後，許文強慘遭暗殺，丁力誓要替文強報仇，並派其助手祥貴追查兇手，頓時牽起連串黑幫廝殺。
+
+丁力的婚姻由馮程程進入修道院，當上修女而結束。在偶然機會下，丁力結識了明艷照人的朱燕燕，為之傾倒，正當兩人感情有進一步發展時，一位風度翩翩的大商家狄雲志卻在此時出現，燕燕被深深吸引，一場刻骨銘心的三角戀愛，就告展開。
+
+另一方面，雲志背後，原來有日本人勢力所支持，財雄勢大，幾乎可以隻手遮天。他主動和丁力合作，令丁力在名與利俱有極大收穫。誰料雲志最主要的目的，是為日本人控制上海鋪路。丁力與雲志合作不久，已摸清其底細，同時亦查出文強被殺，也是由他主使。一方面力欲替文強報仇，但又不想放棄彼此良好合作關係。當丁力得悉燕燕深愛著雲志時，在愛情、道義及事業上衡量後，為公為私，決定全力對付雲志，令上海再添腥風血雨。</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"8163","wikidata":"Q7720607"}</episodeguide>
+  <id/>
+  <imdbid/>
+  <tmdbid>8163</tmdbid>
+  <uniqueid default="true" type="tmdb">8163</uniqueid>
+  <uniqueid default="false" type="wikidata">Q7720607</uniqueid>
+  <premiered>1980-08-18</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <actor>
+    <name>吕良伟</name>
+    <profile>https://www.themoviedb.org/person/78877</profile>
+    <tmdbid>78877</tmdbid>
+  </actor>
+  <actor>
+    <name>谢贤</name>
+    <profile>https://www.themoviedb.org/person/70439</profile>
+    <tmdbid>70439</tmdbid>
+  </actor>
+  <actor>
+    <name>黄淑仪</name>
+    <profile>https://www.themoviedb.org/person/1140989</profile>
+    <tmdbid>1140989</tmdbid>
+  </actor>
+  <actor>
+    <name>廖启智</name>
+    <profile>https://www.themoviedb.org/person/116423</profile>
+    <tmdbid>116423</tmdbid>
+  </actor>
+  <actor>
+    <name>林嘉华</name>
+    <profile>https://www.themoviedb.org/person/1175810</profile>
+    <tmdbid>1175810</tmdbid>
+  </actor>
+  <actor>
+    <name>张国强</name>
+    <profile>https://www.themoviedb.org/person/1266162</profile>
+    <tmdbid>1266162</tmdbid>
+  </actor>
+  <actor>
+    <name>景黛音</name>
+    <profile>https://www.themoviedb.org/person/2522661</profile>
+    <tmdbid>2522661</tmdbid>
+  </actor>
+  <actor>
+    <name>韩马利</name>
+    <profile>https://www.themoviedb.org/person/2349758</profile>
+    <tmdbid>2349758</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

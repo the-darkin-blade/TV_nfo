@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>嘉荣不满卜琼专制</title>
+  <originaltitle>Episode 22</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444979</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>嘉乐被冠峰羞辱后心情低落，开会时心不在焉；宏瞻本要在完成会议后赶到机场与蔓华一起离港外游，但当他看见嘉乐闷闷不乐后便改变主意。这边厢，蔓华正忙于收拾行李准备出发，陈好吩咐蔓华要趁此机会为高家添丁，蔓华心中有苦自己知。嘉乐终按捺不住情绪，在会议途中早退，想不到宏瞻竟跟随她一起离席。蔓华收到丈夫通知，表示不能与她外游……
+
+放弃外游　陪伴嘉乐
+
+嘉乐被宏瞻直接带到快艇上，两人直奔无人之小岛，享受醉人的浪漫；嘉乐看见眼前的美景，将不快一扫而空；宏瞻看见嘉乐心情回复过来，即向她表示能永远当她的守护神，嘉乐闻言非常感动。嘉乐认为自己在冠峰心中已成为了陌路人，宏瞻劝她忘记过去重新投入生活。嘉乐不再像以往般抗拒宏瞻，更让他到自己居所探访，宏瞻不禁高兴非常。
+
+努力补偿　望妻原谅
+
+蔓华独守豪宅内以酒浇愁，心中尽是对丈夫的怨愤。宏瞻回到家中看到妻子满脸怒气，自知理亏，只得以甜言蜜语安抚蔓华一番。宏瞻为作补偿，特意陪蔓华到珠宝店购物，希望能得到妻子原谅。
+
+蔓华选取了与嘉乐同样款式的钻石链，宏瞻即借意指不相配，而替她另选别款。冠峰向宏瞻提议投地建屋，宏瞻了解后大感兴趣，更决定全权由冠峰负责。
+
+为得资料　铤而走险
+
+冠峰获悉最大竞争对手乃琥珀集团后，盘算如何才能得悉对手的投标内容；冠峰与Sam调查琥珀集团的资料无功而回；但冠峰却另有发现。冠峰到大学迎接采贻，令她喜出望外；这时采贻的同学炳出现，邀约采贻到他家参加生日派对，冠峰竟游说采贻答应。采贻在冠峰陪同下一起前往炳的豪宅参加派对；冠峰刻意出现的原因，是炳竟是琥珀集团的家族成员，因此他希望能藉此偷取投标资料。
+
+嘉安支持　嘉荣受制
+
+采贻发现冠峰偷偷溜进豪宅书房，心感有异忍不住上前察看；嘉荣下班后相约同事前往消遣，却被卜琼逮个正着。嘉荣得悉卜琼原来暗中查探他的财政支出，即感到不被尊重而气愤不已。嘉荣不想被卜琼诸多限制，与她当街理论最终不欢而散。
+
+嘉荣因不满卜琼的专制而向嘉安大吐苦水，但嘉安却认为卜琼所作所为全是为嘉荣着想，令嘉荣欲哭无泪。忠伟见朗翘被客户灌酒，最后只有扶着不胜酒力的朗翘回家……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1078</height>
+        <durationinseconds>2688</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>22_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

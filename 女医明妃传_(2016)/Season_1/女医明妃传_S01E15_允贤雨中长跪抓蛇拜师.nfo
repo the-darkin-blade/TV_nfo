@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>允贤雨中长跪抓蛇拜师</title>
+  <originaltitle>允贤雨中长跪抓蛇拜师</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id>5527086</id>
+  <uniqueid default="false" type="tmdb">1176443</uniqueid>
+  <uniqueid default="false" type="trakt">2159629</uniqueid>
+  <uniqueid default="true" type="tvdb">5527086</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>允贤跟着王道士学做菜，发现王道士擅做药膳，想让王道士教她，王道士不答应。程十三向太后禀报郕王祁钰因心爱之人谭允贤意外“身亡”而相思成疾，汪国公亦推测祁钰因杭家之事必定对他及太后怀恨在心，于是太后与汪国公均认为原本要扶立郕王为新君的计划恐难以实现了，便开始商量寻求新君“候补”——皇孙。可眼下英宗祈镇尚无子嗣，而皇上也近一个月未召幸任何嫔妃，于是太后竟示意御膳房在皇上的膳食里添加了滋补阳气的食物，太医刘安平在检查皇上的膳食时发现了这些非同寻常的食材并如实禀告给皇上。皇上气愤不已去找太后对质，二人争执间，皇上失手将太后攘倒在地，太后的后脑撞上了木榻受了伤，昏迷不醒。皇上虽因生母被太后害死而对太后恨之入骨，但现如今太后突然昏迷不醒，皇上却又念起太后对他的养育之恩，心中苦闷。王振到皇上面前进言，说如今太后昏迷正是一举除掉太后拿回皇权的大好时机，可皇上不但不想暗中了结太后性命，反而决定如若此番太后能够醒来，今后就不再想将她置于死地。王道士在外“卖符求财”，允贤心思耿直，悄悄劝大家不要相信王道士的“法术”，王道士知道后非常气恼，要将允贤赶出戏班子。允贤为了请求王道士原谅，在院子里跪着，王道士责问允贤何为——医者父母心。责问过后，王道士拂袖而去，允贤则在雨中跪了快一夜。天亮前，王道士打伞出去再次向允贤发问，并给允贤出了抓蛇拜师的难题，没有想到，允贤居然真的抓到了蛇，王道士不得不心服口服，收允贤为徒。允贤开始跟随王道士学医，并了解到其师父其实是常常借做法事给人治病，即“祝由术”，还渐渐知道给人治病要先治心，要跟病人之间建立信任和联系，即“信则医”。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1318</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E15.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

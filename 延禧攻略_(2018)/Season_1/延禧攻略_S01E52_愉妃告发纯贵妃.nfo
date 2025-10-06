@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>愉妃告发纯贵妃</title>
+  <originaltitle>愉妃告发纯贵妃</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>52</episode>
+  <id>6779879</id>
+  <uniqueid default="false" type="tmdb">1556753</uniqueid>
+  <uniqueid default="false" type="trakt">3104710</uniqueid>
+  <uniqueid default="true" type="tvdb">6779879</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>愉妃、纯妃指责璎珞之过，敦促皇上将其处置。纯妃迫不及待将璎珞定罪，继后反驳她，而愉妃却火上浇油，声泪俱下。袁春望紧急请来叶天士，璎珞命叶天士为永琪催吐，愉妃与纯贵妃百般阻拦，皇上却应允叶天士帮助五阿哥催吐。叶天士从五阿哥的催吐中，查出他曾过量滥用人参，才因此导致了此次危机，导致昏迷。东窗事发，弘历怪罪愉妃，愉妃求饶，索性将事情原委和盘托出，告发纯贵妃逼迫她陷害令妃一事，纯贵妃怒斥愉妃。弘历恼火万分，严刑审问钟粹宫上下，太阳落山前要审出结果。继后以父母亲人威胁玉壶，玉壶迫于无奈，只能答应交代一切。玉壶同时向弘历交代，当年纯贵妃收买长春宫小太监，换上易爆火花的菊花炭，又安排了王忠在吉祥缸底动了手脚，令融冰的火中途熄灭，才会让七阿哥葬身火海。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2629</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep52.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="52" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

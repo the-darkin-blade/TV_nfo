@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>小嘉嫔算计璎珞</title>
+  <originaltitle>小嘉嫔算计璎珞</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>44</episode>
+  <id>6779866</id>
+  <uniqueid default="false" type="tmdb">1556745</uniqueid>
+  <uniqueid default="false" type="trakt">3104691</uniqueid>
+  <uniqueid default="true" type="tvdb">6779866</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>弘历在延禧宫一直等到深夜，明玉回来禀告璎珞留在太后宫中，许是回不来了，弘历闻言离开。璎珞回来后，原以为弘历已经离开，谁知弘历竟藏在闺房，给她捉了个正着，两人嬉笑一番后，又是一夜恩宠。小嘉嫔被璎珞截了胡之后一直怀恨在心，故意找借口令璎珞罚跪半天，并向弘历进谗言，让弘历误会璎珞，将璎珞的牌子撤掉。弘历故意冷落璎珞，璎珞不以为然，还让宫人们替她绑秋千，自己玩的不亦乐乎。正好被弘历看到，弘历专门留下李玉提醒明玉，谁知璎珞明知道弘历来过，却也不去笼络，把弘历气坏了。叶天士来为弘历请平安脉，透露出璎珞膝盖因被小嘉嫔罚跪而受伤，弘历又心疼又愧疚，特意送去《鹊华秋色图》讨好璎珞，璎珞对此却不领情。弘历知道后大发雷霆，放话说以后再也不用璎珞侍寝。此事使得后宫众妃嫔都在看笑话，想着办法落井下石。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2625</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep44.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="44" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

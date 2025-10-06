@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>卓凯与泰国卧底追查跨国贩毒</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>使徒行者2</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">3672900</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>2010年，香港警队刑事情报科高级督察卓凯到泰国，与派赴当地的卧底追查跨国贩毒线。香港毒贩九指强与毒品拆家交易时，曼谷唐人街吉运帮头目Pak-key突然闯入，在得力打手乐少锋协助下杀拆家，成为九指强的新合作对象。卓凯与卧底们冒险获得Pak-key电脑上的犯罪资料，卓凯向香港警方汇报喜讯时，遇上突如其来的爆炸。卓凯被停职接受调查，心灰意冷的他向好友兼高级督察黎瑞权透露有意辞职。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2631</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E01.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

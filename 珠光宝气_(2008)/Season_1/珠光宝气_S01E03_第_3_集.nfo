@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 3 集</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>433783</id>
+  <uniqueid default="false" type="tmdb">2299417</uniqueid>
+  <uniqueid default="false" type="trakt">1595910</uniqueid>
+  <uniqueid default="true" type="tvdb">433783</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>青杨回家后发现雅言与富添出现问题，主动说要约富添见面。职员昌在运送钻石时失踪，泰禾怀疑他监守自盗，特别通知在机场等候富添的青杨。青杨还是选择相信昌，更偕泰禾四出追查，亦因此错失了约见富添的机会。青杨一直认为老板怀德针对自己，更因昌之事与怀德闹翻而提出辞职。筱柔在好友何太的葬礼上，看到何太的儿子为分遗产之事起争执而感叹不已。这时富豪贺哲男偕众出现，更与何太的儿子舌战灵堂上。志球没法在灵堂与哲男倾谈注资入自己公司之事，但为了能与哲男见面，不惜一掷百万投下车牌欲转赠他。志球欲以车牌为饵约见哲男，却被哲男的私人助理绍铭阻止，最后只得将车牌廉让脱手。哲男为讨女伴欢心，放弃出海改飞到上海享受晚餐。当两人在享受美食时，哲男却已开始对另一位美女动心，更主动对身旁的美女交出巨额支票提出分手。哲男出海练习赛艇时，却遇到喜欢处处针对自己的富豪高长胜。长胜出言挑战，哲男答应比试。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>珠光寶氣.The Gem Of Life.2008.Ep03.1080I.Hdtv.H264.Ac3.2Audio_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

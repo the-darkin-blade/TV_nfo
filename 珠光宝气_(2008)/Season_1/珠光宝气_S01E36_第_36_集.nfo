@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 36 集</title>
+  <originaltitle>Episode 36</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>36</episode>
+  <id>433907</id>
+  <uniqueid default="false" type="tmdb">2299450</uniqueid>
+  <uniqueid default="false" type="trakt">1595991</uniqueid>
+  <uniqueid default="true" type="tvdb">433907</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>听到雅瞳的坦白后，哲男乐得拥着她过了浪漫一夜，翌日哲男更要雅瞳陪他出海。哲男为让雅瞳释怀，提出自己将搬回家与父亲同住，更说会认真去了解雅思。雅思申请加入由婉仪主理，城中上流人士太太所组成的慈善团体励群会，筱柔为此四出张罗，而贺峰最终通知太太，她的申请已获接纳。 雅思发现母亲与众阔太打麻将时不断输牌，明白母亲被事情所烦扰。筱柔原来是为雅思的风评烦恼，因她不想雅思的朋友觉得青杨仍是上班族而看不起女儿。雅思坦言明白母亲的苦心，因自己亦曾骗了青杨的一生积蓄而欲补偿。贺峰约青杨吃饭，席上他提出欲打本让青杨开设珠宝店，想不到青杨竟反对，说不想被人指是靠女儿的富豪丈夫帮助而成功。但想不到除了筱柔外，怀德与泰禾等也赞成青扬自立门户。比赛进入第二回合，泰川发现子凌竟私下聘用市场调查公司搜集资料。泰禾与Parco在海上钓鱼，却看到雅瞳与哲男在游艇上，雅瞳为此主动向筱柔坦白。子凌的一组获胜，泰川向她质问时，子凌竟直认违规。筱柔在街上被人抢占了的士，但那的士却遇上交通意外。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>36_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="36" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

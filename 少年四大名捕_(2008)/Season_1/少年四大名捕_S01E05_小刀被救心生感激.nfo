@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>小刀被救心生感激</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>少年四大名捕</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>2305581</id>
+  <uniqueid default="false" type="tmdb">389780</uniqueid>
+  <uniqueid default="false" type="trakt">398204</uniqueid>
+  <uniqueid default="true" type="tvdb">2305581</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>杀手冷血欲加害追命与云扬时，一向怕死的追命却因情人之仇而拼命与冷血战斗，幸正我及时赶至更击伤冷血。落石之女小刀自江南学画回家，途中遇上仇家追杀；受了伤的冷血偶然救了小刀，令她芳心暗许。追命追上云扬，当说服他交出宝画之际，却遇上飞虎帮杀至，云扬受重伤含恨而终。
+
+几经努力，正我终成功齐集四幅藏宝画，最终更悟出当中奥秘。正我派三人一起寻找宝藏，凭无情的机智，很快便解开第一道谜团，从指示之地掘出一把关刀。此时蓝天帮突然出现夺刀；众人混战时，小骨突然出现袭击若飞，更将关刀抢去；铁手为救若飞，而失去重夺关刀的机会。
+
+晚上破天向众人解释抢令牌只为对抗落石的大连盟。可幸无情以早前了解关刀的线索，找出埋藏宝藏的古城；三人终到达藏宝密室，更发现银有令牌的锦盒，但杀手冷血突然出现！
+
+三人成功将令牌交给正我；正我指出令牌乃朝廷机密，而追命得悉此事将要被灭口，除非……正我追杀冷血，欲替武林除害，但小刀竟挺身而出阻止正我出手。正我替徽宗完成任务，神捕司得以重开。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1874</width>
+        <height>1080</height>
+        <durationinseconds>2672</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Four.Ep05.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

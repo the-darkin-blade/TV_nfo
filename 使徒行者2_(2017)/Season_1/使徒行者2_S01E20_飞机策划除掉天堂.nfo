@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>飞机策划除掉天堂</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>使徒行者2</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">4039193</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>卓凯带同手下卧底与第四名卧底见面，黑警却打算将卓凯和众卧底一网打尽。嘉莉发现棱智有巨额金钱转帐，终查到了斯敏，嘉莉欲对斯敏下手之际，德信忽然出现。飞机策划刺杀卓凯的行动，要求天堂及长兴一帮手下参与。飞机表面设局欲杀卓凯，实际是想藉此除掉自己的眼中钉天堂。飞机欲对天堂下杀手之时，淑梅与少锋及时赶到。嘉莉得知德信要对付卓凯，急急通知他。一名女士借款不成大吵大闹，淑梅发现那人竟是……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2636</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E20.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

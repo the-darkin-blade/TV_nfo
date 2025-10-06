@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 24 集</title>
+  <originaltitle>Episode 24</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id>433895</id>
+  <uniqueid default="false" type="tmdb">2299438</uniqueid>
+  <uniqueid default="false" type="trakt">1595962</uniqueid>
+  <uniqueid default="true" type="tvdb">433895</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雅思与子凌再见面，雅思更借机抢白了她一番，但子凌却因此得知雅思与贺峰过从甚密。贺峰在晚饭时，主动邀约雅思到法国参加时装展顺道度假，令她大喜过望。子凌不忿，主动找哲男说出他的父亲与雅思相恋。哲男得悉后怒火中烧，更在晚上等候父亲回来，对贺峰的恋情提出反对。日东约了雅言午饭，但长胜一通电话便令雅言推却饭局。原来长胜特意炮制了一个饭盒给雅言，两人更温馨地同吃，但想不到竟因此而得肠胃炎双双送院，两人的情侣关系亦因此曝光。雅瞳看到自己设计的戒指出售，特购下送予雅思替她打气。突然有直升机在雅思公司外出现，更拖着求爱横额，令她心甜不已。雅思最后发现，原来这一切都是哲男所为，原来他要让全港知道雅思是自己的对象，而令父亲知难而退。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>24_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

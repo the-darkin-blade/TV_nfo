@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:20 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>淑梅向少锋说出心底话</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>使徒行者2</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">4039176</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>志彬为答谢杨咏拾回其钱包，请她吃饭，使志彬对财务公司改观，又欣赏杨咏有理想及抱负。少锋得知挞Q想追求淑梅，看着他跟淑梅表白之时，遇上飞机找麻烦。淑梅忽然暗示喜欢少锋，少锋没有回应。卓凯正式成为嘉莉的保镳，首天已发现有人对嘉莉不利，卓凯要求她透露更多资料。某夜嘉莉在会所密会德信，接着卓凯发现天堂将一箱箱红酒运回会所，怀疑跟洗黑钱有关，命淑梅与少锋潜入嘉莉家搜证，未受过拆弹训练的二人误触了爆炸装置。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2630</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E11.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

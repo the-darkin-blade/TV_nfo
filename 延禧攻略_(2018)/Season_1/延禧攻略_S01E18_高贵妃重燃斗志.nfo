@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>高贵妃重燃斗志</title>
+  <originaltitle>高贵妃重燃斗志</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id>6773169</id>
+  <uniqueid default="false" type="tmdb">1556719</uniqueid>
+  <uniqueid default="false" type="trakt">3096634</uniqueid>
+  <uniqueid default="true" type="tvdb">6773169</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>娴妃提议让从江南请来的名医叶天士为五阿哥医治，皇上应允。叶天士肯定五阿哥患了黄疸，并保证用退黄方就可治好，弘历松了口气。高贵妃见风使舵，向皇上告罪，皇上表示谅解。这时，纯妃带人抬了此前照料愉贵人饮食的一名蒙古厨师的尸体上来。了解过愉贵人孕期的饮食习惯后，叶天士禀报弘历，婴儿瞳孔金黄的怪病，多因母体湿热、胆汁淤积而生，孕妇应当注意饮食，不过分食用甜食烫食、腥膻之物。璎珞意有所指是高贵妃想对付愉贵人和五阿哥，高贵妃辩驳，纯妃却呈上证据，是厨师死前留下的一封指认高贵妃的血书，弘历大为恼火，软禁了高贵妃。皇上准备离开时，明玉拦住皇上，告发璎珞盗用皇后金印，璎珞打开匣子，里面只是一块砚台，明玉因诬告而受罚。随后，璎珞拦住纯妃与她说话，指出厨师自尽留下血书一事是她策划，纯妃提醒璎珞别站错了队。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2636</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep18.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

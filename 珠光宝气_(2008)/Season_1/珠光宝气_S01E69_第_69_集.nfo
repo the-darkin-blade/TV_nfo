@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 69 集</title>
+  <originaltitle>Episode 69</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>69</episode>
+  <id>427839</id>
+  <uniqueid default="false" type="tmdb">2299483</uniqueid>
+  <uniqueid default="false" type="trakt">1596059</uniqueid>
+  <uniqueid default="true" type="tvdb">427839</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>贺峰突然被送院，引起全港传媒争相采访。有记者发现雅瞳到达医院，藉词带她避过其他传媒到贺峰的病房后，欲进行贴身追访，哲男见状竟动手打人。贺峰逝世的消息正式公布，世万与子凌仔细分析贺峰死后康家的变化，世万更要孙女接近泰川。泰川探望兄长之际，发现留医中的泰禾竟向医生提出要暂时离院。泰川明白兄长是想安慰雅思，不禁指责兄长。子凌发现父亲恩杰在酒吧酗酒，因恩杰觉得仍不获世万信任而自我放纵。雅瞳探访哲男，哲男与她道出对父亲的思念，两人间的芥蒂似消失了。雅言得悉贺峰离世，特意回港到贺家探望妹妹，雅思欲请姐姐回公司帮助自己，但却遭雅言拒绝。回港后的雅言，竟突然搬回康家。泰川到灵堂致祭，更向哲男挑衅说会坐山观虎斗，令哲男没办法解释自己与泰禾之间的事。晚上守灵时，哲男与雅思又起冲突，雅瞳更无辜被雅思痛骂。在律师宣布贺峰的遗嘱时，雅思发现雅瞳竟被邀请列席。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>69_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="69" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

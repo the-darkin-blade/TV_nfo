@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:00:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>梦瑶妒忌梦南与活着相恋</title>
+  <originaltitle>Episode 30</originaltitle>
+  <showtitle>僵</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2301082</uniqueid>
+  <uniqueid default="false" type="trakt">12243585</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>梦瑶知道与活着环游世界的梦想幻灭后，既伤心又愤怒。这时阮冰突然在房中出现，指这几天观察了梦瑶的一举一动，知道活着已被梦南抢走，她又问梦瑶是否甘心，正中梦瑶的内心痛处。
+
+活着休养期间，阮冰突然出现，她袭击梦南并把活着打伤。正当阮冰以为活着逃走之际，活着竟然手握绣春刀，向阮冰还击。何年无意间看见庞杰的手稿，担心庞杰有生命危险，所以找应天问个究竟。
+
+梦瑶痴恋活着
+
+应天带何年去到树林，把当日发生的事，一五一十告诉何年，何年听后非常伤心。何年看着庞杰的手稿，觉得应该加添一个好的结局，于是便续写了庞杰的故事。
+
+梦瑶看见梦南为活着包扎伤口，即心情低落。梦南一直劝梦瑶要把不开心的事与她分享，而且用她以前的方法去对抗悲伤。梦瑶愈听愈不服气，一怒之下更想出手杀掉梦南。
+
+颖儿找应天，发现他正在看何年的小说，喜出望外。应天发现颖儿熟悉小说的内容，十分惊讶，亦因此明白为何庞杰会与她成为好朋友，对她另眼相看。应天与活着饮酒，应天一饮便道是好酒，活着看出应天有心事，一问之下，得知庞杰之事，非常震惊。
+
+众人成功捉回何月
+
+应天指庞杰被自己困了五百年终于得到解脱，对庞杰来说是好事。而应天自己亦后悔，没有给予庞杰自由。活着见到应天已想通，感到安慰。
+
+活着在街上被乱箭所射，只能拼命逃跑。他走到大厦之中，原来众人早已设好陷阱让何月落网。何月被绑在轮椅上，对外界完全没有反应，众人见到她这样子都非常担心。他们用尽各种方法，都不能令何月有所回应。
+
+梦瑶偷袭梦南
+
+霆斯与何年为了医好何月，誓言要出尽一切办法。何年与玲梅带何月到小时候去过的餐厅，希望恢复她的记忆。玲梅又带何月回到大学灵异学会会址，把她们以前一起经历的事，重新讲一遍。可惜何月一点反应也没有，最终连玲梅也感到气馁。
+
+梦瑶见到活着与梦南进餐，二人相当恩爱，情同夫妇。梦瑶非常愤怒，觉得梦南横刀夺爱太过分。她突然发恶，却看见眼前的人原来是紫红。紫红安排梦南与梦瑶见面，三人共谈往事，回忆美好的日子。岂料当紫红离开后，梦瑶突然袭击梦南。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1308</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[殭].Hdj.Blue.Veins.Ep30.2016.Hdtv.H264.1080I.2Audio-Dtktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>殭 Hdj Blue Veins 2016 2Audio Dtktv qsv av1</title>
+  <originaltitle/>
+  <showtitle>僵</showtitle>
+  <season>1</season>
+  <episode>2016</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1308</durationinseconds>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>[殭].Hdj.Blue.Veins.Ep30.2016.Hdtv.H264.1080I.2Audio-Dtktv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2016" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

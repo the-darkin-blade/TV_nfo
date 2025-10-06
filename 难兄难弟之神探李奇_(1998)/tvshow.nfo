@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:57:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>难兄难弟之神探李奇</title>
+  <originaltitle>難兄難弟之神探李奇</originaltitle>
+  <showtitle>难兄难弟之神探李奇</showtitle>
+  <sorttitle/>
+  <year>1998</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.5</value>
+      <votes>2</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>李奇（罗嘉良 饰）因为不愿同警长雷劲（骆应钧 饰）同流合污而遭到了后者的排挤和刁难，然而李奇机敏聪慧，屡屡凭借自己的力量破获奇案，雷劲因此也奈何不了他。罗帮办是一手教导李奇成才的师傅，他告诉李奇，如果能够破解二十年前的女飞贼黑玫瑰之悬案，或许就能够彻底扳倒雷劲，李奇摩拳擦掌，斗志昂扬。  　　为了调查案件，李奇来到了丽池夜总会，却在这里偶然撞见了遇到了麻烦的旧日好友谢四（林家栋 饰），不仅被卷入了黑道的纷争之中，还失去了唯一的住所。于是，李奇住进了谢四的叔叔家中，由此结识了美丽善良的程宝珠（张可颐 饰）。李奇并不知道的是，他一心想要追捕的黑玫瑰，其实就潜伏在他的身边。</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"93350","tvdb":"361035"}</episodeguide>
+  <id>361035</id>
+  <imdbid/>
+  <tmdbid>93350</tmdbid>
+  <uniqueid default="false" type="tmdb">93350</uniqueid>
+  <uniqueid default="true" type="tvdb">361035</uniqueid>
+  <premiered>1998-08-03</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Comedy</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <tag>police</tag>
+  <tag>1960s</tag>
+  <actor>
+    <name>罗嘉良</name>
+    <role>Lee Kei</role>
+    <profile>https://www.themoviedb.org/person/1223043</profile>
+    <tmdbid>1223043</tmdbid>
+  </actor>
+  <actor>
+    <name>林家栋</name>
+    <role>Tse Sei</role>
+    <profile>https://www.themoviedb.org/person/83820</profile>
+    <tmdbid>83820</tmdbid>
+  </actor>
+  <actor>
+    <name>吴绮莉</name>
+    <role>Siu Fong-fong</role>
+    <profile>https://www.themoviedb.org/person/1401915</profile>
+    <tmdbid>1401915</tmdbid>
+  </actor>
+  <actor>
+    <name>张可颐</name>
+    <role>Cheng Po-chu</role>
+    <profile>https://www.themoviedb.org/person/125882</profile>
+    <tmdbid>125882</tmdbid>
+  </actor>
+  <actor>
+    <name>雪妮</name>
+    <role>Ching Seung-seung</role>
+    <profile>https://www.themoviedb.org/person/63586</profile>
+    <tmdbid>63586</tmdbid>
+  </actor>
+  <actor>
+    <name>苑琼丹</name>
+    <role>Ng Yan-lai</role>
+    <profile>https://www.themoviedb.org/person/94076</profile>
+    <tmdbid>94076</tmdbid>
+  </actor>
+  <actor>
+    <name>林晓峰</name>
+    <role>Siu Ka-ming</role>
+    <profile>https://www.themoviedb.org/person/553201</profile>
+    <tmdbid>553201</tmdbid>
+  </actor>
+  <actor>
+    <name>河国荣</name>
+    <role>Si Sir</role>
+    <profile>https://www.themoviedb.org/person/1238907</profile>
+    <tmdbid>1238907</tmdbid>
+  </actor>
+  <actor>
+    <name>滕丽名</name>
+    <role>Yiu Lina</role>
+    <profile>https://www.themoviedb.org/person/1223072</profile>
+    <tmdbid>1223072</tmdbid>
+  </actor>
+  <actor>
+    <name>周聪</name>
+    <role>Siu Chung</role>
+    <profile>https://www.themoviedb.org/person/1136440</profile>
+    <tmdbid>1136440</tmdbid>
+  </actor>
+  <actor>
+    <name>梁咏琳</name>
+    <profile>https://www.themoviedb.org/person/1395301</profile>
+    <tmdbid>1395301</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>加敏有孕</title>
+  <originaltitle>Episode 27</originaltitle>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id>4575284</id>
+  <uniqueid default="false" type="tmdb">1743629</uniqueid>
+  <uniqueid default="false" type="trakt">3254406</uniqueid>
+  <uniqueid default="true" type="tvdb">4575284</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>耀国在会所晚餐时，遇见有健充任侍应生，顿怒火中烧，着有康通知餐厅经理辞去有健，令有健对有康积怨更深。
+
+倪坤出狱后，见楚君比以前沉实成熟许多，内心顿感安慰。
+
+有康一直努力，虽得到世邦重用，却始终被视为外人，遂决意追求美欣，欲与世邦拉上裙带关系，终得偿所愿，美欣接受有康。有康忙于讨好美欣，因而冷落了加敏。加敏对他生怨言，令有康开始感到烦厌。
+
+李华不忍父母分隔港澳两地，答应租一层楼，接母亲来港定居，但增添了她与有健的重担。
+
+有康被加敏发现与美欣的感情，不惜牺牲与加敏的感情，向她提出分手。加敏伤心欲绝，意欲引退，偏偏此时才发现怀了有康的身孕，内心旁徨不堪。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1068</height>
+        <durationinseconds>1309</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E27.20181209.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Looking Back In Anger 20181209 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>1209</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1068</height>
+        <durationinseconds>1309</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E27.20181209.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1209" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

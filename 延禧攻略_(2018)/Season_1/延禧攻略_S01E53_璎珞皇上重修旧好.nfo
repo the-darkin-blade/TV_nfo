@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>璎珞皇上重修旧好</title>
+  <originaltitle>璎珞皇上重修旧好</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>53</episode>
+  <id>6779880</id>
+  <uniqueid default="false" type="tmdb">1556754</uniqueid>
+  <uniqueid default="false" type="trakt">3104713</uniqueid>
+  <uniqueid default="true" type="tvdb">6779880</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>璎珞去送愉妃，才知道愉妃多年来埋伏在纯贵妃身边的真相。璎珞赞赏愉妃的苦衷与坚忍，并答应替她照顾永琪，两人告别。纯贵妃被风筝线绞死，宫中到处是流言蜚语，延禧宫上下十分担心，唯独璎珞继续做风筝，丝毫不受影响。弘历弘历送来的月露知音琴要教她习琴，不准璎珞再做风筝，璎珞我行我素，甚至对弘历送来的月露知音琴置之不理，弘历拂袖而去。纳兰淳雪趁虚而入，故意借昙花盛开吸引弘历，弘历邀她月下品琴，并嘱托李玉立刻去延禧宫取回赠给璎珞的琴。深夜，延禧宫的大门被敲开，璎珞直接交出了琴。弘历看到月露知音，不喜反怒，赶到延禧宫，竟弹起了琴。璎珞指出皇上怀疑自己，弘历与璎珞理论，表示相信她只是因为璎珞的不解释而生气，最后二人重修旧好。按照惯例，紫禁城里继后要亲自主持亲蚕礼，继后精心筹备，太后以耗资不菲、兴师动众为由，一口否决。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2631</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep53.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="53" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

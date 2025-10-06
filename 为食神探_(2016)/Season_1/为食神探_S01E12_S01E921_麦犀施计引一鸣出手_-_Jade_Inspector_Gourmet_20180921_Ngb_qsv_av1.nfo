@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:53:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>麦犀施计引一鸣出手</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>为食神探</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2300935</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>得基与嘉嘉去探周晴，得基知道比赛延期，替她高兴，周晴却没有心情。周晴指当年她亦有机会与好朋友一同参与此比赛，好朋友却突然失踪，没有了她便找不到与她合拍的人。
+
+嘉嘉叫得基说笑话逗周晴开心，嘉嘉亦一边安慰她，希望她能振作。国华为周晴买消夜，看到得基与嘉嘉也在，令他非常尴尬。得基二话不说，便借机把国华带出街外。
+
+这时，麦犀突拿着刀出现，国华以为他用来惩罚自己，非常惊慌。原来麦犀想与国华绝交，因为他完全没有帮助自己，国华否认，并指已查出一鸣的成长背景。
+
+爱娇发现新证据
+
+爱娇再次为亚彩修理好录音机，他们试听时听到亚彩母所讲的故事，之后竟发现重要证据。当他们再播一次录音时，却听到非常特别的声音，可能是破案关键。大家讨论之际，爱娇想到那些声音是甚么。
+
+得基与嘉嘉为了搜集证据扮作老人及佣人，再混入一鸣所办的旅行团。正当一鸣为嘉嘉拍照时，得基偷偷走进一鸣的办公室，要偷看他电脑的资料。岂料一鸣的相机没有电，要回办公室取电。嘉嘉情急智生，为得基解围，成功复制一鸣电脑上的相片。
+
+麦犀施计一鸣出手
+
+晚上，一鸣在街上突然见到麦犀。麦犀以相当侮辱的说话骂一鸣，说话刺中了一鸣的痛处，令他从心中燃起潜在的怒火。
+
+嘉嘉等翻看一鸣收藏的照片很多次，但都找不到他的犯案痕迹。同一时间，得基也从网上调查，希望找到一鸣的另一些线索。
+
+国华把一鸣的背景告诉给得基等人，国华在旧口供中发现一鸣打人的真正原因。得基知道后，便知道一鸣心中所怨恨的是甚么。爱娇收到麦犀手机传来的照片，照片中麦犀流血倒地，秀娜等人大惊。
+
+爱娇独力拯救麦犀
+
+得基等人知道地址后，即去救他。国华收到麦犀受伤的讯息，当他正与手下去救人时，却被大维阻止。国华为救人命，违抗大维命令，独自与得基会合，追踪一鸣去向。
+
+嘉嘉、爱娇及秀娜根据麦犀遇袭前所发的照片，来到事发现场，但却找不到麦犀。这时，已找到一鸣的国华通知她们，指麦犀已被打得半死，所以要尽快找他。她们找遍整个垃圾场，但都没有踪影。岂料，突然在垃圾场中冒出大量浓烟，爱娇不顾一切独力背起麦犀，把他送院。
+
+麦犀帮麦棠取回失物，但却害怕看到他。爱娇坚持要他亲自前来，不但交还失物，并要向麦棠谈话。但是当他们走到沙滩时，却发现有人跳海……</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1307</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Inspector.Gourmet.E12.20180921.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Inspector Gourmet 20180921 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>为食神探</showtitle>
+  <season>1</season>
+  <episode>921</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1307</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Inspector.Gourmet.E12.20180921.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="921" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

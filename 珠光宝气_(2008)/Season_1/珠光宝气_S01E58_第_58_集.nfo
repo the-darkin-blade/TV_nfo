@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 58 集</title>
+  <originaltitle>Episode 58</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>58</episode>
+  <id>433928</id>
+  <uniqueid default="false" type="tmdb">2299472</uniqueid>
+  <uniqueid default="false" type="trakt">1596048</uniqueid>
+  <uniqueid default="true" type="tvdb">433928</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>哲男终决定往西藏见雅瞳，在西藏旅游并学画的雅瞳正于咖啡店闲坐时，竟给她在异地重遇到启发。原来启发这几年主力经营药材采购的工作，两人言谈甚欢。哲男找到雅瞳，但他只说因公事到西藏开会，哲男提出约雅瞳吃饭，雅瞳亦大方接受。哲男突然请启发见面，更在他面前放下了一张一百万的支票。雅瞳答应替启发联络药材商，当她到启发居住的酒店时得知哲男曾找启发，而她为此痛斥哲男一顿。雅瞳离开时发现一直戴在身上的幸福指环不见了，启发得悉后主动带她四处寻找，其间哲男亦加入协助。启发本身已有感冒，在西藏高原地区带病奔走的结果，令他昏倒街上入院。哲男向雅瞳提出复合，而雅瞳，终坦然地向哲男说出心底话。雅思一直协助因病而退居幕后的贺峰打理集团生意，最近更替丈夫拍板决定新一阶段的越南工程。但哲男不相信这是父亲决定，欲回家与贺峰见面但竟被拒。泰川认为新一阶段的工程无利可图而欲退出，他在探望因哮喘病发入院的长胜时，更暗示他也应退出，但长胜不置可否。因泰川不加入工程的消息，令坊间传闻说贺峰病逝的消息甚嚣尘上。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>58_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="58" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

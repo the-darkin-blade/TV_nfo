@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>太后封璎珞贵人</title>
+  <originaltitle>太后封璎珞贵人</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>42</episode>
+  <id>6779862</id>
+  <uniqueid default="false" type="tmdb">1556743</uniqueid>
+  <uniqueid default="false" type="trakt">3104689</uniqueid>
+  <uniqueid default="true" type="tvdb">6779862</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>璎珞逼问明玉，明玉道出自己的所见所闻，璎珞怀疑纯贵妃与七阿哥之死有关。璎珞回想起历历过往，下定决心重回紫禁城，第一步便是讨好太后。璎珞在放生典礼上制造祥瑞，众人皆指是璎珞诓骗太后，以博得太后欢喜，璎珞却巧使妙计，自证清白。太后大喜之下，许诺给璎珞赏赐。璎珞回禀太后，称自己只想回宫，太后要将她带回紫禁城，弘历一口回绝，言称要将她升作答应，太后却不同意，提升璎珞为贵人。璎珞一步登天，得寸进尺的向纯贵妃索要明玉，纯贵妃气恼万分，却碍于弘历的面子，只能同意。袁春望知道消息后，对璎珞的决定十分失望和反感，璎珞不懂他为何反对自己做贵人，而袁春望却说如果她嫁给弘历，就是背叛自己，二人爆发激烈争执，就此决裂。袁春望恨老天不公，对璎珞的背叛十分愤怒与失望，暗下决心要报复璎珞，要让她后悔。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2629</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep42.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="42" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

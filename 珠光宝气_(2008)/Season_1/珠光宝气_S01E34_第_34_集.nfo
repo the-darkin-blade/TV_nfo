@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 34 集</title>
+  <originaltitle>Episode 34</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id>433905</id>
+  <uniqueid default="false" type="tmdb">2299448</uniqueid>
+  <uniqueid default="false" type="trakt">1595985</uniqueid>
+  <uniqueid default="true" type="tvdb">433905</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>当青杨正赞赏贺峰将婚宴办得有声有色之时，贺峰却收到消息，哲男被商业罪案调查科带返警署，但贺峰决定不惊动雅思。雅言因工作须离开婚宴，筱柔发觉代替姊姊管理饰物的雅瞳，因哲男没有出现而整晚神不守舍。子凌妒忌雅思一脸幸福，突然向她说出贺峰与苇庭在印尼共同拥有一岛之事，但雅思却不置可否。婚宴上贺峰向来宾分享，自己在一把年纪仍能觅得至爱的快乐。婚宴结束后，苇庭回到香港独自在公司喝酒，似乎对贺峰有种不舍的感觉。绍铭向贺峰报告，原来哲男为自立门户而向王夫人借钱，但王夫人与国际洗黑钱集团有关系令哲男被警方扣查。绍铭更指出哲男应是被助理Donald所害，而警方亦正追查他的下落。因长胜请来香港的名医，伯棠的病情终稳定下来。之澄担心兄长而心情混乱，竟出外四处寻找物品为兄长打气，长胜特意相伴及开解她。世万藉哲男被拘留一事，将贺峰排挤出青岛发展计画的宴会饭局。雅思约父母与贺峰吃饭时，世基突然闯进更大放厥词。看到丈夫任由世基放肆，雅思深感不满。哲男被释放后竟直接往找雅瞳，更说要与她离开香港。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>34_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

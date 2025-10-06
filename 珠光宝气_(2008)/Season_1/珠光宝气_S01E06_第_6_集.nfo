@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 6 集</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>433786</id>
+  <uniqueid default="false" type="tmdb">2299420</uniqueid>
+  <uniqueid default="false" type="trakt">1595921</uniqueid>
+  <uniqueid default="true" type="tvdb">433786</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>志球失踪，雅思向众阔太借钱让自己租直升机出海搜寻，但可惜众人不答允，更决绝地与她划清界线。赛艇比赛进行第二回合，长胜派人在哲男赛艇做手脚，因此轻敌而败给哲男。长胜认为有人出卖自己而将船员辞退，日东说出是自己通知哲男。长胜在餐厅挑衅哲男，哲男更同意如败阵便会注资到志球的公司。雅言陪雅思坐游艇出海寻夫却无所获，而筱柔夫妇及雅瞳亦赶至青岛。晚上哲男遇上雅思后主动慰问她，雅瞳亦发现哲男是当日送她衣服，亦是要志球卖盘的人，因此忍不住大骂哲男假仁假义。泰禾担心雅思而丢下工作赶到青岛，却发现她一个人在街上游荡。贺峰因哲男收购好友的游艇会之事，欲与儿子商量，但哲男却以替赛艇作准备为由敷衍了事。筱柔收到通知验身已有结果，但为女儿之事宁愿延期回港。赛艇时，长胜为了胜出又再次使出不君子行为。在衣香鬓影的筹款晚会上，长胜与下属大演肌肉跳舞助兴。筱柔托雅思的朋友带他们进入富豪宴会，欲请求贺峰协助，但贺峰却被大富豪宋世万请去商量要事。长胜再败给哲男后，对日东说出只是利用他，之后更遗留他在路上。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>珠光寶氣.The Gem Of Life.2008.Ep06.1080I.Hdtv.H264.Ac3.2Audio_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

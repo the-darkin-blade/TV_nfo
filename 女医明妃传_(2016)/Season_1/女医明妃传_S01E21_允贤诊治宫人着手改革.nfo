@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>允贤诊治宫人着手改革</title>
+  <originaltitle>允贤诊治宫人着手改革</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id>5527092</id>
+  <uniqueid default="false" type="tmdb">1176449</uniqueid>
+  <uniqueid default="false" type="trakt">2159635</uniqueid>
+  <uniqueid default="true" type="tvdb">5527092</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>允贤将酸酪浆用于止泻的大胆作法获得了成功，连刘院判也对自己这个勇敢创新的小女徒弟刮目相看。与春风得意的允贤恰恰相反，又一次被自己鄙夷的女医狠狠踩在脚下，程村霞的心中简直愤怒、羞臊到了极点。他将这一切都归结为老天的不公，眼中死盯着的都只是别人的惊世骇俗不同常理，将之认定为歪门邪道，却从未想过这大胆创新未尝不是一种值得学习的优势。无论师父如何苦口婆心地劝导，程村霞依然无法打破自己心中的偏见和桎梏。虽然口中答应了师父与允贤好好相处，但他的心中依然愤愤不平着，将允贤斩于马下做自己的手下败将的心愿从未熄灭。另外一边，顺心顺意的允贤又迎来了另一件喜事，想通了的郕王主动向她认错请罪。原本就只是小打小闹的这对爱侣很快便和好如初，恢复了以往的甜蜜。只是不巧，这你侬我侬的一幕又被英宗无意间看在了眼里，只是任他再如何嫉妒得发狂，也只好忍耐转身，故作潇洒离去。郕王的死心塌地被吴太妃和太后都看在了眼里。眼看着无法拆散这对鸳鸯，无奈之下她们只好想出了退而求其次的法子——将允贤暂时纳为侧妃。谁知道这个主意甫一提出，就遭到了郡主汪美麟的激烈反对。一向骄横跋扈的她绝不可能容忍允贤这样一个“狐狸精”缠在自己的夫君身边。将父亲的阴险狠毒学了个十成十的她想出了无数下作法子整治允贤。虽然平日里对这个侄女多加宠幸，但太后娘娘关键时候还是一个有原则的高位者。她绝不允许汪美麟任性妄为，做出那些阴毒之事。眼看着太后无法指望，汪氏父女只好将主动权交回了自己手上。这对心狠手辣的父女立刻筹划出了新的诡计，将允贤引入圈套之中。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1322</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E21.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

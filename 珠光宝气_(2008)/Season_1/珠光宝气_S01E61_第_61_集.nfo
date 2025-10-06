@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 61 集</title>
+  <originaltitle>Episode 61</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>61</episode>
+  <id>433931</id>
+  <uniqueid default="false" type="tmdb">2299475</uniqueid>
+  <uniqueid default="false" type="trakt">1596051</uniqueid>
+  <uniqueid default="true" type="tvdb">433931</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雅思到心理医生看症时，心理医生要求雅思也带贺峰前来接受治疗，因为他之前所遇过的事情，会让他累积极大的压力。原来这两年贺峰主要留在家中运筹帷幄，雅思则努力执行他的决定。因工作太忙，雅思拜托姊姊替自己照顾儿子。当雅言与雅思儿子刚离开唱游班时，竟被麦太驾车追击。贺峰本欲到医院探望儿子，但在途中忆起不快回忆，最于还是打道回府。筱柔明白雅思身受多重压力而没法协助而发脾气，而雅瞳为母亲与妹妹之事亦费尽心神，青杨见状只得尽力安慰。哲男不满「绿化都会」计画减少绿化面积，特意将传媒报道交给雅思看，指她妄顾公共利益，雅思百词莫辩。晚上哲男偕新女友喝酒解闷时，竟遇上记者偷拍。泰禾看见Parco闷闷不乐，始发现启发正式到怀德公司上班。当怀德向泰禾介绍启发时，泰禾大方地伸出友谊之手。雅言收到消息，有传媒将打算重提两年前的车祸，而矛头将指向雅思。雅言为助妹妹，特意请长胜帮助。长胜因没法协助雅言而大发脾气，之澄看在眼里，忍不住有微言。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>61_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="61" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

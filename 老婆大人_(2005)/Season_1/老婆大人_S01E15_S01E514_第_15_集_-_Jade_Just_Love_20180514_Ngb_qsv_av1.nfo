@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 15 集</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">543578</uniqueid>
+  <uniqueid default="false" type="tvrage">477145</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>打断了戴官的手后，国光才知弄错了，希敏觉得老公不信任她，怒不可遏，决定分居！Yoyo带AK见父母，才知女朋友是大马拿督女儿，可是拿督夫妇却嫌弃自己是孤儿仔！十三公知道咏诗怀有自己的骨肉，开心不已，还买了半斤燕窝给她补身！但咏诗见希敏嫁给小男人仍离婚收场，更不想因一时激情而嫁给围村大男人而抱憾终身！
+
+拿督为了保护Yoyo，暗查AK身世，原来他的父母生前是雌雄大盗，双双在行劫时被警车撞死，才遗下儿子在孤儿院！拿督不想女儿与劫匪后代一起，劝AK离开女儿，还答应可获得一毕可观的金钱开律师行！但AK深信真爱无罪，不理会拿督反对决定与Yoyo勇往直前。可是，高天却要他往上海公干！Yoyo不明白AK视钱如命，夜里找国光倾心事！希敏不理通叔担心，装作若其无事返回围村还神。可是，十三公说漏了嘴，通叔知道了两人离婚一事！但通叔却要阿B留在葛家！希敏当初极力反对，后经国光相劝，才放心让阿B在围村住一晚！可是，因为通叔不小心喂奶，阿B入了医院！
+
+希敏见阿B入院，就算明知是深夜时分，也立即向法官申请紧急禁制令，不准国光及其家人在她不在场下见阿B。Yoyo见希敏突然返裁判处写禁制令，知事势严重，立即带国光上法官家求情。Yoyo见希敏向法官不断数国光的不是，看不过眼，决定相助……</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E15.20180514.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Just Love 20180514 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>514</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E15.20180514.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="514" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

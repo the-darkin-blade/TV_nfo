@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 12 集</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>433883</id>
+  <uniqueid default="false" type="tmdb">2299426</uniqueid>
+  <uniqueid default="false" type="trakt">1595939</uniqueid>
+  <uniqueid default="true" type="tvdb">433883</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雅思本对酒店业的田锐甚感兴趣，但却发现雅瞳与田锐谈艺术至兴高采烈，暗感没趣。雅思发现展览会上的花篮位置摆放有误，恐传媒会因此杜撰影响婉仪声誉。雅思通知公关人员却不获理睬，惟有自行将花篮重新安排。此事被婉仪得悉后大加赞赏，而雅思亦因此获Daisy邀请加入她的公关公司。雅思与同事聚餐时欲请客显上司风范，却被她的前助理，现同为经理的Sharon盖过风头。雅言要求长胜替部门增加人手，长胜竟派日东协助雅言。雅言为了不想筱柔介入自己的感情生活专心投入工作，与世家子弟Andren合作扮作情侣。雅言初时认为日东只是长胜的「跟班」，但雅言最后发现日东除协助她们解决工作危机，更私下做剪报以增进娱乐圈知识。启发的玉佩卖出了七千万成为城中话题，成为了暴发户的启发约雅瞳吃饭，对她深懂餐桌礼仪感崇拜不已。Daisy接获筹办怀德的珠宝公司四十周年晚宴工作，雅思发现田锐亦是来宾，心中暗有打算。宴会举行当天，雅思发现宴会的纪念册子遗留在公司，因泰禾要留下看守拍卖的钻石，雅瞳一口便答应助她取回来。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>12_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

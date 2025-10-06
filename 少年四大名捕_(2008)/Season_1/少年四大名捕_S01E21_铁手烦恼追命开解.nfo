@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>铁手烦恼追命开解</title>
+  <originaltitle>Episode 21</originaltitle>
+  <showtitle>少年四大名捕</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id>2305751</id>
+  <uniqueid default="false" type="tmdb">389796</uniqueid>
+  <uniqueid default="false" type="trakt">398220</uniqueid>
+  <uniqueid default="true" type="tvdb">2305751</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>自与兄长相认后，铁手发现霍正为承继「铁面判官」之名而将贪赃枉法之徒杀死，亦为应否捉拿他而烦恼；若飞努力开解铁手。追命到访，更主动对铁手晓以大义，令他明白要大义灭亲捉拿霍正归案。
+
+嫣红发现小骨与王爷过从甚密，更听到他向小骨查问替蔡京私运硫磺之事。嫣红以飞鸽传书通知正我；正我率冷血与追命赶至调查。冷血与追命乔装成搬运工人，调查茶马栈道时发现大连盟等竟私运硫磺，因此与小骨大打出手，终成功将罪证扣押起来。王爷发现嫣红私下与正我会面，气得将她软禁起来。
+
+当正我指示众捕快如何处理罪证时，却收到消息嫣红出事的消息；这边厢王爷正与蔡京商量如何善后时，却发现正我赶至，他更接受以不追究走私之事，来换回嫣红的自由。追命等人发觉检举的硫磺消失无踪，直指正我为私情出卖公义。
+
+霍正带铁手到旧居，更说出留在京城就是为弟弟查出有谁想陷害他；而霍正更要求弟弟追随自己到处儆恶惩奸。
+
+无情追踪铁手而得知霍正相约他翌日见面，安排众人围捕霍正。霍正死于无情的暗器下，铁手悲痛不已抱尸离开。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2671</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Four.Ep21.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

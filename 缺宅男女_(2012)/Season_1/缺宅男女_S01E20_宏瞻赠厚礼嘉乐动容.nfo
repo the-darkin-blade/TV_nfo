@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>宏瞻赠厚礼嘉乐动容</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444976</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>嘉安与朗翘没有了三十万后，只有更努力地节衣缩食；朗翘忽发奇想，要求嘉安尝试向宏瞻取回掷给他的金钱，但嘉安坚定地表示不想嘉乐亏欠宏瞻。嘉安夫妻辛苦工作，但两口子仍过得甜蜜温馨。
+
+Annie快将结婚，银行内即有人事调动，各人为谁将升职而议论纷纷。忠伟召朗翘到办公室，告知将会让她升职接替Annie的位置；朗翘指自己资历尚浅怕其他员工不服。
+
+冠峰要求　担任经理
+
+忠伟鼓励朗翘以时间去证明自己的实力，朗翘信心十足地表示会更努力工作。嘉安与朗翘为追赶置业梦而各自努力工作，渐渐地忙得连见面沟通的机会也减少了，只以电话联络。
+
+嘉安记得巧琳的学校家长日将至，提议与朗翘及女儿好好享受一天的家庭乐。冠峰得采贻穿针引线，终到鼎瞻与宏瞻见面；冠峰要求宏瞻让他担任豪宅部的客户经理，更扬言会为宏瞻赚取可观回报。
+
+旧爱重遇　嘉乐心酸
+
+Daisy把冠峰入职一事告知嘉乐，当她发现原来不是由嘉乐引荐冠峰与宏瞻见面，也吃了一惊，嘉乐也对此事感到大惑不解。
+
+冠峰首天上班，即看见一张设计特别的坐椅放在自己座位前，原来是采贻送给他的惊喜。冠峰得悉采贻正在公司，欲亲自向她道谢；嘉乐无意中看到冠峰将身上的玉吊饰送给采贻作还礼，心中顿感酸溜溜。
+
+蔓华不快　酒后晕倒
+
+嘉乐一直想着冠峰与采贻之事显得闷闷不乐，刚好冠峰迎面出现，但他却对嘉乐视而不见形同陌路，令嘉乐心情直堕谷底。宏瞻看见此情此景，对嘉乐更是担心。蔓华陪同卓先生的三位太太到首饰店购物时，突然收到宏瞻的来电；宏瞻再次向妻子说谎，令蔓华心烦不已。蔓华心情郁闷只得借酒浇愁，却未有为意酒后不应焗桑拿，结果晕倒在桑拿房内。卓太们发现蔓华晕倒，慌忙得不知所措，幸好嘉安经过，即把她抱离现场。
+
+嘉安开解　失落蔓华
+
+嘉安向苏醒后的蔓华问及是否心情不佳，蔓华竟忍不住将宏瞻有婚外情一事告诉他，嘉安即怀疑蔓华口中所提的外遇是否嘉乐，却又不敢追问下去。宏瞻带嘉乐到露天餐厅散心，更特意把嘉乐一直所喜欢的玩具模型屋送给她；想不到嘉乐看到模型屋后情绪激动得对宏瞻连珠炮发，将心中的委屈一一发泄，宏瞻却只是一声不响地默默承受着……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1874</width>
+        <height>1072</height>
+        <durationinseconds>2675</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>20_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

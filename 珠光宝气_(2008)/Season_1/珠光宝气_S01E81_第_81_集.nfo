@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 81 集</title>
+  <originaltitle>Episode 81</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>81</episode>
+  <id>435159</id>
+  <uniqueid default="false" type="tmdb">2299495</uniqueid>
+  <uniqueid default="false" type="trakt">1596071</uniqueid>
+  <uniqueid default="true" type="tvdb">435159</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>长胜突然收到联络，少好竟自澳门前来与儿子见面。长胜偕母亲吃饭时，少好竟出言指责他，原来日东到了澳门，向少好说出长胜的所作所为。少好要求儿子回头是岸，但长胜却一意孤行，少好只得伤心离去。雅瞳主动到哲男家向他道歉，但哲男却忍不住说出另一件令她极伤心之事。满腔怒气的长胜回家时，竟看到日东等候他。得悉了日东行动的雅言，为了能让长胜脱身，竟主动回到警署。接受不了被好友出卖的长胜，竟向日东动粗。在青杨与筱柔结婚四十五周年当天，筱柔到医院覆诊。医生将一物件交给筱柔，更说出是早前筱柔托自己在四十五周年结婚纪念当日交回给她。为了避过雅言的追问，长胜竟跳上雅思的车上。雅思对长胜说出可助他脱身，但代价是要他对付哲男。雅瞳到雅言公司与姊姊对质，雅言坦言情况已是一触即发，但雅瞳竟说有办法阻止。雅瞳与雅思见面，更对她说出自己手握皇牌。三姊妹突然收到筱柔要她们回家吃饭的电话，当众人见筱柔像回复清醒般，惊讶得不敢置信。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>81_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="81" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

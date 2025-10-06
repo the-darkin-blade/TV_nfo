@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:32 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 20 集</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id>433891</id>
+  <uniqueid default="false" type="tmdb">2299434</uniqueid>
+  <uniqueid default="false" type="trakt">1595952</uniqueid>
+  <uniqueid default="true" type="tvdb">433891</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>当雅思在水池中寻回被文慧抛下的珍珠时，体力不支遇溺，幸得贺峰出手相救。日东努力游说雅言放弃辞职不果，长胜突然在她面前抛下五十万现金。翌日有福利机构到公司感谢长胜，原来雅言将五十万以公司名义捐出，把长胜气得半死。为了报复，长胜竟把尚未离职的雅言调到杂物房中工作。绍铭与长胜相聚时，却被哲男的下属遇上。与此同时，世万发现贺峰在泰国的投资有利可图，竟提出要即时加入注资，贺峰只得接受。在公布合作的发布会上，哲男突然在布吉出现，更抢白了世万一顿。哲男向父亲坦言已得悉长胜是协助贺峰，更说出自己会与长胜斗下去，贺峰听罢无言以对。文慧再次作弄雅思，将她困在燕巢洞穴中。贺峰得知雅思被困，将她救出后两人一起晚饭。日东与雅言到澳门公干时，日东见长胜的母亲少好突然伤人，原来该人威胁她欲揭穿长胜打人之事，更提及少好与长胜的往事。长胜赶到澳门看着受伤的母亲，不禁百感交杂。雅言悄悄跟着长胜，看到他那不为人知的痛苦。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>20_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

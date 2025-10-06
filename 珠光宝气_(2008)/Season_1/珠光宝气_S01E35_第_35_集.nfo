@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 35 集</title>
+  <originaltitle>Episode 35</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id>433906</id>
+  <uniqueid default="false" type="tmdb">2299449</uniqueid>
+  <uniqueid default="false" type="trakt">1595988</uniqueid>
+  <uniqueid default="true" type="tvdb">433906</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雅瞳听到哲男的话后心如鹿撞，但想不到刚回家后便遇上母亲。原来筱柔察觉雅瞳私下与哲男见面，而她在责骂女儿之际更气得晕倒入院。筱柔在医院时仍不忘要求雅瞳为了妹妹的幸福放弃与哲男发展，雅瞳无奈只好答允。想不到此事却为雅思听见，雅思私下问母亲为何要雅瞳牺牲，令她大感为难。哲男得不到雅瞳的回应，只得收拾心情专注工作。哲男向父亲认错，更夸下海口说将赚回因自己犯错而令公司蒙受的损失。贺峰突然带雅思往常到的画廊参观，更说为了不想她觉得生活太平淡，因此已买下这画廊送给她。伯棠入院之事被传媒炒作得甚嚣尘上，而伯棠决定将主席之位让给妹妹之澄，但之澄强调自己甚么也不懂。长胜见状，主动请缨替他们筹办发布会，伯棠大为感激。之澄因压力而欲逃避出席，幸得日东让她试作甜品令她冷静下来。雅思把收购到的国宝级名画转赠给青岛计画的主理人，因此协助贺峰再次获得与主理人见面的机会。看到贺峰得势，令蓄意排挤他的世万恨得牙痒痒。经历了重重困阻，雅瞳终决定重投哲男怀抱，与他重新开始。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>35_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

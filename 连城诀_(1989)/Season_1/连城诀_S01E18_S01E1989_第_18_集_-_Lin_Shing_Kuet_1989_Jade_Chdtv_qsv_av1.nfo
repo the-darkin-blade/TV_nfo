@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 18 集</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>连城诀</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2549064</uniqueid>
+  <uniqueid default="false" type="trakt">10877352</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>狄云被迫带千里等到藏宝地点，伺机反击，打走千里等人，救回水笙，二人劫后重逢，狄云向水笙表明爱意，水笙才放心。
+
+狄云带水笙回家，戚芳见二人亲热之貌，大感心酸。及后三人发现长发失踪，看出长发已夺走佛像，并手中寒冰奇毒，赶往昆仑山找寻千年灵芝除毒，三人遂起程赶往相助。
+
+途中，戚芳难忍震、笙亲密之貌，独自离去，狄云担心其安危，兼程追踪，发现长发父女正与水岱等三人混战，狄云平息干戈，水岱把千年灵芝赠予长发，狄云亦把佛像交回啸风。
+
+啸风受铁干唆摆，决杀水岱，长发为夺回佛像，诬陷狄云与大理私通，煽动羣雄对付狄云等人。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1560</width>
+        <height>1078</height>
+        <durationinseconds>1261</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lin Shing Kuet Ep18 1989 Hdtv 1080I H264 Ac3 Jade-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Lin Shing Kuet 1989 Jade Chdtv qsv av1</title>
+  <originaltitle/>
+  <showtitle>连城诀</showtitle>
+  <season>1</season>
+  <episode>1989</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1560</width>
+        <height>1078</height>
+        <durationinseconds>1261</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Lin Shing Kuet Ep18 1989 Hdtv 1080I H264 Ac3 Jade-Chdtv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1989" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

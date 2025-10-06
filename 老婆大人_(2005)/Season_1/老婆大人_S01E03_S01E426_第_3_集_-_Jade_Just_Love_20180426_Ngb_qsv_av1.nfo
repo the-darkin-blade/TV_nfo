@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 3 集</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">543577</uniqueid>
+  <uniqueid default="false" type="tvrage">477161</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>通叔贵为乡绅，被媳妇当众奚落，面子何在？唯有将一腔怨恨发泄在国光身上，说他是老婆奴，简直有辱男人尊严。亚基见通叔愈闹愈起劲，突然一掌掴向国光，说他有「外遇」而触怒了希敏，所以她才不肯搬回来，而「补镬专家」宝贝即场打电话给国光扮其情妇，令通叔深信是儿子对媳妇不忠，才不能完三堂同代之梦！
+
+亚基骗得到通叔，可是希敏的怒气仍未消！所以，希敏只准阿B入屋，老公要睡走廊！幸好，阿B也知爸爸辛苦，半夜时份突然放声嚎哭，把妈妈杀个措手不及，唯有让老公返家凑BB。国光重生，全赖父子齐心，果然上阵不离父子兵！不过，希敏仍不太开心，因为今天大官取消她正处理中的夫妻反目案！国光知道妻子视事业如命，翌日一早求大官给希敏一个机会，但大官反指裁判官不能感情用事！希敏知道了老公求大官，非常不悦，赶了他下车，又留下阿B在车！可是，阿B又在途中大哭，幸好国光用视像会议教老婆喂奶。希敏终于第一次成功哄阿B入睡！
+
+昕昕经常犯错，被希敏严厉斥骂。国光见到，觉得希敏的出法点是好，但循循善诱的效果可能会好一点，希敏半信半疑。在立法会门外，希敏发现昕昕呆望像征法律之下人人平等的泰美斯女神像，突然与她谈及往事，从中教她做事要独立一点，不可感情用事，才是一名成功的检控官。
+
+通叔知道儿子不够硬净，并不能摆脱「情妇」，决定要儿子约她出来讲数。可是，国光那有情妇呢？当然又是亚基出马。临危授命，亚基找了昕昕代劳。一到餐厅，通叔便要昕昕收下一条名贵颈链当分手费。昕昕不知何事，以为通叔想贿赂她，决定求助ICAC并通知希敏此事！希敏想不到昕昕突然行动迅速，ICAC不消三分钟到达现场，国光不得不说出真相，德叔立即晕倒！</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1586</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E03.20180426.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Just Love 20180426 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>426</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1586</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E03.20180426.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="426" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:16 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>郑齐当头棒喝允贤醒悟</title>
+  <originaltitle>郑齐当头棒喝允贤醒悟</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>5527078</id>
+  <uniqueid default="false" type="tmdb">1176434</uniqueid>
+  <uniqueid default="false" type="trakt">2159621</uniqueid>
+  <uniqueid default="true" type="tvdb">5527078</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>祁钰为了与皇上取得联系，生出妙计——让汪美麟代他宫绦传信。允贤因为罗大娘惨死的事茶饭不思，终日将自己关在房间念经祈祷。皇上再次出宫希望见允贤一面，又从紫苏口中得知允贤因罗大娘惨死的事悲伤不已，因而为允贤打抱不平并大骂徐侍郎，紫苏联想到上次就是这位“郑公子”请动王振为允贤公堂之上说情，问郑齐是不是看上了她家小姐，郑齐虽嘲笑紫苏自作多情，却又不禁反问自己是否真的喜欢那个“臭丫头”。皇上得信后派人救出祁钰，祁钰不解为何上次他回京之时，皇上与太后尚且母慈子孝，如今却势同水火，皇上遂向祁钰道出，孙太后曾经为了夺子继而当上皇后不惜下毒害死了他的生母的真相，但皇上念及太后对他的养育之恩，原本打算息事宁人，等亲政后放她入冷宫养老，可如今太后竟欲夺权篡位，皇上再也无法视若无睹。撇开烦心事，皇上转而想到祁钰让汪美麟代他“宫绦传信”的事，误以为祁钰对汪美麟有情义，祁钰急忙否认，情急之下道出自己早有心上人。皇上追问祁钰的心上人是哪家“美女”，还要为祁钰做主促成姻缘，皇上并没有想到，祁钰的心上人正是他口中那个多管闲事的“臭丫头”。祁钰再次劝谏太后放弃扶立新君的念头，说此等夺权篡位的事终是难逃百姓史官的悠悠之口，也请太后念及皇上的一片孝心，认清王振等奸人的挑拨，太后亦决定重新考虑此事。静慈师太写信到杭家请允贤到永庆庵做客，可为何静慈师太的一封信就能让杭纲放女儿出家门呢？允贤只知静慈师太与皇室大有渊源，父亲当是对师太颇为敬畏。而静慈师太之所以请允贤前来，是想让允贤为庵中收留的难民们治病，可此时的允贤还未能走出自己“治死过人”以及间接牵连罗大娘惨死的阴影，崩溃痛哭。就在这时，郑齐又出现在永庆庵，对允贤一顿当头棒喝，才让允贤打开心结，重拾信心，为庵内难民医治伤病。次日，允贤为了此事向郑齐当面道谢，二人谈及朝政，允贤暗指当今皇上昏庸，郑齐遂将女子行医治病贬作青楼女子亦嫌弃的职业，一对冤家又不欢而散。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1327</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E07.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

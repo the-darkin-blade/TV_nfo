@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>赴日观战　雍容黑心</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>鱼跃在花见</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2620713</uniqueid>
+  <uniqueid default="false" type="trakt">7447911</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>至嬴决定　为兄参赛
+
+为了不使兄长失望地回香港，至嬴提出由自己代表参赛，至嚣虽然认为弟弟根本没有胜算，但看到至嬴一脸认真，只好决定留下。得到兄长默许，至嬴决定煮穴子鱼让众人了解自己的手艺，大家一致认为因为没有了适合的酱汁，所以没法提升当中的美味；至嚣更指出刀工亦是极重要的一环，因为要在四十五秒内把穴子鱼起肉，才可以保存到鱼的鲜味，但至嬴根本没有处理穴子鱼的经验……
+
+为了取胜　训练至嬴
+
+看到至嬴因经验不足而开始气馁，慕容澄替他打气，更指至嬴有体贴食客的心，所以尚有胜机。为了协助至嬴，慕容澄要他练跑，以提升握刀的气力，亦特意带他出海了解鱼生长的环境及到鱼市场学习挑选各式鱼类，而至嬴亦努力写下笔记……慕容澄示范切穴子鱼后让至嬴练习，可惜努力了半天，仍无法顺利把鱼切好，慕容澄终忍不住发火，在一旁的姜羌指责慕容澄，反要至嬴出面息事宁人。
+
+至嚣做物理治疗作复健，思茏从旁鼓励，但至嚣因欲缩短复原时间，竟私下加长运动时间，恩茏及时阻止他。姜羌在酒店休息时，梦见自己变成了小龙女，而杨过竟然是至嬴；惊醒的姜羌，终明白自己原来已恋上他……至嬴再次于慕容澄面前练习，结果仍无进步；至嬴被责骂后到海边散心，而姜羌为了替至嬴打气，特意扮作幪面超人唱歌，但仍无法令至嬴振作。
+
+为证明至嬴有能力在限定时间内完成切鱼取肉程序，姜羌竟说自己也能克服心魔，主动挑战处理穴子鱼……
+
+至嚣发现弟弟竟在短时间内练成刀功，暗感惊讶，而至嬴亦提出放弃调制酱汁，以白煮穴子鱼然后下调味料提升味道。思茏发现至嚣在厨房内欲练习制作寿司，最终却令手伤加剧；从医院离开后，至嚣支开思茏后失踪；思茏担心至嚣自寻短见，四出找寻下终觅到他，泪流满面的思茏忍不住向他说出一切事情的真相……
+
+至嬴成功　赢经营权
+
+姜羌努力用各种调味料作组合，终发现最适合为穴子鱼调味的方法，至嬴大表感激。
+
+决赛开始前雍容现身，说要亲眼看着至嬴兄弟惨败而特意到北海道。至嬴不负众人所托，终胜出取得经营权；当至嬴兴奋地与兄长分享时，至嚣提出要弟弟自己处理与决定新店的一切。
+
+思茏特意向至嚣辞行，更表示将不会在他面前出现，但至嚣竟向思茏示爱，请她留在自己身旁。众人到神社许愿，更各自把心愿写在绘马上，想不到至嚣竟写下……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2690</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>鱼跃在花见 Ep10_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

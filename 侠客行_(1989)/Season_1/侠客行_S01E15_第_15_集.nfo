@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:09:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 15 集</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>侠客行</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2494445</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>中玉见风头火势，决到天魔宫暂避，丁璫怀疑中玉不真是侠客岛使者，二人起争执，丁璫一怒离去。
+
+史婆婆欲撮合阿綉与破天，命二人同往购物，但破天念念不忘丁璫，阿诱黯然神伤，后二人巧遇丁璫，丁璫凭破天之武功，试出他并不是中玉，鼓励阿綉向天示爱。
+
+各派掌门纷纷接获奖善罚恶令，人心惶惶，海石亦自愿代长乐帮接令，前赴侠客岛。
+
+张逍李遥派奖罚恶令予中玉，中玉无法推搪，唯有接令，丁璫得知中玉并非侠客岛中人，与他和好。
+
+中玉与众女依依惜别，和海石、不三等人同船赴侠客岛，途中突然粮食全失，船员亦全部被杀，众人旁徨不已。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1556</width>
+        <height>1076</height>
+        <durationinseconds>2803</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E15.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>祁钰大婚后不同房</title>
+  <originaltitle>祁钰大婚后不同房</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id>5527098</id>
+  <uniqueid default="false" type="tmdb">1176456</uniqueid>
+  <uniqueid default="false" type="trakt">2159641</uniqueid>
+  <uniqueid default="true" type="tvdb">5527098</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>郕王与英宗一瞒再瞒，只是想允贤晚一天得知真相便可少一日伤心。可是纸终究包不住火，允贤终归还是从有心之人那里得知了这惊天消息。允贤不敢更不愿相信这一切，她亲自跑到郕王府外，看到的却是张灯结彩，正在进行的婚礼现场。此时的允贤多么希望一切都只是个恶作剧，可是小马子口中的每一个解释却都在戳破她的幻想。失魂落魄的允贤走在夜晚的湖边，那是她与郕王元宵灯夜定情许诺的地方。曾经的甜蜜心动都仿佛就在昨天，可此时那个原本应该属于自己的婚礼却早已换了新娘。一瞬之间，允贤仿佛在湖中看到了郕王的笑脸，仿佛飞蛾扑火一般，她竟纵身跳入了湖中去捕捉那个缥缈的幻影。此时，又是英宗这个永远守护的英雄，将她救上了岸边。那一个雨夜，英宗始终以朋友的身份陪在允贤的身边，听她倾诉心中的爱与怨。如果可以选择，允贤绝不想要一个这样牺牲换来的苟活。她理解郕王，却又忍不住恨他怨他，瞒着自己毁了两人一生一代一双人的美梦。此时的洞房之中，汪美麟将深明大义，善良贤德的王妃形象表演到了极致，成功地博得了郕王的怜爱与敬重。只是听闻郕王欲将允贤封为平妃的决定，握到发白的手指还是暴露了她的愤怒。虽然面上不露，可此时的汪美麟却是在心中将允贤诅咒了千遍万遍。即便如愿嫁进了郕王府中，她获得的也仍旧只有独守空闺的寂寞。为了允贤草草娶回了貌合神离的正妃，郕王却没有换来心上人的理解与原谅。也许在这一场风波中，看似享受齐人之福的郕王才是心里最苦的那个。从这一阵焦头烂额之中回过神来的郕王，终于对最近的一系列事端生出了怀疑。阴毒百变的汪国公与表里不一的郡主都是最大的嫌疑人。为此，郕王决定彻查汪国公。另外一边，重整旗鼓的允贤终于暂时走出了阴霾，重回御药房当差。只是允贤却没想到，她第一日当值迎来的便是气势汹汹的郕王妃汪美麟。整日在郕王面前伏小作低的汪美麟终于有了发泄怒气的出口，一番侮辱眼看无法奈何允贤，阴毒的郡主终于使出了威胁之计，瞬间便震住了将亲人朋友看得最重的允贤。汪美麟的威胁并非虚张声势，很快允贤便在家中发现了无端惨死的小猫。皇宫之中，皇后娘娘更是受到野猫的攻击，险些遭遇滑胎。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>1322</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E27.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

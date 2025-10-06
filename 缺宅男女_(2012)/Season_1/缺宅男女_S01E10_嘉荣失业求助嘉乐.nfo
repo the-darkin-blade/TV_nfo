@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>嘉荣失业求助嘉乐</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444966</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>一天忙碌的生活又再展开，嘉安与朗翘在没有生火工具的情况下，只好以面包作简单的早餐。朗翘开始积极地看报找工作，希望能尽快脱离这简陋的小房间，能自置物业。朗翘把垃圾丢弃时，竟遇上身上只穿内裤的邻居炳，朗翘被炳的猥亵模样吓得立即避回家中。当朗翘收拾心情准备执拾家居时，炳竟又再找上门；原来炳不小心跌了内裤在朗翘家的晾衣架上。
+
+朗翘见工　惨遭歧视
+
+朗翘与嘉安在大牌档吃饭时，将一天的不满尽情发泄，嘉安纵然明白却也只能叫妻子暂时忍耐，接受如此恶劣的生活环境。嘉安回到住所后竟一改作风，只穿内衣裤站在炳家门外，令炳大感愕然。
+
+朗翘到银行见工面试，但负责的同事却有年龄歧视，嫌弃朗翘年纪大，而不让她有复试的机会，令朗翘当场气炸。朗翘到另一公司见工，竟遭主管以她多年未有工作而压低薪酬。
+
+惹上绯闻　蔓华被斥
+
+蔓华与宏瞻闲话家常时，宏瞻说出了收购U&amp;T公关公司的计画，但进展并不顺利。宏瞻得悉卓先生亦有意收购同一公关公司后，即约他的侄儿Vincent饭聚，希望他能割爱相让。蔓华为助宏瞻能顺利收购公关公司，即刻意找卓先生饭聚；蔓华得悉卓先生正为家事而烦恼，即趁机表示有办法可助他一把。蔓华与卓先生饭聚一事被传媒大造文章，陈好看见报道后甚为不满，直斥蔓华不是。
+
+宏瞻得悉　妻子用心
+
+蔓华不想丈夫难堪，只好将找卓先生之目的藏于心中。宏瞻突然收到Vincent来电，他表示将放弃与宏瞻竞争收购公关公司，宏瞻看见杂志突然明白一切。宏瞻感激蔓华对自己的帮助，但蔓华却不以为然，表示一切也全为了丈夫。
+
+嘉乐将公司被收购一事通知冠峰，冠峰替嘉乐感到高兴，但嘉乐却因与男友见面的时间少了而感不悦。嘉康终把脚上的石膏拆下，开始慢慢锻炼脚的肌肉，希望能尽快康复。
+
+为了家人　强忍难处
+
+嘉安难得与家人一同吃饭，各人都关心他与朗翘的居住情况，但嘉安为不想家人难过，只得与朗翘有默契地报喜不报忧。
+
+冠峰为嘉乐购得演唱会门票，两人打算一起共度快乐晚上；嘉荣被辞退后仍未能找到新工作，只得终日四处乱逛。嘉荣快将用光金钱，只好把真相告知嘉乐，希望她能借钱给自己作日常开支。嘉乐收到人事部的加薪信，得悉自己将获得大幅度加薪后，竟感到难以置信……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1078</height>
+        <durationinseconds>2679</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>10_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

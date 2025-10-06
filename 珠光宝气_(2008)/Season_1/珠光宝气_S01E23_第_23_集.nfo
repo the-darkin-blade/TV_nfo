@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 23 集</title>
+  <originaltitle>Episode 23</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>433894</id>
+  <uniqueid default="false" type="tmdb">2299437</uniqueid>
+  <uniqueid default="false" type="trakt">1595960</uniqueid>
+  <uniqueid default="true" type="tvdb">433894</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雅思终于向泰禾坦白自己不会对他有爱情感觉，终令泰禾死心，而她更要求泰禾替她保守秘密。青杨发现在工厂的泰禾病倒又失落欲安慰他，但泰禾却不领情。青杨把雅瞳的戒指设计图交予怀德，怀德决定以这设计参加英国的比赛。怀德约见雅瞳，提出将她调派至珠宝设计部门，但雅瞳表示要考虑。子凌在路上赛车时，险些撞到雅瞳，但子凌恶人先告状痛骂了雅瞳一顿。启发看见此事，竟放火将子凌的跑车烧毁。警方在闭路电视看到纵火的是启发，更一路追查至雅瞳工作的地方，子凌一口咬定是雅瞳指使启发烧车。雅瞳为避嫌决意辞职，启发晚上找雅瞳见面，当得悉此事后，反以为怀德故意刁难雅瞳。翌日启竟闯进公司，更以刀胁持怀德。哲男与雅瞳午饭，得知雅瞳失业后，竟主动招揽她到自己公司担任秘书，令雅瞳不禁愕然。 雅思日渐得苇庭信任，被指派代她审评面试者，因此与旧下属Sharon再次合作。康家三姊妹逛街购物，雅瞳再遇上子凌，双方再起争执。筱柔发现哲男约雅瞳到公司面试，私自替雅瞳答应，雅瞳得悉后只得屈服。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>23_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

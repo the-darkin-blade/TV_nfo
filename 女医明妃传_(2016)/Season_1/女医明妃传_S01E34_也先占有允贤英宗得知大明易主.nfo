@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>也先占有允贤英宗得知大明易主</title>
+  <originaltitle>也先占有允贤英宗得知大明易主</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>34</episode>
+  <id>5540383</id>
+  <uniqueid default="false" type="tmdb">1176466</uniqueid>
+  <uniqueid default="false" type="trakt">2159648</uniqueid>
+  <uniqueid default="true" type="tvdb">5540383</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>无耻的瓦剌汗王阿噶多竟在宴会之上当着英宗的面妄图轻薄允贤。见此情形的英宗简直快要崩溃了，奈何身为阶下之囚，他即便使出再大的力气反抗也是蚍蜉撼树，难动分毫。抱着宁死也绝不受辱的决心，允贤夺下匕首当下便要自刎殉节，她最后深深地望向英宗一眼，那一瞥中充满了不舍与留恋，瞬间令英宗坠入了一片无力的绝望之中。千钧一发之际，多亏了也先的及时到来才将允贤挽救出了危局。一见也先到来，原本还耀武扬威的阿噶多立刻如泄了气的皮球一般，再不敢有一声言语。出乎意料的是，也先竟在众人面前霸气宣誓了自己对允贤的所有权。在也先的心中，占有允贤还显示着自己强于大明皇帝的实力，因为他征服了允贤这个霸占着大明两代君主心房的女人。也先这个说一不二的性子自然是看上了的就必然要得到。对待允贤，他已是志在必得之势。只是也先虽然鲁莽，但还不同于无耻的阿噶多，他更想要的还是允贤心甘情愿的顺服而非暴力的强迫。为了挑拨，程十三这个奸诈之徒在也先面前故意诬陷了允贤与英宗的清白。占有欲极强的也先自然难以容忍自己的女人曾经委身他人，满腔怒火顿时熊熊燃起。气急败坏的也先将怒火全数撒在了英宗身上，为了刺激这个被俘之君，他将大明易主的消息告诉了尚且一无所知的英宗。仿若五雷轰顶一般，英宗一瞬间便呆立在了当场。围观的所有人仿佛都在嘲笑他的愚蠢与自大，所有人都知晓了真相，唯独自己还如跳梁小丑一般自作多情地做着皇帝梦。绝望顷刻间击垮了英宗，将他逼得口吐鲜血，一时间病情凶险之极，连允贤都无能为力，只能死死按着他的人中拼命想要把他留在人世。允贤难以想象，这个始终保护自己关怀自己，如支柱般存在的男人若是离开自己，这个世界将会如何。紧要关头，还是脱不花郡主想出了最古老的法子来做最后一搏。众人将气若游丝的英宗塞进了新杀的牛肚子中感染血气，没有想到，这个死马当作活马医的法子竟真的将英宗从死亡线上拉了回来。英宗的这一次发病令也先倍感时机紧迫，他决定拖上尚未痊愈的英宗，定要赶在他有个三长两短之前拿下北京，拿下大明。允贤自然不会放心英宗单独上路，她也随军出征，一路照料病中的朱祁镇。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1327</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E34.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="34" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

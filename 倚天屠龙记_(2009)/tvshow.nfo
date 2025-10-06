@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:23 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>倚天屠龙记</title>
+  <originaltitle>倚天屠龙记</originaltitle>
+  <showtitle>倚天屠龙记</showtitle>
+  <sorttitle/>
+  <year>2009</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>5.5</value>
+      <votes>7</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>元朝末年，武当弟子张翠山与殷素素因屠龙刀卷入江湖纷争，自刎身亡，遗孤张无忌成长后成为明教教主，结识元朝郡主赵敏。两人渐生情愫，但周芷若的嫉妒和陷害让爱情备受考验。倚天剑与屠龙刀的现世引发武林正邪之争，令张无忌对与赵敏的爱情充满矛盾。
+
+　　改编自金庸所著的同名小说，由华夏视听环球传媒（北京）股份有限公司出品，刘毅等人担任编剧，于敏执导，邓超、安以轩、刘竞、何琢言、张檬等主演。</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"32008","imdb":"tt2082066","wikidata":"Q704837","tvdb":"115651"}</episodeguide>
+  <id>115651</id>
+  <imdbid>tt2082066</imdbid>
+  <tmdbid>32008</tmdbid>
+  <uniqueid default="false" type="tmdb">32008</uniqueid>
+  <uniqueid default="false" type="imdb">tt2082066</uniqueid>
+  <uniqueid default="false" type="wikidata">Q704837</uniqueid>
+  <uniqueid default="true" type="tvdb">115651</uniqueid>
+  <premiered>2009-10-23</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <genre>Action</genre>
+  <studio>Wenzhou TV</studio>
+  <country>中国</country>
+  <tag>wuxia</tag>
+  <tag>14th century</tag>
+  <tag>yuan dynasty</tag>
+  <actor>
+    <name>邓超</name>
+    <role>張無忌</role>
+    <profile>https://www.themoviedb.org/person/99689</profile>
+    <tmdbid>99689</tmdbid>
+  </actor>
+  <actor>
+    <name>何琢言</name>
+    <role>小昭</role>
+    <profile>https://www.themoviedb.org/person/1875682</profile>
+    <tmdbid>1875682</tmdbid>
+  </actor>
+  <actor>
+    <name>安以轩</name>
+    <role>趙敏</role>
+    <profile>https://www.themoviedb.org/person/1241442</profile>
+    <tmdbid>1241442</tmdbid>
+  </actor>
+  <actor>
+    <name>张檬</name>
+    <role>殷离</role>
+    <profile>https://www.themoviedb.org/person/1351540</profile>
+    <tmdbid>1351540</tmdbid>
+  </actor>
+  <actor>
+    <name>刘竞</name>
+    <role>周芷若</role>
+    <profile>https://www.themoviedb.org/person/2415398</profile>
+    <tmdbid>2415398</tmdbid>
+  </actor>
+  <actor>
+    <name>张智尧</name>
+    <role>张翠山</role>
+    <profile>https://www.themoviedb.org/person/78872</profile>
+    <tmdbid>78872</tmdbid>
+  </actor>
+  <actor>
+    <name>于承惠</name>
+    <role>张三丰</role>
+    <profile>https://www.themoviedb.org/person/64707</profile>
+    <tmdbid>64707</tmdbid>
+  </actor>
+  <actor>
+    <name>马羚</name>
+    <role>黛绮丝</role>
+    <profile>https://www.themoviedb.org/person/2328653</profile>
+    <tmdbid>2328653</tmdbid>
+  </actor>
+  <actor>
+    <name>王媛可</name>
+    <role>殷素素</role>
+    <profile>https://www.themoviedb.org/person/2091754</profile>
+    <tmdbid>2091754</tmdbid>
+  </actor>
+  <actor>
+    <name>臧金生</name>
+    <role>谢逊</role>
+    <profile>https://www.themoviedb.org/person/1117867</profile>
+    <tmdbid>1117867</tmdbid>
+  </actor>
+  <actor>
+    <name>谭非翎</name>
+    <role>成昆</role>
+    <profile>https://www.themoviedb.org/person/3214162</profile>
+    <tmdbid>3214162</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

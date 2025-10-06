@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:32 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 15 集</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>上海滩续集</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2493300</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>力对祥贵陷害强的行为极表不满，并对他大失信心。秋霞父亲祖贤的印书馆发生大火，损失惨重，祖贤迫着要将厂地卖掉，卖地契约签妥后，祖贤才发觉买主原来是镇昌，镇昌还故意奚落及刺激祖贤，祖贤卒病倒床上。镇昌心情兴奋，往打桌球，遇上祥贵，二人交谈甚欢，祥贵还唆摆镇昌再以说话刺激祖贤，镇昌果照做，而祖贤在再度受刺激之下，竟然与世长辞。秋霞往指责镇昌，镇昌知悉父死讯，顿感内疚和悲痛，虽然他用最好的棺木殓葬祖贤，仍感痛苦不安，往泳场闲荡，遇上燕燕，经燕燕一番劝解，镇昌心情始稍转平静。但镇昌因素对燕燕存有爱意，在无法抑制的情况下，他向燕燕施暴，云志赶至，为燕燕解围，并侮辱镇昌一顿。愤怒之际，镇昌奔往找力，欲与他合作杀云志，力犹豫，镇昌气极，又适被祥贵诸多唆摆，遂决定与祥贵合作杀云志。计划进行当天，镇昌依计行事，岂料发展却是出乎意料。</plot>
+  <runtime>38</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1562</width>
+        <height>1076</height>
+        <durationinseconds>2304</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E15.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

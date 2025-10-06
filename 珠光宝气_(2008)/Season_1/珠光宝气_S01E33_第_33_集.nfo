@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 33 集</title>
+  <originaltitle>Episode 33</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>33</episode>
+  <id>433904</id>
+  <uniqueid default="false" type="tmdb">2299447</uniqueid>
+  <uniqueid default="false" type="trakt">1595983</uniqueid>
+  <uniqueid default="true" type="tvdb">433904</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>晚上泰川与子凌等人喝酒作乐，但子凌仍因被泰禾掌掴而愤怒不已，泰川为了能与她维持朋友关系甘愿受罚灌酒。子凌看后仍不满意，竟提出要泰川在比赛中，将自己大哥淘汰才消气。世万出外吃饭时，三姨太文慧与大太太婉仪不约而同提醒他，外面盛传他已收了四姨太，要他小心流言，世万听到消息后大感不悦。日东发现长胜派人调查女大学生卓凝，忍不住好奇问他个中究竟，此时刚好雅言出现，长胜慌忙改变话题。事后长胜与日东坦言，不想雅言觉得自己像个「扯皮条」。卓凝成为了世万的新宠，而长胜则负责代世万照顾她。第二轮比赛评分时，子凌的队伍因为超支而被判输掉。苇庭提出让泰禾他们三人互选谁人要出局，最终泰禾被淘汰。子凌正欲称赞泰川时，却发现贺峰突然与泰禾见面，泰禾欲解释与雅思关系，但贺峰只想与泰禾交个朋友。长胜与雅言到澳门与越南华侨沈伯棠洽商，但却无功而回。筱柔在女儿出嫁前夕，对雅思表明一直帮助她，令雅思感动不已。婚礼举行当天，雅言衷心祝福雅思令她感动不已。长胜与日东出席婚礼时，发现伯棠突然晕倒，于是两人合力救他。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>33_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="33" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

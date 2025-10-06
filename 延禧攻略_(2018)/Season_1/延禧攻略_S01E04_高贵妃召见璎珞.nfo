@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>高贵妃召见璎珞</title>
+  <originaltitle>高贵妃召见璎珞</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id>6773140</id>
+  <uniqueid default="false" type="tmdb">1556704</uniqueid>
+  <uniqueid default="false" type="trakt">3096607</uniqueid>
+  <uniqueid default="true" type="tvdb">6773140</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>璎珞及时赶来阻止锦绣继续在傅恒面前出丑，锦绣不满璎珞破坏自己攀高枝的计划，对璎珞怀恨在心，气咻咻离开。随后，璎珞被傅恒所拦，告诫她不要小看宫里的男子，璎珞敷衍了他一番后匆匆离开。傅恒去长春宫探望皇后，见皇后因思念已逝的儿子永琏而茶饭不思神情恍惚，又生气又心疼，与她发生了争执，提醒她不要忘了自己皇后的身份，皇后恼恨，冲傅恒发了好大一通火气。两人不欢而散，傅恒临走前给皇后留下一只木匣，叮嘱她一定要看，皇后恍若未闻。离开长春宫后，傅恒路遇纯妃，他跪请纯妃帮忙，以相助皇后重新振作，纯妃答应。随后，纯妃去长春宫拜见皇后，借皇后身边伺候的宫女红螺到岁数离宫却因皇后近来精神不济而无人回禀被耽搁一事提醒皇后，皇后恍然大悟。纯妃走后，皇后打开木匣，发现乾隆元年皇上立永琏为储君的诏书，方知自己一直都误会了他，决心重新振作起来，担负起六宫之主的责任。次日，妃嫔来向皇后请安，高贵妃以为皇后又抱恙缺席，将与皇后交好的纯妃挑剔了一番后刚准备离开，皇后出现，斥责了高贵妃。随即，她又安抚了愉贵人。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2623</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep04.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>天堂威逼Pak-key交出欢喜</title>
+  <originaltitle>Episode 4</originaltitle>
+  <showtitle>使徒行者2</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">4039169</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>少锋担心Pak-key为保欢喜而影响吉运帮，Pak-key解释是知恩图报。卓凯和淑梅在泰国作长时间监视，希望能在Pak-key身边找回失联的卧底。此时Pak-key身边的一名亲信被认定是卧底，卓凯和淑梅展开营救行动，怎料对方反胁持淑梅。德信知悉长兴旗下的棱智财务公司有员工私自拉客放贷，亲自调查抽出主脑。主脑打算逃离香港，没想到正中德信引蛇出洞之计。天堂邀约Pak-key就欢喜的事面谈，并要胁他就范。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2633</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E04.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="4" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

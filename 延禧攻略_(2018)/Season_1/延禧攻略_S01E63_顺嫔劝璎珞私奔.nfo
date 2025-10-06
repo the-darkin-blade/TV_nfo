@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>顺嫔劝璎珞私奔</title>
+  <originaltitle>顺嫔劝璎珞私奔</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>63</episode>
+  <id>6779891</id>
+  <uniqueid default="false" type="tmdb">1556764</uniqueid>
+  <uniqueid default="false" type="trakt">3104736</uniqueid>
+  <uniqueid default="true" type="tvdb">6779891</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>继后把荒废的月露知音送到弘历面前，让弘历误以为璎珞心中从未有过自己，加深了两人之间的误会。璎珞口渴之际，痛苦万分，沉璧竟突然出现，苦苦劝说璎珞认清帝王无情，道出自己要报傅恒大人的恩，她要将璎珞与傅恒撮合，将明玉的死也归结为她报恩的一步。继后将风干的栀子花瓣送去养心殿，却被沉壁的人拦截下来，沉壁告诉璎珞，继后是想用她的手杀死璎珞。她直言自己可以帮助璎珞远走高飞，让她和傅恒过自由自在的日子。海兰察因明玉之死而失落不已，皇上斥责他不能振作自己，令人失望。霍兰部又起暗流，弘历命海兰察前往霍兰部，并交给他一项秘密任务。顺嫔告知傅恒，璎珞已经答应与傅恒远走高飞，让傅恒不要辜负璎珞。继后希望为贴身婢女珍儿寻找一个好归宿，珍儿却看中了袁春望，对他一吐心事。袁春望利用珍儿，在继后身边更受重用。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2629</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep63.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="63" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

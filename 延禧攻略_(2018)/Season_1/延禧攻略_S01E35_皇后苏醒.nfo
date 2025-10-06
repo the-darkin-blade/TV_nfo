@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:44 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>皇后苏醒</title>
+  <originaltitle>皇后苏醒</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>35</episode>
+  <id>6779677</id>
+  <uniqueid default="false" type="tmdb">1556736</uniqueid>
+  <uniqueid default="false" type="trakt">3104676</uniqueid>
+  <uniqueid default="true" type="tvdb">6779677</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>纯妃质问傅恒，为何要为魏璎珞迎娶一个根本不爱的女人，傅恒毫不容情地与她划清了界限，并将当年她偷偷藏在自己书里的络子换还给了她。纯妃伤心之余，回想起少女时期初见傅恒时的情形，心里悲戚。玉壶不忍心见纯妃伤心，索性告诉她，原来当年纯妃送给傅恒的情信，根本从未到过傅恒手中，纯妃愤怒至极，狠狠掌括玉壶。这时，娴贵妃带着刘嬷嬷来看望纯妃，纯妃若无其事地接待。在刘嬷嬷说自己是受了纯妃的指使去陷害璎珞时，纯妃矢口否认。虽然娴贵妃表面相信了纯妃说的话，可看着她意味深长的表情，纯妃心怀警惕。听闻傅恒另娶他人，锦绣等着看璎珞的笑话，谁知她重新振作精神，锦绣十分失望。随即，她用璎珞的秘密为由约见袁春望，袁春望十分警惕。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2625</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep35.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="35" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

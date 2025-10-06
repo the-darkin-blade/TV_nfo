@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:40 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>冷血成功完成任务</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>少年四大名捕</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>2305701</id>
+  <uniqueid default="false" type="tmdb">389793</uniqueid>
+  <uniqueid default="false" type="trakt">398216</uniqueid>
+  <uniqueid default="true" type="tvdb">2305701</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>铁手等向何强迫供，何强供出一个蔡京早安排了的矿场让他们救人；当捕快们救回矿工，却发现他们都变得痴呆。冷血独自一人追踪至山中发现了完颜充，为救掉下悬崖的他，冷血被毒蛇咬伤也舍命相救；当两人被杀手围攻时，幸铁手等人赶到解围。
+
+众人赶入山中救出被囚矿工并拿下蔡绦手下邓发，但却发现游冬与其他妇女已被污辱。因救出完颜充之功劳，皇上将冷血过往之罪一笔勾销。游冬回家后身体虽没大碍，但神智已混乱；铁手伤心不已，迫邓发供出主谋是蔡绦。铁手私下到相府向蔡绦讨回公道；铁手不敌蔡京之际，幸正我出现相救。蔡京的内应芷妍为助蔡绦脱罪，借治疗邓发时，将他妻子的发簪交予他以暗示会对付他家人。游冬自杀，铁手激动不已，追命请铁手原谅自己令游冬遇上不幸之事，若飞更出手教训追命以赔罪。
+
+邓发在狱中自杀，蔡京亦趁机约正我见面，明言如不将蔡绦牵涉入案中，他将拨出数百万両救济百姓；正我接受意见，在皇上前说出蔡绦没有犯罪。四大名捕为讨回公道，用计让一众苦主进入皇宫，令徽宗决定重罚蔡绦。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1878</width>
+        <height>1080</height>
+        <durationinseconds>2690</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Four.Ep17.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

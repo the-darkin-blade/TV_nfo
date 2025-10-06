@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:50 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>加敏逃避伟刚</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id>4575271</id>
+  <uniqueid default="false" type="tmdb">1743616</uniqueid>
+  <uniqueid default="false" type="trakt">3254374</uniqueid>
+  <uniqueid default="true" type="tvdb">4575271</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>楚君在生意上遭人欺骗，经济陷于困难，迫于向倪坤求助，却遭倪坤刻薄严斥一顿，令她自尊大损，含泪离去。楚君得有健鼓励下，终挺起胸膛面对困难，一改以往嬉戏度日的态度，到处寻找工作，令有健大感安慰。
+
+伟刚公干归家后，发现加敏与有康关系比前密切，暗生疑心，欲试探加敏，引起她不满。
+
+楚君在杂志社找得工作，一时未能摒除千金小姐的脾气，为同事引为笑柄。其后得有健督促鼓励下，改去不少陋习，表现得积极认真。
+
+李华终醒觉对有康之爱难有结果，伤心失望之余，决黯然搬离秀云家，令有健亦感不安。
+
+伟刚怀疑加敏暗中与有康发生感情，欲干涉其自由，阻止二人发展下去，反令加敏反感，刻意逃避与他见面。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1076</height>
+        <durationinseconds>1304</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E14.20181124.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Looking Back In Anger 20181124 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>1124</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1076</height>
+        <durationinseconds>1304</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E14.20181124.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1124" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

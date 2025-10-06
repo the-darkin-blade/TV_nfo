@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:43 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>娴妃化解危机</title>
+  <originaltitle>娴妃化解危机</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id>6776895</id>
+  <uniqueid default="false" type="tmdb">1556732</uniqueid>
+  <uniqueid default="false" type="trakt">3101715</uniqueid>
+  <uniqueid default="true" type="tvdb">6776895</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>娴妃得尽人心，在太后面前提议在地安门办赈灾棚施粥，太后应允。高贵妃不满被她夺了风头，纳兰氏建言献策，要让娴妃当众出丑。娴妃让辛者库的宫人协助她赈灾棚施粥，并且为了调动大家积极性，不仅答应给去帮忙的人一天假期调休，还给他们每人一两银子做劳务费。刘嬷嬷受托于傅恒，对璎珞多加照顾，借口娴妃给生病的宫人放假，不让她去帮忙施粥。与此同时，弘昼求见皇上，自请为太妃守灵三年，被皇上严厉训斥。弘昼失魂落魄地从养心殿出来后，遇到娴妃。看到弘昼一脸沮丧，娴妃巧妙开解，弘昼重新振作精神，决心不再辜负皇上的期待，努力做一番事情。娴妃去赈灾时，高贵妃派来的人故意捣乱，扰乱赈灾秩序，整个现场一团乱麻，袁春望一直暗中观察，伺机挺身而出，找出幕后黑手，随即弘昼带兵赶到，成功平息骚乱。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2621</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep31.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

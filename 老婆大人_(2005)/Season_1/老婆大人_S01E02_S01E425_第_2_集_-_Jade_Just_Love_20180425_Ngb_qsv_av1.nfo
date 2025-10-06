@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 2 集</title>
+  <originaltitle>Episode 2</originaltitle>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">543575</uniqueid>
+  <uniqueid default="false" type="tvrage">477162</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>扁头村居民，在庭外大闹希敏是「痴线婆」，被大官智雄听到，要控告他们悔辱裁判官，但希敏想息事宁人，大官只要居民说对不起便了事！唉！要一班围村佬向女人低头，虽然不服，但也怕再犯官非，只是含糊其辞，得过且过便算！但是大官发现德叔没出声，要他大声再说一次，国光最后要代父道歉。
+
+德通返回围村，觉得「忿忿不平」，又突然跑出屋外，国光狂追，见他走入了一幢簇新的西班牙别墅。经宝贝解释，原来别墅是建给国光一家人！但是在希敏的结婚协议书上的第一章第一节清楚列出：婚后不能与家公家婆同住！不过，通叔根本不知协议书一事，所以要儿子尽快搬回围村！
+
+数天后，通叔竟带同搬运工人上国光家帮他搬家俬回围村！国光阻止不了，唯有跟车返围村。期间，货车与律师苏亚基的车子发生碰撞。亚基下车拍照准备做迟到出庭的证供，但货车司机却要他立即赔钱，双方起了争执。国光下车了解，发现亚基是久别重逢的旧同学。国光知道亚基计仔多多，希望能献计解释为何梳化被搬走！亚基迟到上庭，刚巧裁判官便是希敏。当希敏正想责骂他有违专业守则时，亚基立即呈上交通失事的照片作解释之用。希敏返家，见到古惑的亚基竟与老公一起，有点不满，而且发现家中环境与以往有别。经亚基教路，国光指BB撤尿弄脏梳化，所以立即买回一套回来更新！
+
+通叔在围村等国光全家回来吃饭，虽然国光与阿B已到，但希敏仍未回来！其实，希敏并不知吃饭一事，却在家细阅亚基的迟到证据，发现家中梳化出现在照片中。经她一番推测，国光终于在半夜从实招来！希敏决定释法，附加条文解释何谓与家公同住，更加新条文禁止国光与损友苏亚基相约见面！翌日，希敏带搬运工人返围村搬回自己的梳化！</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1586</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E02.20180425.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Just Love 20180425 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>425</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1586</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E02.20180425.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="425" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

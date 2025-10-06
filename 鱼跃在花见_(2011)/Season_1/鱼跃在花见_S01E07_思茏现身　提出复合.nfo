@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>思茏现身　提出复合</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>鱼跃在花见</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2620709</uniqueid>
+  <uniqueid default="false" type="trakt">7447908</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>至嚣落败　大受打击
+
+在两位评判试食后，竟指至嚣的寿司出了问题，不能置信的至嚣把寿司放入口中时，终明白自己为何落败；看到评判指胜利者是正守所属的帝煌集团时，雍容忍不住放声大笑……因落败而放弃月泷纱的至嚣赶回店中，粗暴地质问下属是谁人出卖自己；当荣田等人不知所措时，至嬴主动向兄长说出真相。众人替至嬴说项指他应是有原因，至嬴只得向至嚣说出如他胜出雍容将对他不利，而这时思茏出现在店中……
+
+参加比赛　欲图再起
+
+思茏指欲向至嚣说出真相，因此要他出外与自己详谈；思茏坦白向至嚣说出一切都是由她设计策画，至嚣茫然不解，质问为何要陷害深爱的人，思茏说出她早知是谁人把父亲撞死……看见至嚣颓丧地坐在店中，至嬴忍不住再向兄长再三道歉，但至嚣终把怒气倾泻而出，两兄弟更扭打起来；冷静下来的至嚣终向弟弟说出思茏陷害自己的原因，他更要求至嬴不要向映思茏到雍容家覆命，从她的手中取支票后要求回家。当思茏回家后将收到的支票交予母亲，更指出有人出钱要自己对付当年令父亲死去的人；秀馨不认同女儿的做法，更把支票退还给女儿……至嚣兄弟两人回家吃饭，至嚣将店的锁匙交出说不会与雍容见面；姜羌见状欲以过来人身分劝至嚣放下尊严面对现实，但反而被他狠狠责骂一顿，令姜羌气得离家出走……
+
+当姜羌的怒火消退后，却不幸发现自己迷了路；正当她旁徨不已时，竟发觉至嬴为她画了一本「平民手册」……翌日雍容偕亦匡到达月泷纱，更要装修工人把招牌拆下后让自己辗过。之后雍容要映月靠近自己，然后一巴掌掴向她；想不到是映月竟不理痛楚诚恳地再向她道歉……唐奥步进店中，主动将一个公文袋交给至嬴；在公园心情烦躁的至嚣欲吸烟之际，至嬴出现阻止兄长，更给他看唐奥交给他，有关连锁寿司店经营权争夺比赛的参赛表格。
+
+为寻亲人　再赴日本
+
+至嚣答应弟弟，如他能在一星期内煮出美味的醋饭，便答应参赛，于是至嬴与姜羌合力用不同的米来试味，以找出最好的组合。得各人的协助，至嬴顺利说服哥哥参赛；姜羌在家中翻看与养父母的合照时，发现中间混有一张自己与亲生母亲的合照。当至嚣与弟弟到达北海道时，竟发现姜羌亦下塌在同一间旅馆；另一方面，慕容澄向在旅馆工作千代子查问有关妻女的下落，但却无发现。至嚣突然看见思茏在北海道出现，她竟向至嚣说出欲与他重新开始……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2692</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>鱼跃在花见 Ep07_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:36 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>偶然参加　生日庆祝会</title>
+  <originaltitle>Episode 2</originaltitle>
+  <showtitle>鱼跃在花见</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2620702</uniqueid>
+  <uniqueid default="false" type="trakt">7447903</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>至嚣公开　雍容诡计
+
+虽然面对雍容请来了高手宗师傅及使用了活生生的高级「真鲷」来参赛，但至嚣仍决定使用由弟弟带回来的次级鲷鱼「血鲷」参赛；当双方将寿司制作完成后，众评判对宗师傅的手艺大赞，但当吃至嚣的寿司时，却震惊得说不出话……经唐奥的解释后，大家才明白至嚣是以出色得手艺赢得比赛；至嬴高兴地向兄长说出因比赛效应而寿司店生意大好，但至嚣却严肃地向由日本回来不久的弟弟说出，现在的食材是来自世界各地，昂贵不已……
+
+至嬴恳求　高手协助
+
+至嚣看到雍容传给至嬴的短讯后，直接冲到帝煌集团的会议室，更向董事公开雍容运用集团的财力来针对月泷纱之事……至嚣离开时经过昔日辉煌的主席房间，忍不住坐上父亲曾坐的大班椅。
+
+雍容自会议后欲回到主席房，而思茏竟不自觉地替至嚣拖延时间……思茏最后因为介入雍容与至嚣的争执中，结果令自己的音乐播放机被弄坏。
+
+思茏的母亲秀馨向女儿提出一起参加亲戚的婚宴，但思茏却只是冷淡应对；思茏发现与弟弟思朗的视像会议接上了，因此便与秀馨一起兴致勃勃地与外国就学的弟弟通话。秀馨指女儿其实不用这么辛苦去支撑家庭及供弟弟到外国读书，更劝她应动用家中拥有的金钱；思茏听后面色一沉……
+
+至嚣找唐奥，与他商量由北海道输入海鲜之事，唐奥说出在北海道有位出色的买手……
+
+至嬴重回北海道，更使出三寸不烂之舌，向既是香港人，也是慕容澄好友的嘉穗套取有关他的资料，得知原来廿多年前慕容澄太太与女儿离开，他才开始变得孤僻。一脸不悦的慕容澄回家时，却突然发现家中竟煮了中式糯米饭而不禁大喜；正当慕容澄高兴地吃糯米饭时，至嬴与嘉穗出现，至嬴更指这饭是自己带来的手信；至嬴为了请慕容澄协助自己当买手，竟主动提出要与他斗酒，结果最终醉倒在慕容澄家中……
+
+至嬴姜羌　再次相遇
+
+早上醒来的至嬴，缠着嘉穗才得知慕容澄到了海边，于是便前去找他；为了想慕容澄心情变好，至嬴取去了慕容澄女儿小时候所带的小佛像欲变魔术，结果竟令小佛像掉到海中……思茏到影音店欲购回音乐播放器时遇上至嚣，原来他特意到影音店买机赔偿她；思茏感谢至嚣的细心，向他暗示了雍容正进行一个计画。寿司店突然停电，但至嚣仍是成功令贵宾感到满意……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2684</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>鱼跃在花见 Ep02_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

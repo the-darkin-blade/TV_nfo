@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:09:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 8 集</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>侠客行</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2494438</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>珊瑚、冬儿及侍剑不敌被擒，不三不四逼中玉就范，中玉不肯，丁璫无奈与三女共侍中玉。
+
+中玉毒发，珊瑚等束手无策，海石寻至，以九转还魂丹镇压中玉之毒，但必须每月服食一粒才可保命，藉此威逼中玉返回长乐帮，中玉唯答允每月返长乐帮一次。
+
+冬儿重遇倪婆婆，深感愧对倪家，毅然离开中玉，与倪婆婆等赴徐州杀天行。中玉不舍与冬儿分离，赶赴徐州寻找冬儿。
+
+中玉途中遇张逍李遥，误打误撞下，饮了二人之毒酒，功力大增，把剧毒凝聚于掌中，三人并结拜为兄弟。
+
+中玉抵达徐州，遇倪婆婆等人与天行恶斗，倪家各人不敌，死伤惨重，中玉挺身救冬儿，以毒掌打伤天行，天行逃去，倪婆婆临终把谷主之位传于中玉，要他照顾倪家各人。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1552</width>
+        <height>1080</height>
+        <durationinseconds>2793</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E08.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

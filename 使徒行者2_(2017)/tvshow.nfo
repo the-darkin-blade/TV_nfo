@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>使徒行者2</title>
+  <originaltitle>使徒行者2</originaltitle>
+  <showtitle>使徒行者2</showtitle>
+  <sorttitle/>
+  <year>2017</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>1</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>2010年，CIB高級督察卓凱(苗僑偉飾)帶同五個臥底到泰國行動，手下臥底全部葬身火海，只有他一人歸來，隨後連好友黎瑞權(張兆輝飾)亦無端喪命。卓凱不想再有臥底犧牲，決定尋找瑞權旗下的所有臥底，把他們從水深火熱的江湖中拯救回來！
+
+卓凱先遇到「新紮臥底」鄭淑梅(黃翠如飾)，她還未接受臥底特訓便痛失上司，兼失去了警員身份。迫於無奈下，卓凱只能與淑梅一同搜集證據，查看誰是「自己人」。
+
+社團大變動  一個字頭的誕生
+
+香港最大的社團長興人手出現變動，魏德信(陳豪飾)成為新任龍頭，決意要剿滅社團內老一輩的高級頭目，包括覃歡喜(許紹雄飾)在內。歡喜逃過一劫卻失去愛妻，他逃到泰國找當地華人街黑幫頭目Pak-key(黃德斌飾)庇護，而德信亦派出手下徐天堂(袁偉豪飾)到曼谷，逼弼奇交出歡喜。Pak-key力挺歡喜之際，意外身亡，歡喜乘機偷走他的毒品，返回香港另起社團，取名為福和，與德信勢不兩立。
+
+卓凱與淑梅合力調查德信的組織，期間認識了弼奇的得力助手樂少鋒(周柏豪飾)。淑梅受命混入長興的高級會所工作，認識了徐天堂，還得到專替德信處理黑錢生意的施嘉莉(宣萱飾)的賞識，成為助理。另一邊廂，少鋒主動加入福和，密謀替Pak-key報仇，並漸漸成為福和主力骨幹，與淑梅經常見面，兩人關係逐漸親密起來。
+
+民間CIB  剷除黑警惡勢力
+
+由德信操控的黑警勢力不斷擴張，與瑞權的死有莫大關係。卓凱為查清真相，着手招募新人，組成一個民間CIB團隊，支援他與淑梅的行動。
+
+黑警集團與德信裏應外合，製造一次重大危機，令CIB陷入癱瘓狀態，卓凱不得不與歡喜聯手，與黑警展開連場惡戰！信任與背叛重複上演，卓凱誓要將德信等惡勢力連根拔起，德信拼死反撲，一眾臥底被列入「必殺」名單，最終能否逃過這一劫？</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"197977","imdb":"tt10980808","tvdb":"335957"}</episodeguide>
+  <id>335957</id>
+  <imdbid>tt10980808</imdbid>
+  <tmdbid>197977</tmdbid>
+  <uniqueid default="false" type="tmdb">197977</uniqueid>
+  <uniqueid default="false" type="imdb">tt10980808</uniqueid>
+  <uniqueid default="true" type="tvdb">335957</uniqueid>
+  <premiered>2017-09-18</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <tag>卓凯</tag>
+  <tag>覃欢喜</tag>
+  <tag>卧底</tag>
+  <actor>
+    <name>苗侨伟</name>
+    <role>卓凯</role>
+    <profile>https://www.themoviedb.org/person/236075</profile>
+    <tmdbid>236075</tmdbid>
+  </actor>
+  <actor>
+    <name>宣萱</name>
+    <role>施嘉莉</role>
+    <profile>https://www.themoviedb.org/person/230777</profile>
+    <tmdbid>230777</tmdbid>
+  </actor>
+  <actor>
+    <name>陈豪</name>
+    <role>魏德信</role>
+    <profile>https://www.themoviedb.org/person/551869</profile>
+    <tmdbid>551869</tmdbid>
+  </actor>
+  <actor>
+    <name>周柏豪</name>
+    <role>乐少锋</role>
+    <profile>https://www.themoviedb.org/person/1123831</profile>
+    <tmdbid>1123831</tmdbid>
+  </actor>
+  <actor>
+    <name>黄翠如</name>
+    <role>郑淑梅</role>
+    <profile>https://www.themoviedb.org/person/227741</profile>
+    <tmdbid>227741</tmdbid>
+  </actor>
+  <actor>
+    <name>许绍雄</name>
+    <role>覃欢喜</role>
+    <profile>https://www.themoviedb.org/person/63582</profile>
+    <tmdbid>63582</tmdbid>
+  </actor>
+  <actor>
+    <name>张兆辉</name>
+    <role>黎瑞权</role>
+    <profile>https://www.themoviedb.org/person/72732</profile>
+    <tmdbid>72732</tmdbid>
+  </actor>
+  <actor>
+    <name>欧瑞伟</name>
+    <role>康道行</role>
+    <profile>https://www.themoviedb.org/person/1365933</profile>
+    <tmdbid>1365933</tmdbid>
+  </actor>
+  <actor>
+    <name>林伟</name>
+    <role>猜Fing</role>
+    <profile>https://www.themoviedb.org/person/1400158</profile>
+    <tmdbid>1400158</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

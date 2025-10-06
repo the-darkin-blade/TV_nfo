@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 17 集</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id>433888</id>
+  <uniqueid default="false" type="tmdb">2299431</uniqueid>
+  <uniqueid default="false" type="trakt">1595947</uniqueid>
+  <uniqueid default="true" type="tvdb">433888</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雅思决定辞职，筱柔相信女儿实力而支持她。雅思到苇庭所开设全港最大的公关公司求职。雅思不惜躲进厕所等苇庭，虽场面尴尬但成功令苇庭对她留下印象。客人金先生不慎遗下结婚戒指，雅瞳欲将戒指带到婚姻注册处，却不慎令戒指跌出路中心，启发见状不顾一切冲出马路替她拾回却因此受伤。雅瞳往设计班上课时，发现启发一直私下替自己所做的事，大受感动下终接受他。哲男与雅瞳相遇，雅瞳为报在游艇上被差遣之仇，在哲男的咖啡中做了手脚。哲男进入厕所，不久后竟传出有人晕倒。雅思再次到苇庭的公关公司面试，在苇庭的提问下，雅思坦言自己的优、缺点后，竟获得聘用担任公关工作。启发与雅瞳成为情侣，但雅瞳不欲家人发觉，执意要与启发维持「地下情」。哲男被传媒报道在竞争上败给长胜而心情低落，更因迁怒女友而被她当街指责。看到被女友泼得满身咖啡的哲男，雅瞳主动递上纸巾。为答谢雅瞳的帮忙，哲男请她吃饭。启发看见雅瞳与哲男一起，不禁吃醋起来。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>17_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

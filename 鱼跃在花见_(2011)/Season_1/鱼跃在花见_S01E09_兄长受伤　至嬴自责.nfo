@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>兄长受伤　至嬴自责</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>鱼跃在花见</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2620712</uniqueid>
+  <uniqueid default="false" type="trakt">7447910</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>至嬴施计　寻得协助
+
+至嬴回到旅馆时发现姜羌已带着行李，在街上等车往机场；至嬴不欲姜羌父女再次分离，决定使出激将法让她留下；姜羌赌气决定留下，至嬴亦顺理成章要求她协助自己应付比赛……至嬴偕姜羌再次拜会慕容澄，吓得他以为至嬴已说出了秘密；慕容澄在姜羌请求下终答应协助至嚣兄弟当比赛买手，为了能制作出色的醋饭，慕容澄带他们到制醋厂，更从厂中的师傅手中取得优质饭醋。
+
+姜羌发现　嘉穗对象
+
+当至嚣与思茏在红叶下漫步回旅馆时，至嚣因发现至嬴与姜羌，竟把牵着她的手放开，更要她回避；至嚣向弟弟打招呼，至嬴没有发现兄长的异样，但姜羌却似有所发现。至嚣再与思茏会合，更向她解释不想两人复合之事被至嬴得知，因怕会令他心情低落影响比赛。两人离开时，思茏问至嚣附近有否书店，指昔日在香港看到的一本翻译漫画没有看到结局，所以想找找看；至嚣反问她如买到后是否能看懂内容……
+
+姜羌与至嬴说出估计思茏与至嚣复合之事，至嬴表面上无异样，但心情却低落起来；姜羌看到后努力替他打气，但至嬴说出不是介意两人之事，反而是对至嚣担心自己会被此事影响而无法释怀……当两人坐在长椅上时，至嬴突然说出一句「友达以上，恋人以上」意义不明的说话，令姜羌吓了一跳；早上至嚣兄弟两人到鱼市场寻觅决赛所用的穴子鱼（anago），但至嚣发现大部分也是人工养殖，这时至嬴再次劝兄长与慕容澄见面。
+
+当至嬴带兄长到码头时，至嚣发现姜羌与嘉穗等人亦在，而慕容澄亦做好了出海的准备；至嬴欲游说姜羌与他们一起上船，慕容澄听后暗自高兴，但姜羌却说自己最怕穴子鱼这类「滑溜溜」的鱼……三人出鱼后，至嚣发现由渔网所捉的穴子鱼身有损伤而不合做上等寿司，想不到这时慕容澄已成功钓了一尾肥美的穴子鱼给他；另一方面，姜羌与嘉穗两人在岸上边吃便当边等他们时，姜羌发现嘉穗原来喜欢上慕容澄而不自知。
+
+至嚣伤手　意志消沉
+
+至嚣与思茏约会时，突然把她欲找的漫画取出，而至嚣更向她解释漫画的结局是非常圆满；思茏为至嚣的细心而感动不已。
+
+当众人准备试吃至嚣精制的穴子鱼寿司时，至嚣终介绍思茏与大家见面。至嚣兄弟回房间时，突然发现秘制的酱汁竟然被打翻倒在地上；没法寻得替代品的至嚣，竟接受了思茏带来不明来历的酱汁……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2690</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>鱼跃在花见 Ep09_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

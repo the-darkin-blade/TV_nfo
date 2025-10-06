@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:00:06 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>僵</title>
+  <originaltitle>殭</originaltitle>
+  <showtitle>僵</showtitle>
+  <sorttitle/>
+  <year>2016</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>7.0</value>
+      <votes>2</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>活著（郑嘉颖 饰）是拥有不死之身的僵尸猎人，他隐藏了真实的身份，希望有朝一日能够捕获和自己有着百年怨仇的僵尸凌风（陈山聪 饰）。何年（黄又南 饰）、何月（陈嘉宝 饰）和简霆斯（陆永 饰）是活著的徒弟，活著教授他们猎杀僵尸的本领，一行人是活著极为信任的左膀右臂。一次偶然中，活著得知有一名拥有着特异功能的女法医梦南（谢安琪 饰），她能够同尸体对话一分钟。不出活著所料，梦南正是藏身在人类之中的僵尸。活著想要杀死梦南以尽职责，却遭到了梦南的祖母黄紫红（罗兰 饰）的苦苦阻拦，再加之梦南一直抑制本性从未伤害过人类，活著对她网开一面。某日，梦兰在妹妹梦瑶（陈凯琳 饰）的面前不慎露出了真面目，使得梦瑶惊吓过度精神崩溃，活著留在了梦瑶的身边，悉心照料着她。</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"83128","imdb":"tt11575364","wikidata":"Q20063642","tvdb":"310133"}</episodeguide>
+  <id>310133</id>
+  <imdbid>tt11575364</imdbid>
+  <tmdbid>83128</tmdbid>
+  <uniqueid default="false" type="tmdb">83128</uniqueid>
+  <uniqueid default="false" type="imdb">tt11575364</uniqueid>
+  <uniqueid default="false" type="wikidata">Q20063642</uniqueid>
+  <uniqueid default="true" type="tvdb">310133</uniqueid>
+  <premiered>2016-04-11</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <genre>Science Fiction</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <tag>martial arts</tag>
+  <tag>zombie</tag>
+  <tag>fashion</tag>
+  <tag>visual effects</tag>
+  <tag>modern drama</tag>
+  <actor>
+    <name>郑嘉颖</name>
+    <role>Ying Wuet Tseuk</role>
+    <profile>https://www.themoviedb.org/person/1140044</profile>
+    <tmdbid>1140044</tmdbid>
+  </actor>
+  <actor>
+    <name>谢安琪</name>
+    <role>Lam Mung Nam</role>
+    <profile>https://www.themoviedb.org/person/231723</profile>
+    <tmdbid>231723</tmdbid>
+  </actor>
+  <actor>
+    <name>陈凯琳</name>
+    <role>Lam Mung Yiu / "YoYo" /	Sheung Koon Kam Ling</role>
+    <profile>https://www.themoviedb.org/person/2167972</profile>
+    <tmdbid>2167972</tmdbid>
+  </actor>
+  <actor>
+    <name>关礼杰</name>
+    <role>Pong Ying Tin</role>
+    <profile>https://www.themoviedb.org/person/1276972</profile>
+    <tmdbid>1276972</tmdbid>
+  </actor>
+  <actor>
+    <name>陈山聪</name>
+    <role>Ling Fung</role>
+    <profile>https://www.themoviedb.org/person/1218777</profile>
+    <tmdbid>1218777</tmdbid>
+  </actor>
+  <actor>
+    <name>黄又南</name>
+    <role>Ho Nin</role>
+    <profile>https://www.themoviedb.org/person/105422</profile>
+    <tmdbid>105422</tmdbid>
+  </actor>
+  <actor>
+    <name>陈嘉宝</name>
+    <role>Ho Yuet</role>
+    <profile>https://www.themoviedb.org/person/1278468</profile>
+    <tmdbid>1278468</tmdbid>
+  </actor>
+  <actor>
+    <name>赖慰玲</name>
+    <role>Yau Ling Mui / "Ghost"</role>
+    <profile>https://www.themoviedb.org/person/2064586</profile>
+    <tmdbid>2064586</tmdbid>
+  </actor>
+  <actor>
+    <name>陆永</name>
+    <role>Kwan Ting Si / C Kwan</role>
+    <profile>https://www.themoviedb.org/person/1173596</profile>
+    <tmdbid>1173596</tmdbid>
+  </actor>
+  <actor>
+    <name>刘佩玥</name>
+    <role>Lau Ying Yi / "Rosa"</role>
+    <profile>https://www.themoviedb.org/person/2363302</profile>
+    <tmdbid>2363302</tmdbid>
+  </actor>
+  <actor>
+    <name>胡鸿钧</name>
+    <role>Pong Kit</role>
+    <profile>https://www.themoviedb.org/person/2071065</profile>
+    <tmdbid>2071065</tmdbid>
+  </actor>
+  <actor>
+    <name>罗兰</name>
+    <role>Lam Wong Chi Hung</role>
+    <profile>https://www.themoviedb.org/person/548053</profile>
+    <tmdbid>548053</tmdbid>
+  </actor>
+  <actor>
+    <name>秦煌</name>
+    <role>Kam Kin</role>
+    <profile>https://www.themoviedb.org/person/224034</profile>
+    <tmdbid>224034</tmdbid>
+  </actor>
+  <actor>
+    <name>冯伟林</name>
+    <role>Tsui Lung-chu</role>
+    <profile>https://www.themoviedb.org/person/4027419</profile>
+    <tmdbid>4027419</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

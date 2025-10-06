@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>宏瞻安排嘉乐见韩星</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444967</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>嘉安放工回家吃饭时，向朗翘试探有否与旧朋友见面，朗翘为免丈夫胡思乱想，即告知他自己与杨忠伟重遇一事。嘉安回想起当初忠伟与自己一起追求朗翘，结果是嘉安成功打败忠伟，夺得朗翘芳心。朗翘得忠伟相助，顺利到万基银行工作；朗翘为首天上班而做准备，心中紧张万分。朗翘看见多年前的同事Annie也在同一分行工作，即感安心亦对未来充满信心。
+
+重投工作　心情忐忑
+
+朗翘因多年未有接触银行工作，故很多事也要重新学习，忠伟要求朗翘考取「财务策划」的牌照，才让朗翘进一步处理更多银行业务。朗翘虽有一腔热诚工作，但对自己的工作环境脱节与实力不足还是感到忧虑，因此亦想尽快考获牌照。
+
+午饭时间，朗翘与Annie终有交谈的机会，朗翘得知Annie已有物业，不禁感到十分羡慕。
+
+放工回家　遇上鼠尸
+
+朗翘放工后拖着疲累的身躯回家，未踏入家门即看见一死老鼠在地上；朗翘被吓得立即冲下楼不敢回家。朗翘心慌意乱下致电给嘉安求救，但嘉安又忙得未能立即回家帮助，结果朗翘只得在街上呆等。忠伟把朗翘遗漏了的文件送回给她，却看见朗翘独自在街上徘徊，不禁大感奇怪。忠伟得悉因由后，即二话不说替朗翘处理鼠尸，朗翘为此感激不已。
+
+嘉安发现　情敌到访
+
+嘉安回家看见忠伟竟到访其家，大感错愕，因不想让忠伟看见其居所如此不济。嘉安买下大量灭鼠药，希望让妻子安心；朗翘明白嘉安爱惜自己心存感激。旧楼翻新工程完成，宏瞻为大力推广宣传工作，于是要公关部门制定一连串的计画；公关部开会时，各人为找广告代言人而各有提议，嘉乐兴奋地提议可找韩国明星Randy为楼盘作推广，宏瞻不动声色听在耳中。
+
+提出赔偿　潇洒拒绝
+
+卜琼终找到嘉荣的联络电话，于是立即约他见面；嘉荣认出卜琼是连累自己失去工作的人，即把她怒骂了一顿。卜琼为表歉意，提出愿赔偿五百元给嘉荣，嘉荣毫不在乎地表示不用赔偿便离开；卜琼死缠嘉荣，表示要介绍新工作给他，但嘉荣感卜琼为人奇怪于是拒绝了她的好意。嘉康为尽快找到工作而到处见工，可惜伤患尚未完全康复，加上没有良好学历而处处碰壁。嘉康把心一横想再尝试驾驶客货车工作，却又因脚部不灵活而再弄出交通意外，嘉荣收到通知后立即赶医院。嘉荣不想嘉康面对沉重的经济压力，只好找卜琼相助；卜琼果真顺利助嘉荣获得一份高级会所的工作……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1078</height>
+        <durationinseconds>2681</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>11_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

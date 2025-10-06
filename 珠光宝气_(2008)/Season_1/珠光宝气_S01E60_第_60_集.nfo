@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:46 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 60 集</title>
+  <originaltitle>Episode 60</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>60</episode>
+  <id>433930</id>
+  <uniqueid default="false" type="tmdb">2299474</uniqueid>
+  <uniqueid default="false" type="trakt">1596050</uniqueid>
+  <uniqueid default="true" type="tvdb">433930</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雅瞳终回到香港，更向家人宣布将长住。此时雅言亦带了雅思的儿子到康家，令举家气氛变得喜气洋洋。雅瞳说出欲加入青杨的珠宝公司协助父亲，筱柔与青杨听后亦放下心头大石。雅言与雅思两姊妹私下倾谈，雅瞳说出自己已想通了一切，但雅言则说雅思仍对二年前发生的事情耿耿于怀。筱柔到雅思公司欲邀约女儿回家与雅瞳吃饭，可惜无功而回。筱柔突然被车祸意外死者的母亲麦太袭击，混乱中更被麦太逃去。雅瞳发现麦太一直也骚扰筱柔，但筱柔却要求警方低调处理，因不想让雅思得悉此事。雅思通知哲男，由他负责的「绿化都会」计画的内容，将会增加单位数目而减少绿化地区，对于亡母设计的计画被大幅改动令哲男大为不满。雅瞳回旧居欲搬回纪念品，遍寻不获只好致电给哲男询问。麦太跟踪雅瞳而到医院，更因此得悉事实的真相。哲男认为雅思收买世基以权谋私，更成功令世基主动向贺峰说出雅思的所作所为，哲男希望可以与父亲修补关系。哲男借送回纪念品给雅瞳而与她见面，可惜被她冷待。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>60_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="60" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:17 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>允贤英宗共渡春节元宵</title>
+  <originaltitle>允贤英宗共渡春节元宵</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>5527083</id>
+  <uniqueid default="false" type="tmdb">1176440</uniqueid>
+  <uniqueid default="false" type="trakt">2159626</uniqueid>
+  <uniqueid default="true" type="tvdb">5527083</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>与允贤的感情渐入佳境，郕王浑身上下都散发着甜蜜的恋爱气息，连英宗都看出了他的春风得意。只是此时朝局震荡不安，一切尚未尘埃落定。为了等待一个合适的时机，更为了给允贤一个安稳的未来，郕王婉言谢绝了皇兄的指婚。可是英宗给他的元宵灯节约会爱人的提议还是让郕王如获至宝，他立刻迫不及待地向允贤递出了邀约。收到心上人递上的信笺，允贤忍不住扬起了嘴角，心中暗暗期待着即将到来的甜蜜约会。新春夜宴之上，英宗与郕王刻意营造的不合之态轻轻松松便骗过了众人。这一举动更是恰好帮郕王解了太后突然赐婚的危局。已然撕破了脸面的英宗与太后毫无顾忌地相互嘲讽起来。可是姜到底还是老的辣，太后的一番言语狠狠地击中了英宗心中最大的痛点，无言以对的他愤然离场，将目瞪口呆的众人抛在了当场。这偌大的皇宫，偌大的京城，英宗却仿佛无处可去。不知不觉间，竟已是走到了杭府门口。允贤望着那个平日里飞扬跋扈的少年今日却无比孤独落寞的身影，不知为何心中竟是一痛，满心想的都是如何抚去那人眼中的寂寥。允贤搬出酒水吃食，静静陪在了英宗身旁。她可能不会想到，对英宗来说，这独属于他们二人的新春之夜将是他一生中最美的回忆。口中微凉的食物在他眼中却是比任何一道珍馐佳肴都要温热，都要美味的。在漫天飞雪之中，他们依偎相伴的身影映得两旁艳丽的梅花都仿佛失去了颜色。只是望着天空中斑斓绚丽的烟火，英宗不禁忆起了自己过世的母妃。这伤感的气氛让一旁的允贤也不禁湿了眼眶。她不忍看英宗沉浸于悲伤之中，绞尽脑汁地想要劝慰。最后，天性乐观的她用一番好人好报的理论成功逗笑了英宗，更让英宗对眼前这个可爱的小女子的情意加深了一分。郕王与允贤翘首以盼的元宵灯节终于到来。可是夜幕降临，郕王却被郡主一家缠住了脚步。难以推脱的盛情让郕王进退两难，心中对允贤的惦念更是将他折磨得坐立难安。终于寻了一个机会的郕王匆匆想要脱身，谁料执着的郡主汪美麟却巴巴地追了出来。 最终，难耐纠缠的郕王终于对郡主挑明了心思，将伤心欲绝的汪美麟抛在了当场，决绝离去。另一边，对此一无所知的允贤还在两人约定的地点苦苦等候着心上人的到来。然而，时间的缘分就是如此奇妙，虽然迟迟不见郕王的身影，与英宗的巧遇却也带给了允贤一个充满惊喜的元宵之夜。临别之时，英宗更是将两人猜灯谜赢来的玉镯强硬地戴在了允贤腕间。虽然心中早已对允贤情根深种，但爱面子的英宗还是不愿吐露一丝爱意，反而口是心非地让允贤不要自作多情。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1322</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E12.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

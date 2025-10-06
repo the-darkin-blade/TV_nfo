@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 17 集</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">543571</uniqueid>
+  <uniqueid default="false" type="tvrage">477147</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>希敏被控告在书店偷窃，国光、戴官和Yoyo陪她离开警局。国光本想安慰老婆，但希敏想自己冷静一下，提早回家。Diana知道女儿会在庭上自辩，怕她会脾气不好而出口顶撞人，所以劝她叫高天帮手找一级大状做辩护！希敏憎恨父亲入心入肺，婉拒了母亲的建议。
+
+到目前为止，只有Yoyo看见事发经过兼做了控方证人，国光希望她可帮帮老婆！可是在庭上，Yoyo处处针对希敏，情况对希敏不利！戴官知道希敏因受自己影响，才造成精神恍惚而大意取了书本离开，决定上庭为希敏脱罪！可是，他却怕证供不够强劲，竟然公开向希敏示爱，但此举却遭国光怒目相向！
+
+不过，希敏仍未能脱罪，Yoyo却称如国光上庭，应可助她一把，但AK却不赞成他上庭！最终，国光在庭上说出根本不爱希敏的「真相」，令她听后精神恍忽，才做出不智的事情！王官相信希敏受精神困扰而大意拿取书本离开，所以希敏无罪释放！
+
+国光的说话，严重伤了希敏，但其实自己也并不好过！刚巧Yoyo与AK分手，心情也坏透了，约了国光上家喝闷酒！国光醉了，Yoyo觉得时机到了，居然脱去两人衣服，扮玩了一夜情！国光耿直，以为酒后糊涂，决定向Yoyo负责，所以约了希敏出来签分居书！</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E17.20180516.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Just Love 20180516 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>516</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E17.20180516.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="516" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

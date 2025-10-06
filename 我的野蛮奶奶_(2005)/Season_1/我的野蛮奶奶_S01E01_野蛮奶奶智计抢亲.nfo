@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:53:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>野蛮奶奶智计抢亲</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>我的野蛮奶奶</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>2624221</id>
+  <uniqueid default="false" type="tmdb">2458381</uniqueid>
+  <uniqueid default="false" type="trakt">1434714</uniqueid>
+  <uniqueid default="true" type="tvdb">2624221</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>书香世家孔府举行花炮抢亲，「野蛮」格格铄兰母子亦有参赛，可惜混乱间被其他参赛者用计胜出。为求儿子茂春娶得如意媳妇，铄兰竟以歪理说服孔老爷，让儿子娶得娇妻。  原来铄兰格格是当今皇后表姐，尽管下嫁刺绣商人甯丰德都不改其「野蛮」本色，就连奶奶慧卿对她敢恐不敢言。而铄兰终日想为儿子精挑细选大家闺秀作媳妇。某天，铄兰到宫中探望皇后，无意中得悉新一批的秀女中，有一名才貌双全的女子即将入宫，铄兰见猎心起，劝说皇后赐婚！但为了向孔老爷悔婚，竟不惜与「未来衬家」对簿公堂，诬告孔家小姐有「不治之症」！
+
+刚巧山贼首领女儿十一路过并救起孔小姐，并说出事情经过，十一于是设计戏弄格格，格格为报复派官兵围剿山贼。为求脱身，十一竟然走上秀女的花轿，嫁入铄兰家。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:08</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1586</width>
+        <height>1080</height>
+        <durationinseconds>2687</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Wars.Of.In-Laws.Ep01.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

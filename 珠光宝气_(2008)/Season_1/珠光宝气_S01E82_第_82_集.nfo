@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:55 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 82 集</title>
+  <originaltitle>Episode 82</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>82</episode>
+  <id>435493</id>
+  <uniqueid default="false" type="tmdb">2299496</uniqueid>
+  <uniqueid default="false" type="trakt">1596072</uniqueid>
+  <uniqueid default="true" type="tvdb">435493</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>当长胜一个人在酒吧独饮之际，泰川出现更对他冷嘲热讽。令泰川惊讶的是，官非缠身的长胜仍然处之泰然。长胜更悠然地与泰川说出自己的心底话，令泰川有当头棒喝之感。自青杨家离开后的康家三姊妹，均通宵不眠，认真思索母亲对她们的训示。翌日清早雅言到向长胜家，欲说出自己未来的打算。早上当佣人看见哲男醒来后，将雅瞳交托的文件转交给他。哲男打开了雅瞳交来的文件后不禁呆了，这时雅瞳亦亲自致电向他解释。这边厢，雅思不断思索各种事情后，终在哲迅的房间中，为重新决定自己的未来向助理Herman下达了重要的决定。成为了香港商界新龙头的泰川，因交通挤塞徒步回公司，却遇上了新一届《平步青云》的参赛者。泰川看着他们围绕自己以争取支持时，除衷心鼓励他们外，更想起了当年与子凌一起奋斗的日子。泰禾将青杨赠与雅思的钻石胸针重新打磨复原，令她高兴不已。时光飞逝，雅瞳在赶往参加宴会，不慎将幸福指环掉下沟渠，这时哲男刚好出现，两人为取回戒指又一起合作。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>82_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="82" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

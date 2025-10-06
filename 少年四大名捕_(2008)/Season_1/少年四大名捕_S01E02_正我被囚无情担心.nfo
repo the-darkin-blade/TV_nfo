@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>正我被囚无情担心</title>
+  <originaltitle>Episode 2</originaltitle>
+  <showtitle>少年四大名捕</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id>2305551</id>
+  <uniqueid default="false" type="tmdb">389777</uniqueid>
+  <uniqueid default="false" type="trakt">398201</uniqueid>
+  <uniqueid default="true" type="tvdb">2305551</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>破天女儿若飞揭破正我曾威胁贺鹰，正我亦主动接受监禁；无情探望正我，指他是为了隐瞒与昔日师妹，现今齐王妃嫣红见面之事。
+
+无情决定亲自调查命案，更与铁手发现客人兵部侍郎雷波与大中展开争执。嫣红到囚室探望正我，原来她一直认为正我害死她的父亲。
+
+大中请追命藉扶乩寻找失去的古剑时，正我发现嫣红在酒菜中下了迷药，但却照吃不误。当正我醒后却发现自己身在山庄外；众人寻至更指他杀害了大中。原来众人看追命替大中问乩之际，却发现大中在房内被人刺杀。
+
+齐王亲自审问，更欲即时将正我处决，幸得铁手阻止；齐王私下向嫣红说出已知正我害死她父亲之事，因此欲替她报仇。无情解开大中被杀之谜，更发现追命伪造大中遗书欲吞并其财产；追命在自辩时，竟出示齐王因欠下大中金钱而写的借据。
+
+因齐王有嫌疑，铁手搜查齐王房间时竟搜出假的古剑；原来齐王欲以假剑抵债。雷波打晕武林百晓生金九龄后，竟发现死于房中；净一大师主动自首，但却被正我与无情指出疑点重重。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1882</width>
+        <height>1080</height>
+        <durationinseconds>2678</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Four.Ep02.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

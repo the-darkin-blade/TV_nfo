@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:00:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>不懂撒娇的女人</title>
+  <originaltitle>不懂撒嬌的女人</originaltitle>
+  <showtitle>不懂撒娇的女人</showtitle>
+  <sorttitle/>
+  <year>2017</year>
+  <top250>0</top250>
+  <ratings/>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>故事以“商场、物业管理”为背景，探讨职场上女性“高管”大多成为剩女的原因。本剧以女性不婚为题材，讲述一对不懂撒娇，但能干强悍的堂姐妹凌敏（宣萱 饰）、凌禹勤（唐诗咏 饰）在职场上努力成为女强人，但情场上要面对来自中国大陆与台湾温柔又懂撒娇的同性强敌猛烈夹击，如何扭转单身终老命运的爱情故事。</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"96028","tvdb":"327894"}</episodeguide>
+  <id>327894</id>
+  <imdbid/>
+  <tmdbid>96028</tmdbid>
+  <uniqueid default="false" type="tmdb">96028</uniqueid>
+  <uniqueid default="true" type="tvdb">327894</uniqueid>
+  <premiered>2017-05-01</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <tag>love triangle</tag>
+  <tag>business woman</tag>
+  <tag>businesswoman</tag>
+  <actor>
+    <name>宣萱</name>
+    <role>Molly Ling Man</role>
+    <profile>https://www.themoviedb.org/person/230777</profile>
+    <tmdbid>230777</tmdbid>
+  </actor>
+  <actor>
+    <name>唐诗咏</name>
+    <role>Cherry Ling Yu-ken</role>
+    <profile>https://www.themoviedb.org/person/1237978</profile>
+    <tmdbid>1237978</tmdbid>
+  </actor>
+  <actor>
+    <name>林文龙</name>
+    <role>Gordon Man Nim-sum</role>
+    <profile>https://www.themoviedb.org/person/550946</profile>
+    <tmdbid>550946</tmdbid>
+  </actor>
+  <actor>
+    <name>王浩信</name>
+    <role>Saving Ching Yat-fai</role>
+    <profile>https://www.themoviedb.org/person/1690917</profile>
+    <tmdbid>1690917</tmdbid>
+  </actor>
+  <actor>
+    <name>黎诺懿</name>
+    <role>Hanson Ho Chi-chiu</role>
+    <profile>https://www.themoviedb.org/person/112986</profile>
+    <tmdbid>112986</tmdbid>
+  </actor>
+  <actor>
+    <name>高海宁</name>
+    <role>Tin Mut</role>
+    <profile>https://www.themoviedb.org/person/1173598</profile>
+    <tmdbid>1173598</tmdbid>
+  </actor>
+  <actor>
+    <name>邓佩仪</name>
+    <role>Miki</role>
+    <profile>https://www.themoviedb.org/person/1496386</profile>
+    <tmdbid>1496386</tmdbid>
+  </actor>
+  <actor>
+    <name>张达伦</name>
+    <role>Oscar</role>
+    <profile>https://www.themoviedb.org/person/2064580</profile>
+    <tmdbid>2064580</tmdbid>
+  </actor>
+  <actor>
+    <name>谭凯琪</name>
+    <role>Annie</role>
+    <profile>https://www.themoviedb.org/person/1315729</profile>
+    <tmdbid>1315729</tmdbid>
+  </actor>
+  <trailer>plugin://plugin.video.youtube/play/?video_id=TvWVVJLfkGw</trailer>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

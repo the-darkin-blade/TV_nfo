@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>璎珞被行刺</title>
+  <originaltitle>璎珞被行刺</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>6776881</id>
+  <uniqueid default="false" type="tmdb">1556726</uniqueid>
+  <uniqueid default="false" type="trakt">3101707</uniqueid>
+  <uniqueid default="true" type="tvdb">6776881</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>弘昼一事引发众人声讨，纷纷进言要求皇上严惩，皇上对此十分苦恼。裕太妃亲自去找璎珞道歉，然而不管她怎么说，璎珞就是不肯松口原谅弘昼，裕太妃失望离开，却在心里恨毒了璎珞，准备将他除掉，以绝后患。璎珞拿着药杵打算还给叶天士，才一进门就发现他被人绑了，察觉到不对，璎珞转身要跑，却被一个小太监勒住了脖子，璎珞拼命挣扎，推开小太监冲了出去，不料外面还有人埋伏，璎珞寡不敌众，眼看就要被谋杀，幸好傅恒匆忙赶到，救下了她。傅恒十分后怕，再次叮嘱璎珞不要再以身犯险。璎珞得知弘昼此时昏迷不醒，明白过来背后杀人的正是裕太妃。璎珞向皇后献冰鉴，却不许皇后贪凉，主仆正在玩闹，皇上驾到。看到冰鉴后，弘历十分喜欢。随即，他告诉皇后决定原谅弘昼，璎珞闻言心中暗暗不服。璎珞记恨弘历袒护弘昼，决定教训他一番，知道弘历爱吃葡萄，索性将冰葡萄放在冰鉴里送去养心殿，弘历就茶用冰葡萄，引发腹泻，气恼万分。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2643</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep25.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

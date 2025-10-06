@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:49 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>继后夜跪乾清宫</title>
+  <originaltitle>继后夜跪乾清宫</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>50</episode>
+  <id>6779876</id>
+  <uniqueid default="false" type="tmdb">1556751</uniqueid>
+  <uniqueid default="false" type="trakt">3104706</uniqueid>
+  <uniqueid default="true" type="tvdb">6779876</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>弘历对璎珞受伤一事暗暗生疑，璎珞故意设计，令弘历怀疑到纯贵妃身上。弘历去到纯贵妃处，暗指她在坠马一事中动了手脚，纯贵妃满口辩解，称此事与己无关，是璎珞树敌太多，不知收敛。皇上走后，纯贵妃责怪愉妃办事不力，愉妃则安慰说不会有人查到纯贵妃头上，纯贵妃却以五阿哥相要挟，告诫愉妃一旦事情败露，让她扛下罪名。愉妃来至延禧宫，跟璎珞讲述她的无奈与坚忍，告诉璎珞在她最不堪、最痛苦挣扎的时候是纯贵妃拉了她一把，她别无选择。愉妃说自己肯定会被纯贵妃胁迫，替她顶替罪行，并以五阿哥永琪为借口，博取璎珞的同情。愉妃劝璎珞住手，璎珞答应她要思虑一番。愉妃照看永琪写字、穿衣，看着他长这么大，慢慢落泪。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2621</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep50.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="50" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

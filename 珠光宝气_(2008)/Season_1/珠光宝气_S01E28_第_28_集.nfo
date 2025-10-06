@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 28 集</title>
+  <originaltitle>Episode 28</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id>433899</id>
+  <uniqueid default="false" type="tmdb">2299442</uniqueid>
+  <uniqueid default="false" type="trakt">1595972</uniqueid>
+  <uniqueid default="true" type="tvdb">433899</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>长胜被送往急症室后无碍出院，日东欲开解雅言，但雅言坦言不懂照顾长胜而感自责。长胜回家后对病发之事故作轻松，但雅言却心有所思。雅瞳公司被收购后，被调到担任哲男秘书。努力适应新工作的雅瞳，突收到自称哲男前女友的电话，该女士竟说自己已验出是爱滋病带菌者，令雅瞳替哲男的健康担心不已。秘书主任吩咐雅瞳代取哲男的跑车，雅瞳取车后顺道回家，因她欲寻找相熟医生联络介绍给哲男。子凌发现雅瞳驾着哲男的跑车，大为不忿下跟踪她。子凌跑到康家指责筱柔，说她懂得利用消息，将子凌散播雅瞳与世万有染之事，巧妙地成为哲男与雅瞳和解的契机，雅瞳得悉后不满母亲操控自己。长胜偕雅言到澳门与少好吃饭，少好请求雅言好好照顾长胜。晚饭后雅言突然向长胜提出分手，对于这毫无由来的决定，令长胜摸不着头脑，只得看着雅言离开。世万得文慧之助，令印尼事业可顺利发展，于是决定赠与她厚礼。大太太婉仪发觉世万私下送了一匹名种马给文慧，虽怒火中烧但仍忍着不发作。雅瞳为了通知哲男有关爱滋病一事，不惜在晚上追至他的游艇前，但原来子凌也在游艇之上。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>28_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:18 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>英宗撞破郕允恋情</title>
+  <originaltitle>英宗撞破郕允恋情</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>5527084</id>
+  <uniqueid default="false" type="tmdb">1176441</uniqueid>
+  <uniqueid default="false" type="trakt">2159627</uniqueid>
+  <uniqueid default="true" type="tvdb">5527084</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>与英宗暂时分别的允贤心中依然惦念着迟迟没有出现的郕王，而此时，郕王也正快马加鞭地向着她们的约定之地赶来。终于会面的二人都欣喜不已。 献宝一般拿出了自己精心准备的礼物，郕王如愿在爱人脸上看到了笑容。他轻轻将发簪插入允贤的发鬓，也仿佛把自己的一颗心交到了允贤手中。情意绵绵的一对爱侣完成了他们有些迟到的花灯之旅。站在斑斓的彩桥之上，执手相看的两人郑重地许下了一生的誓言——执子之手，与子偕老。可是他们不会想到，这温情脉脉的一幕竟被复而归来的英宗全然收入了眼底。望着远处心爱的女子与最亲的弟弟紧紧相偎的侧影，英宗的心也仿佛被这彻骨的寒夜冻结了。他竟不知该如何面对眼前的一切，自己平生第一次付出的真心成了一个天大的笑话，原来所有一切的甜蜜温情都只是自己自作多情的假象。此时他唯一所剩的也许就只有那份皇帝的尊严了，不愿丢掉这最后一份颜面的英宗拂袖而去。只是回到宫中，留给他的也依然只有无边的寂寞。无处诉说苦痛的英宗唯有借酒消愁。另一边，郡主的委屈也激怒了汪国公与太后。从吴太妃那里，他们终于得知了允贤与郕王的关系。心思阴沉的汪国公制止了太后的冲动，决定暗地里收拾杭氏一门。很快，杭纲便接到了紧急调往杭州的命令，尚未来得及通知郕王，一家人便被迫乘船离开。最后时刻，郕王终于一路追到了岸边，执着的他更是奋不顾身地跳上了船舷。亮出了身份的郕王立时将众人惊在了当场。而他的正式求娶也总算得到了杭纲的首肯，一家人皆大欢喜。安定下来的允贤与郕王终于得以互表心意。他们将自己最深的秘密坦露在了对方面前。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E13.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

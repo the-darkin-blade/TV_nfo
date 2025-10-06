@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>有康谋杀加敏</title>
+  <originaltitle>Episode 29</originaltitle>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>29</episode>
+  <id>4575286</id>
+  <uniqueid default="false" type="tmdb">1743631</uniqueid>
+  <uniqueid default="false" type="trakt">3254408</uniqueid>
+  <uniqueid default="true" type="tvdb">4575286</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>有康为逃避加敏的束缚，竟骗她写下遗书，然后谋杀她，尽设计造成其自杀的场面，将责任推在加敏身上。
+
+秀云惊闻加敏死讯后，大表失望，回想到加敏临死前，曾与她通电报喜，态度欢喜非常，遂对其自杀的动机暗起怀疑。
+
+有康回港后，凭着美欣的推荐，受到世邦的重用，令耀国大表嫉妒。少玲自与耀国接触日久，对他渐生爱意，可惜耀国贪新忘旧，对少玲渐失去兴趣，宁另觅新欢，令少玲大受打击。
+
+有健新铺开张后，因受门口修路工程影响，生意不佳。楚君替他向传播界投诉，兼收宣传之效。
+
+楚君受到上司HERMAN追求，虽感到他为可取的男友，但不舍对有健之情，婉拒其感情。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1558</width>
+        <height>1076</height>
+        <durationinseconds>1320</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E29.20181211.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="29" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Looking Back In Anger 20181211 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>1211</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1558</width>
+        <height>1076</height>
+        <durationinseconds>1320</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E29.20181211.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1211" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

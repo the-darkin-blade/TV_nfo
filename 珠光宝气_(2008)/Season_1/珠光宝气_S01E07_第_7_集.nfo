@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:27 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 7 集</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>433787</id>
+  <uniqueid default="false" type="tmdb">2299421</uniqueid>
+  <uniqueid default="false" type="trakt">1595924</uniqueid>
+  <uniqueid default="true" type="tvdb">433787</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雅瞳陪雅思搜索了一天后，雅瞳太倦在沙发睡着，醒来却不见了雅思。雅言在寻找妹妹时又遇上长胜，但他竟又再次作弄雅言推她落水。长胜更说出雅言之前曾袭击他，要她当众向他道歉，雅言被迫照办。雅瞳看见哲男欲找他帮忙，但哲男则欲躲避父亲贺峰的追问，于是哲男竟反要借助雅瞳帮忙令父亲离开。泰禾四出寻找雅思之际，却发现了一个大秘密。雅瞳为了说服哲男注资到志球的公司，不惜跟随他出海。世万不满女富豪虞苇庭在投资青岛计画上不够合作，贺峰答应当说客。贺峰与苇庭饭聚，苇庭对饭局的心思大感满意，因此答应合作。雅瞳发现哲男竟然是把游艇直接由青岛驶回深圳，不禁大为震惊。贺峰发现是筱柔帮助安排与苇庭饭聚，因此与她及青杨吃饭，贺峰坦言不会阻止儿子注资的决定。雅思得悉筱柔不顾自己患上重病仍赶来帮忙，终忍不住说出事实。看到雅思在电梯中伤心痛哭，贺峰折返给她递上纸巾。筱柔与家人赶回香港了解验身报告，雅思跟随而回，但雅思刚到达却发现商业罪案调查科已在机场等候她。另一方面，筱柔竟被告之患上胰脏癌，要立刻动手术。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>珠光寶氣.The Gem Of Life.2008.Ep07.1080I.Hdtv.H264.Ac3.2Audio_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

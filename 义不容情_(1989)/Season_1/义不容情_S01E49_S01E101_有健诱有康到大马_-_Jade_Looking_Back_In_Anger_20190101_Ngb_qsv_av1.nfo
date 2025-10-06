@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>有健诱有康到大马</title>
+  <originaltitle>Episode 49</originaltitle>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>49</episode>
+  <id>6919043</id>
+  <uniqueid default="false" type="tmdb">1743651</uniqueid>
+  <uniqueid default="false" type="trakt">3254430</uniqueid>
+  <uniqueid default="true" type="tvdb">6919043</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>有健无意中发现有康曾在其家内安装偷听器，顿推想到有康的阴谋，故意安排他在公司任高职，藉此试探及搜集其不轨证据。
+
+楚君不明白其用意，大力反对无效，精神大表失落，惟寄情在孤儿院义务工作上。
+
+有健为发展海外事务，安排有康出任澳洲总裁，令他喜出望外。但当二人临起程时，有健施计阻延有康到机场的时间，迫于改搭下班机，但中途必须在马来西亚加油，令有康顿感忐忑不安。
+
+当飞机降落马来西亚机场时，有康发现被加敏的舅父领众军警包围，顿明白到有健的计划，知道有健故意引他到马来西亚正法，令他大为忿怒，立以碎玻璃胁持有健，终被警方制服。
+
+楚君知道有健原早布下圈套引有康落网，认为其子间接被有健害死，一时未能接受有健，决离家出走。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1076</height>
+        <durationinseconds>1310</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E49.20190101.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="49" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Looking Back In Anger 20190101 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>101</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1076</height>
+        <durationinseconds>1310</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E49.20190101.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="101" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

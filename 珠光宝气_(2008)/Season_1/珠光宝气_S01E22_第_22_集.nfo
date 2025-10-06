@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:32 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 22 集</title>
+  <originaltitle>Episode 22</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>433893</id>
+  <uniqueid default="false" type="tmdb">2299436</uniqueid>
+  <uniqueid default="false" type="trakt">1595958</uniqueid>
+  <uniqueid default="true" type="tvdb">433893</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雅言与长胜过了温馨一夜，第二天雅言欲煮早餐给长胜时，却发现有女性登门造访。上班时雅言向日东打听长胜的异性关系却不得要领，长胜竟不知好歹，欲在办公室与雅言调情，却被雅言粗暴对待。泰禾在青杨家时，雅言因长胜之事大感不快，竟借泰禾不敢向雅思示爱之事，痛骂了他一顿让自己发泄。泰禾被雅言提醒，决定有所行动，泰禾借替朋友买钻石为名，请青杨助他拣选戒指。泰禾约雅思吃饭，但在表白前，看到雅思手上竟戴上了高价的钻戒，心下明白有富豪追求她，因而将表白之事压下。青杨在家中看到雅思的钻戒，不禁私下替泰禾可惜。启发死心不息的缠绕雅瞳，更出言辱骂哲男。哲男突然收到电话，原来与他青梅竹马，世万的孙女子凌突然回港，她更要求他借出游艇让她暂住。原来子凌逃回香港，是因为有人将她与男友的情欲短片放到网上公开。 贺峰为了帮助世万，竟斥资收购网站令短片没法流通，让事件不了了之。子凌见事件平息，主动探望世万及偕他回家。泰禾发现有人跟踪雅思而报警，最后却发现是贺峰派来的保镖。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>22_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

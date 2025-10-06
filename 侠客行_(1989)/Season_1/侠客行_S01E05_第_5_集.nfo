@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:09:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 5 集</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>侠客行</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2494435</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>烟客带破天返回摩天崖，途中遇大悲老人被长醉三煞追杀，大悲老人临终把一盒泥公仔送予破天。
+
+烟客与破天返抵摩天崖，破天坚持不肯向烟客提出要求，烟客大怒，主动教破天练武功，欲令他走火入魔。
+
+中玉被海石医好，又见身为帮主甚为好玩，遂冒认破天留在长乐帮，及后发现海石原是利用破天送死，遂自揭身份，海石不信，更派人严密监视中玉，中玉无法逃脱。
+
+中玉重遇珊瑚，二人与慕容白合谋，作弄海石等人，令众香主当众出丑，欲藉此逼海石放他走，海石不肯屈服，反囚禁珊瑚及慕容白，中玉徒呼奈何。
+
+万剑率帮众到长乐帮要求带走中玉，两帮人一言不合，展开混战，中玉乘机在侍剑相助下，救出珊瑚及慕容白逃出，却被万里截住。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1080</height>
+        <durationinseconds>2751</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E05.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

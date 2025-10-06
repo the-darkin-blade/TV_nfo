@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 56 集</title>
+  <originaltitle>Episode 56</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>56</episode>
+  <id>433926</id>
+  <uniqueid default="false" type="tmdb">2299470</uniqueid>
+  <uniqueid default="false" type="trakt">1596046</uniqueid>
+  <uniqueid default="true" type="tvdb">433926</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>泰禾出现在泰川的公司，更气急败坏地说要见苇庭，原来医院致电泰禾，通知他有关弟弟捐肝之事。苇庭向泰川说出她早已看穿了他的一切，泰川听后大为泄气，担心苇庭将辞退他。想不到是苇庭最后竟同意与贺峰合作，更在贺峰前提出，以后有关的跟进工作将由泰川全权负责。雅思回到家后发现哲男与贺峰发生猛烈的争吵，雅思从丈夫口中得悉，哲男认为雅瞳提出离婚是因为雅思一手做成，于是雅思赶回康家与姐姐对质。经过查证后，子凌的复仇计画终于东窗事发，子凌事败只得不断向哲男道歉求他原谅。事情告一段落，雅言与雅思正布置婴儿房时，不慎误触通话机，让身在厨房中的雅瞳听到了雅思的心底说话。泰川正式成为苇庭集团的管理层，长胜与他喝酒庆祝，但泰川亦开始有自己的考虑，不再惧怕长胜。日东与雅言出席长胜获得澳门企业家大奖的颁奖礼，雅言发现长胜将得到的礼物送给子澄，心中百感交集。雅思与筱柔驾车回家时遇上意外，筱柔担心女儿与胎儿健康，要她立刻离开现场。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>56_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="56" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

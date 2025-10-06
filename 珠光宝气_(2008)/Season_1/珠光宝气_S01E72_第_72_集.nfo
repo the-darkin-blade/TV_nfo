@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 72 集</title>
+  <originaltitle>Episode 72</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>72</episode>
+  <id>430321</id>
+  <uniqueid default="false" type="tmdb">2299486</uniqueid>
+  <uniqueid default="false" type="trakt">1596062</uniqueid>
+  <uniqueid default="true" type="tvdb">430321</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>在启发调回总公司的第一天，泰禾因答应代出差的怀德照顾启发，因此特意购买早餐送到启发家。正当泰禾刚令紧张的启发放松下来时，却突然有警察出现。长胜继续挥霍雅言的金钱，日东忍无可忍，竟用暴力将长胜身上的一切都取走，更说出已准备好让他东山再起，之后便将他弃在路上要他好好反省。雅言发现长胜失去联络后向日东查问，日东坦白说出希望能借此机会让长胜振作。雅言只好尽量抽时间到新租下的公司，等待长胜出现。雅言与雅瞳陪筱柔看衣服时，两姐妹为启发当年控告怀德之事被警方调查而起口角。雅瞳不满雅言盲目帮长胜而斥责她，令她拂袖而去。有员工不满被裁员而对公司恶意破坏，哲男与雅思商量解决办法时，雅思竟提出要哲男发放假消息以暂缓员工情绪，却遭哲男拒绝。当众人开会时，突然收到公司被放炸弹而需紧急疏散。哲男替雅瞳取回物件时，发现她欲送予启发的礼物，面色大变。被警方调查后一直回避雅瞳的启发突然出现，更向雅瞳说出关静突然自杀。在街上流浪的长胜吃下不洁的食物被送院，却被之澄的律师遇上。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>72_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="72" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

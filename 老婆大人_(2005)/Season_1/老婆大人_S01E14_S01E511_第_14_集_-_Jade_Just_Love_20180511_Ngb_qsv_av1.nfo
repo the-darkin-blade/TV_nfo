@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 14 集</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">543587</uniqueid>
+  <uniqueid default="false" type="tvrage">477144</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>国光问戴官是否想追回希敏．戴官支吾以对，只劝他多体谅希敏！咏诗与十三公好像玩拍拖玩上瘾，两人又在围村手拖手！突然，通叔叫两人返家打牌，在雀局上，咏诗明白到做围村女人要卑躬屈膝，虽然她开始对十三公有点好感，但亦立即打退堂鼓。两人边打牌边嗌交，最后咏诗带走大嚿饭。十三公立即阻止，但大嚿饭乘机逃走，可是不幸被货车撞毙！两人伤心不已，夜里一起喝闷酒，还一起睡觉……
+
+宝怡告诉戴官，她即将离开香港，但却没有通知家人！戴官不知宝怡又会离家多久，入了围村告诉通叔此事！在临入闸一刻，通叔赶至，以为又是宝怡任性才离家出走！其实，宝怡已经爱上了戴官，但不愿做不负责任的人，希望可以像戴官一样有满腔理想！通叔才知女儿已经长大成人，有独立处事方式，也不能再阻止下去！十三公与咏诗共睡一夜后，两人都心不在焉，常常向朋友讨教一夜情的问题！咏诗与希敏最近频频作呕，怀疑有喜，两人一起前往验孕！初时，医生说希敏有喜，但离开医务所后，才知摆了乌龙，咏诗才是有身孕！
+
+戴官知道咏诗有喜后，觉得她胡里胡涂有一夜情全因自己拒爱而起，决定负责任！希敏带了错误的报告返家，令国光以为再做父亲，可是老婆却说没有，令他心存怀疑！国光与十三公喝酒时，碰到咏诗。但她酒后说得不清不楚，说戴官会负责，国光以为希敏有喜全因戴官，居然走去打断了他的手！</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>1322</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E14.20180511.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Just Love 20180511 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>511</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>1322</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E14.20180511.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="511" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

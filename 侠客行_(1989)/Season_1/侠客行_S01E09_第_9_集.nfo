@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:09:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 9 集</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>侠客行</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2494439</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>中玉带冬儿等人回长乐帮暂住，珊瑚、丁璫及侍剑亦寻至，珊瑚验出中玉剧毒已除，众人决定隐瞒海石，以防海石设计伤害，众人更决定搬到五毒教分舵。
+
+冬儿处处回避中玉，中玉对她痴缠不休，丁璫妒忌，与冬儿不和。
+
+烟客被破天真情打动，于他病发时加以相救，但破天坚称未曾学过武功，烟客困惑不已。
+
+天行向珊瑚求助除去剧毒，珊瑚恐他伤好后会对中玉不利，乱下药方，令天行毒势加深，天行大怒，捉去珊瑚及冬儿，逼珊瑚替他医伤，珊瑚不肯就范，天行欲杀珊瑚，中玉、丁璫赶至相救，仍不敌天行，混乱中，天行发现冬儿之锦囊，大感错愕，惨然离去。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1558</width>
+        <height>1076</height>
+        <durationinseconds>2730</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E09.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

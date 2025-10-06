@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>欢喜策划暗杀计划</title>
+  <originaltitle>Episode 28</originaltitle>
+  <showtitle>使徒行者2</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">4039204</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>卓凯发现斯敏失踪，遍寻不获。德信想留住嘉莉在自己身边而欺骗她，并向她求婚，嘉莉犹豫。卓凯与道行无意中发现启发年轻时的相片，找到重要线索。欢喜叮嘱少锋好好准备翌日对付德信的行动，少锋有感自己有机会于复仇行动之中丧命，于是现身淑梅面前，带她到主题公园游玩，留下最美回忆后，少锋黯然离去，淑梅不能阻止而忧心忡忡。欢喜计划的暗杀行动失败，少锋还被长兴众人捉走毒打，德信要求天堂枪杀少锋……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2633</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E28.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

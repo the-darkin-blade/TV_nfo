@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>御花园得罪皇上</title>
+  <originaltitle>御花园得罪皇上</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>6773139</id>
+  <uniqueid default="false" type="tmdb">1556703</uniqueid>
+  <uniqueid default="false" type="trakt">3096606</uniqueid>
+  <uniqueid default="true" type="tvdb">6773139</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>璎珞冲到御花园踢打灵柏泄愤，恰被皇上看到，大发雷霆，要严惩伤害灵柏的璎珞，璎珞巧言辩解，蒙混过关。皇上去给太后请安，太后责他过于宠幸皇后，忽略了其他妃嫔。弘历不想听太后唠叨，借口离开。在经过御花园灵柏时，皇上回过神来，知道自己是被璎珞忽悠了，于是命太监总管李玉把璎珞找出来，然后去长春宫探望皇后。彼时，皇后正因明玉将愉贵人拒之门外一事大发雷霆。见皇上过来了，皇后强抑怒火与皇上说话，皇上看出皇后的疏离之情，有些遗憾地离开了长春宫。皇上听闻高贵妃为难愉贵人一事，赐储秀宫金刚经，命高贵妃抄完一遍佛经，修身养性，高贵妃气恼万分。乾清门侍卫庆锡看到璎珞成为了宫女，十分震惊。他拉着璎珞去了一处杂物房说话，要求璎珞别再追查璎宁之死，被璎珞一口回绝。二人碰面一事被玲珑看到，玲珑向方姑姑告密，方姑姑试图捉奸，璎珞觉察到她的用意，凭借自己的机智化险为夷，并趁机教训了总爱找事的方姑姑一顿。方姑姑伤了腰，一瘸一拐地离开，璎珞看到她落下的络子正是她当年亲手送给姐姐的，对方姑姑起了疑心。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2622</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep03.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

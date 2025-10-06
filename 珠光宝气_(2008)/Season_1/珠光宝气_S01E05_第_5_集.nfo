@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:25 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 5 集</title>
+  <originaltitle>Episode 5</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <id>433785</id>
+  <uniqueid default="false" type="tmdb">2299419</uniqueid>
+  <uniqueid default="false" type="trakt">1595915</uniqueid>
+  <uniqueid default="true" type="tvdb">433785</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>青杨回厂与怀德见面，当青扬说出自己欲自立门户之际，他却从怀德口中得知欲顶让的珠宝店已被他人接手。筱柔发现青杨有心事，欲向他查问之际却因肚剧痛而晕倒。雅言到长胜公司倾谈拍戏合约，却发现他正审问哪位女职员在当天晚上以高跟鞋打伤他，而他更即时将有嫌疑的女职员辞退，令雅言饱受惊吓。雅瞳发现雅思仍去名店购物，指责妹妹存心欺骗父亲，但反被雅思抢白一番。伤心痛哭的雅瞳被店员安排坐在一角让情绪平伏，但原来哲男与女伴亦刚巧于店中看到一切，最后他更赠雅瞳华服一套。雅言为了完成任务，特意飞往青岛请在当地参加赛艇比赛的长胜于合约上签字，但却又再次遭他戏弄，幸好她及时发现，只好留在当地等待长胜。同在青岛参加赛艇的哲男终答应与志球和雅思见面，但他提出注资的条件，是将公司股分转卖给他，志球被迫答应。雅言终成功让长胜签字作实，晚上雅言和雅思见面时遇上富添，雅言努力隐瞒两人已分居之事。另一方面，雅言发觉长胜签下的文件突然不翼而飞。志球发现公司财困的消息已被公开大受打击，志球失踪，雅思大急下向哲男求助。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>珠光寶氣.The Gem Of Life.2008.Ep05.1080I.Hdtv.H264.Ac3.2Audio_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="5" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

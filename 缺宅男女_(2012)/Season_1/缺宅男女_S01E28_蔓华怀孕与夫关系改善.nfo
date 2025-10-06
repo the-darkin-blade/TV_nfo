@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:10 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>蔓华怀孕与夫关系改善</title>
+  <originaltitle>Episode 28</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>28</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444985</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>美玲被送往医院抢救却返魂无术，关家各人均感悲恸不已；嘉安因受到突然丧母的打击以致视力出现问题，但因被母亲去世的伤痛掩盖下，反未有为意身体已出了毛病。嘉乐精神恍惚，仍然未能接受美玲突然去世的事实，嘉安强装坚强去处理各人的情绪与安排美玲的身后事；众人带着哀伤心情回家，卜琼惊闻噩耗，不禁伏在朗翘怀中饮泣。
+
+睹物思人　嘉乐伤心
+
+嘉乐看着美玲尚未有机会穿的新鞋，不禁又再泪如泉涌。各人自责未有在生活细节上对美玲多加关怀，朗翘虽心情难过，但仍尽力安慰各人；卜琼见朗翘还可冷静地照顾家中各人，心中对她更是敬佩。朗翘表示美玲一生为子女尽心尽力，就算美玲去世，自己也会代替她令关家各人的生活不会出乱子。夜栏人静，四兄弟妹均回想起母亲点滴，无不唏嘘伤心。
+
+为装坚强　嘉安强忍
+
+嘉安为亡母设好灵位，完成了美玲的身后事，一阵失落感觉顿然涌上心头；嘉安不想朗翘与巧琳看到自己软弱的一面，遂吩咐朗翘先行带女儿离开，让自己有空间冷静下来。朗翘明白嘉安在此刻极需要有人安慰与支持，却又不忍让女儿看见父母两人伤心的模样，只好带巧琳离去。刚办完了美玲的身后事，笑兰竟不识时务拿出美玲遗下的金器指要分回给各人。
+
+笑兰出手　贪取居屋
+
+嘉乐与嘉荣均表示没有心情在这伤痛时刻瓜分母亲的遗产，但笑兰竟一反常态表示不欲与各人争夺金器。笑兰爽快地拿出一份文件要嘉安签字作实；嘉荣与嘉乐细看下，终明白笑兰所贪取的是以美玲名义买下的居屋，嘉安得知后不禁愕然。嘉荣与嘉乐不值笑兰所为与她争执，嘉安看见又变得家无宁日，不禁痛心疾首愤然离去。嘉安在连番打击下在街上跌跌撞撞地走，只希望能尽快与妻女见面，却想不到嘉安竟看见……
+
+患上急病　嘉安愕然
+
+嘉安终支撑不了晕倒地上，幸被途人发现送院救治；医生证实嘉安患上暴盲症，令他大感晴天霹雳。嘉安对此病一无所知，得医生解释后才稍为平伏；嘉安思前想后，决定约朗翘会面将心中感受坦白告知。嘉安向朗翘说出一切，更向妻子承诺会改变以往的做人处事态度，一切会以朗翘与巧琳的幸福为首；朗翘闻得嘉安的改变，不禁既担心又高兴。宏瞻夫妇自蔓华有孕后变得极恩爱，令蔓华希望腹中胎儿能令宏瞻忘记嘉乐。
+
+冠峰宏瞻　再次谈判
+
+嘉乐快将离开香港到外地生活，但当她再一次想起母亲对自己的嘱咐，毅然下定决心找冠峰表白……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1072</height>
+        <durationinseconds>2678</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>28_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="28" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>有康利用李华</title>
+  <originaltitle>Episode 8</originaltitle>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <id>4575265</id>
+  <uniqueid default="false" type="tmdb">1743610</uniqueid>
+  <uniqueid default="false" type="trakt">3254367</uniqueid>
+  <uniqueid default="true" type="tvdb">4575265</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>有康自觉不受家人谅解，决离家出走，暂寄住同学宿舍中。秀云大表伤心，归咎自己教子无方。
+
+李华在旅行社当兼职导游赚取「外快」，刚好遇着有健新任职旅游车司机，二人从此有更多机会接触。
+
+有康将全部助学金投资在美金上，以为有利可图，怎料港府突订出港币与美元联系汇率制度，令他损失惨重。有康因放太多时间在投资上，以致疏忽了学业，致测验不及格。其后他向教授求情，终答应他以一篇论文取代重考。有康利用李华代他搜集资料。有康因不能继续在同学宿舍内居住，迫于低声下气向有健求谅，要求搬回家住。秀云等不记前嫌，一家和好如初。
+
+有健与李华相处日久后，对她惭生好感，欲向她展开追求，怎料其后他发现李华独钟情于有康，大表失落。
+
+楚君与有健逛街时，偶遇旧男友扶妻偕子，甚为伤感。原来当年倪坤嫌弃其男友贫穷，竟以巨款引其男友离开楚君，令她万分伤心。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1076</height>
+        <durationinseconds>1334</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E08.20181118.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="8" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Looking Back In Anger 20181118 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>1118</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1076</height>
+        <durationinseconds>1334</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E08.20181118.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1118" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

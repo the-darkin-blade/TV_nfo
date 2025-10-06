@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:09:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 11 集</title>
+  <originaltitle>Episode 11</originaltitle>
+  <showtitle>侠客行</showtitle>
+  <season>1</season>
+  <episode>11</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2494441</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>普法大师误会中玉等人与侠客岛有关，将众人擒拿，只有丁璫被不三不四救走。
+
+张逍李遥闯少林，打败各高僧，救出中玉等人，中玉追问二人真正身份，二人不答，飘然而去。
+
+海石查出中玉原来早已解除剧毒，率众捉拿中玉，中玉不敌被擒，海石押他回长乐帮，侍剑跟随左右。
+
+冬儿与珊瑚等人赶路救中玉时，失足跌下桃源谷，为谷主南宫逸所救，留她在谷内疗伤。
+
+各派掌门要求海石交出中玉查问侠客岛一事，海石答允于中秋召开武林大会，公审中玉。
+
+丁璫摆脱不三不四之监视，会合珊瑚及慕容白，三人决找张逍李遥救中玉，途中丁璫遭神秘人袭击，堕下谷中。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1076</height>
+        <durationinseconds>2685</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E11.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="11" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

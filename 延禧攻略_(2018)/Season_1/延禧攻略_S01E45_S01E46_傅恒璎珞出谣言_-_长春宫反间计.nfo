@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:47 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>傅恒璎珞出谣言</title>
+  <originaltitle>傅恒璎珞出谣言</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>45</episode>
+  <id>6779867</id>
+  <uniqueid default="false" type="tmdb">1556746</uniqueid>
+  <uniqueid default="false" type="trakt">3104692</uniqueid>
+  <uniqueid default="true" type="tvdb">6779867</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>弘历来至纯贵妃处，纯贵妃故意在弘历面前提起璎珞和傅恒的旧事，试图搬弄是非。弘历心生嫌疑，路过延禧宫而不下轿，同时宫中四处传言令嫔与傅恒大人的风言风语。小嘉嫔拜见弘历，针对自己为难璎珞的事，向弘历认错讨饶，得到弘历的原谅。弘历要赐傅恒园子，以表彰他的战功，小嘉嫔趁机在弘历面前建议将园子取名为玉京园，告诉皇上傅恒命人到处搜罗名贵栀子花品种，弘历想起璎珞最爱栀子花，十分恼怒，将小嘉嫔赶了出去。弘历心烦意乱，去继后宫中散心，质问继后。继后表面维护璎珞，替璎珞辩解，实则字字戳心，句句印证谣言。弘历气恼到了极点，不再招寝璎珞。璎珞在御花园遇到傅恒，并不避讳，坦然交谈，璎珞句句戳心，叫傅恒远离自己，让他不要连累自己。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2647</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep45-Ep46.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="45" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>长春宫反间计</title>
+  <originaltitle>长春宫反间计</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>46</episode>
+  <id>6779869</id>
+  <uniqueid default="false" type="tmdb">1556747</uniqueid>
+  <uniqueid default="false" type="trakt">3104693</uniqueid>
+  <uniqueid default="true" type="tvdb">6779869</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>纯贵妃精心设计了义卖会，璎珞悄悄命小全子把偷来的各宫赃物放到宫市上，众人见状对纯贵妃落井下石，小嘉嫔对纯贵妃针锋相对，太后因此怪罪纯贵妃，纯贵妃精心设计的义卖会一败涂地，气恼万分，更是恨死了魏璎珞。原来魏璎珞知道针对自己的流言大肆宣扬就是小嘉嫔和纯贵妃推波助澜的结果，于是利用小全子将计就计，让她们也尝尝被众人议论的滋味。尔晴四处寻不见福康安，十分着急，福康安却出现在傅恒的书房。尔晴见傅恒善待福康安，心中生出涟漪，想要与他重修旧好，表示愿意和他好好过日子，请求他的原谅，却被傅恒拒绝。婢女青莲同情傅恒遭遇，安慰、开导于傅恒，见其对璎珞用情至深，暗自对其倾慕不已。傅恒去拜祭皇后，意外被小太监弄脏了衣服，在婢女太监的服侍下，将衣服整理干净，重新穿好。傅恒再出来，却撞见璎珞，璎珞与他相谈，傅恒问她回宫的真正目的，而璎珞却不肯透露。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2647</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep45-Ep46.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="46" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

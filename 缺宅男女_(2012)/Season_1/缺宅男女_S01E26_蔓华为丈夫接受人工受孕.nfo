@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>蔓华为丈夫接受人工受孕</title>
+  <originaltitle>Episode 26</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>26</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444983</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>美玲见嘉安怒掴嘉乐而不禁大动肝火，直斥儿子不应未了解事情始末便认定妹妹有错，嘉安听后无言以对。嘉乐见母亲及兄长因自己而气愤动怒，不禁更感难过。嘉乐终向母亲透露与冠峰及宏瞻间的感情瓜葛，美玲认为嘉乐是将宏瞻视作救生圈，更该与冠峰弄明白一切，嘉乐感激母亲在身旁替自己分忧。美玲安慰了嘉乐后，便找嘉安倾谈。
+
+美玲得知　嘉安分居
+
+美玲看出嘉安与朗翘陷入冷战，即劝儿子要多体谅朗翘；嘉安冲口而出把分居一事告知美玲，令她错愕不已；嘉安被美玲一番数落后心中有愧，答应母亲会尽快处理与朗翘间的问题。嘉安离开关家，想到家中接连发生了不愉快事件，不禁眉头深锁。嘉安与嘉乐和好，更互相鼓励一起面对当前问题。朗翘工作时，嘉安突然带了大束百合花出现，令她尴尬不已。
+
+忠伟提出　追求朗翘
+
+朗翘劝丈夫不要在自己工作时谈私事，但嘉安未有理会，结果两人在大庭广众下又争论不休。忠伟为免朗翘尴尬，只好强硬地要求嘉安离开银行。朗翘无奈下把与嘉安分居一事告知他，忠伟竟大胆地向朗翘提出欲再次追求她的意思，令朗翘大惑不解。忠伟表示有信心让朗翘看清楚谁人最适合她，不禁令朗翘犹豫不决。卜琼多日未见嘉荣，决定到关家探访。
+
+分得居屋　竟是凶宅
+
+当美玲看见卜琼出现不禁笑逐颜开，卜琼把获分配到公屋的好消息通知嘉荣，但嘉荣得知所编配的公屋本是凶宅后不禁心下一沉。卜琼指自己百无禁忌将会入住，但嘉荣却大力反对；嘉荣终忍无可忍，大骂卜琼专制独裁，美玲反而力挺卜琼是好媳妇，令嘉荣气煞。嘉荣虽与卜琼搬到公屋居住，但提出要与卜琼划清界线，各占地盘「分居」。两小口初到新居发现空无一物，只好暂时忍受没有水电与床铺的日子。
+
+笑兰提出　赎回居屋
+
+笑兰突然积极地替嘉安的装修公司找寻客源，嘉康不禁大赞妻子勤奋上进；笑兰收到装修工程的佣金后，决定赎回美玲所持有的居屋单位，嘉康见笑兰的孝心更是感动。嘉康夫妇与美玲茶聚，笑兰突然提出要美玲安排死后的财产分配，美玲不虞有诈，答应笑兰及嘉康到房委会办理转名手续，笑兰不禁心中窃喜。笑兰喜孜孜地表示以数万元便可当业主，嘉康提醒笑兰居屋一直是嘉安出钱供款，他才是真正的业主……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1078</height>
+        <durationinseconds>2678</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>26_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="26" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

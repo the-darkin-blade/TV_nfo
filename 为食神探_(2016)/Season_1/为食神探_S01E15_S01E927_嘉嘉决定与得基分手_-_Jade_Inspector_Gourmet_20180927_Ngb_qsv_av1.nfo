@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:53:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>嘉嘉决定与得基分手</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>为食神探</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2300938</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>爱娇一直跟踪阿东，这时麦犀突然出现，两人夥拍一同跟踪。爱娇见阿东进入茶餐厅后觉得很愕然，原来静梅也是在这处工作。爱娇不想被母亲发现欲想离开之际，麦犀突然想出一个办法。
+
+他们扮作外国人，趁机向阿东探口风，可是却无功而回。爱娇见到母亲即掩面，岂料她见到母亲突然很慌张地离开。爱娇与麦犀一直追到去后巷，只见到她与阿东在争执，但相隔太远，爱娇完全听不到内容。
+
+幸好麦犀带来了偷听仪器。阿东不停问静梅拿钱，并拿了一张照片出来威胁，静梅即答应拿钱给他。
+
+阿东出手威胁静梅
+
+麦犀带了阿东所制的菠萝包回侦探社，爱娇吃了一口即记起这是她儿时吃过的味道，记起阿东是谁。麦犀替爱娇偷得照片，爱娇看过后指一定不可以让岑荣见到这张照片，否则后果严重，叫麦犀烧毁照片，但麦犀不想。爱娇感到奇怪为何母亲会害怕阿东，是否两人之间一定有不可告人的秘密。
+
+岑荣继续问静梅借钱，爱娇听到后甚为不满。爱娇忍不住向静梅问个究竟，见静梅有口难言，爱娇说只希望一家人可以团结在一起，静梅非常感动。
+
+爱娇指会教训阿东不让他继续出现，静梅欲阻止，但爱娇却有自己的计划。
+
+国华发现Issac行踪
+
+嘉嘉发恶梦梦见周晴要杀她，这时得基刚好见她惊醒，既心痛又紧张。嘉嘉在睡房中休息，而得基则在煮早餐。这时嘉嘉在床边柜中发现了几张照片。细看之下发现原来是周晴与Issac的合照，两人态度非常亲昵。得基想继续陪嘉嘉，但她却叫得基先走。
+
+嘉嘉去见周晴，为作为第三者而向周晴道歉，但周晴被伤得太深，完全不原谅她。嘉嘉非常无奈又伤心，因为她完全记不起失忆之前的事。
+
+国华查到Issac失踪前，曾经购买一只特别版腕表，并去过鱼排，于是周晴等人即去鱼排查个明白。
+
+被逼分手得基伤心
+
+嘉嘉上到鱼排，仍未寻回任何记忆，但周晴非常紧张，想嘉嘉立即记起当日情况。他们无意中发现类似Issac购买的特别版腕表遗物，嘉嘉才突然记起自己曾把Isaac推下海。
+
+警署正调查Isaac一案，嘉嘉是唯一证人。得基怕她有事默默地从后跟随她，但却被她赶走。嘉嘉独自在家中发呆，不敢相信自己曾是杀人凶手。得基怕她有危险，便叫爱娇来照顾她。嘉嘉非常内疚及自责，觉得自己配不起得基，决定与他分手。
+
+得基伤心饮买醉，喝得酩酊大醉，当他醒来时竟然发现周晴睡在身边。… ...</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1301</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Inspector.Gourmet.E15.20180927.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Inspector Gourmet 20180927 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>为食神探</showtitle>
+  <season>1</season>
+  <episode>927</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1301</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Inspector.Gourmet.E15.20180927.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="927" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

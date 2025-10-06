@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:29 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 7 集</title>
+  <originaltitle>Episode 7</originaltitle>
+  <showtitle>上海滩续集</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2493292</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>国强在货仓被「抗日救国会」成员打伤，力责祥贵不该派国强往货仓工作。国强因受伤，祥贵代到冰淇淋店向秋霞解释，但却恶意中伤国强，岂料秋霞竟往探望国强，刚遇上力，力见到他们三人，始明白祥贵心意。
+
+玲与力感情日趋恶化，二人有如贴错门神。力因货仓内一批货物被「抗日救国会」充公而烦恼，终与祥贵定下计划，在「抗」等人面前做戏，以博取他们信任。
+
+日本人势力逐渐渗入，企图占领上海。一日，日僧在街头被士兵追捕，镇昌无辜卷入漩涡；慌乱之中，一日僧被打死，云志伺机已久，见此情状，遂要胁镇昌为他效力。燕燕得悉镇昌失踪消息，十分忧虑。岂料镇昌突然往找燕燕，并将云志要胁他之事告诉燕燕。另一方面，力知镇昌事，往找云志要求放人，但云志拒绝。燕燕苦苦哀求力救镇昌，力终于答应出面调停，这消息不久亦为日本人所悉。</plot>
+  <runtime>37</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.66</aspect>
+        <width>1786</width>
+        <height>1068</height>
+        <durationinseconds>2244</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E07.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

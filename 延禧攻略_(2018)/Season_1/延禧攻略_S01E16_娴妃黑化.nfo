@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>娴妃黑化</title>
+  <originaltitle>娴妃黑化</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>6773166</id>
+  <uniqueid default="false" type="tmdb">1556717</uniqueid>
+  <uniqueid default="false" type="trakt">3096628</uniqueid>
+  <uniqueid default="true" type="tvdb">6773166</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>嘉答应在冷宫被太监欺辱，此时娴妃来冷宫看望嘉答应，嘉答应恼羞成怒，一边倾吐自己内心的不满与委屈，一边出言嘲讽娴妃无能，才导致她自己家破人亡。娴妃想着自己曾经历的一切，愤而用长巾勒住了嘉答应的脖子。嘉答应临死之际，娴妃方才透露自己早知四阿哥生病的蹊跷，故意引纯妃发现，目的就是为了名正言顺向皇后靠拢。娴妃将嘉答应伪装成自尽的样子后离开冷宫，在雨中慢慢往承乾宫走去，目光变得更加坚定、冷酷，决心今后为自己而活，放弃愚蠢的正义与原则。璎珞没有按照皇后的执意抄写一百遍“宽容”二字，而是用“忍”字替代。皇后指出她心中并没有真正认识到自己的错误，悉心教导。这时，尔晴来劝说皇后将四阿哥接到长春宫抚养，皇后拒绝，尔晴又苦劝皇后早日生下嫡子好保重自己的地位，皇后气恼离开。夜深人静时，璎珞发现皇后身患寒疾，并不欲任何人知道。随后，皇后挥退左右并向纯妃求援。之后，纯妃屡次出入长春宫，停留的时间越来越长。高贵妃得知此事后，故意放出风声，说皇后与纯妃之间关系不正常，顿时宫中众人议论纷纷。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2610</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep16.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

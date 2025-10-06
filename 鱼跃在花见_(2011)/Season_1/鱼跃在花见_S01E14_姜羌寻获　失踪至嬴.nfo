@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:40 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>姜羌寻获　失踪至嬴</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>鱼跃在花见</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2620718</uniqueid>
+  <uniqueid default="false" type="trakt">7447915</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雍容病重　临危托孤
+
+思茏接到雍容入院的消息，在至嚣的陪伴下赶往医院。雍容特意要至宝在另一边玩耍，向思茏坦言明自知时日无多，但因想到至宝的将来而担心不已；雍容指除了自己，思茏是唯一会真正关心至宝的人，因此请求思茏下嫁至宝……而这番对话，在房外的至嚣听得一清二楚。思绪混乱的思茏发现至嚣原来没有离开，因此向他说出雍容请求她下嫁至宝，想不到至嚣竟要求思茏接受婚事。
+
+为救思茏　答应比赛
+
+映月到天台屋送汤给至嬴喝，更与他谈到小时候两兄弟的事情；映月坦言了解儿子间发生争执，本欲希望两人可自行解决，但现在却发现两人关系变得更差，因此映月要求致嬴原谅兄长，至嬴听后不禁愕然……翌日至嬴致电给兄长说及比赛，但至嚣却指有事而没有与他谈下去，原来至嚣约了思茏见面，而思茏竟答应至嚣的要求下嫁至宝。思茏直言自己不认同其做法，指答应他是为了偿还之前害苦了至嚣的人情……
+
+至嚣欲安慰思茏时却发现至嬴出现，而至嬴更听到思茏为至嚣作出的牺牲；至嬴为了胜过兄长而向慕容澄讨教，因此特意到海边练习提升腕力；姜羌看见至嬴不停练到晚上，忍不住要他休息一会但遭拒绝；姜羌欲了解至嬴为何突然答应与兄长比赛之事，至嬴说出全为阻止思茏下嫁至宝，姜羌不明前因后果，但至嬴却不作解释，最终更把姜羌气走。思茏与至宝出外约会，至宝更因成功能自行购食物而高兴不已；这时至嬴突然出现，更说出自己将与至嚣比赛……
+
+思茏回到家时，发现弟弟竟执了行李在坐梳化上，原来思朗不能接受昔日坚守原则的姊姊，今天竟会为了富贵荣华而与至宝结婚，失望不已的思朗更因此离家出走。至嚣选择了早前举行意寿司经营权比赛的北海道神社，来作兄弟二人闭门比赛的场地；更请了唐奥担任评判。兄弟两人使出浑身解数，结果唐奥判定至嚣胜出，慕容澄与唐奥的解释，加上兄长严厉的批评，令至嬴大受打击……
+
+为寻至嬴　再赴日本
+
+意寿司的众人在上班时，竟发现至嚣站在寿司吧前，而他更说自己由今天起正式成为意寿司的主理人；慕容澄发现姜羌不在家中，最后在门上发现她的留书，说自己去北海道寻找至嬴……没法找到至嬴而旁徨不已的姜羌，终被嘉穗发现，之后姜羌更发现慕容澄亦回到了北海道；原来至嬴竟在渔港当上了晒昆布的工人。
+
+姜羌四出寻找至嬴，更不断在大挂画前贴上便条希望让他看见……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2690</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>鱼跃在花见 Ep14_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

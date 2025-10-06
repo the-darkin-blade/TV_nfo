@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:40 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>至嚣强迫　至嬴对战</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>鱼跃在花见</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2620717</uniqueid>
+  <uniqueid default="false" type="trakt">7447914</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>思茏与母　尽诉心事
+
+思茏到医院探望母亲，看到一脸虚弱的秀馨，思茏不禁暗自神伤；思茏睁开眼看到女儿在身旁，向思茏说自己正回想起昔日旧事，刚想到女儿也在这医院出生，遂向思茏说出当年诞下她时所发生的事情；思茏替母亲整理头发后，主动为之前一直与母亲冷战之事道歉；秀馨只是轻抚女儿的头，而思茏更在不知不觉中睡着了……在梦中的思茏发现秀馨向自己道别，而醒来后竟发现母亲……
+
+姜羌成功　创制酱汁
+
+至嚣与至宝见面，当他了解弟弟欲取悦思茏后，提出教至宝用扭计骰扭出花朵图案；这时思茏致电给至嚣，但至嚣却不想思茏得知自己行踪而把电话关掉。没法联络上至嚣的思茏与思朗在手术室门外等候，想不到医生竟出来宣布秀馨的死讯……这时雍容接到医院通知后与亦匡赶至；听到雍容的慰问，思茏忍不住紧抱着她痛哭起来。思茏回家时遇上至嚣，但她却忍不住对他冷言相向；从与思茏对话中，至嚣得悉雍容对思茏甚为照顾……
+
+思茏到鱼家大宅上班时，竟收到雍容所赠的巨额支票，雍容指是给她替母亲办丧事所用。雍容坦言秀馨已逝，思茏已没有理由留在自己身旁赚钱，但雍容竟出言请她留下……姜羌学习了酱油的制法后，努力研制出让意寿司专用的酱汁，最终灵光一闪，终创制出令大家满意的寿司酱汁。姜羌制作的酱汁在店中大受欢迎，大家更努力替这酱油选择合适的名字；雍容带思茏与至宝等一起到高级餐厅吃饭，至宝突然将扭计骰扭出花朵图案送给思茏……
+
+慕容澄与姜羌一起到日本，原来有酱油厂对姜羌的酱汁配方甚感与趣，更欲买下它；成功赚了人生第一桶金的姜羌与慕容澄坐头等机位回港时，姜羌向慕容澄说出拥有这笔资金后打算开乌冬店，而慕容澄则向她说出有关自己女儿的事……姜羌兴奋地到鱼家拜访，欲向至嬴分享好消息，但在天台上却发现一反常态，严肃不已的至嬴，原来他约了至嚣谈话，因此姜羌只得离开；至嬴问兄长为何丢下寿司店的营运不理，至嚣竟借机发难……
+
+思茏得知　父死真相
+
+心情低落的至嬴竟夜访姜羌，至嬴向姜羌说出兄长的手伤原来早已痊愈，更说出至嚣提出与他比赛之事；至嬴更说出当年的往事，指一直不想与兄长竞争。雍容突然指不用思茏再当看护，反而安排她跟随亦匡学习管理；有人投书指亦匡私下协助至嚣兄弟，愤怒的雍容指不会再相信他。亦匡私下向思茏说出，把她父亲被撞死的其实是辉煌而不是至嚣……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2689</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>鱼跃在花见 Ep13_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

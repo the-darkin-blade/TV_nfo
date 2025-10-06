@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>倪坤买凶对付有健</title>
+  <originaltitle>Episode 22</originaltitle>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>4575279</id>
+  <uniqueid default="false" type="tmdb">1743624</uniqueid>
+  <uniqueid default="false" type="trakt">3254401</uniqueid>
+  <uniqueid default="true" type="tvdb">4575279</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>有康在世邦的公司连番升职，但距离他的目标尚远，遂苦思计策以求飞黄腾达之日。
+
+一日，金水做苦工时，不慎跌落泥坑中，被松泥埋住。有健奋不顾身相救，令金水大为感动，二人终破除误会，从此建立深厚友谊。
+
+倪坤饱受亡子之痛，顿成绝望，借酒消愁，致旧病复发，被送入院留医。倪坤对有健怀恨于心，收买狱中黑帮围殴他一顿，幸金水经过制止，有健免受重伤。
+
+楚君不值其父所为，吐出俊杰被杀真相，令倪坤再受刺激，着楚君搜集世邦父子的罪证，为俊杰报仇。
+
+有健结识了彭济等一班因商业犯罪入狱的专业人士，彼此吐出入狱因由，顿成好友。
+
+少玲艺训班毕业后，获得在即将开拍的长剧中试镜，令她战战兢兢。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1076</height>
+        <durationinseconds>1312</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E22.20181203.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Looking Back In Anger 20181203 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>1203</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1076</height>
+        <durationinseconds>1312</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E22.20181203.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1203" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

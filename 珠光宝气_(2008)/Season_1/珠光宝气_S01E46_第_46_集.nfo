@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 46 集</title>
+  <originaltitle>Episode 46</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>46</episode>
+  <id>433916</id>
+  <uniqueid default="false" type="tmdb">2299460</uniqueid>
+  <uniqueid default="false" type="trakt">1596032</uniqueid>
+  <uniqueid default="true" type="tvdb">433916</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>世基刻意接近青杨，除了邀请他参加饭聚，更约他出海游玩。雅瞳与雅思回康家吃饭，两人冰释前嫌。雅思在闲谈间提出要安排雅瞳加入励群会，筱柔听后大表赞成，更说能建立优良的人际网络自可以对丈夫带来帮助，但雅瞳却只说会考虑。受世基影响，青杨亦开始学习炒卖股票。在汇报争取4G牌照的述职会议上，日东突然指责雅言在乌克兰时表现不佳。长胜为此事开解雅言，两人关系改善。子凌突然决定回世万公司工作，而首天上班欲藉吃午饭与下属打好关系，却发现众人已外出。此时卓凝出现，更与她分享办公室政治的经验，两人言谈甚欢。当两人出外吃饭时遇上文慧，文慧刻意漠视卓凝，子凌主动代卓凝出言应付。文慧发现卓凝将与旧同学见面倾谈工作后竟特意跟踪，她除了请世万前来外更把情况拍下。文慧与卓凝推撞时跌到入院，世万得悉文慧有身孕后竟出言责备卓凝。长胜出外应酬时忘了带哮喘药，雅言赶至更照顾醉倒的他，后因太倦而睡在他身旁。之澄收到消息伯棠在法国因病逝世，她因而成为集团主席。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>46_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="46" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

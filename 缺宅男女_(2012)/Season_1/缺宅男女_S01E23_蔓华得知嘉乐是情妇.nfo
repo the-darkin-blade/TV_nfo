@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:07 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>蔓华得知嘉乐是情妇</title>
+  <originaltitle>Episode 23</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444980</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>嘉安替丁海顶罪，将铝窗堕下伤人的意外一力承担，结果被警方带返警署调查；嘉安本以为只涉及工业意外，却未料丁海所购入的铝窗竟是贼赃。警方以接赃罪扣查嘉安，令他感到大为旁徨。朗翘接获丈夫的求助电话后赶往警署；朗翘熟知嘉安为人诚实，深信他有所隐瞒而不敢向警方说出真相。朗翘担心丈夫又因助人而惹上麻烦，于是要求他向警方坦白……
+
+忠伟协助　聘请律师
+
+见嘉安仍一力承认责任，朗翘无计可施下，只有找忠伟帮忙找律师保释嘉安外出。朗翘将嘉安犯了官非的事告知忠伟，忠伟即陪同朗翘往找鲍律师相助；鲍律师见朗翘的打扮，认定她负担不起高昂的律师费而推却了请求。朗翘旁徨无助，亦不想回到家中胡思乱想，于是忠伟提议她暂待自己家中，让她能平伏心情。朗翘为工作与家庭累得身心疲累，忠伟看在眼中更感我见犹怜。
+
+朗翘诉说　夫妇问题
+
+朗翘感难得有人明白自己，遂向忠伟诉说与嘉安的种种困忧，忠伟恍然得知嘉安夫妇之间的感情不如想像般美满。
+
+忠伟再为朗翘前往找鲍律师忙，更将一支收藏多年的名贵红酒赠予他，终成功答应当嘉安的辩护律师；忠伟回到家中将好消息告知朗翘，令她感激不已。获保释的嘉安在鲍律师口中，得知聘请律师的人竟是忠伟，不禁既错愕又迷惑。
+
+为友顶罪　朗翘不满
+
+嘉安赶回家，却看见忠伟送朗翘回来，心中更满是疑惑，猜不透忠伟心中打算。朗翘埋怨丈夫为保护丁海而被起诉，嘉安反替丁海辩护；朗翘看见嘉安一脸义无反顾，不禁更感泄气。
+
+蔓华得宏瞻相伴心情大好，更打算努力与丈夫努力制造下一代；蔓华以为宏瞻陪伴自己多天，会懂分寸地把情妇之事放下。想不到宏瞻尚未离开家门，便致电约嘉乐共晋早餐，但却被她拒绝。
+
+为知真相　跟踪丈夫
+
+蔓华看见丈夫偷偷删除了刚收线的电话号码，心中疑虑再生，明白宏瞻根本没有改变。
+
+心痛又迷惘的蔓华找卓先生谈心事，卓先生劝她放开怀抱，接纳丈夫有外遇一事，但蔓华坚决地表示自己没法接受。
+
+宏瞻成功投地皮，计画再交给冠峰负责；宏瞻为了陪伴嘉乐又次推却与妻子吃饭，蔓华气得跟踪宏瞻，希望能查出谁是情妇。蔓华随宏瞻到一高级餐厅门外，终得知丈夫迷恋的女人竟然是嘉乐……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1876</width>
+        <height>1072</height>
+        <durationinseconds>2678</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>23_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

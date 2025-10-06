@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:53:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>田满妙计促销刺绣</title>
+  <originaltitle>Episode 13</originaltitle>
+  <showtitle>我的野蛮奶奶</showtitle>
+  <season>1</season>
+  <episode>13</episode>
+  <id>2624341</id>
+  <uniqueid default="false" type="tmdb">2500810</uniqueid>
+  <uniqueid default="false" type="trakt">1434740</uniqueid>
+  <uniqueid default="true" type="tvdb">2624341</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>「玲珑绣庄」刚刚开张，生意自然欠佳。田满灵机一触想出「食饭送刺绣品」的促销方式，将巧巧的刺绣当成赠品送给食客，以图薄利多销，终令客栈和绣坊生意开始改善起来。
+
+灵珊中暑晕倒，茂春与十一协议花多些时间照顾灵珊，灵珊对茂春寸步不离的照顾深觉感动，决定全力主动争取茂春的感情。灵珊一方面向铄兰示好，实行「奶奶政策」；另一方面则设法离间茂春夫妻间的感情，十一怀疑灵珊另有目的，提出质问，灵珊坦然已经爱上茂春，还要和十一争取茂春，十一唯有向茂春揭发灵珊的图谋，可是茂春根本不相信，终令夫妻二人再次吵起上来。
+
+皇上命令丰德修改法兰西使节送来的布画。可是凭丰德亦对自己手艺不满，十一于是将布画偷去给巧巧修改，结果大获好评，丰德直言是巧巧有份参与，令铄兰气极。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:08</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2673</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Wars.Of.In-Laws.Ep13.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="13" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

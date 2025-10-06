@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:39 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>正我担保冷血寻回完颜充</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>少年四大名捕</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id>2305691</id>
+  <uniqueid default="false" type="tmdb">389791</uniqueid>
+  <uniqueid default="false" type="trakt">398215</uniqueid>
+  <uniqueid default="true" type="tvdb">2305691</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>嫣红说服王爷入宫替正我求情，中途却遇上蔡京；蔡京恐吓王爷，指皇上不满他以赈灾为名浪费公帑，令王爷放弃晋见。冷血逃避追捕时，遇到受伤的金国随从，冷血将他送到芷妍医馆后离开；原来使节之子完颜充在山中被不明来历人士捉去，金国使节为此大怒。
+
+冷血回山中之家却发现无情等人，亦遇上小骨带人追杀他；众人大战之际，正我与无戏赶至；原来正我为了帮助冷血，不惜以头颅担保冷血将在七天内寻回完颜充。游冬在替追命出外买食物时，竟不幸被人口贩子打晕卖进私营矿场。原来此矿场是蔡京儿子蔡绦黑市经营，而他更发现完颜充是被他们捉去成为矿工。
+
+冷血遭杀手埋伏，当他欲查问杀手有关幕后主脑身分时，杀手却被小骨杀掉。铁手与追命几番调查，终将人口贩子邓发逮捕。游冬发现有人欲杀害完颜充灭口，欲带他逃离矿场,，两人逃亡时，游冬不慎扭伤，要求充先逃走，最终管工们发现了她。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1080</height>
+        <durationinseconds>2669</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Four.Ep16.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

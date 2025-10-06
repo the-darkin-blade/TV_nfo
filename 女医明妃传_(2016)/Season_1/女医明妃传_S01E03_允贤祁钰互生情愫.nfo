@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>允贤祁钰互生情愫</title>
+  <originaltitle>允贤祁钰互生情愫</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id>5527074</id>
+  <uniqueid default="false" type="tmdb">1176428</uniqueid>
+  <uniqueid default="false" type="trakt">2159617</uniqueid>
+  <uniqueid default="true" type="tvdb">5527074</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>救完于夫人，允贤同郑齐乘马车返回永庆庵，途中允贤的一番“劝解之辞”竟意外惹怒郑齐，郑齐不顾允贤弃马车而去，允贤只好打定主意自己架马车回去，不料马却突然受惊失控，允贤陷入险境，正巧路过的祁钰出手相助，蹿上马背，抱住马脖子，用手蒙住马的眼睛，使马镇静下来，助允贤脱离了险境。允贤欲谢救命之恩，祁钰却率先发现自己救的正是当日赠药草相助的善良女子，允贤也从祁钰手中的那株“铁皮石斛”记起当日情形。二人正巧都要前往永庆庵遂同行，允贤发现祁钰碰到伤口，于是将自己的丝帕赠予祁钰擦拭伤口。祁钰临时改变行程，与允贤别过，得知允贤姓“杭”，推测允贤是杭将军的女儿，并从丝帕上知道允贤名中有一“贤”字。祁钰拾到允贤摔坏的玉簪，问了随从京城中最好的珠宝铺子，打算送去修理或仿制。于大人携于夫人到访杭府，欲谢允贤救命之恩，允贤本担心于大人向父亲言明她再次私自行医救人的事实，非常紧张，但于大人此次竟比当日豁达开明得多，不仅帮允贤隐瞒了真相，还向杭父坦言想要认允贤为义女的意向，杭父应允，于杭两家自此结为通家之好。于夫人请允贤到于府做客，并将允贤以义女身份介绍给其闺阁好友，得知允贤懂得岐黄之术，众夫人小姐竟一番讥讽，但允贤心思聪颖，不仅不生气，反而巧用美容养颜的“七白膏”化解了尴尬，并答应给各位夫人小姐制作七白膏相赠。祁钰派小厮给允贤送回玉簪和丝帕，紫苏见此情形拿允贤与那位朱祁钰朱公子打趣，见祁钰如此赤诚，允贤也不免芳心萌动。太后私下见祁钰，并示明欲立他为新君的意图，而祁钰却感念于与皇兄朱祁镇的情谊以及恪守为人臣子的本分断然拒绝，太后因此大为恼怒，当即命人对祁钰施加了一顿皮肉之苦。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1327</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E03.Hdtv.1080I.H264-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

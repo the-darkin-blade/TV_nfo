@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>英宗遭羞郕王无奈登基</title>
+  <originaltitle>英宗遭羞郕王无奈登基</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>30</episode>
+  <id>5527101</id>
+  <uniqueid default="false" type="tmdb">1176459</uniqueid>
+  <uniqueid default="false" type="trakt">2159644</uniqueid>
+  <uniqueid default="true" type="tvdb">5527101</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>生平第一次踏上战场就遭遇了如此奇耻大辱，此时的英宗可谓是万念俱灰。由于自己的愚蠢轻敌，以致十万将士埋骨异乡，此时英宗心中所受的煎熬是常人无法想象的。尽管俘虏了英宗，但也先却有些不知该如何处置这个烫手的山芋，英宗的绝食抗争更是让他焦头烂额。关键时刻，又是程十三这个“谋士”充当了智囊的角色。此时的允贤并没有能够与英宗共渡患难，她的兵卒身份成功地掩护了自己，与伤兵们一同被押送出了瓦剌国境。当死而复生的程十三出现在英宗面前时，他心中的惊讶与愤怒简直到了无以复加的地步。当听见这个卖国贼在自己面前大放厥词，痛斥自己与大明的不共戴天之仇时，英宗更是被他的无耻与可恨惊呆了。尽管曾经贵为天子，可如今沦为阶下之囚，再凭英宗如何宁死不屈、不失气节，也是难以逃脱“人为刀俎，我为鱼肉”的绝境了。这一次，他的尊严被这个自己曾经不屑一顾的小人狠狠地踩在了脚下。此时的大明朝堂之上，满朝文武皆陷于靖康之耻重演的悲痛之中难以自拔。可是以汪国公为首的老狐狸们却在明知英宗被俘的情况下，仍以国库空虚为名不肯交出赎金。关键时刻，皇后娘娘甚至捐出了自己的凤钗才总算凑够了赎金。可是年轻的郕王不会想到，他倾举国之力拼凑出的五十万两非但没有换回他的皇兄，反倒将瓦剌人的胃口养得愈发庞大，竟又叫出了再加一百万两赎金的天价。这一次，纵使郕王卖掉自己的郕州封地也是再难凑齐了。此时，垂帘听政的太后又一次提出了一个惊天之议——由郕王暂摄皇位。听闻此语的郕王当即反应便是断然拒绝。对皇兄的承诺让他绝不可能允许自己在这样的危难时刻做出此等叛亲背德的窃国之举。可是纵使郕王如何拒绝，也难以抵挡来自太后与满朝文武的极力推举。他们将祖制、朝局如大山一般压向自己的头顶，连一向最是忠义正直的于东阳也为了朝局的稳定加入了举他上位的行列。在这样排山倒海的力谏洪流之下，郕王终于再难抵抗，败下阵来，勉强接受了这烫手的帝王之位。踏上帝王宝座的他第一次体会到了天下之主的美妙滋味。尽管很是享受这九五至尊的高位体验，但此时的郕王还没有放弃要将皇位归还英宗的信念。母以子贵，由于郕王的登基，一向做小伏低的吴太妃也一步登天成了皇帝亲封的皇太后。得意忘形的她竟在孙太后面前翘起了尾巴，但愚蠢肤浅的她怎可能是老谋深算的孙太后的对手。立时之下，便被人家用嫡庶之别又一次踩在了脚下。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1329</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E30.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="30" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

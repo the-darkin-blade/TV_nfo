@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:38 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 38 集</title>
+  <originaltitle>Episode 38</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>38</episode>
+  <id>433909</id>
+  <uniqueid default="false" type="tmdb">2299452</uniqueid>
+  <uniqueid default="false" type="trakt">1595997</uniqueid>
+  <uniqueid default="true" type="tvdb">433909</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>子凌因投资失利使资本大幅亏损，泰川几乎已肯定胜出。比赛结束前的晚上，子凌约泰川喝酒，更主动引诱他过了缠绵的一夜。翌日比赛时，泰川故意做出错误决定买入下跌中的股票，最终子凌胜出。但在正式公布胜利者时，苇庭发现子凌违规之事，提出取消子凌的比赛资格。泰川欲安慰子凌，却反被她耻笑指骂。苇庭在励群会聚会上，主动推荐新加入的雅思担任本年筹款活动统筹，令雅思大喜过望，但两人私下仍针锋相对。雅思与贺峰晚饭时，终把自己的不快与不满和盘托出，但却发觉只是自己误会一场。贺峰一直深爱自己，雅思终把埋藏心底的秘密与丈夫分享。青杨陪伴筱柔到贺家，贺峰见他百无聊赖，主动提出与他玩牌，但玩牌时青杨误会贺峰故意输钱给自己，竟当众指骂贺峰。晚上子凌约见泰川，一见面时子凌抱着他痛哭认错。苇庭私下约见泰川，说赏识他的才华，决定不计前嫌答应栽培他。青杨决定自立门户，但却拒绝泰禾自荐协助他。雅言看见日东努力勉强自己成为Joey男友，只得默默支持他。泰禾竟托怀德等说服青杨，终令青杨答应让自己跟随他。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>38_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="38" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

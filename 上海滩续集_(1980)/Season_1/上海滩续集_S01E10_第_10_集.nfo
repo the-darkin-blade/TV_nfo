@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 10 集</title>
+  <originaltitle>Episode 10</originaltitle>
+  <showtitle>上海滩续集</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2493295</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>云志暗示力留在上海，力见情势不妙，唯有回家才另想办法。岂料回到家里，国强、力母、玲及旭俱被两日本人监视着，无法离去，二人并威胁力留下，力无计以对。
+
+燕燕执拾行装，准备往机场，却遇上镇昌，镇昌向燕燕示爱，燕燕亦表明立场，但镇昌不谅解，纠缠之中，镇昌被车夫打伤。力担心燕燕的安危，飞车接燕燕，却遭两大汉阻止，力卒摆脱他们。与此同时，龙华镇因中炮而起火，火光熊熊中。燕燕慌忙逃走。力到处找寻，不见燕燕影踪，十分焦急。燕燕突然遇上云志驾车而来，遂上了云志车。力见到燕燕坐在云志车上，顿生误会，不顾而去。燕燕回到月琪家，在月琪督使下，致电找力道歉，却被玲抢白一顿。翌晨，力往找燕燕解释一切，并向燕燕求婚，但燕燕表明自己心意，令力失望非常，迁怒于云志，更往法国领事馆告发云志之阴谋，迫令他们干预。法国领事遂命令云志将收藏日本人之地方卖给他们，云志束手无策，唯有应承。</plot>
+  <runtime>31</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1076</height>
+        <durationinseconds>1883</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E10.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="10" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

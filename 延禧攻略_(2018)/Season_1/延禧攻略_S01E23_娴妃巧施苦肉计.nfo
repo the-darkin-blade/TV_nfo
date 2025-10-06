@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:40 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>娴妃巧施苦肉计</title>
+  <originaltitle>娴妃巧施苦肉计</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>23</episode>
+  <id>6776874</id>
+  <uniqueid default="false" type="tmdb">1556724</uniqueid>
+  <uniqueid default="false" type="trakt">3101703</uniqueid>
+  <uniqueid default="true" type="tvdb">6776874</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>面对纯妃的指控，璎珞为自证清白，端起茶杯一饮而尽，并告知皇后自己从未怀疑过他们姐弟。璎珞退下后，纯妃觉得璎珞行事偏执，劝皇后不要将璎珞继续留在身边，皇后却笃定璎珞性子单纯，拒绝将她赶走。傅恒追上璎珞解释，被璎珞痛骂一顿，并指出傅恒一定有所隐瞒，但傅恒为了保护璎珞，始终不愿透露真相，璎珞气恼，与傅恒翻脸。弘历去看娴妃和四阿哥，并提及想将四阿哥交给嘉嫔的幼妹来抚养，娴妃顺从地答应，却又巧施苦肉计，让弘历更改决定，成功留下四阿哥。三清宴上，弘昼荒唐行事，引得现场一片鸡飞狗跳，弘历一脸无奈，对他十分宽容，引发宗室普遍不满，但碍于弘历的偏袒，众人又敢怒不敢言，很是憋屈。三清宴结束后，众人在返回途中，经过御花园，大雨瓢泼，电闪雷鸣，忽然有鬼影闪过，众人被吓了一跳，私下逃窜。弘昼看到魏璎珞假扮的女鬼，想到之前自己假扮宫中侍卫在御花园侮辱过的璎宁，惊恐万分，露出了马脚。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2652</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep23.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="23" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

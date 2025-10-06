@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>纯妃拉拢娴妃</title>
+  <originaltitle>纯妃拉拢娴妃</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id>6773145</id>
+  <uniqueid default="false" type="tmdb">1556710</uniqueid>
+  <uniqueid default="false" type="trakt">3096612</uniqueid>
+  <uniqueid default="true" type="tvdb">6773145</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>娴妃坚持原则，一口拒绝母亲的请求，遭到母亲掌捆，伤心欲绝。皇后身体不适，请张院判来诊治，从张院判口中听闻愉贵人心思深沉，郁结于心，原本打算亲自探望以安她的心，被尔晴拼力劝阻，于是便派明玉带着人参去探望，谁知明玉转头就将差事交给了璎珞。娴妃泣涕涟涟地给家里写家书，纯妃突然来访，向娴妃进言，让她去求皇后替常寿求情，想借机拉拢娴妃，却被娴妃严词拒绝，无奈离开。璎珞去给愉贵人送人参时，撞见有小太监要杀她，忙奋力阻止，并冲出去找人求救，不料撞见高贵妃，她忙躲回永和宫，并反锁了宫门。高贵妃在外面命人撞门，璎珞在房间里呼唤昏迷不醒的愉贵人未果后，急中生智，利用屋子里的炭火盆造成走水的假象，引来傅恒等侍卫，救下愉贵人，破坏了高贵妃的计谋。面对那个杀人的小太监话里话外都在指证皇后是幕后主使，璎珞据理力争，与高贵妃辩驳，高贵妃哑口无言，向皇后道歉。傅恒见璎珞受伤，特意给她送来伤药，却又碍于男女大防格外拘谨，引来璎珞发笑。随后，璎珞故意提起阿满，傅恒断然否认相识。璎珞若有所思。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2586</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep09.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

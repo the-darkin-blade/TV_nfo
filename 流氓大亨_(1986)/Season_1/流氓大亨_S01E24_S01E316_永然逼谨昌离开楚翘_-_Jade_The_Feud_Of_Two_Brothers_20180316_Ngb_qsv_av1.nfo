@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:58:13 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>永然逼谨昌离开楚翘</title>
+  <originaltitle>Episode 24</originaltitle>
+  <showtitle>流氓大亨</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1743888</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>谨昌得楚翘精神上的鼓励下，二人商妥合股经营饭堂，正当谨昌正积极筹备开业之际，原来伟舜一直心心不忿，乘机以高价预先买下饭堂，并向他发出胜利示威，令谨昌悲愤莫名。
+
+楚翘体谅谨昌苦况，遂出面向永然求情，准许谨昌投得其名下工厂饭堂经营，令谨昌如绝处逢生，其实谨昌与楚翘接触渐多后，彼此不自觉已日久生情。
+
+永然见楚翘身为董事长独女，居然在饭堂内充当收银员，大感丢脸，劝楚翘将其名下股份让予谨昌。但楚翘一意孤行，永然予以高价赔偿，要谨昌结束饭堂生意。楚翘见永然咄咄逼人，大为愤怒，直指其父当年弃妻恶行。忠良不忍永然含冤莫白，故爆出当年原翘母不甘寂寞瞒夫偷汉，更欲与情夫挟带私逃，后遭抛弃，人财两空，羞愤自杀。楚翘闻讯后恐破坏其母建立多年的印象，坚拒接受事实。
+
+楚翘受志远影响，误会永然施苦肉计令她回心转意，对他不闻不问，永然更以为楚翘一直被谨昌布局唆摆，从中取利，欲以巨款逼他早日离开楚翘，谨昌不为所动。</plot>
+  <runtime>20</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1078</height>
+        <durationinseconds>1242</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Feud.Of.Two.Brothers.E24.20180316.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade The Feud Of Two Brothers 20180316 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>流氓大亨</showtitle>
+  <season>1</season>
+  <episode>316</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>20</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1572</width>
+        <height>1078</height>
+        <durationinseconds>1242</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Feud.Of.Two.Brothers.E24.20180316.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="316" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

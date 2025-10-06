@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:42 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>姜羌失忆　忘记至嬴</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>鱼跃在花见</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2620725</uniqueid>
+  <uniqueid default="false" type="trakt">7447921</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>再无牵挂　全力作赛
+
+姜羌与至嬴均发现对方在门的另一面，但两人最终却没有见面……比赛当天，至嚣在房间努力集中精神，而至嬴则特意制作了一个精致的便当饭盒，指要送给自己重要的人；兄弟两人互相替对方打气，然后欲出发之际，至嚣提醒弟弟要带刀出赛……思绪混乱的姜羌离开家时，竟发现有一个便当饭盒放在她家门前，当她打开后，终明白了至嬴对自己的心意，不禁感动非常……
+
+兄弟比拼　旗鼓相当
+
+兄弟两人换好工作服进入会场，至嚣向弟弟说出之前两人曾赛过两场，一次是至嬴刻意让赛，另一次至嬴因求胜心切而弄巧反拙，但至嚣指这次能看出至嬴终以最佳的状态与自己比赛……
+
+当至宝、思茏、思朗与亦匡等人进场后，比赛亦准备开始；慕容澄通知至嬴，指姜羌将不会出现，但却托自己将一件东西在重要的时刻交给至嬴……唐奥请来专家担任评判，更指两人是次作赛的题目是「人生」。
+
+至嬴与至嚣全心思考如何制造属于「自己人生」的寿司，而在第一个回合至嚣以精湛的技巧及纤细的心思胜出，看到兄长能为食客设想得如此周到，至嬴不禁称赞兄长了得；正准备开始第二场比赛时，慕容澄收到女儿的短讯，指自己将赶到会场……在第二场的比赛中，兄弟两人都令评判给予同分，而在之后的比试中，兄弟因各显创意而再次打成平手。在的士中的姜羌因心急下车，竟被车撞倒……
+
+最后的比试前，慕容澄收到女儿受伤的消息，但他却没有将此事告之至嬴，反而把姜羌交托的东西交给至嬴；当至嬴把盒子打开后，竟发现是姜羌之前送他，但被他打破了的碟子，原来姜羌把碟修补后再送给他……得到碟子的启发，至嬴努力制作寿司；当双方把寿司交给评判，等待胜负揭盅时，至嬴终从慕容澄的短讯中得知姜羌遇上意外的消息，而至嬴不理会比赛结果，立即便夺门而出赶往医院……
+
+姜羌失忆　至嬴心伤
+
+至嬴赶到医院，慕容澄说出姜羌需接受手术清除脑部瘀血，才可以保命；至嚣等人亦赶到医院，至嚣更向弟弟说出谁胜出了……姜羌经手术后没有性命危险，但却一直昏睡，而至嬴与慕容澄亦一直留在医院陪伴左右。姜羌终于醒来，但却指自己并不认识至嬴，令他呆立当场。
+
+刚出院回家的姜羌，发现至嬴竟在家中准备了寿司让她吃，但不再喜欢寿司的姜羌竟要求父亲把至嬴赶走。姜羌为了寻回记忆，竟要求与父亲回北海道；而至嬴亦决定跟随前往……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2689</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>鱼跃在花见 Ep20_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

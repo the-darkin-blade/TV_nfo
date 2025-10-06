@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:45 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 57 集</title>
+  <originaltitle>Episode 57</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>57</episode>
+  <id>433927</id>
+  <uniqueid default="false" type="tmdb">2299471</uniqueid>
+  <uniqueid default="false" type="trakt">1596047</uniqueid>
+  <uniqueid default="true" type="tvdb">433927</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>筱柔被带返警署调查，而她主动说出是因自己而发生交通意外，更说感到抱歉。回到家后的筱柔无法入睡，青杨自责一切不幸皆因自己隐瞒欠债而引起。翌日雅言到医院探望妹妹时发现雅思的情绪极不稳定，这时雅言接到消息说交通意外的伤者重伤死去，雅言更在载妹妹回家时得悉意外的真相。世基约贺峰饭聚，原来哲男因世基公司的建材出现问题而取消了与他的合作，贺峰衡量得失后，决定推翻儿子的决定。哲男得悉后提出反对，更说明白世基以廉价转让地皮作争取机会的条件，但哲男认为父亲此举与当年的世万无两样，贺峰听后不禁大怒。雅瞳无意中发现了筱柔看中医的单据，而她在查证后发现事情有可疑。雅言见状欲说服妹妹，但雅瞳竟提出要到警署将证据交出，筱柔得知后急得冲上街欲阻止女儿离开。筱柔被证实有机会入狱，雅思伤心得紧抱母亲痛哭。雅瞳旁徨无助之际遇上哲男，哲男欲提出协助但却遭她拒绝，而雅瞳亦因此离开了香港。转眼两年过去，以工作麻醉自己长居于游艇上的哲男，收到雅瞳到了西藏旅游的消息后，心念突然一动。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>57_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="57" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

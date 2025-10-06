@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>清洁途中意外受伤</title>
+  <originaltitle>Episode 27</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>27</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444984</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>嘉乐接受美玲的建议，打算向冠峰表白自己内心的一切，冠峰得知后要嘉乐到其大宅去。另一方面，采贻得陈好相助，终决定离家出走与冠峰一起生活；采贻带着简单的行装连夜去到冠峰家，冠峰看见采贻见到自己后激动痛哭，大感意外。当冠峰得知采贻为了爱情而放弃了家人后，既感动又怜惜，立即领她到屋内；而这一切恰好让嘉乐看在眼中。
+
+蔓华成功　稳住胎儿
+
+蔓华呕吐不止，宏瞻紧张得立即请医生到家中为妻子看诊，医生证实蔓华已成功稳固了胎儿，蔓华与宏瞻得悉后均高兴不已；宏瞻安顿好妻子后，不禁想起近来对嘉乐的忽视，不禁对嘉乐更感挂念。嘉乐收到宏瞻来电，没有心情接听；嘉乐自看见冠峰与采贻相拥后，彷佛已认清自己心中最爱是谁。采贻希望自己不再靠家人供养而独立，冠峰只得尊重她的决定。
+
+采贻违抗　兄长命令
+
+经过一夜拆腾后，冠峰始发现早前嘉乐留在他家门外的礼物；冠峰猜出嘉乐应是看见采贻离家出走前来寻找自己的情景，才会放下礼物悄然离去，冠峰的内心不禁既忐忑又激动。宏瞻发现妹妹出走后，轻易便找上了暂居在小酒店内的采贻；宏瞻要求妹妹跟随自己回家，但采贻态度坚决地表示不会离开冠峰，宏瞻对一向柔顺的妹妹性格大变而感到愕然。
+
+惨遭封杀　求职无门
+
+冠峰离开鼎瞻集团后四出寻找工作，但因遭宏瞻的封杀而未能在地产界立足；冠峰明白宏瞻要迫他离开采贻，但他拒绝就范。采贻为了独立生活，四出到学校应征作绘画教师，可惜因没有工作经验而屡遭拒诸门外。几经辛苦下，采贻终获得一次试教小童班的机会，采贻耐心的教学方法，终让她成功获聘。采贻在班上遭学生戏弄，更把吹波胶黏到她的头上，冠峰看见本是千金小姐的采贻饱受委屈，不禁替她难过。
+
+美玲要求　笑兰守秘
+
+虽然冠峰与采贻同样受到宏瞻施计打压，结果反令两人感情更进一步。美玲知嘉安与朗翘分居，于是特意到嘉安的套房为他进行清洁，却一不小心跌倒更弄伤腰部；美玲不想家人为自己操心，于是刻意隐瞒。笑兰撞破美玲在房内涂跌打酒，美玲要求笑兰保守秘密。嘉乐买了新鞋子给母亲，美玲高兴非常，各人更要美玲与众人一起游大佛时才穿新鞋。嘉荣理怨卜琼所设立的罚款行动，气得嚷着要回家居住，结果被美玲斥训指关家不是避难所。
+
+受到支持　卜琼感激
+
+卜琼回到关家吃饭，即向美玲大吐苦水，美玲给予卜琼精神上的支持，令她甚为感动……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1874</width>
+        <height>1072</height>
+        <durationinseconds>2690</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>27_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="27" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:48 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>傅恒欲休尔晴</title>
+  <originaltitle>傅恒欲休尔晴</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>49</episode>
+  <id>6779875</id>
+  <uniqueid default="false" type="tmdb">1556750</uniqueid>
+  <uniqueid default="false" type="trakt">3104704</uniqueid>
+  <uniqueid default="true" type="tvdb">6779875</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>傅恒经此一事对尔晴深恶痛绝，要将尔晴休妻，富察夫人问询前来拦阻，可是无济于事。尔晴丧心病狂，撞得自己头破血流，誓死不愿离开富察府。傅谦与富察夫人劝说傅恒，傅恒罚尔晴前往家庙，一生吃斋念佛。弘历因政事震怒，李玉请璎珞过来开解弘历，弘历看到璎珞有些无奈，璎珞自作主张宣人传膳，并主动陪弘历用膳，虽不拘小节，弘历却哭笑不得，略略消了弘历的气。霍兰部战乱，弘历为领兵人选犯愁，璎珞毫不避讳，举荐傅恒，令弘历大为惊讶。璎珞直言傅恒的鸿鹄之志，令弘历刮目相看。小全子给袁春望送去元宝，表明令妃娘娘愿意帮他在宫中谋取职位，袁春望却不喜反怒，赶走小全子。弘历要带璎珞去木兰秋狄，逼着她学骑马，璎珞苦不堪言。马背上的璎珞身体僵硬，惊叫连连，弘历只好亲自与其同骑，亲自教导于她。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2631</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep49.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="49" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

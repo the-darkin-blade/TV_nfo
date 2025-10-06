@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>冷血加入无情反对</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>少年四大名捕</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>2305591</id>
+  <uniqueid default="false" type="tmdb">389781</uniqueid>
+  <uniqueid default="false" type="trakt">398205</uniqueid>
+  <uniqueid default="true" type="tvdb">2305591</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>正我介绍冷血成为新加入的神捕后，众人不禁大加反对，特别是无情与追命。但正我却提出证据说杀害追命恋人的并不是冷血；而正我更坚持冷血有潜质成为好捕快。抢夺令牌失败，落石惟有向幕后策划人蔡京请罪，原来蔡京欲以落石的大连盟来操控整个江湖。四位神捕居于神捕司，可惜并不咬弦更起冲突。
+
+追命的亲人因为欠赌债，竟出手欺骗上京寻找铁手的游冬。铁斧与游冬追上他们时，竟遇上追命；追命欲包庇亲人，却把事件弄大闹至神捕司。无情请龙大夫诊病，却发现芷妍已当上了大夫的徒弟。
+
+受伤的青花帮人向破天求助，原来落石藉小刀被袭为由偷袭青花帮，不分老幼均惨死刀下；破天为阻止其他小帮会归顺大连盟，亦借此机会动员复仇，却遭神捕司介入阻止。偏远的天石村发现采石的官员离奇失踪；芷妍阻止无情动身查案不果，终决定随他出发以便照顾。
+
+到达后无情安排追命与冷血留守应奉局，而他与铁手则进入天石村；他更发现官员们藉皇上之名在这一带贪赃枉法。在调查时众人与官员司马大人发现再有官员失踪；晚上村民更传女娲显灵，众人看见她将官员嵌入石中然后杀害。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2682</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Four.Ep06.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:31 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>允贤被立为皇后</title>
+  <originaltitle>允贤被立为皇后</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>49</episode>
+  <id>5546391</id>
+  <uniqueid default="false" type="tmdb">1176486</uniqueid>
+  <uniqueid default="false" type="trakt">2159663</uniqueid>
+  <uniqueid default="true" type="tvdb">5546391</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>大彻大悟的朱祁钰与允贤开诚布公地畅谈了往昔发生的一切。望着终于恢复了往日模样的爱人，允贤倍感欣慰。她入宫以来第一次真心地靠在了朱祁钰的怀中，冰释前嫌的两个人静静地憧憬着美好的未来。然而这样的幸福却没有维持太久。忽然一日，身体康健的朱祁钰忽然口吐鲜血，腹痛不止。太医们将此诊断为胃火炽盛之症，却没有人会想到这一切的源头其实就是皇后送去万安宫，却被皇上误食了的那碗杨梅汤。多亏了御医万宁的老道经验，太医们才总算对朱祁钰的病症产生了新的怀疑，程村霞也发现这一切的状况竟与误吞异物之后的症状十分相似。为了寻觅线索，程村霞只得找到皇后询问，听闻太医们的怀疑，汪美麟大惊之下终于想到了自己送去万安宫的那碗掺了金刚石粉末的杨梅汤。她做梦也没有想到，自己竟亲手将深爱的男人送上了死路。走投无路的汪美麟为了救回皇上，不惜向允贤坦诚了一切。她跪在地上苦苦哀求，只为能求得一个解救爱人的良。出乎所有人意料的是，汪美麟的所有招认竟都被朱祁钰听入了耳中。当他见到汪美麟谋害自己亲姨妈的时候，他就已经想到了也许自己也有死在她手中的一日。此时的朱祁钰仿佛已经看透了生死，他对这个肮脏混乱的世界已经失去了兴趣，更没有了任何争斗的心思，他唯一留恋不舍的就只剩下了允贤与他们尚未出世的孩子。他当即下令将恶毒的皇后废黜，另立允贤为后。面对这样的旨意，汪美麟完全无法接受。这位为爱痴狂的皇后已然疯魔了，她全心全意对待，甚至不惜放弃一切也要守护的爱人竟就如此将她弃之敝履。只是她却从未自省，这一切悲剧的始作俑者其实都是她自己。为了过好二人最后相守的时光，允贤恨不得每时每刻都陪在朱祁钰的身边。但她也同时日夜操劳着寻找任何可行的解毒之法，只为留住再多一点点的时光，甚至拖着孕体累得晕倒过去。多亏了太医与医女们的通力合作，才总算找出了可以帮助皇上排出体内金刚粉末的法子。这及时的救治总算将朱祁钰暂时从生死边缘拉了回来，只是长时间的大量吐血还是彻底拖垮了他的身子，此刻年轻的帝王已是强弩之末。在自己最后的时光里，朱祁钰真诚地向皇兄请求了原谅，更将皇位主动地归还给了它原本的主人。兄弟二人仿佛回到了曾经真诚幸福的少年时光，他们紧紧地拥抱在一起，放任眼泪肆意流淌。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1325</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E49.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="49" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

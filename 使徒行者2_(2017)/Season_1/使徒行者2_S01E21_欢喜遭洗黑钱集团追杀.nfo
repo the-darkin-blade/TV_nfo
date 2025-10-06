@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:24 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>欢喜遭洗黑钱集团追杀</title>
+  <originaltitle>Episode 21</originaltitle>
+  <showtitle>使徒行者2</showtitle>
+  <season>1</season>
+  <episode>21</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">4039194</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>德信替Johnny除去眼中钉Mr. White，他也答应替德信除掉欢喜。Johnny指派斯敏对欢喜下杀手，想不到斯敏竟刻意放过欢喜。雪兰欠下赌债被扣押，天堂出面帮忙，淑梅娓娓道出与母亲的关系。杨咏遇事后，卓凯到瑞权墓前，感叹黑警势力之大令他感到迷惘。欢喜被国际洗黑钱集团追杀，仍冒险返回自己的海鲜酒家，吩咐猜Fing主持日常营运兼稳定军心。欢喜主动找上了卓凯，表示想跟卓凯合作消灭长兴和黑警……</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2635</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E21.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="21" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

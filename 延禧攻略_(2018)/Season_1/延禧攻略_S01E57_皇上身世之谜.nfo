@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>皇上身世之谜</title>
+  <originaltitle>皇上身世之谜</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>57</episode>
+  <id>6779884</id>
+  <uniqueid default="false" type="tmdb">1556758</uniqueid>
+  <uniqueid default="false" type="trakt">3104718</uniqueid>
+  <uniqueid default="true" type="tvdb">6779884</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>太后指出温淑夫人的信十年后的此刻才被发现，定是有人阴谋设计，弘历决定要彻查清楚。弘历向继后吐露心声，继后点出太后的重重疑点，句句指向太后的问题，认为钮钴禄氏杀母夺子，才是事情的真相，弘历震惊。海兰察通过明玉告诉璎珞，皇上在探查太后之事，劝她不要再去寿康宫。弘历重看侍郎钱正源送来的春晖图，海兰察调查清楚钱正源正是弘历生母的胞兄，弘历才明白春晖图的深意。太后病倒，继后前来探望，却故意谈起太后侄儿受罚一事，并坦承钱正源坠马身亡是她栽赃太后。太后急火攻心，中风倒下。璎珞避开众人，暗中邀请叶天士来为太后诊治。陆晚晚深夜探访，献上一治疗中风的秘方，博取璎珞好感。太后病重的消息传到养心殿，弘历决心问个明白，匆匆到访寿康宫，被魏璎珞安排好的陆晚晚阻拦。陆晚晚献给弘历一本阅微草堂笔记，借由一则乡间故事暗示当年钱氏夫人为保护雍正而跃下悬崖，将弘历托付给太后的旧事，弘历半信半疑。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2625</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep57.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="57" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

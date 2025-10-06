@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:37 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>嫣红遇上害父仇人</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>少年四大名捕</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id>2305651</id>
+  <uniqueid default="false" type="tmdb">389787</uniqueid>
+  <uniqueid default="false" type="trakt">398211</uniqueid>
+  <uniqueid default="true" type="tvdb">2305651</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>正我决定放人后，两帮人一起欢呼庆祝。落石竟趁机招揽破天但却遭拒绝。嫣红与飘雪于寺庙相遇，竟发现王爷赵昌与青楼女子一起进庙上香。嫣红气得独自离开，却遇上正在逃亡的陈九；原来陈九亦是当年令嫣红父亲自尽之人。
+
+追命在看守自己所居住的鸡儿巷一带时，却发现游冬替他家人所买的补药竟是假药，于是偕游冬到店铺理论。想不到此时小骨带领人马，以寻找陈九之名，乘机捣乱由蓝天帮所保护的鸡儿巷。
+
+嫣红捉了陈九欲行私刑；但陈九却坚持自己没有杀妻嫁祸嫣红父亲，更力指妻子与她父亲有染。当嫣红举剑欲杀人时，正我及时赶到将真相揭开。若飞率帮众与大连盟混战，街坊们亦为保卫家园而战斗，铁斧等亦因此受伤；正我赶至说出陈九已被带返神捕司，令战斗平息。
+
+正我在众人前审问陈九，终发现了飞虎帮少主是被高手所杀。众人责骂追命没有保护大家，但游冬却替他出言平反，而一众神捕亦原谅了他。嫣红失踪，正我在她亡父忌日劝服她，更主动将她亡父的遗书烧掉。
+
+小刀刻意诈病，令不知就况的落石大为担心；当芷妍应诊时发现她诈病，但终答应带她与冷血相见。小刀以养病之名到芷妍医馆养病，当她见到冷血时，他却对小刀毫不理睬，令铁手也看不过眼。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2675</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Four.Ep12.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

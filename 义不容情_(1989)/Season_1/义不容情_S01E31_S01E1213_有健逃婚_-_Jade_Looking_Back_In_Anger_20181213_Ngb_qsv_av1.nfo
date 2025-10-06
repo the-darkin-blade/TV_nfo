@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>有健逃婚</title>
+  <originaltitle>Episode 31</originaltitle>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id>6919023</id>
+  <uniqueid default="false" type="tmdb">1743633</uniqueid>
+  <uniqueid default="false" type="trakt">3254410</uniqueid>
+  <uniqueid default="true" type="tvdb">6919023</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>李华自觉公务缠身，未能抽身陪有健，恐耽搁下去，会令二人间感情烟消云散，竟一时冲动主动向有健提出婚事，有健惊喜之余，着手筹备婚事。
+
+楚君接到有健的请帖时，大受刺激，但仍强忍内心痛楚，强颜祝贺二人。有健结婚前夕，无意中从李华给好友的录影带中，发现她坦言与有健之间距离渐远，并声言她只为报有健之恩而提出婚事，令有健大表失望。
+
+有健恐勉强与李华结婚，会阻碍其前途，竟在举行婚礼时，临阵退缩，着楚君代传取消婚约之话，令李华大受刺激，因受不住众亲友的歧视眼光，终含泪走出教堂。有健欲向李华道歉，却未能获得谅解，被李华拒于门外。李华饱受打击后，终提起精神，寄情于工作。
+
+少玲发现耀国追求新欢，向他大事质问，反被他羞辱一轮，自尊大损。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1080</height>
+        <durationinseconds>1288</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E31.20181213.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Looking Back In Anger 20181213 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>1213</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1080</height>
+        <durationinseconds>1288</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E31.20181213.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1213" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

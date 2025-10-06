@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>傅恒向璎珞告别</title>
+  <originaltitle>傅恒向璎珞告别</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>68</episode>
+  <id>6779897</id>
+  <uniqueid default="false" type="tmdb">1556769</uniqueid>
+  <uniqueid default="false" type="trakt">3104741</uniqueid>
+  <uniqueid default="true" type="tvdb">6779897</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>得知亲生儿子的求情，比不过永琪的一句话，继后越发气恼。十五阿哥永琰突然中毒，引发宫中轩然大波。纳兰淳雪因赠永琰笔墨，第一个受到怀疑，陆晚晚斥责于她，她断然否认的同时又百口莫辩，并指这是继后的阴谋。纳兰淳雪要去告继后的状，璎珞却叫她先稳住，否则没有证据，如何告倒继后。纳兰淳雪不管不顾，向太后告状，太后因此更加不喜继后，继后受罚，心怀怨愤。袁春望将继后遭遇告知弘昼，引导弘昼的野心，弘昼惊骇之余，心中生出憎恨。傅恒发现弘昼与袁春望暗中来往，提醒他不要破坏清廷规矩，弘昼恼羞成怒，对傅恒动手，被弘历发现，严厉斥责，弘昼暗暗心惊。弘昼为博取弘历原谅，特意去寿康宫请安，与弘历制造偶遇，托太后为他说情。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2630</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep68.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="68" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

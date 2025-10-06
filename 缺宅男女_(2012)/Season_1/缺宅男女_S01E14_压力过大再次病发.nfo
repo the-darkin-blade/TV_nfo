@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:03 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>压力过大再次病发</title>
+  <originaltitle>Episode 14</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>14</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444970</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>冠峰为助嘉乐筹钱，结果炒输了孖展，更因此欠下了财务公司大笔债项，冠峰只好与嘉乐到离岛避债。冠峰以嘉乐名义借钱，令她不停收到追债电话而吓得惊慌不已。冠峰与嘉乐外出买食物时，嘉乐被财务公司人员捉个正着，冠峰奋不顾身救走嘉乐，两人被迫在山野外度宿一宵。冠峰与嘉乐思前想后，认为不可能一世逃避，决定找财务公司的人商讨清还债务的方案。
+
+嘉安夫妇　无辜惹祸
+
+冠峰答应嘉乐会一力承担所有欠债，嘉乐表示会与他一起同甘共苦。嘉安的装修公司正式开张，他与朗翘对未来充满憧憬，各人亦高兴不已。嘉安与朗翘回到家门外即闻得一阵恶臭；原来业主与租霸因厕所毁坏而起争执，令嘉安夫妇无辜受累，房间内满地污水。嘉安与朗翘难得到施家探望女儿，即买下大量零食给巧琳；朗翘发现一阵子没与女儿见面，巧琳竟不像以前般热情对待自己。
+
+女儿疏离　朗翘伤心
+
+巧琳埋首画全家福，但画中人竟只有外公与外婆，令朗翘更感心酸。一顿晚饭后，嘉安看出朗翘仍为女儿的改变而耿耿于怀，朗翘直言，因环境而迫使自己错过了女儿的成长而感到可惜。嘉安不想妻女再分开居住，即提议以公司名义购置物业，朗翘觉得此法可行不禁大为雀跃，两人再对未来充满希望。自嘉荣与卜琼一起工作后，卜琼细心地照顾嘉荣的起居饮食，嘉荣更对卜琼的厨艺赞不绝口。
+
+嘉荣拒爱　卜琼气炸
+
+嘉荣放假外出打机时，突然收到美玲的求救来电，原来卜琼突然到访关家；当嘉荣回到家时，竟发现卜琼正替他洗内裤，令嘉荣尴尬又不知所措。笑兰与美玲见卜琼之举动犹如嘉荣的女朋友，即认为两人已是情侣关系，嘉荣百词莫辩。嘉荣不想美玲再误会下去，匆匆将卜琼赶走。
+
+嘉荣不明白卜琼之目的何在，卜琼只好坦白地表示要当他的女朋友，令嘉荣呆立当场。嘉荣表示只当卜琼是好友，当中没有爱情感觉，卜琼听罢即时气炸。
+
+采贻提出　协助还债
+
+嘉荣刚拒绝了卜琼回到家中，在门外看见嘉康颓然呆坐；嘉康一脸铁青地指刚收到欧洲客发给自己的律师信，要他清还六十万欠款。采贻希望与冠峰能成为朋友，于是在冠峰常去吃午饭的广场外等待他；采贻果然再次遇上冠峰，正当采贻欲向他打招呼时，却听到冠峰为欠债一事而烦恼。采贻主动提议协助冠峰还债，冠峰虽感激她的好心肠，但仍婉拒好意。朗翘向忠伟查问员工低息贷款计画，忠伟以为朗翘经济出现问题，朗翘只得说出欲置业一事……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1076</height>
+        <durationinseconds>2670</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>14_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="14" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

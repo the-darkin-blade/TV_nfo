@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:21 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>太后震怒赐死 允贤机智获救</title>
+  <originaltitle>太后震怒赐死 允贤机智获救</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>22</episode>
+  <id>5527093</id>
+  <uniqueid default="false" type="tmdb">1176450</uniqueid>
+  <uniqueid default="false" type="trakt">2159636</uniqueid>
+  <uniqueid default="true" type="tvdb">5527093</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>英宗与允贤之间一个属于朋友的亲密举动，却不巧被郕王看在了眼里，嫉妒一瞬间冲昏了郕王的头脑，仿佛要逃开这些一般，他恍恍惚惚地回到了寝宫。原来这一切，又都是汪国公的阴谋。严密监控着英宗一举一动的这只老狐狸，早已将年轻的皇帝等人牢牢地掌控在了自己手中。此时的他又一次做起了女儿的凤凰梦，在他看来，只要重启太后与英宗之间的矛盾，这目标就绝非什么难事。在汪国公的刻意挑拨之下，对于允贤为内监诊病一事，迂腐守旧的御史言官们纷纷状告弹劾。言语之间，对允贤的侮辱鄙夷令英宗勃然大怒。也许是看准了法不责众，这满堂的文武大臣竟然集体请命。震怒之下，英宗下令将所有附议之人通通治罪，任谁的苦苦相劝他也全然听不进去了。就在此时，退居后宫已久的太后竟然突然驾临，言语之间轻轻松松便将英宗之前的决策全然否定。一直对英宗亲政心怀不满的大臣们更是看准时机，借题发挥，将英宗的皇帝尊严狠狠地踩在了脚下。老成持重的太后绝不可能对英宗的胡闹坐视不管，两人之间的矛盾一触即发。另外一边，那夜的亲眼所见也终于让郕王对允贤与英宗之间的关系产生了怀疑。经人打听，二人之间的往事也终于展开在了他的眼前。面对这有些残忍的事实，尽管心中痛苦难当，他仍然选择相信允贤的清白。为了两个人的未来，郕王终于向允贤提出了离开皇宫，返回郕州成婚的建议。虽是好心，但朝堂上因为允贤而闹出的轩然大波仍然影响到了他的情绪。言语之间，还是对允贤流露出了埋怨指责之意。允贤可以忍受一切流言蜚语，但却无法忍受爱人的一丝猜疑。原本就有的满腹委屈再也无法抑制，立刻化作涟涟的泪水流下脸庞。再一次爆发的争吵令这对原本就心有隔阂的小情侣又一次不欢而散。可是允贤今日的苦难还远没有结束。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1322</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E22.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="22" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

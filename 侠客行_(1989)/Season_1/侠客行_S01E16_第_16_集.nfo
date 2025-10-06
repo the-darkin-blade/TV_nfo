@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:09:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 16 集</title>
+  <originaltitle>Episode 16</originaltitle>
+  <showtitle>侠客行</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2494446</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>船上各派掌门纷纷离奇死亡，余者人心惶惶，中玉在张逍李遥暗中相助下，查出凶手原来是南宫逸，各人所接之奖善罚恶令乃假冒，海石混乱中将南宫逸杀死，各人更推选中玉为盟主。
+
+中玉带领各人返抵中原，与珊瑚等重聚，中玉又答允随万剑返雪山派向自在解释当日阿诱堕崖之真相。
+
+破天练成金乌刀法，史婆婆带他上雪山派找自在报仇，途中遇烟客，破天被史婆婆所逼，打败烟客，烟客大感错愕。史婆婆揭穿阿綉暗恋破天一事，破天大为感动。
+
+万剑等人返抵大雪山脚下，忽遇神秘人袭击，珊瑚被捉去，众人连忙赶上雪山查明究竟。
+
+万剑等返抵雪山派，万里声称自在神智失常，万剑大急，一时疏忽，被万里所擒，丁璫等亦误饮毒酒被擒，中玉则被万里打败，与自在同囚一室。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1546</width>
+        <height>1080</height>
+        <durationinseconds>2670</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E16.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="16" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

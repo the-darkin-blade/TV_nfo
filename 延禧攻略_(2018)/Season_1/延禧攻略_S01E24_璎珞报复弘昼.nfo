@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>璎珞报复弘昼</title>
+  <originaltitle>璎珞报复弘昼</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>24</episode>
+  <id>6776879</id>
+  <uniqueid default="false" type="tmdb">1556725</uniqueid>
+  <uniqueid default="false" type="trakt">3101705</uniqueid>
+  <uniqueid default="true" type="tvdb">6776879</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>尔晴因纯妃一席话，觉得自己多年陪在皇后身边，一朝被璎珞取代而十分不快，对璎珞有了敌意。明玉本与璎珞化敌为友，偏偏被尔晴三两句挑得心头火起，再次讨厌璎珞。璎珞为了对付弘昼，去找叶天士，发现他被其他太医排挤，闷闷不乐，便教叶天士告黑状，叶天士将她视为至交。随后，璎珞借口失眠，从叶天士那里拿到了曼陀罗。随后，璎珞故意在跟弘昼偶遇时说一些暧昧的话，勾起了弘昼对她的兴趣。海兰察提醒弘昼璎珞是傅恒十分在乎的人，弘昼却满不在乎，海兰察无奈，将所见告诉了傅恒，傅恒想提醒璎珞，璎珞却气恼他逼迫和亲王给她道歉让她不能报仇而对他避而不见。弘昼成功被璎珞引上了钩。这天，璎珞借口为郭太妃送奠仪离开长春宫，弘昼一路跟踪，发现璎珞竟来到小树林拜祭璎宁，自以为抓住璎珞把柄，想要逼她就范，谁料璎珞早有准备，将计就计，借口祭奠姐姐，打算用曼陀罗迷昏弘昼后杀他为姐姐报仇。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2623</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep24.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="24" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

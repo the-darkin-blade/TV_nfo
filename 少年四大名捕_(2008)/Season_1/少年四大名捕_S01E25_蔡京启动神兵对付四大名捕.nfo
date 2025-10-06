@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:43 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>蔡京启动神兵对付四大名捕</title>
+  <originaltitle>Episode 25</originaltitle>
+  <showtitle>少年四大名捕</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>2305791</id>
+  <uniqueid default="false" type="tmdb">389800</uniqueid>
+  <uniqueid default="false" type="trakt">398224</uniqueid>
+  <uniqueid default="true" type="tvdb">2305791</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>四大名捕虽救出众人，但各人中毒太深；正我清醒过来要四人救驾。铁手私下觅芷妍报仇遭无情阻止，更命芷妍回蔡京处取解药救众人；冷血与追命则请无戏带兵营救徽宗。祭天大典上蔡京出手胁持徽宗。无戏与追命等在途中遇上小骨，小骨以神兵轻易将所有官兵杀死，牛三爸为救追命更壮烈牺牲。
+
+四大名捕赶至，蔡京启动神兵对付四人，四人不敌受伤。无情在重要关头阻止了神兵的致命爆炸。蔡京亲自出手，芷妍为无情挡了蔡京的攻击受了重伤，但芷妍亦以牛毛针杀死了蔡京。芷妍为救正我等人，把毒药断魂散之毒转移到自己身上。无情与芷妍深情对话，但芷妍不想无情看到自己毒发的样子，特留信离开。嫣红离开开封，正我追赶欲挽留，但嫣红拒绝。
+
+冷血与小刀看见追命追捕小骨，小刀出手阻止追命，小骨反以小刀要胁众人；但此时小骨竟看到落石的亡魂出现……
+
+神捕司重开，徽宗封赏四大名捕；追命打算娶游冬为妻，冷血亦欲兑现落石的承诺照顾小刀；铁手亦向若飞提亲，若飞说出如果能回复视力便答应。
+
+一切事彷如雨过天青，但事实却不是全部也能从愿……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1080</height>
+        <durationinseconds>2676</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Four.Ep25.End.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

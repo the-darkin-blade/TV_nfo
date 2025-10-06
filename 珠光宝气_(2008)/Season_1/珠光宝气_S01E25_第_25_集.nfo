@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:34 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 25 集</title>
+  <originaltitle>Episode 25</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>433896</id>
+  <uniqueid default="false" type="tmdb">2299439</uniqueid>
+  <uniqueid default="false" type="trakt">1595967</uniqueid>
+  <uniqueid default="true" type="tvdb">433896</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>雅瞳发现母亲私下替自己答应哲男见工，不禁大表反感。筱柔解释因雅瞳与哲男是朋友，而这次有机会与哲男共事，便有机会可以替雅思平反。雅瞳见工，哲男不消一分钟便说聘请她，反倒是雅瞳提出要考虑。子凌上哲男公司探望他时，发现雅瞳到来应征大表不满，但哲男却主动替雅瞳说好话。苇庭以四百万投得古董并借出展览，世万与子凌到场参观，但却不约而同借机诋毁她。苇庭临时抽起雅思的工作，雅思不明所以，苇庭坦言得悉她与贺峰相恋之事。苇庭与贺峰饭聚，更向他明言，雅思是处心积累接近他。筱柔收到消息说青杨在工作时受伤，即时偕雅思到内地探望。原来青杨为了雅思恋情之事弄得神不守舍而受伤，令雅思好生难过。贺峰藉探望青杨到内地见雅思，但两人见面时，贺峰以取消两人往法国之行，暗示分手，雅思为此难过不已。公司众人传长胜、日东与雅言间的三角恋甚嚣尘上，长胜亦发觉日东情绪低落，所以特意约他出海详谈，但却无功而回。雅言认为日东是恋上自己，因此自告奋勇去开解他，但最后却发现了日东的秘密。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>25_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

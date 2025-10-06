@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>璎珞床铺被泼水</title>
+  <originaltitle>璎珞床铺被泼水</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <id>6773138</id>
+  <uniqueid default="false" type="tmdb">1556702</uniqueid>
+  <uniqueid default="false" type="trakt">3096605</uniqueid>
+  <uniqueid default="true" type="tvdb">6773138</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>魏璎珞和其他宫女一起入住宫女所，玲珑、锦绣等人因她受了吴总管的夸奖而嫉妒，故意生事，璎珞毫不畏惧，四两拨千斤，强硬地给了众人一个教训，成功立威。随后，躺在床榻上的魏璎珞辗转难眠，脑子里全是将自己一手带大的亲姐姐璎宁躺在棺材中的样子。事实上，她不顾家人阻拦执意进宫，就是为了追查曾在宫里当值的姐姐真正的死因。愉贵人称病躲避侍寝，交好的怡嫔帮她百般遮掩，被高贵妃看出破绽，带着太医赶到愉贵人居住的永和宫，不仅让太医帮愉贵人诊脉，还特赐了枇杷膏给她治咳疾。怡嫔认定枇杷膏有毒，向皇后告发，可却没有验出毒物反应来。高贵妃见状一口咬定怡嫔以下犯上，下令重罚。璎珞等人在干活的时候，宫女所方姑姑带人查找她们是否带了违禁物。她从璎珞的包袱里翻出一只古怪瓷瓶后，责怪璎珞夹带宫外物品入宫，璎珞谎称思乡土，避开了方姑姑的怀疑。 随后，璎珞向绣坊张嬷嬷打听姐姐璎宁，被张嬷嬷一顿斥责，心中深感失望。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2622</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep02.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="2" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

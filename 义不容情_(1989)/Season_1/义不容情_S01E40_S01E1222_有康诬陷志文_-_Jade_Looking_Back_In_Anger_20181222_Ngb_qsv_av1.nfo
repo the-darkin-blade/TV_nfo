@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>有康诬陷志文</title>
+  <originaltitle>Episode 40</originaltitle>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>40</episode>
+  <id>6919034</id>
+  <uniqueid default="false" type="tmdb">1743642</uniqueid>
+  <uniqueid default="false" type="trakt">3254419</uniqueid>
+  <uniqueid default="true" type="tvdb">6919034</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>众同事发觉有康被刺伤，立报警求助。志文慌张万分，胁持有康求见有健。其后志文得有健劝解下，终放过有康，被警方扣留。
+
+世邦经连串事件后，对有康大失信心，欲将大权移交耀国与耀明手上，可借有康独揽有线电视的计划，世邦迫于投鼠忌器，待计划成功后将其权力削去。
+
+美欣想到有康的所为，大感恶心，提出与他离婚，有康坚拒接受，令彼此关系恶化。
+
+志文出庭被审时，有康恶意诬告他，令志文大怒，当庭辱骂有康，其后志文终重获自由。志文情绪低落之际，突接秀文移民消息，令他再受打击。有康发现耀国招兵买马建立自己势力，欲向世邦投诉，但世邦却置诸不理，顿感事有跷蹊，暗中为自己前途打算。有康得知美欣怀有身孕，欲乘机向世邦辞职，威胁他交回大权。怎料美欣决意打掉胎儿，而世邦在董事会内答应有康辞职，有康束手无策。有康赶往医院阻止美欣，幸她改变初衷，答应保留腹中骨肉，但仍未打消她与有康离婚的决心。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1560</width>
+        <height>1076</height>
+        <durationinseconds>1326</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E40.20181222.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="40" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Looking Back In Anger 20181222 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>1222</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1560</width>
+        <height>1076</height>
+        <durationinseconds>1326</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E40.20181222.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1222" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

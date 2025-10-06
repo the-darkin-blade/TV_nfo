@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:05 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>宏瞻照顾病倒嘉乐</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444974</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>目击宏瞻缠绕嘉乐的冠峰，得悉了一切后彷如晴天霹雳，之后更一脸痛苦地拔足狂奔；嘉乐锲而不舍地追赶男友，欲向他解释个中理由，但冠峰却全听不进耳中。冠峰认定嘉乐是为了金钱而背叛自己，嘉乐没法解释委屈万分；冠峰断言不会接受嘉乐以自己来偿还宏瞻的恩惠，令嘉乐更是心如刀割。夜深时，关家各人因联络不上嘉乐而感到忧心忡忡……
+
+嘉安得知　嘉乐变质
+
+嘉安没法再等下去，决定到冠峰家找他询问有关嘉乐的行踪；嘉安看见瑟缩在一角的冠峰，即问他发生了何事，但冠峰却不知从何说起，只表示不会与嘉乐结婚。嘉安以为冠峰欺负妹妹，冠峰被迫只有说出嘉乐与别人有染之事，嘉安听后大表愕然。嘉乐一夜间被爱人唾弃，落魄失魂地回到家门楼下；嘉安看见妹妹出现，忍不住向嘉乐严厉斥责一番，令嘉乐既内疚又难堪。
+
+朗翘安慰　伤心嘉乐
+
+嘉安恨嘉乐不知廉耻，忍不住打了妹妹一记耳光，嘉乐不禁哭成泪人。朗翘见兄妹两人情绪激动，只好劝说让嘉乐在其套房中暂住以平伏心情，嘉安无奈离开。嘉乐休息后终平伏下来，亦明白冠峰已伤痛得不会再接受这段感情。朗翘提议嘉乐向冠峰解释真相，但嘉乐不想伤害冠峰的自尊而拒绝，更要朗翘助她保守秘密。朗翘看着伤心的嘉乐，既怜惜又感无奈。
+
+嘉乐旷工　宏瞻担心
+
+朗翘把嘉乐为救嘉康而欠债一事说出，嘉安恍然得知误会了妹妹，即感懊悔不已；嘉安心痛嘉乐为了家人而断送了自己的幸福，朗翘却提醒他千万不要向美玲及嘉康等人提及此事，以免增添他们无谓的担心。
+
+美玲得悉冠峰与嘉乐取消婚事后，即追问因由，但嘉安只表示让他们两人自行解决。宏瞻自事件发生后多天不见嘉乐出现，忍不住到公关部打听她的情况，可惜只有无功而回。
+
+极怒嘉安　殴打宏瞻
+
+嘉安怒气冲冲地找宏瞻晦气，宏瞻未及反应已吃了嘉安一拳；嘉安不想欠宏瞻的恩惠，竟将辛苦储下的三十万怒掷宏瞻，以示与他划清界线。嘉乐对冠峰思念不止，猛然发现自己根本不能忘记男友，遂不顾一切地找冠峰，希望能挽回感情。嘉乐赶至冠峰家楼下等他出现，但又因疲累过度而病倒；宏瞻因担心嘉乐而一直跟踪她，当他看见嘉乐不支倒地时，急得立即上前扶起失去意识的她……
+
+宏瞻救回　晕倒嘉乐
+
+嘉乐吃过药后睡在宏瞻的另一房屋内，宏瞻细心照顾嘉乐，竟一夜未有回家；蔓华发现宏瞻向自己撒谎，心中顿时感到一阵不安……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1078</height>
+        <durationinseconds>2680</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>18_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

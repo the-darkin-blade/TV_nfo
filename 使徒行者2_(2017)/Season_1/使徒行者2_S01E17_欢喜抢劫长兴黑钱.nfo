@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>欢喜抢劫长兴黑钱</title>
+  <originaltitle>Episode 17</originaltitle>
+  <showtitle>使徒行者2</showtitle>
+  <season>1</season>
+  <episode>17</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">4039190</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>志彬不满杨咏不愿离开棱智，二人不欢而散。此时CIB高级督察张雪晴找上志彬，希望他执行秘密任务。志彬完成任务，但不慎失了佩枪。天堂终日吃喝玩乐，淑梅强行将他带到浩园，说出卓凯为五个殉职卧底所做的事，藉此鼓励天堂重返警队。欢喜收到两箱钜款，以为是Mr. White邀约，到达指定目的地时却遇见神秘女子梁斯敏，斯敏邀请他合作。欢喜派少锋抢劫长兴运送的黑钱，双方展开枪战，少锋与天堂大打出手。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2634</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E17.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="17" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

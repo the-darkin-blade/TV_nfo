@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:01 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>朗翘搬家美玲善待</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444965</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>朗翘在嘉安住院期间，仍把家中的事情安排妥当，众人对朗翘更是佩服；嘉康与笑兰大清早便吵吵闹闹，令嘉荣不能入眠，一脸精神不振。嘉康与嘉乐留意到嘉荣神情闪缩地谈电话，认定他有所隐瞒。
+
+嘉康与嘉乐看见嘉荣躲在厨房内吃药，即怀疑嘉荣染上滥药恶习，不禁大为忧心。嘉康与嘉乐两人偷偷跟踪嘉荣，发现他到了一所夜场酒吧，更向酒保要药。
+
+嘉安决定　搬离关家
+
+嘉康急忙上前阻止，结果发现是误会一场；嘉乐看见嘉荣为了工作而捱至生病，即命嘉荣回家休息，嘉荣明白她疼惜自己。
+
+嘉安出院回家，即向家人宣布会搬出居住，美玲虽对巧琳不舍，但亦无奈接受。嘉安与朗翘积极地到旧区寻找平价租盘，希望减轻生活负担之余，仍可储钱置业；可惜事与愿违，两人多番看楼后亦未觅得心水之选。
+
+佩瑶提议　照顾巧琳
+
+嘉安与朗翘为计算未来的开支而大伤脑筋，朗翘认为应付租楼的支出后根本不能再储钱；两口子开始考虑套房的租盘，朗翘担心将来的居住环境可能比现在更不堪。朗翘与父母喝早茶，佩瑶得知女儿苦况，提议嘉安一家可搬过来，但朗翘为了顾及丈夫的面子而拒绝了父母的好意。佩瑶再向女儿提议，可让巧琳与自己同住，嘉安与朗翘从未想过有此方案，不禁一愕。
+
+觅得套房　准备搬家
+
+嘉安夫妇细心考虑后，也认为让女儿与外公外婆同居是最佳选择，但又担心巧琳能否适应新生活；嘉安终觅到一小套房，两人即筹备搬屋事宜。
+
+关家各人得悉嘉安终要搬至套房居住，皆替他感到无奈。嘉荣见笑兰仍口没遮拦，故意与嘉乐一唱一和，表示要买入伙礼物给兄长，嘉康更刻意问笑兰将会送赠甚么，笑兰碍于面子只得答应送新床褥予嘉安作入伙礼。
+
+嘉荣倒楣　意外被炒
+
+嘉荣送外卖时为闪避一女子卜琼而把公司的电单车撞毁，卜琼之后更不顾而去。由于嘉荣的理由未能令主管信服，结果嘉荣被辞退，只得大呼倒霉。
+
+Mike知Victor仍对嘉乐有意，便再次带嘉乐一起与Victor应酬，但嘉乐以早相约了男朋友为由推却；Mike欺负嘉乐的举动被冠峰看到，冠峰气得与Mike大吵一顿，嘉乐只得急忙把男友带走。冠峰自责未能让嘉乐过舒适生活，反而嘉乐却满脸不在乎。
+
+与女分别　难掩伤心
+
+宏瞻与嘉乐偶遇，看见嘉乐为生活而频扑，宏瞻怜悯之心顿起；宏瞻要下属购下公关公司，纳入成为鼎瞻集团的公关部门……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1080</height>
+        <durationinseconds>2674</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>09_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

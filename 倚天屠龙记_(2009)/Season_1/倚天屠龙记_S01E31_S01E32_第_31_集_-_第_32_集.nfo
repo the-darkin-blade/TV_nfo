@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 31 集</title>
+  <originaltitle>第 31 集</originaltitle>
+  <showtitle>倚天屠龙记</showtitle>
+  <season>1</season>
+  <episode>31</episode>
+  <id>2127241</id>
+  <uniqueid default="false" type="tmdb">2032647</uniqueid>
+  <uniqueid default="false" type="trakt">1286705</uniqueid>
+  <uniqueid default="true" type="tvdb">2127241</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>莫声谷得知宋青书对峨嵋弟子无礼，欲替武当清理门户，教训这不肖弟子，陈友谅竟从后将莫声谷击毙，并推说宋青书是杀人凶手，威胁宋青书加入丐帮，并与之联手消灭张无忌，宋青书身负弑师叔之罪名，唯有听从陈友谅之摆布。张无忌、周芷若、谢逊三人风尘仆仆的回到中原，寄宿明教朱元璋的风阳分坛，见教众被丐帮残杀，气愤。遂命教众追探丐帮下落。成昆与陈友谅会面，点出二人师徒关系，成昆说出他的计画。风阳分坛发现丐帮行踪，张无忌潜往。废墟；丐帮大会上陈友谅引荐宋青书加入丐帮，掌钵龙头质问他是武当 第三代传人，为何要改投丐帮，陈友谅砌辞狡辩，宋青书支吾以对，让匿藏一角的张无忌费解。此时赵敏以张无忌身分来到，点破陈友谅在灵蛇岛向谢逊摇尾乞怜求放他生路，陈友谅老羞成怒欲杀她。同时；成昆往风阳分坛抓走谢逊、周芷若。丐帮大会，赵敏身陷重围，张无忌只得出面救走赵敏。张无忌与赵敏边吵边来到风阳分坛，发现周芷若及谢逊失踪，大惊，经猜测与丐帮有关。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>1082-08-31</premiered>
+  <aired>1082-08-31</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Wenzhou TV</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Heaven.Sword.And.The.Dragon.Sabre.Ep31-32.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="31" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>第 32 集</title>
+  <originaltitle>第 32 集</originaltitle>
+  <showtitle>倚天屠龙记</showtitle>
+  <season>1</season>
+  <episode>32</episode>
+  <id>2127261</id>
+  <uniqueid default="false" type="tmdb">2032648</uniqueid>
+  <uniqueid default="false" type="trakt">1286727</uniqueid>
+  <uniqueid default="true" type="tvdb">2127261</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>陈友谅以周芷若引诱宋青书用五毒失心散毒害张三丰及宋远桥等，好逼张无忌就范，宋青书色迷心窍答应。张无忌赵敏为找谢逊周芷若往废墟找丐帮人，说也奇怪丐帮似乎在地面消失了。时；大雨下，二人只得避雨，刚巧宋远桥师兄弟正在找声谷及宋青书，张无忌怕被师伯看见自己跟赵敏一起，避入内间，惊见莫声谷尸体发出惊呼。宋远桥指责他杀莫声谷。张无忌被诬害弑师伯之名，深深感受被人误会的滋味，赵敏理解张无忌心底里的真爱是自己，却碍于身份、地位的对立而无法结合，只有黯然离去。宋远桥带莫声谷尸体回武当，并向张三丰陈述一切，张三丰不信张无忌之为人会杀师。此时宋青书回来，张三丰发觉其行径有异，暗中注意他的行径，准备以计试探之。宋青书依陈友谅交代把毒药落入井中，武当等人皆中毒晕去；陈友谅等进来见众人倒下来，大喜。孰料；张三丰等人并未中毒，乘势制服史文龙，大义凛然放走陈友谅一行。宋远桥得知宋青书不肖行为，大怒欲杀他谢罪，可终于下不了手，在张三丰的主事下将宋青书逐出武当山。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered>1082-08-31</premiered>
+  <aired>1082-08-31</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Wenzhou TV</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Hdj.The.Heaven.Sword.And.The.Dragon.Sabre.Ep31-32.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="32" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

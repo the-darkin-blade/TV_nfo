@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:22 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>太后重掌大权</title>
+  <originaltitle>太后重掌大权</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id>5527096</id>
+  <uniqueid default="false" type="tmdb">1176454</uniqueid>
+  <uniqueid default="false" type="trakt">2159639</uniqueid>
+  <uniqueid default="true" type="tvdb">5527096</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>太后的又一次病倒彻底将汪国公等人打入了深谷，可这看似难以扭转的颓势也没能让汪国公这只老狐狸轻易罢休。这一次，他将希望全部寄托在了郕王身上。利用自己自幼便习得的媚上争宠之术，汪美麟轻轻松松便将郕王骗入了自己的圈套。收起了阴毒霸道，汪美麟将自己彻彻底底地伪装成了楚楚可怜的少女，成功激起了郕王的怜惜之心。这一次的挑拨虽然未能破坏郕允二人的感情，但还是让本性纯孝的郕王将太后的病情放在了心上。同时，也让汪美麟这个蛇蝎美人认识到了柔弱这个致命武器的重要性。同一时间，在东厂之中受尽了折磨的程十三也终于找到了逃脱的办法。对太后、英宗和允贤等人的刻骨仇恨此时已是支持他活下去的全部理由。另外一边，等待许久的瓦剌使团也终于进京面圣。谁知第一次见面，嚣张跋扈的太师也先便因执意不行跪拜之礼将英宗激得勃然大怒。正在双方僵持不下之际，原本应该卧病在床的太后竟盛装信步走上了大殿。太后与英宗的矛盾被也先清清楚楚地看在了眼里，为了在二人的怒火上再添一把柴，也先故意向太后服软，将英宗无视在了当场，这尴尬的场面令英宗对太后的怨恨更是加深了一分。为了瓦剌的战马，即使面对也先的刻意挑衅，英宗也只得忍耐。朝政的不顺令他感到心力交瘁，唯有允贤进宫的短暂时光，才能让他重拾片刻的欢愉。与焦头烂额的英宗不同，此时的也先却是春风得意。在一个神秘谋士的帮助下，他将大明朝堂的情况摸了个一清二楚，成功制造出了两国的矛盾。此时的郕王对外界的一切尚不知情，身处郕州的他正全心全意地筹备着自己期盼已久的婚礼。前来探望的汪美麟将自己的柔弱发挥到了极致，成功地在郕王心中为自己留下了一个不可磨灭的印迹。也先的阴谋迅速推进，瓦剌大军一时之间长驱直入，竟成难以抵挡之势。正在暴怒的英宗即将下旨发兵之时，太后携太皇太后遗旨信步而至，公然指责了英宗的穷兵黩武，下令重启垂帘之事。一时之间，文武大臣竟都跪地听命，将英宗彻底晾在了一旁。被激怒了的英宗口不择言，竟将太后谋害他生母一事当众说了出来。刚刚收回的亲政之权瞬间又被夺走，帝王尊严尽失的英宗彻底受到了打击。一蹶不振的他将自己关在寝殿之中，连皇后的假意装病都无法将他呼唤出来。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1327</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E25.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

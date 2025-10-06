@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:09:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 3 集</title>
+  <originaltitle>Episode 3</originaltitle>
+  <showtitle>侠客行</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2494433</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>中玉自知闯下弥天大祸，落荒而逃，万剑率众追杀之，冬儿救中玉入无名谷，倪婆婆要依谷规杀他，但凭着中玉对冬儿一片真情，才放他出谷，中玉终被丁璫救回家。
+
+丁不三见中玉武功低微，配不上丁璫，要杀他绝丁璫之心，丁不四偏与不三作对，不准他杀中玉，二人大打出手。
+
+赵香主被海石派人追杀，逃亡时错手打晕中玉，之后再躲进丁家，破天与海石追至，赵香主挟持丁璫，破天奋勇相救，丁璫以为破天是中玉，大感心甜。
+
+丁璫见破天坚决否认自己是中玉，以为他有难言之隐，虽让破天返回长乐帮，却暗中往找他质问，破天手足无措。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1548</width>
+        <height>1076</height>
+        <durationinseconds>2698</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E03.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="3" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

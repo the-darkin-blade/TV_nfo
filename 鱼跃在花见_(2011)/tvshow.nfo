@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:35 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>鱼跃在花见</title>
+  <originaltitle>魚躍在花見</originaltitle>
+  <showtitle>鱼跃在花见</showtitle>
+  <sorttitle/>
+  <year>2011</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>7.2</value>
+      <votes>5</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>鱼至嚣（谢天华 饰）和鱼至赢（张智霖 饰）是同父异母的兄弟俩，和至赢的母亲江映月（吕有惠 饰）一起守着父亲——香港著名的饮食大亨，留下的日本寿司店“月泷纱”。至嚣的目标是成为顶级的寿司大师，一直在不断磨练自己的技艺，和至赢母子俩也相处的很融洽。平静的生活被父亲的原配夫人冷雍容（卢婉茵 饰）所打乱。遭到其打击的至嚣以月泷纱的名号向冷雍容发起挑战，有备而来的冷雍容利用其看护人赛思茏（杨怡 饰）作梗，思茏和至嚣也发生了一段似真似假的爱情，得知真相的至嚣颇为消沉。
+
+　　另一边，至赢在去北海道寻找货源的飞机上邂逅了麻烦的千金小姐姜羌（胡杏儿 饰），二人在菜市场偶然遇到了号称“百目鱼神”的高手慕容澄（刘松仁 饰），而至赢的料理才能也被逐渐开发出来。在事业、爱情、家庭连遭冲击下，最终迎来的是兄弟二人的一决高下……</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"31835","imdb":"tt6357804","tvdb":"229991"}</episodeguide>
+  <id>229991</id>
+  <imdbid>tt6357804</imdbid>
+  <tmdbid>31835</tmdbid>
+  <uniqueid default="false" type="tmdb">31835</uniqueid>
+  <uniqueid default="false" type="imdb">tt6357804</uniqueid>
+  <uniqueid default="true" type="tvdb">229991</uniqueid>
+  <premiered>2011-02-07</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <country>中国香港特别行政区</country>
+  <tag>sushi</tag>
+  <tag>food</tag>
+  <tag>inspirational</tag>
+  <tag>modern drama</tag>
+  <actor>
+    <name>张智霖</name>
+    <role>鱼至赢</role>
+    <profile>https://www.themoviedb.org/person/144860</profile>
+    <tmdbid>144860</tmdbid>
+  </actor>
+  <actor>
+    <name>谢天华</name>
+    <role>鱼至嚣</role>
+    <profile>https://www.themoviedb.org/person/21912</profile>
+    <tmdbid>21912</tmdbid>
+  </actor>
+  <actor>
+    <name>胡杏儿</name>
+    <role>姜羌/慕容咲</role>
+    <profile>https://www.themoviedb.org/person/938251</profile>
+    <tmdbid>938251</tmdbid>
+  </actor>
+  <actor>
+    <name>杨茜尧</name>
+    <role>赛思茏</role>
+    <profile>https://www.themoviedb.org/person/1222259</profile>
+    <tmdbid>1222259</tmdbid>
+  </actor>
+  <actor>
+    <name>刘松仁</name>
+    <role>慕容澄</role>
+    <profile>https://www.themoviedb.org/person/83624</profile>
+    <tmdbid>83624</tmdbid>
+  </actor>
+  <actor>
+    <name>吕有慧</name>
+    <profile>https://www.themoviedb.org/person/1178955</profile>
+    <tmdbid>1178955</tmdbid>
+  </actor>
+  <actor>
+    <name>卢宛茵</name>
+    <profile>https://www.themoviedb.org/person/1395247</profile>
+    <tmdbid>1395247</tmdbid>
+  </actor>
+  <actor>
+    <name>姚莹莹</name>
+    <profile>https://www.themoviedb.org/person/1223074</profile>
+    <tmdbid>1223074</tmdbid>
+  </actor>
+  <actor>
+    <name>张国强</name>
+    <profile>https://www.themoviedb.org/person/1266162</profile>
+    <tmdbid>1266162</tmdbid>
+  </actor>
+  <actor>
+    <name>敖嘉年</name>
+    <profile>https://www.themoviedb.org/person/1240871</profile>
+    <tmdbid>1240871</tmdbid>
+  </actor>
+  <actor>
+    <name>欧瑞伟</name>
+    <profile>https://www.themoviedb.org/person/1365933</profile>
+    <tmdbid>1365933</tmdbid>
+  </actor>
+  <trailer/>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>

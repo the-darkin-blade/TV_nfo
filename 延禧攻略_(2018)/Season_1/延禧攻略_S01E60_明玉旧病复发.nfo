@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:52 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>明玉旧病复发</title>
+  <originaltitle>明玉旧病复发</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <season>1</season>
+  <episode>60</episode>
+  <id>6779887</id>
+  <uniqueid default="false" type="tmdb">1556761</uniqueid>
+  <uniqueid default="false" type="trakt">3104727</uniqueid>
+  <uniqueid default="true" type="tvdb">6779887</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>沉璧向弘历吐露实情，竟是璎珞设计，相救于顺嫔，躲过一劫，璎珞是她的救命恩人。顺嫔答应皇上，替他去试璎珞的真心，皇上惊讶她看穿了自己对她的利用。继后质问璎珞是否背叛，璎珞反唇相讥，道出继后的连环计，先除掉顺嫔，再迁怒于璎珞，使得弘历以为是璎珞怂恿太后斩杀顺嫔，再借刀杀人，除掉璎珞，二人合作破裂。太后疑心重重，再度召见顺嫔和璎珞，质问他们二人是否作假欺骗。顺嫔利用弘历告知她的和安旧事顺利过关，太后误认为顺嫔当真与和安有宿缘 ，对她敌意全消。璎珞教导顺嫔清宫的规矩和礼节，顺嫔渐渐获得太后信赖亲近，甚至有取代璎珞之势。璎珞知道明玉和海兰察相爱，有心促成他们二人的婚事，谁料明玉旧病复发。明玉唯恐自己拖累海兰察，只能拒绝婚约。</plot>
+  <runtime>43</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2627</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Story.Of.Yanxi.Palace.Ep60.Hdtv.1080I.H264.2Audio-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="60" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

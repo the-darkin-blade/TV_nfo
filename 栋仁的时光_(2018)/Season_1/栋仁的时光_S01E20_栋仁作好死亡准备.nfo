@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:15 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>栋仁作好死亡准备</title>
+  <originaltitle>Episode 20</originaltitle>
+  <showtitle>栋仁的时光</showtitle>
+  <season>1</season>
+  <episode>20</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">1512545</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>(大结局)栋仁向众兄弟坦白自己患上绝症，并拥有超能力。光酥伯伯向敏琦道歉，并大赞栋仁是她值得付托的人。敏琦为抽取更多时间陪身边人毅然辞职，栋仁听后若有所思。栋仁发现自己的偷能力时间减弱，作好死亡的心理准备。飞毅向望天提出推却一项除夕活动工作，为栋仁办生日倒数派对。派对上，所有好友都有出席，唯独不见敏琦。派对后，栋仁拍下离别影片，还留下一只家传腕表，敏琦随即紧张寻找他……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Stealing Seconds Ep20 End 20180511 Hdtv 720P X264 2Audio_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="20" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

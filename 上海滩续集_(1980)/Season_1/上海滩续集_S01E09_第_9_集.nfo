@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:10:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 9 集</title>
+  <originaltitle>Episode 9</originaltitle>
+  <showtitle>上海滩续集</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2493294</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>战乱频生，许多国家都开始撤侨。而在此时，力收到消息说云志打算在日军攻陷上海之后，推力做市长。力三思后，决定到南京去。秋霞父亲命秋霞与他离开上海，秋霞因爱国强，坚拒父命，但因房子已卖，秋霞往找镇昌求助，终获云志借出房屋暂住。力欲带燕燕同往南京，燕燕初拒绝，但经力苦劝，终于顺服。力离开上海，却要留下祥贵代为管理业务，祥贵既感恐惧，又觉怨恨。
+
+玲要求力代其表妹找一张机票，但力谓无能为力。而另一方面，由于国强深爱秋霞，他竟然愿意多找一机票，令他们可以同往。祥贵心内嫉妒，遂于玲面前搬弄是非，玲遂往骚扰力，于是秋霞的机票便转给玲的表妹。在威迫利诱之下，力终于买到了所需的机票。临走之时，力还往听音乐会，祥贵亦同往。力对祥贵交代清楚后，便欲乘车离去，但镇昌及云志却突然出现。</plot>
+  <runtime>39</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1076</height>
+        <durationinseconds>2347</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>zho</language>
+        <channels>6</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E09.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="9" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

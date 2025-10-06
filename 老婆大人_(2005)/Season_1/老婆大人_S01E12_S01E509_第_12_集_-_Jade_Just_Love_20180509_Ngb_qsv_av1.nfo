@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:59:53 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 12 集</title>
+  <originaltitle>Episode 12</originaltitle>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>12</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">543574</uniqueid>
+  <uniqueid default="false" type="tvrage">477142</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>国光有外遇的谎话，终于爆煲，希敏立即返回围村，虽然通叔极力阻止，但仍抱走阿B返家！国光不明白老婆为何会嬲自己没有外遇，急忙返家求她原谅，原来希敏是不能原谅他全家夹计欺骗他，所以他不只不能返家，更不可再见阿B！
+
+十三公没有了大嚿饭后茶饭不思，常常趁咏诗带狗散步时，暗中喂它吃肠仔！这天，十三公在丛林中偷听到咏诗快将三十岁的大秘密！宝怡知道希敏想做回裁判官，找戴官商讨这问题，但他说如要复职，要由终审法院任命，不能利用人事关系，就在他们在车内为此事争执时，不幸被记者拍下了照片！另外，咏诗又走上戴官家，邀请他参加自己的生日派对，却又被记者拍下照片！
+
+数天后，杂志刊登了「戴官左右逢源」的头条新闻！宝怡又闯祸，戴官决定入围村向通叔解释原委，刚巧希敏也到来为宝怡说项！通叔最后知道是记者乱作，原谅了女儿，国光想乘机箍煲，却不能要领！宝怡知戴官是正人君子，更开玩笑说喜欢了他！
+
+其实，希敏对国光也开始心软。另一方面，戴官被绯闻缠身，被上司王官下令放大假，更可能再无机会做总裁判官！希敏有机会复职，她返回裁判处取文件时，见戴官心神恍惚，决定送他回家，但被国光撞见二人一起上楼！国光不忿两人共处一室，居然爬上露台偷看，却不慎从高处跌下！</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1588</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E12.20180509.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="12" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Just Love 20180509 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>老婆大人</showtitle>
+  <season>1</season>
+  <episode>509</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1588</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Just.Love.E12.20180509.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="509" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

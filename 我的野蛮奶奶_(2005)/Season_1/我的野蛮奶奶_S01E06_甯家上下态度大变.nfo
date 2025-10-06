@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:53:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>甯家上下态度大变</title>
+  <originaltitle>Episode 6</originaltitle>
+  <showtitle>我的野蛮奶奶</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <id>2624271</id>
+  <uniqueid default="false" type="tmdb">2500803</uniqueid>
+  <uniqueid default="false" type="trakt">1434728</uniqueid>
+  <uniqueid default="true" type="tvdb">2624271</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>自从传出十一身怀骨肉后，甯家上下对十一对她千依百顺，十一亦自觉胜出一仗变得嚣张起来。只是茂春父子常常被夹在两代婆媳中间，令他们非常无奈。
+
+铄兰仍然介意田满等人山贼的身份，设计谎称田满客栈的食物有毒，更给一笔巨款要求田满一家迁出京城。此事刚巧给丰德听到，直言铄兰的布局陷害别人太过份，铄兰最终同意若田满等人到私塾念书，便放过他们。可惜，众山贼只是半途出家，根本不能在短时间内改善本性。后来十一更在无意中得知铄兰「奸计」，出言质问铄兰，但田满却阻止了十一，此举反令铄兰更觉无地自容。
+
+城中多名少女失踪，连带绣坊人手不足，茂春唯有找灵珊到绣坊帮忙令十一呷醋，茂春道出只视灵珊为妹妹，灵珊唯有接受现实，更到月老庙为茂春求福，但灵珊竟然被掳……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:08</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1584</width>
+        <height>1080</height>
+        <durationinseconds>2686</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Wars.Of.In-Laws.Ep06.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="6" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

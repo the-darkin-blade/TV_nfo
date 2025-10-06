@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:30 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>允贤怀上祁钰的孩子</title>
+  <originaltitle>允贤怀上祁钰的孩子</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>48</episode>
+  <id>5546390</id>
+  <uniqueid default="false" type="tmdb">1176485</uniqueid>
+  <uniqueid default="false" type="trakt">2159662</uniqueid>
+  <uniqueid default="true" type="tvdb">5546390</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>大喜过望的朱祁钰立刻将身怀有孕的允贤加封成了皇贵妃。他主动地服软认错，更是在允贤的请求之下答应彻查皇后对她的屡屡陷害。为了孩子，允贤只得压抑住对朱祁钰的厌恶，再一次与他重归于好。允贤有孕的消息彻底摧毁了汪美麟的理智，她将寝宫中所有能砸能摔的东西都破坏殆尽也依然无法消弭心中的怒火。关键时刻，还是老谋深算的汪国公为她出了主意，在他看来，只要女儿坐稳了皇后的位子，任是谁的孩子也都无足轻重。在汪氏父女的策划之下，朱祁钰再一次将谋害允贤的罪责算在了太后的头上。可汪美麟却没想到，自己的阴险歹毒已经引起了皇帝的怀疑，朱祁钰对她的信任只是表面做戏的表演，暗地之中，他已派人再次调查了此事，更对允贤加派了人手保护。朱祁钰没有想到，京城的疫情尚未彻底平息，也先又派来了瓦剌大军要求与大明皇帝会盟。朱祁钰本不愿亲自前往，一是担忧自身安危，二是惧怕宫中空虚帝位不保，可迫于满朝文武的压力，他只得勉强答应。然而宫中母妃与皇后的撺掇又一次动摇了朱祁钰的决心，他竟想出了假意摔伤的法子只为了逃避会盟。关键时刻，又是英宗的主动请缨才总算解了朝廷的燃眉之急。如此高下立判的表现不止令满朝文武咂舌，更令允贤的内心产生了强烈的对比。其实朱祁钰又如何会不知自己软弱得令人耻笑呢，连他自己都觉得英宗比他强得太多。只是如今坐上了皇帝的宝座，却是无论如何也不愿放弃了。允贤在宫中的日子过得不快活极了，爱人失去了往昔的温存，吴太妃也是百般地看她不顺，频频刁难。汪美麟更是又想出了新的法子准备谋害于她。另外一边，英宗与也先的会盟也正式进行了。此时的也先已经彻底取代了阿噶多成为了瓦剌可汗，为了避免自己的子民腹背受敌，他亲口承诺与大明结为叔侄之邦。这天大的喜事令朱祁钰高兴极了，他迫不及待地冲入万安宫中将喜讯汇报给了允贤。经此一番，他彻底想清楚了一切，他看清了自己与英宗之间的差距，更消弭了自己心中所有的芥蒂，决心将过去的一切错误都彻底纠正。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>1320</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E48.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="48" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

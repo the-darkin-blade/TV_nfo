@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:59 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>冠峰借贷助嘉安</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2423924</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>装修师傅关嘉安与香港大部分市民一样，一家六口一起生活在狭小的斗室内；嘉安忙碌完一整天，总喜欢回到家与家人共享天伦。由于家居狭小，各人总是为吃饭、洗澡、看电视等琐事扰扰攘攘，但总算乐也融融。嘉安的妻子施朗翘看见女儿日渐长大，逐希望再次置业令女儿的生活环境得以改善。嘉安与朗翘经过地产代理，即忍不住驻足观看。
+
+朗翘梦想　再次置业
+
+嘉安看见飞升不止的楼价，又令他想起昔日的惨痛经历；嘉安与朗翘97年时曾倾尽积蓄购置了一小型单位作居所，两口子本来生活得轻松甜蜜，但自从03年沙士爆发，令香港经济受到冲击，嘉安收入亦大减，而朗翘则被公司裁员…经过一番考虑，嘉安与朗翘只好在楼市低迷时将居所出售，搬回母亲美玲的单位内与弟妺同住；但多年来朗翘并没有放弃置业梦想。
+
+嘉安得悉　兄长心愿
+
+嘉安亦明白委屈了妻子，遂努力工作希望尽早实现朗翘梦想。嘉安的妹妹嘉乐无意中听到兄长夫妇对话，知道他们为没法筹足置业首期而烦恼，嘉乐亦不无心酸。嘉乐与男友丁冠峰约会，冠峰看见嘉乐闷闷不乐的样子大感奇怪；嘉乐将嘉安欲置业一事告之男友，冠峰只好努力安慰。嘉乐埋头苦干于沉闷的公关公司工作，只有与冠峰约会时才能感受到甜蜜，因此两人十分积极为未来的婚姻生活努力。
+
+冠峰不满　父亲出轨
+
+冠峰放工回家，看见父亲丁海在家中吃饭，即露出一脸厌恶表情；冠峰母亲王丽婵明白儿子不满父亲另有外遇，至令父子两人关系恶劣。
+
+丽婵向儿子劝说要他原谅父亲，但冠峰仍难以接受父亲不忠一事；但冠峰为不想母亲难过，心中对丁海虽有满腔怒火，但亦努力忍耐。嘉安刚完成一小型单位的装修工程，即将薪金发放给一起工作的丁海、余英俊及鲍火燊，丁海看见嘉安提高了他的酬金，知嘉安特意相助，心中满是感激。
+
+冠峰出资　帮助嘉安
+
+冠峰与嘉乐相约嘉安一起吃饭，冠峰拿出一张支票予嘉安，嘉安发现是十多万的款项，不禁吓了一惊更拒绝接受。冠峰告知嘉安此乃向银行借的私人贷款，希望能助嘉安完成置业梦；嘉安一脸认真地回应不能接受冠峰的好意，以免误了妹妹的幸福，冠峰听后无从辩驳只得作罢。嘉安兄妹散步回家时，嘉乐回忆起兄长从小便对自己照顾有加，对嘉安更是敬佩不已……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1080</height>
+        <durationinseconds>2678</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>01_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:09 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>采贻得知冠峰真心</title>
+  <originaltitle>Episode 25</originaltitle>
+  <showtitle>缺宅男女</showtitle>
+  <season>1</season>
+  <episode>25</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2444982</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>冠峰本想与嘉乐重修旧好，但当他看见嘉乐再次与宏瞻走在一起，对她不禁既失望又愤恨。嘉乐随宏瞻到别墅，宏瞻本以为与嘉乐间的感情有所进展，但嘉乐却冷淡地表示两人不应再相见。宏瞻看出嘉乐其实早已对自己动了真情，奈何嘉乐不想破坏宏瞻的家庭幸福而拒绝发展，宏瞻只有耐心等候她改变初衷。嘉安在家中煮饭，期待与朗翘二人世界，但忠伟突然邀请朗翘共晋晚餐……
+
+忠伟借醉　高调示爱
+
+朗翘以为忠伟与她商谈升职一事，岂料忠伟竟借酒意向朗翘示爱，令她尴尬得不知所措；朗翘看着酒醉而步履不稳的忠伟，只好送他回家。嘉安担心妻子安全而到餐厅找她，却惊见朗翘与忠伟依偎一起离开，不禁怒火中烧。嘉安板着脸在家中等候妻子回来，当朗翘回到家中被嘉安严厉质问，不禁大感诧异。朗翘尝试向丈夫解释，但嘉安仍不相信她。
+
+嘉安认错　无功而回
+
+失望的朗翘气愤地与嘉安大吵一场，终拂袖而去。冷静过后，嘉安又如以往般到施家向朗翘认错，但佩瑶坚拒再让嘉安入屋哄回妻子；嘉安不理骚扰到邻居而大声叫嚷，朗翘见多年夫妻但他仍无法了解自己，心如刀割眼泪亦忍不住落下。蔓华心急怀孕，于是又再用验孕棒验孕，可惜又是换来一阵失望；蔓华不想让宏瞻再有藉口到嘉乐身边，决定接受人工受孕。
+
+冠峰豪掷　购入大宅
+
+看见宏瞻陪伴自己到医院植入胚胎，令蔓华更明白胎儿对两夫妻关系的重要性。冠峰所策画的地产项目进展顺利，宏瞻将丰厚的佣金给予他，冠峰即表示要当豪宅业主；冠峰为要向嘉乐证明自己实力不下于宏瞻，大手笔地买下一豪宅自住。冠峰致电给嘉乐邀请她参加入伙派对，令嘉乐大感惊喜，欣然答应。嘉乐期待可以跟冠峰修补关系，高兴地带礼物参加派对。
+
+嘉乐再受　冠峰奚落
+
+岂料当嘉乐进入大屋后，却见采贻俨如女主人般招呼着冠峰的同事，令嘉乐顿时呆了。冠峰刻意在众人面前对采贻呵护备至，令嘉乐更感难受。冠峰为要嘉乐更受伤害，竟将大屋门匙送予采贻，令采贻既感意外又高兴，嘉乐则大受打击伤心不已。
+
+嘉乐看见冠峰将采贻拥入怀中，霍然转身离开大宅；嘉乐茫然不知所措下，竟致电宏瞻要他接自己离开。
+
+冠峰原来尾随嘉乐，更向她奚落一番，嘉乐终明白冠峰一心向她报复而非和好。
+
+采贻归还　冠峰门匙
+
+嘉乐不能置信冠峰竟能如此反面无情，只得悻悻然随宏瞻离去，两人恋情终两败俱伤……</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1918</width>
+        <height>1076</height>
+        <durationinseconds>2705</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>25_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="25" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:54 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 78 集</title>
+  <originaltitle>Episode 78</originaltitle>
+  <showtitle>珠光宝气</showtitle>
+  <season>1</season>
+  <episode>78</episode>
+  <id>432605</id>
+  <uniqueid default="false" type="tmdb">2299492</uniqueid>
+  <uniqueid default="false" type="trakt">1596068</uniqueid>
+  <uniqueid default="true" type="tvdb">432605</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>哲迅丧礼当天，日东发现雅言竟在公司工作。日东劝雅言出席丧礼，但她却以公事繁忙拒绝。日东要长胜协助雅言，但他却毫不关心，在殡仪馆中出现了世万的踪影。晚上雅言到长胜家中交代工作时，长胜突然开口要她到丧礼。雅言虽拒绝，但亦终于忍不住在他面前痛哭流涕。筱柔与青杨在家中看录影带时，发现自己与小孩玩得甚为高兴。当她知那是自已外孙时更是大乐，令青杨与英姐不忍说出孙儿已离世之事。晚上哲男与雅瞳分别欲致电对方，两人终联络上之后，雅瞳竟提出复合。泰川对长胜欲取代雅思与哲男的公司，取得新界北的发展工程甚感兴趣，雅言代表长胜与泰川洽谈。泰川虽对雅言冷嘲热讽，但她仍令双方成功合作。因泰禾在珠海工作，怀德只好要Parco陪自己打网球，却因此遇上哲男。青杨为助筱柔保存记忆，不断鞭策自己用电脑制作短片，更累至伏在桌上睡。雅瞳与哲男重新开始，哲男更特意买晚餐到她的公司一起吃。哲男向雅思提出将决定发展新界北计画，雅思明白他早已取得雅瞳首肯，对此大为反感。</plot>
+  <runtime>45</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.0</aspect>
+        <width>0</width>
+        <height>0</height>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>78_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="78" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

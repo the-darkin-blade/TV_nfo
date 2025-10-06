@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:55:33 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>正我领养伤残孤雏</title>
+  <originaltitle>Episode 1</originaltitle>
+  <showtitle>少年四大名捕</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <id>1334961</id>
+  <uniqueid default="false" type="tmdb">389776</uniqueid>
+  <uniqueid default="false" type="trakt">398200</uniqueid>
+  <uniqueid default="true" type="tvdb">1334961</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>铁手被指盗取古剑后杀死贺鹰，更与贺金大打出手。  神捕司头领诸葛正我收到消息，铁面判官霍道玄下格杀令对付成鼎天；正我欲阻止两家仇杀，更提出鼎天可能遭人陷害。但可惜两家最终同归于尽；正我只能救回鼎天双脚受伤的儿子，更将他改名为无情。廿年过去了，因神捕司在十多年前遭解散，正我多年来只是担任太傅之职，闲时只教教小童读书十分逍遥。
+
+正我当年领养的无情已长大，虽然行动不便，但他尽受正我真传，除思路聪敏外，更练得一身好武功；表面虽冷酷无情，但拥有抱打不平的性格。
+
+正我的旧部下，现任御前带刀侍卫统领的舒无戏，特意托正我替皇上将古剑送赠至拜剑山庄，交予齐王赵昌。
+
+无情最初没兴趣一同出发，但终被无戏说服；众人进入云南，途中更遇上同被邀请欣赏古剑的鹰盟盟主贺鹰与蓝天帮的帮主蓝破天。将到达拜剑山庄时，众人认识了大财主陈大中及打扮成算命先生的追命；贺鹰的义子贺金更被追命戏弄。
+
+齐王赵昌与王妃嫣红招待众来宾时，捕快铁手出现欲逮捕贺鹰，但被齐王阻止；古剑突然失踪，众人更发现贺鹰死在溪边。铁手被指为犯人，但经无情的推理，反指破天有杀贺鹰之嫌疑而被收押。</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1916</width>
+        <height>1080</height>
+        <durationinseconds>2681</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Four.Ep01.Hdtv.1080I.H264-Hdtou_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

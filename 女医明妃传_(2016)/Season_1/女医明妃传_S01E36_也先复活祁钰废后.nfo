@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:56:26 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>也先复活祁钰废后</title>
+  <originaltitle>也先复活祁钰废后</originaltitle>
+  <showtitle>女医明妃传</showtitle>
+  <season>1</season>
+  <episode>36</episode>
+  <id>5540385</id>
+  <uniqueid default="false" type="tmdb">1176469</uniqueid>
+  <uniqueid default="false" type="trakt">2159650</uniqueid>
+  <uniqueid default="true" type="tvdb">5540385</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>也先复活瓦剌撤兵 祁钰废后太后干预为了令也先清醒过来，允贤必须刺激心脉所主的舌头。情急之下，她竟用自己的牙齿将也先的舌头衔了出来。这一幕被偷偷转身的伯颜看在了眼里。只是从他的角度看过去，却将允贤的急救之举错看成了亲吻。这一吻过后，也先竟就真的醒了过来，这惊奇的一幕令不明真相的伯颜深深地震撼住了，真的将允贤当作了天降的贵人。此时的大明皇宫之中，战场归来的朱祁钰终于发现了允贤未死的真相，深感被骗的他暴跳如雷，将怒气撒在了周围的每一个人身上。这怒火在他自玉香口中得知汪美麟曾对允贤施加的威胁之后，更是将他这位蛇蝎心肠的汪皇后恨到了骨头里，甚至不惜燃起了杀心。另外一边的瓦剌部落之中，也先将自己的雷击不死利用到了极致。他的死而复生已经成了自己血脉高贵、天命所授的最佳证明。这一次的大败令也先深感贸然发兵的错误，无奈之下众人只得携着朱祁镇打道回府。对汪美麟的刻苦恨意日日折磨着朱祁钰，忍无可忍之下，他终于决定废掉皇后。就在他即将在亲启的废后诏书之上盖上大印时，太后竟又突然到来，将他喝止在了当场。在气场强大的太后面前，年轻的朱祁钰根本毫无反抗之力。她的一番巧言诡辩轻轻松松便将谋害允贤的责任全数推在了皇后的侍女身上，而汪美麟自然就只成了无辜的上位之人而已。为了安抚皇帝，太后甚至答应了封给允贤一个贵妃之位。在这位权势滔天的太后心中，这已是她能给出的最大恩惠了，而其他人自然只有感恩戴德接受赏赐的权力。望着太后与皇后施施然相携而去的身影，朱祁钰心中深深的无力令他感到一阵绝望。他这个傀儡皇帝，连自己的命运都无法主宰，更何谈掌管大明的江山呢。与事不顺心的朱祁钰一样，被押送回到瓦剌的英宗也迎来了更残酷的对待。这位养尊处优的天潢贵胄竟沦落为了挖矿搬土的辛苦劳工。尽管一同劳作的大明将士都竭尽所能照顾他们的皇帝，但这其中的辛苦仍是英宗从未体验过的。相比于英宗的吃苦受累，允贤就要幸福得多了。此时彻底爱上了允贤的也先自然舍不得心上人受苦，对她的一切要求更是尽可能地满足。借此机会，勤奋好学的允贤也从蒙医那里学来了许多医书上不曾记载的奇妙良方，大大丰富了自己的行医经验。</plot>
+  <runtime>22</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Jiangsu Television</studio>
+  <studio>Dragon Television</studio>
+  <studio>Tangren Media</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>1328</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.The.Imperial.Doctress.E36.Hdtv.H264.1080I-Hdctv_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="36" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

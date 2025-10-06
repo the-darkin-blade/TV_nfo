@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:02 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>有康害死健子</title>
+  <originaltitle>Episode 48</originaltitle>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>48</episode>
+  <id>6919042</id>
+  <uniqueid default="false" type="tmdb">1743650</uniqueid>
+  <uniqueid default="false" type="trakt">3254429</uniqueid>
+  <uniqueid default="true" type="tvdb">6919042</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>数年后，有健偶遇有康，眼见他境况凄凉，顿起同情之心，安排他在酒楼工作。有康工作之时，备受众同事奚落，大表气忿，决心发奋图强，伺机向该批人显颜色。
+
+日富照顾少玲母子多年，在志文与秀文结婚后，终提起勇气向她求婚，可惜少玲仍坚持不想拖累日富，婉拒所求，其后经家人撮合下，二人终成美眷。
+
+有康乘少玲摆婚宴时，送礼物予二人。少玲念在兄妹一场，邀请他入席，令有健大表不满。
+
+有康对有健怀恨于心，欲利用神智有问题伙记阿旺毒杀有健一家，图以胞弟的身份承受其兄遗产，幸有健与楚君逃过大难，而其子则告夭折，令楚君大受刺激。警方调查下，断言阿旺精神错乱下毒陷害有健，令有健半信半疑。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1070</height>
+        <durationinseconds>1308</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E48.20181230.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="48" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Looking Back In Anger 20181230 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>1230</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1070</height>
+        <durationinseconds>1308</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E48.20181230.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1230" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

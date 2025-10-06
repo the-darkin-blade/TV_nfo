@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:51:41 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>至嬴幻想　被迫负责</title>
+  <originaltitle>Episode 15</originaltitle>
+  <showtitle>鱼跃在花见</showtitle>
+  <season>1</season>
+  <episode>15</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2620719</uniqueid>
+  <uniqueid default="false" type="trakt">7447916</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>至嬴沉沦　姜羌伤心
+
+姜羌终与至嬴见面，更说出自己因他的帮助而振作，希望至嬴亦能重新开始，但看到至嬴无动于衷，姜羌忍不住脱口而出，坦言自己已喜欢上他。但至嬴得知此事后的反应竟然是……
+
+另一方面，思茏与至宝在婚纱店试礼服，但至宝却不合作，令雍容大为气愤。这时穿了婚纱的思茏，令至宝眼前一亮，更乖乖的让思茏替自己戴上煲呔；看到儿子与思茏站在一起拍婚纱照，雍容不禁无比感触……
+
+思茏接手　经营集团
+
+思茏约至嚣见面，说出雍容打算把帝煌集团交给她打理；至嚣听后兴奋不已，更说思茏成为鱼太后便能让自己取回月泷纱及入主集团……至嚣欲对思茏好言相向以感谢她的付出，但思茏竟然强颜欢笑。在律师的证婚下，思茏与至宝在鱼家举行简单的仪式，当一对新人宣读誓词完毕，交换戒指后，雍容感到自己的心头大石已放下，当她在签下见证人的名字时，终支持不住昏倒。
+
+雍容被送至急症室，医生宣告已返魂无术，但至宝竟要母亲不要再睡；思茏发现至宝躲在雍容的床上思念母亲，思茏只得向至宝解释雍容已死，并答应会一直照料他……姜羌虽被至嬴气走，但仍留在北海道；成为了晒昆布工人的至嬴到拉面街送货给食肆时与姜羌遇上，两人四目交投后却无言以对……姜羌回到慕容澄的家时，发现他正炮制秘制的酱汁，而慕容澄听到姜羌欲回港后，竟气得去寻找至嬴……
+
+慕容澄欲把至嬴骂醒，至嬴终在师父面前说出自己混乱的心情；姜羌到母亲墓前拜祭，发现墓前放了零食及酱汁，姜羌一嗅之下，发现那是慕容澄特制的酱汁……姜羌将一直以来发生的事组织起来，忍不住到慕容澄家向他质问；慕容澄明白无法隐瞒，只得说出真相，姜羌气愤地指责父亲刻意欺骗自己留在他身旁，慕容澄难过地欲向她解释，但姜羌大叫不会原谅他后便激动离开……
+
+至嬴姜羌　终成一对
+
+姜羌漫无目的地四处游荡，而送货完踏着单车回程的至嬴虽发现她呆坐一旁，却因为两人关系不清而不去理会她。慕容澄将姜羌发现自己身分的事告之嘉穗，更被她启发而请至嬴寻找姜羌；至嬴得知一切后四出寻找姜羌，更因此发现姜羌一直在墙上留给他的便条……
+
+至嬴回慕容澄家向他覆命，更指自己与姜羌正式成为情侣，但却仍无法说服姜羌与他见面。嘉穗特意找姜羌，向她说出有关慕容澄在失去了妻女后的生活……</plot>
+  <runtime>44</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:50:43</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>2684</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>鱼跃在花见 Ep15_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="15" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

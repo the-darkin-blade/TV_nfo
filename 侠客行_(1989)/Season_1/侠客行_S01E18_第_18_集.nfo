@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 21:09:51 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>第 18 集</title>
+  <originaltitle>Episode 18</originaltitle>
+  <showtitle>侠客行</showtitle>
+  <season>1</season>
+  <episode>18</episode>
+  <id/>
+  <uniqueid default="true" type="tmdb">2494448</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>中玉、破天、珊瑚同赴侠客岛，丁璫等人依依送别，破天至此才发觉已对阿诱动情，答允若能返回中原，必与阿綉成亲。
+
+众人抵达侠客岛，龙岛主、木岛主赐各人一碗腊八粥，各人怕粥内有毒而不敢喝，唯破天从容就义，替各人把粥喝下。原来此粥可增功力，破天因而内力大增。
+
+两岛主向各人解释，邀各人到侠客岛乃请各人参详「侠客行」武功，各人如不愿意可自由离岛，但当各人一开始研究「侠客行」武功，即十分着迷，无人愿意离去，只有中玉及破天能保持清醒。
+
+破天误打误撞下，练成侠客神功，但因原有最后之一诗句已失去，破天之武功仍未达最高境界，两岛主心愿达成，送各人离岛后，毁岛自尽。
+
+中玉等返抵中原，发现海石已称霸武林，残杀不肯顺从之忠义之士，腥风血雨，连谢烟客亦归顺于他。</plot>
+  <runtime>46</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 21:09:19</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1066</height>
+        <durationinseconds>2784</durationinseconds>
+      </video>
+      <audio>
+        <codec>MP3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E18.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="18" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

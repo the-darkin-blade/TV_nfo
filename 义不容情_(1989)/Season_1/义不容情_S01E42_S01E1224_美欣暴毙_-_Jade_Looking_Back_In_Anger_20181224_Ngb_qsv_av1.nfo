@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:00 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<episodedetails>
+  <title>美欣暴毙</title>
+  <originaltitle>Episode 42</originaltitle>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>42</episode>
+  <id>6919036</id>
+  <uniqueid default="false" type="tmdb">1743644</uniqueid>
+  <uniqueid default="false" type="trakt">3254422</uniqueid>
+  <uniqueid default="true" type="tvdb">6919036</uniqueid>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot>有康乘美欣产子后，以骨肉勒索冯家巨款，令美欣对其绝望非常，终日酗酒渡日。世邦睹状大表心痛，决以法律途径助美欣抢回儿子的抚养权。有康利用「佳美」的名义，在商界招摇撞骗，被世邦发觉，登报与他断绝关系，令有康大为忿怒，誓要向冯家报仇。
+
+美欣夜深带着几分酒意回家，欲抱儿子饮水时，不慎与他堕下楼梯，令婴儿受伤。另一方面，有康原来已暗中聘请私家侦探拍下照片，以此证据再勒索美欣，令美欣再受打击，健康大受影响。
+
+世邦不甘被有康欺弄，使横手痛殴教训他一顿。有康更表忿怒，再向美欣勒索巨款，美欣为息事宁人，答允有康要求，但已心力交瘁，终因心脏病发而死。美欣出殡后，有康以其合法承继人身份接收其名下物业与「佳美」股票，众人大呼不值。
+
+李华回港渡假，立刻找有健聚旧，但彼此难复当年感情。当李华知道有健与楚君佳期近时，不禁黯然神伤，决与父母到马来西亚定居。</plot>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1080</height>
+        <durationinseconds>1304</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E42.20181224.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="42" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>
+<episodedetails>
+  <title>Jade Looking Back In Anger 20181224 Ngb qsv av1</title>
+  <originaltitle/>
+  <showtitle>义不容情</showtitle>
+  <season>1</season>
+  <episode>1224</episode>
+  <id/>
+  <ratings/>
+  <userrating>0</userrating>
+  <plot/>
+  <runtime>21</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>TVB Jade</studio>
+  <studio>TVB</studio>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>AV1</codec>
+        <aspect>1.43</aspect>
+        <width>1570</width>
+        <height>1080</height>
+        <durationinseconds>1304</durationinseconds>
+      </video>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language/>
+        <channels>6</channels>
+      </audio>
+      <subtitle>
+        <language/>
+      </subtitle>
+      <subtitle>
+        <language>zho</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>TV</source>
+  <edition>NONE</edition>
+  <original_filename>Jade.Looking.Back.In.Anger.E42.20181224.1080I.Hdtv.H264-Ngb_qsv_av1_10bit.mkv</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="1224" id="AIRED" name="" season="1"/>
+  </episode_groups>
+</episodedetails>

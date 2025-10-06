@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2025-09-25 20:52:56 by tinyMediaManager 5.1.8 for JELLYFIN-->
+<tvshow>
+  <title>延禧攻略</title>
+  <originaltitle>延禧攻略</originaltitle>
+  <showtitle>延禧攻略</showtitle>
+  <sorttitle/>
+  <year>2018</year>
+  <top250>0</top250>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.4</value>
+      <votes>29</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>乾隆六年，魏璎珞为寻求长姐死亡真相，入紫禁城为宫女。璎珞经过调查，证实姐姐之死与荒唐王爷弘昼有关，立志要讨回公道。富察皇后娴于礼法，担心璎珞走上歧途，竭力给予她温暖与帮助。在皇后的悉心教导下，魏璎珞一步步成长为正直坚强的宫廷女官，并放下怨恨、认真生活。皇后不幸崩逝，令璎珞对乾隆皇帝误会重重，二人从互相敌视到最终彼此理解、互相扶持。</plot>
+  <tagline/>
+  <runtime>45</runtime>
+  <mpaa/>
+  <certification/>
+  <episodeguide>{"tmdb":"81133","imdb":"tt8865016","wikidata":"Q55540000","tvdb":"350651"}</episodeguide>
+  <id>350651</id>
+  <imdbid>tt8865016</imdbid>
+  <tmdbid>81133</tmdbid>
+  <uniqueid default="false" type="tmdb">81133</uniqueid>
+  <uniqueid default="false" type="imdb">tt8865016</uniqueid>
+  <uniqueid default="false" type="wikidata">Q55540000</uniqueid>
+  <uniqueid default="true" type="tvdb">350651</uniqueid>
+  <premiered>2018-07-19</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Drama</genre>
+  <studio>Netflix</studio>
+  <studio>iQiyi</studio>
+  <studio>Huanyu Film and Television</studio>
+  <studio>iQiyi Motion Pictures</studio>
+  <country>中国</country>
+  <tag>obsession</tag>
+  <tag>concubine</tag>
+  <tag>harem</tag>
+  <tag>revenge</tag>
+  <tag>romance</tag>
+  <tag>older man younger woman relationship</tag>
+  <tag>historical</tag>
+  <tag>18th century</tag>
+  <tag>palace intrigue</tag>
+  <tag>qing dynasty</tag>
+  <tag>sismance</tag>
+  <actor>
+    <name>吴谨言</name>
+    <role>魏璎珞</role>
+    <profile>https://www.themoviedb.org/person/2091760</profile>
+    <tmdbid>2091760</tmdbid>
+  </actor>
+  <actor>
+    <name>聂远</name>
+    <role>爱新觉罗·弘历</role>
+    <profile>https://www.themoviedb.org/person/1251627</profile>
+    <tmdbid>1251627</tmdbid>
+  </actor>
+  <actor>
+    <name>佘诗曼</name>
+    <role>辉发那拉·淑慎</role>
+    <profile>https://www.themoviedb.org/person/123643</profile>
+    <tmdbid>123643</tmdbid>
+  </actor>
+  <actor>
+    <name>秦岚</name>
+    <role>富察·容音</role>
+    <profile>https://www.themoviedb.org/person/1018709</profile>
+    <tmdbid>1018709</tmdbid>
+  </actor>
+  <actor>
+    <name>许凯</name>
+    <role>富察·傅恒</role>
+    <profile>https://www.themoviedb.org/person/2091759</profile>
+    <tmdbid>2091759</tmdbid>
+  </actor>
+  <actor>
+    <name>王媛可</name>
+    <role>苏静好</role>
+    <profile>https://www.themoviedb.org/person/2091754</profile>
+    <tmdbid>2091754</tmdbid>
+  </actor>
+  <actor>
+    <name>谭卓</name>
+    <role>高宁馨</role>
+    <profile>https://www.themoviedb.org/person/938326</profile>
+    <tmdbid>938326</tmdbid>
+  </actor>
+  <actor>
+    <name>张嘉倪</name>
+    <role>沉璧</role>
+    <profile>https://www.themoviedb.org/person/2035421</profile>
+    <tmdbid>2035421</tmdbid>
+  </actor>
+  <actor>
+    <name>姜梓新</name>
+    <role>明玉</role>
+    <profile>https://www.themoviedb.org/person/2250359</profile>
+    <tmdbid>2250359</tmdbid>
+  </actor>
+  <actor>
+    <name>苏青</name>
+    <role>喜塔腊·尔晴</role>
+    <profile>https://www.themoviedb.org/person/2250335</profile>
+    <tmdbid>2250335</tmdbid>
+  </actor>
+  <actor>
+    <name>王冠逸</name>
+    <role>海兰察</role>
+    <profile>https://www.themoviedb.org/person/2091757</profile>
+    <tmdbid>2091757</tmdbid>
+  </actor>
+  <actor>
+    <name>练练</name>
+    <role>珂里叶特·阿妍</role>
+    <profile>https://www.themoviedb.org/person/2091752</profile>
+    <tmdbid>2091752</tmdbid>
+  </actor>
+  <actor>
+    <name>李春嫒</name>
+    <role>纳兰淳雪</role>
+    <profile>https://www.themoviedb.org/person/2091750</profile>
+    <tmdbid>2091750</tmdbid>
+  </actor>
+  <actor>
+    <name>宋春丽</name>
+    <role>孝圣宪皇后</role>
+    <profile>https://www.themoviedb.org/person/1418472</profile>
+    <tmdbid>1418472</tmdbid>
+  </actor>
+  <actor>
+    <name>徐百慧</name>
+    <role>怡嫔</role>
+    <profile>https://www.themoviedb.org/person/1732754</profile>
+    <tmdbid>1732754</tmdbid>
+  </actor>
+  <actor>
+    <name>潘时七</name>
+    <role>大嘉嫔-小嘉嫔</role>
+    <profile>https://www.themoviedb.org/person/1810613</profile>
+    <tmdbid>1810613</tmdbid>
+  </actor>
+  <actor>
+    <name>林辰涵</name>
+    <role>少女淑慎</role>
+    <profile>https://www.themoviedb.org/person/2716834</profile>
+    <tmdbid>2716834</tmdbid>
+  </actor>
+  <actor>
+    <name>高洋</name>
+    <role>乌雅青黛</role>
+    <profile>https://www.themoviedb.org/person/1138126</profile>
+    <tmdbid>1138126</tmdbid>
+  </actor>
+  <actor>
+    <name>黄世亮</name>
+    <role>爱新觉罗·福彭</role>
+    <profile>https://www.themoviedb.org/person/3165932</profile>
+    <tmdbid>3165932</tmdbid>
+  </actor>
+  <actor>
+    <name>唐洋洋</name>
+    <role>甘如玉</role>
+    <profile>https://www.themoviedb.org/person/4156898</profile>
+    <tmdbid>4156898</tmdbid>
+  </actor>
+  <actor>
+    <name>李佳思</name>
+    <role>配 刘姑姑</role>
+    <profile>https://www.themoviedb.org/person/3411870</profile>
+    <tmdbid>3411870</tmdbid>
+  </actor>
+  <trailer>plugin://plugin.video.youtube/play/?video_id=WaBfoB2slns</trailer>
+  <dateadded>2025-09-25 20:49:06</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+</tvshow>
